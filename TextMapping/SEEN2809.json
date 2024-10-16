@@ -1,0 +1,264 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "$(1,0)@「大丈夫ね」",
+      "EN": "`$(1,1)@ ❝Seems fine.❞",
+      "Translation": "`$(1,1)@ ❝Seems fine.❞"
+    },
+    {
+      "JP": "$(1,0)@「安全よ」",
+      "EN": "`$(1,1)@ ❝It's safe.❞",
+      "Translation": "`$(1,1)@ ❝It's safe.❞"
+    },
+    {
+      "JP": "$(1,0)@「なにもなし、っと」",
+      "EN": "`$(1,1)@ ❝Nothing here, huh.❞",
+      "Translation": "`$(1,1)@ ❝Nothing here, huh.❞"
+    },
+    {
+      "JP": "$(1,0)@「危険はなし、と」",
+      "EN": "`$(1,1)@ ❝There's no danger.❞",
+      "Translation": "`$(1,1)@ ❝There's no danger.❞"
+    },
+    {
+      "JP": "$(1,0)@「ふぅ…」",
+      "EN": "`$(1,1)@ ❝Fuu...❞",
+      "Translation": "`$(1,1)@ ❝Fuu...❞"
+    },
+    {
+      "JP": "$(1,0)@「なにもないわ」",
+      "EN": "`$(1,1)@ ❝There's nothing here.❞",
+      "Translation": "`$(1,1)@ ❝There's nothing here.❞"
+    },
+    {
+      "JP": "$(1,0)@「もぬけのからね」",
+      "EN": "`$(1,1)@ ❝This is completely empty.❞",
+      "Translation": "`$(1,1)@ ❝This is completely empty.❞"
+    },
+    {
+      "JP": "$(1,0)@「なーんもなし」",
+      "EN": "`$(1,1)@ ❝No-thing here.❞",
+      "Translation": "`$(1,1)@ ❝No-thing here.❞"
+    },
+    {
+      "JP": "$(1,0)@「空き部屋よ」",
+      "EN": "`$(1,1)@ ❝It's an empty room.❞",
+      "Translation": "`$(1,1)@ ❝It's an empty room.❞"
+    },
+    {
+      "JP": "$(1,0)@「ライトつけてもいいわよ」",
+      "EN": "`$(1,1)@ ❝You can turn on the light.❞",
+      "Translation": "`$(1,1)@ ❝You can turn on the light.❞"
+    },
+    {
+      "JP": "$(1,0)@「敵もトラップもなし、と」",
+      "EN": "`$(1,1)@ ❝No enemies, no traps.❞",
+      "Translation": "`$(1,1)@ ❝No enemies, no traps.❞"
+    },
+    {
+      "JP": "$(1,0)@「慎重にライトを点けて」",
+      "EN": "`$(1,1)@ ❝Turn on the light, carefully.❞",
+      "Translation": "`$(1,1)@ ❝Turn on the light, carefully.❞"
+    },
+    {
+      "JP": "$(1,0)@「ライト、点けて」",
+      "EN": "`$(1,1)@ ❝Light, on.❞",
+      "Translation": "`$(1,1)@ ❝Light, on.❞"
+    },
+    {
+      "JP": "$(1,0)@「とりあえずライト点けて」",
+      "EN": "`$(1,1)@ ❝You might as well turn on the light.❞",
+      "Translation": "`$(1,1)@ ❝You might as well turn on the light.❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、大丈夫!?　撤退よ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, are you alright!? We're retreating!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, are you alright!? We're retreating!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、しっかり！　撤退よ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, hang in there! Retreat!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, hang in there! Retreat!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、撤退よ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, retreat!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, retreat!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、撤退するわよ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, we're retreating!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, we're retreating!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、ここは逃げましょ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, let's get away!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, let's get away!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、逃げるわよ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, we are running!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, we are running!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、無理よ！　一度戻りましょ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, it's impossible, let's return!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, it's impossible, let's return!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、一度戻るわよ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, we're falling back!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, we're falling back!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、出直しましょ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, let's come back later!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, let's come back later!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、無茶よ！　出直しましょ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, don't! Let's come back later!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, don't! Let's come back later!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、引くわよ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, we're pulling out!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, we're pulling out!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、駄目よ！　戻りましょ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, don't! Let's go back!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, don't! Let's go back!❞"
+    },
+    {
+      "JP": "$(1,0)@「理樹くん、戻るわよ！　出直しましょ！」",
+      "EN": "`$(1,1)@ ❝Riki-kun, we're moving back! Let's come back later!❞",
+      "Translation": "`$(1,1)@ ❝Riki-kun, we're moving back! Let's come back later!❞"
+    },
+    {
+      "JP": "朱鷺戸@「トラップよ、撤退！」",
+      "EN": "`Tokido@❝It's a trap, retreat!❞",
+      "Translation": "`Tokido@❝It's a trap, retreat!❞"
+    },
+    {
+      "JP": "朱鷺戸@「あなた、ばっかなの!?　この部屋にはトラップが仕掛けられてるの。そんなところに再突入して何がしたいわけ!?」",
+      "EN": "`Tokido@❝Are you an idiot!?　This room has a trap. What do you want, going into it again!?❞",
+      "Translation": "`Tokido@❝Are you an idiot!?　This room has a trap. What do you want, going into it again!?❞"
+    },
+    {
+      "JP": "朱鷺戸@「ワッツ？　ホワーイ？　説明してみてよ、ねぇ、理樹くん」",
+      "EN": "`Tokido@❝Huh? But why?! Explain, Riki-kun.❞",
+      "Translation": "`Tokido@❝Huh? But why?! Explain, Riki-kun.❞"
+    },
+    {
+      "JP": "理樹@「のんきに話してるような場合じゃないよ、危険だから出よう！」",
+      "EN": "`Riki@❝This is not the time to be shooting the breeze. It's dangerous, let's get out!❞",
+      "Translation": "`Riki@❝This is not the time to be shooting the breeze. It's dangerous, let's get out!❞"
+    },
+    {
+      "JP": "朱鷺戸@「ちょっと理樹くん、おいでなさい」",
+      "EN": "`Tokido@❝Wait, Riki-kun. Come here.❞",
+      "Translation": "`Tokido@❝Wait, Riki-kun. Come here.❞"
+    },
+    {
+      "JP": "理樹@「なに？」",
+      "EN": "`Riki@❝What?❞",
+      "Translation": "`Riki@❝What?❞"
+    },
+    {
+      "JP": "朱鷺戸@「うがー!!」",
+      "EN": "`Tokido@❝Uga-!!❞",
+      "Translation": "`Tokido@❝Uga-!!❞"
+    },
+    {
+      "JP": "理樹@「こわいなぁ…ちょっと寄ってみただけだよ…」",
+      "EN": "`Riki@❝Woah, scary... I just checked it out...❞",
+      "Translation": "`Riki@❝Woah, scary... I just checked it out...❞"
+    },
+    {
+      "JP": "朱鷺戸@「なんなの、そのあなたの、トラップは常に二回以上踏み込む、という癖は？」",
+      "EN": "`Tokido@❝What's up with you, do you have a habit of triggering a trap twice?❞",
+      "Translation": "`Tokido@❝What's up with you, do you have a habit of triggering a trap twice?❞"
+    },
+    {
+      "JP": "朱鷺戸@「性癖なの!?　感じるの!?　この変態!!」",
+      "EN": "`Tokido@❝Is that your fetish!? Does it turn you on?! You pervert!❞",
+      "Translation": "`Tokido@❝Is that your fetish!? Does it turn you on?! You pervert!❞"
+    },
+    {
+      "JP": "朱鷺戸@「感じてるのね？　ど変態!!」",
+      "EN": "`Tokido@❝You're totally enjoying it, aren't you? Super gross!!❞",
+      "Translation": "`Tokido@❝You're totally enjoying it, aren't you? Super gross!!❞"
+    },
+    {
+      "JP": "朱鷺戸@「あなた、あほでしょ」",
+      "EN": "`Tokido@❝You're not very bright, huh?❞",
+      "Translation": "`Tokido@❝You're not very bright, huh?❞"
+    },
+    {
+      "JP": "理樹@「うん、ごめん…」",
+      "EN": "`Riki@❝Yeah, sorry...❞",
+      "Translation": "`Riki@❝Yeah, sorry...❞"
+    },
+    {
+      "JP": "朱鷺戸@「何がしたいの、あなた」",
+      "EN": "`Tokido@❝What are you trying to do?❞",
+      "Translation": "`Tokido@❝What are you trying to do?❞"
+    },
+    {
+      "JP": "理樹@「ごめん…」",
+      "EN": "`Riki@❝Sorry...❞",
+      "Translation": "`Riki@❝Sorry...❞"
+    },
+    {
+      "JP": "朱鷺戸@「この行動に意味があるの？」",
+      "EN": "`Tokido@❝Why did you do that?❞",
+      "Translation": "`Tokido@❝Why did you do that?❞"
+    },
+    {
+      "JP": "理樹@「ごめん…」",
+      "EN": "`Riki@❝Sorry...❞",
+      "Translation": "`Riki@❝Sorry...❞"
+    },
+    {
+      "JP": "理樹@「ふぅ…危ないところだった」",
+      "EN": "`Riki@❝Phew... That was a close call.❞",
+      "Translation": "`Riki@❝Phew... That was a close call.❞"
+    },
+    {
+      "JP": "朱鷺戸@「いっかい、ぐーで殴ってやろうかしら…」",
+      "EN": "`Tokido@❝Should I punch you once...❞",
+      "Translation": "`Tokido@❝Should I punch you once...❞"
+    },
+    {
+      "JP": "コォォッ!!",
+      "EN": "*SMACK*!!",
+      "Translation": "*SMACK*!!"
+    },
+    {
+      "JP": "いきり殴られた…。",
+      "EN": "She punched me with all her strength...",
+      "Translation": "She punched me with all her strength..."
+    },
+    {
+      "JP": "理樹@「ひどいなぁ…」",
+      "EN": "`Riki@❝That's cruel...❞",
+      "Translation": "`Riki@❝That's cruel...❞"
+    },
+    {
+      "JP": "朱鷺戸@「次は殴ると決めてたのよ」",
+      "EN": "`Tokido@❝I decided that I'd punch you next time.❞",
+      "Translation": "`Tokido@❝I decided that I'd punch you next time.❞"
+    },
+    {
+      "JP": "理樹@「凶悪だなぁ…」",
+      "EN": "`Riki@❝You are brutal...❞",
+      "Translation": "`Riki@❝You are brutal...❞"
+    },
+    {
+      "JP": "朱鷺戸@「トラップよりマシでしょ…」",
+      "EN": "`Tokido@❝It's better than a trap...❞",
+      "Translation": "`Tokido@❝It's better than a trap...❞"
+    }
+  ]
+}

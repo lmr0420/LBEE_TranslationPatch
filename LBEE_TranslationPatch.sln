@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LBEE_TranslationPatch", "LBEE_TranslationPatch.csproj", "{18F2B81F-8E09-4E5D-9F30-8CB94CCFBEC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBEE_TranslationPatch", "LBEE_TranslationPatch.csproj", "{18F2B81F-8E09-4E5D-9F30-8CB94CCFBEC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextMapper", "TextMapper\TextMapper.csproj", "{1130A0DB-518F-4F45-898C-4B2EACF874FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{18F2B81F-8E09-4E5D-9F30-8CB94CCFBEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18F2B81F-8E09-4E5D-9F30-8CB94CCFBEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18F2B81F-8E09-4E5D-9F30-8CB94CCFBEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1130A0DB-518F-4F45-898C-4B2EACF874FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1130A0DB-518F-4F45-898C-4B2EACF874FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1130A0DB-518F-4F45-898C-4B2EACF874FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1130A0DB-518F-4F45-898C-4B2EACF874FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,3109 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "鈴@「こまりちゃん、勝負だ」",
+      "EN": "`Rin@❝Komari-chan, let's fight!❞",
+      "Translation": "`Rin@❝Komari-chan, let's fight!❞"
+    },
+    {
+      "JP": "鈴@「くるがや、勝負だ」",
+      "EN": "`Rin@❝Kurugaya, let's fight!❞",
+      "Translation": "`Rin@❝Kurugaya, let's fight!❞"
+    },
+    {
+      "JP": "鈴@「理樹、勝負だ」",
+      "EN": "`Rin@❝Riki, let's fight!❞",
+      "Translation": "`Rin@❝Riki, let's fight!❞"
+    },
+    {
+      "JP": "鈴@「理樹、勝負だが、優しくしてくれ！」",
+      "EN": "`Rin@❝Riki, let's fight, but go easy on me!❞",
+      "Translation": "`Rin@❝Riki, let's fight, but go easy on me!❞"
+    },
+    {
+      "JP": "鈴@「そこの馬鹿、勝負だ」",
+      "EN": "`Rin@❝Hey you! The idiot over there, let's fight!❞",
+      "Translation": "`Rin@❝Hey you! The idiot over there, let's fight!❞"
+    },
+    {
+      "JP": "鈴@「そこの馬鹿、とっちめてやる」",
+      "EN": "`Rin@❝Hey you! The idiot over there, I'm gonna show you what's what!❞",
+      "Translation": "`Rin@❝Hey you! The idiot over there, I'm gonna show you what's what!❞"
+    },
+    {
+      "JP": "鈴@「そこの馬鹿、勝負だ」",
+      "EN": "`Rin@❝Hey you! The idiot over there, let's fight!❞",
+      "Translation": "`Rin@❝Hey you! The idiot over there, let's fight!❞"
+    },
+    {
+      "JP": "鈴@「そこの馬鹿、とっちめてやる」",
+      "EN": "`Rin@❝Hey you! The idiot over there, I'm gonna show you what's what!❞",
+      "Translation": "`Rin@❝Hey you! The idiot over there, I'm gonna show you what's what!❞"
+    },
+    {
+      "JP": "鈴@「恭介、勝負だ」",
+      "EN": "`Rin@❝Kyousuke, let's fight!❞",
+      "Translation": "`Rin@❝Kyousuke, let's fight!❞"
+    },
+    {
+      "JP": "鈴@「この馬鹿兄貴、勝負だ」",
+      "EN": "`Rin@❝Idiot Aniki, let's fight!❞",
+      "Translation": "`Rin@❝Idiot Aniki, let's fight!❞"
+    },
+    {
+      "JP": "鈴@「今日こそは倒す…」",
+      "EN": "`Rin@❝Today, I'm gonna take you down for sure...❞",
+      "Translation": "`Rin@❝Today, I'm gonna take you down for sure...❞"
+    },
+    {
+      "JP": "鈴@「そこのカメン勝負だ…コワッ、こいつコワッ！　でもやる…でもコワッ！」",
+      "EN": "`Rin@❝Hey, you in the mask! Let's fight! Whoa! That's scary! Anyways, let's go! But... that's scary!❞",
+      "Translation": "`Rin@❝Hey, you in the mask! Let's fight! Whoa! That's scary! Anyways, let's go! But... that's scary!❞"
+    },
+    {
+      "JP": "鈴@「そこのおまえ、勝負だ」",
+      "EN": "`Rin@❝Hey, you over there, let's fight!❞",
+      "Translation": "`Rin@❝Hey, you over there, let's fight!❞"
+    },
+    {
+      "JP": "小毬@「仲良くけんかしよ～」",
+      "EN": "`Komari@❝Let's have a friendly match～.❞",
+      "Translation": "`Komari@❝Let's have a friendly match～.❞"
+    },
+    {
+      "JP": "小毬@「あんまり痛くないようにやろう～」",
+      "EN": "`Komari@❝Let's fight, but don't make it hurt～.❞",
+      "Translation": "`Komari@❝Let's fight, but don't make it hurt～.❞"
+    },
+    {
+      "JP": "小毬@「うえーん、絶対勝てない～」",
+      "EN": "`Komari@❝We～h, there's no way～ I can win!❞",
+      "Translation": "`Komari@❝We～h, there's no way～ I can win!❞"
+    },
+    {
+      "JP": "小毬@「ずるはだめだよー」",
+      "EN": "`Komari@❝No sneaky stuff!❞",
+      "Translation": "`Komari@❝No sneaky stuff!❞"
+    },
+    {
+      "JP": "小毬@「クーちゃんならいい試合が出来そうだよー」",
+      "EN": "`Komari@❝If it's against Kuu-chan, I think we can have a good match.❞",
+      "Translation": "`Komari@❝If it's against Kuu-chan, I think we can have a good match.❞"
+    },
+    {
+      "JP": "小毬@「うーん、あんまり変なことしないでね」",
+      "EN": "`Komari@❝Don't do anything weird, OK?❞",
+      "Translation": "`Komari@❝Don't do anything weird, OK?❞"
+    },
+    {
+      "JP": "小毬@「ずるはだめだよー」",
+      "EN": "`Komari@❝No sneaky stuff!❞",
+      "Translation": "`Komari@❝No sneaky stuff!❞"
+    },
+    {
+      "JP": "小毬@「みおちゃんかっこいい～」",
+      "EN": "`Komari@❝You're so cool, Mio-chan～!❞",
+      "Translation": "`Komari@❝You're so cool, Mio-chan～!❞"
+    },
+    {
+      "JP": "小毬@「仲良くけんかしよ～」",
+      "EN": "`Komari@❝Let's have a friendly match～.❞",
+      "Translation": "`Komari@❝Let's have a friendly match～.❞"
+    },
+    {
+      "JP": "小毬@「あんまり痛くないようにやろう～」",
+      "EN": "`Komari@❝Let's fight, but don't make it hurt～.❞",
+      "Translation": "`Komari@❝Let's fight, but don't make it hurt～.❞"
+    },
+    {
+      "JP": "小毬@「うえーん、絶対勝てない～」",
+      "EN": "`Komari@❝We～h, there's no way～ I can win!❞",
+      "Translation": "`Komari@❝We～h, there's no way～ I can win!❞"
+    },
+    {
+      "JP": "小毬@「うえーん、絶対勝てない～」",
+      "EN": "`Komari@❝We～h, there's no way～ I can win!❞",
+      "Translation": "`Komari@❝We～h, there's no way～ I can win!❞"
+    },
+    {
+      "JP": "小毬@「うえーん、絶対勝てない～」",
+      "EN": "`Komari@❝We～h, there's no way～ I can win!❞",
+      "Translation": "`Komari@❝We～h, there's no way～ I can win!❞"
+    },
+    {
+      "JP": "小毬@「ずるはだめだよー」",
+      "EN": "`Komari@❝No sneaky stuff!❞",
+      "Translation": "`Komari@❝No sneaky stuff!❞"
+    },
+    {
+      "JP": "小毬@「よくわからないけどだめだよー」",
+      "EN": "`Komari@❝I don't really understand, but no you can't!❞",
+      "Translation": "`Komari@❝I don't really understand, but no you can't!❞"
+    },
+    {
+      "JP": "小毬@「がんばるよ～」",
+      "EN": "`Komari@❝I'm gonna do my best～.❞",
+      "Translation": "`Komari@❝I'm gonna do my best～.❞"
+    },
+    {
+      "JP": "小毬@「うん、張り切っていきますっ」",
+      "EN": "`Komari@❝Yup! I'm gonna give it my best!❞",
+      "Translation": "`Komari@❝Yup! I'm gonna give it my best!❞"
+    },
+    {
+      "JP": "小毬@「よおーしやるぞー」",
+      "EN": "`Komari@❝O～kay! I'm gonna do it!❞",
+      "Translation": "`Komari@❝O～kay! I'm gonna do it!❞"
+    },
+    {
+      "JP": "小毬@「うーん…仕方ないなぁ…」",
+      "EN": "`Komari@❝Mmm, I guess it can't be helped...❞",
+      "Translation": "`Komari@❝Mmm, I guess it can't be helped...❞"
+    },
+    {
+      "JP": "小毬@「今日はピクニックに行きたいねぇ～」",
+      "EN": "`Komari@❝I wish I could go on a picnic today～.❞",
+      "Translation": "`Komari@❝I wish I could go on a picnic today～.❞"
+    },
+    {
+      "JP": "小毬@「今日もニコニコいい天気ですねー」",
+      "EN": "`Komari@❝Mr. Sun is smiling again today!❞",
+      "Translation": "`Komari@❝Mr. Sun is smiling again today!❞"
+    },
+    {
+      "JP": "小毬@「お散歩日和だよー」",
+      "EN": "`Komari@❝It's a wonderful day for a stroll!❞",
+      "Translation": "`Komari@❝It's a wonderful day for a stroll!❞"
+    },
+    {
+      "JP": "小毬@「らんらんらーん♪」",
+      "EN": "`Komari@❝Lanlanla～n♪❞",
+      "Translation": "`Komari@❝Lanlanla～n♪❞"
+    },
+    {
+      "JP": "小毬@「ふんふんふ～ん♪　やっほっほ～♪」",
+      "EN": "`Komari@❝Funfunfu～n♪ Yahoho～♪❞",
+      "Translation": "`Komari@❝Funfunfu～n♪ Yahoho～♪❞"
+    },
+    {
+      "JP": "小毬@「愛してるってだけでつよくなれる気がしたよ～」",
+      "EN": "`Komari@❝I thought you could become stronger if you only were in love～.❞",
+      "Translation": "`Komari@❝I thought you could become stronger if you only were in love～.❞"
+    },
+    {
+      "JP": "小毬@「Make it as sweet as it can be please!（できるだけ甘くしてください～）」",
+      "EN": "`Komari@❝Make it as sweet as it can be please!❞",
+      "Translation": "`Komari@❝Make it as sweet as it can be please!❞"
+    },
+    {
+      "JP": "小毬@「Come on and play fair!（正々堂々やりましょー）」",
+      "EN": "`Komari@❝Come on and play fair!❞",
+      "Translation": "`Komari@❝Come on and play fair!❞"
+    },
+    {
+      "JP": "来ヶ谷@「おねーさんがいろいろ教育してやろう」",
+      "EN": "`Kurugaya@❝Onee-san will teach you lots of things.❞",
+      "Translation": "`Kurugaya@❝Onee-san will teach you lots of things.❞"
+    },
+    {
+      "JP": "来ヶ谷@「キミはもう少し落ち着きというものを持つといい」",
+      "EN": "`Kurugaya@❝You need to have a little more composure.❞",
+      "Translation": "`Kurugaya@❝You need to have a little more composure.❞"
+    },
+    {
+      "JP": "来ヶ谷@「やっちゃっていいのか？」",
+      "EN": "`Kurugaya@❝You ready to be done?❞",
+      "Translation": "`Kurugaya@❝You ready to be done?❞"
+    },
+    {
+      "JP": "来ヶ谷@「やっちゃっていいのか？」",
+      "EN": "`Kurugaya@❝You ready to be done?❞",
+      "Translation": "`Kurugaya@❝You ready to be done?❞"
+    },
+    {
+      "JP": "来ヶ谷@「やっちゃう以外あるまい」",
+      "EN": "`Kurugaya@❝There is no other option. Let's do this.❞",
+      "Translation": "`Kurugaya@❝There is no other option. Let's do this.❞"
+    },
+    {
+      "JP": "来ヶ谷@「フハハハハハ怖かろうッ」",
+      "EN": "`Kurugaya@❝Mwahahahaha! Scared?❞",
+      "Translation": "`Kurugaya@❝Mwahahahaha! Scared?❞"
+    },
+    {
+      "JP": "来ヶ谷@「やっちゃっていいのか？」",
+      "EN": "`Kurugaya@❝You ready to be done?❞",
+      "Translation": "`Kurugaya@❝You ready to be done?❞"
+    },
+    {
+      "JP": "来ヶ谷@「やっちゃう以外あるまい」",
+      "EN": "`Kurugaya@❝There is no other option. Let's do this.❞",
+      "Translation": "`Kurugaya@❝There is no other option. Let's do this.❞"
+    },
+    {
+      "JP": "来ヶ谷@「フハハハハハ怖かろうッ」",
+      "EN": "`Kurugaya@❝Mwahahahaha! Scared?❞",
+      "Translation": "`Kurugaya@❝Mwahahahaha! Scared?❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、お仕置きの時間だ」",
+      "EN": "`Kurugaya@❝It's punishment time.❞",
+      "Translation": "`Kurugaya@❝It's punishment time.❞"
+    },
+    {
+      "JP": "来ヶ谷@「極刑に処す」",
+      "EN": "`Kurugaya@❝I sentence you to the ultimate punishment.❞",
+      "Translation": "`Kurugaya@❝I sentence you to the ultimate punishment.❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ…やりづらい相手だ」",
+      "EN": "`Kurugaya@❝Hmph, a difficult opponent.❞",
+      "Translation": "`Kurugaya@❝Hmph, a difficult opponent.❞"
+    },
+    {
+      "JP": "来ヶ谷@「お互い妙なものに参加しているものだが…まあ、せっかくだからな」",
+      "EN": "`Kurugaya@❝We were both dragged into something weird... But since the chance presented itself, let's go.❞",
+      "Translation": "`Kurugaya@❝We were both dragged into something weird... But since the chance presented itself, let's go.❞"
+    },
+    {
+      "JP": "来ヶ谷@「おねーさんがやさしく手ほどきしてやろう」",
+      "EN": "`Kurugaya@❝Onee-san will teach you the basics.❞",
+      "Translation": "`Kurugaya@❝Onee-san will teach you the basics.❞"
+    },
+    {
+      "JP": "来ヶ谷@「『アヒーッ』とか言いながら跪くなら許してやらんこともない」",
+      "EN": "`Kurugaya@❝If you kneel before me and neigh like a horse, I will forgive you.❞",
+      "Translation": "`Kurugaya@❝If you kneel before me and neigh like a horse, I will forgive you.❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、ボコボコになるといい」",
+      "EN": "`Kurugaya@❝Hmmm, it'd be nice to beat you up good.❞",
+      "Translation": "`Kurugaya@❝Hmmm, it'd be nice to beat you up good.❞"
+    },
+    {
+      "JP": "来ヶ谷@「いい勝負になる事もなかろう」",
+      "EN": "`Kurugaya@❝It doesn't look like it'll be a fair match.❞",
+      "Translation": "`Kurugaya@❝It doesn't look like it'll be a fair match.❞"
+    },
+    {
+      "JP": "来ヶ谷@「極刑に処す」",
+      "EN": "`Kurugaya@❝I sentence you to the ultimate punishment.❞",
+      "Translation": "`Kurugaya@❝I sentence you to the ultimate punishment.❞"
+    },
+    {
+      "JP": "来ヶ谷@「いい勝負になるだろう」",
+      "EN": "`Kurugaya@❝This might be a good fight.❞",
+      "Translation": "`Kurugaya@❝This might be a good fight.❞"
+    },
+    {
+      "JP": "来ヶ谷@「相変らず人生楽しそうだな」",
+      "EN": "`Kurugaya@❝As always, you seem to be enjoying yourself.❞",
+      "Translation": "`Kurugaya@❝As always, you seem to be enjoying yourself.❞"
+    },
+    {
+      "JP": "来ヶ谷@「手負いを相手にしても面白くはないだろうがな」",
+      "EN": "`Kurugaya@❝Where's the fun if my opponent is wounded.❞",
+      "Translation": "`Kurugaya@❝Where's the fun if my opponent is wounded.❞"
+    },
+    {
+      "JP": "来ヶ谷@「いい勝負になるだろう」",
+      "EN": "`Kurugaya@❝This might be a good fight.❞",
+      "Translation": "`Kurugaya@❝This might be a good fight.❞"
+    },
+    {
+      "JP": "来ヶ谷@「この対戦だけは楽しみにしていた」",
+      "EN": "`Kurugaya@❝I've been looking forward to this fight.❞",
+      "Translation": "`Kurugaya@❝I've been looking forward to this fight.❞"
+    },
+    {
+      "JP": "来ヶ谷@「来客だ。もてなしの準備はいいか？」",
+      "EN": "`Kurugaya@❝A customer, huh? Has the entertainment been prepared?❞",
+      "Translation": "`Kurugaya@❝A customer, huh? Has the entertainment been prepared?❞"
+    },
+    {
+      "JP": "来ヶ谷@「楽しそうだな」",
+      "EN": "`Kurugaya@❝This looks like fun...❞",
+      "Translation": "`Kurugaya@❝This looks like fun...❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、勝負だ」",
+      "EN": "`Kurugaya@❝Uh-huh. Let's get it on.❞",
+      "Translation": "`Kurugaya@❝Uh-huh. Let's get it on.❞"
+    },
+    {
+      "JP": "来ヶ谷@「あまり乗り気ではないがな」",
+      "EN": "`Kurugaya@❝Doesn't look like you're getting into it...❞",
+      "Translation": "`Kurugaya@❝Doesn't look like you're getting into it...❞"
+    },
+    {
+      "JP": "来ヶ谷@「次はキサマだ」",
+      "EN": "`Kurugaya@❝You're next, fool.❞",
+      "Translation": "`Kurugaya@❝You're next, fool.❞"
+    },
+    {
+      "JP": "来ヶ谷@「地獄巡りに招待してやろう」",
+      "EN": "`Kurugaya@❝You're getting a one way ticket to hell.❞",
+      "Translation": "`Kurugaya@❝You're getting a one way ticket to hell.❞"
+    },
+    {
+      "JP": "来ヶ谷@「おねーさんの腕の中で息絶えるがいい」",
+      "EN": "`Kurugaya@❝Isn't it nice, you get to breathe your last in my arms.❞",
+      "Translation": "`Kurugaya@❝Isn't it nice, you get to breathe your last in my arms.❞"
+    },
+    {
+      "JP": "来ヶ谷@「翻弄してやろう」",
+      "EN": "`Kurugaya@❝You'll be at my mercy.❞",
+      "Translation": "`Kurugaya@❝You'll be at my mercy.❞"
+    },
+    {
+      "JP": "クド@「鈴さんはろーです。ストレルカとあそんでやってください」",
+      "EN": "`Kud@❝Rin-san, haro- desu! Please play with Strelka.❞",
+      "Translation": "`Kud@❝Rin-san, haro- desu! Please play with Strelka.❞"
+    },
+    {
+      "JP": "クド@「鈴さんはろーです。ヴェルカとあそんでやってください」",
+      "EN": "`Kud@❝Rin-san, haro- desu! Please play with Belka.❞",
+      "Translation": "`Kud@❝Rin-san, haro- desu! Please play with Belka.❞"
+    },
+    {
+      "JP": "クド@「ごめんなさいっ！　家にはお菓子を待つ２匹の犬がっ！」",
+      "EN": "`Kud@❝I'm sorry! I have two dogs at home waiting for this candy!❞",
+      "Translation": "`Kud@❝I'm sorry! I have two dogs at home waiting for this candy!❞"
+    },
+    {
+      "JP": "クド@「来ヶ谷さんはろーです…あ、あの、わけてくださ…いえ、なんでもないです」",
+      "EN": "`Kud@❝Kurugaya-san, haro- desu... Uh... Please share your... oh... never mind.❞",
+      "Translation": "`Kud@❝Kurugaya-san, haro- desu... Uh... Please share your... oh... never mind.❞"
+    },
+    {
+      "JP": "クド@「来ヶ谷さんはろーです…そ、その、ゆずってくださ…いえ、なんでもないです」",
+      "EN": "`Kud@❝Kurugaya-san, haro- desu... Um... Can you give your... um, never mind.❞",
+      "Translation": "`Kud@❝Kurugaya-san, haro- desu... Um... Can you give your... um, never mind.❞"
+    },
+    {
+      "JP": "クド@「来ヶ谷さんはろーです…え、えと、えと……ぼーん！」",
+      "EN": "`Kud@❝Kurugaya-san, haro- desu... uh... eh... So big!❞",
+      "Translation": "`Kud@❝Kurugaya-san, haro- desu... uh... eh... So big!❞"
+    },
+    {
+      "JP": "クド@「わふー！　たまには逆襲してみたくなりましたっ！　行きますよーっ！」",
+      "EN": "`Kud@❝Wafuu! Every once in a while, I want to fight back! Here we go!❞",
+      "Translation": "`Kud@❝Wafuu! Every once in a while, I want to fight back! Here we go!❞"
+    },
+    {
+      "JP": "クド@「積年のわふるわふられわふるれられ…あれ？　と、とにかく、いざ覚悟！」",
+      "EN": "`Kud@❝For all the long-accumulated r... rongs? Wright... wr... F... Forget it! Prepare yourself!❞",
+      "Translation": "`Kud@❝For all the long-accumulated r... rongs? Wright... wr... F... Forget it! Prepare yourself!❞"
+    },
+    {
+      "JP": "クド@「三枝さんはろーです。マフィンこっそり食べたこと怒ってませんかーっ」",
+      "EN": "`Kud@❝Saigusa-san, haro- desu. Are you mad that I secretly ate your muffin?❞",
+      "Translation": "`Kud@❝Saigusa-san, haro- desu. Are you mad that I secretly ate your muffin?❞"
+    },
+    {
+      "JP": "クド@「ごめんなさいっ！　その本貸してくださいっ」",
+      "EN": "`Kud@❝I'm sorry! Please lend me that book!❞",
+      "Translation": "`Kud@❝I'm sorry! Please lend me that book!❞"
+    },
+    {
+      "JP": "クド@「ごめんなさいっ！　家にはお腹を空かせた２匹の犬がっ！」",
+      "EN": "`Kud@❝I'm sorry! I have two hungry dogs at home...❞",
+      "Translation": "`Kud@❝I'm sorry! I have two hungry dogs at home...❞"
+    },
+    {
+      "JP": "クド@「タクミの技を！　今！　見せるがいいのですーっ！」",
+      "EN": "`Kud@❝Now, I will show you all of Takumi's skills!❞",
+      "Translation": "`Kud@❝Now, I will show you all of Takumi's skills!❞"
+    },
+    {
+      "JP": "クド@「いざっ、お手合わせたのもーぅっ！」",
+      "EN": "`Kud@❝Time to put an end to this!❞",
+      "Translation": "`Kud@❝Time to put an end to this!❞"
+    },
+    {
+      "JP": "クド@「いざいざいざ！　討ち入りにござーる!!」",
+      "EN": "`Kud@❝Go go go! Tally ho!!!❞",
+      "Translation": "`Kud@❝Go go go! Tally ho!!!❞"
+    },
+    {
+      "JP": "クド@「ごめんなさいっ！　家には帰りを待つ２匹の犬が！」",
+      "EN": "`Kud@❝I'm sorry! I have two dogs waiting for me at home...❞",
+      "Translation": "`Kud@❝I'm sorry! I have two dogs waiting for me at home...❞"
+    },
+    {
+      "JP": "クド@「はっ、それは伝説の…」",
+      "EN": "`Kud@❝Wah! That's the legendary...❞",
+      "Translation": "`Kud@❝Wah! That's the legendary...❞"
+    },
+    {
+      "JP": "クド@「ふぁいと、おー！　なのですっ」",
+      "EN": "`Kud@❝Faito! O! Desu!❞",
+      "Translation": "`Kud@❝Faito! O! Desu!❞"
+    },
+    {
+      "JP": "クド@「わふー、ふぁいとふぉーふつれーです…」",
+      "EN": "`Kud@❝Wafuu! Faito! For fuutsure...!❞",
+      "Translation": "`Kud@❝Wafuu! Faito! For fuutsure...!❞"
+    },
+    {
+      "JP": "クド@「まいといずらいと！　吶喊（とっかん）！　とっかんーっ！」",
+      "EN": "`Kud@❝Maito izu raito! Charge! Charge!!!❞",
+      "Translation": "`Kud@❝Maito izu raito! Charge! Charge!!!❞"
+    },
+    {
+      "JP": "葉留佳@「ヘイガール！　いざ尋常に勝負！」",
+      "EN": "`Haruka@❝Hey girl! Let's fight!❞",
+      "Translation": "`Haruka@❝Hey girl! Let's fight!❞"
+    },
+    {
+      "JP": "葉留佳@「はるちんギャラクティカサイキックレボリュゥーションッ!!（ギャラクティカサイキックレボリューション）」",
+      "EN": "`Haruka@❝Haruchin GALACTICA PSYCHIC REVOLUUUUUTION!! (Galactic Psychic Revolution.)❞",
+      "Translation": "`Haruka@❝Haruchin GALACTICA PSYCHIC REVOLUUUUUTION!! (Galactic Psychic Revolution.)❞"
+    },
+    {
+      "JP": "葉留佳@「ヘイガール！　いざ尋常に勝負！」",
+      "EN": "`Haruka@❝Hey girl! Let's fight!❞",
+      "Translation": "`Haruka@❝Hey girl! Let's fight!❞"
+    },
+    {
+      "JP": "葉留佳@「こまりんなど束になってかかってきても怖くはないのですヨ」",
+      "EN": "`Haruka@❝Even if you gang up with Komarin, I ain't scared!❞",
+      "Translation": "`Haruka@❝Even if you gang up with Komarin, I ain't scared!❞"
+    },
+    {
+      "JP": "葉留佳@「あははは勝ち星ひとつゲット確定ッ」",
+      "EN": "`Haruka@❝Ahahaha! The stars are smiling on me!❞",
+      "Translation": "`Haruka@❝Ahahaha! The stars are smiling on me!❞"
+    },
+    {
+      "JP": "葉留佳@「これは下克上の時間なのかー!?」",
+      "EN": "`Haruka@❝It's time for the younger generation to take over!?❞",
+      "Translation": "`Haruka@❝It's time for the younger generation to take over!?❞"
+    },
+    {
+      "JP": "葉留佳@「姉御の胸を借りにきたっス！」",
+      "EN": "`Haruka@❝I came to borrow Anego's boobs!❞",
+      "Translation": "`Haruka@❝I came to borrow Anego's boobs!❞"
+    },
+    {
+      "JP": "葉留佳@「ヘイガール！　いざ尋常に勝負！」",
+      "EN": "`Haruka@❝Hey girl! Let's fight!❞",
+      "Translation": "`Haruka@❝Hey girl! Let's fight!❞"
+    },
+    {
+      "JP": "葉留佳@「いつものよーに軽くあしらってあげますヨ」",
+      "EN": "`Haruka@❝Just like always, I'll brush you off.❞",
+      "Translation": "`Haruka@❝Just like always, I'll brush you off.❞"
+    },
+    {
+      "JP": "葉留佳@「『クド公の手を捻る』という新しいことわざを世に広めてあげよう」",
+      "EN": "`Haruka@❝I will spread the saying ❛To take a candy from Little Kud❜ all over the world.❞",
+      "Translation": "`Haruka@❝I will spread the saying ❛To take a candy from Little Kud❜ all over the world.❞"
+    },
+    {
+      "JP": "葉留佳@「ヘイガール！　いざ尋常に勝負！」",
+      "EN": "`Haruka@❝Hey girl! Let's fight!❞",
+      "Translation": "`Haruka@❝Hey girl! Let's fight!❞"
+    },
+    {
+      "JP": "葉留佳@「みおちんとの宿命の対決も今日で終止符なのですネ…」",
+      "EN": "`Haruka@❝Today's showdown will finally decide the fate between Mio-chin and myself...❞",
+      "Translation": "`Haruka@❝Today's showdown will finally decide the fate between Mio-chin and myself...❞"
+    },
+    {
+      "JP": "葉留佳@「真面目天然めーっ、今日は負けないぞーっ」",
+      "EN": "`Haruka@❝You, serious but airheaded character! I won't lose today!❞",
+      "Translation": "`Haruka@❝You, serious but airheaded character! I won't lose today!❞"
+    },
+    {
+      "JP": "葉留佳@「ヘイボーイ！　いざ尋常に勝負！」",
+      "EN": "`Haruka@❝Hey boy! Let's fight!❞",
+      "Translation": "`Haruka@❝Hey boy! Let's fight!❞"
+    },
+    {
+      "JP": "葉留佳@「はるちんファイナルレインボートルネェードッ!!（びーだま）」",
+      "EN": "`Haruka@❝Haruchin FINAL RAINBOW TORNAAAAADO!! (Marble.)❞",
+      "Translation": "`Haruka@❝Haruchin FINAL RAINBOW TORNAAAAADO!! (Marble.)❞"
+    },
+    {
+      "JP": "葉留佳@「ヘイガイ！　いざ尋常に勝負！」",
+      "EN": "`Haruka@❝Hey guy! Let's fight!❞",
+      "Translation": "`Haruka@❝Hey guy! Let's fight!❞"
+    },
+    {
+      "JP": "葉留佳@「はるちんコズミックファイヤービィーームッ!!（輪ゴム）」",
+      "EN": "`Haruka@❝Haruchin COSMIC FIRE BEAAAAAAAAAAAM!! (Rubber band.)❞",
+      "Translation": "`Haruka@❝Haruchin COSMIC FIRE BEAAAAAAAAAAAM!! (Rubber band.)❞"
+    },
+    {
+      "JP": "葉留佳@「ヘイガイ！　いざ尋常に勝負！」",
+      "EN": "`Haruka@❝Hey guy! Let's fight!❞",
+      "Translation": "`Haruka@❝Hey guy! Let's fight!❞"
+    },
+    {
+      "JP": "葉留佳@「はるちんデストロイヤーハリケーンスペシャルッ!!（べーごま）」",
+      "EN": "`Haruka@❝Haruchin DESTROYER HURRICANE SPECIAL!! (Spinning top.)❞",
+      "Translation": "`Haruka@❝Haruchin DESTROYER HURRICANE SPECIAL!! (Spinning top.)❞"
+    },
+    {
+      "JP": "葉留佳@「ヘイガイ！　いざ尋常に勝負！」",
+      "EN": "`Haruka@❝Hey guy! Let's fight!❞",
+      "Translation": "`Haruka@❝Hey guy! Let's fight!❞"
+    },
+    {
+      "JP": "葉留佳@「はるちんミラクルバイオレンスクラァーッシュッ!!（でこピン）」",
+      "EN": "`Haruka@❝Haruchin MIRACLE VIOLENCE CRUUUUUUUSH!! (Flick on the forehead.)❞",
+      "Translation": "`Haruka@❝Haruchin MIRACLE VIOLENCE CRUUUUUUUSH!! (Flick on the forehead.)❞"
+    },
+    {
+      "JP": "葉留佳@「うう…なんてイカス仮面なんだぁーっ」",
+      "EN": "`Haruka@❝Whoa... That is one cool mask...❞",
+      "Translation": "`Haruka@❝Whoa... That is one cool mask...❞"
+    },
+    {
+      "JP": "葉留佳@「やははー、レッツラファイト～」",
+      "EN": "`Haruka@❝Yahaha! Let's fight!❞",
+      "Translation": "`Haruka@❝Yahaha! Let's fight!❞"
+    },
+    {
+      "JP": "葉留佳@「はるちんフェスティバルの時間ですヨ」",
+      "EN": "`Haruka@❝It's time for the Haruchin Festival!❞",
+      "Translation": "`Haruka@❝It's time for the Haruchin Festival!❞"
+    },
+    {
+      "JP": "葉留佳@「泣いても知りませんヨ」",
+      "EN": "`Haruka@❝Don't blame me if I make you cry.❞",
+      "Translation": "`Haruka@❝Don't blame me if I make you cry.❞"
+    },
+    {
+      "JP": "葉留佳@「三枝クォリティを持ってすれば敵ではないのですヨ」",
+      "EN": "`Haruka@❝No enemy can compete with the Saigusa quality.❞",
+      "Translation": "`Haruka@❝No enemy can compete with the Saigusa quality.❞"
+    },
+    {
+      "JP": "葉留佳@「はるちんの受けた潜入指令は実は政府の陰謀だった！　衝撃のアクション超大作！　『沈黙のはるちん』この秋公開予定!!」",
+      "EN": "`Haruka@❝Haruchin's infiltration order was actually a government plot! An epic action film to blow you away! ❛Haruchin of Silence,❜ coming this fall!!❞",
+      "Translation": "`Haruka@❝Haruchin's infiltration order was actually a government plot! An epic action film to blow you away! ❛Haruchin of Silence,❜ coming this fall!!❞"
+    },
+    {
+      "JP": "葉留佳@「ゆけ！　はるちんの僕たちよ!!　特にそういうのはいないけど！」",
+      "EN": "`Haruka@❝Onwards! Minions of Haruchin!! ...Even though I don't really have any!❞",
+      "Translation": "`Haruka@❝Onwards! Minions of Haruchin!! ...Even though I don't really have any!❞"
+    },
+    {
+      "JP": "葉留佳@「貴様のようなやつがいるから争いはなくならないんだーっ!!　って言ってみたかっただけデース」",
+      "EN": "`Haruka@❝It's because people like you exist that we must fight!! ...is something I've always wanted to say.❞",
+      "Translation": "`Haruka@❝It's because people like you exist that we must fight!! ...is something I've always wanted to say.❞"
+    },
+    {
+      "JP": "葉留佳@「はるちんギガンテックドリルスマッシャァーッ!!（えんぴつ）」",
+      "EN": "`Haruka@❝Haruchin GIGANTIC DRILL SMASHEEEEER!! (Pencil.)❞",
+      "Translation": "`Haruka@❝Haruchin GIGANTIC DRILL SMASHEEEEER!! (Pencil.)❞"
+    },
+    {
+      "JP": "葉留佳@「はるちんハイパーライティングイレイザァーッ!!（消しゴム）」",
+      "EN": "`Haruka@❝Haruchin HYPER LIGHTNING LASEEEEER!! (Eraser.)❞",
+      "Translation": "`Haruka@❝Haruchin HYPER LIGHTNING LASEEEEER!! (Eraser.)❞"
+    },
+    {
+      "JP": "西園@「鈴さん、ごめんなさい」",
+      "EN": "`Nishizono@❝Rin-san, my apologies.❞",
+      "Translation": "`Nishizono@❝Rin-san, my apologies.❞"
+    },
+    {
+      "JP": "西園@「猫…うらやましいです」",
+      "EN": "`Nishizono@❝A cat... I'm jealous.❞",
+      "Translation": "`Nishizono@❝A cat... I'm jealous.❞"
+    },
+    {
+      "JP": "西園@「猫の肉球を触っていると、時間が経つのを忘れませんか？」",
+      "EN": "`Nishizono@❝When you're touching a cat's paws, don't you lose track of time?❞",
+      "Translation": "`Nishizono@❝When you're touching a cat's paws, don't you lose track of time?❞"
+    },
+    {
+      "JP": "西園@「神北さん、ごめんなさい」",
+      "EN": "`Nishizono@❝Kamikita-san, my apologies.❞",
+      "Translation": "`Nishizono@❝Kamikita-san, my apologies.❞"
+    },
+    {
+      "JP": "西園@「すみません、お邪魔します」",
+      "EN": "`Nishizono@❝My apologies, excuse me.❞",
+      "Translation": "`Nishizono@❝My apologies, excuse me.❞"
+    },
+    {
+      "JP": "西園@「お菓子ばかり食べていると、太りますよ」",
+      "EN": "`Nishizono@❝If you only eat candy, you'll get fat.❞",
+      "Translation": "`Nishizono@❝If you only eat candy, you'll get fat.❞"
+    },
+    {
+      "JP": "西園@「来ヶ谷さん、ごめんなさい…とは言いませんよ」",
+      "EN": "`Nishizono@❝Kurugaya-san, I apologize... is something I won't be saying.❞",
+      "Translation": "`Nishizono@❝Kurugaya-san, I apologize... is something I won't be saying.❞"
+    },
+    {
+      "JP": "西園@「あらためて近くで見ると大きいですね…あの、身長のことですよ」",
+      "EN": "`Nishizono@❝Now that I really see them up close again, they're big... Uh, you're big... uh... I mean tall.❞",
+      "Translation": "`Nishizono@❝Now that I really see them up close again, they're big... Uh, you're big... uh... I mean tall.❞"
+    },
+    {
+      "JP": "西園@「楽しいですか」",
+      "EN": "`Nishizono@❝Having fun?❞",
+      "Translation": "`Nishizono@❝Having fun?❞"
+    },
+    {
+      "JP": "西園@「実践はお断りしたいところですが…」",
+      "EN": "`Nishizono@❝I would like to not practice, but...❞",
+      "Translation": "`Nishizono@❝I would like to not practice, but...❞"
+    },
+    {
+      "JP": "西園@「あなたは死にそうにないですね」",
+      "EN": "`Nishizono@❝You don't seem like you're on the verge of dying.❞",
+      "Translation": "`Nishizono@❝You don't seem like you're on the verge of dying.❞"
+    },
+    {
+      "JP": "西園@「能美さん、ごめんなさい」",
+      "EN": "`Nishizono@❝Noumi-san, I apologize.❞",
+      "Translation": "`Nishizono@❝Noumi-san, I apologize.❞"
+    },
+    {
+      "JP": "西園@「今日ばかりは、敵同士です」",
+      "EN": "`Nishizono@❝For today, we're enemies.❞",
+      "Translation": "`Nishizono@❝For today, we're enemies.❞"
+    },
+    {
+      "JP": "西園@「お手柔らかに…」",
+      "EN": "`Nishizono@❝Don't go too hard on me...❞",
+      "Translation": "`Nishizono@❝Don't go too hard on me...❞"
+    },
+    {
+      "JP": "西園@「わたしは犬よりも猫派です」",
+      "EN": "`Nishizono@❝I'm more of a cat person than a dog person.❞",
+      "Translation": "`Nishizono@❝I'm more of a cat person than a dog person.❞"
+    },
+    {
+      "JP": "西園@「三枝さん、ごめんなさい…とは言いませんよ」",
+      "EN": "`Nishizono@❝Saigusa-san, I apologize... is something I won't be saying.❞",
+      "Translation": "`Nishizono@❝Saigusa-san, I apologize... is something I won't be saying.❞"
+    },
+    {
+      "JP": "西園@「…さて、やりましょうか」",
+      "EN": "`Nishizono@❝Well then... shall we get to it?❞",
+      "Translation": "`Nishizono@❝Well then... shall we get to it?❞"
+    },
+    {
+      "JP": "西園@「…遠慮しなくて良さそうなので、きました」",
+      "EN": "`Nishizono@❝I figured I'd need not hold back, so here I am.❞",
+      "Translation": "`Nishizono@❝I figured I'd need not hold back, so here I am.❞"
+    },
+    {
+      "JP": "西園@「意味がわかりません。…あなたの、色々」",
+      "EN": "`Nishizono@❝I don't understand what you mean by... your... stuff...❞",
+      "Translation": "`Nishizono@❝I don't understand what you mean by... your... stuff...❞"
+    },
+    {
+      "JP": "西園@「あなたを見ていると…いえ、やめておきましょう」",
+      "EN": "`Nishizono@❝When I'm looking at you, I... No, never mind.❞",
+      "Translation": "`Nishizono@❝When I'm looking at you, I... No, never mind.❞"
+    },
+    {
+      "JP": "西園@「直枝さん、ごめんなさい」",
+      "EN": "`Nishizono@❝Naoe-san, I apologize.❞",
+      "Translation": "`Nishizono@❝Naoe-san, I apologize.❞"
+    },
+    {
+      "JP": "西園@「ふつつかものですが、よろしくお願いします。………間違えました」",
+      "EN": "`Nishizono@❝I may be incompetent, but I leave myself in your care... No, that's not it...❞",
+      "Translation": "`Nishizono@❝I may be incompetent, but I leave myself in your care... No, that's not it...❞"
+    },
+    {
+      "JP": "西園@「油断すると…痛い目を見るかも」",
+      "EN": "`Nishizono@❝If you don't pay attention, you're going to get in trouble.❞",
+      "Translation": "`Nishizono@❝If you don't pay attention, you're going to get in trouble.❞"
+    },
+    {
+      "JP": "西園@「井ノ原さん、ごめんなさい…とは言いませんよ」",
+      "EN": "`Nishizono@❝Inohara-san, I apologize... is something I won't be saying.❞",
+      "Translation": "`Nishizono@❝Inohara-san, I apologize... is something I won't be saying.❞"
+    },
+    {
+      "JP": "西園@「…正直、少し不安です」",
+      "EN": "`Nishizono@❝Honestly... I'm a little nervous.❞",
+      "Translation": "`Nishizono@❝Honestly... I'm a little nervous.❞"
+    },
+    {
+      "JP": "西園@「楽しいですか」",
+      "EN": "`Nishizono@❝Having fun?❞",
+      "Translation": "`Nishizono@❝Having fun?❞"
+    },
+    {
+      "JP": "西園@「カツばかり食べて野菜を摂らないのに、その肉体。…理不尽です」",
+      "EN": "`Nishizono@❝Even though you only eat cutlets and ignore the vegetables... That body... That's unfair.❞",
+      "Translation": "`Nishizono@❝Even though you only eat cutlets and ignore the vegetables... That body... That's unfair.❞"
+    },
+    {
+      "JP": "西園@「宮沢さん、ごめんなさい…とは言いませんよ」",
+      "EN": "`Nishizono@❝Miyazawa-san, I apologize... is something I won't be saying.❞",
+      "Translation": "`Nishizono@❝Miyazawa-san, I apologize... is something I won't be saying.❞"
+    },
+    {
+      "JP": "西園@「いざ尋常に勝負っ…その格好を見ると、思わず言いたくなります」",
+      "EN": "`Nishizono@❝Let's fight! ...is what I want to say when I see that outfit.❞",
+      "Translation": "`Nishizono@❝Let's fight! ...is what I want to say when I see that outfit.❞"
+    },
+    {
+      "JP": "西園@「楽しいですか」",
+      "EN": "`Nishizono@❝Having fun?❞",
+      "Translation": "`Nishizono@❝Having fun?❞"
+    },
+    {
+      "JP": "西園@「髪を立ててばかりいると、将来毛髪に不自由しますよ」",
+      "EN": "`Nishizono@❝If your hair always stands up, it'll be unruly in the future.❞",
+      "Translation": "`Nishizono@❝If your hair always stands up, it'll be unruly in the future.❞"
+    },
+    {
+      "JP": "西園@「恭介さん、ごめんなさい…とは言いませんよ」",
+      "EN": "`Nishizono@❝Kyousuke-san, I apologize... is something I won't be saying.❞",
+      "Translation": "`Nishizono@❝Kyousuke-san, I apologize... is something I won't be saying.❞"
+    },
+    {
+      "JP": "西園@「恭介さんが言い出したことです。嫌とは言いませんよね」",
+      "EN": "`Nishizono@❝This is what you suggested. I can't say I'm unhappy with it.❞",
+      "Translation": "`Nishizono@❝This is what you suggested. I can't say I'm unhappy with it.❞"
+    },
+    {
+      "JP": "西園@「楽しいですか」",
+      "EN": "`Nishizono@❝Having fun?❞",
+      "Translation": "`Nishizono@❝Having fun?❞"
+    },
+    {
+      "JP": "西園@「あなたは死にそうにないですね」",
+      "EN": "`Nishizono@❝You don't seem like you're on the verge of dying.❞",
+      "Translation": "`Nishizono@❝You don't seem like you're on the verge of dying.❞"
+    },
+    {
+      "JP": "西園@「誰かわかりませんが、やってしまいますよ？」",
+      "EN": "`Nishizono@❝I don't know you, but shall we go on?❞",
+      "Translation": "`Nishizono@❝I don't know you, but shall we go on?❞"
+    },
+    {
+      "JP": "西園@「…どべというのも嫌なので」",
+      "EN": "`Nishizono@❝I don't want to be last place.❞",
+      "Translation": "`Nishizono@❝I don't want to be last place.❞"
+    },
+    {
+      "JP": "西園@「女にもやらなきゃいけない時がある…ということでしょうか」",
+      "EN": "`Nishizono@❝There are times when a girl's just gotta do something, right?❞",
+      "Translation": "`Nishizono@❝There are times when a girl's just gotta do something, right?❞"
+    },
+    {
+      "JP": "西園@「今日はわたしが攻める番です。攻め…なんて甘美な響きでしょう」",
+      "EN": "`Nishizono@❝Today, it's my turn to mount the assault. ❛Mount❜ and ❛assault❜... that has a pleasant ring.❞",
+      "Translation": "`Nishizono@❝Today, it's my turn to mount the assault. ❛Mount❜ and ❛assault❜... that has a pleasant ring.❞"
+    },
+    {
+      "JP": "真人@「悪いな、鈴。勝負だ」",
+      "EN": "`Masato@❝Sorry about this, Rin. It's go time.❞",
+      "Translation": "`Masato@❝Sorry about this, Rin. It's go time.❞"
+    },
+    {
+      "JP": "真人@「筋肉１０％セーブでいくかな」",
+      "EN": "`Masato@❝I can probably keep 10% of my Muscle in reserve...❞",
+      "Translation": "`Masato@❝I can probably keep 10% of my Muscle in reserve...❞"
+    },
+    {
+      "JP": "真人@「鈴、オレの強さをとくと味わえ」",
+      "EN": "`Masato@❝Rin, I want you to savor my strength.❞",
+      "Translation": "`Masato@❝Rin, I want you to savor my strength.❞"
+    },
+    {
+      "JP": "真人@「悪いな、小毬。勝負だ」",
+      "EN": "`Masato@❝Sorry about this, Komari. Let's do this.❞",
+      "Translation": "`Masato@❝Sorry about this, Komari. Let's do this.❞"
+    },
+    {
+      "JP": "真人@「筋肉５０％セーブでいくかな」",
+      "EN": "`Masato@❝I can probably keep 50% of my Muscle in reserve...❞",
+      "Translation": "`Masato@❝I can probably keep 50% of my Muscle in reserve...❞"
+    },
+    {
+      "JP": "真人@「オレとやりあう羽目になるとは…可哀想に」",
+      "EN": "`Masato@❝Having to go up against me... I really pity you.❞",
+      "Translation": "`Masato@❝Having to go up against me... I really pity you.❞"
+    },
+    {
+      "JP": "真人@「悪いな、来ヶ谷。勝負だ」",
+      "EN": "`Masato@❝Sorry about this, Kurugaya. Fight time.❞",
+      "Translation": "`Masato@❝Sorry about this, Kurugaya. Fight time.❞"
+    },
+    {
+      "JP": "真人@「筋肉０％セーブでいくかな」",
+      "EN": "`Masato@❝I can probably keep 0% of my Muscle in reserve...❞",
+      "Translation": "`Masato@❝I can probably keep 0% of my Muscle in reserve...❞"
+    },
+    {
+      "JP": "真人@「ブラジルまで深く沈ませてやるぜ」",
+      "EN": "`Masato@❝I'll sink you clear to Brazil!❞",
+      "Translation": "`Masato@❝I'll sink you clear to Brazil!❞"
+    },
+    {
+      "JP": "真人@「オレとやりあう羽目になるとは…可哀想に」",
+      "EN": "`Masato@❝Having to go up against me... I really pity you.❞",
+      "Translation": "`Masato@❝Having to go up against me... I really pity you.❞"
+    },
+    {
+      "JP": "真人@「悪いな、クド公。勝負だ」",
+      "EN": "`Masato@❝Sorry about this, Little Kud. Let's do this.❞",
+      "Translation": "`Masato@❝Sorry about this, Little Kud. Let's do this.❞"
+    },
+    {
+      "JP": "真人@「筋肉４０％セーブでいくかな」",
+      "EN": "`Masato@❝I can probably keep 40% of my Muscle in reserve...❞",
+      "Translation": "`Masato@❝I can probably keep 40% of my Muscle in reserve...❞"
+    },
+    {
+      "JP": "真人@「オレとやりあう羽目になるとは…可哀想に」",
+      "EN": "`Masato@❝Having to go up against me... I really pity you.❞",
+      "Translation": "`Masato@❝Having to go up against me... I really pity you.❞"
+    },
+    {
+      "JP": "真人@「悪いな、三枝。勝負だ」",
+      "EN": "`Masato@❝Sorry about this, Saigusa. Let's fight.❞",
+      "Translation": "`Masato@❝Sorry about this, Saigusa. Let's fight.❞"
+    },
+    {
+      "JP": "真人@「筋肉３０％セーブでいくかな」",
+      "EN": "`Masato@❝I can probably keep 30% of my Muscle in reserve...❞",
+      "Translation": "`Masato@❝I can probably keep 30% of my Muscle in reserve...❞"
+    },
+    {
+      "JP": "真人@「オレとやりあう羽目になるとは…可哀想に」",
+      "EN": "`Masato@❝Having to go up against me... I really pity you.❞",
+      "Translation": "`Masato@❝Having to go up against me... I really pity you.❞"
+    },
+    {
+      "JP": "真人@「勝負だ、西園！」",
+      "EN": "`Masato@❝Let's go, Nishizono!❞",
+      "Translation": "`Masato@❝Let's go, Nishizono!❞"
+    },
+    {
+      "JP": "真人@「筋肉６０％セーブでいくかな」",
+      "EN": "`Masato@❝I can probably keep 60% of my Muscle in reserve...❞",
+      "Translation": "`Masato@❝I can probably keep 60% of my Muscle in reserve...❞"
+    },
+    {
+      "JP": "真人@「オレとやりあう羽目になるとは…可哀想に」",
+      "EN": "`Masato@❝Having to go up against me... I really pity you.❞",
+      "Translation": "`Masato@❝Having to go up against me... I really pity you.❞"
+    },
+    {
+      "JP": "真人@「なんでも持ってきやがれよっ」",
+      "EN": "`Masato@❝Use whatever you want, I don't care.❞",
+      "Translation": "`Masato@❝Use whatever you want, I don't care.❞"
+    },
+    {
+      "JP": "真人@「勝負だ、理樹！」",
+      "EN": "`Masato@❝It's go time, Riki!❞",
+      "Translation": "`Masato@❝It's go time, Riki!❞"
+    },
+    {
+      "JP": "真人@「悪いな、理樹。今だけは同情するぜ」",
+      "EN": "`Masato@❝Sorry, Riki. I'm only going to sympathize with you this time.❞",
+      "Translation": "`Masato@❝Sorry, Riki. I'm only going to sympathize with you this time.❞"
+    },
+    {
+      "JP": "真人@「勝負だ、謙吾！」",
+      "EN": "`Masato@❝It's go time, Kengo!❞",
+      "Translation": "`Masato@❝It's go time, Kengo!❞"
+    },
+    {
+      "JP": "真人@「ここまできてやったぜ、謙吾」",
+      "EN": "`Masato@❝I've come all this way, Kengo.❞",
+      "Translation": "`Masato@❝I've come all this way, Kengo.❞"
+    },
+    {
+      "JP": "真人@「おっと、こんなところで出会うとは運命的だな、謙吾」",
+      "EN": "`Masato@❝Well now... Meeting at a time like this... Kengo, it must be fate.❞",
+      "Translation": "`Masato@❝Well now... Meeting at a time like this... Kengo, it must be fate.❞"
+    },
+    {
+      "JP": "真人@「はは…武者震いがとめらんねぇえぇえぇ」",
+      "EN": "`Masato@❝Haha! I can't stop THE RUSH!!!!❞",
+      "Translation": "`Masato@❝Haha! I can't stop THE RUSH!!!!❞"
+    },
+    {
+      "JP": "真人@「勝負だ、恭介！」",
+      "EN": "`Masato@❝Let's go, Kyousuke!❞",
+      "Translation": "`Masato@❝Let's go, Kyousuke!❞"
+    },
+    {
+      "JP": "真人@「悪いな、恭介。今だけは同情するぜ」",
+      "EN": "`Masato@❝Sorry, Kyousuke. I'm only going to sympathize with you this time.❞",
+      "Translation": "`Masato@❝Sorry, Kyousuke. I'm only going to sympathize with you this time.❞"
+    },
+    {
+      "JP": "真人@「見つけたぜカメン野郎。オレは強いぜ？」",
+      "EN": "`Masato@❝I found you, mask bastard. Know my strength!❞",
+      "Translation": "`Masato@❝I found you, mask bastard. Know my strength!❞"
+    },
+    {
+      "JP": "真人@「悪いが、こんなところで遊んでられねぇんでね」",
+      "EN": "`Masato@❝Sorry, but I ain't gonna play in a place like this.❞",
+      "Translation": "`Masato@❝Sorry, but I ain't gonna play in a place like this.❞"
+    },
+    {
+      "JP": "謙吾@「勝負だ、鈴」",
+      "EN": "`Kengo@❝Let's fight, Rin.❞",
+      "Translation": "`Kengo@❝Let's fight, Rin.❞"
+    },
+    {
+      "JP": "謙吾@「悪いな、鈴」",
+      "EN": "`Kengo@❝Sorry, Rin.❞",
+      "Translation": "`Kengo@❝Sorry, Rin.❞"
+    },
+    {
+      "JP": "謙吾@「通してもらうぞ、鈴」",
+      "EN": "`Kengo@❝You'll have to let me pass, Rin.❞",
+      "Translation": "`Kengo@❝You'll have to let me pass, Rin.❞"
+    },
+    {
+      "JP": "謙吾@「まさかこんな酷なカードが生まれるとはな」",
+      "EN": "`Kengo@❝I never thought I'd have to fight against you, of all people.❞",
+      "Translation": "`Kengo@❝I never thought I'd have to fight against you, of all people.❞"
+    },
+    {
+      "JP": "謙吾@「勝負だ、神北」",
+      "EN": "`Kengo@❝Let's fight, Kamikita.❞",
+      "Translation": "`Kengo@❝Let's fight, Kamikita.❞"
+    },
+    {
+      "JP": "謙吾@「悪いが相手してもらおう」",
+      "EN": "`Kengo@❝Sorry, but will you be my opponent?❞",
+      "Translation": "`Kengo@❝Sorry, but will you be my opponent?❞"
+    },
+    {
+      "JP": "謙吾@「知ってるか？　…お菓子の持ち込みは禁止だと」",
+      "EN": "`Kengo@❝Didn't you know? It's forbidden to bring sweets to school.❞",
+      "Translation": "`Kengo@❝Didn't you know? It's forbidden to bring sweets to school.❞"
+    },
+    {
+      "JP": "謙吾@「弱い者いじめのようで気が引けるが仕方あるまい」",
+      "EN": "`Kengo@❝It feels like I'm bullying weaklings, but it can't be helped.❞",
+      "Translation": "`Kengo@❝It feels like I'm bullying weaklings, but it can't be helped.❞"
+    },
+    {
+      "JP": "謙吾@「勝負だ、来ヶ谷」",
+      "EN": "`Kengo@❝Let's fight, Kurugaya.❞",
+      "Translation": "`Kengo@❝Let's fight, Kurugaya.❞"
+    },
+    {
+      "JP": "謙吾@「リトルバスターズパーーンチ！」",
+      "EN": "`Kengo@❝Little Busters PUUNCH!❞",
+      "Translation": "`Kengo@❝Little Busters PUUNCH!❞"
+    },
+    {
+      "JP": "謙吾@「リトルバスターズキーーック！」",
+      "EN": "`Kengo@❝Little Busters KIIICK!❞",
+      "Translation": "`Kengo@❝Little Busters KIIICK!❞"
+    },
+    {
+      "JP": "謙吾@「勝負だ、能美」",
+      "EN": "`Kengo@❝Let's fight, Noumi.❞",
+      "Translation": "`Kengo@❝Let's fight, Noumi.❞"
+    },
+    {
+      "JP": "謙吾@「悪いな、能美」",
+      "EN": "`Kengo@❝My bad, Noumi.❞",
+      "Translation": "`Kengo@❝My bad, Noumi.❞"
+    },
+    {
+      "JP": "謙吾@「すまん、能美」",
+      "EN": "`Kengo@❝Sorry, Noumi.❞",
+      "Translation": "`Kengo@❝Sorry, Noumi.❞"
+    },
+    {
+      "JP": "謙吾@「申し訳ない、能美」",
+      "EN": "`Kengo@❝I'm very sorry, Noumi.❞",
+      "Translation": "`Kengo@❝I'm very sorry, Noumi.❞"
+    },
+    {
+      "JP": "謙吾@「お手数かけるな、能美」",
+      "EN": "`Kengo@❝Don't cause trouble, Noumi.❞",
+      "Translation": "`Kengo@❝Don't cause trouble, Noumi.❞"
+    },
+    {
+      "JP": "謙吾@「弱い者いじめのようで気が引けるが仕方あるまい」",
+      "EN": "`Kengo@❝It feels like I'm bullying weaklings, but it can't be helped.❞",
+      "Translation": "`Kengo@❝It feels like I'm bullying weaklings, but it can't be helped.❞"
+    },
+    {
+      "JP": "謙吾@「勝負だ、三枝」",
+      "EN": "`Kengo@❝Let's fight, Saigusa.❞",
+      "Translation": "`Kengo@❝Let's fight, Saigusa.❞"
+    },
+    {
+      "JP": "謙吾@「悪いな、三枝」",
+      "EN": "`Kengo@❝Sorry, Saigusa.❞",
+      "Translation": "`Kengo@❝Sorry, Saigusa.❞"
+    },
+    {
+      "JP": "謙吾@「遊ぶにもほどがあるな、三枝よ」",
+      "EN": "`Kengo@❝You've gone too far with your pranks, Saigusa.❞",
+      "Translation": "`Kengo@❝You've gone too far with your pranks, Saigusa.❞"
+    },
+    {
+      "JP": "謙吾@「一緒に遊ぼう、三枝よ」",
+      "EN": "`Kengo@❝Let's play, Saigusa.❞",
+      "Translation": "`Kengo@❝Let's play, Saigusa.❞"
+    },
+    {
+      "JP": "謙吾@「勝負だ、西園」",
+      "EN": "`Kengo@❝Let's fight, Nishizono.❞",
+      "Translation": "`Kengo@❝Let's fight, Nishizono.❞"
+    },
+    {
+      "JP": "謙吾@「悪いな、西園」",
+      "EN": "`Kengo@❝Sorry, Nishizono.❞",
+      "Translation": "`Kengo@❝Sorry, Nishizono.❞"
+    },
+    {
+      "JP": "謙吾@「意外に好カードになりそうじゃないか」",
+      "EN": "`Kengo@❝Remarkably, it appears to shape out to be a good fight.❞",
+      "Translation": "`Kengo@❝Remarkably, it appears to shape out to be a good fight.❞"
+    },
+    {
+      "JP": "謙吾@「どんな兵器であろうが、勝つ」",
+      "EN": "`Kengo@❝Whatever the weapon, I will be victorious.❞",
+      "Translation": "`Kengo@❝Whatever the weapon, I will be victorious.❞"
+    },
+    {
+      "JP": "謙吾@「勝負だ、理樹」",
+      "EN": "`Kengo@❝Let's fight, Riki.❞",
+      "Translation": "`Kengo@❝Let's fight, Riki.❞"
+    },
+    {
+      "JP": "謙吾@「悪いが…力の差を思い知らせてやろう」",
+      "EN": "`Kengo@❝Sorry... I'll have to show you the difference in our strength.❞",
+      "Translation": "`Kengo@❝Sorry... I'll have to show you the difference in our strength.❞"
+    },
+    {
+      "JP": "謙吾@「少しは強くなったか」",
+      "EN": "`Kengo@❝Have you gotten a little stronger?❞",
+      "Translation": "`Kengo@❝Have you gotten a little stronger?❞"
+    },
+    {
+      "JP": "謙吾@「たまにはこんな相手もいいだろう」",
+      "EN": "`Kengo@❝Every once in a while, it's good to have this kind of opponent.❞",
+      "Translation": "`Kengo@❝Every once in a while, it's good to have this kind of opponent.❞"
+    },
+    {
+      "JP": "謙吾@「はーっはっはっは！　勝負だ、理樹！」",
+      "EN": "`Kengo@❝Haaa ha ha ha! Let's fight, Riki!❞",
+      "Translation": "`Kengo@❝Haaa ha ha ha! Let's fight, Riki!❞"
+    },
+    {
+      "JP": "謙吾@「勝負だ、真人」",
+      "EN": "`Kengo@❝Let's go, Masato.❞",
+      "Translation": "`Kengo@❝Let's go, Masato.❞"
+    },
+    {
+      "JP": "謙吾@「さてケリをつけようか、真人」",
+      "EN": "`Kengo@❝Well... shall we finish this, Masato?❞",
+      "Translation": "`Kengo@❝Well... shall we finish this, Masato?❞"
+    },
+    {
+      "JP": "謙吾@「諸行は無常、参るぞ、真人」",
+      "EN": "`Kengo@❝Nothing is eternal. Let's go, Masato.❞",
+      "Translation": "`Kengo@❝Nothing is eternal. Let's go, Masato.❞"
+    },
+    {
+      "JP": "謙吾@「そこの筋肉、邪魔だ、どけ」",
+      "EN": "`Kengo@❝Hey, you Muscle over there, you're in the way! Move.❞",
+      "Translation": "`Kengo@❝Hey, you Muscle over there, you're in the way! Move.❞"
+    },
+    {
+      "JP": "謙吾@「はーっはっはっは！　勝負だ、真人！」",
+      "EN": "`Kengo@❝Haaa ha ha ha! Let's fight, Masato!❞",
+      "Translation": "`Kengo@❝Haaa ha ha ha! Let's fight, Masato!❞"
+    },
+    {
+      "JP": "謙吾@「勝負だ、恭介」",
+      "EN": "`Kengo@❝Let's fight, Kyousuke!❞",
+      "Translation": "`Kengo@❝Let's fight, Kyousuke!❞"
+    },
+    {
+      "JP": "謙吾@「おまえを倒さずに上にはいけないだろう」",
+      "EN": "`Kengo@❝Without defeating you, I can't move up, can I?❞",
+      "Translation": "`Kengo@❝Without defeating you, I can't move up, can I?❞"
+    },
+    {
+      "JP": "謙吾@「この時を待っていたぞ」",
+      "EN": "`Kengo@❝I've been waiting for this.❞",
+      "Translation": "`Kengo@❝I've been waiting for this.❞"
+    },
+    {
+      "JP": "謙吾@「勝つのは、俺だ」",
+      "EN": "`Kengo@❝I will be victorious.❞",
+      "Translation": "`Kengo@❝I will be victorious.❞"
+    },
+    {
+      "JP": "謙吾@「片腕ぐらいあってもなくても同じだ」",
+      "EN": "`Kengo@❝I'd be the same even if I had my right arm tied behind my back.❞",
+      "Translation": "`Kengo@❝I'd be the same even if I had my right arm tied behind my back.❞"
+    },
+    {
+      "JP": "謙吾@「はーっはっはっは！　勝負だ、恭介！」",
+      "EN": "`Kengo@❝Haaa ha ha ha! Let's fight, Kyousuke!❞",
+      "Translation": "`Kengo@❝Haaa ha ha ha! Let's fight, Kyousuke!❞"
+    },
+    {
+      "JP": "謙吾@「これ以上の狼藉は許さん」",
+      "EN": "`Kengo@❝I won't tolerate any more violence.❞",
+      "Translation": "`Kengo@❝I won't tolerate any more violence.❞"
+    },
+    {
+      "JP": "謙吾@「たのもう」",
+      "EN": "`Kengo@❝I request a battle.❞",
+      "Translation": "`Kengo@❝I request a battle.❞"
+    },
+    {
+      "JP": "謙吾@「リトルバスターズここに参上」",
+      "EN": "`Kengo@❝Little Busters, assemble here!❞",
+      "Translation": "`Kengo@❝Little Busters, assemble here!❞"
+    },
+    {
+      "JP": "謙吾@「背中の猫が叫ぶ…にゃあぁーーっ!!」",
+      "EN": "`Kengo@❝The cat on my back is screaming... MEOOOOOOOOW!!!!!❞",
+      "Translation": "`Kengo@❝The cat on my back is screaming... MEOOOOOOOOW!!!!!❞"
+    },
+    {
+      "JP": "恭介@「鈴、勝負だ」",
+      "EN": "`Kyousuke@❝Rin, let's fight.❞",
+      "Translation": "`Kyousuke@❝Rin, let's fight.❞"
+    },
+    {
+      "JP": "恭介@「これもさだめか…」",
+      "EN": "`Kyousuke@❝Is this also fate...?❞",
+      "Translation": "`Kyousuke@❝Is this also fate...?❞"
+    },
+    {
+      "JP": "恭介@「兄妹喧嘩じゃねぇ…ほんもののバトルだぜ？」",
+      "EN": "`Kyousuke@❝This isn't a sibling tiff... this is the real thing?❞",
+      "Translation": "`Kyousuke@❝This isn't a sibling tiff... this is the real thing?❞"
+    },
+    {
+      "JP": "恭介@「強い兄を誇りに思わせてやるぜ」",
+      "EN": "`Kyousuke@❝I'll make you proud of your strong big brother.❞",
+      "Translation": "`Kyousuke@❝I'll make you proud of your strong big brother.❞"
+    },
+    {
+      "JP": "恭介@「お嬢様、ここは通さねぇぜ」",
+      "EN": "`Kyousuke@❝Hey, Princess, you can't pass.❞",
+      "Translation": "`Kyousuke@❝Hey, Princess, you can't pass.❞"
+    },
+    {
+      "JP": "恭介@「小毬よ、勝負だ」",
+      "EN": "`Kyousuke@❝Hey, Komari, let's fight.❞",
+      "Translation": "`Kyousuke@❝Hey, Komari, let's fight.❞"
+    },
+    {
+      "JP": "恭介@「いい武器を選んで健闘してくれよ」",
+      "EN": "`Kyousuke@❝Pick a good weapon and put up a good fight.❞",
+      "Translation": "`Kyousuke@❝Pick a good weapon and put up a good fight.❞"
+    },
+    {
+      "JP": "恭介@「はっは、秒殺だ」",
+      "EN": "`Kyousuke@❝Haha, you're running out of time!❞",
+      "Translation": "`Kyousuke@❝Haha, you're running out of time!❞"
+    },
+    {
+      "JP": "恭介@「悪いが、無事では通さねぇぜ」",
+      "EN": "`Kyousuke@❝Sorry, but I won't let you pass unscathed.❞",
+      "Translation": "`Kyousuke@❝Sorry, but I won't let you pass unscathed.❞"
+    },
+    {
+      "JP": "恭介@「不運な奴め…」",
+      "EN": "`Kyousuke@❝Quite the unlucky one...❞",
+      "Translation": "`Kyousuke@❝Quite the unlucky one...❞"
+    },
+    {
+      "JP": "恭介@「来ヶ谷、勝負だ」",
+      "EN": "`Kyousuke@❝Kurugaya, let's fight!❞",
+      "Translation": "`Kyousuke@❝Kurugaya, let's fight!❞"
+    },
+    {
+      "JP": "恭介@「そのポテンシャル…俺とかぶりすぎだぜ」",
+      "EN": "`Kyousuke@❝We're going to put that potential of yours to the test.❞",
+      "Translation": "`Kyousuke@❝We're going to put that potential of yours to the test.❞"
+    },
+    {
+      "JP": "恭介@「どこまでやれるか、見てやろう」",
+      "EN": "`Kyousuke@❝Let's see how we'll fare.❞",
+      "Translation": "`Kyousuke@❝Let's see how we'll fare.❞"
+    },
+    {
+      "JP": "恭介@「女子供に付き合ってる暇はねぇんだよ」",
+      "EN": "`Kyousuke@❝I don't have time to be dealing with girls.❞",
+      "Translation": "`Kyousuke@❝I don't have time to be dealing with girls.❞"
+    },
+    {
+      "JP": "恭介@「正直、ちょっとびびってるぜ…」",
+      "EN": "`Kyousuke@❝To tell the truth, I'm pretty scared...❞",
+      "Translation": "`Kyousuke@❝To tell the truth, I'm pretty scared...❞"
+    },
+    {
+      "JP": "恭介@「能美、勝負だ」",
+      "EN": "`Kyousuke@❝Noumi, let's fight.❞",
+      "Translation": "`Kyousuke@❝Noumi, let's fight.❞"
+    },
+    {
+      "JP": "恭介@「おまえの人気も、ここで断つ！」",
+      "EN": "`Kyousuke@❝I'll put your popularity to rest right here and now!❞",
+      "Translation": "`Kyousuke@❝I'll put your popularity to rest right here and now!❞"
+    },
+    {
+      "JP": "恭介@「地獄に落としてやる…ふあーーっはっはっは！」",
+      "EN": "`Kyousuke@❝I'll send you to the underworld... Fuaaaaahahaha!❞",
+      "Translation": "`Kyousuke@❝I'll send you to the underworld... Fuaaaaahahaha!❞"
+    },
+    {
+      "JP": "恭介@「おまえごときに手間取ってる暇はないんだよ…」",
+      "EN": "`Kyousuke@❝I don't have time for unexpected delays like you...❞",
+      "Translation": "`Kyousuke@❝I don't have time for unexpected delays like you...❞"
+    },
+    {
+      "JP": "恭介@「不運な奴め…」",
+      "EN": "`Kyousuke@❝Quite the unlucky one...❞",
+      "Translation": "`Kyousuke@❝Quite the unlucky one...❞"
+    },
+    {
+      "JP": "恭介@「三枝、勝負だ」",
+      "EN": "`Kyousuke@❝Saigusa, let's fight.❞",
+      "Translation": "`Kyousuke@❝Saigusa, let's fight.❞"
+    },
+    {
+      "JP": "恭介@「同じ遊び人としては敬意を表するぜ」",
+      "EN": "`Kyousuke@❝I'll show you the same respect as any other playmate.❞",
+      "Translation": "`Kyousuke@❝I'll show you the same respect as any other playmate.❞"
+    },
+    {
+      "JP": "恭介@「地獄に落としてやる…ふあーーっはっはっは！」",
+      "EN": "`Kyousuke@❝I'll send you to the underworld... Fuaaaaahahaha!❞",
+      "Translation": "`Kyousuke@❝I'll send you to the underworld... Fuaaaaahahaha!❞"
+    },
+    {
+      "JP": "恭介@「おまえごときに手間取ってる暇はないんだよ…」",
+      "EN": "`Kyousuke@❝I don't have time for unexpected delays like you...❞",
+      "Translation": "`Kyousuke@❝I don't have time for unexpected delays like you...❞"
+    },
+    {
+      "JP": "恭介@「西園、勝負だ」",
+      "EN": "`Kyousuke@❝Nishizono, let's fight.❞",
+      "Translation": "`Kyousuke@❝Nishizono, let's fight.❞"
+    },
+    {
+      "JP": "恭介@「どんなサイバーな武器だってやってやるよ」",
+      "EN": "`Kyousuke@❝Whatever kinda cyber-weapons you got, I'll take you on.❞",
+      "Translation": "`Kyousuke@❝Whatever kinda cyber-weapons you got, I'll take you on.❞"
+    },
+    {
+      "JP": "恭介@「傘ごと吹っ飛ばしてやる」",
+      "EN": "`Kyousuke@❝I'll blow you and your parasol away.❞",
+      "Translation": "`Kyousuke@❝I'll blow you and your parasol away.❞"
+    },
+    {
+      "JP": "恭介@「傘だけ吹っ飛ばしてやる」",
+      "EN": "`Kyousuke@❝I'll blow only your parasol away.❞",
+      "Translation": "`Kyousuke@❝I'll blow only your parasol away.❞"
+    },
+    {
+      "JP": "恭介@「傘以外吹っ飛ばしてやる」",
+      "EN": "`Kyousuke@❝I'll blow away everything but your parasol!❞",
+      "Translation": "`Kyousuke@❝I'll blow away everything but your parasol!❞"
+    },
+    {
+      "JP": "恭介@「傘とかけてなんて解くんだい」",
+      "EN": "`Kyousuke@❝You'll have to say goodbye to your parasol.❞",
+      "Translation": "`Kyousuke@❝You'll have to say goodbye to your parasol.❞"
+    },
+    {
+      "JP": "恭介@「女傘子供に付き合ってる暇はねぇんだよ」",
+      "EN": "`Kyousuke@❝I don't have time to play around with any parasol-using little girls!❞",
+      "Translation": "`Kyousuke@❝I don't have time to play around with any parasol-using little girls!❞"
+    },
+    {
+      "JP": "恭介@「理樹、勝負だ」",
+      "EN": "`Kyousuke@❝Riki, let's fight!❞",
+      "Translation": "`Kyousuke@❝Riki, let's fight!❞"
+    },
+    {
+      "JP": "恭介@「痛くしないから安心しろ」",
+      "EN": "`Kyousuke@❝It won't hurt a bit, don't worry.❞",
+      "Translation": "`Kyousuke@❝It won't hurt a bit, don't worry.❞"
+    },
+    {
+      "JP": "恭介@「大丈夫だ、俺に身を預けろ」",
+      "EN": "`Kyousuke@❝Don't worry. Trust me.❞",
+      "Translation": "`Kyousuke@❝Don't worry. Trust me.❞"
+    },
+    {
+      "JP": "恭介@「そんなに恐がんな、すぐに終わるさ」",
+      "EN": "`Kyousuke@❝Don't be that scared. It'll all be over soon.❞",
+      "Translation": "`Kyousuke@❝Don't be that scared. It'll all be over soon.❞"
+    },
+    {
+      "JP": "恭介@「ちょっとだけつきあえよ…いいだろ？」",
+      "EN": "`Kyousuke@❝Just give me a moment of your time. That'd be ok, right?❞",
+      "Translation": "`Kyousuke@❝Just give me a moment of your time. That'd be ok, right?❞"
+    },
+    {
+      "JP": "恭介@「真人、勝負だ」",
+      "EN": "`Kyousuke@❝Masato, let's fight.❞",
+      "Translation": "`Kyousuke@❝Masato, let's fight.❞"
+    },
+    {
+      "JP": "恭介@「よぅ、そこの筋肉、倒されてくれねぇかな」",
+      "EN": "`Kyousuke@❝Hey, you Muscle over there, you're going down.❞",
+      "Translation": "`Kyousuke@❝Hey, you Muscle over there, you're going down.❞"
+    },
+    {
+      "JP": "恭介@「そこの筋肉、勝負だ」",
+      "EN": "`Kyousuke@❝Hey, Muscle! Let's fight.❞",
+      "Translation": "`Kyousuke@❝Hey, Muscle! Let's fight.❞"
+    },
+    {
+      "JP": "恭介@「おい、そこの筋肉、ここから先は通さねぇぜ」",
+      "EN": "`Kyousuke@❝Hey, you Muscle! You ain't gonna pass.❞",
+      "Translation": "`Kyousuke@❝Hey, you Muscle! You ain't gonna pass.❞"
+    },
+    {
+      "JP": "恭介@「ちょっとそこの筋肉、そう、おまえだ」",
+      "EN": "`Kyousuke@❝Hey, you Muscle! Yah, I'm talkin' to you!❞",
+      "Translation": "`Kyousuke@❝Hey, you Muscle! Yah, I'm talkin' to you!❞"
+    },
+    {
+      "JP": "恭介@「そこの筋肉、待ちな」",
+      "EN": "`Kyousuke@❝Hey, Muscles! Stop right there.❞",
+      "Translation": "`Kyousuke@❝Hey, Muscles! Stop right there.❞"
+    },
+    {
+      "JP": "恭介@「筋肉、筋肉、うるせぇんだよ…」",
+      "EN": "`Kyousuke@❝Muscle this, muscle that, shut the hell up!❞",
+      "Translation": "`Kyousuke@❝Muscle this, muscle that, shut the hell up!❞"
+    },
+    {
+      "JP": "恭介@「謙吾、勝負だ」",
+      "EN": "`Kyousuke@❝Kengo, let's fight.❞",
+      "Translation": "`Kyousuke@❝Kengo, let's fight.❞"
+    },
+    {
+      "JP": "恭介@「さあ、どこにも逃がさないぜ」",
+      "EN": "`Kyousuke@❝Hey, you can't run anymore.❞",
+      "Translation": "`Kyousuke@❝Hey, you can't run anymore.❞"
+    },
+    {
+      "JP": "恭介@「たのもーか」",
+      "EN": "`Kyousuke@❝Wanna leave it to me?❞",
+      "Translation": "`Kyousuke@❝Wanna leave it to me?❞"
+    },
+    {
+      "JP": "恭介@「手負いだろうが、手加減はしねぇぜ」",
+      "EN": "`Kyousuke@❝You're hurt, but I won't take it easy on you.❞",
+      "Translation": "`Kyousuke@❝You're hurt, but I won't take it easy on you.❞"
+    },
+    {
+      "JP": "恭介@「そこの最強、勝負だ」",
+      "EN": "`Kyousuke@❝Hey, you Superman! Let's fight!❞",
+      "Translation": "`Kyousuke@❝Hey, you Superman! Let's fight!❞"
+    },
+    {
+      "JP": "恭介@「そこの最強、待ちな」",
+      "EN": "`Kyousuke@❝Hey, you Superman, hold it!❞",
+      "Translation": "`Kyousuke@❝Hey, you Superman, hold it!❞"
+    },
+    {
+      "JP": "恭介@「悪いな」",
+      "EN": "`Kyousuke@❝Sorry.❞",
+      "Translation": "`Kyousuke@❝Sorry.❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「はりゃほれうまうーっ」",
+      "EN": "`Mask the Saito@❝Harya hore umau.❞",
+      "Translation": "`Mask the Saito@❝Harya hore umau.❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「ひとりずつ料理してやるぜ、うまうー」",
+      "EN": "`Mask the Saito@❝I'll throw you in the pot, one by one, umau.❞",
+      "Translation": "`Mask the Saito@❝I'll throw you in the pot, one by one, umau.❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「次はおまえの番だ、うまうー」",
+      "EN": "`Mask the Saito@❝You're up next, umau.❞",
+      "Translation": "`Mask the Saito@❝You're up next, umau.❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「消えろ、うまうー」",
+      "EN": "`Mask the Saito@❝Get lost, umau.❞",
+      "Translation": "`Mask the Saito@❝Get lost, umau.❞"
+    },
+    {
+      "JP": "鈴@「こまりちゃんと戦うことになるとは…皮肉だな」",
+      "EN": "`Rin@❝So I'm fighting Komari-chan now... What irony...❞",
+      "Translation": "`Rin@❝So I'm fighting Komari-chan now... What irony...❞"
+    },
+    {
+      "JP": "鈴@「なんか恐いな…」",
+      "EN": "`Rin@❝It's kinda freaky...❞",
+      "Translation": "`Rin@❝It's kinda freaky...❞"
+    },
+    {
+      "JP": "鈴@「理樹とやるのか…仕方ない、いいだろう」",
+      "EN": "`Rin@❝Fighting with Riki... I guess it can't be helped... Let's do it.❞",
+      "Translation": "`Rin@❝Fighting with Riki... I guess it can't be helped... Let's do it.❞"
+    },
+    {
+      "JP": "鈴@「馬鹿が、返り討ちだっ」",
+      "EN": "`Rin@❝You idiot... You brought this on yourself.❞",
+      "Translation": "`Rin@❝You idiot... You brought this on yourself.❞"
+    },
+    {
+      "JP": "鈴@「地獄に突き落としてやろう…」",
+      "EN": "`Rin@❝I'll send you to the underworld...❞",
+      "Translation": "`Rin@❝I'll send you to the underworld...❞"
+    },
+    {
+      "JP": "鈴@「跡形もなく消し去ってやろう…」",
+      "EN": "`Rin@❝I'll erase every trace of you...❞",
+      "Translation": "`Rin@❝I'll erase every trace of you...❞"
+    },
+    {
+      "JP": "鈴@「星くずと変えてやろう…」",
+      "EN": "`Rin@❝I'll turn you into space dust...❞",
+      "Translation": "`Rin@❝I'll turn you into space dust...❞"
+    },
+    {
+      "JP": "鈴@「くっく、後悔させてやろう…」",
+      "EN": "`Rin@❝Kukku... I'll make you regret this...❞",
+      "Translation": "`Rin@❝Kukku... I'll make you regret this...❞"
+    },
+    {
+      "JP": "鈴@「おまえに明日などない…」",
+      "EN": "`Rin@❝For you, there will be no tomorrow...❞",
+      "Translation": "`Rin@❝For you, there will be no tomorrow...❞"
+    },
+    {
+      "JP": "鈴@「おや、これはとんだ身の程知らずだ…」",
+      "EN": "`Rin@❝Oh my, looks like someone doesn't know his place...❞",
+      "Translation": "`Rin@❝Oh my, looks like someone doesn't know his place...❞"
+    },
+    {
+      "JP": "鈴@「飛んで火に入る夏の虫とはこのことだな…」",
+      "EN": "`Rin@❝Just like a moth flying into the flame...❞",
+      "Translation": "`Rin@❝Just like a moth flying into the flame...❞"
+    },
+    {
+      "JP": "鈴@「ようこそ、処刑台へ」",
+      "EN": "`Rin@❝Welcome to the gallows.❞",
+      "Translation": "`Rin@❝Welcome to the gallows.❞"
+    },
+    {
+      "JP": "鈴@「Go to HELL!!」",
+      "EN": "`Rin@❝Go! To! HELL!!!❞",
+      "Translation": "`Rin@❝Go! To! HELL!!!❞"
+    },
+    {
+      "JP": "鈴@「おもしろい…」",
+      "EN": "`Rin@❝That's interesting...❞",
+      "Translation": "`Rin@❝That's interesting...❞"
+    },
+    {
+      "JP": "鈴@「馬鹿が、返り討ちだっ」",
+      "EN": "`Rin@❝You idiot... You brought this on yourself.❞",
+      "Translation": "`Rin@❝You idiot... You brought this on yourself.❞"
+    },
+    {
+      "JP": "鈴@「地獄に突き落としてやろう…」",
+      "EN": "`Rin@❝I'll send you to the underworld...❞",
+      "Translation": "`Rin@❝I'll send you to the underworld...❞"
+    },
+    {
+      "JP": "鈴@「跡形もなく消し去ってやろう…」",
+      "EN": "`Rin@❝I'll erase every trace of you...❞",
+      "Translation": "`Rin@❝I'll erase every trace of you...❞"
+    },
+    {
+      "JP": "鈴@「星くずと変えてやろう…」",
+      "EN": "`Rin@❝I'll turn you into space dust...❞",
+      "Translation": "`Rin@❝I'll turn you into space dust...❞"
+    },
+    {
+      "JP": "鈴@「くっく、後悔させてやろう…」",
+      "EN": "`Rin@❝Kukku... I'll make you regret this...❞",
+      "Translation": "`Rin@❝Kukku... I'll make you regret this...❞"
+    },
+    {
+      "JP": "鈴@「おまえに明日などない…」",
+      "EN": "`Rin@❝For you, there will be no tomorrow...❞",
+      "Translation": "`Rin@❝For you, there will be no tomorrow...❞"
+    },
+    {
+      "JP": "鈴@「おや、これはとんだ身の程知らずだ…」",
+      "EN": "`Rin@❝Oh my, looks like someone doesn't know his place...❞",
+      "Translation": "`Rin@❝Oh my, looks like someone doesn't know his place...❞"
+    },
+    {
+      "JP": "鈴@「飛んで火に入る夏の虫とはこのことだな…」",
+      "EN": "`Rin@❝Just like a moth flying into the flame...❞",
+      "Translation": "`Rin@❝Just like a moth flying into the flame...❞"
+    },
+    {
+      "JP": "鈴@「ようこそ、処刑台へ」",
+      "EN": "`Rin@❝Welcome to the gallows.❞",
+      "Translation": "`Rin@❝Welcome to the gallows.❞"
+    },
+    {
+      "JP": "鈴@「Go to HELL!!」",
+      "EN": "`Rin@❝Go! To! HELL!!!❞",
+      "Translation": "`Rin@❝Go! To! HELL!!!❞"
+    },
+    {
+      "JP": "鈴@「おもしろい…」",
+      "EN": "`Rin@❝That's interesting...❞",
+      "Translation": "`Rin@❝That's interesting...❞"
+    },
+    {
+      "JP": "鈴@「馬鹿が、返り討ちだっ」",
+      "EN": "`Rin@❝You idiot... You brought this on yourself.❞",
+      "Translation": "`Rin@❝You idiot... You brought this on yourself.❞"
+    },
+    {
+      "JP": "鈴@「地獄に突き落としてやろう…」",
+      "EN": "`Rin@❝I'll send you to the underworld...❞",
+      "Translation": "`Rin@❝I'll send you to the underworld...❞"
+    },
+    {
+      "JP": "鈴@「跡形もなく消し去ってやろう…」",
+      "EN": "`Rin@❝I'll erase every trace of you...❞",
+      "Translation": "`Rin@❝I'll erase every trace of you...❞"
+    },
+    {
+      "JP": "鈴@「星くずと変えてやろう…」",
+      "EN": "`Rin@❝I'll turn you into space dust...❞",
+      "Translation": "`Rin@❝I'll turn you into space dust...❞"
+    },
+    {
+      "JP": "鈴@「くっく、後悔させてやろう…」",
+      "EN": "`Rin@❝Kukku... I'll make you regret this...❞",
+      "Translation": "`Rin@❝Kukku... I'll make you regret this...❞"
+    },
+    {
+      "JP": "鈴@「おまえに明日などない…」",
+      "EN": "`Rin@❝For you, there will be no tomorrow...❞",
+      "Translation": "`Rin@❝For you, there will be no tomorrow...❞"
+    },
+    {
+      "JP": "鈴@「おや、これはとんだ身の程知らずだ…」",
+      "EN": "`Rin@❝Oh my, looks like someone doesn't know his place...❞",
+      "Translation": "`Rin@❝Oh my, looks like someone doesn't know his place...❞"
+    },
+    {
+      "JP": "鈴@「飛んで火に入る夏の虫とはこのことだな…」",
+      "EN": "`Rin@❝Just like a moth flying into the flame...❞",
+      "Translation": "`Rin@❝Just like a moth flying into the flame...❞"
+    },
+    {
+      "JP": "鈴@「ようこそ、処刑台へ」",
+      "EN": "`Rin@❝Welcome to the gallows.❞",
+      "Translation": "`Rin@❝Welcome to the gallows.❞"
+    },
+    {
+      "JP": "鈴@「Go to HELL!!」",
+      "EN": "`Rin@❝Go! To! HELL!!!❞",
+      "Translation": "`Rin@❝Go! To! HELL!!!❞"
+    },
+    {
+      "JP": "鈴@「おもしろい…」",
+      "EN": "`Rin@❝That's interesting...❞",
+      "Translation": "`Rin@❝That's interesting...❞"
+    },
+    {
+      "JP": "鈴@「コワッ、こいつコワッ！　でもやるのか…でもコワッ！」",
+      "EN": "`Rin@❝Freaky, that guy's freaky! But I have to do this... but that's freaky!!❞",
+      "Translation": "`Rin@❝Freaky, that guy's freaky! But I have to do this... but that's freaky!!❞"
+    },
+    {
+      "JP": "鈴@「いいだろう」",
+      "EN": "`Rin@❝Very well.❞",
+      "Translation": "`Rin@❝Very well.❞"
+    },
+    {
+      "JP": "鈴@「相手してやろう」",
+      "EN": "`Rin@❝I'll be your opponent.❞",
+      "Translation": "`Rin@❝I'll be your opponent.❞"
+    },
+    {
+      "JP": "小毬@「後でいっしょにどーなつ食べよ～」",
+      "EN": "`Komari@❝After this, let's go have some donuts～.❞",
+      "Translation": "`Komari@❝After this, let's go have some donuts～.❞"
+    },
+    {
+      "JP": "小毬@「後でいっしょにチョコケーキ食べよ～」",
+      "EN": "`Komari@❝After this, let's go have some chocolate～.❞",
+      "Translation": "`Komari@❝After this, let's go have some chocolate～.❞"
+    },
+    {
+      "JP": "小毬@「『whistle to one's dog』、口笛で犬を呼ぶって意味だよー。私は吹けないけど…」",
+      "EN": "`Komari@❝They say it's faster to whistle to one's dog. I can't whistle though...❞",
+      "Translation": "`Komari@❝They say it's faster to whistle to one's dog. I can't whistle though...❞"
+    },
+    {
+      "JP": "小毬@「意味がよくわからないよ～」",
+      "EN": "`Komari@❝I don't really understand...❞",
+      "Translation": "`Komari@❝I don't really understand...❞"
+    },
+    {
+      "JP": "小毬@「ほわぁっ、こわいっ」",
+      "EN": "`Komari@❝Howaa, scary!❞",
+      "Translation": "`Komari@❝Howaa, scary!❞"
+    },
+    {
+      "JP": "小毬@「うぇえーんっ、なんかきたよー」",
+      "EN": "`Komari@❝Uee～! Something's coming!❞",
+      "Translation": "`Komari@❝Uee～! Something's coming!❞"
+    },
+    {
+      "JP": "小毬@「ふええっ、ど、どうしようっ」",
+      "EN": "`Komari@❝Fuee, wha... what should I do?❞",
+      "Translation": "`Komari@❝Fuee, wha... what should I do?❞"
+    },
+    {
+      "JP": "小毬@「ほわぁっ!!　や、やるの～？」",
+      "EN": "`Komari@❝Howaa!! Y... you wanna fight?❞",
+      "Translation": "`Komari@❝Howaa!! Y... you wanna fight?❞"
+    },
+    {
+      "JP": "小毬@「うーん…やれるだけがんばってみるよ…」",
+      "EN": "`Komari@❝Ok... I'll do what I can...❞",
+      "Translation": "`Komari@❝Ok... I'll do what I can...❞"
+    },
+    {
+      "JP": "小毬@「お手柔らかにね～」",
+      "EN": "`Komari@❝Be gentle please～!❞",
+      "Translation": "`Komari@❝Be gentle please～!❞"
+    },
+    {
+      "JP": "小毬@「それよりお茶会はどうですか～」",
+      "EN": "`Komari@❝Instead of that, how about having tea?❞",
+      "Translation": "`Komari@❝Instead of that, how about having tea?❞"
+    },
+    {
+      "JP": "小毬@「わっふる食べたいなぁ」",
+      "EN": "`Komari@❝I wanna eat a waffle...❞",
+      "Translation": "`Komari@❝I wanna eat a waffle...❞"
+    },
+    {
+      "JP": "小毬@「たいやきもおいしいよねぇ」",
+      "EN": "`Komari@❝Taiyaki is also tasty, right?❞",
+      "Translation": "`Komari@❝Taiyaki is also tasty, right?❞"
+    },
+    {
+      "JP": "小毬@「和三盆のコンペイトウも最高だよー」",
+      "EN": "`Komari@❝Wasanbon candy is the best, isn't it?❞",
+      "Translation": "`Komari@❝Wasanbon candy is the best, isn't it?❞"
+    },
+    {
+      "JP": "小毬@「るんのるんのる～ん♪」",
+      "EN": "`Komari@❝Lun no lun no luuu～n♪❞",
+      "Translation": "`Komari@❝Lun no lun no luuu～n♪❞"
+    },
+    {
+      "JP": "小毬@「はぁ…ねこになりたいなぁ～」",
+      "EN": "`Komari@❝Haaa... I wanna be a cat～.❞",
+      "Translation": "`Komari@❝Haaa... I wanna be a cat～.❞"
+    },
+    {
+      "JP": "小毬@「Make it as mild as it can be please...（できるだけマイルドにしてください…）」",
+      "EN": "`Komari@❝Make it as mild as it can be please...❞",
+      "Translation": "`Komari@❝Make it as mild as it can be please...❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、おねーさんの胸に飛び込んでくるといい」",
+      "EN": "`Kurugaya@❝Umu, you can jump to Onee-san's bosom.❞",
+      "Translation": "`Kurugaya@❝Umu, you can jump to Onee-san's bosom.❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、キミは後で『萌え衣装で市中引き回しの刑』に処す」",
+      "EN": "`Kurugaya@❝Umu. Afterward, you will suffer the punishment of ❛parading around in moe clothing.❜❞",
+      "Translation": "`Kurugaya@❝Umu. Afterward, you will suffer the punishment of ❛parading around in moe clothing.❜❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、おねーさんの胸に飛び込んでくるといい」",
+      "EN": "`Kurugaya@❝Umu, you can jump to Onee-san's bosom.❞",
+      "Translation": "`Kurugaya@❝Umu, you can jump to Onee-san's bosom.❞"
+    },
+    {
+      "JP": "来ヶ谷@「私は酢昆布以上に甘くないぞ」",
+      "EN": "`Kurugaya@❝I know no mercy.❞",
+      "Translation": "`Kurugaya@❝I know no mercy.❞"
+    },
+    {
+      "JP": "来ヶ谷@「泣き顔も割と萌える」",
+      "EN": "`Kurugaya@❝A teary face is also quite moe.❞",
+      "Translation": "`Kurugaya@❝A teary face is also quite moe.❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、おねーさんの胸に飛び込んでくるといい」",
+      "EN": "`Kurugaya@❝Umu, you can jump to Onee-san's bosom.❞",
+      "Translation": "`Kurugaya@❝Umu, you can jump to Onee-san's bosom.❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、キミは後で『萌え衣装で市中引き回しの刑』に処す」",
+      "EN": "`Kurugaya@❝Umu. Afterward, you will suffer the punishment of ❛parading around in moe clothing.❜❞",
+      "Translation": "`Kurugaya@❝Umu. Afterward, you will suffer the punishment of ❛parading around in moe clothing.❜❞"
+    },
+    {
+      "JP": "来ヶ谷@「返り討ちの刑に処す」",
+      "EN": "`Kurugaya@❝I'll punish you by beating you at your own game.❞",
+      "Translation": "`Kurugaya@❝I'll punish you by beating you at your own game.❞"
+    },
+    {
+      "JP": "来ヶ谷@「おねーさんのマリオネットの刑に処す」",
+      "EN": "`Kurugaya@❝I'll punish you by turning you into Onee-san's marionette.❞",
+      "Translation": "`Kurugaya@❝I'll punish you by turning you into Onee-san's marionette.❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、キミは後で『萌え衣装で市中引き回しの刑』に処す」",
+      "EN": "`Kurugaya@❝Umu. Afterward, you will suffer the punishment of ❛parading around in moe clothing.❜❞",
+      "Translation": "`Kurugaya@❝Umu. Afterward, you will suffer the punishment of ❛parading around in moe clothing.❜❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、おねーさんの胸に飛び込んでくるといい」",
+      "EN": "`Kurugaya@❝Umu, you can jump to Onee-san's bosom.❞",
+      "Translation": "`Kurugaya@❝Umu, you can jump to Onee-san's bosom.❞"
+    },
+    {
+      "JP": "来ヶ谷@「実はドＳなのか」",
+      "EN": "`Kurugaya@❝Are you really an ❛S❜?❞",
+      "Translation": "`Kurugaya@❝Are you really an ❛S❜?❞"
+    },
+    {
+      "JP": "来ヶ谷@「なんだ…意外とノってやってないかキミは」",
+      "EN": "`Kurugaya@❝What... I thought you'd be more into it.❞",
+      "Translation": "`Kurugaya@❝What... I thought you'd be more into it.❞"
+    },
+    {
+      "JP": "来ヶ谷@「少年、キミもやっちゃうがいいのか？」",
+      "EN": "`Kurugaya@❝Young man, is it ok to take you down?❞",
+      "Translation": "`Kurugaya@❝Young man, is it ok to take you down?❞"
+    },
+    {
+      "JP": "来ヶ谷@「おねーさんがお仕置きしてやろう」",
+      "EN": "`Kurugaya@❝Onee-san will hand out your punishment.❞",
+      "Translation": "`Kurugaya@❝Onee-san will hand out your punishment.❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、おねーさんの胸に飛び込んでくるといい」",
+      "EN": "`Kurugaya@❝Umu, you can jump to Onee-san's bosom.❞",
+      "Translation": "`Kurugaya@❝Umu, you can jump to Onee-san's bosom.❞"
+    },
+    {
+      "JP": "来ヶ谷@「楽しいオシオキターイムにしてやろう」",
+      "EN": "`Kurugaya@❝I'll make it a pleasurable punishment.❞",
+      "Translation": "`Kurugaya@❝I'll make it a pleasurable punishment.❞"
+    },
+    {
+      "JP": "来ヶ谷@「どうでもいいが筋肉が付きすぎても美しくないぞ。ロシア系レスラーになる」",
+      "EN": "`Kurugaya@❝I don't really care, but it isn't elegant at all to overuse your muscles. You'll just become a Russian wrestler.❞",
+      "Translation": "`Kurugaya@❝I don't really care, but it isn't elegant at all to overuse your muscles. You'll just become a Russian wrestler.❞"
+    },
+    {
+      "JP": "来ヶ谷@「残念だが今の私は虫の居所が悪い。泣いて喚いて哀願する目に遭うだろうよ」",
+      "EN": "`Kurugaya@❝It's unfortunate, but I'm in a bad mood. You'll surely end up crying and begging for mercy.❞",
+      "Translation": "`Kurugaya@❝It's unfortunate, but I'm in a bad mood. You'll surely end up crying and begging for mercy.❞"
+    },
+    {
+      "JP": "来ヶ谷@「面白い。全力でいかせてもらおう」",
+      "EN": "`Kurugaya@❝This will be interesting. Hit me with everything you got.❞",
+      "Translation": "`Kurugaya@❝This will be interesting. Hit me with everything you got.❞"
+    },
+    {
+      "JP": "来ヶ谷@「まあ、やってみるさ」",
+      "EN": "`Kurugaya@❝Well, give it a shot.❞",
+      "Translation": "`Kurugaya@❝Well, give it a shot.❞"
+    },
+    {
+      "JP": "来ヶ谷@「よかろう。断罪してやろう」",
+      "EN": "`Kurugaya@❝Perfect. You will now face your punishment.❞",
+      "Translation": "`Kurugaya@❝Perfect. You will now face your punishment.❞"
+    },
+    {
+      "JP": "来ヶ谷@「今のキミの姿に疑問はないか？」",
+      "EN": "`Kurugaya@❝Don't you think there's something off about the way you look now?❞",
+      "Translation": "`Kurugaya@❝Don't you think there's something off about the way you look now?❞"
+    },
+    {
+      "JP": "来ヶ谷@「面白い。全力でいかせてもらおう」",
+      "EN": "`Kurugaya@❝This will be interesting. Hit me with everything you got.❞",
+      "Translation": "`Kurugaya@❝This will be interesting. Hit me with everything you got.❞"
+    },
+    {
+      "JP": "来ヶ谷@「まあ、やってみるさ」",
+      "EN": "`Kurugaya@❝Well, give it a shot.❞",
+      "Translation": "`Kurugaya@❝Well, give it a shot.❞"
+    },
+    {
+      "JP": "来ヶ谷@「よかろう。断罪してやろう」",
+      "EN": "`Kurugaya@❝Perfect. You will now face your punishment.❞",
+      "Translation": "`Kurugaya@❝Perfect. You will now face your punishment.❞"
+    },
+    {
+      "JP": "来ヶ谷@「手緩いぞ恭介氏。面白い勝負になればいいんだが」",
+      "EN": "`Kurugaya@❝You're too lenient, Mr. Kyousuke. It would have been nice to have an interesting fight...❞",
+      "Translation": "`Kurugaya@❝You're too lenient, Mr. Kyousuke. It would have been nice to have an interesting fight...❞"
+    },
+    {
+      "JP": "来ヶ谷@「ようこそ挑戦者」",
+      "EN": "`Kurugaya@❝Here comes a new challenger.❞",
+      "Translation": "`Kurugaya@❝Here comes a new challenger.❞"
+    },
+    {
+      "JP": "来ヶ谷@「…まあ黙っておくが」",
+      "EN": "`Kurugaya@❝Well, I won't say anything.❞",
+      "Translation": "`Kurugaya@❝Well, I won't say anything.❞"
+    },
+    {
+      "JP": "来ヶ谷@「その仮面は呪われているのか？　混乱中か？」",
+      "EN": "`Kurugaya@❝Is that mask cursed? Are you confused?❞",
+      "Translation": "`Kurugaya@❝Is that mask cursed? Are you confused?❞"
+    },
+    {
+      "JP": "来ヶ谷@「ふん、よかろう…やってみろ」",
+      "EN": "`Kurugaya@❝Hah, very well... Let's do it.❞",
+      "Translation": "`Kurugaya@❝Hah, very well... Let's do it.❞"
+    },
+    {
+      "JP": "来ヶ谷@「めんどくさい。手短にな」",
+      "EN": "`Kurugaya@❝I can't be bothered. Make it short.❞",
+      "Translation": "`Kurugaya@❝I can't be bothered. Make it short.❞"
+    },
+    {
+      "JP": "来ヶ谷@「この私に挑むとは…命知らずだな」",
+      "EN": "`Kurugaya@❝Pressuring me into a fight... You don't know the fate that awaits you.❞",
+      "Translation": "`Kurugaya@❝Pressuring me into a fight... You don't know the fate that awaits you.❞"
+    },
+    {
+      "JP": "来ヶ谷@「やられたいのか？　色んな意味で」",
+      "EN": "`Kurugaya@❝Looking to get ❛done❜? In various meanings...❞",
+      "Translation": "`Kurugaya@❝Looking to get ❛done❜? In various meanings...❞"
+    },
+    {
+      "JP": "来ヶ谷@「あられもない姿にしてやろう」",
+      "EN": "`Kurugaya@❝I will make you look like a joke.❞",
+      "Translation": "`Kurugaya@❝I will make you look like a joke.❞"
+    },
+    {
+      "JP": "来ヶ谷@「私を討ち取ろうなど、１０年は早いんじゃあないかな」",
+      "EN": "`Kurugaya@❝You're ten years too young to be challenging me.❞",
+      "Translation": "`Kurugaya@❝You're ten years too young to be challenging me.❞"
+    },
+    {
+      "JP": "クド@「鈴さんはろーです。モンペチの新製品がでたみたいですよー…行きませんか？」",
+      "EN": "`Kud@❝Rin-san, haro- desu! The latest line of Mon Petit is out... Wanna go see?❞",
+      "Translation": "`Kud@❝Rin-san, haro- desu! The latest line of Mon Petit is out... Wanna go see?❞"
+    },
+    {
+      "JP": "クド@「鈴さんはろーです。……。あ、あそこにしましま猫さんが！」",
+      "EN": "`Kud@❝Rin-san, haro- desu! ...Ah, and that striped cat over there!❞",
+      "Translation": "`Kud@❝Rin-san, haro- desu! ...Ah, and that striped cat over there!❞"
+    },
+    {
+      "JP": "クド@「鈴さんはろーです。……。あ、あっちに三毛猫さんが！」",
+      "EN": "`Kud@❝Rin-san, haro- desu! ...Ah, and that calico cat over there!❞",
+      "Translation": "`Kud@❝Rin-san, haro- desu! ...Ah, and that calico cat over there!❞"
+    },
+    {
+      "JP": "クド@「小毬さんはろーです。おせんべ、どーですか？」",
+      "EN": "`Kud@❝Komari-san, haro- desu! How about some crackers?❞",
+      "Translation": "`Kud@❝Komari-san, haro- desu! How about some crackers?❞"
+    },
+    {
+      "JP": "クド@「小毬さんはろーです。花林糖、どーですか？」",
+      "EN": "`Kud@❝Komari-san, haro- desu! How about some cookies?❞",
+      "Translation": "`Kud@❝Komari-san, haro- desu! How about some cookies?❞"
+    },
+    {
+      "JP": "クド@「小毬さんはろーです。黒麩菓子、どーですか？」",
+      "EN": "`Kud@❝Komari-san, haro- desu! How about some dark rye flour cakes?❞",
+      "Translation": "`Kud@❝Komari-san, haro- desu! How about some dark rye flour cakes?❞"
+    },
+    {
+      "JP": "クド@「あ、あの、返しますからここはひとつ…だ、ダメですかぁっ」",
+      "EN": "`Kud@❝Uhhh... ummm... I'll give it back, so could I have one... It, it's no good...?❞",
+      "Translation": "`Kud@❝Uhhh... ummm... I'll give it back, so could I have one... It, it's no good...?❞"
+    },
+    {
+      "JP": "クド@「であえいっであえいっ！　狼藉者じゃーっ！　…一対一なのですかっ!?」",
+      "EN": "`Kud@❝An encounter! An encounter! Ruffian! It's one on one!?❞",
+      "Translation": "`Kud@❝An encounter! An encounter! Ruffian! It's one on one!?❞"
+    },
+    {
+      "JP": "クド@「わ、わふーっ！　な、なんですかぁっ」",
+      "EN": "`Kud@❝Wa, wafuu! Wh... what!?❞",
+      "Translation": "`Kud@❝Wa, wafuu! Wh... what!?❞"
+    },
+    {
+      "JP": "クド@「三枝さん、またですかぁーっ!?」",
+      "EN": "`Kud@❝Saigusa-san, you again!?❞",
+      "Translation": "`Kud@❝Saigusa-san, you again!?❞"
+    },
+    {
+      "JP": "クド@「西園さんはろーです…緑茶飲みませんか？」",
+      "EN": "`Kud@❝Nishizono-san, haro- desu... Would you care for some green tea?❞",
+      "Translation": "`Kud@❝Nishizono-san, haro- desu... Would you care for some green tea?❞"
+    },
+    {
+      "JP": "クド@「西園さんはろーです…ほ、本のカドは勘弁してください…」",
+      "EN": "`Kud@❝Nishizono-san, haro- desu... G... go easy on me with that book corner!❞",
+      "Translation": "`Kud@❝Nishizono-san, haro- desu... G... go easy on me with that book corner!❞"
+    },
+    {
+      "JP": "クド@「西園さんはろーです…か、傘は危ないですよぅー」",
+      "EN": "`Kud@❝Nishizono-san, haro- desu... B... be careful with that parasol!❞",
+      "Translation": "`Kud@❝Nishizono-san, haro- desu... B... be careful with that parasol!❞"
+    },
+    {
+      "JP": "クド@「例え相手が誰であろうともーっ！　…て、手加減してくださいませんか？」",
+      "EN": "`Kud@❝Whoever my opponent may be! ...C, could you take it easy on me?❞",
+      "Translation": "`Kud@❝Whoever my opponent may be! ...C, could you take it easy on me?❞"
+    },
+    {
+      "JP": "クド@「例え…えーと、お腹空いてませんか？」",
+      "EN": "`Kud@❝Whoever... um... Are you hungry?❞",
+      "Translation": "`Kud@❝Whoever... um... Are you hungry?❞"
+    },
+    {
+      "JP": "クド@「おにぎりあげますからここはひとつ撤退をお願いしま…うう、ダメですかー」",
+      "EN": "`Kud@❝I'll give you an onigiri, so I'll just be on my way... uu... No good?❞",
+      "Translation": "`Kud@❝I'll give you an onigiri, so I'll just be on my way... uu... No good?❞"
+    },
+    {
+      "JP": "クド@「例え相手が誰であろうともーっ！　その秘剣、我の目の前に晒すがよいっ！　わふーっ」",
+      "EN": "`Kud@❝Whoever my opponent may be! I shall reveal my secret sword technique right before your eyes! Wafuu!❞",
+      "Translation": "`Kud@❝Whoever my opponent may be! I shall reveal my secret sword technique right before your eyes! Wafuu!❞"
+    },
+    {
+      "JP": "クド@「例え相手が…わふっ！　こ、こけてしまいました…よ、よろしくお願いしますー」",
+      "EN": "`Kud@❝Whoever my opponent... I-I fell... P-please go easy on me.❞",
+      "Translation": "`Kud@❝Whoever my opponent... I-I fell... P-please go easy on me.❞"
+    },
+    {
+      "JP": "クド@「どこかでお会いしましたか？」",
+      "EN": "`Kud@❝Where have we met before?❞",
+      "Translation": "`Kud@❝Where have we met before?❞"
+    },
+    {
+      "JP": "クド@「はうぅ…しゃーまにっくですぴりちゅあるなのです…」",
+      "EN": "`Kud@❝Hau... Quite shamanic and spiritual...❞",
+      "Translation": "`Kud@❝Hau... Quite shamanic and spiritual...❞"
+    },
+    {
+      "JP": "クド@「ガーンっ!?　私ですかっ」",
+      "EN": "`Kud@❝GA～N! Me!?❞",
+      "Translation": "`Kud@❝GA～N! Me!?❞"
+    },
+    {
+      "JP": "クド@「頑張るのですっ」",
+      "EN": "`Kud@❝I'll do my best!❞",
+      "Translation": "`Kud@❝I'll do my best!❞"
+    },
+    {
+      "JP": "クド@「ねせしてぃー・のーず・のー・ろー、なのですかぁっ！」",
+      "EN": "`Kud@❝Necessity knows no law... is that it!?❞",
+      "Translation": "`Kud@❝Necessity knows no law... is that it!?❞"
+    },
+    {
+      "JP": "クド@「あなたに私は斬れな…いといいです」",
+      "EN": "`Kud@❝Your sword will never cut me... I hope.❞",
+      "Translation": "`Kud@❝Your sword will never cut me... I hope.❞"
+    },
+    {
+      "JP": "クド@「あなたに私は斬れな…そうな気がします」",
+      "EN": "`Kud@❝Your sword will never cut me... I think.❞",
+      "Translation": "`Kud@❝Your sword will never cut me... I think.❞"
+    },
+    {
+      "JP": "葉留佳@「ふふん、どらねこのくせに生意気だーっ」",
+      "EN": "`Haruka@❝Fufun, for a stray cat, you're pretty impudent!❞",
+      "Translation": "`Haruka@❝Fufun, for a stray cat, you're pretty impudent!❞"
+    },
+    {
+      "JP": "葉留佳@「この泥棒猫!!　特に何も盗られてないけど!!」",
+      "EN": "`Haruka@❝You thieving cat!!! Even though you didn't really steal anything!!!❞",
+      "Translation": "`Haruka@❝You thieving cat!!! Even though you didn't really steal anything!!!❞"
+    },
+    {
+      "JP": "葉留佳@「９０％は必要だねっ」",
+      "EN": "`Haruka@❝I'll need 90%.❞",
+      "Translation": "`Haruka@❝I'll need 90%.❞"
+    },
+    {
+      "JP": "葉留佳@「ふふん、こまりんのくせに生意気だーっ」",
+      "EN": "`Haruka@❝Fufun, for Komarin, you're pretty impudent!❞",
+      "Translation": "`Haruka@❝Fufun, for Komarin, you're pretty impudent!❞"
+    },
+    {
+      "JP": "葉留佳@「まあまあ恥かかないよーに手加減してあげますヨ」",
+      "EN": "`Haruka@❝Well, well... I'll take it easy on you so you won't have to be too ashamed.❞",
+      "Translation": "`Haruka@❝Well, well... I'll take it easy on you so you won't have to be too ashamed.❞"
+    },
+    {
+      "JP": "葉留佳@「８０％で十分だねっ」",
+      "EN": "`Haruka@❝80% oughta be enough.❞",
+      "Translation": "`Haruka@❝80% oughta be enough.❞"
+    },
+    {
+      "JP": "葉留佳@「そりゃないっすヨ！　フレイジャーもそりゃないぜって言ってますヨ!!」",
+      "EN": "`Haruka@❝That's impossible! Even Frasier agrees!❞",
+      "Translation": "`Haruka@❝That's impossible! Even Frasier agrees!❞"
+    },
+    {
+      "JP": "葉留佳@「うう…はるちん絶体絶命の予感っ」",
+      "EN": "`Haruka@❝Uu... feels like Haruchin's in a bit of a pinch.❞",
+      "Translation": "`Haruka@❝Uu... feels like Haruchin's in a bit of a pinch.❞"
+    },
+    {
+      "JP": "葉留佳@「なんだー、わふわふされにきたのかー」",
+      "EN": "`Haruka@❝What, did'ya come to wafuwafu me?❞",
+      "Translation": "`Haruka@❝What, did'ya come to wafuwafu me?❞"
+    },
+    {
+      "JP": "葉留佳@「ダメダメワンコだってわからせてあげますヨっ」",
+      "EN": "`Haruka@❝I'll teach you the meaning of ❛Bad dog no biscuit!❜❞",
+      "Translation": "`Haruka@❝I'll teach you the meaning of ❛Bad dog no biscuit!❜❞"
+    },
+    {
+      "JP": "葉留佳@「８０％で十分だねっ」",
+      "EN": "`Haruka@❝80% oughta be enough.❞",
+      "Translation": "`Haruka@❝80% oughta be enough.❞"
+    },
+    {
+      "JP": "葉留佳@「むきーっ！　みおちんには絶対負けたくなーいっ！」",
+      "EN": "`Haruka@❝Mukii! I do NOT want to lose to Mio-chin!❞",
+      "Translation": "`Haruka@❝Mukii! I do NOT want to lose to Mio-chin!❞"
+    },
+    {
+      "JP": "葉留佳@「とうとうきたな真面目天然めっ!!」",
+      "EN": "`Haruka@❝Finally, here comes the diligent airhead!!❞",
+      "Translation": "`Haruka@❝Finally, here comes the diligent airhead!!❞"
+    },
+    {
+      "JP": "葉留佳@「うう…はるちん絶体絶命の予感っ」",
+      "EN": "`Haruka@❝Uu... feels like Haruchin's in a bit of a pinch.❞",
+      "Translation": "`Haruka@❝Uu... feels like Haruchin's in a bit of a pinch.❞"
+    },
+    {
+      "JP": "葉留佳@「なんだー、大人気ないぞボーイっ」",
+      "EN": "`Haruka@❝What! You childish boy!❞",
+      "Translation": "`Haruka@❝What! You childish boy!❞"
+    },
+    {
+      "JP": "葉留佳@「なんだー、ガイズもはるちんマークかーっ」",
+      "EN": "`Haruka@❝What! You guys are also marking Haruchin?❞",
+      "Translation": "`Haruka@❝What! You guys are also marking Haruchin?❞"
+    },
+    {
+      "JP": "葉留佳@「なんだー、ガイズもはるちんマークかーっ」",
+      "EN": "`Haruka@❝What! You guys are also marking Haruchin?❞",
+      "Translation": "`Haruka@❝What! You guys are also marking Haruchin?❞"
+    },
+    {
+      "JP": "葉留佳@「なんだー、ガイズもはるちんマークかーっ」",
+      "EN": "`Haruka@❝What! You guys are also marking Haruchin?❞",
+      "Translation": "`Haruka@❝What! You guys are also marking Haruchin?❞"
+    },
+    {
+      "JP": "葉留佳@「うう…はるちん絶体絶命の予感っ」",
+      "EN": "`Haruka@❝Uu... feels like Haruchin's in a bit of a pinch.❞",
+      "Translation": "`Haruka@❝Uu... feels like Haruchin's in a bit of a pinch.❞"
+    },
+    {
+      "JP": "葉留佳@「ひゃあっ、なんかきたぁーっ!!」",
+      "EN": "`Haruka@❝Hyaa! Something's coming!!❞",
+      "Translation": "`Haruka@❝Hyaa! Something's coming!!❞"
+    },
+    {
+      "JP": "葉留佳@「はるちんは美味しくないですヨ」",
+      "EN": "`Haruka@❝Haruchin is NOT tasty!❞",
+      "Translation": "`Haruka@❝Haruchin is NOT tasty!❞"
+    },
+    {
+      "JP": "葉留佳@「ふっふっふー、後悔させてあげますヨ」",
+      "EN": "`Haruka@❝Fuffuffu... I'll make you regret this.❞",
+      "Translation": "`Haruka@❝Fuffuffu... I'll make you regret this.❞"
+    },
+    {
+      "JP": "葉留佳@「なにぃーっ、はるちんにセーテンのヘキレキっ!!」",
+      "EN": "`Haruka@❝What!! Satan's Thunderclap to Haruchin!?❞",
+      "Translation": "`Haruka@❝What!! Satan's Thunderclap to Haruchin!?❞"
+    },
+    {
+      "JP": "葉留佳@「どーする!?　どーすんのはるちーんっ!!　続くっ!!」",
+      "EN": "`Haruka@❝What will you do!? What will you do, Haruchin??? To be continued!!!❞",
+      "Translation": "`Haruka@❝What will you do!? What will you do, Haruchin??? To be continued!!!❞"
+    },
+    {
+      "JP": "葉留佳@$S024「『ヒゲ』が『耳毛』とか『なんとか毛』みたいに『ヒ』の毛かと考えてたところ耳鼻科とかで『ビ』が鼻を表す事に思い至りつまり『ビ毛』なのか！　と思ったらよく考えたらそれじゃ鼻毛と被っちゃうから全然違うと無駄な思考に気付いたはるちんに敵はないっ!!」　",
+      "EN": "`Haruka@$S016❝So I was thinking, ❛Does ❞cellophone❝ stand for a ❝cello❞ that's also a ❝phone,❞ or a ❝cell❛o❜phone,❞ that is, the cell of a phone...?❜ But then I realized it: a cell IS a phone!!! So when I further considered that, it suddenly dawned on me that you actually write it as ❛celloPHANE❜ and this was an entirely useless line of reasoning. And the Haruchin who realized this has no enemies her equal!❞",
+      "Translation": "`Haruka@$S016❝So I was thinking, ❛Does ❞cellophone❝ stand for a ❝cello❞ that's also a ❝phone,❞ or a ❝cell❛o❜phone,❞ that is, the cell of a phone...?❜ But then I realized it: a cell IS a phone!!! So when I further considered that, it suddenly dawned on me that you actually write it as ❛celloPHANE❜ and this was an entirely useless line of reasoning. And the Haruchin who realized this has no enemies her equal!❞"
+    },
+    {
+      "JP": "葉留佳@「だんすっ!!　だんしんえぶりないっ!!　意味も特にないっ!!」",
+      "EN": "`Haruka@❝Dance!! Dancing every night!! That also really has no meaning!!❞",
+      "Translation": "`Haruka@❝Dance!! Dancing every night!! That also really has no meaning!!❞"
+    },
+    {
+      "JP": "葉留佳@「バトルだヨー全員集合～」",
+      "EN": "`Haruka@❝It's battle time! Everyone come on down!❞",
+      "Translation": "`Haruka@❝It's battle time! Everyone come on down!❞"
+    },
+    {
+      "JP": "葉留佳@「そしてこのはるちんの怒りがっ！　てめーをぶっとばすっ！」",
+      "EN": "`Haruka@❝And the anger of Haruchin! WILL BLOW YOU AWAY!❞",
+      "Translation": "`Haruka@❝And the anger of Haruchin! WILL BLOW YOU AWAY!❞"
+    },
+    {
+      "JP": "西園@「…猫は卑怯です」",
+      "EN": "`Nishizono@❝...Using cats is unfair.❞",
+      "Translation": "`Nishizono@❝...Using cats is unfair.❞"
+    },
+    {
+      "JP": "西園@「鈴さん…負けませんよ」",
+      "EN": "`Nishizono@❝Rin-san... I won't be defeated.❞",
+      "Translation": "`Nishizono@❝Rin-san... I won't be defeated.❞"
+    },
+    {
+      "JP": "西園@「どうかひとつ、お手柔らかに」",
+      "EN": "`Nishizono@❝Please be gentle.❞",
+      "Translation": "`Nishizono@❝Please be gentle.❞"
+    },
+    {
+      "JP": "西園@「…お互いに頑張りましょう」",
+      "EN": "`Nishizono@❝...Let's do our best.❞",
+      "Translation": "`Nishizono@❝...Let's do our best.❞"
+    },
+    {
+      "JP": "西園@「神北さんと争うことになろうとは」",
+      "EN": "`Nishizono@❝So it's come down to a fight between Kamikita-san and me...❞",
+      "Translation": "`Nishizono@❝So it's come down to a fight between Kamikita-san and me...❞"
+    },
+    {
+      "JP": "西園@「どうかひとつ、お手柔らかに」",
+      "EN": "`Nishizono@❝Please be gentle.❞",
+      "Translation": "`Nishizono@❝Please be gentle.❞"
+    },
+    {
+      "JP": "西園@「天然にも度があります」",
+      "EN": "`Nishizono@❝There's a limit to being an airhead.❞",
+      "Translation": "`Nishizono@❝There's a limit to being an airhead.❞"
+    },
+    {
+      "JP": "西園@「…剣客ものをもっと嗜（たしな）んでおくべきでした」",
+      "EN": "`Nishizono@❝...Maybe I should've taken more of an interest in fencing...❞",
+      "Translation": "`Nishizono@❝...Maybe I should've taken more of an interest in fencing...❞"
+    },
+    {
+      "JP": "西園@「…目が怖いです」",
+      "EN": "`Nishizono@❝...Your eyes are scary.❞",
+      "Translation": "`Nishizono@❝...Your eyes are scary.❞"
+    },
+    {
+      "JP": "西園@「来ヶ谷さん…負けませんよ」",
+      "EN": "`Nishizono@❝Kurugaya-san... I won't be defeated.❞",
+      "Translation": "`Nishizono@❝Kurugaya-san... I won't be defeated.❞"
+    },
+    {
+      "JP": "西園@「…たまにやばいですよ？」",
+      "EN": "`Nishizono@❝...Isn't it dangerous sometimes?❞",
+      "Translation": "`Nishizono@❝...Isn't it dangerous sometimes?❞"
+    },
+    {
+      "JP": "西園@「…果たしてバトルになるのでしょうか」",
+      "EN": "`Nishizono@❝...So we have to battle, after all?❞",
+      "Translation": "`Nishizono@❝...So we have to battle, after all?❞"
+    },
+    {
+      "JP": "西園@「能美さんと争うことになろうとは」",
+      "EN": "`Nishizono@❝It's come down to a fight between Noumi-san and me...❞",
+      "Translation": "`Nishizono@❝It's come down to a fight between Noumi-san and me...❞"
+    },
+    {
+      "JP": "西園@「どうかひとつ、お手柔らかに」",
+      "EN": "`Nishizono@❝Please be gentle.❞",
+      "Translation": "`Nishizono@❝Please be gentle.❞"
+    },
+    {
+      "JP": "西園@「…えんりょ…いりますか？」",
+      "EN": "`Nishizono@❝...Do I have to... hold back?❞",
+      "Translation": "`Nishizono@❝...Do I have to... hold back?❞"
+    },
+    {
+      "JP": "西園@「三枝さん…どうしてもやると言うのですね」",
+      "EN": "`Nishizono@❝Saigusa-san... If you so insist.❞",
+      "Translation": "`Nishizono@❝Saigusa-san... If you so insist.❞"
+    },
+    {
+      "JP": "西園@「三枝さん…負けませんよ」",
+      "EN": "`Nishizono@❝Saigusa-san... I won't be defeated.❞",
+      "Translation": "`Nishizono@❝Saigusa-san... I won't be defeated.❞"
+    },
+    {
+      "JP": "西園@「どうかひとつ、お手柔らかに」",
+      "EN": "`Nishizono@❝Please be gentle.❞",
+      "Translation": "`Nishizono@❝Please be gentle.❞"
+    },
+    {
+      "JP": "西園@「知りませんよ？」",
+      "EN": "`Nishizono@❝I don't care?❞",
+      "Translation": "`Nishizono@❝I don't care?❞"
+    },
+    {
+      "JP": "西園@「あなたならギャグで済みそうです」",
+      "EN": "`Nishizono@❝If it's you, it seems like this could be settled with a gag.❞",
+      "Translation": "`Nishizono@❝If it's you, it seems like this could be settled with a gag.❞"
+    },
+    {
+      "JP": "西園@「ついに決着を付ける時が来ましたか。…って言うと、盛り上がりますね」",
+      "EN": "`Nishizono@❝It's finally time to put an end to this? ...It makes me excited just saying that.❞",
+      "Translation": "`Nishizono@❝It's finally time to put an end to this? ...It makes me excited just saying that.❞"
+    },
+    {
+      "JP": "西園@「…無駄なことを」",
+      "EN": "`Nishizono@❝...Don't be doing useless stuff.❞",
+      "Translation": "`Nishizono@❝...Don't be doing useless stuff.❞"
+    },
+    {
+      "JP": "西園@「直枝さん…あなたもやるんですか？」",
+      "EN": "`Nishizono@❝Naoe-san... You're doing this too?❞",
+      "Translation": "`Nishizono@❝Naoe-san... You're doing this too?❞"
+    },
+    {
+      "JP": "西園@「…少しだけ、楽しみです」",
+      "EN": "`Nishizono@❝I've been looking forward to this, just a little.❞",
+      "Translation": "`Nishizono@❝I've been looking forward to this, just a little.❞"
+    },
+    {
+      "JP": "西園@「もし勝てたら、ひとつお願いがあるのですが…いえ、簡単なことですよ」",
+      "EN": "`Nishizono@❝If I win, I have a favor to ask... Don't worry, it's nothing hard...❞",
+      "Translation": "`Nishizono@❝If I win, I have a favor to ask... Don't worry, it's nothing hard...❞"
+    },
+    {
+      "JP": "西園@「井ノ原さんの筋肉主義には同意しかねます」",
+      "EN": "`Nishizono@❝I cannot bring myself to accept Inohara-san's Muscle Doctrine.❞",
+      "Translation": "`Nishizono@❝I cannot bring myself to accept Inohara-san's Muscle Doctrine.❞"
+    },
+    {
+      "JP": "西園@「…本当にやるんですか？」",
+      "EN": "`Nishizono@❝...Are we seriously doing this?❞",
+      "Translation": "`Nishizono@❝...Are we seriously doing this?❞"
+    },
+    {
+      "JP": "西園@「もし勝てたら、ひとつお願いがあるのですが…いえ、簡単なことですよ」",
+      "EN": "`Nishizono@❝If I win, I have a favor to ask... Don't worry, it's nothing hard...❞",
+      "Translation": "`Nishizono@❝If I win, I have a favor to ask... Don't worry, it's nothing hard...❞"
+    },
+    {
+      "JP": "西園@「必死ですね。恥ずかしくないですか」",
+      "EN": "`Nishizono@❝You look desperate. Aren't you embarrassed?❞",
+      "Translation": "`Nishizono@❝You look desperate. Aren't you embarrassed?❞"
+    },
+    {
+      "JP": "西園@「バカですか」",
+      "EN": "`Nishizono@❝Are you an idiot?❞",
+      "Translation": "`Nishizono@❝Are you an idiot?❞"
+    },
+    {
+      "JP": "西園@「…本当にやるんですか？」",
+      "EN": "`Nishizono@❝...Are we seriously doing this?❞",
+      "Translation": "`Nishizono@❝...Are we seriously doing this?❞"
+    },
+    {
+      "JP": "西園@「もし勝てたら、ひとつお願いがあるのですが…いえ、簡単なことですよ」",
+      "EN": "`Nishizono@❝If I win, I have a favor to ask... Don't worry, it's nothing hard...❞",
+      "Translation": "`Nishizono@❝If I win, I have a favor to ask... Don't worry, it's nothing hard...❞"
+    },
+    {
+      "JP": "西園@「必死ですね。恥ずかしくないですか」",
+      "EN": "`Nishizono@❝You look desperate. Aren't you embarrassed?❞",
+      "Translation": "`Nishizono@❝You look desperate. Aren't you embarrassed?❞"
+    },
+    {
+      "JP": "西園@「…はぁ」",
+      "EN": "`Nishizono@❝...Haa...❞",
+      "Translation": "`Nishizono@❝...Haa...❞"
+    },
+    {
+      "JP": "西園@「仕方ありません。しばらくの間、お付き合いしましょう」",
+      "EN": "`Nishizono@❝Guess you can't help it. I'll keep you company for a little while.❞",
+      "Translation": "`Nishizono@❝Guess you can't help it. I'll keep you company for a little while.❞"
+    },
+    {
+      "JP": "西園@「もし勝てたら、ひとつお願いがあるのですが…いえ、簡単なことですよ」",
+      "EN": "`Nishizono@❝If I win, I have a favor to ask... Don't worry, it's nothing hard...❞",
+      "Translation": "`Nishizono@❝If I win, I have a favor to ask... Don't worry, it's nothing hard...❞"
+    },
+    {
+      "JP": "西園@「必死ですね。恥ずかしくないですか」",
+      "EN": "`Nishizono@❝You look desperate. Aren't you embarrassed?❞",
+      "Translation": "`Nishizono@❝You look desperate. Aren't you embarrassed?❞"
+    },
+    {
+      "JP": "西園@「…美青年が…実行犯…アリです」",
+      "EN": "`Nishizono@❝The pretty boy... is the perpetrator... That just might work.❞",
+      "Translation": "`Nishizono@❝The pretty boy... is the perpetrator... That just might work.❞"
+    },
+    {
+      "JP": "西園@「仮面の下は…美青年…」",
+      "EN": "`Nishizono@❝Under the mask there is... a pretty boy...❞",
+      "Translation": "`Nishizono@❝Under the mask there is... a pretty boy...❞"
+    },
+    {
+      "JP": "西園@「これから解決編なのに…すぐに終わらせますよ」",
+      "EN": "`Nishizono@❝The last part airs soon... I'll finish this off quickly.❞",
+      "Translation": "`Nishizono@❝The last part airs soon... I'll finish this off quickly.❞"
+    },
+    {
+      "JP": "西園@「降りかかる火の粉は払いましょう」",
+      "EN": "`Nishizono@❝Let's do what has to be done.❞",
+      "Translation": "`Nishizono@❝Let's do what has to be done.❞"
+    },
+    {
+      "JP": "西園@「この勝負、お受けします。受け…なんて素敵な響きでしょう」",
+      "EN": "`Nishizono@❝I submit to the challenge... ❛Submit,❜ that has quite a nice ring to it.❞",
+      "Translation": "`Nishizono@❝I submit to the challenge... ❛Submit,❜ that has quite a nice ring to it.❞"
+    },
+    {
+      "JP": "西園@「…ぶっ飛ばしますよ？」",
+      "EN": "`Nishizono@❝...I'll blow you away?❞",
+      "Translation": "`Nishizono@❝...I'll blow you away?❞"
+    },
+    {
+      "JP": "西園@「負けません。おじいさんの名にかけて」",
+      "EN": "`Nishizono@❝I won't lose. I'll wager my grandfather's name on it.❞",
+      "Translation": "`Nishizono@❝I won't lose. I'll wager my grandfather's name on it.❞"
+    },
+    {
+      "JP": "真人@「なんだよ、鈴、やるってかよ」",
+      "EN": "`Masato@❝What's the problem, Rin, looking for a fight?❞",
+      "Translation": "`Masato@❝What's the problem, Rin, looking for a fight?❞"
+    },
+    {
+      "JP": "真人@「よりによって、おまえかよ…」",
+      "EN": "`Masato@❝Out of all people, it had to be you...❞",
+      "Translation": "`Masato@❝Out of all people, it had to be you...❞"
+    },
+    {
+      "JP": "真人@「おまえとは戦いたくなかったぜ…」",
+      "EN": "`Masato@❝I didn't want to fight you...❞",
+      "Translation": "`Masato@❝I didn't want to fight you...❞"
+    },
+    {
+      "JP": "真人@「なんてこった、理樹、おまえが立ちはだかるとはな」",
+      "EN": "`Masato@❝Goodness, why did you have to get in my way, Riki.❞",
+      "Translation": "`Masato@❝Goodness, why did you have to get in my way, Riki.❞"
+    },
+    {
+      "JP": "真人@「理樹…ほんとにやるのか…」",
+      "EN": "`Masato@❝Riki... do you really want to do this?❞",
+      "Translation": "`Masato@❝Riki... do you really want to do this?❞"
+    },
+    {
+      "JP": "真人@「ばーかばーか、勝てるもんなら勝ってみろっ、べろべろばー！」",
+      "EN": "`Masato@❝Stupid head, stupid head, if you think you can win, just try it! Huf huf huf!❞",
+      "Translation": "`Masato@❝Stupid head, stupid head, if you think you can win, just try it! Huf huf huf!❞"
+    },
+    {
+      "JP": "真人@「なんだよ、リベンジかい」",
+      "EN": "`Masato@❝What's the problem? You wanna have another go?❞",
+      "Translation": "`Masato@❝What's the problem? You wanna have another go?❞"
+    },
+    {
+      "JP": "真人@「オレの生きる時代に生まれてきたことを後悔させてやるよ」",
+      "EN": "`Masato@❝I'll make you regret that you were born in my lifetime.❞",
+      "Translation": "`Masato@❝I'll make you regret that you were born in my lifetime.❞"
+    },
+    {
+      "JP": "真人@「いいとも。こいよ。やってみろよ」",
+      "EN": "`Masato@❝Very well. Come on. Let's go.❞",
+      "Translation": "`Masato@❝Very well. Come on. Let's go.❞"
+    },
+    {
+      "JP": "真人@「よりによって、おまえかよ…」",
+      "EN": "`Masato@❝Out of all people, it had to be you...❞",
+      "Translation": "`Masato@❝Out of all people, it had to be you...❞"
+    },
+    {
+      "JP": "真人@「なんだか未知数すぎて、不気味だぜ…」",
+      "EN": "`Masato@❝There's too many of you... That's creepy...❞",
+      "Translation": "`Masato@❝There's too many of you... That's creepy...❞"
+    },
+    {
+      "JP": "真人@「きたか…オレは強いぜ？」",
+      "EN": "`Masato@❝So you've come... knowing my strength?❞",
+      "Translation": "`Masato@❝So you've come... knowing my strength?❞"
+    },
+    {
+      "JP": "真人@「それ以上言うな、筋肉でわかる」",
+      "EN": "`Masato@❝Don't say any more. My muscle understands.❞",
+      "Translation": "`Masato@❝Don't say any more. My muscle understands.❞"
+    },
+    {
+      "JP": "真人@「筋肉コースでよかったかい」",
+      "EN": "`Masato@❝Did the Muscle Combo Set help you out?❞",
+      "Translation": "`Masato@❝Did the Muscle Combo Set help you out?❞"
+    },
+    {
+      "JP": "真人@「筋肉フライト、一緒にするかい」",
+      "EN": "`Masato@❝You wanna go on a Muscle Course with me?❞",
+      "Translation": "`Masato@❝You wanna go on a Muscle Course with me?❞"
+    },
+    {
+      "JP": "真人@「筋肉ランド夢の国へご招待だぜ」",
+      "EN": "`Masato@❝I'll invite you to Muscleland Paradise.❞",
+      "Translation": "`Masato@❝I'll invite you to Muscleland Paradise.❞"
+    },
+    {
+      "JP": "真人@「いらっしゃいませ～、こちら筋肉バーとなっておりま～す」",
+      "EN": "`Masato@❝Welcome to the Muscle Bar! Can I have your order?❞",
+      "Translation": "`Masato@❝Welcome to the Muscle Bar! Can I have your order?❞"
+    },
+    {
+      "JP": "真人@「いいのかい。オレの筋肉はこんな時のために２４時間いつだって温まってるんだぜ？」",
+      "EN": "`Masato@❝Are you sure? For times like these, my muscles are always warmed up and ready to go.❞",
+      "Translation": "`Masato@❝Are you sure? For times like these, my muscles are always warmed up and ready to go.❞"
+    },
+    {
+      "JP": "真人@「ほぅ…意外と筋肉グルメだな…」",
+      "EN": "`Masato@❝Hoo... Quite the Muscle Gourmet, aren't you...❞",
+      "Translation": "`Masato@❝Hoo... Quite the Muscle Gourmet, aren't you...❞"
+    },
+    {
+      "JP": "真人@「よし、いこうぜ。そこまで筋肉ウェーブがやってきてる。今年一番のビッグウェーブだ！」",
+      "EN": "`Masato@❝All right, let's go. A Muscle Wave is coming. It's the biggest of the season, and you gotta ride the wave!!❞",
+      "Translation": "`Masato@❝All right, let's go. A Muscle Wave is coming. It's the biggest of the season, and you gotta ride the wave!!❞"
+    },
+    {
+      "JP": "真人@「おまえ、その筋肉で言ってんのかい。哀れだぜ」",
+      "EN": "`Masato@❝You're saying that with that muscle? That's pathetic!❞",
+      "Translation": "`Masato@❝You're saying that with that muscle? That's pathetic!❞"
+    },
+    {
+      "JP": "真人@「筋肉祭りでもおっぱじめようってか。いいだろう」",
+      "EN": "`Masato@❝Is it time to begin the Muscle Festival? OK with me!❞",
+      "Translation": "`Masato@❝Is it time to begin the Muscle Festival? OK with me!❞"
+    },
+    {
+      "JP": "真人@「もう筋肉の時点で勝負はついてるんだが、それでもやるのかい」",
+      "EN": "`Masato@❝Just by looking at our muscles, the match is already decided, are you sure you want to do it?❞",
+      "Translation": "`Masato@❝Just by looking at our muscles, the match is already decided, are you sure you want to do it?❞"
+    },
+    {
+      "JP": "真人@「どんだけやっても、おまえはオレに勝てねぇよ…」",
+      "EN": "`Masato@❝No matter how much we go at it, you'll never win...❞",
+      "Translation": "`Masato@❝No matter how much we go at it, you'll never win...❞"
+    },
+    {
+      "JP": "真人@「おまえがかよ…少し痛い目見なきゃわからねぇらしいな」",
+      "EN": "`Masato@❝You, of all people... It seems that you need a traumatic experience before you understand.❞",
+      "Translation": "`Masato@❝You, of all people... It seems that you need a traumatic experience before you understand.❞"
+    },
+    {
+      "JP": "真人@「無駄だって言ってんだろ、この筋肉ナシが！」",
+      "EN": "`Masato@❝Didn't I say it'd be impossible, oh you muscleless one!❞",
+      "Translation": "`Masato@❝Didn't I say it'd be impossible, oh you muscleless one!❞"
+    },
+    {
+      "JP": "真人@「筋肉ブーム到来って、わけだな」",
+      "EN": "`Masato@❝It's all about muscles these days.❞",
+      "Translation": "`Masato@❝It's all about muscles these days.❞"
+    },
+    {
+      "JP": "真人@「筋肉トークで落ちない女なんかいねぇよ。イチコロさ」",
+      "EN": "`Masato@❝There is no girl who won't fall for my Muscle Talk. Hands down.❞",
+      "Translation": "`Masato@❝There is no girl who won't fall for my Muscle Talk. Hands down.❞"
+    },
+    {
+      "JP": "真人@「てめぇの、皮膚と骨の間にあるその薄っぺらいのはなんだ？　まさかそれが筋肉かよ」",
+      "EN": "`Masato@❝What is that wedged in between your skin and bones? That ain't Muscle...❞",
+      "Translation": "`Masato@❝What is that wedged in between your skin and bones? That ain't Muscle...❞"
+    },
+    {
+      "JP": "真人@「わかってんのか？　おまえはもう筋肉空間に足を踏み入れちまってんだよ」",
+      "EN": "`Masato@❝Don't you see? You're already trapped in my Muscle Dimension.❞",
+      "Translation": "`Masato@❝Don't you see? You're already trapped in my Muscle Dimension.❞"
+    },
+    {
+      "JP": "真人@「筋肉が成る木、それがオレさ」",
+      "EN": "`Masato@❝The tree with muscle. That's me.❞",
+      "Translation": "`Masato@❝The tree with muscle. That's me.❞"
+    },
+    {
+      "JP": "真人@「おまえもしかして、筋肉のことわかってねぇんじゃねぇか!?」",
+      "EN": "`Masato@❝Is it possible that you... don't understand Muscle!?❞",
+      "Translation": "`Masato@❝Is it possible that you... don't understand Muscle!?❞"
+    },
+    {
+      "JP": "真人@「筋肉筋肉言ってりゃオレだなんて思ってるんじゃねぇぞ、ちゃんと考えて筋肉って言ってんだよ、この野郎めが！」",
+      "EN": "`Masato@❝You keep saying muscle like it's nothing, you got any idea what it means to me? Next time, think before you say muscle aloud, fool!❞",
+      "Translation": "`Masato@❝You keep saying muscle like it's nothing, you got any idea what it means to me? Next time, think before you say muscle aloud, fool!❞"
+    },
+    {
+      "JP": "真人@「はっ、そりゃニュートンも、筋力を見つけるって話だ」",
+      "EN": "`Masato@❝Hah, even Newton discovered the power of muscle.❞",
+      "Translation": "`Masato@❝Hah, even Newton discovered the power of muscle.❞"
+    },
+    {
+      "JP": "真人@「オレがこの手で練ったそばは、確かに筋肉そばと呼ばれている。しかしそれがなんだっていうんだ？」",
+      "EN": "`Masato@❝The soba kneaded with these hands can certainly be called ❛Muscle Soba.❜ But what does that really mean?❞",
+      "Translation": "`Masato@❝The soba kneaded with these hands can certainly be called ❛Muscle Soba.❜ But what does that really mean?❞"
+    },
+    {
+      "JP": "真人@「オレがこの手で回したピザは、確かに筋肉ピザと呼ばれている。しかしそれがなんだっていうんだ？」",
+      "EN": "`Masato@❝The pizza tossed with these hands can certainly be called ❛Muscle Pizza.❜ But what does that really mean?❞",
+      "Translation": "`Masato@❝The pizza tossed with these hands can certainly be called ❛Muscle Pizza.❜ But what does that really mean?❞"
+    },
+    {
+      "JP": "真人@「はは！　なんて話だ、筋肉まで笑っちまうぜ！」",
+      "EN": "`Masato@❝Haha! What a story. Even my Muscle is laughing!❞",
+      "Translation": "`Masato@❝Haha! What a story. Even my Muscle is laughing!❞"
+    },
+    {
+      "JP": "謙吾@「俺の前に立ちはだかるな…鈴」",
+      "EN": "`Kengo@❝Don't stand in my way... Rin.❞",
+      "Translation": "`Kengo@❝Don't stand in my way... Rin.❞"
+    },
+    {
+      "JP": "謙吾@「鈴…おまえと戦う日が来るとはな」",
+      "EN": "`Kengo@❝Rin... So the day has come when I'm to fight you...❞",
+      "Translation": "`Kengo@❝Rin... So the day has come when I'm to fight you...❞"
+    },
+    {
+      "JP": "謙吾@「悪いが手加減はなしだ」",
+      "EN": "`Kengo@❝Sorry, but I will give no quarter.❞",
+      "Translation": "`Kengo@❝Sorry, but I will give no quarter.❞"
+    },
+    {
+      "JP": "謙吾@「今のおまえになにができる？」",
+      "EN": "`Kengo@❝As you are now, what can you do?❞",
+      "Translation": "`Kengo@❝As you are now, what can you do?❞"
+    },
+    {
+      "JP": "謙吾@「俺の前に立ちはだかるな…神北よ」",
+      "EN": "`Kengo@❝Don't stand in my way... Kamikita.❞",
+      "Translation": "`Kengo@❝Don't stand in my way... Kamikita.❞"
+    },
+    {
+      "JP": "謙吾@「ふっ…おまえのお菓子のように甘くはないぞ」",
+      "EN": "`Kengo@❝Hmm... I'm not sweet like your candy.❞",
+      "Translation": "`Kengo@❝Hmm... I'm not sweet like your candy.❞"
+    },
+    {
+      "JP": "謙吾@「俺の前に立ちはだかるな…来ヶ谷」",
+      "EN": "`Kengo@❝Don't stand in my way... Kurugaya.❞",
+      "Translation": "`Kengo@❝Don't stand in my way... Kurugaya.❞"
+    },
+    {
+      "JP": "謙吾@「ふっ…おまえの解く数式のようには簡単にはいくまい」",
+      "EN": "`Kengo@❝Hmph... This won't be as easy as the mathematical equations you like to solve.❞",
+      "Translation": "`Kengo@❝Hmph... This won't be as easy as the mathematical equations you like to solve.❞"
+    },
+    {
+      "JP": "謙吾@「リトルバスターズシーールド！」",
+      "EN": "`Kengo@❝LITTLE BUSTERS SHIE――――LD!❞",
+      "Translation": "`Kengo@❝LITTLE BUSTERS SHIE――――LD!❞"
+    },
+    {
+      "JP": "謙吾@「俺の前に立ちはだかるな…能美よ」",
+      "EN": "`Kengo@❝Don't stand in my way... Noumi.❞",
+      "Translation": "`Kengo@❝Don't stand in my way... Noumi.❞"
+    },
+    {
+      "JP": "謙吾@「ふっ…おまえの犬たちのように従順ではないぞ、俺は」",
+      "EN": "`Kengo@❝Hmm... I'm not obedient like your dogs there.❞",
+      "Translation": "`Kengo@❝Hmm... I'm not obedient like your dogs there.❞"
+    },
+    {
+      "JP": "謙吾@「俺の前に立ちはだかるな…三枝よ」",
+      "EN": "`Kengo@❝Don't stand in my way... Saigusa.❞",
+      "Translation": "`Kengo@❝Don't stand in my way... Saigusa.❞"
+    },
+    {
+      "JP": "謙吾@「ふっ…おまえの悪戯のように楽しめるものじゃないぞ」",
+      "EN": "`Kengo@❝Hmph... I'm not doing this for fun, unlike you and your little pranks.❞",
+      "Translation": "`Kengo@❝Hmph... I'm not doing this for fun, unlike you and your little pranks.❞"
+    },
+    {
+      "JP": "謙吾@「俺の前に立ちはだかるな…西園」",
+      "EN": "`Kengo@❝Don't stand in my way... Nishizono.❞",
+      "Translation": "`Kengo@❝Don't stand in my way... Nishizono.❞"
+    },
+    {
+      "JP": "謙吾@「ふっ…おまえの読むミステリーのようには綺麗に片づけられないぞ」",
+      "EN": "`Kengo@❝Hmph... This isn't going to get wrapped up all nice and neat like those mystery novels you read.❞",
+      "Translation": "`Kengo@❝Hmph... This isn't going to get wrapped up all nice and neat like those mystery novels you read.❞"
+    },
+    {
+      "JP": "謙吾@「理樹…おまえと戦う日が来るとはな」",
+      "EN": "`Kengo@❝Riki... So the day has come when I'm to fight you...❞",
+      "Translation": "`Kengo@❝Riki... So the day has come when I'm to fight you...❞"
+    },
+    {
+      "JP": "謙吾@「悪いが手加減はなしだ」",
+      "EN": "`Kengo@❝Sorry, but I will give no quarter.❞",
+      "Translation": "`Kengo@❝Sorry, but I will give no quarter.❞"
+    },
+    {
+      "JP": "謙吾@「今のおまえになにができる？」",
+      "EN": "`Kengo@❝As you are now, what can you do?❞",
+      "Translation": "`Kengo@❝As you are now, what can you do?❞"
+    },
+    {
+      "JP": "謙吾@「のぞむところだ」",
+      "EN": "`Kengo@❝This is what I've been hoping for.❞",
+      "Translation": "`Kengo@❝This is what I've been hoping for.❞"
+    },
+    {
+      "JP": "謙吾@「返り討ちにしてくれよう」",
+      "EN": "`Kengo@❝I'll turn the tables on you.❞",
+      "Translation": "`Kengo@❝I'll turn the tables on you.❞"
+    },
+    {
+      "JP": "謙吾@「無様に這いつくばるがいい」",
+      "EN": "`Kengo@❝If you want to grovel unsightfully, be my guest.❞",
+      "Translation": "`Kengo@❝If you want to grovel unsightfully, be my guest.❞"
+    },
+    {
+      "JP": "謙吾@「いいだろう」",
+      "EN": "`Kengo@❝Very well.❞",
+      "Translation": "`Kengo@❝Very well.❞"
+    },
+    {
+      "JP": "謙吾@「おまえと戦う日が来るなんてな」",
+      "EN": "`Kengo@❝The day has come when I'm to fight you...❞",
+      "Translation": "`Kengo@❝The day has come when I'm to fight you...❞"
+    },
+    {
+      "JP": "謙吾@「よし、受けてたとう」",
+      "EN": "`Kengo@❝OK, let's get started.❞",
+      "Translation": "`Kengo@❝OK, let's get started.❞"
+    },
+    {
+      "JP": "謙吾@「そんなにこのジャンパーが欲しいか」",
+      "EN": "`Kengo@❝You want this jumper that badly?❞",
+      "Translation": "`Kengo@❝You want this jumper that badly?❞"
+    },
+    {
+      "JP": "謙吾@「いいだろう。受けて立とう」",
+      "EN": "`Kengo@❝Very well. I take your challenge.❞",
+      "Translation": "`Kengo@❝Very well. I take your challenge.❞"
+    },
+    {
+      "JP": "謙吾@「ふ…連戦連勝の男だぞ」",
+      "EN": "`Kengo@❝Hm... This man has an unbroken string of victories.❞",
+      "Translation": "`Kengo@❝Hm... This man has an unbroken string of victories.❞"
+    },
+    {
+      "JP": "謙吾@「いいだろう。受けて立とう」",
+      "EN": "`Kengo@❝Very well. I take your challenge.❞",
+      "Translation": "`Kengo@❝Very well. I take your challenge.❞"
+    },
+    {
+      "JP": "恭介@「ほぅ…本気だな」",
+      "EN": "`Kyousuke@❝Whoa... You're serious about this.❞",
+      "Translation": "`Kyousuke@❝Whoa... You're serious about this.❞"
+    },
+    {
+      "JP": "恭介@「いい面構えだ」",
+      "EN": "`Kyousuke@❝That's a good expression.❞",
+      "Translation": "`Kyousuke@❝That's a good expression.❞"
+    },
+    {
+      "JP": "恭介@「お兄ちゃんとやるのかい」",
+      "EN": "`Kyousuke@❝You OK with fighting your Onii-chan?❞",
+      "Translation": "`Kyousuke@❝You OK with fighting your Onii-chan?❞"
+    },
+    {
+      "JP": "恭介@「いいのか、おまえのことは知り尽くしているぜ？」",
+      "EN": "`Kyousuke@❝Are you sure? Even though I know you through and through?❞",
+      "Translation": "`Kyousuke@❝Are you sure? Even though I know you through and through?❞"
+    },
+    {
+      "JP": "恭介@「お兄たん、と呼びなさい」",
+      "EN": "`Kyousuke@❝You will call me Onii-tan.❞",
+      "Translation": "`Kyousuke@❝You will call me Onii-tan.❞"
+    },
+    {
+      "JP": "恭介@「愚かな妹だ…」",
+      "EN": "`Kyousuke@❝What a foolish little sister you are...❞",
+      "Translation": "`Kyousuke@❝What a foolish little sister you are...❞"
+    },
+    {
+      "JP": "恭介@「やれやれ世話がかかる奴だな…」",
+      "EN": "`Kyousuke@❝Goodness, you sure are a handful.❞",
+      "Translation": "`Kyousuke@❝Goodness, you sure are a handful.❞"
+    },
+    {
+      "JP": "恭介@「相手を選べよ」",
+      "EN": "`Kyousuke@❝Choose your opponent.❞",
+      "Translation": "`Kyousuke@❝Choose your opponent.❞"
+    },
+    {
+      "JP": "恭介@「ご指名どうも」",
+      "EN": "`Kyousuke@❝Thank you for your selection.❞",
+      "Translation": "`Kyousuke@❝Thank you for your selection.❞"
+    },
+    {
+      "JP": "恭介@「来た以上は引き返せない。いいな」",
+      "EN": "`Kyousuke@❝Since I'm here, there's no going back. You got that?❞",
+      "Translation": "`Kyousuke@❝Since I'm here, there's no going back. You got that?❞"
+    },
+    {
+      "JP": "恭介@「地獄に叩き落としてやる」",
+      "EN": "`Kyousuke@❝You're going to hell.❞",
+      "Translation": "`Kyousuke@❝You're going to hell.❞"
+    },
+    {
+      "JP": "恭介@「来たか、来ヶ谷」",
+      "EN": "`Kyousuke@❝Came, did you, Kurugaya...❞",
+      "Translation": "`Kyousuke@❝Came, did you, Kurugaya...❞"
+    },
+    {
+      "JP": "恭介@「いいだろう…ふふ…はーっはっはっは！」",
+      "EN": "`Kyousuke@❝Ok... Fufu... Haaaahahaha!!❞",
+      "Translation": "`Kyousuke@❝Ok... Fufu... Haaaahahaha!!❞"
+    },
+    {
+      "JP": "恭介@「地獄に叩き落としてやろう…」",
+      "EN": "`Kyousuke@❝You're going to hell...❞",
+      "Translation": "`Kyousuke@❝You're going to hell...❞"
+    },
+    {
+      "JP": "恭介@「後悔するぜ…？」",
+      "EN": "`Kyousuke@❝Any regrets...?❞",
+      "Translation": "`Kyousuke@❝Any regrets...?❞"
+    },
+    {
+      "JP": "恭介@「意外だな。おまえが来るとは」",
+      "EN": "`Kyousuke@❝I didn't expect you to come...❞",
+      "Translation": "`Kyousuke@❝I didn't expect you to come...❞"
+    },
+    {
+      "JP": "恭介@「ふざけている、というわけではなさそうだな」",
+      "EN": "`Kyousuke@❝It doesn't look like you're messing around...❞",
+      "Translation": "`Kyousuke@❝It doesn't look like you're messing around...❞"
+    },
+    {
+      "JP": "恭介@「精々足掻いてみせてくれ」",
+      "EN": "`Kyousuke@❝Don't hold back. Show me what you've got.❞",
+      "Translation": "`Kyousuke@❝Don't hold back. Show me what you've got.❞"
+    },
+    {
+      "JP": "恭介@「有意義な時間にもならなさそうだな」",
+      "EN": "`Kyousuke@❝This seems like it'll be a waste of time.❞",
+      "Translation": "`Kyousuke@❝This seems like it'll be a waste of time.❞"
+    },
+    {
+      "JP": "恭介@「意外だな。おまえが来るとは」",
+      "EN": "`Kyousuke@❝I didn't expect you to come...❞",
+      "Translation": "`Kyousuke@❝I didn't expect you to come...❞"
+    },
+    {
+      "JP": "恭介@「ふざけている、というわけではなさそうだな」",
+      "EN": "`Kyousuke@❝It doesn't look like you're messing around...❞",
+      "Translation": "`Kyousuke@❝It doesn't look like you're messing around...❞"
+    },
+    {
+      "JP": "恭介@「精々足掻いてみせてくれ」",
+      "EN": "`Kyousuke@❝Don't hold back. Show me what you've got.❞",
+      "Translation": "`Kyousuke@❝Don't hold back. Show me what you've got.❞"
+    },
+    {
+      "JP": "恭介@「有意義な時間にもならなさそうだな」",
+      "EN": "`Kyousuke@❝This seems like it'll be a waste of time.❞",
+      "Translation": "`Kyousuke@❝This seems like it'll be a waste of time.❞"
+    },
+    {
+      "JP": "恭介@「科学部の野郎ども…厄介なもんを…」",
+      "EN": "`Kyousuke@❝You Science Club nerds seem like a lot of trouble...❞",
+      "Translation": "`Kyousuke@❝You Science Club nerds seem like a lot of trouble...❞"
+    },
+    {
+      "JP": "恭介@「俺がモルモットかよ…」",
+      "EN": "`Kyousuke@❝You think I'll be your guinea pig...❞",
+      "Translation": "`Kyousuke@❝You think I'll be your guinea pig...❞"
+    },
+    {
+      "JP": "恭介@「ここを実験場にしようってかよ…」",
+      "EN": "`Kyousuke@❝You wanna turn this into a test site...?❞",
+      "Translation": "`Kyousuke@❝You wanna turn this into a test site...?❞"
+    },
+    {
+      "JP": "恭介@「ちっとは上手くなったか？」",
+      "EN": "`Kyousuke@❝Did you get a little better?❞",
+      "Translation": "`Kyousuke@❝Did you get a little better?❞"
+    },
+    {
+      "JP": "恭介@「いい顔してるぜ、おまえ」",
+      "EN": "`Kyousuke@❝I like the face you're making.❞",
+      "Translation": "`Kyousuke@❝I like the face you're making.❞"
+    },
+    {
+      "JP": "恭介@「その構え、なかなか様になってるぜ」",
+      "EN": "`Kyousuke@❝That's quite the nice posture you have.❞",
+      "Translation": "`Kyousuke@❝That's quite the nice posture you have.❞"
+    },
+    {
+      "JP": "恭介@「てめえにはまだはえーよ」",
+      "EN": "`Kyousuke@❝It's still too early for you.❞",
+      "Translation": "`Kyousuke@❝It's still too early for you.❞"
+    },
+    {
+      "JP": "恭介@「おまえから来るとはな…成長したもんだぜ」",
+      "EN": "`Kyousuke@❝You came here on your own... You've grown up.❞",
+      "Translation": "`Kyousuke@❝You came here on your own... You've grown up.❞"
+    },
+    {
+      "JP": "恭介@「早くやろうぜ」",
+      "EN": "`Kyousuke@❝Hurry up and let's do this!❞",
+      "Translation": "`Kyousuke@❝Hurry up and let's do this!❞"
+    },
+    {
+      "JP": "恭介@「その筋肉が伊達じゃないってところ見せてもらおうか」",
+      "EN": "`Kyousuke@❝Shall I show you that these muscles of mine aren't just for show?❞",
+      "Translation": "`Kyousuke@❝Shall I show you that these muscles of mine aren't just for show?❞"
+    },
+    {
+      "JP": "恭介@「柔よく剛を制すさ…」",
+      "EN": "`Kyousuke@❝Soft words melt hard hearts, ya know...❞",
+      "Translation": "`Kyousuke@❝Soft words melt hard hearts, ya know...❞"
+    },
+    {
+      "JP": "恭介@「力だけじゃ勝てない。それがこのバトルさ」",
+      "EN": "`Kyousuke@❝You can't win with strength alone. That's what this battle is about.❞",
+      "Translation": "`Kyousuke@❝You can't win with strength alone. That's what this battle is about.❞"
+    },
+    {
+      "JP": "恭介@「筋肉野郎がお出迎えか」",
+      "EN": "`Kyousuke@❝The musclehead came out to greet me, huh?❞",
+      "Translation": "`Kyousuke@❝The musclehead came out to greet me, huh?❞"
+    },
+    {
+      "JP": "恭介@「きたか…筋肉」",
+      "EN": "`Kyousuke@❝Came, did you, Muscles?❞",
+      "Translation": "`Kyousuke@❝Came, did you, Muscles?❞"
+    },
+    {
+      "JP": "恭介@「おっと、筋肉じゃねぇか」",
+      "EN": "`Kyousuke@❝Hoho... If it isn't Muscles.❞",
+      "Translation": "`Kyousuke@❝Hoho... If it isn't Muscles.❞"
+    },
+    {
+      "JP": "恭介@「弟の筋肉次郎は元気かい」",
+      "EN": "`Kyousuke@❝Is your little brother, Muscles Jr., doing OK?❞",
+      "Translation": "`Kyousuke@❝Is your little brother, Muscles Jr., doing OK?❞"
+    },
+    {
+      "JP": "恭介@「ほぅ…本気だな」",
+      "EN": "`Kyousuke@❝Whoa... You're serious about this.❞",
+      "Translation": "`Kyousuke@❝Whoa... You're serious about this.❞"
+    },
+    {
+      "JP": "恭介@「こいつはのっぴきならねぇ状況だな」",
+      "EN": "`Kyousuke@❝Looks like there's no getting around this.❞",
+      "Translation": "`Kyousuke@❝Looks like there's no getting around this.❞"
+    },
+    {
+      "JP": "恭介@「きたか…最強」",
+      "EN": "`Kyousuke@❝Came, did you, the strongest of the strong...❞",
+      "Translation": "`Kyousuke@❝Came, did you, the strongest of the strong...❞"
+    },
+    {
+      "JP": "恭介@「最強野郎がお出迎えか」",
+      "EN": "`Kyousuke@❝The strongest one came out to greet me?❞",
+      "Translation": "`Kyousuke@❝The strongest one came out to greet me?❞"
+    },
+    {
+      "JP": "恭介@「力だけじゃ勝てない。それがこのバトルさ」",
+      "EN": "`Kyousuke@❝You can't win with strength alone. That's what this battle is about.❞",
+      "Translation": "`Kyousuke@❝You can't win with strength alone. That's what this battle is about.❞"
+    },
+    {
+      "JP": "恭介@「怪我なんていいわけにさせねーぜ？」",
+      "EN": "`Kyousuke@❝Think you can use your injury as an excuse?❞",
+      "Translation": "`Kyousuke@❝Think you can use your injury as an excuse?❞"
+    },
+    {
+      "JP": "恭介@「そんなになってまで戦う…何がおまえを突き動かしているんだろうな」",
+      "EN": "`Kyousuke@❝Getting so hyped about a fight... What's got you so worked up?❞",
+      "Translation": "`Kyousuke@❝Getting so hyped about a fight... What's got you so worked up?❞"
+    },
+    {
+      "JP": "恭介@「いいだろう、相手してやろう」",
+      "EN": "`Kyousuke@❝Alright, I'll be your opponent.❞",
+      "Translation": "`Kyousuke@❝Alright, I'll be your opponent.❞"
+    },
+    {
+      "JP": "恭介@「いいだろう、受けてやろう」",
+      "EN": "`Kyousuke@❝Alright, let's begin.❞",
+      "Translation": "`Kyousuke@❝Alright, let's begin.❞"
+    },
+    {
+      "JP": "恭介@「ほぅ…おまえがくるとはな」",
+      "EN": "`Kyousuke@❝Hmmm... I never thought to see you here...❞",
+      "Translation": "`Kyousuke@❝Hmmm... I never thought to see you here...❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「ほう…面白い、うまうー」",
+      "EN": "`Mask the Saito@❝Hmmm... That's interesting, umau～.❞",
+      "Translation": "`Mask the Saito@❝Hmmm... That's interesting, umau～.❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「ふ…何を自ら、うまうー」",
+      "EN": "`Mask the Saito@❝Fu... You chose your own fate, umau.❞",
+      "Translation": "`Mask the Saito@❝Fu... You chose your own fate, umau.❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「飛んで火に入る夏のうまうー」",
+      "EN": "`Mask the Saito@❝Just like a moth flying into the flame, umau.❞",
+      "Translation": "`Mask the Saito@❝Just like a moth flying into the flame, umau.❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「そいつはなんだ？　友情かい。それともうまう？」",
+      "EN": "`Mask the Saito@❝What is it? Friendship? Or maybe umau?❞",
+      "Translation": "`Mask the Saito@❝What is it? Friendship? Or maybe umau?❞"
+    },
+    {
+      "JP": "西園@「科学部部隊！」",
+      "EN": "`Nishizono@❝Science Club Corps!❞",
+      "Translation": "`Nishizono@❝Science Club Corps!❞"
+    },
+    {
+      "JP": "科学部@「はっ」",
+      "EN": "`Club Member@❝Yes sir!❞",
+      "Translation": "`Club Member@❝Yes sir!❞"
+    },
+    {
+      "JP": "鈴木@「ＮＹＰ値を測定しろ」",
+      "EN": "`Suzuki@❝Measure the SIP level!❞",
+      "Translation": "`Suzuki@❝Measure the SIP level!❞"
+    },
+    {
+      "JP": "科学部@「はっ」",
+      "EN": "`Club Member@❝Yes sir!❞",
+      "Translation": "`Club Member@❝Yes sir!❞"
+    },
+    {
+      "JP": "鈴木@「報告」",
+      "EN": "`Suzuki@❝Report!❞",
+      "Translation": "`Suzuki@❝Report!❞"
+    },
+    {
+      "JP": "科学部@「だめっす」",
+      "EN": "`Club Member@❝No good!❞",
+      "Translation": "`Club Member@❝No good!❞"
+    },
+    {
+      "JP": "鈴木@「そうだな、だめだめだ」",
+      "EN": "`Suzuki@❝Is that so... So it's totally no good...❞",
+      "Translation": "`Suzuki@❝Is that so... So it's totally no good...❞"
+    },
+    {
+      "JP": "鈴木@「油断するな、西園くん！」",
+      "EN": "`Suzuki@❝Don't let down your guard, Nishizono-kun!❞",
+      "Translation": "`Suzuki@❝Don't let down your guard, Nishizono-kun!❞"
+    },
+    {
+      "JP": "科学部@「油断するなっす、西園さん！」",
+      "EN": "`Club Member@❝Don't get careless, Nishizono-san!❞",
+      "Translation": "`Club Member@❝Don't get careless, Nishizono-san!❞"
+    },
+    {
+      "JP": "科学部@「悪いっす」",
+      "EN": "`Club Member@❝This is bad, dood.❞",
+      "Translation": "`Club Member@❝This is bad, dood.❞"
+    },
+    {
+      "JP": "鈴木@「そうだな、値的には振るわない」",
+      "EN": "`Suzuki@❝Is that so... The values are that low...❞",
+      "Translation": "`Suzuki@❝Is that so... The values are that low...❞"
+    },
+    {
+      "JP": "鈴木@「西園くん、慎重にいきたまえ」",
+      "EN": "`Suzuki@❝Nishizono-kun! Go at your own discretion!❞",
+      "Translation": "`Suzuki@❝Nishizono-kun! Go at your own discretion!❞"
+    },
+    {
+      "JP": "科学部@「西園さん！　慎重にいくっす！」",
+      "EN": "`Club Member@❝Nishizono-san! Go at your own discretion!❞",
+      "Translation": "`Club Member@❝Nishizono-san! Go at your own discretion!❞"
+    },
+    {
+      "JP": "科学部@「普通っす」",
+      "EN": "`Club Member@❝Normal...❞",
+      "Translation": "`Club Member@❝Normal...❞"
+    },
+    {
+      "JP": "鈴木@「そうだな、平均的な値だ」",
+      "EN": "`Suzuki@❝I guess so, it's a pretty average level.❞",
+      "Translation": "`Suzuki@❝I guess so, it's a pretty average level.❞"
+    },
+    {
+      "JP": "鈴木@「リラックスしていけ、西園くん！」",
+      "EN": "`Suzuki@❝Take it easy, Nishizono-kun!❞",
+      "Translation": "`Suzuki@❝Take it easy, Nishizono-kun!❞"
+    },
+    {
+      "JP": "科学部@「リラックスしていけっす、西園さん！」",
+      "EN": "`Club Member@❝Take it easy, Nishizono-san!❞",
+      "Translation": "`Club Member@❝Take it easy, Nishizono-san!❞"
+    },
+    {
+      "JP": "科学部@「好調っす」",
+      "EN": "`Club Member@❝It's promising.❞",
+      "Translation": "`Club Member@❝It's promising.❞"
+    },
+    {
+      "JP": "鈴木@「ほぅ…いい値だ」",
+      "EN": "`Suzuki@❝Woh... that's good quality.❞",
+      "Translation": "`Suzuki@❝Woh... that's good quality.❞"
+    },
+    {
+      "JP": "鈴木@「遺憾なく発揮したまえ、西園くん！」",
+      "EN": "`Suzuki@❝Without holding back, leave no regrets, Nishizono-kun!❞",
+      "Translation": "`Suzuki@❝Without holding back, leave no regrets, Nishizono-kun!❞"
+    },
+    {
+      "JP": "科学部@「遺憾なく発揮するっす、西園さん！」",
+      "EN": "`Club Member@❝Show us your full power, Nishizono-san!❞",
+      "Translation": "`Club Member@❝Show us your full power, Nishizono-san!❞"
+    },
+    {
+      "JP": "科学部@「やばいっす、とんでもないっす」",
+      "EN": "`Club Member@❝This is bad, it's totally off the charts!❞",
+      "Translation": "`Club Member@❝This is bad, it's totally off the charts!❞"
+    },
+    {
+      "JP": "鈴木@「ほぅ…最高値じゃないか」",
+      "EN": "`Suzuki@❝Wow... that's the largest reaction ever, ain't it?❞",
+      "Translation": "`Suzuki@❝Wow... that's the largest reaction ever, ain't it?❞"
+    },
+    {
+      "JP": "鈴木@「我々を楽しませておくれ、西園くん！」",
+      "EN": "`Suzuki@❝Make it a good show, Nishizono-kun!❞",
+      "Translation": "`Suzuki@❝Make it a good show, Nishizono-kun!❞"
+    },
+    {
+      "JP": "科学部@「我々を楽しませてくれっす、西園さん！」",
+      "EN": "`Club Member@❝Make it a good show, Nishizono-san!❞",
+      "Translation": "`Club Member@❝Make it a good show, Nishizono-san!❞"
+    }
+  ]
+}

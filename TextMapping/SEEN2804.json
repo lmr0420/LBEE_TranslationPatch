@@ -1,0 +1,2164 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "日も食べかけたところでメールが届く。",
+      "EN": "The text came in the middle of dinner today as well.",
+      "Translation": "The text came in the middle of dinner today as well."
+    },
+    {
+      "JP": "一時間後に昇降口で　Ｔ』",
+      "EN": "[In one hour, at the entrance. -T]",
+      "Translation": "[In one hour, at the entrance. -T]"
+    },
+    {
+      "JP": "日と同じ内容だった。",
+      "EN": "It was the same as yesterday.",
+      "Translation": "It was the same as yesterday."
+    },
+    {
+      "JP": "う真っ暗だ。",
+      "EN": "It was pitch black.",
+      "Translation": "It was pitch black."
+    },
+    {
+      "JP": "ろそろ一時間が経つ頃だけど。",
+      "EN": "About 1 hour had passed.",
+      "Translation": "About 1 hour had passed."
+    },
+    {
+      "JP": "…。",
+      "EN": "But...",
+      "Translation": "But..."
+    },
+    {
+      "JP": "れから１０分ぐらい経とうとも、現れない。",
+      "EN": "Even after 10 more minutes, there was no sign of her.",
+      "Translation": "Even after 10 more minutes, there was no sign of her."
+    },
+    {
+      "JP": "らに待つ。",
+      "EN": "I waited some more.",
+      "Translation": "I waited some more."
+    },
+    {
+      "JP": "０分…。",
+      "EN": "20 minutes...",
+      "Translation": "20 minutes..."
+    },
+    {
+      "JP": "０分…。",
+      "EN": "30 minutes...",
+      "Translation": "30 minutes..."
+    },
+    {
+      "JP": "ない。",
+      "EN": "She wasn't coming.",
+      "Translation": "She wasn't coming."
+    },
+    {
+      "JP": "理樹@（これは…）",
+      "EN": "`Riki@(This is...)",
+      "Translation": "`Riki@(This is...)"
+    },
+    {
+      "JP": "は最悪のケースを考え始めていた。",
+      "EN": "I started to think about the worst case scenario.",
+      "Translation": "I started to think about the worst case scenario."
+    },
+    {
+      "JP": "鷺戸さん自身が捕まった…。",
+      "EN": "Tokido-san herself was caught...",
+      "Translation": "Tokido-san herself was caught..."
+    },
+    {
+      "JP": "の執行部、あるいは、他のスパイに…。",
+      "EN": "By the Darkness Executives, or other spies...",
+      "Translation": "By the Darkness Executives, or other spies..."
+    },
+    {
+      "JP": "能性ならいくらだって考えられる。彼女にとってこの学校は敵だらけなんだから。",
+      "EN": "Anything could have happened to her. This school is full of her enemies...",
+      "Translation": "Anything could have happened to her. This school is full of her enemies..."
+    },
+    {
+      "JP": "なれば、これ以上待ってはいられない。",
+      "EN": "If that was the case, I can't wait here any longer.",
+      "Translation": "If that was the case, I can't wait here any longer."
+    },
+    {
+      "JP": "子寮に行って、誰かに無事を確認してもらおう。",
+      "EN": "I should go to the girls dorm and see if I get any information on her whereabouts from anyone.",
+      "Translation": "I should go to the girls dorm and see if I get any information on her whereabouts from anyone."
+    },
+    {
+      "JP": "の入り口で、僕らは鉢合わせた。",
+      "EN": "At the entrance, we ran into each other.",
+      "Translation": "At the entrance, we ran into each other."
+    },
+    {
+      "JP": "朱鷺戸@「………」",
+      "EN": "`Tokido@❝......❞",
+      "Translation": "`Tokido@❝......❞"
+    },
+    {
+      "JP": "女は黙り込んでいる。",
+      "EN": "She stayed dead silent.",
+      "Translation": "She stayed dead silent."
+    },
+    {
+      "JP": "の顔は何かを我慢しているように、歪んでいた。",
+      "EN": "Her face was distorted, as if enduring something.",
+      "Translation": "Her face was distorted, as if enduring something."
+    },
+    {
+      "JP": "く見ると、片方の頬だけ赤くなり、凹型の線が何本も走っていた。",
+      "EN": "Looking more carefully, one of her cheeks was turning red, and lines were running all over it.",
+      "Translation": "Looking more carefully, one of her cheeks was turning red, and lines were running all over it."
+    },
+    {
+      "JP": "女はその部分をさらに制服の袖で擦った。",
+      "EN": "She touched that part with her uniform sleeve.",
+      "Translation": "She touched that part with her uniform sleeve."
+    },
+    {
+      "JP": "れでも線は消えなかった。",
+      "EN": "But the lines didn't disappear.",
+      "Translation": "But the lines didn't disappear."
+    },
+    {
+      "JP": "朱鷺戸@「っ…」",
+      "EN": "`Tokido@❝...❞",
+      "Translation": "`Tokido@❝...❞"
+    },
+    {
+      "JP": "朱鷺戸@「そうよっ、寝てたのよっ」",
+      "EN": "`Tokido@❝That's right, I slept!❞",
+      "Translation": "`Tokido@❝That's right, I slept!❞"
+    },
+    {
+      "JP": "あ、なるほど、服の袖に頬を押しつけて寝ていたため、ついた跡だったのか。",
+      "EN": "Ah, I see, because she slept with her uniform sleeve pressed against her cheek, it left those marks.",
+      "Translation": "Ah, I see, because she slept with her uniform sleeve pressed against her cheek, it left those marks."
+    },
+    {
+      "JP": "朱鷺戸@「あなたの想像通り、無防備に眠り込んでたのよっ、ひとに忠告しておいて、自分でこの様、滑稽でしょ、間抜けでしょ、笑いたいでしょっ、笑えばいいわっ！」",
+      "EN": "`Tokido@❝As you imagined, I let my guard down and fell asleep! Even though I told you not to, I did it myself! Hilarious, right? Stupid, right? You want to laugh, right? Just laugh already!❞",
+      "Translation": "`Tokido@❝As you imagined, I let my guard down and fell asleep! Even though I told you not to, I did it myself! Hilarious, right? Stupid, right? You want to laugh, right? Just laugh already!❞"
+    },
+    {
+      "JP": "がそこまで彼女を怒らしたのか、さっぱりわからない…。",
+      "EN": "Why does she get so angry? I have absolutely no idea...",
+      "Translation": "Why does she get so angry? I have absolutely no idea..."
+    },
+    {
+      "JP": "は目をぱちくりさせることしか反応できなかった。",
+      "EN": "I blanked with surprise, unable to respond.",
+      "Translation": "I blanked with surprise, unable to respond."
+    },
+    {
+      "JP": "朱鷺戸@「ぅ…」",
+      "EN": "`Tokido@❝Uu....❞",
+      "Translation": "`Tokido@❝Uu....❞"
+    },
+    {
+      "JP": "朱鷺戸@「もしかして寝てたこと気づいてなかった…？」",
+      "EN": "`Tokido@❝Could it be you didn't realize I'd been sleeping...?❞",
+      "Translation": "`Tokido@❝Could it be you didn't realize I'd been sleeping...?❞"
+    },
+    {
+      "JP": "理樹@「なんのことだか…」",
+      "EN": "`Riki@❝I was wondering...❞",
+      "Translation": "`Riki@❝I was wondering...❞"
+    },
+    {
+      "JP": "くりと肩を落とす。",
+      "EN": "Her shoulders drooped.",
+      "Translation": "Her shoulders drooped."
+    },
+    {
+      "JP": "理樹@「どうか…したの？」",
+      "EN": "`Riki@❝What's... wrong?❞",
+      "Translation": "`Riki@❝What's... wrong?❞"
+    },
+    {
+      "JP": "朱鷺戸@「寝てた」",
+      "EN": "`Tokido@❝I fell asleep.❞",
+      "Translation": "`Tokido@❝I fell asleep.❞"
+    },
+    {
+      "JP": "理樹@「そりゃ、人なんだもの、寝るでしょ」",
+      "EN": "`Riki@❝That's normal. You're human, aren't you?❞",
+      "Translation": "`Riki@❝That's normal. You're human, aren't you?❞"
+    },
+    {
+      "JP": "朱鷺戸@「それで遅刻もしたのよ…」",
+      "EN": "`Tokido@❝That's why I'm late...❞",
+      "Translation": "`Tokido@❝That's why I'm late...❞"
+    },
+    {
+      "JP": "理樹@「遅刻も何も別に何時に落ち合うって約束をしてたわけじゃないし」",
+      "EN": "`Riki@❝Well, late or not, it's not like we promised to meet at a certain time.❞",
+      "Translation": "`Riki@❝Well, late or not, it's not like we promised to meet at a certain time.❞"
+    },
+    {
+      "JP": "理樹@「それより、朱鷺戸さんが無事でよかったよ。捕まったのかと、心配してたんだよ」",
+      "EN": "`Riki@❝Moreover, what is most important that you're safe. I was worried you might've been captured.❞",
+      "Translation": "`Riki@❝Moreover, what is most important that you're safe. I was worried you might've been captured.❞"
+    },
+    {
+      "JP": "朱鷺戸@「ぅぅ…」",
+      "EN": "`Tokido@❝Uuu...❞",
+      "Translation": "`Tokido@❝Uuu...❞"
+    },
+    {
+      "JP": "朱鷺戸@「あなた、じわじわくるわね…」",
+      "EN": "`Tokido@❝You are slow, aren't you...❞",
+      "Translation": "`Tokido@❝You are slow, aren't you...❞"
+    },
+    {
+      "JP": "朱鷺戸@「いっそ、笑い飛ばしてくれたほうがありがたいんだけど…」",
+      "EN": "`Tokido@❝If you'd just laughed out loud, that'd have been better...❞",
+      "Translation": "`Tokido@❝If you'd just laughed out loud, that'd have been better...❞"
+    },
+    {
+      "JP": "理樹@「いや、そんな笑えるところなんてひとつもないし…本気で心配してたんだよ」",
+      "EN": "`Riki@❝Well, there's nothing to laugh about... I was seriously worried.❞",
+      "Translation": "`Riki@❝Well, there's nothing to laugh about... I was seriously worried.❞"
+    },
+    {
+      "JP": "朱鷺戸@「寝てた、ごめん」",
+      "EN": "`Tokido@❝I overslept, sorry.❞",
+      "Translation": "`Tokido@❝I overslept, sorry.❞"
+    },
+    {
+      "JP": "理樹@「うん、いいよ」",
+      "EN": "`Riki@❝No, it's alright.❞",
+      "Translation": "`Riki@❝No, it's alright.❞"
+    },
+    {
+      "JP": "朱鷺戸@「あーっ、もうあなたといるとどうしてこう調子が狂うんだろ…」",
+      "EN": "`Tokido@❝Aah, why do I get so flustered when you are around...❞",
+      "Translation": "`Tokido@❝Aah, why do I get so flustered when you are around...❞"
+    },
+    {
+      "JP": "朱鷺戸@「あ、これ背負ってくれる？」",
+      "EN": "`Tokido@❝Ah, can you carry this?❞",
+      "Translation": "`Tokido@❝Ah, can you carry this?❞"
+    },
+    {
+      "JP": "ち上げてみせたのは、リュックサックだった。",
+      "EN": "She passed me a backpack.",
+      "Translation": "She passed me a backpack."
+    },
+    {
+      "JP": "理樹@「僕の荷物も詰めていい？」",
+      "EN": "`Riki@❝Can I put my things in as well?❞",
+      "Translation": "`Riki@❝Can I put my things in as well?❞"
+    },
+    {
+      "JP": "朱鷺戸@「どうぞ、お好きに」",
+      "EN": "`Tokido@❝You're welcome to.❞",
+      "Translation": "`Tokido@❝You're welcome to.❞"
+    },
+    {
+      "JP": "理樹@「じゃ、ちょっと待って」",
+      "EN": "`Riki@❝Then, wait a sec.❞",
+      "Translation": "`Riki@❝Then, wait a sec.❞"
+    },
+    {
+      "JP": "け取ったリュックサックは不自然なくらい重かった。",
+      "EN": "The backpack I received was unnaturally heavy.",
+      "Translation": "The backpack I received was unnaturally heavy."
+    },
+    {
+      "JP": "けてみると…",
+      "EN": "When I opened it...",
+      "Translation": "When I opened it..."
+    },
+    {
+      "JP": "理樹@「うわぁ…」",
+      "EN": "`Riki@❝Uwa...❞",
+      "Translation": "`Riki@❝Uwa...❞"
+    },
+    {
+      "JP": "うやって手に入れたのか訊きたくなるような、黒光りする代物がいくつも入っていた。",
+      "EN": "There were so many spares with black luster that I didn't even want to ask where she got them from.",
+      "Translation": "There were so many spares with black luster that I didn't even want to ask where she got them from."
+    },
+    {
+      "JP": "きるだけ触れずに、自分の持ち物も、その中に仕舞い込む。",
+      "EN": "I tried to touch them as little as possible, and put my things in the middle.",
+      "Translation": "I tried to touch them as little as possible, and put my things in the middle."
+    },
+    {
+      "JP": "理樹@（…これ、入れても大丈夫なのだろーか…）",
+      "EN": "`Riki@(...Is it really alright if I put my stuff in this...?)",
+      "Translation": "`Riki@(...Is it really alright if I put my stuff in this...?)"
+    },
+    {
+      "JP": "撃を与えたら爆発とかするんじゃないかと不安になるが、今は考えないことにしよう。",
+      "EN": "I was worried they may explode upon impact, but I decided not think about that.",
+      "Translation": "I was worried they may explode upon impact, but I decided not think about that."
+    },
+    {
+      "JP": "理樹@「よし。できたよ」",
+      "EN": "`Riki@❝Alright. I'm done.❞",
+      "Translation": "`Riki@❝Alright. I'm done.❞"
+    },
+    {
+      "JP": "朱鷺戸@「ぶつぶつ…」",
+      "EN": "`Tokido@❝*Mumble mumble*...❞",
+      "Translation": "`Tokido@❝*Mumble mumble*...❞"
+    },
+    {
+      "JP": "って立ち上がると、朱鷺戸さんは何事かつぶやきながら校舎に向けて歩き始めていた。",
+      "EN": "As I said that and stood up, Tokido-san muttered something and started walking toward the school.",
+      "Translation": "As I said that and stood up, Tokido-san muttered something and started walking toward the school."
+    },
+    {
+      "JP": "いで、その後を追った。",
+      "EN": "I quickly followed her.",
+      "Translation": "I quickly followed her."
+    },
+    {
+      "JP": "朱鷺戸@「で、またこの地味な作業から始まるわけね…」",
+      "EN": "`Tokido@❝Looks like we have to start by doing this again...❞",
+      "Translation": "`Tokido@❝Looks like we have to start by doing this again...❞"
+    },
+    {
+      "JP": "たりで机と椅子をピラミッド状に積み上げていく。",
+      "EN": "The two of us started stacking chairs and tables into a pyramid.",
+      "Translation": "The two of us started stacking chairs and tables into a pyramid."
+    },
+    {
+      "JP": "理樹@「毎朝、直してる人も居るわけで、その人はどう思ってるんだろ…」",
+      "EN": "`Riki@❝There's probably someone who has to clean this up every morning... I wonder what they think.❞",
+      "Translation": "`Riki@❝There's probably someone who has to clean this up every morning... I wonder what they think.❞"
+    },
+    {
+      "JP": "気味に感じるに違いない。",
+      "EN": "No doubt they'd be weirded out.",
+      "Translation": "No doubt they'd be weirded out."
+    },
+    {
+      "JP": "朱鷺戸@「ミステリーサークルみたいなものじゃないかしら」",
+      "EN": "`Tokido@❝They'd probably think it's the mystery club or something.❞",
+      "Translation": "`Tokido@❝They'd probably think it's the mystery club or something.❞"
+    },
+    {
+      "JP": "理樹@「なるほど…宇宙人の仕業、ね」",
+      "EN": "`Riki@❝I see... like trying to summon aliens and stuff.❞",
+      "Translation": "`Riki@❝I see... like trying to summon aliens and stuff.❞"
+    },
+    {
+      "JP": "とり、と音がして地下迷宮への扉が開く。",
+      "EN": "*Clunk*, the door to the underground maze opened.",
+      "Translation": "*Clunk*, the door to the underground maze opened."
+    },
+    {
+      "JP": "理樹@「昨日倒した敵はまたいるのかな…」",
+      "EN": "`Riki@❝I wonder if the enemies we defeated yesterday will be there...❞",
+      "Translation": "`Riki@❝I wonder if the enemies we defeated yesterday will be there...❞"
+    },
+    {
+      "JP": "朱鷺戸@「待って…」",
+      "EN": "`Tokido@❝Wait...❞",
+      "Translation": "`Tokido@❝Wait...❞"
+    },
+    {
+      "JP": "闇の中で彼女は神経を研ぎ澄ませているようだ。",
+      "EN": "It felt like her senses sharpened in the darkness.",
+      "Translation": "It felt like her senses sharpened in the darkness."
+    },
+    {
+      "JP": "朱鷺戸@「とりあえずこの下にはいないわ」",
+      "EN": "`Tokido@❝There aren't any down there right now.❞",
+      "Translation": "`Tokido@❝There aren't any down there right now.❞"
+    },
+    {
+      "JP": "理樹@「それはありがたいね…」",
+      "EN": "`Riki@❝That's good...❞",
+      "Translation": "`Riki@❝That's good...❞"
+    },
+    {
+      "JP": "朱鷺戸@「さ、地下探索スタートよ」",
+      "EN": "`Tokido@❝Then, let's start the underground exploration.❞",
+      "Translation": "`Tokido@❝Then, let's start the underground exploration.❞"
+    },
+    {
+      "JP": "理樹@「えっと…ライトは消したほうがいいのかな…」",
+      "EN": "`Riki@❝Uhm...  would it be better to turn off the light...?❞",
+      "Translation": "`Riki@❝Uhm...  would it be better to turn off the light...?❞"
+    },
+    {
+      "JP": "朱鷺戸@「狭い通路ではつけたままのほうが安全ね」",
+      "EN": "`Tokido@❝It's safer to keep it on in narrow tunnels.❞",
+      "Translation": "`Tokido@❝It's safer to keep it on in narrow tunnels.❞"
+    },
+    {
+      "JP": "理樹@「影ができないから？」",
+      "EN": "`Riki@❝So there'll be no shadow?❞",
+      "Translation": "`Riki@❝So there'll be no shadow?❞"
+    },
+    {
+      "JP": "朱鷺戸@「そ。でも光の行き届かない広い場所、つまりここのような部屋ね。そこには消してから入るように」",
+      "EN": "`Tokido@❝Correct. But in wide places where light can't reach, in other words rooms like this, we'd enter without light.❞",
+      "Translation": "`Tokido@❝Correct. But in wide places where light can't reach, in other words rooms like this, we'd enter without light.❞"
+    },
+    {
+      "JP": "朱鷺戸@「先に気づかれたら、出し抜けないから」",
+      "EN": "`Tokido@❝We don't want to tip them off.❞",
+      "Translation": "`Tokido@❝We don't want to tip them off.❞"
+    },
+    {
+      "JP": "理樹@「了解…」",
+      "EN": "`Riki@❝Understood...❞",
+      "Translation": "`Riki@❝Understood...❞"
+    },
+    {
+      "JP": "ごく不安だ…。",
+      "EN": "I was extremely uneasy...",
+      "Translation": "I was extremely uneasy..."
+    },
+    {
+      "JP": "朱鷺戸@「あなた、ウチの組織に入りなさいよ」",
+      "EN": "`Tokido@❝You know, you should join our organization.❞",
+      "Translation": "`Tokido@❝You know, you should join our organization.❞"
+    },
+    {
+      "JP": "理樹@「それは銃の腕を見込まれて…？」",
+      "EN": "`Riki@❝Because of my skill with guns...?❞",
+      "Translation": "`Riki@❝Because of my skill with guns...?❞"
+    },
+    {
+      "JP": "朱鷺戸@「そ。天才的だもの」",
+      "EN": "`Tokido@❝Right. That was prodigal.❞",
+      "Translation": "`Tokido@❝Right. That was prodigal.❞"
+    },
+    {
+      "JP": "理樹@「でも普通に進学して普通に就職したいかな…」",
+      "EN": "`Riki@❝But I want to continue studying normally and get a normal job...❞",
+      "Translation": "`Riki@❝But I want to continue studying normally and get a normal job...❞"
+    },
+    {
+      "JP": "朱鷺戸@「ああ、もったいない。宝の持ち腐れね」",
+      "EN": "`Tokido@❝Ah, what a waste of talent.❞",
+      "Translation": "`Tokido@❝Ah, what a waste of talent.❞"
+    },
+    {
+      "JP": "朱鷺戸@「上出来ね」",
+      "EN": "`Tokido@❝Good job.❞",
+      "Translation": "`Tokido@❝Good job.❞"
+    },
+    {
+      "JP": "理樹@「運動神経に自信はないんだけど…」",
+      "EN": "`Riki@❝I'm usually not that good at physical activities, though...❞",
+      "Translation": "`Riki@❝I'm usually not that good at physical activities, though...❞"
+    },
+    {
+      "JP": "朱鷺戸@「これは反射神経よ」",
+      "EN": "`Tokido@❝This is about reflexes.❞",
+      "Translation": "`Tokido@❝This is about reflexes.❞"
+    },
+    {
+      "JP": "理樹@「そんなのに秀でてたなんて、思いもしなかったよ…」",
+      "EN": "`Riki@❝I didn't think I'd do so well...❞",
+      "Translation": "`Riki@❝I didn't think I'd do so well...❞"
+    },
+    {
+      "JP": "朱鷺戸@「慣れてきた？」",
+      "EN": "`Tokido@❝Have you gotten used to it?❞",
+      "Translation": "`Tokido@❝Have you gotten used to it?❞"
+    },
+    {
+      "JP": "理樹@「いや、まったく…」",
+      "EN": "`Riki@❝No, not really..❞",
+      "Translation": "`Riki@❝No, not really..❞"
+    },
+    {
+      "JP": "理樹@「…どう？」",
+      "EN": "`Riki@❝Found anything?❞",
+      "Translation": "`Riki@❝Found anything?❞"
+    },
+    {
+      "JP": "朱鷺戸@「空き部屋ね」",
+      "EN": "`Tokido@❝It's an empty room.❞",
+      "Translation": "`Tokido@❝It's an empty room.❞"
+    },
+    {
+      "JP": "理樹@「助かった…」",
+      "EN": "`Riki@❝Thank god...❞",
+      "Translation": "`Riki@❝Thank god...❞"
+    },
+    {
+      "JP": "理樹@「扉だね…」",
+      "EN": "`Riki@❝It's a door...❞",
+      "Translation": "`Riki@❝It's a door...❞"
+    },
+    {
+      "JP": "朱鷺戸@「そうね」",
+      "EN": "`Tokido@❝That's right.❞",
+      "Translation": "`Tokido@❝That's right.❞"
+    },
+    {
+      "JP": "理樹@「敵、いるかな？」",
+      "EN": "`Riki@❝Are there any enemies?❞",
+      "Translation": "`Riki@❝Are there any enemies?❞"
+    },
+    {
+      "JP": "朱鷺戸@「悪いけど、そこまではわからないのよ」",
+      "EN": "`Tokido@❝I'm sorry, but I can't tell.❞",
+      "Translation": "`Tokido@❝I'm sorry, but I can't tell.❞"
+    },
+    {
+      "JP": "理樹@「じゃ、十分心の準備をしておくよ…」",
+      "EN": "`Riki@❝Then, let's be prepared...❞",
+      "Translation": "`Riki@❝Then, let's be prepared...❞"
+    },
+    {
+      "JP": "朱鷺戸@「サポートはしてあげるから、がんばんなさい」",
+      "EN": "`Tokido@❝I've got your back, so just give it a shot.❞",
+      "Translation": "`Tokido@❝I've got your back, so just give it a shot.❞"
+    },
+    {
+      "JP": "理樹@「うん…」",
+      "EN": "`Riki@❝Yeah...❞",
+      "Translation": "`Riki@❝Yeah...❞"
+    },
+    {
+      "JP": "朱鷺戸@「あなた、筋いいから、きっと大丈夫よ」",
+      "EN": "`Tokido@❝You have a knack for this, so you'll be fine.❞",
+      "Translation": "`Tokido@❝You have a knack for this, so you'll be fine.❞"
+    },
+    {
+      "JP": "理樹@「そうかな…」",
+      "EN": "`Riki@❝I wonder...❞",
+      "Translation": "`Riki@❝I wonder...❞"
+    },
+    {
+      "JP": "朱鷺戸@「またまたご謙遜を。理樹くんなら背中を任せられるわよ」",
+      "EN": "`Tokido@❝There you are, being modest again. I know you'll have my back.❞",
+      "Translation": "`Tokido@❝There you are, being modest again. I know you'll have my back.❞"
+    },
+    {
+      "JP": "理樹@「いやいや、とんでもない…」",
+      "EN": "`Riki@❝You're giving me too much credit...❞",
+      "Translation": "`Riki@❝You're giving me too much credit...❞"
+    },
+    {
+      "JP": "朱鷺戸@「分かれ道ね…」",
+      "EN": "`Tokido@❝The path splits.❞",
+      "Translation": "`Tokido@❝The path splits.❞"
+    },
+    {
+      "JP": "理樹@「どうするの？」",
+      "EN": "`Riki@❝What will we do?❞",
+      "Translation": "`Riki@❝What will we do?❞"
+    },
+    {
+      "JP": "朱鷺戸@「悩むわね…間違えるとトラップに引っかかりかねない」",
+      "EN": "`Tokido@❝That's a tough one... if we go the wrong way, we may run into a trap.❞",
+      "Translation": "`Tokido@❝That's a tough one... if we go the wrong way, we may run into a trap.❞"
+    },
+    {
+      "JP": "理樹@「トラップって？」",
+      "EN": "`Riki@❝A trap?❞",
+      "Translation": "`Riki@❝A trap?❞"
+    },
+    {
+      "JP": "朱鷺戸@「勝手を知らない者が忍び込むと、命を落とす」",
+      "EN": "`Tokido@❝If you get caught without knowing what it is, you're dead meat.❞",
+      "Translation": "`Tokido@❝If you get caught without knowing what it is, you're dead meat.❞"
+    },
+    {
+      "JP": "険は覚悟していたけど、それは色んなところに潜んでるようだ。",
+      "EN": "I came prepared for danger, but there seem to be a lot of challenges.",
+      "Translation": "I came prepared for danger, but there seem to be a lot of challenges."
+    },
+    {
+      "JP": "朱鷺戸@「そうね、あなた決めなさい」",
+      "EN": "`Tokido@❝That's right, you decide.❞",
+      "Translation": "`Tokido@❝That's right, you decide.❞"
+    },
+    {
+      "JP": "理樹@「………」",
+      "EN": "`Riki@❝.........❞",
+      "Translation": "`Riki@❝.........❞"
+    },
+    {
+      "JP": "理樹@「……」",
+      "EN": "`Riki@❝......❞",
+      "Translation": "`Riki@❝......❞"
+    },
+    {
+      "JP": "理樹@「………」",
+      "EN": "`Riki@❝.........❞",
+      "Translation": "`Riki@❝.........❞"
+    },
+    {
+      "JP": "理樹@「…ええっ、僕!?」",
+      "EN": "`Riki@❝...Eeh, me!?❞",
+      "Translation": "`Riki@❝...Eeh, me!?❞"
+    },
+    {
+      "JP": "朱鷺戸@「反応にぶっ！」",
+      "EN": "`Tokido@❝Your reaction's slow!❞",
+      "Translation": "`Tokido@❝Your reaction's slow!❞"
+    },
+    {
+      "JP": "理樹@「あまりに突飛な発言をするから、僕に言ってるとは思わなくて…他の誰かかなあって」",
+      "EN": "`Riki@❝It was such an erratic proposal... I thought you were talking to someone else.❞",
+      "Translation": "`Riki@❝It was such an erratic proposal... I thought you were talking to someone else.❞"
+    },
+    {
+      "JP": "朱鷺戸@「他に誰がいるのよ」",
+      "EN": "`Tokido@❝Who else is there?❞",
+      "Translation": "`Tokido@❝Who else is there?❞"
+    },
+    {
+      "JP": "理樹@「いや、そうだけど…」",
+      "EN": "`Riki@❝No, that's right, but...❞",
+      "Translation": "`Riki@❝No, that's right, but...❞"
+    },
+    {
+      "JP": "朱鷺戸@「あなたは、あれだけあたしのトラップをくぐり抜けてみせた。そういう嗅覚というか、勘があるのよ」",
+      "EN": "`Tokido@❝You've shown yourself able to avoid my traps. That can be called a sixth sense.❞",
+      "Translation": "`Tokido@❝You've shown yourself able to avoid my traps. That can be called a sixth sense.❞"
+    },
+    {
+      "JP": "朱鷺戸@「自分を信じなさい」",
+      "EN": "`Tokido@❝Believe in yourself.❞",
+      "Translation": "`Tokido@❝Believe in yourself.❞"
+    },
+    {
+      "JP": "理樹@「え…ほんとに僕が決めるの？」",
+      "EN": "`Riki@❝Eh... I really am deciding?❞",
+      "Translation": "`Riki@❝Eh... I really am deciding?❞"
+    },
+    {
+      "JP": "朱鷺戸@「だから言ってるじゃない」",
+      "EN": "`Tokido@❝That's what I said, didn't I?❞",
+      "Translation": "`Tokido@❝That's what I said, didn't I?❞"
+    },
+    {
+      "JP": "理樹@「………」",
+      "EN": "`Riki@❝.........❞",
+      "Translation": "`Riki@❝.........❞"
+    },
+    {
+      "JP": "理樹@「……」",
+      "EN": "`Riki@❝......❞",
+      "Translation": "`Riki@❝......❞"
+    },
+    {
+      "JP": "理樹@「………」",
+      "EN": "`Riki@❝.........❞",
+      "Translation": "`Riki@❝.........❞"
+    },
+    {
+      "JP": "理樹@「…ほんとに僕？」",
+      "EN": "`Riki@❝...Really me?❞",
+      "Translation": "`Riki@❝...Really me?❞"
+    },
+    {
+      "JP": "朱鷺戸@「早く決めなさいよっ」",
+      "EN": "`Tokido@❝Decide already.❞",
+      "Translation": "`Tokido@❝Decide already.❞"
+    },
+    {
+      "JP": "わぁ…大変なことになったぞ。僕の選択が生死を分けるなんて…。",
+      "EN": "Wow... what a problem. To make a decision with our lives hanging in the balance...",
+      "Translation": "Wow... what a problem. To make a decision with our lives hanging in the balance..."
+    },
+    {
+      "JP": "理樹@「じゃあ…」",
+      "EN": "`Riki@❝Then...❞",
+      "Translation": "`Riki@❝Then...❞"
+    },
+    {
+      "JP": "理樹@「扉だね…」",
+      "EN": "`Riki@❝It's a door...❞",
+      "Translation": "`Riki@❝It's a door...❞"
+    },
+    {
+      "JP": "朱鷺戸@「そうね」",
+      "EN": "`Tokido@❝That's right.❞",
+      "Translation": "`Tokido@❝That's right.❞"
+    },
+    {
+      "JP": "理樹@「敵がいるかもしれないし、命を脅かすトラップがあるかもしれない」",
+      "EN": "`Riki@❝There may be enemies, or some life-threatening trap.❞",
+      "Translation": "`Riki@❝There may be enemies, or some life-threatening trap.❞"
+    },
+    {
+      "JP": "朱鷺戸@「その通り。頭いいわね」",
+      "EN": "`Tokido@❝That's right. You're smart.❞",
+      "Translation": "`Tokido@❝That's right. You're smart.❞"
+    },
+    {
+      "JP": "理樹@「それぐらいの状況認識はできるよ…命がけだからね」",
+      "EN": "`Riki@❝That much is obvious... my life is on the line, after all.❞",
+      "Translation": "`Riki@❝That much is obvious... my life is on the line, after all.❞"
+    },
+    {
+      "JP": "朱鷺戸@「まったく」",
+      "EN": "`Tokido@❝Really.❞",
+      "Translation": "`Tokido@❝Really.❞"
+    },
+    {
+      "JP": "理樹@「やっぱり僕が決めるんだよね？」",
+      "EN": "`Riki@❝It's my decision, right?❞",
+      "Translation": "`Riki@❝It's my decision, right?❞"
+    },
+    {
+      "JP": "朱鷺戸@「そうよ」",
+      "EN": "`Tokido@❝That's right.❞",
+      "Translation": "`Tokido@❝That's right.❞"
+    },
+    {
+      "JP": "理樹@「こっちはトラップじゃないってことだよね？」",
+      "EN": "`Riki@❝There's no trap on this side, right?❞",
+      "Translation": "`Riki@❝There's no trap on this side, right?❞"
+    },
+    {
+      "JP": "朱鷺戸@「敵がいる可能性は十分あるわけよ？」",
+      "EN": "`Tokido@❝There's a good chance enemies will be there, you know?❞",
+      "Translation": "`Tokido@❝There's a good chance enemies will be there, you know?❞"
+    },
+    {
+      "JP": "理樹@「どっちにしても気は抜けないってことだね…」",
+      "EN": "`Riki@❝We must be careful whichever way we go, huh...❞",
+      "Translation": "`Riki@❝We must be careful whichever way we go, huh...❞"
+    },
+    {
+      "JP": "ちゃり、とふたりで銃を構え、飛び込む。",
+      "EN": "We ready our guns with a clang, and charge in.",
+      "Translation": "We ready our guns with a clang, and charge in."
+    },
+    {
+      "JP": "……。",
+      "EN": ".........",
+      "Translation": "........."
+    },
+    {
+      "JP": "朱鷺戸@「敵はいないわ。ライトつけてもいいわよ」",
+      "EN": "`Tokido@❝There are no enemies. We can turn the light on.❞",
+      "Translation": "`Tokido@❝There are no enemies. We can turn the light on.❞"
+    },
+    {
+      "JP": "朱鷺戸@「また部屋へと出たわ」",
+      "EN": "`Tokido@❝It's another room.❞",
+      "Translation": "`Tokido@❝It's another room.❞"
+    },
+    {
+      "JP": "朱鷺戸@「ストップ」",
+      "EN": "`Tokido@❝Stop.❞",
+      "Translation": "`Tokido@❝Stop.❞"
+    },
+    {
+      "JP": "女が僕を制止した。",
+      "EN": "She stopped me.",
+      "Translation": "She stopped me."
+    },
+    {
+      "JP": "朱鷺戸@「トラップよ」",
+      "EN": "`Tokido@❝It's a trap.❞",
+      "Translation": "`Tokido@❝It's a trap.❞"
+    },
+    {
+      "JP": "理樹@「ええっ」",
+      "EN": "`Riki@❝Eeh...❞",
+      "Translation": "`Riki@❝Eeh...❞"
+    },
+    {
+      "JP": "朱鷺戸@「どこからかガスが漏れてる…匂いがするわ」",
+      "EN": "`Tokido@❝There's gas coming from somewhere... I can smell it.❞",
+      "Translation": "`Tokido@❝There's gas coming from somewhere... I can smell it.❞"
+    },
+    {
+      "JP": "かに…なんか…線香のような匂いがする…。",
+      "EN": "Certainly... there was... an incense-like smell...",
+      "Translation": "Certainly... there was... an incense-like smell..."
+    },
+    {
+      "JP": "朱鷺戸@「閉じこめられないうちに逃げてっ」",
+      "EN": "`Tokido@❝Run before we're locked in.❞",
+      "Translation": "`Tokido@❝Run before we're locked in.❞"
+    },
+    {
+      "JP": "女が僕の腕を引っ張って、通路へと引き返す。",
+      "EN": "She pulled me by the arm, and started running back the way we came from.",
+      "Translation": "She pulled me by the arm, and started running back the way we came from."
+    },
+    {
+      "JP": "後、どすんという重い音がして入り口が降りてきた壁によって閉じられた。",
+      "EN": "Right then, with a ❛thud❜ sound, a wall fell down and sealed the entrance.",
+      "Translation": "Right then, with a ❛thud❜ sound, a wall fell down and sealed the entrance."
+    },
+    {
+      "JP": "理樹@「僕の勘はハズレだったみたいだね」",
+      "EN": "`Riki@❝It seems my intuition failed.❞",
+      "Translation": "`Riki@❝It seems my intuition failed.❞"
+    },
+    {
+      "JP": "朱鷺戸@「死ななかったじゃない」",
+      "EN": "`Tokido@❝We didn't die, right?❞",
+      "Translation": "`Tokido@❝We didn't die, right?❞"
+    },
+    {
+      "JP": "理樹@「朱鷺戸さんのおかげだよ」",
+      "EN": "`Riki@❝That's thanks to you.❞",
+      "Translation": "`Riki@❝That's thanks to you.❞"
+    },
+    {
+      "JP": "朱鷺戸@「そういうのもひっくるめて、あなたには何かがあるのよ」",
+      "EN": "`Tokido@❝But all of it was possible because there's something special about you.❞",
+      "Translation": "`Tokido@❝But all of it was possible because there's something special about you.❞"
+    },
+    {
+      "JP": "理樹@「そうなのかなぁ…」",
+      "EN": "`Riki@❝I wonder...❞",
+      "Translation": "`Riki@❝I wonder...❞"
+    },
+    {
+      "JP": "朱鷺戸@「一息ついたら、反対側へ行くわよ」",
+      "EN": "`Tokido@❝Once we catch our breath, we are going the other way.❞",
+      "Translation": "`Tokido@❝Once we catch our breath, we are going the other way.❞"
+    },
+    {
+      "JP": "理樹@「…了解」",
+      "EN": "`Riki@❝...Understood.❞",
+      "Translation": "`Riki@❝...Understood.❞"
+    },
+    {
+      "JP": "朱鷺戸@「敵はいないわ。ライトつけてもいいわよ」",
+      "EN": "`Tokido@❝There are no enemies. We can turn the light on.❞",
+      "Translation": "`Tokido@❝There are no enemies. We can turn the light on.❞"
+    },
+    {
+      "JP": "朱鷺戸@「さて、ここらに階下に降りる入り口があると思うんだけど…」",
+      "EN": "`Tokido@❝Well then, I think there should be a door going down over here, but...❞",
+      "Translation": "`Tokido@❝Well then, I think there should be a door going down over here, but...❞"
+    },
+    {
+      "JP": "はライトを点けて、周囲を見渡す。",
+      "EN": "I turned on the light and looked around.",
+      "Translation": "I turned on the light and looked around."
+    },
+    {
+      "JP": "しかない。",
+      "EN": "There was nothing but walls.",
+      "Translation": "There was nothing but walls."
+    },
+    {
+      "JP": "朱鷺戸@「下にも横にもない。となれば残るは上ね」",
+      "EN": "`Tokido@❝There's nothing around or under us. That leaves only one direction.❞",
+      "Translation": "`Tokido@❝There's nothing around or under us. That leaves only one direction.❞"
+    },
+    {
+      "JP": "う言われて、天井にライトを向ける。",
+      "EN": "She said that and looked at the ceiling.",
+      "Translation": "She said that and looked at the ceiling."
+    },
+    {
+      "JP": "当だ、ロープのようなものが垂れ下がっている。",
+      "EN": "Just as she predicted, there was a rope dangling down.",
+      "Translation": "Just as she predicted, there was a rope dangling down."
+    },
+    {
+      "JP": "かしそれはとても高く、触ることは難しそうだった。",
+      "EN": "Still, it was so high up that it seemed hard to reach.",
+      "Translation": "Still, it was so high up that it seemed hard to reach."
+    },
+    {
+      "JP": "井に空けられた小さな穴から伸びているから、何か仕掛けがあるに違いなかった。",
+      "EN": "The rope extended from a small hole in the ceiling, so there's no doubt there's some contraption there.",
+      "Translation": "The rope extended from a small hole in the ceiling, so there's no doubt there's some contraption there."
+    },
+    {
+      "JP": "理樹@「今度は頭を使う時間だね」",
+      "EN": "`Riki@❝This is the time to use our brains.❞",
+      "Translation": "`Riki@❝This is the time to use our brains.❞"
+    },
+    {
+      "JP": "朱鷺戸@「そうね…」",
+      "EN": "`Tokido@❝That's right...❞",
+      "Translation": "`Tokido@❝That's right...❞"
+    },
+    {
+      "JP": "朱鷺戸@「引っ張りたいんだけど、取っ手もないから、何を投げても引っかかりそうにないわね」",
+      "EN": "`Tokido@❝I want to pull it, but I can't reach it, and it doesn't seem like we have anything to throw at it.❞",
+      "Translation": "`Tokido@❝I want to pull it, but I can't reach it, and it doesn't seem like we have anything to throw at it.❞"
+    },
+    {
+      "JP": "朱鷺戸@「休憩がてら、考えましょうか」",
+      "EN": "`Tokido@❝Let's take a break and think it over.❞",
+      "Translation": "`Tokido@❝Let's take a break and think it over.❞"
+    },
+    {
+      "JP": "互い腰を下ろして、水分を補給する。",
+      "EN": "We both sat down and had a sip of water.",
+      "Translation": "We both sat down and had a sip of water."
+    },
+    {
+      "JP": "れから使えそうな道具をリュックの中から探してみた。",
+      "EN": "I tried searching the backpack for any tools we could use.",
+      "Translation": "I tried searching the backpack for any tools we could use."
+    },
+    {
+      "JP": "器、武器、武器っぽいなにか、食料、武器、水、武器…。",
+      "EN": "Weapon, weapon, something like a weapon, food, weapon, water, weapon...",
+      "Translation": "Weapon, weapon, something like a weapon, food, weapon, water, weapon..."
+    },
+    {
+      "JP": "事に予想から外れたものばかりだ。",
+      "EN": "It was exactly what I had expected.",
+      "Translation": "It was exactly what I had expected."
+    },
+    {
+      "JP": "なると、自分たちの力で何とかするしかないってことだ…。",
+      "EN": "Since it'd come to this, we must rely on our own strength now...",
+      "Translation": "Since it'd come to this, we must rely on our own strength now..."
+    },
+    {
+      "JP": "朱鷺戸@「どう？　頭脳明晰な頼もしいパートナーさん」",
+      "EN": "`Tokido@❝How about it? My clever, reliable partner?❞",
+      "Translation": "`Tokido@❝How about it? My clever, reliable partner?❞"
+    },
+    {
+      "JP": "理樹@「道具は役に立たないね」",
+      "EN": "`Riki@❝None of our equipment would do the job.❞",
+      "Translation": "`Riki@❝None of our equipment would do the job.❞"
+    },
+    {
+      "JP": "朱鷺戸@「そう」",
+      "EN": "`Tokido@❝I see.❞",
+      "Translation": "`Tokido@❝I see.❞"
+    },
+    {
+      "JP": "朱鷺戸@「で？」",
+      "EN": "`Tokido@❝Then?❞",
+      "Translation": "`Tokido@❝Then?❞"
+    },
+    {
+      "JP": "理樹@「で、可能性のある方法はひとつだと思うんだけど」",
+      "EN": "`Riki@❝Then, there's only one possible way I can think of.❞",
+      "Translation": "`Riki@❝Then, there's only one possible way I can think of.❞"
+    },
+    {
+      "JP": "朱鷺戸@「なに？」",
+      "EN": "`Tokido@❝What's that?❞",
+      "Translation": "`Tokido@❝What's that?❞"
+    },
+    {
+      "JP": "ープを掴むにはジャンプするしかない。でも、それだけでは届かない。",
+      "EN": "We must jump to reach the rope, but that alone won't be enough.",
+      "Translation": "We must jump to reach the rope, but that alone won't be enough."
+    },
+    {
+      "JP": "み台が必要なんだ。それは…",
+      "EN": "We need something to step on. That would be...",
+      "Translation": "We need something to step on. That would be..."
+    },
+    {
+      "JP": "理樹@「肩からジャンプ」",
+      "EN": "`Riki@❝Jumping from our partner's shoulders.❞",
+      "Translation": "`Riki@❝Jumping from our partner's shoulders.❞"
+    },
+    {
+      "JP": "朱鷺戸@「届くかしら？」",
+      "EN": "`Tokido@❝Will I be able to reach?❞",
+      "Translation": "`Tokido@❝Will I be able to reach?❞"
+    },
+    {
+      "JP": "理樹@「僕の身体能力ならね」",
+      "EN": "`Riki@❝I can pull it off.❞",
+      "Translation": "`Riki@❝I can pull it off.❞"
+    },
+    {
+      "JP": "朱鷺戸@「…え？　今なんて？」",
+      "EN": "`Tokido@❝...Eh? What'd you say?❞",
+      "Translation": "`Tokido@❝...Eh? What'd you say?❞"
+    },
+    {
+      "JP": "理樹@「僕の身体能力ならね」",
+      "EN": "`Riki@❝I can pull it off.❞",
+      "Translation": "`Riki@❝I can pull it off.❞"
+    },
+    {
+      "JP": "朱鷺戸@「ちょっと…それ、あたしが下ってこと!?」",
+      "EN": "`Tokido@❝Wait... that means, I'm below!?❞",
+      "Translation": "`Tokido@❝Wait... that means, I'm below!?❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Yeah.❞",
+      "Translation": "`Riki@❝Yeah.❞"
+    },
+    {
+      "JP": "朱鷺戸@「それはあまりに失礼じゃない？」",
+      "EN": "`Tokido@❝Don't you think that's rude?❞",
+      "Translation": "`Tokido@❝Don't you think that's rude?❞"
+    },
+    {
+      "JP": "理樹@「この場合、男とか女とか言ってられないと思うんだ」",
+      "EN": "`Riki@❝I don't think being a girl matters in this situation.❞",
+      "Translation": "`Riki@❝I don't think being a girl matters in this situation.❞"
+    },
+    {
+      "JP": "朱鷺戸@「いや、あたしのほうが軽いし、高く飛ぶって、思わない？」",
+      "EN": "`Tokido@❝No, don't you think I'm lighter, or can jump higher?❞",
+      "Translation": "`Tokido@❝No, don't you think I'm lighter, or can jump higher?❞"
+    },
+    {
+      "JP": "理樹@「そうかもしれないけど、僕のほうが飛ぶ、という可能性もあるわけだよ」",
+      "EN": "`Riki@❝That may be so, but it's possible for me to do it as well.❞",
+      "Translation": "`Riki@❝That may be so, but it's possible for me to do it as well.❞"
+    },
+    {
+      "JP": "朱鷺戸@「あなた、おかしくない？　あたしはエリートのエージェントで、あなたはどちらかというとひ弱そうなただの一般人」",
+      "EN": "`Tokido@❝Are you for real?　An elite agent like me, compared to a weak commoner like you.❞",
+      "Translation": "`Tokido@❝Are you for real?　An elite agent like me, compared to a weak commoner like you.❞"
+    },
+    {
+      "JP": "理樹@「そこを突かれると痛いんだけど」",
+      "EN": "`Riki@❝It hurts when you point that out.❞",
+      "Translation": "`Riki@❝It hurts when you point that out.❞"
+    },
+    {
+      "JP": "朱鷺戸@「突くわよ、突かれないと思っていたあなたのほうがおかしいわよ」",
+      "EN": "`Tokido@❝Of course I'd point it out, you are weird for thinking I would not.❞",
+      "Translation": "`Tokido@❝Of course I'd point it out, you are weird for thinking I would not.❞"
+    },
+    {
+      "JP": "理樹@「でも飛ぶ」",
+      "EN": "`Riki@❝But I'll still do the jump.❞",
+      "Translation": "`Riki@❝But I'll still do the jump.❞"
+    },
+    {
+      "JP": "朱鷺戸@「はぁ？　ワッツ!?　ホワーーイ!?」",
+      "EN": "`Tokido@❝Huh? What?! But why?!❞",
+      "Translation": "`Tokido@❝Huh? What?! But why?!❞"
+    },
+    {
+      "JP": "理樹@「踏み台、よろしく」",
+      "EN": "`Riki@❝Stepping stone, please.❞",
+      "Translation": "`Riki@❝Stepping stone, please.❞"
+    },
+    {
+      "JP": "朱鷺戸@「正気？　なんなの、悪いものでも食べたの？　気は確か？」",
+      "EN": "`Tokido@❝Seriously? What, did you eat something weird?　You sure?❞",
+      "Translation": "`Tokido@❝Seriously? What, did you eat something weird?　You sure?❞"
+    },
+    {
+      "JP": "理樹@「正気だし、自信もあるんだ」",
+      "EN": "`Riki@❝I'm serious. I'm confident about this.❞",
+      "Translation": "`Riki@❝I'm serious. I'm confident about this.❞"
+    },
+    {
+      "JP": "理樹@「頼むよ」",
+      "EN": "`Riki@❝I'm counting on you.❞",
+      "Translation": "`Riki@❝I'm counting on you.❞"
+    },
+    {
+      "JP": "鷺戸さんの肩にぽん、と手を置く。伝わるだろうか。この僕の本気が。",
+      "EN": "I put my hand on Tokido-san's shoulder. I wonder if she could feel how serious I was.",
+      "Translation": "I put my hand on Tokido-san's shoulder. I wonder if she could feel how serious I was."
+    },
+    {
+      "JP": "朱鷺戸@「っ…」",
+      "EN": "`Tokido@❝Uu...❞",
+      "Translation": "`Tokido@❝Uu...❞"
+    },
+    {
+      "JP": "朱鷺戸@「…こんな提案はこれっきりにしてよね!!」",
+      "EN": "`Tokido@❝...Make this the last time you suggest this!!❞",
+      "Translation": "`Tokido@❝...Make this the last time you suggest this!!❞"
+    },
+    {
+      "JP": "りながらも、ロープの下でしゃがみ込んでくれる。",
+      "EN": "Even though she was angry, she still bent over near the rope.",
+      "Translation": "Even though she was angry, she still bent over near the rope."
+    },
+    {
+      "JP": "の気持ちは伝わったんだ。",
+      "EN": "My seriousness reached her.",
+      "Translation": "My seriousness reached her."
+    },
+    {
+      "JP": "理樹@「やった！」",
+      "EN": "`Riki@❝Awesome!❞",
+      "Translation": "`Riki@❝Awesome!❞"
+    },
+    {
+      "JP": "朱鷺戸@「どこで喜んでんのよ!!　とっとと飛びなさい!!」",
+      "EN": "`Tokido@❝What are you happy for!! Hurry and grab the rope already!!❞",
+      "Translation": "`Tokido@❝What are you happy for!! Hurry and grab the rope already!!❞"
+    },
+    {
+      "JP": "理樹@「ごめん。でもうまく飛ぶよ」",
+      "EN": "`Riki@❝Sorry, but I'm sure it'll be alright.❞",
+      "Translation": "`Riki@❝Sorry, but I'm sure it'll be alright.❞"
+    },
+    {
+      "JP": "朱鷺戸@「そりゃあ、みごとに一発で成功してもらわなきゃ、屈辱で死にそうよ」",
+      "EN": "`Tokido@❝Well you'd better get it right the first time, or I'm gonna die of embarrassment!❞",
+      "Translation": "`Tokido@❝Well you'd better get it right the first time, or I'm gonna die of embarrassment!❞"
+    },
+    {
+      "JP": "理樹@「じゃ、いくね。失礼して…」",
+      "EN": "`Riki@❝Then, I'm jumping. Excuse me...❞",
+      "Translation": "`Riki@❝Then, I'm jumping. Excuse me...❞"
+    },
+    {
+      "JP": "を脱いだ後、その肩に、そっと飛び乗る。",
+      "EN": "After taking off my socks, I climbed onto her shoulders.",
+      "Translation": "After taking off my socks, I climbed onto her shoulders."
+    },
+    {
+      "JP": "朱鷺戸@「うぅっ、早くしてっ」",
+      "EN": "`Tokido@❝Uuu, hurry up.❞",
+      "Translation": "`Tokido@❝Uuu, hurry up.❞"
+    },
+    {
+      "JP": "理樹@「うん。せーのっ…」",
+      "EN": "`Riki@❝Yeah. Heave-ho...❞",
+      "Translation": "`Riki@❝Yeah. Heave-ho...❞"
+    },
+    {
+      "JP": "理樹@「それっ！」",
+      "EN": "`Riki@❝There goes!❞",
+      "Translation": "`Riki@❝There goes!❞"
+    },
+    {
+      "JP": "は飛んだ！",
+      "EN": "I jumped!",
+      "Translation": "I jumped!"
+    },
+    {
+      "JP": "、ロープには届かず、何も得ることなく、床に着地してしまう。",
+      "EN": "But I didn't reach the rope. The only thing I caught was thin air and fell to the floor.",
+      "Translation": "But I didn't reach the rope. The only thing I caught was thin air and fell to the floor."
+    },
+    {
+      "JP": "理樹@「ごめん」",
+      "EN": "`Riki@❝Sorry.❞",
+      "Translation": "`Riki@❝Sorry.❞"
+    },
+    {
+      "JP": "朱鷺戸@「うがああぁぁぁぁぁぁぁぁぁぁぁぁーーーっ!!!」",
+      "EN": "`Tokido@❝Ugaaaaaaaaaaaaaaaaaaa!!!❞",
+      "Translation": "`Tokido@❝Ugaaaaaaaaaaaaaaaaaaa!!!❞"
+    },
+    {
+      "JP": "理樹@「うわ、そんな女の子らしくないキレ方しないでよ…」",
+      "EN": "`Riki@❝Hey, it's not very becoming for a girl to get mad like that...❞",
+      "Translation": "`Riki@❝Hey, it's not very becoming for a girl to get mad like that...❞"
+    },
+    {
+      "JP": "朱鷺戸@「キレるわよっ!!」",
+      "EN": "`Tokido@❝Well, excuse me!❞",
+      "Translation": "`Tokido@❝Well, excuse me!❞"
+    },
+    {
+      "JP": "朱鷺戸@「それに女の子らしくないって、この場合男とか女とか言ってられないって言ったのはどこのどいつだああぁぁぁーー!!」",
+      "EN": "`Tokido@❝And who was it who said that being a girl doesn't matter in this situation?!❞",
+      "Translation": "`Tokido@❝And who was it who said that being a girl doesn't matter in this situation?!❞"
+    },
+    {
+      "JP": "理樹@「あ、僕だね…」",
+      "EN": "`Riki@❝Ah, that was me...❞",
+      "Translation": "`Riki@❝Ah, that was me...❞"
+    },
+    {
+      "JP": "朱鷺戸@「一般人に殺意が湧いたのは初めてだわ…」",
+      "EN": "`Tokido@❝This is the first time I've wanted to kill a civilian...❞",
+      "Translation": "`Tokido@❝This is the first time I've wanted to kill a civilian...❞"
+    },
+    {
+      "JP": "理樹@「そりゃ、光栄で…」",
+      "EN": "`Riki@❝I'm honored.❞",
+      "Translation": "`Riki@❝I'm honored.❞"
+    },
+    {
+      "JP": "朱鷺戸@「とっとと、下になれっ、こらあああぁぁぁ!!」",
+      "EN": "`Tokido@❝H-hurry up and get down, youuuuuuuuuuu!!❞",
+      "Translation": "`Tokido@❝H-hurry up and get down, youuuuuuuuuuu!!❞"
+    },
+    {
+      "JP": "理樹@「うわぁっ」",
+      "EN": "`Riki@❝Wow.❞",
+      "Translation": "`Riki@❝Wow.❞"
+    },
+    {
+      "JP": "引にロープの下に突き出される。",
+      "EN": "I was forcefully pushed under the rope.",
+      "Translation": "I was forcefully pushed under the rope."
+    },
+    {
+      "JP": "のすごく怒らせちゃったみたいだ。",
+      "EN": "She seemed to be really angry about it.",
+      "Translation": "She seemed to be really angry about it."
+    },
+    {
+      "JP": "朱鷺戸@「ほら、しゃがみなさいよ」",
+      "EN": "`Tokido@❝Here, bend over.❞",
+      "Translation": "`Tokido@❝Here, bend over.❞"
+    },
+    {
+      "JP": "朱鷺戸@「できたらタイミングを合わせて一緒に飛び上がるぐらいの勢いで立ってほしいんだけど」",
+      "EN": "`Tokido@❝If possible, I want you to time standing up at the same time as I jump.❞",
+      "Translation": "`Tokido@❝If possible, I want you to time standing up at the same time as I jump.❞"
+    },
+    {
+      "JP": "理樹@「もう言いたい放題だな…」",
+      "EN": "`Riki@❝You're saying whatever you want...❞",
+      "Translation": "`Riki@❝You're saying whatever you want...❞"
+    },
+    {
+      "JP": "朱鷺戸@「あー!?　なんだって!?」",
+      "EN": "`Tokido@❝Ah!? What was that!?❞",
+      "Translation": "`Tokido@❝Ah!? What was that!?❞"
+    },
+    {
+      "JP": "理樹@「やります、やりますとも」",
+      "EN": "`Riki@❝I'll do it, I'll do it.❞",
+      "Translation": "`Riki@❝I'll do it, I'll do it.❞"
+    },
+    {
+      "JP": "理樹@「参ったな…わかった。譲るよ。僕が下になる」",
+      "EN": "`Riki@❝I'm disappointed, but... okay, I'll be under.❞",
+      "Translation": "`Riki@❝I'm disappointed, but... okay, I'll be under.❞"
+    },
+    {
+      "JP": "朱鷺戸@「当然じゃない。なにに参っているのかも謎だわ」",
+      "EN": "`Tokido@❝Of course you will. What are you even disappointed about?❞",
+      "Translation": "`Tokido@❝Of course you will. What are you even disappointed about?❞"
+    },
+    {
+      "JP": "朱鷺戸@「じゃ、しゃがんで」",
+      "EN": "`Tokido@❝Then, bend down.❞",
+      "Translation": "`Tokido@❝Then, bend down.❞"
+    },
+    {
+      "JP": "朱鷺戸@「できたらタイミングを合わせて一緒に飛び上がるぐらいの勢いで立ってほしいんだけど」",
+      "EN": "`Tokido@❝If possible, I want you to time standing up at the same time as I jump.❞",
+      "Translation": "`Tokido@❝If possible, I want you to time standing up at the same time as I jump.❞"
+    },
+    {
+      "JP": "理樹@「わかった。やってみるよ」",
+      "EN": "`Riki@❝Got it. I'll try.❞",
+      "Translation": "`Riki@❝Got it. I'll try.❞"
+    },
+    {
+      "JP": "理樹@「肩からジャンプ」",
+      "EN": "`Riki@❝One of us can jump off the other's shoulders.❞",
+      "Translation": "`Riki@❝One of us can jump off the other's shoulders.❞"
+    },
+    {
+      "JP": "朱鷺戸@「届くかしら？」",
+      "EN": "`Tokido@❝Will we reach it, though?❞",
+      "Translation": "`Tokido@❝Will we reach it, though?❞"
+    },
+    {
+      "JP": "理樹@「きみの身体能力なら、たぶん」",
+      "EN": "`Riki@❝I think you can pull it off.❞",
+      "Translation": "`Riki@❝I think you can pull it off.❞"
+    },
+    {
+      "JP": "朱鷺戸@「ということは、理樹くんが下なのね？」",
+      "EN": "`Tokido@❝Does that mean you'll be under?❞",
+      "Translation": "`Tokido@❝Does that mean you'll be under?❞"
+    },
+    {
+      "JP": "理樹@「上よりは適していると思うよ」",
+      "EN": "`Riki@❝I think it's better than me being on top.❞",
+      "Translation": "`Riki@❝I think it's better than me being on top.❞"
+    },
+    {
+      "JP": "朱鷺戸@「オーケー、やってみるわ」",
+      "EN": "`Tokido@❝Okay, let's try.❞",
+      "Translation": "`Tokido@❝Okay, let's try.❞"
+    },
+    {
+      "JP": "たり立ち上がり、準備をする。",
+      "EN": "We stood up and prepared ourselves.",
+      "Translation": "We stood up and prepared ourselves."
+    },
+    {
+      "JP": "はロープの下にしゃがみ込む。",
+      "EN": "I bent over underneath the rope.",
+      "Translation": "I bent over underneath the rope."
+    },
+    {
+      "JP": "理樹@「肩に乗って、僕が立ち上がると同時に、その力も利用してジャンプね」",
+      "EN": "`Riki@❝Climb on my shoulders, and make use of the momentum when I stand up straight.❞",
+      "Translation": "`Riki@❝Climb on my shoulders, and make use of the momentum when I stand up straight.❞"
+    },
+    {
+      "JP": "朱鷺戸@「うん、わかった」",
+      "EN": "`Tokido@❝Alright, got it.❞",
+      "Translation": "`Tokido@❝Alright, got it.❞"
+    },
+    {
+      "JP": "理樹@「じゃ、どうぞ」",
+      "EN": "`Riki@❝Okay, go ahead.❞",
+      "Translation": "`Riki@❝Okay, go ahead.❞"
+    },
+    {
+      "JP": "はロープの真下にしゃがみこむ。",
+      "EN": "I bent over right below the rope.",
+      "Translation": "I bent over right below the rope."
+    },
+    {
+      "JP": "鷺戸さんが飛んだ後は、すぐどかなくてはならない。",
+      "EN": "After Tokido-san jumps, I'll have to move away immediately.",
+      "Translation": "After Tokido-san jumps, I'll have to move away immediately."
+    },
+    {
+      "JP": "朱鷺戸@「じゃ、失礼するわね」",
+      "EN": "`Tokido@❝Then, excuse me.❞",
+      "Translation": "`Tokido@❝Then, excuse me.❞"
+    },
+    {
+      "JP": "、左、と足が乗り、彼女の全体重がかかる。",
+      "EN": "She put her right, then left foot on, and the weight of her entire body was on me.",
+      "Translation": "She put her right, then left foot on, and the weight of her entire body was on me."
+    },
+    {
+      "JP": "像以上に軽い。ただ彼女がバランスを崩さないうちに飛ばしてやらないと。",
+      "EN": "She is unexpectedly light. She just has to jump before losing her balance.",
+      "Translation": "She is unexpectedly light. She just has to jump before losing her balance."
+    },
+    {
+      "JP": "理樹@「せーの…」",
+      "EN": "`Riki@❝One-two...❞",
+      "Translation": "`Riki@❝One-two...❞"
+    },
+    {
+      "JP": "理樹@「それ！」",
+      "EN": "`Riki@❝Go!❞",
+      "Translation": "`Riki@❝Go!❞"
+    },
+    {
+      "JP": "も飛び上がる勢いで、膝を立てた。",
+      "EN": "I sprang up with great force.",
+      "Translation": "I sprang up with great force."
+    },
+    {
+      "JP": "の後、僕は横に転がって、彼女の着地を待った。",
+      "EN": "After that, I rolled sideways, waiting for her to land.",
+      "Translation": "After that, I rolled sideways, waiting for her to land."
+    },
+    {
+      "JP": "地しない。",
+      "EN": "She didn't land.",
+      "Translation": "She didn't land."
+    },
+    {
+      "JP": "上げると、彼女の体は宙に浮いたままだった。",
+      "EN": "When I looked up, her body was floating in the air.",
+      "Translation": "When I looked up, her body was floating in the air."
+    },
+    {
+      "JP": "の体重で、ロープが引っ張られる。",
+      "EN": "With the weight of her body, she was pulling down the rope.",
+      "Translation": "With the weight of her body, she was pulling down the rope."
+    },
+    {
+      "JP": "時に、ごとりと下から音がして、見ると床が動いていた。",
+      "EN": "At the same time, there was a clunk from below, and when I looked, I saw that the floor was moving.",
+      "Translation": "At the same time, there was a clunk from below, and when I looked, I saw that the floor was moving."
+    },
+    {
+      "JP": "下への入り口に違いなかった。",
+      "EN": "That must be the entrance to the next floor.",
+      "Translation": "That must be the entrance to the next floor."
+    },
+    {
+      "JP": "朱鷺戸@「よし、クリア」",
+      "EN": "`Tokido@❝Good, we cleared that.❞",
+      "Translation": "`Tokido@❝Good, we cleared that.❞"
+    },
+    {
+      "JP": "朱鷺戸@「にしても、パートナーがこんな形で役立つなんてね」",
+      "EN": "`Tokido@❝I didn't expect having a partner would come in handy like this.❞",
+      "Translation": "`Tokido@❝I didn't expect having a partner would come in handy like this.❞"
+    },
+    {
+      "JP": "理樹@「いやー、僕がいてよかったね」",
+      "EN": "`Riki@❝Well, aren't you glad I'm here?❞",
+      "Translation": "`Riki@❝Well, aren't you glad I'm here?❞"
+    },
+    {
+      "JP": "朱鷺戸@「ああん!?」",
+      "EN": "`Tokido@❝Haa!?❞",
+      "Translation": "`Tokido@❝Haa!?❞"
+    },
+    {
+      "JP": "理樹@「うわ、なんでそんな睨まれるのか…」",
+      "EN": "`Riki@❝Wow, why are you staring so hard...❞",
+      "Translation": "`Riki@❝Wow, why are you staring so hard...❞"
+    },
+    {
+      "JP": "朱鷺戸@「そりゃ、結果的には役だったけど、あなたでよかった、とはまっったく思ってないのだけど」",
+      "EN": "`Tokido@❝You turned out helpful, but I'm not happy with my choice in the slightest.❞",
+      "Translation": "`Tokido@❝You turned out helpful, but I'm not happy with my choice in the slightest.❞"
+    },
+    {
+      "JP": "理樹@「さすがスパイ。手厳しいなあ」",
+      "EN": "`Riki@❝As expected of a spy. You are harsh.❞",
+      "Translation": "`Riki@❝As expected of a spy. You are harsh.❞"
+    },
+    {
+      "JP": "朱鷺戸@「いや、スパイ目線でなくとも普通に思わないわよ」",
+      "EN": "`Tokido@❝I'm not saying this as a spy.❞",
+      "Translation": "`Tokido@❝I'm not saying this as a spy.❞"
+    },
+    {
+      "JP": "理樹@「ごめん」",
+      "EN": "`Riki@❝Sorry.❞",
+      "Translation": "`Riki@❝Sorry.❞"
+    },
+    {
+      "JP": "から反省する。",
+      "EN": "I reflected sincerely.",
+      "Translation": "I reflected sincerely."
+    },
+    {
+      "JP": "朱鷺戸@「忘れてあげるから、とっととライト消しなさい」",
+      "EN": "`Tokido@❝Forget it, just turn off the light already.❞",
+      "Translation": "`Tokido@❝Forget it, just turn off the light already.❞"
+    },
+    {
+      "JP": "理樹@「そうだね。ひとりだったら、クリアできなかっただろうね」",
+      "EN": "`Riki@❝That's right. If you were alone, you wouldn't have been able to clear that.❞",
+      "Translation": "`Riki@❝That's right. If you were alone, you wouldn't have been able to clear that.❞"
+    },
+    {
+      "JP": "朱鷺戸@「他の連中は手こずるに違いないわ」",
+      "EN": "`Tokido@❝Everyone else will have a hard time clearing this.❞",
+      "Translation": "`Tokido@❝Everyone else will have a hard time clearing this.❞"
+    },
+    {
+      "JP": "朱鷺戸@「じゃ、ライトを消してくれる？」",
+      "EN": "`Tokido@❝Then, can you turn off the light?❞",
+      "Translation": "`Tokido@❝Then, can you turn off the light?❞"
+    },
+    {
+      "JP": "び暗闇へ。彼女だけが見える世界へ。",
+      "EN": "Again, into the darkness. The world where only she can see.",
+      "Translation": "Again, into the darkness. The world where only she can see."
+    },
+    {
+      "JP": "朱鷺戸@「まあ、当然のように見張りがいるわ」",
+      "EN": "`Tokido@❝Obviously there'll be a guard.❞",
+      "Translation": "`Tokido@❝Obviously there'll be a guard.❞"
+    },
+    {
+      "JP": "理樹@「だろうね」",
+      "EN": "`Riki@❝Right.❞",
+      "Translation": "`Riki@❝Right.❞"
+    },
+    {
+      "JP": "朱鷺戸@「準備はいい？」",
+      "EN": "`Tokido@❝Are you ready?❞",
+      "Translation": "`Tokido@❝Are you ready?❞"
+    },
+    {
+      "JP": "理樹@「いつでもいいよ」",
+      "EN": "`Riki@❝Whenever you are.❞",
+      "Translation": "`Riki@❝Whenever you are.❞"
+    },
+    {
+      "JP": "朱鷺戸@「また部屋へと出たわ」",
+      "EN": "`Tokido@❝We're at another room.❞",
+      "Translation": "`Tokido@❝We're at another room.❞"
+    },
+    {
+      "JP": "朱鷺戸@「ストップ」",
+      "EN": "`Tokido@❝Stop.❞",
+      "Translation": "`Tokido@❝Stop.❞"
+    },
+    {
+      "JP": "女が僕を制止した。",
+      "EN": "She stopped me.",
+      "Translation": "She stopped me."
+    },
+    {
+      "JP": "朱鷺戸@「トラップよ」",
+      "EN": "`Tokido@❝It's a trap.❞",
+      "Translation": "`Tokido@❝It's a trap.❞"
+    },
+    {
+      "JP": "理樹@「ええっ」",
+      "EN": "`Riki@❝Eeh.❞",
+      "Translation": "`Riki@❝Eeh.❞"
+    },
+    {
+      "JP": "朱鷺戸@「おびただしい数の毒蛇がいるわ…」",
+      "EN": "`Tokido@❝There are a ton of venomous snakes.❞",
+      "Translation": "`Tokido@❝There are a ton of venomous snakes.❞"
+    },
+    {
+      "JP": "朱鷺戸@「ライトを点けて！　同時に逃げるのよ」",
+      "EN": "`Tokido@❝Turn on the light! Run immediately!❞",
+      "Translation": "`Tokido@❝Turn on the light! Run immediately!❞"
+    },
+    {
+      "JP": "チッ！",
+      "EN": "*Snap*!",
+      "Translation": "*Snap*!"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "瞬だったけど、一生忘れられそうもない気味の悪い光景が浮かび上がった。",
+      "EN": "It was only a moment, but a horrible scene I'd never forget floated up in front of me.",
+      "Translation": "It was only a moment, but a horrible scene I'd never forget floated up in front of me."
+    },
+    {
+      "JP": "朱鷺戸@「怯んだ隙に逃げる！」",
+      "EN": "`Tokido@❝Run while they're surprised!❞",
+      "Translation": "`Tokido@❝Run while they're surprised!❞"
+    },
+    {
+      "JP": "女に背を押されるようにして、僕はだらしなく走り出した。",
+      "EN": "Being pushed from behind, I ran sluggishly out of the room.",
+      "Translation": "Being pushed from behind, I ran sluggishly out of the room."
+    },
+    {
+      "JP": "朱鷺戸@「ふぅ…」",
+      "EN": "`Tokido@❝Phew...❞",
+      "Translation": "`Tokido@❝Phew...❞"
+    },
+    {
+      "JP": "朱鷺戸@「もう、大丈夫よ」",
+      "EN": "`Tokido@❝It's fine now.❞",
+      "Translation": "`Tokido@❝It's fine now.❞"
+    },
+    {
+      "JP": "回連続ではずれくじを引いたことになる。",
+      "EN": "This is the second time I struck out.",
+      "Translation": "This is the second time I struck out."
+    },
+    {
+      "JP": "理樹@「どうも今日はアンラッキーな日のようなんだけど、それでも僕が行き先を決めていくの？」",
+      "EN": "`Riki@❝Today seems to be my unlucky day. Are you sure you want me to choose which way we go?❞",
+      "Translation": "`Riki@❝Today seems to be my unlucky day. Are you sure you want me to choose which way we go?❞"
+    },
+    {
+      "JP": "朱鷺戸@「死ななかったじゃない。無傷よ」",
+      "EN": "`Tokido@❝It's fine as long as we don't die. I'm still fine.❞",
+      "Translation": "`Tokido@❝It's fine as long as we don't die. I'm still fine.❞"
+    },
+    {
+      "JP": "理樹@「まあ、結果的にはそうなんだけど…」",
+      "EN": "`Riki@❝Well, result-wise, but...❞",
+      "Translation": "`Riki@❝Well, result-wise, but...❞"
+    },
+    {
+      "JP": "朱鷺戸@「じゃ、いーのよ。はいはい、次いきましょ」",
+      "EN": "`Tokido@❝Then, it's fine. Alright, the next one.❞",
+      "Translation": "`Tokido@❝Then, it's fine. Alright, the next one.❞"
+    },
+    {
+      "JP": "鷺戸さんはまったく気にしていないようだった。",
+      "EN": "Tokido-san really seemed to not care at all.",
+      "Translation": "Tokido-san really seemed to not care at all."
+    },
+    {
+      "JP": "朱鷺戸@「また部屋へと出たわ」",
+      "EN": "`Tokido@❝We're at another room.❞",
+      "Translation": "`Tokido@❝We're at another room.❞"
+    },
+    {
+      "JP": "朱鷺戸@「危険はないようね。ライト点けてもいいわよ」",
+      "EN": "`Tokido@❝There doesn't seem to be any danger. You can turn the light on.❞",
+      "Translation": "`Tokido@❝There doesn't seem to be any danger. You can turn the light on.❞"
+    },
+    {
+      "JP": "理樹@「なんか石があるよ…」",
+      "EN": "`Riki@❝There seems to be some sort of stone...❞",
+      "Translation": "`Riki@❝There seems to be some sort of stone...❞"
+    },
+    {
+      "JP": "にぎり型の石が部屋の端に置いてある。",
+      "EN": "A stone in the shape of a rice ball lay at the side of the room.",
+      "Translation": "A stone in the shape of a rice ball lay at the side of the room."
+    },
+    {
+      "JP": "うに幅３メートルはありそうだ。",
+      "EN": "It was easily 3 meter wide.",
+      "Translation": "It was easily 3 meter wide."
+    },
+    {
+      "JP": "朱鷺戸@「いかにも下に入り口がありますよっていいたげに置いてあるわね…」",
+      "EN": "`Tokido@❝It has ❛the way down is underneath❜ written all over it...❞",
+      "Translation": "`Tokido@❝It has ❛the way down is underneath❜ written all over it...❞"
+    },
+    {
+      "JP": "鷺戸さんはそれに慎重に近づいていく。",
+      "EN": "Tokido-san cautiously approached the stone.",
+      "Translation": "Tokido-san cautiously approached the stone."
+    },
+    {
+      "JP": "朱鷺戸@「多分階下への入り口はこの下ね…」",
+      "EN": "`Tokido@❝The way down is probably beneath this...❞",
+      "Translation": "`Tokido@❝The way down is probably beneath this...❞"
+    },
+    {
+      "JP": "れに触れてこちらを振り返った。",
+      "EN": "She touched it and turned back.",
+      "Translation": "She touched it and turned back."
+    },
+    {
+      "JP": "理樹@「じゃ、この石を動かせばいいのか。でもそれって力仕事だよね…」",
+      "EN": "`Riki@❝Then, can we just move this stone? Seems like hard work...❞",
+      "Translation": "`Riki@❝Then, can we just move this stone? Seems like hard work...❞"
+    },
+    {
+      "JP": "理樹@「どう見ても、ひとりじゃ無理だし、ふたりがかりでも大変だよ…」",
+      "EN": "`Riki@❝No matter how I look at it, it's impossible for one person. Even two may have a hard time...❞",
+      "Translation": "`Riki@❝No matter how I look at it, it's impossible for one person. Even two may have a hard time...❞"
+    },
+    {
+      "JP": "朱鷺戸@「それを簡単にするのが、あなたの役目じゃない。頼りにしてるわよ、パートナー」",
+      "EN": "`Tokido@❝Figuring this out is your job. I'm counting on you, Partner.❞",
+      "Translation": "`Tokido@❝Figuring this out is your job. I'm counting on you, Partner.❞"
+    },
+    {
+      "JP": "理樹@「こういう時だけ強調されても…」",
+      "EN": "`Riki@❝You only say that at times like this...❞",
+      "Translation": "`Riki@❝You only say that at times like this...❞"
+    },
+    {
+      "JP": "はとりあえず、石を動かそうと試みる。",
+      "EN": "First off, I tried to move the stone.",
+      "Translation": "First off, I tried to move the stone."
+    },
+    {
+      "JP": "してみるが、びくともしない。",
+      "EN": "I pushed, but it didn't budge at all.",
+      "Translation": "I pushed, but it didn't budge at all."
+    },
+    {
+      "JP": "定されているというより、重すぎて動かないという感じだ。",
+      "EN": "It didn't appear to be fixed in place. It was simply heavy.",
+      "Translation": "It didn't appear to be fixed in place. It was simply heavy."
+    },
+    {
+      "JP": "いても動かない…。",
+      "EN": "Even if I pulled, it didn't budge...",
+      "Translation": "Even if I pulled, it didn't budge..."
+    },
+    {
+      "JP": "をしてもまったく動かない…。",
+      "EN": "It didn't move no matter what...",
+      "Translation": "It didn't move no matter what..."
+    },
+    {
+      "JP": "朱鷺戸@「手伝うわ」",
+      "EN": "`Tokido@❝I'll help.❞",
+      "Translation": "`Tokido@❝I'll help.❞"
+    },
+    {
+      "JP": "たりして押すも変化はない。",
+      "EN": "Even with two of us, it made no difference.",
+      "Translation": "Even with two of us, it made no difference."
+    },
+    {
+      "JP": "朱鷺戸@「やっぱり頭を使えってことね」",
+      "EN": "`Tokido@❝We'll have to use our heads.❞",
+      "Translation": "`Tokido@❝We'll have to use our heads.❞"
+    },
+    {
+      "JP": "理樹@「そうだね…。うーん、これだけ隙間がないとてこの原理でも無理そうだね…」",
+      "EN": "`Riki@❝Right... uhmm, there aren't any gaps, so we can't use leverage...❞",
+      "Translation": "`Riki@❝Right... uhmm, there aren't any gaps, so we can't use leverage...❞"
+    },
+    {
+      "JP": "朱鷺戸@「この大きさを爆破するには、相当な量の爆薬がいるし、一緒に生き埋めになっちゃいそうね…」",
+      "EN": "`Tokido@❝To crack something this big, I'll need quite a lot of gunpowder, and we'll get buried along with it...❞",
+      "Translation": "`Tokido@❝To crack something this big, I'll need quite a lot of gunpowder, and we'll get buried along with it...❞"
+    },
+    {
+      "JP": "はライトで辺りを照らして回る。",
+      "EN": "I shone the light around us.",
+      "Translation": "I shone the light around us."
+    },
+    {
+      "JP": "ることに気づいた。",
+      "EN": "I noticed something.",
+      "Translation": "I noticed something."
+    },
+    {
+      "JP": "理樹@「立方体なんだ、この部屋」",
+      "EN": "`Riki@❝This room is a cube.❞",
+      "Translation": "`Riki@❝This room is a cube.❞"
+    },
+    {
+      "JP": "朱鷺戸@「え？　ああ、言われてみればそうね」",
+      "EN": "`Tokido@❝Eh? Ah, now that you mention it...❞",
+      "Translation": "`Tokido@❝Eh? Ah, now that you mention it...❞"
+    },
+    {
+      "JP": "朱鷺戸@「つまりそれは？」",
+      "EN": "`Tokido@❝And so?❞",
+      "Translation": "`Tokido@❝And so?❞"
+    },
+    {
+      "JP": "理樹@「いや、それだけだけど」",
+      "EN": "`Riki@❝No, that's all.❞",
+      "Translation": "`Riki@❝No, that's all.❞"
+    },
+    {
+      "JP": "朱鷺戸@「はぁ…なによ、期待させておいて」",
+      "EN": "`Tokido@❝Haa... what's that... I was expecting something more.❞",
+      "Translation": "`Tokido@❝Haa... what's that... I was expecting something more.❞"
+    },
+    {
+      "JP": "は部屋の外に出てみることにする。",
+      "EN": "I tried leaving the room.",
+      "Translation": "I tried leaving the room."
+    },
+    {
+      "JP": "朱鷺戸@「あんまり遠くにいかないのよっ、危険だから」",
+      "EN": "`Tokido@❝Don't go too far. It's dangerous.❞",
+      "Translation": "`Tokido@❝Don't go too far. It's dangerous.❞"
+    },
+    {
+      "JP": "供のようなことを言われる。まあ、危険なのは確かだ。",
+      "EN": "I got cautioned like a kid. Well, it's certainly dangerous.",
+      "Translation": "I got cautioned like a kid. Well, it's certainly dangerous."
+    },
+    {
+      "JP": "屋への入り口の横、その壁から丸い石が出っ張っている。",
+      "EN": "Near the door of the room, there was a round stone protruding from the wall.",
+      "Translation": "Near the door of the room, there was a round stone protruding from the wall."
+    },
+    {
+      "JP": "からつけたもののようで、動きそうだ。",
+      "EN": "It seemed to have been attached after the wall was constructed and could be turned.",
+      "Translation": "It seemed to have been attached after the wall was constructed and could be turned."
+    },
+    {
+      "JP": "イトを一度置いて、両手で端を持ち、力を込める。",
+      "EN": "I set the light down, grabbed it with both hand and put force into it.",
+      "Translation": "I set the light down, grabbed it with both hand and put force into it."
+    },
+    {
+      "JP": "が擦れ合う音をたてながら、それは回った。",
+      "EN": "The stone gave off a chaffing sound, and turned.",
+      "Translation": "The stone gave off a chaffing sound, and turned."
+    },
+    {
+      "JP": "とりと部屋から音がした。",
+      "EN": "A *clunk* sound came from the room.",
+      "Translation": "A *clunk* sound came from the room."
+    },
+    {
+      "JP": "…。左には回らないようだ。",
+      "EN": "Mnn... it doesn't seem to turn left.",
+      "Translation": "Mnn... it doesn't seem to turn left."
+    },
+    {
+      "JP": "イトを一度置いて、両手で端を持ち、力を込める。",
+      "EN": "I put the light down, grabbed it with both hands and put force into it.",
+      "Translation": "I put the light down, grabbed it with both hands and put force into it."
+    },
+    {
+      "JP": "ごご…石が擦れ合う音をたてながら、それは回っていく。",
+      "EN": "*Rumble rumble*... the stone gave off a chaffing sound, and started to turn.",
+      "Translation": "*Rumble rumble*... the stone gave off a chaffing sound, and started to turn."
+    },
+    {
+      "JP": "周したところで最後にごとり、と部屋から音がした。",
+      "EN": "Once it turned a revolution, a *clunk* sound came from the room.",
+      "Translation": "Once it turned a revolution, a *clunk* sound came from the room."
+    },
+    {
+      "JP": "理樹@「やった！　仕掛けが解けたよ！」",
+      "EN": "`Riki@❝Yes! I got it.❞",
+      "Translation": "`Riki@❝Yes! I got it.❞"
+    },
+    {
+      "JP": "朱鷺戸@「え？　こっちは何も変わりないんだけど」",
+      "EN": "`Tokido@❝Eh? Nothing changed here, though.❞",
+      "Translation": "`Tokido@❝Eh? Nothing changed here, though.❞"
+    },
+    {
+      "JP": "屋の中から朱鷺戸さんの声。",
+      "EN": "Tokido-san's voice came from inside the room.",
+      "Translation": "Tokido-san's voice came from inside the room."
+    },
+    {
+      "JP": "理樹@「へんだな…」",
+      "EN": "`Riki@❝That's strange...❞",
+      "Translation": "`Riki@❝That's strange...❞"
+    },
+    {
+      "JP": "後、地震が起きた。",
+      "EN": "But then the earth trembled.",
+      "Translation": "But then the earth trembled."
+    },
+    {
+      "JP": "朱鷺戸@「ひやあぁぁ!!」",
+      "EN": "`Tokido@❝Hyaaaa!!❞",
+      "Translation": "`Tokido@❝Hyaaaa!!❞"
+    },
+    {
+      "JP": "鷺戸さんの悲鳴が聞こえた。",
+      "EN": "I heard Tokido-san scream.",
+      "Translation": "I heard Tokido-san scream."
+    },
+    {
+      "JP": "屋の中で何かが起こったんだ！",
+      "EN": "Something happened inside the room!",
+      "Translation": "Something happened inside the room!"
+    },
+    {
+      "JP": "はライトを持つと、部屋の中を照らし出した。",
+      "EN": "I picked up the light and shone it inside the room.",
+      "Translation": "I picked up the light and shone it inside the room."
+    },
+    {
+      "JP": "こには信じられない状況が…。",
+      "EN": "I saw something unbelievable...",
+      "Translation": "I saw something unbelievable..."
+    },
+    {
+      "JP": "屋が回転していた…。",
+      "EN": "The room had turned...",
+      "Translation": "The room had turned..."
+    },
+    {
+      "JP": "が天井になり、天井が床になり…",
+      "EN": "The floor became the ceiling, and the ceiling became the floor...",
+      "Translation": "The floor became the ceiling, and the ceiling became the floor..."
+    },
+    {
+      "JP": "朱鷺戸@「ひやああぁああぁぁぁぁぁ!!」",
+      "EN": "`Tokido@❝Hiyaaaaaa!!❞",
+      "Translation": "`Tokido@❝Hiyaaaaaa!!❞"
+    },
+    {
+      "JP": "ろんごろん…。",
+      "EN": "*Roll roll*...",
+      "Translation": "*Roll roll*..."
+    },
+    {
+      "JP": "朱鷺戸@「止めてえぇぇぇー!!」",
+      "EN": "`Tokido@❝Stop ittttt!!❞",
+      "Translation": "`Tokido@❝Stop ittttt!!❞"
+    },
+    {
+      "JP": "ろんごろん…。",
+      "EN": "*Roll roll*...",
+      "Translation": "*Roll roll*..."
+    },
+    {
+      "JP": "朱鷺戸@「し、死ぬっ」",
+      "EN": "`Tokido@❝I'm gonna die!❞",
+      "Translation": "`Tokido@❝I'm gonna die!❞"
+    },
+    {
+      "JP": "ろんごろん…。",
+      "EN": "*Roll roll*...",
+      "Translation": "*Roll roll*..."
+    },
+    {
+      "JP": "がて、一回転して止まった。",
+      "EN": "At last, the revolution stopped.",
+      "Translation": "At last, the revolution stopped."
+    },
+    {
+      "JP": "は部屋に飛び込み、ライトで朱鷺戸さんの姿を探す。",
+      "EN": "I jumped into the room, and searched for Tokido-san using the light.",
+      "Translation": "I jumped into the room, and searched for Tokido-san using the light."
+    },
+    {
+      "JP": "女は部屋の隅に突っ伏していた。",
+      "EN": "She had been pushed into a corner of the room.",
+      "Translation": "She had been pushed into a corner of the room."
+    },
+    {
+      "JP": "れがむくりと起きあがる。",
+      "EN": "Then, she abruptly stood up.",
+      "Translation": "Then, she abruptly stood up."
+    },
+    {
+      "JP": "朱鷺戸@「慎重に取り扱うべき正体不明の仕掛けをいきなり大胆に一回転もさせるなあぁぁっ!!」",
+      "EN": "`Tokido@❝Don't just turn any knob you find!❞",
+      "Translation": "`Tokido@❝Don't just turn any knob you find!❞"
+    },
+    {
+      "JP": "難の声が飛んでくる。",
+      "EN": "A critical voice came flying out...",
+      "Translation": "A critical voice came flying out..."
+    },
+    {
+      "JP": "理樹@「え、ああ、そうだね…ちょっとだけ動かして試してみるべきだったね…」",
+      "EN": "`Riki@❝Eh, ah, right... I only meant to turn it a little...❞",
+      "Translation": "`Riki@❝Eh, ah, right... I only meant to turn it a little...❞"
+    },
+    {
+      "JP": "朱鷺戸@「ったく…パートナーに殺されるところだったわ」",
+      "EN": "`Tokido@❝Geez... I was almost killed by my partner.❞",
+      "Translation": "`Tokido@❝Geez... I was almost killed by my partner.❞"
+    },
+    {
+      "JP": "理樹@「怪我はなかった？」",
+      "EN": "`Riki@❝Are you hurt?❞",
+      "Translation": "`Riki@❝Are you hurt?❞"
+    },
+    {
+      "JP": "朱鷺戸@「ええ！　奇跡的なことに無傷よっ！」",
+      "EN": "`Tokido@❝No! It was a miracle I didn't get hurt!❞",
+      "Translation": "`Tokido@❝No! It was a miracle I didn't get hurt!❞"
+    },
+    {
+      "JP": "朱鷺戸@「あんなでかい石とこねくり合わされてね！」",
+      "EN": "`Tokido@❝I could've been squashed by that huge stone!❞",
+      "Translation": "`Tokido@❝I could've been squashed by that huge stone!❞"
+    },
+    {
+      "JP": "理樹@「それは不幸中の幸い…」",
+      "EN": "`Riki@❝A silver lining in the misfortune...❞",
+      "Translation": "`Riki@❝A silver lining in the misfortune...❞"
+    },
+    {
+      "JP": "はライトを持つと、部屋に飛び込む。と同時に水平感覚がとれなくなった。",
+      "EN": "I picked up the light and jumped into the room. My sense of balance was disturbed.",
+      "Translation": "I picked up the light and jumped into the room. My sense of balance was disturbed."
+    },
+    {
+      "JP": "が傾いているのだ！",
+      "EN": "The floor was tilted!",
+      "Translation": "The floor was tilted!"
+    },
+    {
+      "JP": "は斜めになった床に張りついて、ライトで朱鷺戸さんの姿を探す。",
+      "EN": "I hung on to the diagonal floor, and looked for Tokido-san with the light.",
+      "Translation": "I hung on to the diagonal floor, and looked for Tokido-san with the light."
+    },
+    {
+      "JP": "女は部屋の隅に突っ伏していた。",
+      "EN": "She had been pushed into a corner of the room.",
+      "Translation": "She had been pushed into a corner of the room."
+    },
+    {
+      "JP": "理樹@「朱鷺戸さん！」",
+      "EN": "`Riki@❝Tokido-san!❞",
+      "Translation": "`Riki@❝Tokido-san!❞"
+    },
+    {
+      "JP": "朱鷺戸@「…見ないで」",
+      "EN": "`Tokido@❝...Don't look!❞",
+      "Translation": "`Tokido@❝...Don't look!❞"
+    },
+    {
+      "JP": "理樹@「え？」",
+      "EN": "`Riki@❝Eh?❞",
+      "Translation": "`Riki@❝Eh?❞"
+    },
+    {
+      "JP": "朱鷺戸@「ちょっとライト下げて」",
+      "EN": "`Tokido@❝Lower the light!❞",
+      "Translation": "`Tokido@❝Lower the light!❞"
+    },
+    {
+      "JP": "理樹@「え？　うん…」",
+      "EN": "`Riki@❝Eh? Alright...❞",
+      "Translation": "`Riki@❝Eh? Alright...❞"
+    },
+    {
+      "JP": "我はなかったんだろうか…心配だ。",
+      "EN": "Was she unhurt...? I was worried.",
+      "Translation": "Was she unhurt...? I was worried."
+    },
+    {
+      "JP": "朱鷺戸@「いいわよ」",
+      "EN": "`Tokido@❝I'm fine now.❞",
+      "Translation": "`Tokido@❝I'm fine now.❞"
+    },
+    {
+      "JP": "イトで照らす。そこにはいつもの朱鷺戸さんが平然と立っていた。",
+      "EN": "I shone the light on her. Tokido-san was standing there normally.",
+      "Translation": "I shone the light on her. Tokido-san was standing there normally."
+    },
+    {
+      "JP": "朱鷺戸@「つまり、石は部屋を傾けて動かすという仕掛けだったわけね。理樹くん、お手柄だわ」",
+      "EN": "`Tokido@❝In other words, the mechanism is that the stone moves the room sideways. Riki-kun, that was quite the achievement.❞",
+      "Translation": "`Tokido@❝In other words, the mechanism is that the stone moves the room sideways. Riki-kun, that was quite the achievement.❞"
+    },
+    {
+      "JP": "ちぱちと拍手を送ってくれる。",
+      "EN": "She clapped her hands.",
+      "Translation": "She clapped her hands."
+    },
+    {
+      "JP": "は無事だったようだ。",
+      "EN": "It seemed she wasn't hurt.",
+      "Translation": "It seemed she wasn't hurt."
+    },
+    {
+      "JP": "理樹@「その…ごめん、いきなりこんなことになるとは思わずに、仕掛けを解いちゃって…」",
+      "EN": "`Riki@❝Umm... sorry, I didn't think it'd suddenly become like this, and moved the mechanism...❞",
+      "Translation": "`Riki@❝Umm... sorry, I didn't think it'd suddenly become like this, and moved the mechanism...❞"
+    },
+    {
+      "JP": "朱鷺戸@「何を謝ってるの？　お手柄だわ、と褒めてあげてるじゃない」",
+      "EN": "`Tokido@❝Why are you apologizing? That's an achievement, I should praise you.❞",
+      "Translation": "`Tokido@❝Why are you apologizing? That's an achievement, I should praise you.❞"
+    },
+    {
+      "JP": "理樹@「でも、さっき隅に倒れてたし…悲鳴もあげてたし、ひゃあぁぁって」",
+      "EN": "`Riki@❝But you were crumbled in the corner... and you screamed so loud... like, ❛hiyaaa.❜❞",
+      "Translation": "`Riki@❝But you were crumbled in the corner... and you screamed so loud... like, ❛hiyaaa.❜❞"
+    },
+    {
+      "JP": "朱鷺戸@「っ…」",
+      "EN": "`Tokido@❝...❞",
+      "Translation": "`Tokido@❝...❞"
+    },
+    {
+      "JP": "理樹@「怪我はなかった？」",
+      "EN": "`Riki@❝Are you not hurt?❞",
+      "Translation": "`Riki@❝Are you not hurt?❞"
+    },
+    {
+      "JP": "朱鷺戸@「………」",
+      "EN": "`Tokido@❝......❞",
+      "Translation": "`Tokido@❝......❞"
+    },
+    {
+      "JP": "朱鷺戸@「そうよ、あなたの言う通りよ、死にそうだったわよ、動いた石と壁の合間にはさまりそうになってね！」",
+      "EN": "`Tokido@❝That's right, just like you said, I almost died, I almost got squashed between the rock and the wall!❞",
+      "Translation": "`Tokido@❝That's right, just like you said, I almost died, I almost got squashed between the rock and the wall!❞"
+    },
+    {
+      "JP": "朱鷺戸@$S028「無事なのが奇跡ね、ねぇ、滑稽でしょ？　仕掛けの中に取り残されたあげく死にそうになったスパイだなんてっ、笑えるでしょ？　さあ、笑いなさい！　笑ったらいいじゃない！あーっはっはっはっ！って」",
+      "EN": "`Tokido@❝Being unhurt is a miracle, right? It's funny, right? A spy got caught by a contraption and almost died! That's laughable, right? That's right! Laugh! It's alright! Do it! Go, ❛Ahahaha!❜❞",
+      "Translation": "`Tokido@❝Being unhurt is a miracle, right? It's funny, right? A spy got caught by a contraption and almost died! That's laughable, right? That's right! Laugh! It's alright! Do it! Go, ❛Ahahaha!❜❞"
+    },
+    {
+      "JP": "朱鷺戸@「あーっはっはっはっ！」",
+      "EN": "`Tokido@❝Ahahaha!❞",
+      "Translation": "`Tokido@❝Ahahaha!❞"
+    },
+    {
+      "JP": "理樹@「いや、時折見せるその自虐的なパフォーマンスが僕にはよくわからないんだけど…」",
+      "EN": "`Riki@❝No, this masochistic performance you show from time to time is hard to understand...❞",
+      "Translation": "`Riki@❝No, this masochistic performance you show from time to time is hard to understand...❞"
+    },
+    {
+      "JP": "朱鷺戸@「ぶつぶつ…」",
+      "EN": "`Tokido@❝*Mumble mumble*...❞",
+      "Translation": "`Tokido@❝*Mumble mumble*...❞"
+    },
+    {
+      "JP": "ゃがみ込んでぶつぶつ何か言い続けている。よく聞こえないけど…。",
+      "EN": "She hunched up and kept on mumbling. I couldn't make out what she was saying though...",
+      "Translation": "She hunched up and kept on mumbling. I couldn't make out what she was saying though..."
+    },
+    {
+      "JP": "外根暗なのかなあ…。",
+      "EN": "Maybe she was actually a negative thinker...",
+      "Translation": "Maybe she was actually a negative thinker..."
+    },
+    {
+      "JP": "理樹@「そこ、入り口あるよ」",
+      "EN": "`Riki@❝There's an opening over there.❞",
+      "Translation": "`Riki@❝There's an opening over there.❞"
+    },
+    {
+      "JP": "が元あった場所を指さす。",
+      "EN": "I pointed at where the stone had been.",
+      "Translation": "I pointed at where the stone had been."
+    },
+    {
+      "JP": "朱鷺戸@「………」",
+      "EN": "`Tokido@❝......❞",
+      "Translation": "`Tokido@❝......❞"
+    },
+    {
+      "JP": "んか開いた入り口は二の次のようだった…。",
+      "EN": "It seemed she didn't care about the entrance anymore...",
+      "Translation": "It seemed she didn't care about the entrance anymore..."
+    },
+    {
+      "JP": "朱鷺戸@「まーいいわ、ここから面目躍如と参りましょう」",
+      "EN": "`Tokido@❝Well, that's fine. I'll show my bona fides from here on.❞",
+      "Translation": "`Tokido@❝Well, that's fine. I'll show my bona fides from here on.❞"
+    },
+    {
+      "JP": "きなり自分を鼓舞して、立ち上がった。",
+      "EN": "She suddenly recovered her bravado and stood up.",
+      "Translation": "She suddenly recovered her bravado and stood up."
+    },
+    {
+      "JP": "、すぐふにゃりとその場に崩れ落ちる。",
+      "EN": "However, she immediately collapsed on the spot.",
+      "Translation": "However, she immediately collapsed on the spot."
+    },
+    {
+      "JP": "理樹@「怪我!?」",
+      "EN": "`Riki@❝Are you hurt?!❞",
+      "Translation": "`Riki@❝Are you hurt?!❞"
+    },
+    {
+      "JP": "朱鷺戸@「ねんざみたい…」",
+      "EN": "`Tokido@❝Seems like a sprain...❞",
+      "Translation": "`Tokido@❝Seems like a sprain...❞"
+    },
+    {
+      "JP": "理樹@「じゃ、今日は戻ろうよっ」",
+      "EN": "`Riki@❝In that case, let's go back for today.❞",
+      "Translation": "`Riki@❝In that case, let's go back for today.❞"
+    },
+    {
+      "JP": "朱鷺戸@「あああぁーっ！」",
+      "EN": "`Tokido@❝Aaaaaa!❞",
+      "Translation": "`Tokido@❝Aaaaaa!❞"
+    },
+    {
+      "JP": "朱鷺戸@「次はお得意の戦闘だし。いいとこ見せようって思ってたのに!!」",
+      "EN": "`Tokido@❝But next is my specialty, battle. I was going to show off!!❞",
+      "Translation": "`Tokido@❝But next is my specialty, battle. I was going to show off!!❞"
+    },
+    {
+      "JP": "に唾が飛んでくる。",
+      "EN": "Her saliva flew at my face.",
+      "Translation": "Her saliva flew at my face."
+    },
+    {
+      "JP": "理樹@「まあまあ、朱鷺戸さんは十分すごいから」",
+      "EN": "`Riki@❝Now now. You are already super enough as you are.❞",
+      "Translation": "`Riki@❝Now now. You are already super enough as you are.❞"
+    },
+    {
+      "JP": "ますように言ってみる。",
+      "EN": "I tried to encourage her.",
+      "Translation": "I tried to encourage her."
+    },
+    {
+      "JP": "朱鷺戸@「う…あなた、やっぱりじわじわくるわ…」",
+      "EN": "`Tokido@❝Uh... you, are really slow...❞",
+      "Translation": "`Tokido@❝Uh... you, are really slow...❞"
+    },
+    {
+      "JP": "理樹@「ほら、肩貸すから、帰ろうよ」",
+      "EN": "`Riki@❝Here, I'll lend you my shoulder, so let's go back.❞",
+      "Translation": "`Riki@❝Here, I'll lend you my shoulder, so let's go back.❞"
+    },
+    {
+      "JP": "日の探索はここまでだった。",
+      "EN": "Today's adventure comes to an end here.",
+      "Translation": "Today's adventure comes to an end here."
+    }
+  ]
+}

@@ -22,3 +22,4 @@ bin/
 .vs/
 obj/
 Properties/
+packages/

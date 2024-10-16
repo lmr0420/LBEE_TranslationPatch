@@ -1,0 +1,49 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "恭介@「武器には様々な攻撃特性がある。出来るだけ有利な武器で戦いたいもんだな」",
+      "EN": "`Kyousuke@❝Different weapons have different attack types. You should use the most effective weapon whenever possible.❞ ",
+      "Translation": "`Kyousuke@❝Different weapons have different attack types. You should use the most effective weapon whenever possible.❞ "
+    },
+    {
+      "JP": "恭介@「武器は使い込んでいるか？　武器には攻撃回数の範囲がある。使い込んでいくと攻撃回数の上限も上がっていくぞ」",
+      "EN": "`Kyousuke@❝Are you using your weapons regularly? Every weapon has a limited number of attacks. You can raise the limit by using a particular weapon for a while.❞",
+      "Translation": "`Kyousuke@❝Are you using your weapons regularly? Every weapon has a limited number of attacks. You can raise the limit by using a particular weapon for a while.❞"
+    },
+    {
+      "JP": "恭介@「手にした武器によっては、非力な者でも一瞬で強敵に変わる。油断はするな」",
+      "EN": "`Kyousuke@❝No matter how weak someone is, they can turn into a tough opponent once they get their hands on a weapon. Don't let your guard down.❞",
+      "Translation": "`Kyousuke@❝No matter how weak someone is, they can turn into a tough opponent once they get their hands on a weapon. Don't let your guard down.❞"
+    },
+    {
+      "JP": "恭介@「持ち物には能力アップやＨＰ（ヒットポイント）回復など色々な効果があり、発動するタイミングも様々だ。中には能力がダウンしてしまうものもある。気をつけろ」",
+      "EN": "`Kyousuke@❝Items may have different effects like increasing your skills, or restoring your HP; they're all activated at different times. Some items may decrease your skills, so watch out.❞",
+      "Translation": "`Kyousuke@❝Items may have different effects like increasing your skills, or restoring your HP; they're all activated at different times. Some items may decrease your skills, so watch out.❞"
+    },
+    {
+      "JP": "恭介@「武器には様々な攻撃特性がある。特性が同じなら、違う武器で覚えたコツも引き継がれる。同じ特性の武器を使い続ければ非常に有効だな」",
+      "EN": "`Kyousuke@❝Weapons have different types. If you master one, it will affect others of the same type. By using many weapons of the same type, you'll become better with them.❞",
+      "Translation": "`Kyousuke@❝Weapons have different types. If you master one, it will affect others of the same type. By using many weapons of the same type, you'll become better with them.❞"
+    },
+    {
+      "JP": "恭介@「相手が攻撃をミスしたときや、相手の攻撃を受け止めたときは反撃のチャンスだ。反撃でさらにクリティカルが決まった時は最高に気持ちいいぜ」",
+      "EN": "`Kyousuke@❝When your opponent misses or you successfully stop their attack, you get a chance to counter-attack. It's the best feeling when you manage to land a critical hit from that.❞",
+      "Translation": "`Kyousuke@❝When your opponent misses or you successfully stop their attack, you get a chance to counter-attack. It's the best feeling when you manage to land a critical hit from that.❞"
+    },
+    {
+      "JP": "恭介@「武器には、使用者の腕力からダメージを引き出すものと、その武器が持つ攻撃力からダメージを算出する、ふたつがあるぞ」",
+      "EN": "`Kyousuke@❝The damage is calculated based on the weapon's attack, and the physical strength of the user.❞",
+      "Translation": "`Kyousuke@❝The damage is calculated based on the weapon's attack, and the physical strength of the user.❞"
+    },
+    {
+      "JP": "恭介@「攻撃回数の上限がたくさん上がる、ポテンシャルを秘めた武器を探して鍛えていくのも有効だ」",
+      "EN": "`Kyousuke@❝The number of attacks for every weapon can grow substantially, so it's effective to use a weapon with hidden potential.❞",
+      "Translation": "`Kyousuke@❝The number of attacks for every weapon can grow substantially, so it's effective to use a weapon with hidden potential.❞"
+    },
+    {
+      "JP": "う言い残して、恭介は立ち去った。",
+      "EN": "Kyousuke left me with these words.",
+      "Translation": "Kyousuke left me with these words."
+    }
+  ]
+}

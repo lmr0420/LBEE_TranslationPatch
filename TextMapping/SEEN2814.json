@@ -1,0 +1,774 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "が配置されていただけか…。",
+      "EN": "So there were only enemies in this room...",
+      "Translation": "So there were only enemies in this room..."
+    },
+    {
+      "JP": "っぱり同じ場所じゃないのね…。",
+      "EN": "So it was not supposed to be in the same room, huh?",
+      "Translation": "So it was not supposed to be in the same room, huh?"
+    },
+    {
+      "JP": "ゅん、と風を切る音が聞こえた。",
+      "EN": "I heard the sound of something cutting through the air.",
+      "Translation": "I heard the sound of something cutting through the air."
+    },
+    {
+      "JP": "後には、あたしの上半身だけがスライドして宙に浮いていた。",
+      "EN": "A second later, my upper body slid off and hung in the air for a second.",
+      "Translation": "A second later, my upper body slid off and hung in the air for a second."
+    },
+    {
+      "JP": "物か…。",
+      "EN": "Was this for real...?",
+      "Translation": "Was this for real...?"
+    },
+    {
+      "JP": "たしはハンガーを飛ばしていただけだったのに…。",
+      "EN": "I had only just started...",
+      "Translation": "I had only just started..."
+    },
+    {
+      "JP": "ょっと待ってよ。ここってトラップの部屋じゃなかっ…",
+      "EN": "Hold on. Wasn't this the trap ro-...",
+      "Translation": "Hold on. Wasn't this the trap ro-..."
+    },
+    {
+      "JP": "ばしゅーーーー!!",
+      "EN": "*Slaaaaash!!*",
+      "Translation": "*Slaaaaash!!*"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "れだけのあほよ…。",
+      "EN": "I was so stupid...",
+      "Translation": "I was so stupid..."
+    },
+    {
+      "JP": "になんて負けるか！",
+      "EN": "Like scythes could do me in!",
+      "Translation": "Like scythes could do me in!"
+    },
+    {
+      "JP": "沙耶@「おら、こいやーーーーっ!!」",
+      "EN": "`Saya@❝Come on, bring it!!❞",
+      "Translation": "`Saya@❝Come on, bring it!!❞"
+    },
+    {
+      "JP": "ばしゅーーーー!!",
+      "EN": "*Slaaaaash!!*",
+      "Translation": "*Slaaaaash!!*"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "……。",
+      "EN": ".........",
+      "Translation": "........."
+    },
+    {
+      "JP": "たしたちを待ちかまえるように、部屋の奥に石像が座り込んでいた。",
+      "EN": "There was a stone statue sitting in the room waiting for us.",
+      "Translation": "There was a stone statue sitting in the room waiting for us."
+    },
+    {
+      "JP": "沙耶@「石像ね」",
+      "EN": "`Saya@❝A statue, huh?❞",
+      "Translation": "`Saya@❝A statue, huh?❞"
+    },
+    {
+      "JP": "沙耶@「石像!?」",
+      "EN": "`Saya@❝A statue!?❞",
+      "Translation": "`Saya@❝A statue!?❞"
+    },
+    {
+      "JP": "り口からこんなすぐに仕掛けが!?",
+      "EN": "There was something like that this close to the entrance?",
+      "Translation": "There was something like that this close to the entrance?"
+    },
+    {
+      "JP": "鹿にしてる…。",
+      "EN": "I was being underestimated...",
+      "Translation": "I was being underestimated..."
+    },
+    {
+      "JP": "理樹@「それがどうしてこんなところに？」",
+      "EN": "`Riki@❝What's that doing here?❞",
+      "Translation": "`Riki@❝What's that doing here?❞"
+    },
+    {
+      "JP": "沙耶@「それは先に行かせないためにでしょ」",
+      "EN": "`Saya@❝It's probably here to stop us from advancing.❞",
+      "Translation": "`Saya@❝It's probably here to stop us from advancing.❞"
+    },
+    {
+      "JP": "あたし版』の時にはなかった足がある。",
+      "EN": "It had legs unlike ❛my version.❜",
+      "Translation": "It had legs unlike ❛my version.❜"
+    },
+    {
+      "JP": "理樹@「今、動いた！」",
+      "EN": "`Riki@❝It moved!❞",
+      "Translation": "`Riki@❝It moved!❞"
+    },
+    {
+      "JP": "像が左右に揺れていた。",
+      "EN": "The giant statue shook from side to side.",
+      "Translation": "The giant statue shook from side to side."
+    },
+    {
+      "JP": "の片足がぐぐと持ち上がり、ずぅん、と音を立てて、第一歩を踏み出した。",
+      "EN": "It made a groaning sound as it lifted one leg and took a step.",
+      "Translation": "It made a groaning sound as it lifted one leg and took a step."
+    },
+    {
+      "JP": "理樹@「動くんだ…」",
+      "EN": "`Riki@❝It's moving...❞",
+      "Translation": "`Riki@❝It's moving...❞"
+    },
+    {
+      "JP": "沙耶@「力業じゃだめなのかしら…」",
+      "EN": "`Saya@❝I don't think we can just force our way through...❞",
+      "Translation": "`Saya@❝I don't think we can just force our way through...❞"
+    },
+    {
+      "JP": "かの方法で、こいつと戦うことになるのだろう。",
+      "EN": "How were we supposed to fight this thing?",
+      "Translation": "How were we supposed to fight this thing?"
+    },
+    {
+      "JP": "いてかぶってじゃんけんぽん、なんて馬鹿らしい方法じゃなく。",
+      "EN": "It wasn't like we could play a silly game like hit-and-cover rock-paper-scissors with it.",
+      "Translation": "It wasn't like we could play a silly game like hit-and-cover rock-paper-scissors with it."
+    },
+    {
+      "JP": "しっ、と何かがしなる音がした。",
+      "EN": "There was a sound of something bending under pressure.",
+      "Translation": "There was a sound of something bending under pressure."
+    },
+    {
+      "JP": "か？",
+      "EN": "The wall?",
+      "Translation": "The wall?"
+    },
+    {
+      "JP": "理樹@「今、動いた！」",
+      "EN": "`Riki@❝It moved!❞",
+      "Translation": "`Riki@❝It moved!❞"
+    },
+    {
+      "JP": "沙耶@「え？」",
+      "EN": "`Saya@❝Eh?❞",
+      "Translation": "`Saya@❝Eh?❞"
+    },
+    {
+      "JP": "線を巨像に戻すと、それが左右に揺れていた。",
+      "EN": "When I looked back to the statue, it was shaking from side to side.",
+      "Translation": "When I looked back to the statue, it was shaking from side to side."
+    },
+    {
+      "JP": "沙耶@「まさか…」",
+      "EN": "`Saya@❝No way...❞",
+      "Translation": "`Saya@❝No way...❞"
+    },
+    {
+      "JP": "の片足がぐぐと持ち上がり、ずぅん、と音を立てて、第一歩を踏み出した。",
+      "EN": "It made a groaning sound as it lifted one leg and took a step.",
+      "Translation": "It made a groaning sound as it lifted one leg and took a step."
+    },
+    {
+      "JP": "理樹@「動くんだ…」",
+      "EN": "`Riki@❝It's moving...❞",
+      "Translation": "`Riki@❝It's moving...❞"
+    },
+    {
+      "JP": "沙耶@「あはは…力対力、直接対決ってわけ…」",
+      "EN": "`Saya@❝Ahaha... a straight-up battle of strength, is it?❞",
+      "Translation": "`Saya@❝Ahaha... a straight-up battle of strength, is it?❞"
+    },
+    {
+      "JP": "うだ。剣だ。剣を探せ…。",
+      "EN": "Right. A sword. I looked around for a sword...",
+      "Translation": "Right. A sword. I looked around for a sword..."
+    },
+    {
+      "JP": "こにある？",
+      "EN": "Where would one be?",
+      "Translation": "Where would one be?"
+    },
+    {
+      "JP": "……。",
+      "EN": ".........",
+      "Translation": "........."
+    },
+    {
+      "JP": "樹くんはどこから拾い上げたんだ？",
+      "EN": "Where did Riki-kun find it?",
+      "Translation": "Where did Riki-kun find it?"
+    },
+    {
+      "JP": "の理樹くんに訊いても意味ないし…。",
+      "EN": "It would be pointless to ask him now...",
+      "Translation": "It would be pointless to ask him now..."
+    },
+    {
+      "JP": "っと、よそ見している場合じゃない。",
+      "EN": "Crap, this wasn't the time to be looking around.",
+      "Translation": "Crap, this wasn't the time to be looking around."
+    },
+    {
+      "JP": "しかしたら剣は、理樹くんしか見つけられないようになっているのかもしれない。",
+      "EN": "Maybe Riki-kun was the only one who could find the sword.",
+      "Translation": "Maybe Riki-kun was the only one who could find the sword."
+    },
+    {
+      "JP": "なら、それまで時間稼ぎだ。",
+      "EN": "...If so, I needed to buy him time.",
+      "Translation": "...If so, I needed to buy him time."
+    },
+    {
+      "JP": "理樹@「あれと戦うの？」",
+      "EN": "`Riki@❝You're going to fight it?❞",
+      "Translation": "`Riki@❝You're going to fight it?❞"
+    },
+    {
+      "JP": "沙耶@「そうみたいね」",
+      "EN": "`Saya@❝Looks that way.❞",
+      "Translation": "`Saya@❝Looks that way.❞"
+    },
+    {
+      "JP": "理樹@「あんな石の塊に何が効くっていうの？」",
+      "EN": "`Riki@❝So you have something that would be effective against a block of stone?❞",
+      "Translation": "`Riki@❝So you have something that would be effective against a block of stone?❞"
+    },
+    {
+      "JP": "ぅん。",
+      "EN": "*Thud*.",
+      "Translation": "*Thud*."
+    },
+    {
+      "JP": "沙耶@「とりあえず銃弾は効きそうもないわね」",
+      "EN": "`Saya@❝Well, it looks like bullets won't work.❞",
+      "Translation": "`Saya@❝Well, it looks like bullets won't work.❞"
+    },
+    {
+      "JP": "ぅん。",
+      "EN": "*Thud*.",
+      "Translation": "*Thud*."
+    },
+    {
+      "JP": "理樹@「うわっ、こっち向いた！」",
+      "EN": "`Riki@❝Aah, it's coming this way!❞",
+      "Translation": "`Riki@❝Aah, it's coming this way!❞"
+    },
+    {
+      "JP": "ぅん。",
+      "EN": "*Thud*.",
+      "Translation": "*Thud*."
+    },
+    {
+      "JP": "像はあたしを目指して歩いてくる。",
+      "EN": "The statue advanced toward me.",
+      "Translation": "The statue advanced toward me."
+    },
+    {
+      "JP": "沙耶@「理樹くんは、回り込んで、常にあたしとは点対称の位置で待避してて」",
+      "EN": "`Saya@❝Riki-kun, go around it and hide directly opposite me.❞",
+      "Translation": "`Saya@❝Riki-kun, go around it and hide directly opposite me.❞"
+    },
+    {
+      "JP": "理樹@「沙耶さんは!?」",
+      "EN": "`Riki@❝What about you!?❞",
+      "Translation": "`Riki@❝What about you!?❞"
+    },
+    {
+      "JP": "沙耶@「あたしが戦わなくて、誰が戦うのよ…」",
+      "EN": "`Saya@❝If I don't fight, who will...?❞",
+      "Translation": "`Saya@❝If I don't fight, who will...?❞"
+    },
+    {
+      "JP": "理樹@「べつにふたりでもっ」",
+      "EN": "`Riki@❝We can fight together!❞",
+      "Translation": "`Riki@❝We can fight together!❞"
+    },
+    {
+      "JP": "沙耶@「邪魔なだけよ、どいてて…」",
+      "EN": "`Saya@❝You're just a hindrance. Get out of the way...❞",
+      "Translation": "`Saya@❝You're just a hindrance. Get out of the way...❞"
+    },
+    {
+      "JP": "理樹@「そんな、ひとりじゃ危険すぎるよ！」",
+      "EN": "`Riki@❝But it's too dangerous to fight it alone!❞",
+      "Translation": "`Riki@❝But it's too dangerous to fight it alone!❞"
+    },
+    {
+      "JP": "沙耶@「素人でもなし、簡単にやられるかっての」",
+      "EN": "`Saya@❝I'm not an amateur. I won't go down that easily.❞",
+      "Translation": "`Saya@❝I'm not an amateur. I won't go down that easily.❞"
+    },
+    {
+      "JP": "く掲げられた腕。",
+      "EN": "It raised its arm high.",
+      "Translation": "It raised its arm high."
+    },
+    {
+      "JP": "れが振り下ろされる。",
+      "EN": "Then brought it crashing down.",
+      "Translation": "Then brought it crashing down."
+    },
+    {
+      "JP": "ぅん！",
+      "EN": "*Bam!*",
+      "Translation": "*Bam!*"
+    },
+    {
+      "JP": "っ飛びに避けるも、床に打ちつけられたその震動で転がされてしまう。",
+      "EN": "I dodged to the side, but the shockwave from it slamming the floor knocked me over.",
+      "Translation": "I dodged to the side, but the shockwave from it slamming the floor knocked me over."
+    },
+    {
+      "JP": "理樹@「沙耶さん！」",
+      "EN": "`Riki@❝Saya-san!❞",
+      "Translation": "`Riki@❝Saya-san!❞"
+    },
+    {
+      "JP": "沙耶@「黙ってなさいってば」",
+      "EN": "`Saya@❝I told you to shut up.❞",
+      "Translation": "`Saya@❝I told you to shut up.❞"
+    },
+    {
+      "JP": "を構え、額めがけて、何発か撃ち込んでみる。",
+      "EN": "I grabbed my gun, aimed at its forehead, and fired a number of rounds.",
+      "Translation": "I grabbed my gun, aimed at its forehead, and fired a number of rounds."
+    },
+    {
+      "JP": "面を少しばかり削ることしか叶わない。",
+      "EN": "It did little more than scratch it.",
+      "Translation": "It did little more than scratch it."
+    },
+    {
+      "JP": "ぅん！",
+      "EN": "*Bam!*",
+      "Translation": "*Bam!*"
+    },
+    {
+      "JP": "ぐこっちに向けて手を振り下ろしてくる。",
+      "EN": "It immediately turned toward me and brought its hand down.",
+      "Translation": "It immediately turned toward me and brought its hand down."
+    },
+    {
+      "JP": "うなったら、懐に飛び込むのみ！",
+      "EN": "With this, my only choice would be to jump straight at him!",
+      "Translation": "With this, my only choice would be to jump straight at him!"
+    },
+    {
+      "JP": "どどどどど！",
+      "EN": "*Bam*bam*bam*bam*bam!*",
+      "Translation": "*Bam*bam*bam*bam*bam!*"
+    },
+    {
+      "JP": "れは拳を削るだけだった。",
+      "EN": "It only scratched his fist.",
+      "Translation": "It only scratched his fist."
+    },
+    {
+      "JP": "に合わない…",
+      "EN": "I wasn't going to make it in time...",
+      "Translation": "I wasn't going to make it in time..."
+    },
+    {
+      "JP": "ちゅ。",
+      "EN": "*Squish.*",
+      "Translation": "*Squish.*"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "死。",
+      "EN": "I was crushed to death.",
+      "Translation": "I was crushed to death."
+    },
+    {
+      "JP": "び退くが…",
+      "EN": "I jump back, but...",
+      "Translation": "I jump back, but..."
+    },
+    {
+      "JP": "ぅん！",
+      "EN": "*Bam!*",
+      "Translation": "*Bam!*"
+    },
+    {
+      "JP": "れは床に叩きつけられた後、あたしを横薙ぎにした。",
+      "EN": "After hitting the floor, it swept sideways toward me.",
+      "Translation": "After hitting the floor, it swept sideways toward me."
+    },
+    {
+      "JP": "…。",
+      "EN": "......",
+      "Translation": "......"
+    },
+    {
+      "JP": "。",
+      "EN": "...",
+      "Translation": "..."
+    },
+    {
+      "JP": "を屈めて、石像の懐へ潜り込む。",
+      "EN": "I ducked and dove toward its chest.",
+      "Translation": "I ducked and dove toward its chest."
+    },
+    {
+      "JP": "けざま腕の関節に向けて、銃を撃った。",
+      "EN": "Without delay, I turned toward the joint of the arm and fired.",
+      "Translation": "Without delay, I turned toward the joint of the arm and fired."
+    },
+    {
+      "JP": "しゅ！",
+      "EN": "*Bang!*",
+      "Translation": "*Bang!*"
+    },
+    {
+      "JP": "れまでと同じようにその表面をわずかに削るだけ。",
+      "EN": "Same as before, it merely scratched the surface.",
+      "Translation": "Same as before, it merely scratched the surface."
+    },
+    {
+      "JP": "そ…。",
+      "EN": "Shit...",
+      "Translation": "Shit..."
+    },
+    {
+      "JP": "理樹@「沙耶さん、僕がやるよ！」",
+      "EN": "`Riki@❝Saya-san, I'll get him!❞",
+      "Translation": "`Riki@❝Saya-san, I'll get him!❞"
+    },
+    {
+      "JP": "樹くんの声。",
+      "EN": "It was Riki-kun's voice.",
+      "Translation": "It was Riki-kun's voice."
+    },
+    {
+      "JP": "の姿を探すと、石像の後ろで彼は剣を構えて立っていた。",
+      "EN": "I swept the room for him and saw him standing behind the statue wielding a sword.",
+      "Translation": "I swept the room for him and saw him standing behind the statue wielding a sword."
+    },
+    {
+      "JP": "沙耶@「その剣どうしたの!?」",
+      "EN": "`Saya@❝Where'd you find that!?❞",
+      "Translation": "`Saya@❝Where'd you find that!?❞"
+    },
+    {
+      "JP": "理樹@「置いてあったんだっ」",
+      "EN": "`Riki@❝It was just lying there.❞",
+      "Translation": "`Riki@❝It was just lying there.❞"
+    },
+    {
+      "JP": "ら、それで戦うのが正解なんだ。",
+      "EN": "Well, fighting with that was the right choice.",
+      "Translation": "Well, fighting with that was the right choice."
+    },
+    {
+      "JP": "し。",
+      "EN": "Alright.",
+      "Translation": "Alright."
+    },
+    {
+      "JP": "沙耶@「貸して！　ってうわっ！」",
+      "EN": "`Saya@❝Let me borrow it! Woah!❞",
+      "Translation": "`Saya@❝Let me borrow it! Woah!❞"
+    },
+    {
+      "JP": "像の体当たりを喰らうところだった。",
+      "EN": "I was about to get a face full of statue.",
+      "Translation": "I was about to get a face full of statue."
+    },
+    {
+      "JP": "に逃げ込む。",
+      "EN": "I escaped around its flank.",
+      "Translation": "I escaped around its flank."
+    },
+    {
+      "JP": "沙耶@「理樹くん、剣を渡しなさい！」",
+      "EN": "`Saya@❝Riki-kun, give me the sword!❞",
+      "Translation": "`Saya@❝Riki-kun, give me the sword!❞"
+    },
+    {
+      "JP": "理樹@「いや、沙耶さんは逃げて！」",
+      "EN": "`Riki@❝No, you run!❞",
+      "Translation": "`Riki@❝No, you run!❞"
+    },
+    {
+      "JP": "沙耶@「逃げるのは、あんたよ！　とっとと剣を渡しなさい、馬鹿！」",
+      "EN": "`Saya@❝You're the one who should be running! Now give me the sword, you idiot!❞",
+      "Translation": "`Saya@❝You're the one who should be running! Now give me the sword, you idiot!❞"
+    },
+    {
+      "JP": "理樹@「危ない！」",
+      "EN": "`Riki@❝Watch out!❞",
+      "Translation": "`Riki@❝Watch out!❞"
+    },
+    {
+      "JP": "ぅん！",
+      "EN": "*Bam!*",
+      "Translation": "*Bam!*"
+    },
+    {
+      "JP": "ゃがんだすぐ頭上を石の腕が通り過ぎていった。",
+      "EN": "I crouched, and a stone arm immediately passed overhead.",
+      "Translation": "I crouched, and a stone arm immediately passed overhead."
+    },
+    {
+      "JP": "そ、剣は後回しだ。",
+      "EN": "Shit, the sword will have to wait.",
+      "Translation": "Shit, the sword will have to wait."
+    },
+    {
+      "JP": "沙耶@「剣を渡しなさい！　これで渡さなかったら、あんたを倒してでも奪い取るから！」",
+      "EN": "`Saya@❝Give me the sword! If you don't, I'll knock you out and take it!❞",
+      "Translation": "`Saya@❝Give me the sword! If you don't, I'll knock you out and take it!❞"
+    },
+    {
+      "JP": "理樹@「じゃ、投げるよ…」",
+      "EN": "`Riki@❝Okay, I'm gonna throw it...❞",
+      "Translation": "`Riki@❝Okay, I'm gonna throw it...❞"
+    },
+    {
+      "JP": "しが通じた。",
+      "EN": "My threat worked.",
+      "Translation": "My threat worked."
+    },
+    {
+      "JP": "理樹@「いくよ…はいっ」",
+      "EN": "`Riki@❝Here I go!❞",
+      "Translation": "`Riki@❝Here I go!❞"
+    },
+    {
+      "JP": "きぃん！",
+      "EN": "*Clang!*",
+      "Translation": "*Clang!*"
+    },
+    {
+      "JP": "樹くんの投げたそれは、石像の手で阻まれた。",
+      "EN": "The statue's hand intercepted the sword that Riki-kun threw.",
+      "Translation": "The statue's hand intercepted the sword that Riki-kun threw."
+    },
+    {
+      "JP": "対にあれが必要なんだ。こいつを倒すには。",
+      "EN": "I definitely needed that to defeat this guy.",
+      "Translation": "I definitely needed that to defeat this guy."
+    },
+    {
+      "JP": "た死ぬかもしれないけど、いけ！",
+      "EN": "I might die again, but I was going to go for it!",
+      "Translation": "I might die again, but I was going to go for it!"
+    },
+    {
+      "JP": "たしは強引に巨像の脇をくぐろうとした。",
+      "EN": "I tried to duck and squeeze myself under the statue's arm.",
+      "Translation": "I tried to duck and squeeze myself under the statue's arm."
+    },
+    {
+      "JP": "……。",
+      "EN": ".........",
+      "Translation": "........."
+    },
+    {
+      "JP": "ちゅ。",
+      "EN": "*Squish.*",
+      "Translation": "*Squish.*"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "えてもみろ、銃でダメージも与えられない敵に、剣が一体なんの役に立つ？",
+      "EN": "If you think about it, what good would a sword do against an opponent that guns don't work on?",
+      "Translation": "If you think about it, what good would a sword do against an opponent that guns don't work on?"
+    },
+    {
+      "JP": "たしは銃を口にくわえて、その巨体の胴にしがみついた。",
+      "EN": "I put the gun in my mouth and clung to the statue's body.",
+      "Translation": "I put the gun in my mouth and clung to the statue's body."
+    },
+    {
+      "JP": "リークライミングの要領で、上っていく。",
+      "EN": "I climbed up using the basics of free climbing.",
+      "Translation": "I climbed up using the basics of free climbing."
+    },
+    {
+      "JP": "まで辿りつくと、それを払いのけようと腕が伸びてくる。",
+      "EN": "When I reached the shoulders, it stretched out its arms to try and knock me off.",
+      "Translation": "When I reached the shoulders, it stretched out its arms to try and knock me off."
+    },
+    {
+      "JP": "れを避けるために、今度は頭の上へ。",
+      "EN": "In order to dodge, I climbed to the head.",
+      "Translation": "In order to dodge, I climbed to the head."
+    },
+    {
+      "JP": "こであたしは、ようやくこの敵の倒し方を知った。",
+      "EN": "Upon arrival, I finally figured out how to defeat this opponent.",
+      "Translation": "Upon arrival, I finally figured out how to defeat this opponent."
+    },
+    {
+      "JP": "沙耶@「理樹くん、剣を投げて！」",
+      "EN": "`Saya@❝Riki-kun, throw me the sword!❞",
+      "Translation": "`Saya@❝Riki-kun, throw me the sword!❞"
+    },
+    {
+      "JP": "理樹@「そんなっ…きみに当たるって！」",
+      "EN": "`Riki@❝But... I might hit you!❞",
+      "Translation": "`Riki@❝But... I might hit you!❞"
+    },
+    {
+      "JP": "沙耶@「いいから投げなさい！　いい加減怒るわよ!!　この、うすのろ！」",
+      "EN": "`Saya@❝Whatever, just throw it! I mean, give me a break! You damn simpleton!❞",
+      "Translation": "`Saya@❝Whatever, just throw it! I mean, give me a break! You damn simpleton!❞"
+    },
+    {
+      "JP": "理樹@「えぇ…うすのろ!?」",
+      "EN": "`Riki@❝Eh... simpleton?❞",
+      "Translation": "`Riki@❝Eh... simpleton?❞"
+    },
+    {
+      "JP": "躇した後、どうにでもなれというように、その手の剣をあたしに向けて投擲した。",
+      "EN": "He hesitated, but eventually threw it toward me like he didn't care anymore.",
+      "Translation": "He hesitated, but eventually threw it toward me like he didn't care anymore."
+    },
+    {
+      "JP": "しっ！",
+      "EN": "*Grab!*",
+      "Translation": "*Grab!*"
+    },
+    {
+      "JP": "の柄をしっかりと宙でつかみ取った。",
+      "EN": "I caught the sword in midair.",
+      "Translation": "I caught the sword in midair."
+    },
+    {
+      "JP": "像はいやいやをするように頭を振る。",
+      "EN": "The statue violently shook its head as if it were adamantly denying something.",
+      "Translation": "The statue violently shook its head as if it were adamantly denying something."
+    },
+    {
+      "JP": "たしは振り落とされないよう、片手で必死に食らいつく。",
+      "EN": "I desperately held on with one hand so I wouldn't fall off.",
+      "Translation": "I desperately held on with one hand so I wouldn't fall off."
+    },
+    {
+      "JP": "うやく揺れが収まると、剣を両手に持ち直し、真下、石像の頭の『スリット』に突き刺した。",
+      "EN": "The shaking finally subsided, so I grabbed the sword with both hands and thrust straight down into the ❛slit❜ on the statue's head.",
+      "Translation": "The shaking finally subsided, so I grabbed the sword with both hands and thrust straight down into the ❛slit❜ on the statue's head."
+    },
+    {
+      "JP": "んの抵抗もなく刃は奥深く刺さる。",
+      "EN": "It slid in deep with no resistance.",
+      "Translation": "It slid in deep with no resistance."
+    },
+    {
+      "JP": "後にもうひと押し。えい、と力をこめると、確かな手応え。",
+      "EN": "I gave one last push. I put all my power into it and it definitely triggered something.",
+      "Translation": "I gave one last push. I put all my power into it and it definitely triggered something."
+    },
+    {
+      "JP": "ちり。",
+      "EN": "I held firm.",
+      "Translation": "I held firm."
+    },
+    {
+      "JP": "像は電池が切れたおもちゃのように、動かなくなった。",
+      "EN": "The statue stopped moving, like a toy whose battery had run dry.",
+      "Translation": "The statue stopped moving, like a toy whose battery had run dry."
+    },
+    {
+      "JP": "後、ごとり、と仕掛けが解けた音がした。",
+      "EN": "A second later, I heard the sound of the lock opening.",
+      "Translation": "A second later, I heard the sound of the lock opening."
+    },
+    {
+      "JP": "やった。",
+      "EN": "...We did it.",
+      "Translation": "...We did it."
+    },
+    {
+      "JP": "理樹@「すごいよ…沙耶さん…」",
+      "EN": "`Riki@❝Saya-san... you're amazing...❞",
+      "Translation": "`Riki@❝Saya-san... you're amazing...❞"
+    },
+    {
+      "JP": "沙耶@「ちなみに怪力でぶっ刺したわけじゃないからね。剣をスリットに差し込んだだけだから」",
+      "EN": "`Saya@❝It's not like I stabbed him through sheer strength alone. I put the sword in a slit.❞",
+      "Translation": "`Saya@❝It's not like I stabbed him through sheer strength alone. I put the sword in a slit.❞"
+    },
+    {
+      "JP": "理樹@「それでもすごく…スポーツとかでもそうだけど、戦ってる女性って美しいよね。なんかすごくかっこよかった」",
+      "EN": "`Riki@❝Yeah, but it's still amazing... sports is one thing, but seeing a girl fight is beautiful. You were cool and amazing.❞",
+      "Translation": "`Riki@❝Yeah, but it's still amazing... sports is one thing, but seeing a girl fight is beautiful. You were cool and amazing.❞"
+    },
+    {
+      "JP": "え!?　今のでポイントアップ!?",
+      "EN": "What?! Did I just earn points with him?!",
+      "Translation": "What?! Did I just earn points with him?!"
+    },
+    {
+      "JP": "樹くん、あなた女を見る目ないんじゃない？",
+      "EN": "Riki-kun, what's with your taste in women?",
+      "Translation": "Riki-kun, what's with your taste in women?"
+    },
+    {
+      "JP": "かも、うすのろ、とか言っちゃったし…。",
+      "EN": "I even called you a simpleton...",
+      "Translation": "I even called you a simpleton..."
+    },
+    {
+      "JP": "れとも、やっぱり『記憶』が…。",
+      "EN": "Maybe he still had his ❛memories❜...",
+      "Translation": "Maybe he still had his ❛memories❜..."
+    },
+    {
+      "JP": "樹くん…",
+      "EN": "Riki-kun...",
+      "Translation": "Riki-kun..."
+    },
+    {
+      "JP": "たりで居たこと、覚えてる…？",
+      "EN": "Do you remember when we were together...?",
+      "Translation": "Do you remember when we were together...?"
+    },
+    {
+      "JP": "んてロマンチックに浸るあたしは石像の頭上。",
+      "EN": "I was still on the statue's head wallowing in romanticism.",
+      "Translation": "I was still on the statue's head wallowing in romanticism."
+    },
+    {
+      "JP": "に飛び降りる。",
+      "EN": "I dropped to the floor.",
+      "Translation": "I dropped to the floor."
+    },
+    {
+      "JP": "沙耶@「じゃあ、ネクストフロアー行くわよ」",
+      "EN": "`Saya@❝Okay, let's go to the next floor.❞",
+      "Translation": "`Saya@❝Okay, let's go to the next floor.❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Sure.❞",
+      "Translation": "`Riki@❝Sure.❞"
+    }
+  ]
+}

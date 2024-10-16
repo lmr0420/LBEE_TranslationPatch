@@ -1,0 +1,329 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "はひとり机に向かって、宿題をしている。",
+      "EN": "I was sitting alone behind the desk in my room, doing homework.",
+      "Translation": "I was sitting alone behind the desk in my room, doing homework."
+    },
+    {
+      "JP": "かな夜だ。",
+      "EN": "It was a quiet evening.",
+      "Translation": "It was a quiet evening."
+    },
+    {
+      "JP": "んなは何をしているんだろう。",
+      "EN": "I was wondering what everyone else was up to.",
+      "Translation": "I was wondering what everyone else was up to."
+    },
+    {
+      "JP": "からはさっきメールがあった。",
+      "EN": "There had been a message from Rin a while ago.",
+      "Translation": "There had been a message from Rin a while ago."
+    },
+    {
+      "JP": "らちられた(∵)』",
+      "EN": "[I was kidnapped (-.-)]",
+      "Translation": "[I was kidnapped (-.-)]"
+    },
+    {
+      "JP": "んなに捕まったのだろう。",
+      "EN": "I guess she had been captured by everyone.",
+      "Translation": "I guess she had been captured by everyone."
+    },
+    {
+      "JP": "もその様相はここまで伝わってこない。",
+      "EN": "But it didn't feel like anything reached me here.",
+      "Translation": "But it didn't feel like anything reached me here."
+    },
+    {
+      "JP": "だけをここに残して、みんなで外に遊びにいっちゃったんじゃないか。",
+      "EN": "I was the only person left here; everyone else must've gone to play outside.",
+      "Translation": "I was the only person left here; everyone else must've gone to play outside."
+    },
+    {
+      "JP": "のぐらい静かだった。",
+      "EN": "It was just that quiet.",
+      "Translation": "It was just that quiet."
+    },
+    {
+      "JP": "だけをここに残して、どこかに出かけて何か楽しいことをしているんじゃないか。",
+      "EN": "I was the only person left here; everyone else must've gone out somewhere to have fun.",
+      "Translation": "I was the only person left here; everyone else must've gone out somewhere to have fun."
+    },
+    {
+      "JP": "のぐらい静かだった。",
+      "EN": "It was just that quiet.",
+      "Translation": "It was just that quiet."
+    },
+    {
+      "JP": "も僕のクラスの子は全員等しく宿題を出されているわけだから、みんなも遊んでなんかいられないはずだった。",
+      "EN": "But really, everyone was getting the same amount of homework in our class, so they couldn't just be playing around.",
+      "Translation": "But really, everyone was getting the same amount of homework in our class, so they couldn't just be playing around."
+    },
+    {
+      "JP": "じように宿題に取り組んでいるはずだ。",
+      "EN": "Everyone must be similarly busy with their homework.",
+      "Translation": "Everyone must be similarly busy with their homework."
+    },
+    {
+      "JP": "真人@「ふぅ…ジョギング終わりっと」",
+      "EN": "`Masato@❝Phew... That's enough jogging for today.❞",
+      "Translation": "`Masato@❝Phew... That's enough jogging for today.❞"
+    },
+    {
+      "JP": "の男以外は。",
+      "EN": "Everyone but this guy.",
+      "Translation": "Everyone but this guy."
+    },
+    {
+      "JP": "真人@「さて続いては腹筋背筋鍛えに入るか」",
+      "EN": "`Masato@❝Alright, time for some abs workout.❞",
+      "Translation": "`Masato@❝Alright, time for some abs workout.❞"
+    },
+    {
+      "JP": "理樹@「それも外でやってくればいいのに」",
+      "EN": "`Riki@❝Why didn't you do that outside as well?❞",
+      "Translation": "`Riki@❝Why didn't you do that outside as well?❞"
+    },
+    {
+      "JP": "真人@「部屋でできる筋トレは部屋でするように決めてんだよ、オレは」",
+      "EN": "`Masato@❝I decided to work out in the room whenever I can.❞",
+      "Translation": "`Masato@❝I decided to work out in the room whenever I can.❞"
+    },
+    {
+      "JP": "理樹@「どうして？」",
+      "EN": "`Riki@❝Why?❞",
+      "Translation": "`Riki@❝Why?❞"
+    },
+    {
+      "JP": "真人@「ん？」",
+      "EN": "`Masato@❝Hm?❞",
+      "Translation": "`Masato@❝Hm?❞"
+    },
+    {
+      "JP": "真人@「そりゃ、おまえが居るからに決まってんだろ」",
+      "EN": "`Masato@❝'Cause that's where you are, why else?❞",
+      "Translation": "`Masato@❝'Cause that's where you are, why else?❞"
+    },
+    {
+      "JP": "理樹@「えぇっ、それだけっ!?」",
+      "EN": "`Riki@❝Huh!? Is that why?❞",
+      "Translation": "`Riki@❝Huh!? Is that why?❞"
+    },
+    {
+      "JP": "真人@「え？　へんか？　友達だったら当然だろ？」",
+      "EN": "`Masato@❝Eh? Is it strange? Shouldn't it be a given since we're friends?❞",
+      "Translation": "`Masato@❝Eh? Is it strange? Shouldn't it be a given since we're friends?❞"
+    },
+    {
+      "JP": "理樹@「いやいやいや…」",
+      "EN": "`Riki@❝No, no, no...❞",
+      "Translation": "`Riki@❝No, no, no...❞"
+    },
+    {
+      "JP": "真人@「おまえその、いやいやいやってやつ好きだな」",
+      "EN": "`Masato@❝I so like that ❛no, no, no❜ of yours.❞",
+      "Translation": "`Masato@❝I so like that ❛no, no, no❜ of yours.❞"
+    },
+    {
+      "JP": "理樹@「いやいやいや…」",
+      "EN": "`Riki@❝No, no, no...❞",
+      "Translation": "`Riki@❝No, no, no...❞"
+    },
+    {
+      "JP": "真人@「はっはっは！　おもしれー」",
+      "EN": "`Masato@❝Hahaha! You're funny.❞",
+      "Translation": "`Masato@❝Hahaha! You're funny.❞"
+    },
+    {
+      "JP": "人は笑いながら、床に寝転がり、腹筋を始める。",
+      "EN": "He started his abs workout on the floor, still laughing.",
+      "Translation": "He started his abs workout on the floor, still laughing."
+    },
+    {
+      "JP": "も机に向き直る。",
+      "EN": "I returned to my desk.",
+      "Translation": "I returned to my desk."
+    },
+    {
+      "JP": "……。",
+      "EN": ".........",
+      "Translation": "........."
+    },
+    {
+      "JP": "真人@「ふっ！　ふっ！　ふっ！」",
+      "EN": "`Masato@❝Phew! Phew! Phew!❞",
+      "Translation": "`Masato@❝Phew! Phew! Phew!❞"
+    },
+    {
+      "JP": "刻みな呼吸だけが聞こえてくる。",
+      "EN": "I only heard his intermittent breathing.",
+      "Translation": "I only heard his intermittent breathing."
+    },
+    {
+      "JP": "っきまでの妄想など簡単に吹き飛ぶほどに、それはリアルだ。",
+      "EN": "It was just so real it easily blew away all those delusions I had before.",
+      "Translation": "It was just so real it easily blew away all those delusions I had before."
+    },
+    {
+      "JP": "の現実が僕にとって、すごく居心地がいい。",
+      "EN": "That reality was really comforting to me.",
+      "Translation": "That reality was really comforting to me."
+    },
+    {
+      "JP": "っとこんな時間が続けばいいのに。",
+      "EN": "I didn't want these days to end.",
+      "Translation": "I didn't want these days to end."
+    },
+    {
+      "JP": "ょっと僕は恵まれすぎかもしれない。",
+      "EN": "Maybe I had just been blessed too much.",
+      "Translation": "Maybe I had just been blessed too much."
+    },
+    {
+      "JP": "も、できるかぎり続きますように。この時間が。",
+      "EN": "But I wished these days would continue for as long as they could.",
+      "Translation": "But I wished these days would continue for as long as they could."
+    },
+    {
+      "JP": "は祈った。",
+      "EN": "I prayed.",
+      "Translation": "I prayed."
+    },
+    {
+      "JP": "れは冒涜だったのだろうか。",
+      "EN": "Perhaps that was blasphemy.",
+      "Translation": "Perhaps that was blasphemy."
+    },
+    {
+      "JP": "としたら神様は意地悪だ。",
+      "EN": "But if so, then God is cruel.",
+      "Translation": "But if so, then God is cruel."
+    },
+    {
+      "JP": "は薄らいでいく意識の中でそう思った。",
+      "EN": "I thought to myself as my consciousness faded away.",
+      "Translation": "I thought to myself as my consciousness faded away."
+    },
+    {
+      "JP": "葉留佳さんの事を、少し思い出す。",
+      "EN": "I thought about Haruka-san...",
+      "Translation": "I thought about Haruka-san..."
+    },
+    {
+      "JP": "は、もっと他に、なにか…してあげられたんじゃないだろうか。",
+      "EN": "Could there have been something else... Something more I could have done for her...",
+      "Translation": "Could there have been something else... Something more I could have done for her..."
+    },
+    {
+      "JP": "れど、その事すら、意識と一緒にどこかへ消えていくようだった。",
+      "EN": "But that thought also melted away with my consciousness.",
+      "Translation": "But that thought also melted away with my consciousness."
+    },
+    {
+      "JP": "小毬さんの事を、少し思い出す。",
+      "EN": "I thought about Komari-san...",
+      "Translation": "I thought about Komari-san..."
+    },
+    {
+      "JP": "局何もわからなかったし、変わらなかった。",
+      "EN": "In the end I had still understood nothing, and nothing had changed.",
+      "Translation": "In the end I had still understood nothing, and nothing had changed."
+    },
+    {
+      "JP": "れど、それはそれでいいんじゃないか、と自分を納得させる。",
+      "EN": "But isn't it fine as it is, I persuaded myself.",
+      "Translation": "But isn't it fine as it is, I persuaded myself."
+    },
+    {
+      "JP": "朧とした意識の中、そんなことを考えていた。",
+      "EN": "I thought about these things, as my consciousness withered.",
+      "Translation": "I thought about these things, as my consciousness withered."
+    },
+    {
+      "JP": "こにきて、不意に親しくもない$(2,0)のことを思い出す。",
+      "EN": "I remembered coming here and how unexpectedly distant $(2,1) was.",
+      "Translation": "I remembered coming here and how unexpectedly distant $(2,1) was."
+    },
+    {
+      "JP": "んだ、この胸が締めつけられるような感覚は。",
+      "EN": "My chest felt tight for some reason.",
+      "Translation": "My chest felt tight for some reason."
+    },
+    {
+      "JP": "目惚れでもしてしまったか。あれだけ可愛いくて、クラスの人気者なんだから、そんなこともあるかもしれない。",
+      "EN": "Was it love at first sight? Maybe because she was so cute and popular in class.",
+      "Translation": "Was it love at first sight? Maybe because she was so cute and popular in class."
+    },
+    {
+      "JP": "も、この胸の痛みはなんだか、違う気がする。",
+      "EN": "But the pain in my chest told me otherwise.",
+      "Translation": "But the pain in my chest told me otherwise."
+    },
+    {
+      "JP": "葉にはできないけど…。",
+      "EN": "I couldn't put it into words but...",
+      "Translation": "I couldn't put it into words but..."
+    },
+    {
+      "JP": "鈴のことを思い出す。",
+      "EN": "I thought about Rin...",
+      "Translation": "I thought about Rin..."
+    },
+    {
+      "JP": "んな僕にも、守っていけるのだろうか…。",
+      "EN": "Could, even someone like me, protect her...",
+      "Translation": "Could, even someone like me, protect her..."
+    },
+    {
+      "JP": "んな人見知りで、世間知らずな鈴を…。",
+      "EN": "The Rin who was shy of strangers and knew nothing of the world...",
+      "Translation": "The Rin who was shy of strangers and knew nothing of the world..."
+    },
+    {
+      "JP": "ちていく…。",
+      "EN": "I was falling...",
+      "Translation": "I was falling..."
+    },
+    {
+      "JP": "落ちていく…。",
+      "EN": "...I was falling...",
+      "Translation": "...I was falling..."
+    },
+    {
+      "JP": "こまでも続く闇を…。",
+      "EN": "Through the endless darkness...",
+      "Translation": "Through the endless darkness..."
+    },
+    {
+      "JP": "……。",
+      "EN": ".........",
+      "Translation": "........."
+    },
+    {
+      "JP": "ういえば…",
+      "EN": "Now that I think of it...",
+      "Translation": "Now that I think of it..."
+    },
+    {
+      "JP": "の『夢』はどこにいってしまったんだろう？",
+      "EN": "Just where did that ❛dream❜ of mine go?",
+      "Translation": "Just where did that ❛dream❜ of mine go?"
+    },
+    {
+      "JP": "……。",
+      "EN": ".........",
+      "Translation": "........."
+    },
+    {
+      "JP": "…。",
+      "EN": "......",
+      "Translation": "......"
+    },
+    {
+      "JP": "。",
+      "EN": "...",
+      "Translation": "..."
+    }
+  ]
+}

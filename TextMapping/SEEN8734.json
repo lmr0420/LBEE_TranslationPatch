@@ -1,0 +1,279 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "鈴@「うーん、そうだな…おまえは…」",
+      "EN": "`Rin@❝Hm... Let's see... You'll be...❞",
+      "Translation": "`Rin@❝Hm... Let's see... You'll be...❞"
+    },
+    {
+      "JP": "鈴@「おまえ、こんなのはどうだ？」",
+      "EN": "`Rin@❝How do you like that?❞",
+      "Translation": "`Rin@❝How do you like that?❞"
+    },
+    {
+      "JP": "小毬@「えーと、じゃあねぇ…」",
+      "EN": "`Komari@❝Um... How about...❞",
+      "Translation": "`Komari@❝Um... How about...❞"
+    },
+    {
+      "JP": "来ヶ谷@「キサマにはこれがお似合いだ」",
+      "EN": "`Kurugaya@❝That's a perfect fit for you.❞",
+      "Translation": "`Kurugaya@❝That's a perfect fit for you.❞"
+    },
+    {
+      "JP": "クド@「しょーごー・ふぉー・ゆー！　とぅーゆー！　なのですっ」",
+      "EN": "`Kud@❝A title foo youu! Too yoou! Which was it...❞",
+      "Translation": "`Kud@❝A title foo youu! Too yoou! Which was it...❞"
+    },
+    {
+      "JP": "葉留佳@「よし、これを進呈！　贈呈！　掌底！　ずびし！」",
+      "EN": "`Haruka@❝Alright, I present this! Represent this! Overpresent this! Kaboom!❞",
+      "Translation": "`Haruka@❝Alright, I present this! Represent this! Overpresent this! Kaboom!❞"
+    },
+    {
+      "JP": "西園@「さて、どんなのにしましょうか。…うふふ」",
+      "EN": "`Nishizono@❝Well now, what should I pick? ...Fufufu.❞",
+      "Translation": "`Nishizono@❝Well now, what should I pick? ...Fufufu.❞"
+    },
+    {
+      "JP": "理樹@「うーん、そうだなぁ…適当に思いついたふたつの言葉を組み合わせて作ってみよう…」",
+      "EN": "`Riki@❝Hm... Let's see... I'll choose two words randomly and put them together...❞",
+      "Translation": "`Riki@❝Hm... Let's see... I'll choose two words randomly and put them together...❞"
+    },
+    {
+      "JP": "理樹@「なんにしようかな…適当に思いついたふたつの言葉を組み合わせて作ってみよう…」",
+      "EN": "`Riki@❝What should I pick...? I'll choose two words randomly and put them together...❞",
+      "Translation": "`Riki@❝What should I pick...? I'll choose two words randomly and put them together...❞"
+    },
+    {
+      "JP": "真人@「理樹には特別かっこいいのを選りすぐりでやるぜ、受け取れ」",
+      "EN": "`Masato@❝I'll pick a really cool one for you, Riki, feel grateful.❞",
+      "Translation": "`Masato@❝I'll pick a really cool one for you, Riki, feel grateful.❞"
+    },
+    {
+      "JP": "真人@「よし、この称号をやろう」",
+      "EN": "`Masato@❝Alright, I'm giving you this title.❞",
+      "Translation": "`Masato@❝Alright, I'm giving you this title.❞"
+    },
+    {
+      "JP": "真人@「おまえにはこんなのがお似合いだぜ」",
+      "EN": "`Masato@❝This title fits you perfectly.❞",
+      "Translation": "`Masato@❝This title fits you perfectly.❞"
+    },
+    {
+      "JP": "謙吾@「おまえはこれからこう呼ばれる」",
+      "EN": "`Kengo@❝You'll be called like this from now on.❞",
+      "Translation": "`Kengo@❝You'll be called like this from now on.❞"
+    },
+    {
+      "JP": "謙吾@「おまえにはこんなのがお似合いだろう」",
+      "EN": "`Kengo@❝I believe this title is a perfect fit for you.❞",
+      "Translation": "`Kengo@❝I believe this title is a perfect fit for you.❞"
+    },
+    {
+      "JP": "恭介@「おまえはこれからこう呼ばれる」",
+      "EN": "`Kyousuke@❝You'll be called like this from now on.❞",
+      "Translation": "`Kyousuke@❝You'll be called like this from now on.❞"
+    },
+    {
+      "JP": "恭介@「そうだな…おまえにはこんなのはどうだろう」",
+      "EN": "`Kyousuke@❝Let's see... How about something like this?❞",
+      "Translation": "`Kyousuke@❝Let's see... How about something like this?❞"
+    },
+    {
+      "JP": "恭介@「そうだな…意味が繋がりそうもないふたつの言葉をくっつけてみよう」",
+      "EN": "`Kyousuke@❝Let's see... Maybe I'll pick two unrelated words and put them together.❞",
+      "Translation": "`Kyousuke@❝Let's see... Maybe I'll pick two unrelated words and put them together.❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「おまえはこれからこう呼ばれる」",
+      "EN": "`Mask the Saito@❝You'll be called like this from now on.❞",
+      "Translation": "`Mask the Saito@❝You'll be called like this from now on.❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「はりゃほれほれうっ！」",
+      "EN": "`Mask the Saito@❝Harya hore horeu!❞",
+      "Translation": "`Mask the Saito@❝Harya hore horeu!❞"
+    },
+    {
+      "JP": "鈴@「やじゃぼけえぇぇぇーーーっ！」",
+      "EN": "`Rin@❝I don't want this, moron!❞",
+      "Translation": "`Rin@❝I don't want this, moron!❞"
+    },
+    {
+      "JP": "鈴@「へんなの付ける気だろおぉぉーーっ！」",
+      "EN": "`Rin@❝I knew you'd pick something weird for me!!❞",
+      "Translation": "`Rin@❝I knew you'd pick something weird for me!!❞"
+    },
+    {
+      "JP": "小毬@「うえーん、もっとかわいいのがいい～」",
+      "EN": "`Komari@❝Uuehn, I wanted something cuter.❞",
+      "Translation": "`Komari@❝Uuehn, I wanted something cuter.❞"
+    },
+    {
+      "JP": "来ヶ谷@「うむ、よい名だ」",
+      "EN": "`Kurugaya@❝Umu, great name.❞",
+      "Translation": "`Kurugaya@❝Umu, great name.❞"
+    },
+    {
+      "JP": "クド@「わふー…新たな伝説が幕明けてしまいそうです…」",
+      "EN": "`Kud@❝Wafuu... A new legend has been born...❞",
+      "Translation": "`Kud@❝Wafuu... A new legend has been born...❞"
+    },
+    {
+      "JP": "葉留佳@「うわぁ…そんなので呼ばれるのかー恥ずかしっ」",
+      "EN": "`Haruka@❝Whoa... It's so shameful to be called that.❞",
+      "Translation": "`Haruka@❝Whoa... It's so shameful to be called that.❞"
+    },
+    {
+      "JP": "西園@「これは羞恥プレイでしょうか。…マニアックです」",
+      "EN": "`Nishizono@❝Is that a kind of SM play? You have strange fetishes.❞",
+      "Translation": "`Nishizono@❝Is that a kind of SM play? You have strange fetishes.❞"
+    },
+    {
+      "JP": "理樹@「うわああぁーーっ!?」",
+      "EN": "`Riki@❝Uwaaaah!?❞",
+      "Translation": "`Riki@❝Uwaaaah!?❞"
+    },
+    {
+      "JP": "理樹@「へんなのつけないでよっ、ねぇ!?」",
+      "EN": "`Riki@❝Don't pick something weird, okay!?❞",
+      "Translation": "`Riki@❝Don't pick something weird, okay!?❞"
+    },
+    {
+      "JP": "真人@「うああぁぁぁぁぁぁああぁぁぁぁーーっ!!」",
+      "EN": "`Masato@❝Uaaaaaaah!!❞",
+      "Translation": "`Masato@❝Uaaaaaaah!!❞"
+    },
+    {
+      "JP": "真人@「なんだそりゃああぁあぁぁぁぁーーっ！」",
+      "EN": "`Masato@❝What the hell is that!❞",
+      "Translation": "`Masato@❝What the hell is that!❞"
+    },
+    {
+      "JP": "謙吾@「くああぁぁーっ！」",
+      "EN": "`Kengo@❝Kwaaaa!❞",
+      "Translation": "`Kengo@❝Kwaaaa!❞"
+    },
+    {
+      "JP": "謙吾@「無念…!!」",
+      "EN": "`Kengo@❝How mortifying...!❞",
+      "Translation": "`Kengo@❝How mortifying...!❞"
+    },
+    {
+      "JP": "謙吾@「不覚だぁぁぁーーっ！」",
+      "EN": "`Kengo@❝What a disgraceeeee!❞",
+      "Translation": "`Kengo@❝What a disgraceeeee!❞"
+    },
+    {
+      "JP": "恭介@「くっそぉっ!!」",
+      "EN": "`Kyousuke@❝Daammit!!❞",
+      "Translation": "`Kyousuke@❝Daammit!!❞"
+    },
+    {
+      "JP": "恭介@「うああぁぁぁぁぁーーっ!!」",
+      "EN": "`Kyousuke@❝Uwaaaaaaaa――!!❞",
+      "Translation": "`Kyousuke@❝Uwaaaaaaaa――!!❞"
+    },
+    {
+      "JP": "恭介@「なんだそりゃああぁぁぁーー!!」",
+      "EN": "`Kyousuke@❝What the hell is thaaat!!❞",
+      "Translation": "`Kyousuke@❝What the hell is thaaat!!❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「ガッデーーームッ！」",
+      "EN": "`Mask the Saito@❝Goddamn!❞",
+      "Translation": "`Mask the Saito@❝Goddamn!❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「なんのための斉藤だよっ！」",
+      "EN": "`Mask the Saito@❝I'm not Saito anymore!❞",
+      "Translation": "`Mask the Saito@❝I'm not Saito anymore!❞"
+    },
+    {
+      "JP": "鈴@「互角か…」",
+      "EN": "`Rin@❝A draw, huh...❞",
+      "Translation": "`Rin@❝A draw, huh...❞"
+    },
+    {
+      "JP": "鈴@「ちっ、ここまでか…」",
+      "EN": "`Rin@❝Tsk, is that it...?❞",
+      "Translation": "`Rin@❝Tsk, is that it...?❞"
+    },
+    {
+      "JP": "小毬@「ああう…これが一番いいよー」",
+      "EN": "`Komari@❝Aaau... It's best like this.❞",
+      "Translation": "`Komari@❝Aaau... It's best like this.❞"
+    },
+    {
+      "JP": "来ヶ谷@「む、次回に持ち越しか」",
+      "EN": "`Kurugaya@❝Muh, shall we continue from here next time?❞",
+      "Translation": "`Kurugaya@❝Muh, shall we continue from here next time?❞"
+    },
+    {
+      "JP": "クド@「きんぐ・あんど・ぽーん・ごー・ばっく・せいむ・ぼっくすなのです！」",
+      "EN": "`Kud@❝Kingu and pon goo back seim box!❞",
+      "Translation": "`Kud@❝Kingu and pon goo back seim box!❞"
+    },
+    {
+      "JP": "葉留佳@「竜虎相うつ！　てな感じ？」",
+      "EN": "`Haruka@❝Diamonds cut diamonds! It's that sorta thing?❞",
+      "Translation": "`Haruka@❝Diamonds cut diamonds! It's that sorta thing?❞"
+    },
+    {
+      "JP": "西園@「白黒付かずですか。…ちょっと疲れました」",
+      "EN": "`Nishizono@❝There was no winner? ...I'm feeling a little tired.❞",
+      "Translation": "`Nishizono@❝There was no winner? ...I'm feeling a little tired.❞"
+    },
+    {
+      "JP": "理樹@「互角だったね」",
+      "EN": "`Riki@❝It was a draw.❞",
+      "Translation": "`Riki@❝It was a draw.❞"
+    },
+    {
+      "JP": "理樹@「引き分けだよ」",
+      "EN": "`Riki@❝A draw.❞",
+      "Translation": "`Riki@❝A draw.❞"
+    },
+    {
+      "JP": "真人@「いつまでも勝負つきそうになかったな…」",
+      "EN": "`Masato@❝It didn't look like the battle was going to end any time soon...❞",
+      "Translation": "`Masato@❝It didn't look like the battle was going to end any time soon...❞"
+    },
+    {
+      "JP": "真人@「てめぇ、オレの武器がこんなでよかったな！」",
+      "EN": "`Masato@❝You're lucky I had this piece of crap for a weapon!❞",
+      "Translation": "`Masato@❝You're lucky I had this piece of crap for a weapon!❞"
+    },
+    {
+      "JP": "謙吾@「命拾いしたな…」",
+      "EN": "`Kengo@❝You narrowly escaped with your life...❞",
+      "Translation": "`Kengo@❝You narrowly escaped with your life...❞"
+    },
+    {
+      "JP": "謙吾@「武器がこんなで幸運だったな…」",
+      "EN": "`Kengo@❝You're lucky I had a weapon like that...❞",
+      "Translation": "`Kengo@❝You're lucky I had a weapon like that...❞"
+    },
+    {
+      "JP": "恭介@「惜しい戦いだったな…」",
+      "EN": "`Kyousuke@❝That was a close call...❞",
+      "Translation": "`Kyousuke@❝That was a close call...❞"
+    },
+    {
+      "JP": "恭介@「ツメが甘かったか…」",
+      "EN": "`Kyousuke@❝I was naive...❞",
+      "Translation": "`Kyousuke@❝I was naive...❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「はりゃー」",
+      "EN": "`Mask the Saito@❝Haryaa.❞",
+      "Translation": "`Mask the Saito@❝Haryaa.❞"
+    },
+    {
+      "JP": "マスクザ斉藤@「くそー」",
+      "EN": "`Mask the Saito@❝Damn.❞",
+      "Translation": "`Mask the Saito@❝Damn.❞"
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "た野球部の部室を訪れていた。",
+      "EN": "I was in the baseball club room again.",
+      "Translation": "I was in the baseball club room again."
+    },
+    {
+      "JP": "ットを探すためだ。",
+      "EN": "The purpose for my visit this time was to find a bat.",
+      "Translation": "The purpose for my visit this time was to find a bat."
+    },
+    {
+      "JP": "れは簡単に見つかった。",
+      "EN": "And the objective was effortlessly completed.",
+      "Translation": "And the objective was effortlessly completed."
+    },
+    {
+      "JP": "声@「それでどうするつもりだ」",
+      "EN": "`Voice@❝What are you going to do with that?❞",
+      "Translation": "`Voice@❝What are you going to do with that?❞"
+    },
+    {
+      "JP": "が背後からしてびっくりする。",
+      "EN": "The voice from behind took me by surprise.",
+      "Translation": "The voice from behind took me by surprise."
+    },
+    {
+      "JP": "事を非難するかのような声だ。",
+      "EN": "It was the voice of someone condemning a miscreant.",
+      "Translation": "It was the voice of someone condemning a miscreant."
+    },
+    {
+      "JP": "かにこっそりバットを拝借しようとしているわけだけど…。",
+      "EN": "Well, it was a fact that I was borrowing a bat without permission...",
+      "Translation": "Well, it was a fact that I was borrowing a bat without permission..."
+    },
+    {
+      "JP": "えながら振り返ると…。",
+      "EN": "I timidly turned around...",
+      "Translation": "I timidly turned around..."
+    },
+    {
+      "JP": "生かと思ったその声の主は、謙吾だった。",
+      "EN": "I expected there would be a teacher, but the owner of the voice was Kengo.",
+      "Translation": "I expected there would be a teacher, but the owner of the voice was Kengo."
+    },
+    {
+      "JP": "理樹@「いや、４人いるんだしさ、キャッチボールじゃなくて、２対２にして試合っぽくしたほうが楽しいかなって思って」",
+      "EN": "`Riki@❝Well you know, now that there are four of us, I think it would be more fun if we form two teams and play a match.❞",
+      "Translation": "`Riki@❝Well you know, now that there are four of us, I think it would be more fun if we form two teams and play a match.❞"
+    },
+    {
+      "JP": "由を話す。",
+      "EN": "I explained my reason.",
+      "Translation": "I explained my reason."
+    },
+    {
+      "JP": "謙吾@「おまえは何をしようとしているんだ」",
+      "EN": "`Kengo@❝What are you going to do?❞",
+      "Translation": "`Kengo@❝What are you going to do?❞"
+    },
+    {
+      "JP": "理樹@「だから、野球…」",
+      "EN": "`Riki@❝Like I said, baseball...❞",
+      "Translation": "`Riki@❝Like I said, baseball...❞"
+    },
+    {
+      "JP": "謙吾@「なんのために」",
+      "EN": "`Kengo@❝For what reason?❞",
+      "Translation": "`Kengo@❝For what reason?❞"
+    },
+    {
+      "JP": "うしてここまで執拗に問いつめられているのだろう…謙吾の考えていることがさっぱりわからない。",
+      "EN": "I didn't know why he was being so persistent... I just couldn't read him at all.",
+      "Translation": "I didn't know why he was being so persistent... I just couldn't read him at all."
+    },
+    {
+      "JP": "理樹@「みんなで野球したら楽しいでしょ？　そんなことに理由なんている？」",
+      "EN": "`Riki@❝Don't you think it would be fun to play baseball together? What more is there?❞",
+      "Translation": "`Riki@❝Don't you think it would be fun to play baseball together? What more is there?❞"
+    },
+    {
+      "JP": "謙吾@「楽しいからか。だったら他の遊びでもいいじゃないか」",
+      "EN": "`Kengo@❝Because it'd be fun, huh? Then can't we do whatever else that looks fun?❞",
+      "Translation": "`Kengo@❝Because it'd be fun, huh? Then can't we do whatever else that looks fun?❞"
+    },
+    {
+      "JP": "理樹@「でも鈴が野球をやりたがってるんだよ。他の遊びになんてまったく興味を示さなかったあの日からの鈴が」",
+      "EN": "`Riki@❝But Rin wants to do this. You know she hasn't been interested in anything before.❞",
+      "Translation": "`Riki@❝But Rin wants to do this. You know she hasn't been interested in anything before.❞"
+    },
+    {
+      "JP": "謙吾@「………」",
+      "EN": "`Kengo@❝.........❞",
+      "Translation": "`Kengo@❝.........❞"
+    },
+    {
+      "JP": "謙吾@「そうだな…今のおまえの目的はよくわかった」",
+      "EN": "`Kengo@❝That's right... I understand your purpose very well.❞",
+      "Translation": "`Kengo@❝That's right... I understand your purpose very well.❞"
+    },
+    {
+      "JP": "謙吾@「なら、俺はここで降りる」",
+      "EN": "`Kengo@❝So I'm out.❞",
+      "Translation": "`Kengo@❝So I'm out.❞"
+    },
+    {
+      "JP": "理樹@「おりる？」",
+      "EN": "`Riki@❝Out?❞",
+      "Translation": "`Riki@❝Out?❞"
+    },
+    {
+      "JP": "謙吾@「後は三人でやってくれ」",
+      "EN": "`Kengo@❝The rest is between you three.❞",
+      "Translation": "`Kengo@❝The rest is between you three.❞"
+    },
+    {
+      "JP": "理樹@「え？　ちょっと待ってよっ」",
+      "EN": "`Riki@❝Eh? Wait a second!❞",
+      "Translation": "`Riki@❝Eh? Wait a second!❞"
+    },
+    {
+      "JP": "うやくその意味を理解し、僕は焦る。",
+      "EN": "As what he meant sunk in at last, I lost my composure.",
+      "Translation": "As what he meant sunk in at last, I lost my composure."
+    },
+    {
+      "JP": "理樹@「やっと４人揃ったのにっ、これからだと思ってたのに…わけがわからないよ、どうして!?」",
+      "EN": "`Riki@❝The four of us are finally back together, and I thought... I, I just don't get you. Why!?❞",
+      "Translation": "`Riki@❝The four of us are finally back together, and I thought... I, I just don't get you. Why!?❞"
+    },
+    {
+      "JP": "謙吾@「おまえには理解できない問題だ」",
+      "EN": "`Kengo@❝You wouldn't be able to understand.❞",
+      "Translation": "`Kengo@❝You wouldn't be able to understand.❞"
+    },
+    {
+      "JP": "理樹@「怪我してから、率先して遊んできたのに、どうして今更降りるなんて言い出すのさ？　鈴のことが嫌いなの!?」",
+      "EN": "`Riki@❝You've been so eager to play ever since you got injured. Why would you leave us now? Do you hate Rin!?❞",
+      "Translation": "`Riki@❝You've been so eager to play ever since you got injured. Why would you leave us now? Do you hate Rin!?❞"
+    },
+    {
+      "JP": "謙吾@「そんなわけないだろう」",
+      "EN": "`Kengo@❝No way.❞",
+      "Translation": "`Kengo@❝No way.❞"
+    },
+    {
+      "JP": "理樹@「じゃあ、理由を教えてよ」",
+      "EN": "`Riki@❝Then tell me why.❞",
+      "Translation": "`Riki@❝Then tell me why.❞"
+    },
+    {
+      "JP": "謙吾@「だから、言ったとしてもおまえには理解できない」",
+      "EN": "`Kengo@❝I told you, even if I were to explain, you wouldn't be able to understand.❞",
+      "Translation": "`Kengo@❝I told you, even if I were to explain, you wouldn't be able to understand.❞"
+    },
+    {
+      "JP": "理樹@「いいから教えてよ」",
+      "EN": "`Riki@❝Just tell me.❞",
+      "Translation": "`Riki@❝Just tell me.❞"
+    },
+    {
+      "JP": "吾は…顔の半分を手で覆って、苦しげに答えた。",
+      "EN": "Kengo... covered half of his face with his hand and answered in anguish.",
+      "Translation": "Kengo... covered half of his face with his hand and answered in anguish."
+    },
+    {
+      "JP": "謙吾@「おまえの行動がかぶるんだよ…」",
+      "EN": "`Kengo@❝You're doing exactly the same thing...❞",
+      "Translation": "`Kengo@❝You're doing exactly the same thing...❞"
+    },
+    {
+      "JP": "理樹@「何が？　誰と？」",
+      "EN": "`Riki@❝Same thing? With who?❞",
+      "Translation": "`Riki@❝Same thing? With who?❞"
+    },
+    {
+      "JP": "謙吾@「今のおまえの行動が…あいつと」",
+      "EN": "`Kengo@❝You're doing exactly the same thing... as he did.❞",
+      "Translation": "`Kengo@❝You're doing exactly the same thing... as he did.❞"
+    },
+    {
+      "JP": "理樹@「あいつ？」",
+      "EN": "`Riki@❝Who are you talking about?❞",
+      "Translation": "`Riki@❝Who are you talking about?❞"
+    },
+    {
+      "JP": "吾は答えない。",
+      "EN": "He wouldn't answer.",
+      "Translation": "He wouldn't answer."
+    },
+    {
+      "JP": "理樹@「…恭介？」",
+      "EN": "`Riki@❝...Kyousuke?❞",
+      "Translation": "`Riki@❝...Kyousuke?❞"
+    },
+    {
+      "JP": "うしてか、そうだと思えた。",
+      "EN": "I didn't know why, but that was the one name that came to mind.",
+      "Translation": "I didn't know why, but that was the one name that came to mind."
+    },
+    {
+      "JP": "謙吾@「………」",
+      "EN": "`Kengo@❝.........❞",
+      "Translation": "`Kengo@❝.........❞"
+    },
+    {
+      "JP": "たっていたのだろう。何も言わなかったが、否定もしなかった。",
+      "EN": "I must have been correct; Kengo didn't say anything, but didn't deny my words either.",
+      "Translation": "I must have been correct; Kengo didn't say anything, but didn't deny my words either."
+    },
+    {
+      "JP": "ばらくの沈黙の後、背中を向け、その場を立ち去った。",
+      "EN": "After a moment of silence, he turned on his heels and left.",
+      "Translation": "After a moment of silence, he turned on his heels and left."
+    },
+    {
+      "JP": "は見送るしかできなかった。",
+      "EN": "All I could do was watch him go.",
+      "Translation": "All I could do was watch him go."
+    },
+    {
+      "JP": "だ、ひたすら考えていた。",
+      "EN": "But I was thinking hard.",
+      "Translation": "But I was thinking hard."
+    },
+    {
+      "JP": "体恭介は何をしたんだ？",
+      "EN": "What on earth was it that Kyousuke had done?",
+      "Translation": "What on earth was it that Kyousuke had done?"
+    },
+    {
+      "JP": "、僕はバットを持っている。",
+      "EN": "I'm holding a bat in my hand,",
+      "Translation": "I'm holding a bat in my hand,"
+    },
+    {
+      "JP": "球をしようとしている。",
+      "EN": "attempting to play baseball.",
+      "Translation": "attempting to play baseball."
+    },
+    {
+      "JP": "介もかつてそうしたというのか？",
+      "EN": "Was there a time when Kyousuke did this as well?",
+      "Translation": "Was there a time when Kyousuke did this as well?"
+    },
+    {
+      "JP": "んな話を、ずっと一緒にいた僕が知らないなんてあるのだろうか…。",
+      "EN": "How could I not know about it when I had been with him all this time...?",
+      "Translation": "How could I not know about it when I had been with him all this time...?"
+    },
+    {
+      "JP": "会った時より昔にあった出来事なら、知らなくて当然だけど…。",
+      "EN": "Of course, it was no wonder if it had happened before we met...",
+      "Translation": "Of course, it was no wonder if it had happened before we met..."
+    },
+    {
+      "JP": "も、その『件』は、今の鈴の状態や、恭介の立場に深く関係があるんじゃないだろうか。",
+      "EN": "But that matter might be deep at the core of the current state of the Natsume siblings.",
+      "Translation": "But that matter might be deep at the core of the current state of the Natsume siblings."
+    },
+    {
+      "JP": "うしてもそう思えてならない。",
+      "EN": "I couldn't help thinking that way.",
+      "Translation": "I couldn't help thinking that way."
+    },
+    {
+      "JP": "ったら、そう遠い話ではないはずだ。",
+      "EN": "And if that was the case, I didn't think it could've occurred so long ago that I didn't know about it.",
+      "Translation": "And if that was the case, I didn't think it could've occurred so long ago that I didn't know about it."
+    },
+    {
+      "JP": "た僕は空を見上げる。立体的な空を。",
+      "EN": "Again, I looked up at the clouds drifting across the sky.",
+      "Translation": "Again, I looked up at the clouds drifting across the sky."
+    },
+    {
+      "JP": "日、廊下から見た空とそっくりだった。",
+      "EN": "They looked pretty much the same as the ones I had watched from the hallway yesterday.",
+      "Translation": "They looked pretty much the same as the ones I had watched from the hallway yesterday."
+    },
+    {
+      "JP": "真人@「なんだ、打つのか？」",
+      "EN": "`Masato@❝What's this, we gonna be batting?❞",
+      "Translation": "`Masato@❝What's this, we gonna be batting?❞"
+    },
+    {
+      "JP": "ットを持って現れた僕を見て真人が訊く。",
+      "EN": "Masato asked when I showed up with the bat.",
+      "Translation": "Masato asked when I showed up with the bat."
+    },
+    {
+      "JP": "理樹@「…うん。そうしたほうが楽しいと思って」",
+      "EN": "`Riki@❝...Yes. I think that would be more fun.❞",
+      "Translation": "`Riki@❝...Yes. I think that would be more fun.❞"
+    },
+    {
+      "JP": "真人@「そうだな。キャッチボールだけより、投げて打ったほうが楽しいだろうな」",
+      "EN": "`Masato@❝Agreed. That would be more fun than just playing catch.❞",
+      "Translation": "`Masato@❝Agreed. That would be more fun than just playing catch.❞"
+    },
+    {
+      "JP": "理樹@「本当は２対２で試合形式にしたかったんだ」",
+      "EN": "`Riki@❝I really wanted to make two teams...❞",
+      "Translation": "`Riki@❝I really wanted to make two teams...❞"
+    },
+    {
+      "JP": "真人@「まあ、できるんじゃねぇか？」",
+      "EN": "`Masato@❝Well, I guess we can do that?❞",
+      "Translation": "`Masato@❝Well, I guess we can do that?❞"
+    },
+    {
+      "JP": "理樹@「もうできない。謙吾が降りたから」",
+      "EN": "`Riki@❝Not anymore. Kengo left us.❞",
+      "Translation": "`Riki@❝Not anymore. Kengo left us.❞"
+    },
+    {
+      "JP": "真人@「降りた？　あいつこねぇのか？」",
+      "EN": "`Masato@❝Seriously? He won't join us anymore?❞",
+      "Translation": "`Masato@❝Seriously? He won't join us anymore?❞"
+    },
+    {
+      "JP": "理樹@「うん、こない」",
+      "EN": "`Riki@❝No, he won't.❞",
+      "Translation": "`Riki@❝No, he won't.❞"
+    },
+    {
+      "JP": "真人@「あの怪我してからおかしくなった謙吾がか？」",
+      "EN": "`Masato@❝Even though he's been nuts ever since he got his injury?❞",
+      "Translation": "`Masato@❝Even though he's been nuts ever since he got his injury?❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Yeah.❞",
+      "Translation": "`Riki@❝Yeah.❞"
+    },
+    {
+      "JP": "真人@「頭でもぶつけて、正常に戻っちまったかな…」",
+      "EN": "`Masato@❝Maybe he got hit on the head and went back to normal...?❞",
+      "Translation": "`Masato@❝Maybe he got hit on the head and went back to normal...?❞"
+    },
+    {
+      "JP": "理樹@「さあ…」",
+      "EN": "`Riki@❝Who knows...❞",
+      "Translation": "`Riki@❝Who knows...❞"
+    },
+    {
+      "JP": "真人@「まあ、三人でもできらぁ。気を落とすな」",
+      "EN": "`Masato@❝Well, I guess we can still do it even with the three of us. Don't be so down.❞",
+      "Translation": "`Masato@❝Well, I guess we can still do it even with the three of us. Don't be so down.❞"
+    },
+    {
+      "JP": "理樹@「ねぇ、真人」",
+      "EN": "`Riki@❝Hey, Masato.❞",
+      "Translation": "`Riki@❝Hey, Masato.❞"
+    },
+    {
+      "JP": "理樹@「みんな、何を隠してるの？」",
+      "EN": "`Riki@❝What are you guys hiding from me?❞",
+      "Translation": "`Riki@❝What are you guys hiding from me?❞"
+    },
+    {
+      "JP": "真人@「ん？」",
+      "EN": "`Masato@❝Huh?❞",
+      "Translation": "`Masato@❝Huh?❞"
+    },
+    {
+      "JP": "真人@「隠し事ってんなら、そりゃ知られちゃ困るもんだろ」",
+      "EN": "`Masato@❝If you want to hide something from other people, wouldn't it be a problem if you told them?❞",
+      "Translation": "`Masato@❝If you want to hide something from other people, wouldn't it be a problem if you told them?❞"
+    },
+    {
+      "JP": "談なのか、はぐらかそうとしているのか。",
+      "EN": "I couldn't tell whether Masato was making a joke or dodging the question.",
+      "Translation": "I couldn't tell whether Masato was making a joke or dodging the question."
+    },
+    {
+      "JP": "人は知っているのか、知らないのか。",
+      "EN": "Whether he knew or not.",
+      "Translation": "Whether he knew or not."
+    },
+    {
+      "JP": "の読みでは…知っていると思う。",
+      "EN": "My instincts told me... that he did.",
+      "Translation": "My instincts told me... that he did."
+    },
+    {
+      "JP": "らないのは、僕と鈴だけだ、きっと。",
+      "EN": "It was likely just me and Rin who didn't know anything.",
+      "Translation": "It was likely just me and Rin who didn't know anything."
+    },
+    {
+      "JP": "理樹@「教えてよ、僕の知らないところで一体何があったのか」",
+      "EN": "`Riki@❝Tell me. What's behind all of this?❞",
+      "Translation": "`Riki@❝Tell me. What's behind all of this?❞"
+    },
+    {
+      "JP": "真人@「………」",
+      "EN": "`Masato@❝.........❞",
+      "Translation": "`Masato@❝.........❞"
+    },
+    {
+      "JP": "人は何も言わない。",
+      "EN": "Masato didn't say anything.",
+      "Translation": "Masato didn't say anything."
+    },
+    {
+      "JP": "も僕は責め立てるように続ける。",
+      "EN": "Yet I pressed on as if interrogating him.",
+      "Translation": "Yet I pressed on as if interrogating him."
+    },
+    {
+      "JP": "理樹@「野球だよ、野球に関することだよ」",
+      "EN": "`Riki@❝Baseball. I'm pretty sure it has something to do with baseball.❞",
+      "Translation": "`Riki@❝Baseball. I'm pretty sure it has something to do with baseball.❞"
+    },
+    {
+      "JP": "理樹@「このバットを持ち出したら謙吾の態度が一変した」",
+      "EN": "`Riki@❝Kengo made an about-face when he saw me with this bat.❞",
+      "Translation": "`Riki@❝Kengo made an about-face when he saw me with this bat.❞"
+    },
+    {
+      "JP": "理樹@「いや…」",
+      "EN": "`Riki@❝No...❞",
+      "Translation": "`Riki@❝No...❞"
+    },
+    {
+      "JP": "い出せ。",
+      "EN": "I tried to recall more.",
+      "Translation": "I tried to recall more."
+    },
+    {
+      "JP": "理樹@「だってそもそも、キャッチボールは離れてするもんだ。これだったら、みんなで遊べるよ」",
+      "EN": "`Riki@❝To begin with, you don't have to get close to her when playing catch, so we can all play together.❞",
+      "Translation": "`Riki@❝To begin with, you don't have to get close to her when playing catch, so we can all play together.❞"
+    },
+    {
+      "JP": "謙吾@「………」",
+      "EN": "`Kengo@❝.........❞",
+      "Translation": "`Kengo@❝.........❞"
+    },
+    {
+      "JP": "理樹@「何か問題あるかな…」",
+      "EN": "`Riki@❝Is there some problem...?❞",
+      "Translation": "`Riki@❝Is there some problem...?❞"
+    },
+    {
+      "JP": "理樹@「そもそも謙吾はキャッチボールの時点で乗り気じゃなかった」",
+      "EN": "`Riki@❝From the first, he showed little interest when I invited him to play catch.❞",
+      "Translation": "`Riki@❝From the first, he showed little interest when I invited him to play catch.❞"
+    },
+    {
+      "JP": "理樹@「あれだけ遊ぶことに積極的になっていたのに、へんだよ」",
+      "EN": "`Riki@❝Why would that be when he was so eager to play? That's weird.❞",
+      "Translation": "`Riki@❝Why would that be when he was so eager to play? That's weird.❞"
+    },
+    {
+      "JP": "理樹@「おかしいでしょ？」",
+      "EN": "`Riki@❝You think so as well, don't you?❞",
+      "Translation": "`Riki@❝You think so as well, don't you?❞"
+    },
+    {
+      "JP": "真人@「………」",
+      "EN": "`Masato@❝.........❞",
+      "Translation": "`Masato@❝.........❞"
+    },
+    {
+      "JP": "んな簡単な質問にも真人は黙ったままだ。",
+      "EN": "He wouldn't even answer that simple question of mine.",
+      "Translation": "He wouldn't even answer that simple question of mine."
+    },
+    {
+      "JP": "は続ける。",
+      "EN": "Still I went on.",
+      "Translation": "Still I went on."
+    },
+    {
+      "JP": "理樹@「…謙吾はこの僕の行動が、恭介とかぶって見えると言ったんだ」",
+      "EN": "`Riki@❝...He said I'm doing exactly the same thing as Kyousuke.❞",
+      "Translation": "`Riki@❝...He said I'm doing exactly the same thing as Kyousuke.❞"
+    },
+    {
+      "JP": "理樹@「恭介も、いつかはわからないけど、野球を始めようとしたんだ」",
+      "EN": "`Riki@❝I don't know when, but Kyousuke also tried to start playing baseball with her.❞",
+      "Translation": "`Riki@❝I don't know when, but Kyousuke also tried to start playing baseball with her.❞"
+    },
+    {
+      "JP": "理樹@「その先によくないことが起きた」",
+      "EN": "`Riki@❝And something bad happened afterward.❞",
+      "Translation": "`Riki@❝And something bad happened afterward.❞"
+    },
+    {
+      "JP": "理樹@「結果、鈴は人を恐がるようになって、恭介は僕らから離れていった」",
+      "EN": "`Riki@❝It's the reason Rin's now afraid of other people and Kyousuke abandoned us.❞",
+      "Translation": "`Riki@❝It's the reason Rin's now afraid of other people and Kyousuke abandoned us.❞"
+    },
+    {
+      "JP": "理樹@「そうして今に至っているんだ」",
+      "EN": "`Riki@❝That's what brought us to this current situation.❞",
+      "Translation": "`Riki@❝That's what brought us to this current situation.❞"
+    },
+    {
+      "JP": "真人@「…そうだな」",
+      "EN": "`Masato@❝...True.❞",
+      "Translation": "`Masato@❝...True.❞"
+    },
+    {
+      "JP": "定を得た…。",
+      "EN": "I received an affirmative reply...",
+      "Translation": "I received an affirmative reply..."
+    },
+    {
+      "JP": "いに真人が口を割った。",
+      "EN": "He opened his mouth at last.",
+      "Translation": "He opened his mouth at last."
+    },
+    {
+      "JP": "は続いて真人が何を話してくれるのか、それを待った。",
+      "EN": "I awaited his next words.",
+      "Translation": "I awaited his next words."
+    },
+    {
+      "JP": "も、それは期待していたものとはほど遠いものだった。",
+      "EN": "But those words were far from what I had wanted to hear.",
+      "Translation": "But those words were far from what I had wanted to hear."
+    },
+    {
+      "JP": "真人@「…そこまで来たんなら十分だな」",
+      "EN": "`Masato@❝...I guess you've come close enough.❞",
+      "Translation": "`Masato@❝...I guess you've come close enough.❞"
+    },
+    {
+      "JP": "が？",
+      "EN": "What's that mean?",
+      "Translation": "What's that mean?"
+    },
+    {
+      "JP": "真人@「…あとはオレだけか」",
+      "EN": "`Masato@❝...And looks like I'm the only one left.❞",
+      "Translation": "`Masato@❝...And looks like I'm the only one left.❞"
+    },
+    {
+      "JP": "から何が？",
+      "EN": "What the heck does he mean?",
+      "Translation": "What the heck does he mean?"
+    },
+    {
+      "JP": "人は左手にはめていたグローブを外して…地面に置いた。",
+      "EN": "He took his glove off, and... placed it down on the ground.",
+      "Translation": "He took his glove off, and... placed it down on the ground."
+    },
+    {
+      "JP": "真人@「オレも降りるぜ。後は任せた」",
+      "EN": "`Masato@❝I'm out, too. The rest is in your hands.❞",
+      "Translation": "`Masato@❝I'm out, too. The rest is in your hands.❞"
+    },
+    {
+      "JP": "舎に向いて、歩いていく…。",
+      "EN": "He turned his back on us and started walking toward the school building.",
+      "Translation": "He turned his back on us and started walking toward the school building."
+    },
+    {
+      "JP": "っていく…。",
+      "EN": "He was leaving...",
+      "Translation": "He was leaving..."
+    },
+    {
+      "JP": "人までも…。",
+      "EN": "Even him...",
+      "Translation": "Even him..."
+    },
+    {
+      "JP": "うして…？",
+      "EN": "Why...?",
+      "Translation": "Why...?"
+    },
+    {
+      "JP": "理樹@「待ってよ…真人…」",
+      "EN": "`Riki@❝Wait... Masato...❞",
+      "Translation": "`Riki@❝Wait... Masato...❞"
+    },
+    {
+      "JP": "は枯れていた。",
+      "EN": "My voice cracked.",
+      "Translation": "My voice cracked."
+    },
+    {
+      "JP": "理樹@「真人っ」",
+      "EN": "`Riki@❝Masato!❞",
+      "Translation": "`Riki@❝Masato!❞"
+    },
+    {
+      "JP": "人は背中を向けたまま、手を振るだけだった。",
+      "EN": "With his broad back to me, he only waved his hand.",
+      "Translation": "With his broad back to me, he only waved his hand."
+    },
+    {
+      "JP": "人は愛すべき馬鹿な…僕の親友だ…。",
+      "EN": "Masato was my lovable, stupid... best friend...",
+      "Translation": "Masato was my lovable, stupid... best friend..."
+    },
+    {
+      "JP": "のに…どうして…。",
+      "EN": "Despite that... why...",
+      "Translation": "Despite that... why..."
+    },
+    {
+      "JP": "鈴@「どうしたんだ？」",
+      "EN": "`Rin@❝What's going on?❞",
+      "Translation": "`Rin@❝What's going on?❞"
+    },
+    {
+      "JP": "りんと音がして鈴の顔が眼前に現れ、驚く。",
+      "EN": "Rin caught me by surprise when she showed up in front of me with a cling of her bell.",
+      "Translation": "Rin caught me by surprise when she showed up in front of me with a cling of her bell."
+    },
+    {
+      "JP": "鈴@「しないのか、キャッチボール」",
+      "EN": "`Rin@❝Aren't we playing catch?❞",
+      "Translation": "`Rin@❝Aren't we playing catch?❞"
+    },
+    {
+      "JP": "理樹@「…するよ…もちろん」",
+      "EN": "`Riki@❝...Yes, we are... of course.❞",
+      "Translation": "`Riki@❝...Yes, we are... of course.❞"
+    },
+    {
+      "JP": "理樹@「でも…真人が…」",
+      "EN": "`Riki@❝But... Masato, he...❞",
+      "Translation": "`Riki@❝But... Masato, he...❞"
+    },
+    {
+      "JP": "鈴@「もうかえったのか？」",
+      "EN": "`Rin@❝Did he already go back?❞",
+      "Translation": "`Rin@❝Did he already go back?❞"
+    },
+    {
+      "JP": "理樹@「いや…」",
+      "EN": "`Riki@❝No...❞",
+      "Translation": "`Riki@❝No...❞"
+    },
+    {
+      "JP": "理樹@「もうこないって…」",
+      "EN": "`Riki@❝He said he wouldn't play with us anymore...❞",
+      "Translation": "`Riki@❝He said he wouldn't play with us anymore...❞"
+    },
+    {
+      "JP": "の前で弱さを見せてはいけない。僕は涙を堪えた。",
+      "EN": "I couldn't show her any of the weakness I felt inside; I fought back the tears.",
+      "Translation": "I couldn't show her any of the weakness I felt inside; I fought back the tears."
+    },
+    {
+      "JP": "鈴@「??」",
+      "EN": "`Rin@❝???❞",
+      "Translation": "`Rin@❝???❞"
+    },
+    {
+      "JP": "鈴@「それは…なんだかさみしいな」",
+      "EN": "`Rin@❝That's... kinda too bad.❞",
+      "Translation": "`Rin@❝That's... kinda too bad.❞"
+    },
+    {
+      "JP": "理樹@「うん…」",
+      "EN": "`Riki@❝Yeah...❞",
+      "Translation": "`Riki@❝Yeah...❞"
+    },
+    {
+      "JP": "しい。",
+      "EN": "I felt lonely.",
+      "Translation": "I felt lonely."
+    },
+    {
+      "JP": "た元に戻ってしまった。",
+      "EN": "We were back to just the two of us again.",
+      "Translation": "We were back to just the two of us again."
+    },
+    {
+      "JP": "とふたりきりになってしまった。",
+      "EN": "It was just me and Rin yet again.",
+      "Translation": "It was just me and Rin yet again."
+    },
+    {
+      "JP": "れでも、始めよう。",
+      "EN": "Even so, I had to begin.",
+      "Translation": "Even so, I had to begin."
+    },
+    {
+      "JP": "たりきりのキャッチボールを。",
+      "EN": "I had to start my game of catch with her.",
+      "Translation": "I had to start my game of catch with her."
+    },
+    {
+      "JP": "つものように自室まで運んで、晩ご飯を食べる。",
+      "EN": "As usual, I brought our meals and we had them in my dorm room.",
+      "Translation": "As usual, I brought our meals and we had them in my dorm room."
+    },
+    {
+      "JP": "日は一緒に居た謙吾も真人も来てくれなかった。",
+      "EN": "Unlike the previous day, neither Kengo nor Masato was there with us.",
+      "Translation": "Unlike the previous day, neither Kengo nor Masato was there with us."
+    },
+    {
+      "JP": "りる、というのは野球からだけでなく、一緒に遊ぶことや、食べることさえからも『降りる』という意味だったことを知る。",
+      "EN": "That made me realize that they had meant they were not only ❛out❜ of doing baseball, but playing or eating together as well.",
+      "Translation": "That made me realize that they had meant they were not only ❛out❜ of doing baseball, but playing or eating together as well."
+    },
+    {
+      "JP": "まりそれは、友達の輪から外れる、ということだ。",
+      "EN": "In other words, they were out of our friendship.",
+      "Translation": "In other words, they were out of our friendship."
+    },
+    {
+      "JP": "が帰った後、僕はこれまでそうしてきたように、真人に、そのことを知らせるメールを打った。",
+      "EN": "After Rin left, I texted Masato to inform him of that like any other day.",
+      "Translation": "After Rin left, I texted Masato to inform him of that like any other day."
+    },
+    {
+      "JP": "ぐ返事が戻ってきた。",
+      "EN": "A reply arrived quickly.",
+      "Translation": "A reply arrived quickly."
+    },
+    {
+      "JP": "今日は帰らない』",
+      "EN": "[I'm not coming back today.]",
+      "Translation": "[I'm not coming back today.]"
+    },
+    {
+      "JP": "しは予想していたから、ショックは受けなかった。",
+      "EN": "Since I had kind of anticipated this, it didn't shock me as much as it might have.",
+      "Translation": "Since I had kind of anticipated this, it didn't shock me as much as it might have."
+    },
+    {
+      "JP": "の晩は、ひとりで寝る夜となった。",
+      "EN": "That night, I had to sleep alone in the room.",
+      "Translation": "That night, I had to sleep alone in the room."
+    },
+    {
+      "JP": "つ以来だろう…。",
+      "EN": "When was the last time...?",
+      "Translation": "When was the last time...?"
+    },
+    {
+      "JP": "つも、誰かと一緒に寝ていた気がする…。",
+      "EN": "I think there had always been somebody close by my side when I slept...",
+      "Translation": "I think there had always been somebody close by my side when I slept..."
+    },
+    {
+      "JP": "はルームメイトの真人とだけど…",
+      "EN": "Ever since we started living in this dorm, it had been Masato.",
+      "Translation": "Ever since we started living in this dorm, it had been Masato."
+    },
+    {
+      "JP": "さい頃はよく恭介がそばにいてくれた。",
+      "EN": "But before that, it had been Kyousuke keeping me company.",
+      "Translation": "But before that, it had been Kyousuke keeping me company."
+    },
+    {
+      "JP": "たりきりになると、いろんな話を聞かせてくれた。",
+      "EN": "When the two of us were alone, he had told me many kinds of stories.",
+      "Translation": "When the two of us were alone, he had told me many kinds of stories."
+    },
+    {
+      "JP": "振り返るとそれは、夢のような時間だった。",
+      "EN": "Looking back at those days now, they felt like a faraway dream.",
+      "Translation": "Looking back at those days now, they felt like a faraway dream."
+    }
+  ]
+}

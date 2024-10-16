@@ -1,0 +1,699 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "理樹@「やっほー、真人、筋肉、筋肉～！」",
+      "EN": "`Riki@❝Yahoo, Masato - muscles, muscles!❞",
+      "Translation": "`Riki@❝Yahoo, Masato - muscles, muscles!❞"
+    },
+    {
+      "JP": "真人@「お、なんだ、ノリノリじゃねぇか、理樹めっ」",
+      "EN": "`Masato@❝Well, aren't you in good spirits today, Riki!❞",
+      "Translation": "`Masato@❝Well, aren't you in good spirits today, Riki!❞"
+    },
+    {
+      "JP": "真人@「おっしゃ、筋肉、筋肉～！」",
+      "EN": "`Masato@❝Alright, muscles, muscles!❞",
+      "Translation": "`Masato@❝Alright, muscles, muscles!❞"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "人と遊んだ。",
+      "EN": "I fooled around with Masato.",
+      "Translation": "I fooled around with Masato."
+    },
+    {
+      "JP": "真人@「ふぅ、楽しかったな」",
+      "EN": "`Masato@❝Phew, that was fun.❞",
+      "Translation": "`Masato@❝Phew, that was fun.❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Yep.❞",
+      "Translation": "`Riki@❝Yep.❞"
+    },
+    {
+      "JP": "真人@「理樹」",
+      "EN": "`Masato@❝Riki.❞",
+      "Translation": "`Masato@❝Riki.❞"
+    },
+    {
+      "JP": "理樹@「え？」",
+      "EN": "`Riki@❝What?❞",
+      "Translation": "`Riki@❝What?❞"
+    },
+    {
+      "JP": "真人@「おまえにこれ、やるぜ」",
+      "EN": "`Masato@❝I'll give this to you.❞",
+      "Translation": "`Masato@❝I'll give this to you.❞"
+    },
+    {
+      "JP": "っと何か渡される。",
+      "EN": "He carefully passed me something.",
+      "Translation": "He carefully passed me something."
+    },
+    {
+      "JP": "んだろう…？",
+      "EN": "What could it be...?",
+      "Translation": "What could it be...?"
+    },
+    {
+      "JP": "理樹@「真人、今から筋肉祭りだ！」",
+      "EN": "`Riki@❝Masato, it's a Muscle Festival now!❞",
+      "Translation": "`Riki@❝Masato, it's a Muscle Festival now!❞"
+    },
+    {
+      "JP": "真人@「マジかよ、やべぇ、名前だけで鼻血が出そうだっ」",
+      "EN": "`Masato@❝Are you for real? Damn, I'm getting a nosebleed just from hearing its name.❞",
+      "Translation": "`Masato@❝Are you for real? Damn, I'm getting a nosebleed just from hearing its name.❞"
+    },
+    {
+      "JP": "理樹@「筋肉わっしょい！　筋肉わっしょい！」",
+      "EN": "`Riki@❝Muscles wasshoi! Muscles wasshoi!❞",
+      "Translation": "`Riki@❝Muscles wasshoi! Muscles wasshoi!❞"
+    },
+    {
+      "JP": "真人@「筋肉わっしょい！　筋肉わっしょい！」",
+      "EN": "`Masato@❝Muscles wasshoi! Muscles wasshoi!❞",
+      "Translation": "`Masato@❝Muscles wasshoi! Muscles wasshoi!❞"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "クド@「血湧き肉躍るお祭りですっ」",
+      "EN": "`Kud@❝It's a blood-boiling meat festival!❞",
+      "Translation": "`Kud@❝It's a blood-boiling meat festival!❞"
+    },
+    {
+      "JP": "人と遊んだ。",
+      "EN": "I fooled around with Masato.",
+      "Translation": "I fooled around with Masato."
+    },
+    {
+      "JP": "真人@「ふぅ、楽しかったな」",
+      "EN": "`Masato@❝Phew, that was fun.❞",
+      "Translation": "`Masato@❝Phew, that was fun.❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Yep.❞",
+      "Translation": "`Riki@❝Yep.❞"
+    },
+    {
+      "JP": "真人@「理樹」",
+      "EN": "`Masato@❝Riki.❞",
+      "Translation": "`Masato@❝Riki.❞"
+    },
+    {
+      "JP": "理樹@「え？」",
+      "EN": "`Riki@❝What?❞",
+      "Translation": "`Riki@❝What?❞"
+    },
+    {
+      "JP": "真人@「おまえにこれ、やるぜ」",
+      "EN": "`Masato@❝I'll give this to you.❞",
+      "Translation": "`Masato@❝I'll give this to you.❞"
+    },
+    {
+      "JP": "っと何か渡される。",
+      "EN": "He carefully passed me something.",
+      "Translation": "He carefully passed me something."
+    },
+    {
+      "JP": "んだろう…？",
+      "EN": "What could it be...?",
+      "Translation": "What could it be...?"
+    },
+    {
+      "JP": "理樹@「真人、そういや、今日は筋肉曜日だよ」",
+      "EN": "`Riki@❝Masato, did you forget it's Muscles Day today?❞",
+      "Translation": "`Riki@❝Masato, did you forget it's Muscles Day today?❞"
+    },
+    {
+      "JP": "真人@「なんだとぉ!?　なんだかさっぱりわからねぇが、聞くだけで興奮するぜっ」",
+      "EN": "`Masato@❝Say what!? I have no idea what you're talking about but I'm getting excited just hearing about it!❞",
+      "Translation": "`Masato@❝Say what!? I have no idea what you're talking about but I'm getting excited just hearing about it!❞"
+    },
+    {
+      "JP": "理樹@「謝肉祭…いや、謝筋肉祭が始まるよ」",
+      "EN": "`Riki@❝The carnival... No, the Muscle Fest is about to start.❞",
+      "Translation": "`Riki@❝The carnival... No, the Muscle Fest is about to start.❞"
+    },
+    {
+      "JP": "真人@「内容はまったくわからねぇが、望むところだぜ…」",
+      "EN": "`Masato@❝I have no clue what that means, but I'm all for it...❞",
+      "Translation": "`Masato@❝I have no clue what that means, but I'm all for it...❞"
+    },
+    {
+      "JP": "理樹@「じゃ、いくよ…」",
+      "EN": "`Riki@❝Alright, let's get started...❞",
+      "Translation": "`Riki@❝Alright, let's get started...❞"
+    },
+    {
+      "JP": "理樹@「はぁ～！　筋肉様よ、鎮まりなされえぇぇぇーー！」",
+      "EN": "`Riki@❝Haa! Still your anger, O great Muscle God!❞",
+      "Translation": "`Riki@❝Haa! Still your anger, O great Muscle God!❞"
+    },
+    {
+      "JP": "真人@「う、うわああぁぁぁーーー!!」",
+      "EN": "`Masato@❝U, uwaaaa!❞",
+      "Translation": "`Masato@❝U, uwaaaa!❞"
+    },
+    {
+      "JP": "クド@「わふーっ！　何やら蠱惑的ですっ！」",
+      "EN": "`Kud@❝Wafuuu! It's so exhilarating!❞",
+      "Translation": "`Kud@❝Wafuuu! It's so exhilarating!❞"
+    },
+    {
+      "JP": "人と遊んだ。",
+      "EN": "I fooled around with Masato.",
+      "Translation": "I fooled around with Masato."
+    },
+    {
+      "JP": "真人@「ふぅ、楽しかったな」",
+      "EN": "`Masato@❝Phew, that was fun.❞",
+      "Translation": "`Masato@❝Phew, that was fun.❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Yep.❞",
+      "Translation": "`Riki@❝Yep.❞"
+    },
+    {
+      "JP": "真人@「理樹」",
+      "EN": "`Masato@❝Riki.❞",
+      "Translation": "`Masato@❝Riki.❞"
+    },
+    {
+      "JP": "理樹@「え？」",
+      "EN": "`Riki@❝What?❞",
+      "Translation": "`Riki@❝What?❞"
+    },
+    {
+      "JP": "真人@「おまえにこれ、やるぜ」",
+      "EN": "`Masato@❝I'll give this to you.❞",
+      "Translation": "`Masato@❝I'll give this to you.❞"
+    },
+    {
+      "JP": "っと何か渡される。",
+      "EN": "He carefully passed me something.",
+      "Translation": "He carefully passed me something."
+    },
+    {
+      "JP": "んだろう…？",
+      "EN": "What could it be...?",
+      "Translation": "What could it be...?"
+    },
+    {
+      "JP": "うしよう…",
+      "EN": "What should I do...",
+      "Translation": "What should I do..."
+    },
+    {
+      "JP": "う真人と遊ぶネタが思いつかない…。",
+      "EN": "I ran out of ideas to fool around with Masato...",
+      "Translation": "I ran out of ideas to fool around with Masato..."
+    },
+    {
+      "JP": "真人@「どうした、理樹。遊ぼうぜ」",
+      "EN": "`Masato@❝What's wrong, Riki? Let's play.❞",
+      "Translation": "`Masato@❝What's wrong, Riki? Let's play.❞"
+    },
+    {
+      "JP": "人はそう言ってくれてるのに…。",
+      "EN": "There he is waiting for me...",
+      "Translation": "There he is waiting for me..."
+    },
+    {
+      "JP": "う…どうしよう。情けない僕だ…。",
+      "EN": "Ugh... What should I do? I'm pathetic...",
+      "Translation": "Ugh... What should I do? I'm pathetic..."
+    },
+    {
+      "JP": "にぽんと手を当てられる。",
+      "EN": "Someone patted me on the shoulder.",
+      "Translation": "Someone patted me on the shoulder."
+    },
+    {
+      "JP": "ちろん真人の手だ。",
+      "EN": "Of course, it was Masato.",
+      "Translation": "Of course, it was Masato."
+    },
+    {
+      "JP": "真人@「もう何も考えてくれなくてもいいぞ。今までありがとな」",
+      "EN": "`Masato@❝You don't have to come up with anything new. Thank you for everything until now.❞",
+      "Translation": "`Masato@❝You don't have to come up with anything new. Thank you for everything until now.❞"
+    },
+    {
+      "JP": "理樹@「真人…」",
+      "EN": "`Riki@❝Masato...❞",
+      "Translation": "`Riki@❝Masato...❞"
+    },
+    {
+      "JP": "真人@「オレは筋肉筋肉って言ってくれるだけで十分楽しい」",
+      "EN": "`Masato@❝I'll be happy so long as you just say ❛muscles❜ for me.❞",
+      "Translation": "`Masato@❝I'll be happy so long as you just say ❛muscles❜ for me.❞"
+    },
+    {
+      "JP": "真人@「さ、遊ぼうぜ」",
+      "EN": "`Masato@❝Alright, let's play.❞",
+      "Translation": "`Masato@❝Alright, let's play.❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Yeah.❞",
+      "Translation": "`Riki@❝Yeah.❞"
+    },
+    {
+      "JP": "真人@「おっしゃ、筋肉、筋肉～！」",
+      "EN": "`Masato@❝Alright, muscles, muscles!❞",
+      "Translation": "`Masato@❝Alright, muscles, muscles!❞"
+    },
+    {
+      "JP": "理樹@「やっほー、筋肉、筋肉～！」",
+      "EN": "`Riki@❝Yahoo, muscles, muscles!❞",
+      "Translation": "`Riki@❝Yahoo, muscles, muscles!❞"
+    },
+    {
+      "JP": "真人@「筋肉、筋肉～！」",
+      "EN": "`Masato@❝Muscles, muscles!❞",
+      "Translation": "`Masato@❝Muscles, muscles!❞"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "人と遊んだ。",
+      "EN": "I fooled around with Masato.",
+      "Translation": "I fooled around with Masato."
+    },
+    {
+      "JP": "真人@「ふぅ、楽しかったな」",
+      "EN": "`Masato@❝Phew, that was fun.❞",
+      "Translation": "`Masato@❝Phew, that was fun.❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Yep.❞",
+      "Translation": "`Riki@❝Yep.❞"
+    },
+    {
+      "JP": "真人@「理樹」",
+      "EN": "`Masato@❝Riki.❞",
+      "Translation": "`Masato@❝Riki.❞"
+    },
+    {
+      "JP": "理樹@「え？」",
+      "EN": "`Riki@❝What?❞",
+      "Translation": "`Riki@❝What?❞"
+    },
+    {
+      "JP": "真人@「おまえにこれ、やるぜ」",
+      "EN": "`Masato@❝I'll give this to you.❞",
+      "Translation": "`Masato@❝I'll give this to you.❞"
+    },
+    {
+      "JP": "っと何か渡される。",
+      "EN": "He carefully passed me something.",
+      "Translation": "He carefully passed me something."
+    },
+    {
+      "JP": "んだろう…？",
+      "EN": "What could it be...?",
+      "Translation": "What could it be...?"
+    },
+    {
+      "JP": "真人@「遊ぼうぜ、理樹」",
+      "EN": "`Masato@❝Let's play, Riki.❞",
+      "Translation": "`Masato@❝Let's play, Riki.❞"
+    },
+    {
+      "JP": "理樹@「うん…その前にちょっと話を聞いてほしいんだ」",
+      "EN": "`Riki@❝Yeah... But before that I want to tell you something.❞",
+      "Translation": "`Riki@❝Yeah... But before that I want to tell you something.❞"
+    },
+    {
+      "JP": "真人@「なんだよ、改まって」",
+      "EN": "`Masato@❝What are you being all formal about?❞",
+      "Translation": "`Masato@❝What are you being all formal about?❞"
+    },
+    {
+      "JP": "理樹@「授業中もずっと考えてたんだ…筋肉について」",
+      "EN": "`Riki@❝I thought a lot during class... About muscle.❞",
+      "Translation": "`Riki@❝I thought a lot during class... About muscle.❞"
+    },
+    {
+      "JP": "真人@「ほーぅ」",
+      "EN": "`Masato@❝Hoo.❞",
+      "Translation": "`Masato@❝Hoo.❞"
+    },
+    {
+      "JP": "理樹@「筋肉って一言で片づけてしまうと単なる筋肉だけど、見方を変えれば…なんていうか…それも筋肉だ」",
+      "EN": "`Riki@❝You usually just dismiss muscle as simply muscle, right? Even if you try and look at it from a different angle... all it is, is muscle.❞",
+      "Translation": "`Riki@❝You usually just dismiss muscle as simply muscle, right? Even if you try and look at it from a different angle... all it is, is muscle.❞"
+    },
+    {
+      "JP": "真人@「そうだな」",
+      "EN": "`Masato@❝That's right.❞",
+      "Translation": "`Masato@❝That's right.❞"
+    },
+    {
+      "JP": "理樹@「するとどうだろう…もう、筋肉には筋肉以外はなくて、それは揺るぎない…筋肉だ」",
+      "EN": "`Riki@❝Then, what about this... When the muscle is no longer anything but muscle, won't it be... solid muscle.❞",
+      "Translation": "`Riki@❝Then, what about this... When the muscle is no longer anything but muscle, won't it be... solid muscle.❞"
+    },
+    {
+      "JP": "真人@「ああ…かもな」",
+      "EN": "`Masato@❝Yeah... Maybe.❞",
+      "Translation": "`Masato@❝Yeah... Maybe.❞"
+    },
+    {
+      "JP": "理樹@「だから、真人。真人の筋肉も、同じ筋肉であり、それは揺るぎない筋肉なんだ」",
+      "EN": "`Riki@❝So, Masato. What I'm trying to say is that your muscle... is that kind of muscle. Solid muscle.❞",
+      "Translation": "`Riki@❝So, Masato. What I'm trying to say is that your muscle... is that kind of muscle. Solid muscle.❞"
+    },
+    {
+      "JP": "真人@「はは…ちょっと待てよ、おだてても何もでねぇぞ？」",
+      "EN": "`Masato@❝Haha... Hold on, are you sure you're not just trying to flatter me?❞",
+      "Translation": "`Masato@❝Haha... Hold on, are you sure you're not just trying to flatter me?❞"
+    },
+    {
+      "JP": "理樹@「おだててるわけじゃないよ、僕なりの筋肉論を述べただけだから」",
+      "EN": "`Riki@❝This is no flattery, I'm only trying to establish a Muscle Theory here.❞",
+      "Translation": "`Riki@❝This is no flattery, I'm only trying to establish a Muscle Theory here.❞"
+    },
+    {
+      "JP": "理樹@「じゃ、今日もその筋肉と遊ばせてもらうよ。敬意を払ってね」",
+      "EN": "`Riki@❝Alright, let me play with your muscles today too. I need to pay my respects, so to say.❞",
+      "Translation": "`Riki@❝Alright, let me play with your muscles today too. I need to pay my respects, so to say.❞"
+    },
+    {
+      "JP": "真人@「よしこい、筋肉、筋肉～！」",
+      "EN": "`Masato@❝Alright bring it on, muscles, muscles!❞",
+      "Translation": "`Masato@❝Alright bring it on, muscles, muscles!❞"
+    },
+    {
+      "JP": "理樹@「やっほー、筋肉、筋肉～！」",
+      "EN": "`Riki@❝Yahoo, muscles, muscles!❞",
+      "Translation": "`Riki@❝Yahoo, muscles, muscles!❞"
+    },
+    {
+      "JP": "真人@「筋肉、筋肉～！」",
+      "EN": "`Masato@❝Muscles, muscles!❞",
+      "Translation": "`Masato@❝Muscles, muscles!❞"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "人と遊んだ。",
+      "EN": "I fooled around with Masato.",
+      "Translation": "I fooled around with Masato."
+    },
+    {
+      "JP": "真人@「ふぅ、楽しかったな」",
+      "EN": "`Masato@❝Phew, that was fun.❞",
+      "Translation": "`Masato@❝Phew, that was fun.❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Yep.❞",
+      "Translation": "`Riki@❝Yep.❞"
+    },
+    {
+      "JP": "真人@「理樹」",
+      "EN": "`Masato@❝Riki.❞",
+      "Translation": "`Masato@❝Riki.❞"
+    },
+    {
+      "JP": "理樹@「え？」",
+      "EN": "`Riki@❝What?❞",
+      "Translation": "`Riki@❝What?❞"
+    },
+    {
+      "JP": "真人@「おまえにこれ、やるぜ」",
+      "EN": "`Masato@❝I'll give this to you.❞",
+      "Translation": "`Masato@❝I'll give this to you.❞"
+    },
+    {
+      "JP": "っと何か渡される。",
+      "EN": "He carefully passed me something.",
+      "Translation": "He carefully passed me something."
+    },
+    {
+      "JP": "んだろう…？",
+      "EN": "What could it be...?",
+      "Translation": "What could it be...?"
+    },
+    {
+      "JP": "真人@「遊ぼうぜ、理樹」",
+      "EN": "`Masato@❝Let's play, Riki.❞",
+      "Translation": "`Masato@❝Let's play, Riki.❞"
+    },
+    {
+      "JP": "理樹@「うん…にしても、真人の筋肉はすごいね。ちょっと触るのも恐いぐらいになってきたよ。あ、もちろんいい意味でね」",
+      "EN": "`Riki@❝Yeah... I gotta hand it to you, your muscles sure are something, Masato. I'm afraid to even touch them now. Oh, in a good sense of course.❞",
+      "Translation": "`Riki@❝Yeah... I gotta hand it to you, your muscles sure are something, Masato. I'm afraid to even touch them now. Oh, in a good sense of course.❞"
+    },
+    {
+      "JP": "真人@「なんだよ、また褒めちぎってオレをからかうのか、よしてくれよ」",
+      "EN": "`Masato@❝Come on, you're praising me too much, stop that.❞",
+      "Translation": "`Masato@❝Come on, you're praising me too much, stop that.❞"
+    },
+    {
+      "JP": "理樹@「もしかしたら、その筋肉でさ…筋肉革命を起こせるんじゃない？」",
+      "EN": "`Riki@❝Who knows, maybe your muscles... could start a muscle revolution?❞",
+      "Translation": "`Riki@❝Who knows, maybe your muscles... could start a muscle revolution?❞"
+    },
+    {
+      "JP": "真人@「いや、さすがにそこまではなぁ…」",
+      "EN": "`Masato@❝Nah, that's too much even for me...❞",
+      "Translation": "`Masato@❝Nah, that's too much even for me...❞"
+    },
+    {
+      "JP": "理樹@「いや、可能性はあるよ、十分に」",
+      "EN": "`Riki@❝No, I'm sure it's not completely impossible.❞",
+      "Translation": "`Riki@❝No, I'm sure it's not completely impossible.❞"
+    },
+    {
+      "JP": "真人@「もしあるとしてもだ、そんな歴史に名を残すような大それた舞台に立つなんて嫌だぜ、オレは」",
+      "EN": "`Masato@❝Even if it were possible, that's not how I want to make a name for myself in the annals of history.❞",
+      "Translation": "`Masato@❝Even if it were possible, that's not how I want to make a name for myself in the annals of history.❞"
+    },
+    {
+      "JP": "理樹@「そっか…」",
+      "EN": "`Riki@❝I see...❞",
+      "Translation": "`Riki@❝I see...❞"
+    },
+    {
+      "JP": "理樹@「真人にその気がないならいいよ。忘れよう」",
+      "EN": "`Riki@❝If you don't want to, then forget I said anything.❞",
+      "Translation": "`Riki@❝If you don't want to, then forget I said anything.❞"
+    },
+    {
+      "JP": "理樹@「ちょっともったいないけどね」",
+      "EN": "`Riki@❝It's a shame though.❞",
+      "Translation": "`Riki@❝It's a shame though.❞"
+    },
+    {
+      "JP": "理樹@「さて、今日も始めようか」",
+      "EN": "`Riki@❝Anyway, let's get it started.❞",
+      "Translation": "`Riki@❝Anyway, let's get it started.❞"
+    },
+    {
+      "JP": "理樹@「やっほー、筋肉、筋肉～！」",
+      "EN": "`Riki@❝Yahoo, muscles, muscles!❞",
+      "Translation": "`Riki@❝Yahoo, muscles, muscles!❞"
+    },
+    {
+      "JP": "真人@「筋肉、筋肉～！」",
+      "EN": "`Masato@❝Muscles, muscles!❞",
+      "Translation": "`Masato@❝Muscles, muscles!❞"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "人と遊んだ。",
+      "EN": "I fooled around with Masato.",
+      "Translation": "I fooled around with Masato."
+    },
+    {
+      "JP": "真人@「ふぅ、楽しかったな」",
+      "EN": "`Masato@❝Phew, that was fun.❞",
+      "Translation": "`Masato@❝Phew, that was fun.❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Yep.❞",
+      "Translation": "`Riki@❝Yep.❞"
+    },
+    {
+      "JP": "真人@「理樹」",
+      "EN": "`Masato@❝Riki.❞",
+      "Translation": "`Masato@❝Riki.❞"
+    },
+    {
+      "JP": "理樹@「え？」",
+      "EN": "`Riki@❝What?❞",
+      "Translation": "`Riki@❝What?❞"
+    },
+    {
+      "JP": "真人@「おまえにこれ、やるぜ」",
+      "EN": "`Masato@❝I'll give this to you.❞",
+      "Translation": "`Masato@❝I'll give this to you.❞"
+    },
+    {
+      "JP": "っと何か渡される。",
+      "EN": "He carefully passed me something.",
+      "Translation": "He carefully passed me something."
+    },
+    {
+      "JP": "んだろう…？",
+      "EN": "What could it be...?",
+      "Translation": "What could it be...?"
+    },
+    {
+      "JP": "真人@「遊ぼうぜ、理樹」",
+      "EN": "`Masato@❝Let's play, Riki.❞",
+      "Translation": "`Masato@❝Let's play, Riki.❞"
+    },
+    {
+      "JP": "理樹@「うん、ところで真人…ひとつ提案なんだけど、僕の筋肉で遊んでみない？」",
+      "EN": "`Riki@❝Okay, but, Masato... I'd like to propose something, how about we try and play with MY muscles?❞",
+      "Translation": "`Riki@❝Okay, but, Masato... I'd like to propose something, how about we try and play with MY muscles?❞"
+    },
+    {
+      "JP": "真人@「なんだよ、すげぇ自信だな…おまえに筋肉なんてあったっけか？」",
+      "EN": "`Masato@❝Where does this confidence come from... Did you even have any muscles?❞",
+      "Translation": "`Masato@❝Where does this confidence come from... Did you even have any muscles?❞"
+    },
+    {
+      "JP": "理樹@「どっちかというと着やせするタイプなんだ」",
+      "EN": "`Riki@❝Are you sure you can tell without even looking?❞",
+      "Translation": "`Riki@❝Are you sure you can tell without even looking?❞"
+    },
+    {
+      "JP": "真人@「ほぅ…なら、拝見させてもらおうか」",
+      "EN": "`Masato@❝Hoo... Alright, let me see.❞",
+      "Translation": "`Masato@❝Hoo... Alright, let me see.❞"
+    },
+    {
+      "JP": "理樹@「うん、ぬぐよ」",
+      "EN": "`Riki@❝Okay, I'm going to undress now.❞",
+      "Translation": "`Riki@❝Okay, I'm going to undress now.❞"
+    },
+    {
+      "JP": "真人@「わりぃ、理樹。オレはおまえの筋肉を侮っていたようだ…」",
+      "EN": "`Masato@❝Forgive me, Riki. I shouldn't have made fun of your muscles...❞",
+      "Translation": "`Masato@❝Forgive me, Riki. I shouldn't have made fun of your muscles...❞"
+    },
+    {
+      "JP": "真人@「スリムだが…立派な筋肉をおまえも持ってたんだな…」",
+      "EN": "`Masato@❝You're slim, but... You do have wonderful muscles...❞",
+      "Translation": "`Masato@❝You're slim, but... You do have wonderful muscles...❞"
+    },
+    {
+      "JP": "理樹@「まぁね。体育の授業中にこっそり鍛えてたんだ」",
+      "EN": "`Riki@❝I suppose. I've been secretly working out during P.E. classes.❞",
+      "Translation": "`Riki@❝I suppose. I've been secretly working out during P.E. classes.❞"
+    },
+    {
+      "JP": "理樹@「もちろん、真人の足下に及ばないけどね」",
+      "EN": "`Riki@❝But of course, I can't even hold a candle to you.❞",
+      "Translation": "`Riki@❝But of course, I can't even hold a candle to you.❞"
+    },
+    {
+      "JP": "真人@「いやいや、これはこれで…」",
+      "EN": "`Masato@❝No, no, that's quite impressive in its own way...❞",
+      "Translation": "`Masato@❝No, no, that's quite impressive in its own way...❞"
+    },
+    {
+      "JP": "理樹@「ありがとう、真人」",
+      "EN": "`Riki@❝Thank you, Masato.❞",
+      "Translation": "`Riki@❝Thank you, Masato.❞"
+    },
+    {
+      "JP": "理樹@「でもそんなにじっくり見ないでよ。自分から脱いでおいてなんだけど、ちょっと照れるよ」",
+      "EN": "`Riki@❝But please don't look at me too much. I was the one who brought it up, but it's still kinda embarrassing.❞",
+      "Translation": "`Riki@❝But please don't look at me too much. I was the one who brought it up, but it's still kinda embarrassing.❞"
+    },
+    {
+      "JP": "真人@「ああ…」",
+      "EN": "`Masato@❝Okay...❞",
+      "Translation": "`Masato@❝Okay...❞"
+    },
+    {
+      "JP": "真人@「よし、じゃ、遊ぶか。今回はオレからだな」",
+      "EN": "`Masato@❝Alright, let's play. I'll start this time.❞",
+      "Translation": "`Masato@❝Alright, let's play. I'll start this time.❞"
+    },
+    {
+      "JP": "真人@「やっほー、筋肉、筋肉～！」",
+      "EN": "`Masato@❝Yahoo, muscles, muscles!❞",
+      "Translation": "`Masato@❝Yahoo, muscles, muscles!❞"
+    },
+    {
+      "JP": "",
+      "EN": " ",
+      "Translation": " "
+    },
+    {
+      "JP": "理樹@「筋肉、筋肉～！」",
+      "EN": "`Riki@❝Muscles, muscles!❞",
+      "Translation": "`Riki@❝Muscles, muscles!❞"
+    },
+    {
+      "JP": "人と遊んだ。",
+      "EN": "I fooled around with Masato.",
+      "Translation": "I fooled around with Masato."
+    },
+    {
+      "JP": "真人@「ふぅ、楽しかったな」",
+      "EN": "`Masato@❝Phew, that was fun.❞",
+      "Translation": "`Masato@❝Phew, that was fun.❞"
+    },
+    {
+      "JP": "理樹@「うん」",
+      "EN": "`Riki@❝Yep.❞",
+      "Translation": "`Riki@❝Yep.❞"
+    },
+    {
+      "JP": "真人@「理樹」",
+      "EN": "`Masato@❝Riki.❞",
+      "Translation": "`Masato@❝Riki.❞"
+    },
+    {
+      "JP": "理樹@「え？」",
+      "EN": "`Riki@❝What?❞",
+      "Translation": "`Riki@❝What?❞"
+    },
+    {
+      "JP": "真人@「おまえにこれ、やるぜ」",
+      "EN": "`Masato@❝I'll give this to you.❞",
+      "Translation": "`Masato@❝I'll give this to you.❞"
+    },
+    {
+      "JP": "っと何か渡される。",
+      "EN": "He carefully passed me something.",
+      "Translation": "He carefully passed me something."
+    },
+    {
+      "JP": "んだろう…？",
+      "EN": "What could it be...?",
+      "Translation": "What could it be...?"
+    }
+  ]
+}

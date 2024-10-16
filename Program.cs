@@ -136,8 +136,9 @@
             var FontSize = new int[]
             {
                 // 这些字体貌似有点问题,重绘后会导致游戏崩溃，先放着不动
-                //12,14,72,
-                16,18,20,24,28,30,32,36
+                //12,14,72,36,16,18,
+                //20,24,28,30,32
+                //28
             };
 
             var FontName = new string[]
@@ -146,7 +147,8 @@
             };
 
             var OriginalCharset = File.ReadAllText(LBEECharset);
-            foreach(var oldChar in OriginalCharset.ToCharArray())
+            OriginalCharset+= "　";
+            foreach (var oldChar in OriginalCharset.ToCharArray())
             {
                 InstructionProcessor.CharCollection.Remove(oldChar);
             }

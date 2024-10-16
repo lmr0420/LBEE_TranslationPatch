@@ -1,0 +1,404 @@
+{
+  "MESSAGE": [
+    {
+      "JP": "し、強い相手を求めて、校内をさまよってみよう。",
+      "EN": "Seeking a strong opponent, I wander around the campus.",
+      "Translation": "Seeking a strong opponent, I wander around the campus."
+    },
+    {
+      "JP": "し、強い相手を求めて、あてなくさまよってみよう。",
+      "EN": "Looking around for a strong opponent, I wander aimlessly.",
+      "Translation": "Looking around for a strong opponent, I wander aimlessly."
+    },
+    {
+      "JP": "り気はしないけど、仕方なく謙吾を探す。",
+      "EN": "Unthrilled about it, I reluctantly search for Kengo.",
+      "Translation": "Unthrilled about it, I reluctantly search for Kengo."
+    },
+    {
+      "JP": "《$V(#6451+1)位》が現れた。",
+      "EN": "Rin《Rank $v(#6451+1)》appeared.",
+      "Translation": "Rin《Rank $v(#6451+1)》appeared."
+    },
+    {
+      "JP": "毬《$V(#6452+1)位》が現れた。",
+      "EN": "Komari《Rank $v(#6452+1)》appeared.",
+      "Translation": "Komari《Rank $v(#6452+1)》appeared."
+    },
+    {
+      "JP": "ヶ谷《$V(#6453+1)位》が現れた。",
+      "EN": "Kurugaya《Rank $v(#6453+1)》appeared.",
+      "Translation": "Kurugaya《Rank $v(#6453+1)》appeared."
+    },
+    {
+      "JP": "ド《$V(#6454+1)位》が現れた。",
+      "EN": "Kud《Rank $v(#6454+1)》appeared.",
+      "Translation": "Kud《Rank $v(#6454+1)》appeared."
+    },
+    {
+      "JP": "留佳《$V(#6455+1)位》が現れた。",
+      "EN": "Haruka《Rank $v(#6455+1)》appeared.",
+      "Translation": "Haruka《Rank $v(#6455+1)》appeared."
+    },
+    {
+      "JP": "魚《$V(#6456+1)位》が現れた。",
+      "EN": "Mio《Rank $v(#6456+1)》appeared.",
+      "Translation": "Mio《Rank $v(#6456+1)》appeared."
+    },
+    {
+      "JP": "樹《$V(#6457+1)位》が現れた。",
+      "EN": "Riki《Rank $v(#6457+1)》appeared.",
+      "Translation": "Riki《Rank $v(#6457+1)》appeared."
+    },
+    {
+      "JP": "人《$V(#6458+1)位》が現れた。",
+      "EN": "Masato《Rank $v(#6458+1)》appeared.",
+      "Translation": "Masato《Rank $v(#6458+1)》appeared."
+    },
+    {
+      "JP": "吾《$V(#6459+1)位》が現れた。",
+      "EN": "Kengo《Rank $v(#6459+1)》appeared.",
+      "Translation": "Kengo《Rank $v(#6459+1)》appeared."
+    },
+    {
+      "JP": "介《$V(#6460+1)位》が現れた。",
+      "EN": "Kyousuke《Rank $v(#6460+1)》appeared.",
+      "Translation": "Kyousuke《Rank $v(#6460+1)》appeared."
+    },
+    {
+      "JP": "スクザ斉藤《$V(#6461+1)位》が現れた。",
+      "EN": "Mask the Saito《Rank $v(#6461+1)》appeared.",
+      "Translation": "Mask the Saito《Rank $v(#6461+1)》appeared."
+    },
+    {
+      "JP": "々美《$V(#6462+1)位》が現れた。",
+      "EN": "Sasami《Rank $v(#6462+1)》appeared.",
+      "Translation": "Sasami《Rank $v(#6462+1)》appeared."
+    },
+    {
+      "JP": "フト部員《$V(#6463+1)位》が現れた。",
+      "EN": "Club Member《Rank $v(#6463+1)》appeared.",
+      "Translation": "Club Member《Rank $v(#6463+1)》appeared."
+    },
+    {
+      "JP": "の生命体《$V(#6464+1)位》が現れた。",
+      "EN": "Unknown Lifeform《Rank $v(#6464+1)》appeared.",
+      "Translation": "Unknown Lifeform《Rank $v(#6464+1)》appeared."
+    },
+    {
+      "JP": "４《$V(#6465+1)位》が現れた。",
+      "EN": "Other 4《Rank $v(#6465+1)》appeared.",
+      "Translation": "Other 4《Rank $v(#6465+1)》appeared."
+    },
+    {
+      "JP": "恭介@「武器には様々な攻撃特性がある。出来るだけ有利な武器で戦いたいもんだな」",
+      "EN": "`Kyousuke@❝Different weapons have different attack types. You should use the most effective weapon whenever possible.❞ ",
+      "Translation": "`Kyousuke@❝Different weapons have different attack types. You should use the most effective weapon whenever possible.❞ "
+    },
+    {
+      "JP": "恭介@「武器は使い込んでいるか？　武器には攻撃回数の範囲がある。使い込んでいくと攻撃回数の上限も上がっていくぞ」",
+      "EN": "`Kyousuke@❝Are you using your weapons regularly? Every weapon has a limited number of attacks. You can raise the limit by using a particular weapon for a while.❞",
+      "Translation": "`Kyousuke@❝Are you using your weapons regularly? Every weapon has a limited number of attacks. You can raise the limit by using a particular weapon for a while.❞"
+    },
+    {
+      "JP": "恭介@「手にした武器によっては、非力な者でも一瞬で強敵に変わる。油断はするな」",
+      "EN": "`Kyousuke@❝No matter how weak someone is, they can turn into a tough opponent once they get their hands on a weapon. Don't let your guard down.❞",
+      "Translation": "`Kyousuke@❝No matter how weak someone is, they can turn into a tough opponent once they get their hands on a weapon. Don't let your guard down.❞"
+    },
+    {
+      "JP": "恭介@「持ち物には能力アップやヒットポイント回復など色々な効果があり、発動するタイミングも様々だ。中には能力がダウンしてしまうものもある。気をつけろ」",
+      "EN": "`Kyousuke@❝Items may have different effects like increasing your skills, or restoring your HP; they're all activated at different times. Some items may decrease your skills, so watch out.❞",
+      "Translation": "`Kyousuke@❝Items may have different effects like increasing your skills, or restoring your HP; they're all activated at different times. Some items may decrease your skills, so watch out.❞"
+    },
+    {
+      "JP": "恭介@「武器には様々な攻撃特性がある。特性が同じなら、違う武器で覚えたコツも引き継がれる。同じ特性の武器を使い続ければ非常に有効だな」",
+      "EN": "`Kyousuke@❝Weapons have different types. If you master one, it will affect others of the same type. By using many weapons of the same type, you'll become better with them.❞",
+      "Translation": "`Kyousuke@❝Weapons have different types. If you master one, it will affect others of the same type. By using many weapons of the same type, you'll become better with them.❞"
+    },
+    {
+      "JP": "恭介@「相手が攻撃をミスしたときや、相手の攻撃を受け止めたときは反撃のチャンスだ。反撃でさらにクリティカルが決まった時は最高に気持ちいいぜ」",
+      "EN": "`Kyousuke@❝When your opponent misses or you successfully stop their attack, you get a chance to counter-attack. It's the best feeling when you manage to land a critical hit from that.❞",
+      "Translation": "`Kyousuke@❝When your opponent misses or you successfully stop their attack, you get a chance to counter-attack. It's the best feeling when you manage to land a critical hit from that.❞"
+    },
+    {
+      "JP": "恭介@「武器には、使用者の腕力からダメージを引き出すものと、その武器が持つ攻撃力からダメージを算出する、ふたつがあるぞ」",
+      "EN": "`Kyousuke@❝The damage is calculated based on the weapon's attack, and the physical strength of the user.❞",
+      "Translation": "`Kyousuke@❝The damage is calculated based on the weapon's attack, and the physical strength of the user.❞"
+    },
+    {
+      "JP": "恭介@「攻撃回数の上限がたくさん上がる、ポテンシャルを秘めた武器を探して鍛えていくのも有効だ」",
+      "EN": "`Kyousuke@❝The number of attacks for every weapon can grow substantially, so it's effective to use a weapon with hidden potential.❞",
+      "Translation": "`Kyousuke@❝The number of attacks for every weapon can grow substantially, so it's effective to use a weapon with hidden potential.❞"
+    },
+    {
+      "JP": "う言い残して、恭介は立ち去った。",
+      "EN": "Kyousuke left me with these words.",
+      "Translation": "Kyousuke left me with these words."
+    },
+    {
+      "JP": "は立ち去った。",
+      "EN": "Rin leaves.",
+      "Translation": "Rin leaves."
+    },
+    {
+      "JP": "毬は立ち去った。",
+      "EN": "Komari leaves.",
+      "Translation": "Komari leaves."
+    },
+    {
+      "JP": "ヶ谷は立ち去った。",
+      "EN": "Kurugaya leaves.",
+      "Translation": "Kurugaya leaves."
+    },
+    {
+      "JP": "ドは立ち去った。",
+      "EN": "Kud leaves.",
+      "Translation": "Kud leaves."
+    },
+    {
+      "JP": "留佳は立ち去った。",
+      "EN": "Haruka leaves.",
+      "Translation": "Haruka leaves."
+    },
+    {
+      "JP": "魚は立ち去った。",
+      "EN": "Mio leaves.",
+      "Translation": "Mio leaves."
+    },
+    {
+      "JP": "樹は立ち去った。",
+      "EN": "Riki leaves.",
+      "Translation": "Riki leaves."
+    },
+    {
+      "JP": "人は立ち去った。",
+      "EN": "Masato leaves.",
+      "Translation": "Masato leaves."
+    },
+    {
+      "JP": "吾は立ち去った。",
+      "EN": "Kengo leaves.",
+      "Translation": "Kengo leaves."
+    },
+    {
+      "JP": "介は立ち去った。",
+      "EN": "Kyousuke leaves.",
+      "Translation": "Kyousuke leaves."
+    },
+    {
+      "JP": "スクザ斉藤は立ち去った。",
+      "EN": "Mask the Saito leaves.",
+      "Translation": "Mask the Saito leaves."
+    },
+    {
+      "JP": "々美は立ち去った。",
+      "EN": "Sasami leaves.",
+      "Translation": "Sasami leaves."
+    },
+    {
+      "JP": "フト部員は立ち去った。",
+      "EN": "Club Member leaves.",
+      "Translation": "Club Member leaves."
+    },
+    {
+      "JP": "の生命体は立ち去った。",
+      "EN": "Unknown Lifeform leaves.",
+      "Translation": "Unknown Lifeform leaves."
+    },
+    {
+      "JP": "４は立ち去った。",
+      "EN": "Other 4 leaves.",
+      "Translation": "Other 4 leaves."
+    },
+    {
+      "JP": "は立ち去った。",
+      "EN": "Rin leaves.",
+      "Translation": "Rin leaves."
+    },
+    {
+      "JP": "毬は立ち去った。",
+      "EN": "Komari leaves.",
+      "Translation": "Komari leaves."
+    },
+    {
+      "JP": "ヶ谷は立ち去った。",
+      "EN": "Kurugaya leaves.",
+      "Translation": "Kurugaya leaves."
+    },
+    {
+      "JP": "ドは立ち去った。",
+      "EN": "Kud leaves.",
+      "Translation": "Kud leaves."
+    },
+    {
+      "JP": "留佳は立ち去った。",
+      "EN": "Haruka leaves.",
+      "Translation": "Haruka leaves."
+    },
+    {
+      "JP": "魚は立ち去った。",
+      "EN": "Mio leaves.",
+      "Translation": "Mio leaves."
+    },
+    {
+      "JP": "樹は立ち去った。",
+      "EN": "Riki leaves.",
+      "Translation": "Riki leaves."
+    },
+    {
+      "JP": "人は立ち去った。",
+      "EN": "Masato leaves.",
+      "Translation": "Masato leaves."
+    },
+    {
+      "JP": "吾は立ち去った。",
+      "EN": "Kengo leaves.",
+      "Translation": "Kengo leaves."
+    },
+    {
+      "JP": "介は立ち去った。",
+      "EN": "Kyousuke leaves.",
+      "Translation": "Kyousuke leaves."
+    },
+    {
+      "JP": "スクザ斉藤は立ち去った。",
+      "EN": "Mask the Saito leaves.",
+      "Translation": "Mask the Saito leaves."
+    },
+    {
+      "JP": "々美は立ち去った。",
+      "EN": "Sasami leaves.",
+      "Translation": "Sasami leaves."
+    },
+    {
+      "JP": "フト部員は立ち去った。",
+      "EN": "Club Member leaves.",
+      "Translation": "Club Member leaves."
+    },
+    {
+      "JP": "の生命体は立ち去った。",
+      "EN": "Unknown Lifeform leaves.",
+      "Translation": "Unknown Lifeform leaves."
+    },
+    {
+      "JP": "４は立ち去った。",
+      "EN": "Other 4 leaves.",
+      "Translation": "Other 4 leaves."
+    },
+    {
+      "JP": "は立ち去った。",
+      "EN": "Rin leaves.",
+      "Translation": "Rin leaves."
+    },
+    {
+      "JP": "毬は立ち去った。",
+      "EN": "Komari leaves.",
+      "Translation": "Komari leaves."
+    },
+    {
+      "JP": "ヶ谷は立ち去った。",
+      "EN": "Kurugaya leaves.",
+      "Translation": "Kurugaya leaves."
+    },
+    {
+      "JP": "ドは立ち去った。",
+      "EN": "Kud leaves.",
+      "Translation": "Kud leaves."
+    },
+    {
+      "JP": "留佳は立ち去った。",
+      "EN": "Haruka leaves.",
+      "Translation": "Haruka leaves."
+    },
+    {
+      "JP": "魚は立ち去った。",
+      "EN": "Mio leaves.",
+      "Translation": "Mio leaves."
+    },
+    {
+      "JP": "樹は立ち去った。",
+      "EN": "Riki leaves.",
+      "Translation": "Riki leaves."
+    },
+    {
+      "JP": "人は立ち去った。",
+      "EN": "Masato leaves.",
+      "Translation": "Masato leaves."
+    },
+    {
+      "JP": "吾は立ち去った。",
+      "EN": "Kengo leaves.",
+      "Translation": "Kengo leaves."
+    },
+    {
+      "JP": "介は立ち去った。",
+      "EN": "Kyousuke leaves.",
+      "Translation": "Kyousuke leaves."
+    },
+    {
+      "JP": "スクザ斉藤は立ち去った。",
+      "EN": "Mask the Saito leaves.",
+      "Translation": "Mask the Saito leaves."
+    },
+    {
+      "JP": "々美は立ち去った。",
+      "EN": "Sasami leaves.",
+      "Translation": "Sasami leaves."
+    },
+    {
+      "JP": "フト部員は立ち去った。",
+      "EN": "Club Member leaves.",
+      "Translation": "Club Member leaves."
+    },
+    {
+      "JP": "の生命体は立ち去った。",
+      "EN": "Unknown Lifeform leaves.",
+      "Translation": "Unknown Lifeform leaves."
+    },
+    {
+      "JP": "４は立ち去った。",
+      "EN": "Other 4 leaves.",
+      "Translation": "Other 4 leaves."
+    },
+    {
+      "JP": "ルルルル…　ブルルルル…",
+      "EN": "Bururururu... Bururururu...",
+      "Translation": "Bururururu... Bururururu..."
+    },
+    {
+      "JP": "(5,0)で$(3,0)《$V(#6451[#6136[#6153]]+1)位》と$(4,0)《$V(#6451[#6139[#6153]]+1)位》のバトルが勃発したようだ。",
+      "EN": "A battle is about to begin between $(3,1)《Rank $v(#6451[#6136[#6153]]+1)》and $(4,1)《Rank $v(#6451[#6139[#6153]]+1)》$(5,1).",
+      "Translation": "A battle is about to begin between $(3,1)《Rank $v(#6451[#6136[#6153]]+1)》and $(4,1)《Rank $v(#6451[#6139[#6153]]+1)》$(5,1)."
+    },
+    {
+      "JP": "味のあるカードだ。見にいこう。",
+      "EN": "This matchup interests me. I'll check it out. ",
+      "Translation": "This matchup interests me. I'll check it out. "
+    },
+    {
+      "JP": "のカードは結果だけ聞いておけばいいか。",
+      "EN": "It's enough to hear the results of this matchup. ",
+      "Translation": "It's enough to hear the results of this matchup. "
+    },
+    {
+      "JP": "だ時間はあるようだけど、どうしよう？",
+      "EN": "I still have some time to kill, what should I do...?",
+      "Translation": "I still have some time to kill, what should I do...?"
+    },
+    {
+      "JP": "ぅ…さすらうのはこのぐらいにして教室に戻ろう。",
+      "EN": "Phew... I guess I'll head back to class.",
+      "Translation": "Phew... I guess I'll head back to class."
+    },
+    {
+      "JP": "ぅ…さすらうのはこのぐらいにして戻ろう。",
+      "EN": "Phew... I guess this is enough wandering about.",
+      "Translation": "Phew... I guess this is enough wandering about."
+    },
+    {
+      "JP": "ぅ…部屋に戻ろう。",
+      "EN": "Phew... I'll head back to my room.",
+      "Translation": "Phew... I'll head back to my room."
+    }
+  ]
+}

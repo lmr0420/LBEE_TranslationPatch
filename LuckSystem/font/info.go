@@ -204,7 +204,7 @@ func (i *Info) SetChars(fontFile io.Reader, allChar string, startIndex int, reDr
 			i.UnicodeIndex[char] = uint16(index)
 			i.IndexUnicode[index] = char
 			_, advance, ok := i.FontFace.GlyphBounds(char)
-			//bounds, advance, ok := i.FontFace.GlyphBounds(char)
+			// bounds, advance, ok := i.FontFace.GlyphBounds(char)
 
 			if !ok {
 				glog.Fatalf("字体文件中不存在的字符 %v %v\n", string(char), index)
@@ -216,9 +216,9 @@ func (i *Info) SetChars(fontFile io.Reader, allChar string, startIndex int, reDr
 			if char == 32 || w == 0 {
 				w = uint8(i.FontSize)
 			}
-			// i.DrawSize[index].X = uint8(bounds.Min.X.Floor())
+			//i.DrawSize[index].X = uint8(bounds.Min.X.Floor())
 			i.DrawSize[index].W = w
-			// i.DrawSize[index].Y = uint8(bounds.Min.Y.Floor())
+			//i.DrawSize[index].Y = uint8(bounds.Min.Y.Floor())
 			i.UnicodeSize[char].W = w
 
 		}

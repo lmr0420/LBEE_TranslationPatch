@@ -1,14 +1,15 @@
 /*
 Copyright © 2022 NAME HERE <EMAIL ADDRESS>
-
 */
 package cmd
 
 import (
 	"fmt"
-	"github.com/golang/glog"
+	"image/png"
 	"lucksystem/font"
 	"os"
+
+	"github.com/golang/glog"
 
 	"github.com/spf13/cobra"
 )
@@ -49,10 +50,15 @@ var fontEditCmd = &cobra.Command{
 				glog.Fatalln(err)
 			}
 		}
-		err = f.Write(out, outInfo)
-		if err != nil {
-			glog.Fatalln(err)
-		}
+
+		f.Info.Write(outInfo)
+		png.Encode(out, f.Image)
+
+		/*
+			err = f.Write(out, outInfo)
+			if err != nil {
+				glog.Fatalln(err)
+			}*/
 
 	},
 }

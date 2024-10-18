@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
 
 namespace LBEE_TranslationPatch
 {
@@ -22,9 +23,20 @@ namespace LBEE_TranslationPatch
             { 0x1F, MESSAGE_SET }
         };
 
-        public static Dictionary<byte, string> InstructionNameMapping = new Dictionary<byte, string>
+        public static Dictionary<byte, Func<List<LucaCommand>, int, LucaCommand[]?>> AssignCmdMapping = new ()
         {
-            { 0x1F, "MESSAGE" }
+            { 14, TAIL4Ptr_ASSIGN_CMD },    // GOTO
+            { 16, TAIL4Ptr_ASSIGN_CMD },    // GOSUB
+            { 17, TAIL4Ptr_ASSIGN_CMD },    // IFY
+            { 18, TAIL4Ptr_ASSIGN_CMD }     // IFN
+        };
+
+        public static Dictionary<byte, Action<LucaCommand,LucaCommand[]>> FixPtrMapping = new()
+        {
+            { 14, TAIL4Ptr_FIX_PTR },
+            { 16, TAIL4Ptr_FIX_PTR },
+            { 17, TAIL4Ptr_FIX_PTR },
+            { 18, TAIL4Ptr_FIX_PTR } 
         };
 
         public static JObject? MESSAGE_GET(byte[] command)
@@ -96,6 +108,50 @@ namespace LBEE_TranslationPatch
 
             // 不需要修正指令长度，交由上层修复
             return newCommand.ToArray();
+        }
+
+        public static int LittleEndian2Int(byte[] InBytes)
+        {
+            int result = 0;
+            for (int i = 0; i < 4; i++)
+            {
+                result |= InBytes[i] << (8 * i);
+            }
+            return result;
+        }
+
+        public static void Int2LittleEndian(byte[] InBytes, int Offset, int Value)
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                InBytes[Offset + i] = (byte)((Value >> (8 * i)) & 0xFF);
+            }
+        }
+
+        public static LucaCommand[]? TAIL4Ptr_ASSIGN_CMD(List<LucaCommand> InAllCommands,int CmdIndex)
+        {
+            var CurCmd = InAllCommands[CmdIndex];
+            if(CurCmd.Command==null)
+            {
+                return null;
+            }
+            int TargetCmdPtr = LittleEndian2Int(CurCmd.Command[^4..]);
+            for (int i = 0; i < InAllCommands.Count; i++)
+            {
+                if (InAllCommands[i].CmdPtr == TargetCmdPtr)
+                {
+                    return new LucaCommand[] { InAllCommands[i] };
+                }
+            }
+            return null;
+        }
+
+        public static void TAIL4Ptr_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
+        {
+            if (CurCmd.Command != null && InCommands.Length>0)
+            {
+                Int2LittleEndian(CurCmd.Command, CurCmd.Command.Length - 4, InCommands[0].CmdPtr);
+            }
         }
     }
 

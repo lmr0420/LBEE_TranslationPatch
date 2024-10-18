@@ -105,7 +105,7 @@ namespace TextMapper
                     string PendingReplace = TextLines[i];
                     if (TextLines[i].Contains("「") && TextLines[i].IndexOf('「') != 0 && !TextLines[i].StartsWith("`"))
                     {
-                        PendingReplace ="'"+PendingReplace.Insert(TextLines[i].IndexOf('「'),"@");
+                        PendingReplace ="`"+PendingReplace.Insert(TextLines[i].IndexOf('「'),"@");
                     }
                     TrasnlateTextObj["Translation"] = PendingReplace;
                 }

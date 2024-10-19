@@ -1,52 +1,52 @@
 {
   "MESSAGE": [
     {
-      "JP": "番バッター、$(6,0)",
+      "JP": "１番バッター、$(6,0)",
       "EN": "1st Batter, $(6,1).",
       "Translation": "1st Batter, $(6,1)."
     },
     {
-      "JP": "番バッター、$(6,0)",
+      "JP": "２番バッター、$(6,0)",
       "EN": "2nd Batter, $(6,1).",
       "Translation": "2nd Batter, $(6,1)."
     },
     {
-      "JP": "番バッター、$(6,0)",
+      "JP": "３番バッター、$(6,0)",
       "EN": "3rd Batter, $(6,1).",
       "Translation": "3rd Batter, $(6,1)."
     },
     {
-      "JP": "番バッター、$(6,0)",
+      "JP": "４番バッター、$(6,0)",
       "EN": "4th Batter, $(6,1).",
       "Translation": "4th Batter, $(6,1)."
     },
     {
-      "JP": "番バッター、$(6,0)",
+      "JP": "５番バッター、$(6,0)",
       "EN": "5th Batter, $(6,1).",
       "Translation": "5th Batter, $(6,1)."
     },
     {
-      "JP": "番バッター、$(6,0)",
+      "JP": "６番バッター、$(6,0)",
       "EN": "6th Batter, $(6,1).",
       "Translation": "6th Batter, $(6,1)."
     },
     {
-      "JP": "番バッター、$(6,0)",
+      "JP": "７番バッター、$(6,0)",
       "EN": "7th Batter, $(6,1).",
       "Translation": "7th Batter, $(6,1)."
     },
     {
-      "JP": "番バッター、$(6,0)",
+      "JP": "８番バッター、$(6,0)",
       "EN": "8th Batter, $(6,1).",
       "Translation": "8th Batter, $(6,1)."
     },
     {
-      "JP": "番バッター、$(6,0)",
+      "JP": "９番バッター、$(6,0)",
       "EN": "9th Batter, $(6,1).",
       "Translation": "9th Batter, $(6,1)."
     },
     {
-      "JP": "ッチャー$(6,0)、第$V(#6240+1)球を――",
+      "JP": "ピッチャー$(6,0)、第$V(#6240+1)球を――",
       "EN": "Pitcher is $(6,1), pitch no.$v(#6240+1)――",
       "Translation": "Pitcher is $(6,1), pitch no.$v(#6240+1)――"
     }

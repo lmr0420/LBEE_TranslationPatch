@@ -1,679 +1,680 @@
 {
   "MESSAGE": [
     {
-      "JP": "女は、布をかぶせた大きな『何か』を足下に置いていた。",
+      "JP": "彼女は、布をかぶせた大きな『何か』を足下に置いていた。",
       "EN": "She had ❛something❜ big at her feet, covered with a cloth.",
       "Translation": "She had ❛something❜ big at her feet, covered with a cloth."
     },
     {
-      "JP": "理樹@「なに、それ」",
+      "JP": "`理樹@「なに、それ」",
       "EN": "`Riki@❝What's that?❞",
       "Translation": "`Riki@❝What's that?❞"
     },
     {
-      "JP": "$(1,0)@「秘密兵器」",
+      "JP": "`$(1,0)@「秘密兵器」",
       "EN": "`$(1,1)@ ❝A secret weapon.❞",
       "Translation": "`$(1,1)@ ❝A secret weapon.❞"
     },
     {
-      "JP": "$(1,0)@「運ぶの手伝ってくれる？」",
+      "JP": "`$(1,0)@「運ぶの手伝ってくれる？」",
       "EN": "`$(1,1)@ ❝Do you want to help carry it?❞",
       "Translation": "`$(1,1)@ ❝Do you want to help carry it?❞"
     },
     {
-      "JP": "い…。",
+      "JP": "重い…。",
       "EN": "So heavy...",
       "Translation": "So heavy..."
     },
     {
-      "JP": "ェンスを越え、鬱蒼とした裏山の中に入っていく。",
+      "JP": "フェンスを越え、鬱蒼とした裏山の中に入っていく。",
       "EN": "We crossed the fence, into the dense vegetation in the back of the mountain.",
       "Translation": "We crossed the fence, into the dense vegetation in the back of the mountain."
     },
     {
-      "JP": "$(1,0)@「ここよ」",
+      "JP": "`$(1,0)@「ここよ」",
       "EN": "`$(1,1)@ ❝We're here.❞",
       "Translation": "`$(1,1)@ ❝We're here.❞"
     },
     {
-      "JP": "を止め、僕に振り返った。",
+      "JP": "足を止め、僕に振り返った。",
       "EN": "She stopped, turning back at me.",
       "Translation": "She stopped, turning back at me."
     },
     {
-      "JP": "こはぽっかりと空いた広場だった。",
+      "JP": "そこはぽっかりと空いた広場だった。",
       "EN": "There was a wide plot of empty land.",
       "Translation": "There was a wide plot of empty land."
     },
     {
-      "JP": "$(1,0)@「対策を考えたの」",
+      "JP": "`$(1,0)@「対策を考えたの」",
       "EN": "`$(1,1)@ ❝I came up with a plan.❞",
       "Translation": "`$(1,1)@ ❝I came up with a plan.❞"
     },
     {
-      "JP": "$(1,0)@「地下に降り立ったと同時に、ふたりがかりでこれを使って敵を一瞬にして殲滅する」",
+      "JP": "`$(1,0)@「地下に降り立ったと同時に、ふたりがかりでこれを使って敵を一瞬にして殲滅する」",
       "EN": "`$(1,1)@ ❝When we descend, we'll use this to wipe out all the enemies at once.❞",
       "Translation": "`$(1,1)@ ❝When we descend, we'll use this to wipe out all the enemies at once.❞"
     },
     {
-      "JP": "面に下ろしたそれの布をばさりと取り去った。",
+      "JP": "地面に下ろしたそれの布をばさりと取り去った。",
       "EN": "She lowered it to the ground with a thud, and removed the cover.",
       "Translation": "She lowered it to the ground with a thud, and removed the cover."
     },
     {
-      "JP": "れたのは見たこともない巨大な銃。",
+      "JP": "現れたのは見たこともない巨大な銃。",
       "EN": "What appeared was a huge gun I've never seen the likes of before.",
       "Translation": "What appeared was a huge gun I've never seen the likes of before."
     },
     {
-      "JP": "$(1,0)@「あたしが知りえる最強の銃、Ｍ１３４。高速の機関銃」",
+      "JP": "`$(1,0)@「あたしが知りえる最強の銃、Ｍ１３４。高速の機関銃」",
       "EN": "`$(1,1)@ ❝This is the strongest gun I know of, the high speed machine gun M134.❞",
       "Translation": "`$(1,1)@ ❝This is the strongest gun I know of, the high speed machine gun M134.❞"
     },
     {
-      "JP": "$(1,0)@「これなら無敵よ。文字通り瞬殺。相手がどれだけ居たってね」",
+      "JP": "`$(1,0)@「これなら無敵よ。文字通り瞬殺。相手がどれだけ居たってね」",
       "EN": "`$(1,1)@ ❝It is as powerful as it gets. It literally obliterates everyone in your path.❞",
       "Translation": "`$(1,1)@ ❝It is as powerful as it gets. It literally obliterates everyone in your path.❞"
     },
     {
-      "JP": "(1,0)さんは、腰を下ろして、三脚を立てる。",
+      "JP": "$(1,0)さんは、腰を下ろして、三脚を立てる。",
       "EN": "$(1,1)-san sits down and sets up the tripod stand.",
       "Translation": "$(1,1)-san sits down and sets up the tripod stand."
     },
     {
-      "JP": "$(1,0)@「あたしは三脚を抑えつけてるから、理樹くんが撃つほうね」",
+      "JP": "`$(1,0)@「あたしは三脚を抑えつけてるから、理樹くんが撃つほうね」",
       "EN": "`$(1,1)@ ❝I'll hold down the stand, so you fire it, Riki-kun.❞",
       "Translation": "`$(1,1)@ ❝I'll hold down the stand, so you fire it, Riki-kun.❞"
     },
     {
-      "JP": "理樹@「ええっ、こんなの扱えないんだけど…」",
+      "JP": "`理樹@「ええっ、こんなの扱えないんだけど…」",
       "EN": "`Riki@❝Eeh, I can't handle something like this...❞",
       "Translation": "`Riki@❝Eeh, I can't handle something like this...❞"
     },
     {
-      "JP": "$(1,0)@「男の子でしょ。できるできる」",
+      "JP": "`$(1,0)@「男の子でしょ。できるできる」",
       "EN": "`$(1,1)@ ❝You're a boy, aren't you? You can do it.❞",
       "Translation": "`$(1,1)@ ❝You're a boy, aren't you? You can do it.❞"
     },
     {
-      "JP": "$(1,0)@「まー注意深く、日常の変化の機微を捉えられない理樹くんには無理っかな～」",
+      "JP": "`$(1,0)@「まー注意深く、日常の変化の機微を捉えられない理樹くんには無理っかな～」",
       "EN": "`$(1,1)@ ❝Well, I guess the careful Riki-kun, unable to grasp subtle changes in his everyday life, can't do it after all～.❞",
       "Translation": "`$(1,1)@ ❝Well, I guess the careful Riki-kun, unable to grasp subtle changes in his everyday life, can't do it after all～.❞"
     },
     {
-      "JP": "んのことかはわからないが、馬鹿にされているようだ。",
+      "JP": "なんのことかはわからないが、馬鹿にされているようだ。",
       "EN": "I didn't really get it, but she seemed to be making fun of me.",
       "Translation": "I didn't really get it, but she seemed to be making fun of me."
     },
     {
-      "JP": "理樹@「やるよ」",
+      "JP": "`理樹@「やるよ」",
       "EN": "`Riki@❝I'll do it.❞",
       "Translation": "`Riki@❝I'll do it.❞"
     },
     {
-      "JP": "方なくそう答えた。",
+      "JP": "仕方なくそう答えた。",
       "EN": "I couldn't help myself.",
       "Translation": "I couldn't help myself."
     },
     {
-      "JP": "$(1,0)@「男の子でしょ。できるできる」",
+      "JP": "`$(1,0)@「男の子でしょ。できるできる」",
       "EN": "`$(1,1)@ ❝You're a boy, aren't you? You can do it.❞",
       "Translation": "`$(1,1)@ ❝You're a boy, aren't you? You can do it.❞"
     },
     {
-      "JP": "$(1,0)@「いやでも、まー、さっきはキスさえできなかったお子様だから無理っかな～」",
+      "JP": "`$(1,0)@「いやでも、まー、さっきはキスさえできなかったお子様だから無理っかな～」",
       "EN": "`$(1,1)@ ❝Wait, but, well, the boy who couldn't even kiss probably can't do it, after all～.❞",
       "Translation": "`$(1,1)@ ❝Wait, but, well, the boy who couldn't even kiss probably can't do it, after all～.❞"
     },
     {
-      "JP": "に持たれてるようだった。",
+      "JP": "根に持たれてるようだった。",
       "EN": "It seems she held a grudge about that.",
       "Translation": "It seems she held a grudge about that."
     },
     {
-      "JP": "理樹@「やるよ」",
+      "JP": "`理樹@「やるよ」",
       "EN": "`Riki@❝I'll do it.❞",
       "Translation": "`Riki@❝I'll do it.❞"
     },
     {
-      "JP": "方なくそう答える。それ以外、何を言っても茶化され続ける気がしたから。",
+      "JP": "仕方なくそう答える。それ以外、何を言っても茶化され続ける気がしたから。",
       "EN": "I couldn't help myself. I felt if I said anything other than that, I'll just get laughed off.",
       "Translation": "I couldn't help myself. I felt if I said anything other than that, I'll just get laughed off."
     },
     {
-      "JP": "$(1,0)@「男の子でしょ。ほら、さっきはあんなに勇猛果敢だったじゃない」",
+      "JP": "`$(1,0)@「男の子でしょ。ほら、さっきはあんなに勇猛果敢だったじゃない」",
       "EN": "`$(1,1)@ ❝You're a boy, aren't you? See, you were so courageous just now, weren't you?❞",
       "Translation": "`$(1,1)@ ❝You're a boy, aren't you? See, you were so courageous just now, weren't you?❞"
     },
     {
-      "JP": "理樹@「そうかもしれないけど…って、うわ、そんな恥ずかしいこと言わないでよっ…」",
+      "JP": "`理樹@「そうかもしれないけど…って、うわ、そんな恥ずかしいこと言わないでよっ…」",
       "EN": "`Riki@❝That may be true, but... don't say such embarrassing things...❞",
       "Translation": "`Riki@❝That may be true, but... don't say such embarrassing things...❞"
     },
     {
-      "JP": "$(1,0)@「うん、あたしも言ってて恥ずかしくなってきた…」",
+      "JP": "`$(1,0)@「うん、あたしも言ってて恥ずかしくなってきた…」",
       "EN": "`$(1,1)@ ❝Yeah, I'm becoming embarrassed saying it, too...❞",
       "Translation": "`$(1,1)@ ❝Yeah, I'm becoming embarrassed saying it, too...❞"
     },
     {
-      "JP": "$(1,0)@「うあぁっ、もう邪念は取っ払う！　今は戦うことしか考えない！　切り替えが大事なのよ、わかってんの!?」",
+      "JP": "`$(1,0)@「うあぁっ、もう邪念は取っ払う！　今は戦うことしか考えない！　切り替えが大事なのよ、わかってんの!?」",
       "EN": "`$(1,1)@ ❝Uwa, go away, evil thoughts! We need to focus on the battle now! Get over it already, will you?!❞",
       "Translation": "`$(1,1)@ ❝Uwa, go away, evil thoughts! We need to focus on the battle now! Get over it already, will you?!❞"
     },
     {
-      "JP": "理樹@「言い出したの、$(1,0)さんからなんだけど…」",
+      "JP": "`理樹@「言い出したの、$(1,0)さんからなんだけど…」",
       "EN": "`Riki@❝But you're the one who brought it up, $(1,1)-san...❞",
       "Translation": "`Riki@❝But you're the one who brought it up, $(1,1)-san...❞"
     },
     {
-      "JP": "$(1,0)@「そうだったぁぁぁーっ！　ばかばかばかーーーっ!!　消えろ、消えろ、消えろーーーっ!!」",
+      "JP": "`$(1,0)@「そうだったぁぁぁーっ！　ばかばかばかーーーっ!!　消えろ、消えろ、消えろーーーっ!!」",
       "EN": "`$(1,1)@ ❝You're right!! Stupid, stupid!! Go away, go away, go away--!!❞",
       "Translation": "`$(1,1)@ ❝You're right!! Stupid, stupid!! Go away, go away, go away--!!❞"
     },
     {
-      "JP": "$(1,0)@「いや、それじゃ切なすぎるから胸の一番奥に秘めた大切な思い出になれええぇぇーーっ！」",
+      "JP": "`$(1,0)@「いや、それじゃ切なすぎるから胸の一番奥に秘めた大切な思い出になれええぇぇーーっ！」",
       "EN": "`$(1,1)@ ❝No, that'd be too sad, so become a precious memory hidden in the deepest corneeeer!!❞",
       "Translation": "`$(1,1)@ ❝No, that'd be too sad, so become a precious memory hidden in the deepest corneeeer!!❞"
     },
     {
-      "JP": "$(1,0)@「はぁ…はぁ…説明する前に疲れた」",
+      "JP": "`$(1,0)@「はぁ…はぁ…説明する前に疲れた」",
       "EN": "`$(1,1)@ ❝Haa... haa... I've exhausted myself before even explaining...❞",
       "Translation": "`$(1,1)@ ❝Haa... haa... I've exhausted myself before even explaining...❞"
     },
     {
-      "JP": "理樹@「そうみたいだね…」",
+      "JP": "`理樹@「そうみたいだね…」",
       "EN": "`Riki@❝It seems so...❞",
       "Translation": "`Riki@❝It seems so...❞"
     },
     {
-      "JP": "$(1,0)@「つまり…理樹くんが撃つのよ、さぁどーぞ…」",
+      "JP": "`$(1,0)@「つまり…理樹くんが撃つのよ、さぁどーぞ…」",
       "EN": "`$(1,1)@ ❝In other words, you'll be shooting, here, take it...❞",
       "Translation": "`$(1,1)@ ❝In other words, you'll be shooting, here, take it...❞"
     },
     {
-      "JP": "理樹@「すごくばててるね…」",
+      "JP": "`理樹@「すごくばててるね…」",
       "EN": "`Riki@❝You look exhausted...❞",
       "Translation": "`Riki@❝You look exhausted...❞"
     },
     {
-      "JP": "$(1,0)@「準備はいい？」",
+      "JP": "`$(1,0)@「準備はいい？」",
       "EN": "`$(1,1)@ ❝Are you ready?❞",
       "Translation": "`$(1,1)@ ❝Are you ready?❞"
     },
     {
-      "JP": "(1,0)さんは三脚にしがみ付いて、銃を支えている。",
+      "JP": "$(1,0)さんは三脚にしがみ付いて、銃を支えている。",
       "EN": "$(1,1)-san clung to the tripod, supporting the gun.",
       "Translation": "$(1,1)-san clung to the tripod, supporting the gun."
     },
     {
-      "JP": "理樹@「…そんな体勢で大丈夫なの？」",
+      "JP": "`理樹@「…そんな体勢で大丈夫なの？」",
       "EN": "`Riki@❝...are you all right holding onto it like that?❞",
       "Translation": "`Riki@❝...are you all right holding onto it like that?❞"
     },
     {
-      "JP": "$(1,0)@「こうでもしないとまっすぐ飛ばないわよ」",
+      "JP": "`$(1,0)@「こうでもしないとまっすぐ飛ばないわよ」",
       "EN": "`$(1,1)@ ❝If I don't do this, it won't shoot straight.❞",
       "Translation": "`$(1,1)@ ❝If I don't do this, it won't shoot straight.❞"
     },
     {
-      "JP": "$(1,0)@「理樹くんは、両手でグリップを上に持ち上げるように支えて」",
+      "JP": "`$(1,0)@「理樹くんは、両手でグリップを上に持ち上げるように支えて」",
       "EN": "`$(1,1)@ ❝Riki-kun, grip it with both hands and lift it up.❞",
       "Translation": "`$(1,1)@ ❝Riki-kun, grip it with both hands and lift it up.❞"
     },
     {
-      "JP": "理樹@「こう？」",
+      "JP": "`理樹@「こう？」",
       "EN": "`Riki@❝Like this?❞",
       "Translation": "`Riki@❝Like this?❞"
     },
     {
-      "JP": "部の端についているグリップを持ち上げようとすると、自然と銃口が下がる。",
+      "JP": "後部の端についているグリップを持ち上げようとすると、自然と銃口が下がる。",
       "EN": "When I grabbed the tail end of the gun and raised it, the muzzle naturally tilted down.",
       "Translation": "When I grabbed the tail end of the gun and raised it, the muzzle naturally tilted down."
     },
     {
-      "JP": "$(1,0)@「そう、そのままの体勢で腕と肩を固定して、右手側にあるボタンを押して」",
+      "JP": "`$(1,0)@「そう、そのままの体勢で腕と肩を固定して、右手側にあるボタンを押して」",
       "EN": "`$(1,1)@ ❝Right, stay like that, and stabilize it using your arm and shoulder, then push the button on the right side.❞",
       "Translation": "`$(1,1)@ ❝Right, stay like that, and stabilize it using your arm and shoulder, then push the button on the right side.❞"
     },
     {
-      "JP": "のままでは仕方ないので、とりあえず押してみることにしたが…。",
+      "JP": "このままでは仕方ないので、とりあえず押してみることにしたが…。",
       "EN": "I wouldn't learn anything by just sitting here, so I tried pushing the button...",
       "Translation": "I wouldn't learn anything by just sitting here, so I tried pushing the button..."
     },
     {
-      "JP": "音と銃口から放たれた閃光。",
+      "JP": "轟音と銃口から放たれた閃光。",
       "EN": "The muzzle released a flash with a thunderous sound.",
       "Translation": "The muzzle released a flash with a thunderous sound."
     },
     {
-      "JP": "動で銃口はあらぬ方向へと向いてしまった。",
+      "JP": "反動で銃口はあらぬ方向へと向いてしまった。",
       "EN": "The recoil shot the muzzle back in the opposite direction.",
       "Translation": "The recoil shot the muzzle back in the opposite direction."
     },
     {
-      "JP": "$(1,0)@「だから持ち上げるようにって言ったのに」",
+      "JP": "`$(1,0)@「だから持ち上げるようにって言ったのに」",
       "EN": "`$(1,1)@ ❝I told you to lift it up.❞",
       "Translation": "`$(1,1)@ ❝I told you to lift it up.❞"
     },
     {
-      "JP": "理樹@「ごめん…」",
+      "JP": "`理樹@「ごめん…」",
       "EN": "`Riki@❝Sorry...❞",
       "Translation": "`Riki@❝Sorry...❞"
     },
     {
-      "JP": "$(1,0)@「まあ、最初だからこんなもんでしょう」",
+      "JP": "`$(1,0)@「まあ、最初だからこんなもんでしょう」",
       "EN": "`$(1,1)@ ❝Well, that was your first time firing it.❞",
       "Translation": "`$(1,1)@ ❝Well, that was your first time firing it.❞"
     },
     {
-      "JP": "$(1,0)@「じゃ、練習するわよ」",
+      "JP": "`$(1,0)@「じゃ、練習するわよ」",
       "EN": "`$(1,1)@ ❝Let's practice then.❞",
       "Translation": "`$(1,1)@ ❝Let's practice then.❞"
     },
     {
-      "JP": "$(1,0)@「目標は、まっすぐ狙った方向へ発射できることね」",
+      "JP": "`$(1,0)@「目標は、まっすぐ狙った方向へ発射できることね」",
       "EN": "`$(1,1)@ ❝First you need to learn how to shoot in the direction you're aiming.❞",
       "Translation": "`$(1,1)@ ❝First you need to learn how to shoot in the direction you're aiming.❞"
     },
     {
-      "JP": "理樹@「相手を狙わなくていいの？」",
+      "JP": "`理樹@「相手を狙わなくていいの？」",
       "EN": "`Riki@❝Will this work without a target to aim at?❞",
       "Translation": "`Riki@❝Will this work without a target to aim at?❞"
     },
     {
-      "JP": "$(1,0)@「もともとの用途が違うの。面制圧って言って、その狙った先一帯にばら撒くのが目的だから」",
+      "JP": "`$(1,0)@「もともとの用途が違うの。面制圧って言って、その狙った先一帯にばら撒くのが目的だから」",
       "EN": "`$(1,1)@ ❝How this weapon is used is fundamentally different. For suppression, the goal is to spray bullets in the target region.❞",
       "Translation": "`$(1,1)@ ❝How this weapon is used is fundamentally different. For suppression, the goal is to spray bullets in the target region.❞"
     },
     {
-      "JP": "$(1,0)@「半径数メートルくらいなら、数秒で何も動かなくなるわ」",
+      "JP": "`$(1,0)@「半径数メートルくらいなら、数秒で何も動かなくなるわ」",
       "EN": "`$(1,1)@ ❝In an area several meters wide, nothing will be able to move for a few seconds.❞",
       "Translation": "`$(1,1)@ ❝In an area several meters wide, nothing will be able to move for a few seconds.❞"
     },
     {
-      "JP": "$(1,0)@「せめて３秒くらいは持たせられるようになってね」",
+      "JP": "`$(1,0)@「せめて３秒くらいは持たせられるようになってね」",
       "EN": "`$(1,1)@ ❝Try to keep them at bay for at least 3 seconds.❞",
       "Translation": "`$(1,1)@ ❝Try to keep them at bay for at least 3 seconds.❞"
     },
     {
-      "JP": "理樹@「…がんばるよ」",
+      "JP": "`理樹@「…がんばるよ」",
       "EN": "`Riki@❝...I'll try.❞",
       "Translation": "`Riki@❝...I'll try.❞"
     },
     {
-      "JP": "の後は別れて、それぞれの時間を過ごすことにした。",
+      "JP": "その後は別れて、それぞれの時間を過ごすことにした。",
       "EN": "After that we split up and spent time on our own.",
       "Translation": "After that we split up and spent time on our own."
     },
     {
-      "JP": "$(1,0)@「それと、後…」",
+      "JP": "`$(1,0)@「それと、後…」",
       "EN": "`$(1,1)@ ❝And then, after...❞",
       "Translation": "`$(1,1)@ ❝And then, after...❞"
     },
     {
-      "JP": "理樹@「うん？」",
+      "JP": "`理樹@「うん？」",
       "EN": "`Riki@❝Yes?❞",
       "Translation": "`Riki@❝Yes?❞"
     },
     {
-      "JP": "$(1,0)@「放課後、ちょっと付き合ってくれない？」",
+      "JP": "`$(1,0)@「放課後、ちょっと付き合ってくれない？」",
       "EN": "`$(1,1)@ ❝Can you come with me after school for a bit?❞",
       "Translation": "`$(1,1)@ ❝Can you come with me after school for a bit?❞"
     },
     {
-      "JP": "理樹@「いいけど、それも訓練なの？」",
+      "JP": "`理樹@「いいけど、それも訓練なの？」",
       "EN": "`Riki@❝That's fine. Is it training?❞",
       "Translation": "`Riki@❝That's fine. Is it training?❞"
     },
     {
-      "JP": "$(1,0)@「いえ、訓練とは関係なく…」",
+      "JP": "`$(1,0)@「いえ、訓練とは関係なく…」",
       "EN": "`$(1,1)@ ❝No, it's not...❞",
       "Translation": "`$(1,1)@ ❝No, it's not...❞"
     },
     {
-      "JP": "理樹@「へぇ、珍しい」",
+      "JP": "`理樹@「へぇ、珍しい」",
       "EN": "`Riki@❝Huh, that's unusual.❞",
       "Translation": "`Riki@❝Huh, that's unusual.❞"
     },
     {
-      "JP": "$(1,0)@「いや、違うわっ、訓練っ、訓練だから、勘違いしないでっ」",
+      "JP": "`$(1,0)@「いや、違うわっ、訓練っ、訓練だから、勘違いしないでっ」",
       "EN": "`$(1,1)@ ❝No, wait, it's training, definitely training, don't get the wrong idea, okay?!❞",
       "Translation": "`$(1,1)@ ❝No, wait, it's training, definitely training, don't get the wrong idea, okay?!❞"
     },
     {
-      "JP": "理樹@「まあ、どっちでもいいけど…」",
+      "JP": "`理樹@「まあ、どっちでもいいけど…」",
       "EN": "`Riki@❝Well, whichever is fine...❞",
       "Translation": "`Riki@❝Well, whichever is fine...❞"
     },
     {
-      "JP": "$(1,0)@「じゃ、放課後、校門で待ち合わせ」",
+      "JP": "`$(1,0)@「じゃ、放課後、校門で待ち合わせ」",
       "EN": "`$(1,1)@ ❝Let's meet at the school gate after school.❞",
       "Translation": "`$(1,1)@ ❝Let's meet at the school gate after school.❞"
     },
     {
-      "JP": "理樹@「わかった。ＨＲ終わったらすぐいくよ」",
+      "JP": "`理樹@「わかった。ＨＲ終わったらすぐいくよ」",
       "EN": "`Riki@❝Got it. I'll come right after homeroom.❞",
       "Translation": "`Riki@❝Got it. I'll come right after homeroom.❞"
     },
     {
-      "JP": "課後。",
+      "JP": "放課後。",
       "EN": "After school.",
       "Translation": "After school."
     },
     {
-      "JP": "宅する生徒に混じって、校門前を訪れると。",
+      "JP": "帰宅する生徒に混じって、校門前を訪れると。",
       "EN": "I mixed in with the students going home, and headed to the gate.",
       "Translation": "I mixed in with the students going home, and headed to the gate."
     },
     {
-      "JP": "$(1,0)@「………」",
+      "JP": "`$(1,0)@「………」",
       "EN": "`$(1,1)@ ❝......❞",
       "Translation": "`$(1,1)@ ❝......❞"
     },
     {
-      "JP": "でに$(1,0)さんが待っていた。",
+      "JP": "すでに$(1,0)さんが待っていた。",
       "EN": "$(1,1)-san was already waiting there.",
       "Translation": "$(1,1)-san was already waiting there."
     },
     {
-      "JP": "理樹@「ごめん、待たせた？」",
+      "JP": "`理樹@「ごめん、待たせた？」",
       "EN": "`Riki@❝I'm sorry. Did I make you wait?❞",
       "Translation": "`Riki@❝I'm sorry. Did I make you wait?❞"
     },
     {
-      "JP": "$(1,0)@「そうでもないわ…今来たとこよ」",
+      "JP": "`$(1,0)@「そうでもないわ…今来たとこよ」",
       "EN": "`$(1,1)@ ❝Not really... I just got here.❞",
       "Translation": "`$(1,1)@ ❝Not really... I just got here.❞"
     },
     {
-      "JP": "理樹@「あ、そ。よかった」",
+      "JP": "`理樹@「あ、そ。よかった」",
       "EN": "`Riki@❝Ah, I see. That's good.❞",
       "Translation": "`Riki@❝Ah, I see. That's good.❞"
     },
     {
-      "JP": "$(1,0)@「のんきに何がよかったよ、走って駆けつけるぐらいしなさいよ。もう、ぃやっほーーーーぅ！　ぐらいの勢いで」",
+      "JP": "`$(1,0)@「のんきに何がよかったよ、走って駆けつけるぐらいしなさいよ。もう、ぃやっほーーーーぅ！　ぐらいの勢いで」",
       "EN": "`$(1,1)@ ❝That's all you've got to say? I was expecting you to come running here going ❛Yaahooo!❜ on the way.❞",
       "Translation": "`$(1,1)@ ❝That's all you've got to say? I was expecting you to come running here going ❛Yaahooo!❜ on the way.❞"
     },
     {
-      "JP": "理樹@「え？　なんで僕そんなにテンション高くしないといけないの？」",
+      "JP": "`理樹@「え？　なんで僕そんなにテンション高くしないといけないの？」",
       "EN": "`Riki@❝And why would I have to be so excited?❞",
       "Translation": "`Riki@❝And why would I have to be so excited?❞"
     },
     {
-      "JP": "$(1,0)@「そりゃ、遊びにいくからよ」",
+      "JP": "`$(1,0)@「そりゃ、遊びにいくからよ」",
       "EN": "`$(1,1)@ ❝That's because we are going to have some fun!❞",
       "Translation": "`$(1,1)@ ❝That's because we are going to have some fun!❞"
     },
     {
-      "JP": "理樹@「えっ、遊びにいくの!?」",
+      "JP": "`理樹@「えっ、遊びにいくの!?」",
       "EN": "`Riki@❝What about training!?❞",
       "Translation": "`Riki@❝What about training!?❞"
     },
     {
-      "JP": "$(1,0)@「ああ、いやっ、勘違いしないで、あなたにとっては遊びかもしれないけど、あたしにとっては、訓練なのっ」",
+      "JP": "`$(1,0)@「ああ、いやっ、勘違いしないで、あなたにとっては遊びかもしれないけど、あたしにとっては、訓練なのっ」",
       "EN": "`$(1,1)@ ❝No, wait. Don't you get the wrong idea. I meant that you'll be having fun but it's still training for me.❞",
       "Translation": "`$(1,1)@ ❝No, wait. Don't you get the wrong idea. I meant that you'll be having fun but it's still training for me.❞"
     },
     {
-      "JP": "理樹@「そんなひとりだけ訓練しないでも、一緒に遊べばいいのに」",
+      "JP": "`理樹@「そんなひとりだけ訓練しないでも、一緒に遊べばいいのに」",
       "EN": "`Riki@❝Do you really need to be training all the time? Let's have some fun together.❞",
       "Translation": "`Riki@❝Do you really need to be training all the time? Let's have some fun together.❞"
     },
     {
-      "JP": "$(1,0)@「そう？　じゃあ、ちょっとだけ考えておくわ」",
+      "JP": "`$(1,0)@「そう？　じゃあ、ちょっとだけ考えておくわ」",
       "EN": "`$(1,1)@ ❝Okay, I'll think about it.❞",
       "Translation": "`$(1,1)@ ❝Okay, I'll think about it.❞"
     },
     {
-      "JP": "$(1,0)@「もしかしたら遊んじゃってるようにも見えてしまう、そんな程度にだけどね」",
+      "JP": "`$(1,0)@「もしかしたら遊んじゃってるようにも見えてしまう、そんな程度にだけどね」",
       "EN": "`$(1,1)@ ❝I guess it might look as though I'm enjoying myself a bit.❞",
       "Translation": "`$(1,1)@ ❝I guess it might look as though I'm enjoying myself a bit.❞"
     },
     {
-      "JP": "$(1,0)@「いよしゃ、とっったああぁぁーーっ!!」",
+      "JP": "`$(1,0)@「いよしゃ、とっったああぁぁーーっ!!」",
       "EN": "`$(1,1)@ ❝ALRIGHT, GOT IT!!❞",
       "Translation": "`$(1,1)@ ❝ALRIGHT, GOT IT!!❞"
     },
     {
-      "JP": "いきり$(1,0)さんは遊んでいた!!",
+      "JP": "思いきり$(1,0)さんは遊んでいた!!",
       "EN": "$(1,1)-san was having the time of her life!",
       "Translation": "$(1,1)-san was having the time of her life!"
     },
     {
-      "JP": "かも、ものすごい食いつきようだ！",
+      "JP": "しかも、ものすごい食いつきようだ！",
       "EN": "Furthermore, she seemed really into it!",
       "Translation": "Furthermore, she seemed really into it!"
     },
     {
-      "JP": "$(1,0)@「カーーーーッ!!　たまんないわっっ!!」",
+      "JP": "`$(1,0)@「カーーーーッ!!　たまんないわっっ!!」",
       "EN": "`$(1,1)@ ❝Ka――!!　This is the best!!❞",
       "Translation": "`$(1,1)@ ❝Ka――!!　This is the best!!❞"
     },
     {
-      "JP": "んなビールを一気に飲み干したおっさんみたいな…。",
+      "JP": "そんなビールを一気に飲み干したおっさんみたいな…。",
       "EN": "She looked like an old man after chugging down a beer...",
       "Translation": "She looked like an old man after chugging down a beer..."
     },
     {
-      "JP": "$(1,0)@「さて…次はどいつを頂こうかしら…」",
+      "JP": "`$(1,0)@「さて…次はどいつを頂こうかしら…」",
       "EN": "`$(1,1)@ ❝Well then... What should I go for next...❞",
       "Translation": "`$(1,1)@ ❝Well then... What should I go for next...❞"
     },
     {
-      "JP": "$(1,0)@「…あの缶詰みたいなの狙っちゃおうかしら？」",
+      "JP": "`$(1,0)@「…あの缶詰みたいなの狙っちゃおうかしら？」",
       "EN": "`$(1,1)@ ❝Maybe that can-looking thing?❞",
       "Translation": "`$(1,1)@ ❝Maybe that can-looking thing?❞"
     },
     {
-      "JP": "が見ても、遊んでいる!!",
+      "JP": "誰が見ても、遊んでいる!!",
       "EN": "She's definitely not training!",
       "Translation": "She's definitely not training!"
     },
     {
-      "JP": "$(1,0)@「ゲームスタート！」",
+      "JP": "`$(1,0)@「ゲームスタート！」",
       "EN": "`$(1,1)@ ❝Game start!❞",
       "Translation": "`$(1,1)@ ❝Game start!❞"
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": "......",
       "Translation": "......"
     },
     {
-      "JP": "$(1,0)@「くる…よし…こい…そのまま…」",
+      "JP": "`$(1,0)@「くる…よし…こい…そのまま…」",
       "EN": "`$(1,1)@ ❝Come... good... come here... just like that...❞",
       "Translation": "`$(1,1)@ ❝Come... good... come here... just like that...❞"
     },
     {
-      "JP": "$(1,0)@「よし、とっっったあああぁぁーーーーっ!!　見たかぁーっ、天才かってのっ、あたしはあぁぁーーっ!!」",
+      "JP": "`$(1,0)@「よし、とっっったあああぁぁーーーーっ!!　見たかぁーっ、天才かってのっ、あたしはあぁぁーーっ!!」",
       "EN": "`$(1,1)@ ❝Yes, GOT ITTTTTT!! Did you see that, aren't I a genius, riight!!❞",
       "Translation": "`$(1,1)@ ❝Yes, GOT ITTTTTT!! Did you see that, aren't I a genius, riight!!❞"
     },
     {
-      "JP": "あ、ほら、わらわらと人が集まってくる。",
+      "JP": "ああ、ほら、わらわらと人が集まってくる。",
       "EN": "Ah, look. A crowd was starting to gather around us.",
       "Translation": "Ah, look. A crowd was starting to gather around us."
     },
     {
-      "JP": "女の言うところの訓練をこんなに見られてしまっていいのだろうか…。",
+      "JP": "彼女の言うところの訓練をこんなに見られてしまっていいのだろうか…。",
       "EN": "Was it okay for there to be so many people watching the ❛training❜ she was talking about...",
       "Translation": "Was it okay for there to be so many people watching the ❛training❜ she was talking about..."
     },
     {
-      "JP": "あ、$(1,0)さんが楽しんでるようだから、それだけでも僕は嬉しいけど。",
+      "JP": "まあ、$(1,0)さんが楽しんでるようだから、それだけでも僕は嬉しいけど。",
       "EN": "Well, $(1,1)-san was having fun, so I was satisfied.",
       "Translation": "Well, $(1,1)-san was having fun, so I was satisfied."
     },
     {
-      "JP": "$(1,0)@「ええと、次は…」",
+      "JP": "`$(1,0)@「ええと、次は…」",
       "EN": "`$(1,1)@ ❝Then, next is...❞",
       "Translation": "`$(1,1)@ ❝Then, next is...❞"
     },
     {
-      "JP": "$(1,0)@「理樹くん、リクエストあるかしら…？」",
+      "JP": "`$(1,0)@「理樹くん、リクエストあるかしら…？」",
       "EN": "`$(1,1)@ ❝Riki-kun, is there anything that you want...?❞",
       "Translation": "`$(1,1)@ ❝Riki-kun, is there anything that you want...?❞"
     },
     {
-      "JP": "理樹@「え？　いや特には…」",
+      "JP": "`理樹@「え？　いや特には…」",
       "EN": "`Riki@❝Eh? Not really...❞",
       "Translation": "`Riki@❝Eh? Not really...❞"
     },
     {
-      "JP": "$(1,0)@「遠慮しないでいいのよ、好きなのいってよ」",
+      "JP": "`$(1,0)@「遠慮しないでいいのよ、好きなのいってよ」",
       "EN": "`$(1,1)@ ❝Don't be so reserved, just say it.❞",
       "Translation": "`$(1,1)@ ❝Don't be so reserved, just say it.❞"
     },
     {
-      "JP": "理樹@「んー…じゃあ、その手前のストラップで」",
+      "JP": "`理樹@「んー…じゃあ、その手前のストラップで」",
       "EN": "`Riki@❝Hmnn... then, this strap over here.❞",
       "Translation": "`Riki@❝Hmnn... then, this strap over here.❞"
     },
     {
-      "JP": "$(1,0)@「そんなのどーでもいいじゃないっ、あの奧の一番でかいぬいぐるみよっ、いくわっっ！」",
+      "JP": "`$(1,0)@「そんなのどーでもいいじゃないっ、あの奧の一番でかいぬいぐるみよっ、いくわっっ！」",
       "EN": "`$(1,1)@ ❝Why'd you want that? I'm going to get that huge plushie in the back instead!❞",
       "Translation": "`$(1,1)@ ❝Why'd you want that? I'm going to get that huge plushie in the back instead!❞"
     },
     {
-      "JP": "ゃあ、訊かないでよ…。",
+      "JP": "じゃあ、訊かないでよ…。",
       "EN": "Then don't ask me in the first place...",
       "Translation": "Then don't ask me in the first place..."
     },
     {
-      "JP": "$(1,0)@「どこを挟んでやろうかしらっ…これでどうだっ!?」",
+      "JP": "`$(1,0)@「どこを挟んでやろうかしらっ…これでどうだっ!?」",
       "EN": "`$(1,1)@ ❝Where should I grab it... How about that?❞",
       "Translation": "`$(1,1)@ ❝Where should I grab it... How about that?❞"
     },
     {
-      "JP": "$(1,0)@「うあぁぁぁーーーっ、あたしって超天才！　これで食ってけるんじゃない？　スパイなんて仕事やめちゃおうかしらっ」",
+      "JP": "`$(1,0)@「うあぁぁぁーーーっ、あたしって超天才！　これで食ってけるんじゃない？　スパイなんて仕事やめちゃおうかしらっ」",
       "EN": "`$(1,1)@ ❝Uwaaaa―― I'm a super genius! I can make a living with this, right? Should I quit my job as a spy?❞",
       "Translation": "`$(1,1)@ ❝Uwaaaa―― I'm a super genius! I can make a living with this, right? Should I quit my job as a spy?❞"
     },
     {
-      "JP": "理樹@「いやいやいや…そんな堂々と正体ばらしたら駄目だよ…」",
+      "JP": "`理樹@「いやいやいや…そんな堂々と正体ばらしたら駄目だよ…」",
       "EN": "`Riki@❝No, no, no... you can't reveal your identity like that...❞",
       "Translation": "`Riki@❝No, no, no... you can't reveal your identity like that...❞"
     },
     {
-      "JP": "理樹@「ものすごく取ったね」",
+      "JP": "`理樹@「ものすごく取ったね」",
       "EN": "`Riki@❝You got a lot, huh.❞",
       "Translation": "`Riki@❝You got a lot, huh.❞"
     },
     {
-      "JP": "ちきれずに、店員から紙袋をもらったほどだった。",
+      "JP": "持ちきれずに、店員から紙袋をもらったほどだった。",
       "EN": "We had so many that the staff gave us paper bags to carry them all.",
       "Translation": "We had so many that the staff gave us paper bags to carry them all."
     },
     {
-      "JP": "$(1,0)@「うん、満足満足」",
+      "JP": "`$(1,0)@「うん、満足満足」",
       "EN": "`$(1,1)@ ❝Yup, I'm satisfied.❞",
       "Translation": "`$(1,1)@ ❝Yup, I'm satisfied.❞"
     },
     {
-      "JP": "$(1,0)@「…て、あれ？」",
+      "JP": "`$(1,0)@「…て、あれ？」",
       "EN": "`$(1,1)@ ❝...Huh?❞",
       "Translation": "`$(1,1)@ ❝...Huh?❞"
     },
     {
-      "JP": "理樹@「どうしたの？」",
+      "JP": "`理樹@「どうしたの？」",
       "EN": "`Riki@❝What's wrong?❞",
       "Translation": "`Riki@❝What's wrong?❞"
     },
     {
-      "JP": "$(1,0)@「理樹くん、プレイした？」",
+      "JP": "`$(1,0)@「理樹くん、プレイした？」",
       "EN": "`$(1,1)@ ❝Riki-kun, did you play at all?❞",
       "Translation": "`$(1,1)@ ❝Riki-kun, did you play at all?❞"
     },
     {
-      "JP": "理樹@「いや、見てただけだけど」",
+      "JP": "`理樹@「いや、見てただけだけど」",
       "EN": "`Riki@❝Well, I was just watching.❞",
       "Translation": "`Riki@❝Well, I was just watching.❞"
     },
     {
-      "JP": "$(1,0)@「ひとりで遊んでたああぁぁぁーーーーっ!!」",
+      "JP": "`$(1,0)@「ひとりで遊んでたああぁぁぁーーーーっ!!」",
       "EN": "`$(1,1)@ ❝I played all by myseeeeeelf!!❞",
       "Translation": "`$(1,1)@ ❝I played all by myseeeeeelf!!❞"
     },
     {
-      "JP": "理樹@「なにショック受けてるの？」",
+      "JP": "`理樹@「なにショック受けてるの？」",
       "EN": "`Riki@❝What's so shocking?❞",
       "Translation": "`Riki@❝What's so shocking?❞"
     },
     {
-      "JP": "$(1,0)@「あたしは理樹くんとっ…」",
+      "JP": "`$(1,0)@「あたしは理樹くんとっ…」",
       "EN": "`$(1,1)@ ❝Riki-kun and I...❞",
       "Translation": "`$(1,1)@ ❝Riki-kun and I...❞"
     },
     {
-      "JP": "理樹@「と？」",
+      "JP": "`理樹@「と？」",
       "EN": "`Riki@❝And you?❞",
       "Translation": "`Riki@❝And you?❞"
     },
     {
-      "JP": "$(1,0)@「なんていうか、訓練？　したかったなぁ～…とか、なんとか…」",
+      "JP": "`$(1,0)@「なんていうか、訓練？　したかったなぁ～…とか、なんとか…」",
       "EN": "`$(1,1)@ ❝How do I put it?　I felt like training with you... or something...❞",
       "Translation": "`$(1,1)@ ❝How do I put it?　I felt like training with you... or something...❞"
     },
     {
-      "JP": "理樹@「え？　それって、もしかして、一緒に遊びたかったの？」",
+      "JP": "`理樹@「え？　それって、もしかして、一緒に遊びたかったの？」",
       "EN": "`Riki@❝Are you saying you wanted to play with me?❞",
       "Translation": "`Riki@❝Are you saying you wanted to play with me?❞"
     },
     {
-      "JP": "$(1,0)@「いや、決してそんなことないわっ…」",
+      "JP": "`$(1,0)@「いや、決してそんなことないわっ…」",
       "EN": "`$(1,1)@ ❝No, totally not that...❞",
       "Translation": "`$(1,1)@ ❝No, totally not that...❞"
     },
     {
-      "JP": "$(1,0)@「パートナーなんだからゲームを通じて、お互いのコミュニケーション能力を高めようとしてたのよっ」",
+      "JP": "`$(1,0)@「パートナーなんだからゲームを通じて、お互いのコミュニケーション能力を高めようとしてたのよっ」",
       "EN": "`$(1,1)@ ❝We are partners, so I wanted to use this game as a means to work on our communication.❞",
       "Translation": "`$(1,1)@ ❝We are partners, so I wanted to use this game as a means to work on our communication.❞"
     },
     {
-      "JP": "理樹@「どっちかというと、完全に遮断されてたけど…」",
+      "JP": "`理樹@「どっちかというと、完全に遮断されてたけど…」",
       "EN": "`Riki@❝I was completely out of it the whole time, though...❞",
       "Translation": "`Riki@❝I was completely out of it the whole time, though...❞"
     },
     {
-      "JP": "$(1,0)@「なんてまぬけ…ぶつぶつ…」",
+      "JP": "`$(1,0)@「なんてまぬけ…ぶつぶつ…」",
       "EN": "`$(1,1)@ ❝I'm so stupid...❞",
       "Translation": "`$(1,1)@ ❝I'm so stupid...❞"
     },
     {
-      "JP": "た自虐モードに入ってしまった。",
+      "JP": "また自虐モードに入ってしまった。",
       "EN": "She'd gone into masochist mode again.",
       "Translation": "She'd gone into masochist mode again."
     },
     {
-      "JP": "理樹@「でも、本当にユーフォーキャッチャーは楽しかったよ。僕は$(1,0)さんのあんな姿を見られただけでも十分」",
+      "JP": "`理樹@「でも、本当にユーフォーキャッチャーは楽しかったよ。僕は$(1,0)さんのあんな姿を見られただけでも十分」",
       "EN": "`Riki@❝Still, the crane game was really fun. It was enough for me to see you being so happy, $(1,1)-san.❞",
       "Translation": "`Riki@❝Still, the crane game was really fun. It was enough for me to see you being so happy, $(1,1)-san.❞"
     },
     {
-      "JP": "$(1,0)@「………」",
+      "JP": "`$(1,0)@「………」",
       "EN": "`$(1,1)@ ❝......❞",
       "Translation": "`$(1,1)@ ❝......❞"
     },
     {
-      "JP": "$(1,0)@「…そう？」",
+      "JP": "`$(1,0)@「…そう？」",
       "EN": "`$(1,1)@ ❝...Really?❞",
       "Translation": "`$(1,1)@ ❝...Really?❞"
     },
     {
-      "JP": "えた紙袋から目だけを出して、訊いてくる。",
+      "JP": "抱えた紙袋から目だけを出して、訊いてくる。",
       "EN": "She withdrew just her eyes from the bags she was carrying and asked timidly.",
       "Translation": "She withdrew just her eyes from the bags she was carrying and asked timidly."
     },
     {
-      "JP": "理樹@「うん。素敵な一日だった」",
+      "JP": "`理樹@「うん。素敵な一日だった」",
       "EN": "`Riki@❝Yeah. It was a wonderful day.❞",
       "Translation": "`Riki@❝Yeah. It was a wonderful day.❞"
     },
     {
-      "JP": "$(1,0)@「…なら、いいんだけど…」",
+      "JP": "`$(1,0)@「…なら、いいんだけど…」",
       "EN": "`$(1,1)@ ❝...That's fine, then...❞",
       "Translation": "`$(1,1)@ ❝...That's fine, then...❞"
     }
-  ]
+  ],
+  "TASK": []
 }

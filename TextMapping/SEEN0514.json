@@ -1,4492 +1,4493 @@
 {
+  "TASK": [],
   "MESSAGE": [
     {
-      "JP": "朝は当然のように寝不足だ。",
+      "JP": "翌朝は当然のように寝不足だ。",
       "EN": "Come next morning, it was obvious I hadn't gotten enough sleep.",
       "Translation": "Come next morning, it was obvious I hadn't gotten enough sleep."
     },
     {
-      "JP": "が当事者の真人は違うようで、すでに起きて、窓越しの小さな庭で筋トレをしていた。",
+      "JP": "だが当事者の真人は違うようで、すでに起きて、窓越しの小さな庭で筋トレをしていた。",
       "EN": "However, Masato was different and had already awoken. From the window I could see him doing weight training in the small garden.",
       "Translation": "However, Masato was different and had already awoken. From the window I could see him doing weight training in the small garden."
     },
     {
-      "JP": "の元気さには呆れるしかない。",
+      "JP": "その元気さには呆れるしかない。",
       "EN": "I was amazed by his energy.",
       "Translation": "I was amazed by his energy."
     },
     {
-      "JP": "食を食べに、真人と共に食堂へと足を運ぶ。",
+      "JP": "朝食を食べに、真人と共に食堂へと足を運ぶ。",
       "EN": "We went to the cafeteria together to eat breakfast.",
       "Translation": "We went to the cafeteria together to eat breakfast."
     },
     {
-      "JP": "じように寝起きの生徒で、食堂は埋め尽くされていた。",
+      "JP": "同じように寝起きの生徒で、食堂は埋め尽くされていた。",
       "EN": "With the other students getting up as well, the cafeteria was filled to the brim.",
       "Translation": "With the other students getting up as well, the cafeteria was filled to the brim."
     },
     {
-      "JP": "れでも僕たちの席は空いていた。",
+      "JP": "それでも僕たちの席は空いていた。",
       "EN": "Still, our seats were empty.",
       "Translation": "Still, our seats were empty."
     },
     {
-      "JP": "に来ていた謙吾が確保していてくれたからだ。",
+      "JP": "先に来ていた謙吾が確保していてくれたからだ。",
       "EN": "Because Kengo had arrived before us and saved some seats for us.",
       "Translation": "Because Kengo had arrived before us and saved some seats for us."
     },
     {
-      "JP": "確には、確保していないのかもしれない。",
+      "JP": "正確には、確保していないのかもしれない。",
       "EN": "Or more precisely, I guess he hadn't intended to.",
       "Translation": "Or more precisely, I guess he hadn't intended to."
     },
     {
-      "JP": "だ、彼の周りにはた迷惑な僕たちが集まってくるのを誰もが知っていたから、結果的に空いてるだけなのかもしれない。",
+      "JP": "ただ、彼の周りにはた迷惑な僕たちが集まってくるのを誰もが知っていたから、結果的に空いてるだけなのかもしれない。",
       "EN": "It's just that most people who know us treat us as troublemakers and often avoid sitting around us.",
       "Translation": "It's just that most people who know us treat us as troublemakers and often avoid sitting around us."
     },
     {
-      "JP": "真人@「ようっ、おはよう」",
+      "JP": "`真人@「ようっ、おはよう」",
       "EN": "`Masato@❝Yo, morning.❞",
       "Translation": "`Masato@❝Yo, morning.❞"
     },
     {
-      "JP": "謙吾@「あぁ、おはよう。おまえらにしては早いな」",
+      "JP": "`謙吾@「あぁ、おはよう。おまえらにしては早いな」",
       "EN": "`Kengo@❝Ah, morning. You're up early.❞",
       "Translation": "`Kengo@❝Ah, morning. You're up early.❞"
     },
     {
-      "JP": "く挨拶だけを済ませて、自分の朝食を載せた盆と共にテーブルにつく。",
+      "JP": "短く挨拶だけを済ませて、自分の朝食を載せた盆と共にテーブルにつく。",
       "EN": "Having finished our short greetings, we placed our breakfast trays on the table.",
       "Translation": "Having finished our short greetings, we placed our breakfast trays on the table."
     },
     {
-      "JP": "がて恭介も現れて、同じように席につく。",
+      "JP": "やがて恭介も現れて、同じように席につく。",
       "EN": "Soon after, Kyousuke appeared and took a seat.",
       "Translation": "Soon after, Kyousuke appeared and took a seat."
     },
     {
-      "JP": "恭介@「うぃす」",
+      "JP": "`恭介@「うぃす」",
       "EN": "`Kyousuke@❝Oi.❞",
       "Translation": "`Kyousuke@❝Oi.❞"
     },
     {
-      "JP": "真人@「おぅ」",
+      "JP": "`真人@「おぅ」",
       "EN": "`Masato@❝Oh!❞",
       "Translation": "`Masato@❝Oh!❞"
     },
     {
-      "JP": "理樹@「今回はどこいってたの？」",
+      "JP": "`理樹@「今回はどこいってたの？」",
       "EN": "`Riki@❝Where did you go?❞",
       "Translation": "`Riki@❝Where did you go?❞"
     },
     {
-      "JP": "恭介@「え？　あー、出版社」",
+      "JP": "`恭介@「え？　あー、出版社」",
       "EN": "`Kyousuke@❝Eh? Ah, to the publishers.❞",
       "Translation": "`Kyousuke@❝Eh? Ah, to the publishers.❞"
     },
     {
-      "JP": "理樹@「東京でしょ？」",
+      "JP": "`理樹@「東京でしょ？」",
       "EN": "`Riki@❝Tokyo, right?❞",
       "Translation": "`Riki@❝Tokyo, right?❞"
     },
     {
-      "JP": "恭介@「そ、東京」",
+      "JP": "`恭介@「そ、東京」",
       "EN": "`Kyousuke@❝Yeah, Tokyo.❞",
       "Translation": "`Kyousuke@❝Yeah, Tokyo.❞"
     },
     {
-      "JP": "理樹@「徒歩で？」",
+      "JP": "`理樹@「徒歩で？」",
       "EN": "`Riki@❝By foot?❞",
       "Translation": "`Riki@❝By foot?❞"
     },
     {
-      "JP": "恭介@「そ、徒歩で」",
+      "JP": "`恭介@「そ、徒歩で」",
       "EN": "`Kyousuke@❝Yeah, by foot.❞",
       "Translation": "`Kyousuke@❝Yeah, by foot.❞"
     },
     {
-      "JP": "理樹@「大変だったでしょ」",
+      "JP": "`理樹@「大変だったでしょ」",
       "EN": "`Riki@❝Must've been tough.❞",
       "Translation": "`Riki@❝Must've been tough.❞"
     },
     {
-      "JP": "真人@「大変つーか…」",
+      "JP": "`真人@「大変つーか…」",
       "EN": "`Masato@❝Tough... or, uh...❞",
       "Translation": "`Masato@❝Tough... or, uh...❞"
     },
     {
-      "JP": "謙吾@「あほだな…」",
+      "JP": "`謙吾@「あほだな…」",
       "EN": "`Kengo@❝You idiot...❞",
       "Translation": "`Kengo@❝You idiot...❞"
     },
     {
-      "JP": "恭介@「金がないんだ、仕方ないだろ」",
+      "JP": "`恭介@「金がないんだ、仕方ないだろ」",
       "EN": "`Kyousuke@❝I don't have much money, nothing I can do.❞",
       "Translation": "`Kyousuke@❝I don't have much money, nothing I can do.❞"
     },
     {
-      "JP": "恭介@「おまえらも絶対来年こうなるからな」",
+      "JP": "`恭介@「おまえらも絶対来年こうなるからな」",
       "EN": "`Kyousuke@❝I'm pretty sure you guys will do the same thing next year, too.❞",
       "Translation": "`Kyousuke@❝I'm pretty sure you guys will do the same thing next year, too.❞"
     },
     {
-      "JP": "理樹@「とりあえず徒歩で就職活動はしないけどさ…」",
+      "JP": "`理樹@「とりあえず徒歩で就職活動はしないけどさ…」",
       "EN": "`Riki@❝At the very least, we're not planning on doing our job hunting on foot...❞",
       "Translation": "`Riki@❝At the very least, we're not planning on doing our job hunting on foot...❞"
     },
     {
-      "JP": "後に現れたのは鈴。",
+      "JP": "最後に現れたのは鈴。",
       "EN": "Finally, Rin appeared.",
       "Translation": "Finally, Rin appeared."
     },
     {
-      "JP": "日の猫を肩に載せて、食堂に入ってきた。",
+      "JP": "昨日の猫を肩に載せて、食堂に入ってきた。",
       "EN": "With the cat she'd found yesterday perched on her shoulder, she entered the cafeteria.",
       "Translation": "With the cat she'd found yesterday perched on her shoulder, she entered the cafeteria."
     },
     {
-      "JP": "が、その後にも、猫がわらわらと続いてくる。",
+      "JP": "だが、その後にも、猫がわらわらと続いてくる。",
       "EN": "However, more cats followed her in.",
       "Translation": "However, more cats followed her in."
     },
     {
-      "JP": "れを押し戻し、何度も出たり入ったりを繰り返している。",
+      "JP": "それを押し戻し、何度も出たり入ったりを繰り返している。",
       "EN": "She kept pushing them back outside, but they repeatedly entered again and again.",
       "Translation": "She kept pushing them back outside, but they repeatedly entered again and again."
     },
     {
-      "JP": "鈴@「ふかーーーっ！」",
+      "JP": "`鈴@「ふかーーーっ！」",
       "EN": "`Rin@❝Fuka――――!❞",
       "Translation": "`Rin@❝Fuka――――!❞"
     },
     {
-      "JP": "後に一喝して、怯えさせてから、こっちに走って逃げてくる。",
+      "JP": "最後に一喝して、怯えさせてから、こっちに走って逃げてくる。",
       "EN": "Suddenly faced with Rin's vehement hissing, the cats finally got scared and ran off.",
       "Translation": "Suddenly faced with Rin's vehement hissing, the cats finally got scared and ran off."
     },
     {
-      "JP": "ぅ、とため息をつきながら、席につく。",
+      "JP": "ふぅ、とため息をつきながら、席につく。",
       "EN": "Huu～, she sighed while taking a seat.",
       "Translation": "Huu～, she sighed while taking a seat."
     },
     {
-      "JP": "鈴@「新入りだっ」",
+      "JP": "`鈴@「新入りだっ」",
       "EN": "`Rin@❝We have a new member!❞",
       "Translation": "`Rin@❝We have a new member!❞"
     },
     {
-      "JP": "真人@「知ってるよ」",
+      "JP": "`真人@「知ってるよ」",
       "EN": "`Masato@❝We know.❞",
       "Translation": "`Masato@❝We know.❞"
     },
     {
-      "JP": "んなにそう告げてから、お皿に牛乳を注ぐ。",
+      "JP": "みんなにそう告げてから、お皿に牛乳を注ぐ。",
       "EN": "After informing us, she poured some milk onto a plate.",
       "Translation": "After informing us, she poured some milk onto a plate."
     },
     {
-      "JP": "恭介@「名前は？」",
+      "JP": "`恭介@「名前は？」",
       "EN": "`Kyousuke@❝Got a name?❞",
       "Translation": "`Kyousuke@❝Got a name?❞"
     },
     {
-      "JP": "鈴@「まだ」",
+      "JP": "`鈴@「まだ」",
       "EN": "`Rin@❝Not yet.❞",
       "Translation": "`Rin@❝Not yet.❞"
     },
     {
-      "JP": "恭介@「名前は大事だぞ。ちゃんとつけろよ」",
+      "JP": "`恭介@「名前は大事だぞ。ちゃんとつけろよ」",
       "EN": "`Kyousuke@❝A name is an important thing. Give it one properly.❞",
       "Translation": "`Kyousuke@❝A name is an important thing. Give it one properly.❞"
     },
     {
-      "JP": "鈴@「だって、覚えきれない」",
+      "JP": "`鈴@「だって、覚えきれない」",
       "EN": "`Rin@❝But, I can't think of any more.❞",
       "Translation": "`Rin@❝But, I can't think of any more.❞"
     },
     {
-      "JP": "介は、ことあるごとに野良猫を拾ってきては、鈴にプレゼントしている。",
+      "JP": "恭介は、ことあるごとに野良猫を拾ってきては、鈴にプレゼントしている。",
       "EN": "With every opportunity, Kyousuke would gather stray cats and give them to Rin as presents.",
       "Translation": "With every opportunity, Kyousuke would gather stray cats and give them to Rin as presents."
     },
     {
-      "JP": "までは、鈴の周りは猫だらけだ。",
+      "JP": "いまでは、鈴の周りは猫だらけだ。",
       "EN": "So now she was surrounded by a veritable herd of cats.",
       "Translation": "So now she was surrounded by a veritable herd of cats."
     },
     {
-      "JP": "まりの数の多さに手に負えず、鈴はこうして一番新しい猫だけを世話することに決めている。",
+      "JP": "あまりの数の多さに手に負えず、鈴はこうして一番新しい猫だけを世話することに決めている。",
       "EN": "But that many are impossible to manage at once, so she decided just to look after the newest cat.",
       "Translation": "But that many are impossible to manage at once, so she decided just to look after the newest cat."
     },
     {
-      "JP": "恭介@「じゃ、仕方ない。俺がつけてやるか」",
+      "JP": "`恭介@「じゃ、仕方ない。俺がつけてやるか」",
       "EN": "`Kyousuke@❝Then, I guess I'll have to name it.❞",
       "Translation": "`Kyousuke@❝Then, I guess I'll have to name it.❞"
     },
     {
-      "JP": "恭介@「レノン」",
+      "JP": "`恭介@「レノン」",
       "EN": "`Kyousuke@❝Lennon.❞",
       "Translation": "`Kyousuke@❝Lennon.❞"
     },
     {
-      "JP": "理樹@「また何も考えず、有名人の名前を…」",
+      "JP": "`理樹@「また何も考えず、有名人の名前を…」",
       "EN": "`Riki@❝Did you even think about it at all? Yet another famous name...❞",
       "Translation": "`Riki@❝Did you even think about it at all? Yet another famous name...❞"
     },
     {
-      "JP": "謙吾@「大事だと言うわりに、おまえはいつも適当だな…」",
+      "JP": "`謙吾@「大事だと言うわりに、おまえはいつも適当だな…」",
       "EN": "`Kengo@❝You said it's important, but you never choose proper names...❞",
       "Translation": "`Kengo@❝You said it's important, but you never choose proper names...❞"
     },
     {
-      "JP": "んなふうにいつも恭介が適当につけるから、鈴の猫は、アインシュタインとかゲイツとかヒトラーとか、名前だけ並べるとものすごい顔ぶれになる。",
+      "JP": "そんなふうにいつも恭介が適当につけるから、鈴の猫は、アインシュタインとかゲイツとかヒトラーとか、名前だけ並べるとものすごい顔ぶれになる。",
       "EN": "Since Kyousuke always names the cats without thinking, they all have very famous names: Einstein, Gates, Hitler...",
       "Translation": "Since Kyousuke always names the cats without thinking, they all have very famous names: Einstein, Gates, Hitler..."
     },
     {
-      "JP": "恭介@「大事なのは名前がじゃない。名前をつけることが大事だと言っているんだ」",
+      "JP": "`恭介@「大事なのは名前がじゃない。名前をつけることが大事だと言っているんだ」",
       "EN": "`Kyousuke@❝It's not the name that's important. I said giving them a name is.❞",
       "Translation": "`Kyousuke@❝It's not the name that's important. I said giving them a name is.❞"
     },
     {
-      "JP": "真人@「なんだよ、それ。一緒じゃねぇか」",
+      "JP": "`真人@「なんだよ、それ。一緒じゃねぇか」",
       "EN": "`Masato@❝Huh? What's the difference?❞",
       "Translation": "`Masato@❝Huh? What's the difference?❞"
     },
     {
-      "JP": "鈴@「レノンか。でもまあ、かわいくはあるな」",
+      "JP": "`鈴@「レノンか。でもまあ、かわいくはあるな」",
       "EN": "`Rin@❝Lennon? But, it's cute.❞",
       "Translation": "`Rin@❝Lennon? But, it's cute.❞"
     },
     {
-      "JP": "は由来を知らないのだろう。響きだけすれば、確かにアインシュタインとかゲイツとかヒトラーよりはよっぽどペットの名前らしい。",
+      "JP": "鈴は由来を知らないのだろう。響きだけすれば、確かにアインシュタインとかゲイツとかヒトラーよりはよっぽどペットの名前らしい。",
       "EN": "I guess Rin doesn't know the origin of the name. But certainly, ❛Lennon❜ sounds like a more appropriate pet name than ❛Einstein,❜ ❛Gates❜ or ❛Hitler.❜",
       "Translation": "I guess Rin doesn't know the origin of the name. But certainly, ❛Lennon❜ sounds like a more appropriate pet name than ❛Einstein,❜ ❛Gates❜ or ❛Hitler.❜"
     },
     {
-      "JP": "恭介@「これ食うかな」",
+      "JP": "`恭介@「これ食うかな」",
       "EN": "`Kyousuke@❝Can he eat this?❞",
       "Translation": "`Kyousuke@❝Can he eat this?❞"
     },
     {
-      "JP": "恭介@「おー、わかめ食ったぞ、こいつ」",
+      "JP": "`恭介@「おー、わかめ食ったぞ、こいつ」",
       "EN": "`Kyousuke@❝Oh, he eats seaweed!❞",
       "Translation": "`Kyousuke@❝Oh, he eats seaweed!❞"
     },
     {
-      "JP": "鈴@「そんなもの食わすなっ、あほかっ」",
+      "JP": "`鈴@「そんなもの食わすなっ、あほかっ」",
       "EN": "`Rin@❝Don't feed him that, you idiot!❞",
       "Translation": "`Rin@❝Don't feed him that, you idiot!❞"
     },
     {
-      "JP": "鈴@「こっちだ、こっちのほうが絶対おいしい」",
+      "JP": "`鈴@「こっちだ、こっちのほうが絶対おいしい」",
       "EN": "`Rin@❝This, this definitely looks tasty.❞",
       "Translation": "`Rin@❝This, this definitely looks tasty.❞"
     },
     {
-      "JP": "生徒のみ定食についてくるカップゼリーを差し出す（この歳の子にそんなものを付けるのもどうかと思うが）。",
+      "JP": "女生徒のみ定食についてくるカップゼリーを差し出す（この歳の子にそんなものを付けるのもどうかと思うが）。",
       "EN": "The cafeteria cooks always give female students a cup jelly as a dessert. She tried feeding it to him.",
       "Translation": "The cafeteria cooks always give female students a cup jelly as a dessert. She tried feeding it to him."
     },
     {
-      "JP": "謙吾@「猫に食わせるものはちゃんと考えたほうがいいんじゃないのか？」",
+      "JP": "`謙吾@「猫に食わせるものはちゃんと考えたほうがいいんじゃないのか？」",
       "EN": "`Kengo@❝Are you giving proper thought to what the cat can eat?❞",
       "Translation": "`Kengo@❝Are you giving proper thought to what the cat can eat?❞"
     },
     {
-      "JP": "鈴@「………」",
+      "JP": "`鈴@「………」",
       "EN": "`Rin@❝.........❞",
       "Translation": "`Rin@❝.........❞"
     },
     {
-      "JP": "は謙吾の言葉も聞こえていないのか、小さなカップを前足で押さえて鼻先を突っ込む猫にじーっと見入っている…。",
+      "JP": "鈴は謙吾の言葉も聞こえていないのか、小さなカップを前足で押さえて鼻先を突っ込む猫にじーっと見入っている…。",
       "EN": "Our words were lost on Rin, who was absorbed in observing the cat holding the small cup with its forepaw and pulling it under its nose.",
       "Translation": "Our words were lost on Rin, who was absorbed in observing the cat holding the small cup with its forepaw and pulling it under its nose."
     },
     {
-      "JP": "愛かったらなんでもいいんだと言わんばかりだ（本人は口が裂けても言わないだろうけど）。",
+      "JP": "可愛かったらなんでもいいんだと言わんばかりだ（本人は口が裂けても言わないだろうけど）。",
       "EN": "It seems that she doesn't care just as long as the cat looks cute eating it (though I'm sure she'd never say so herself).",
       "Translation": "It seems that she doesn't care just as long as the cat looks cute eating it (though I'm sure she'd never say so herself)."
     },
     {
-      "JP": "恭介@「みそ汁は飲むだろうか、試してみよう」",
+      "JP": "`恭介@「みそ汁は飲むだろうか、試してみよう」",
       "EN": "`Kyousuke@❝Can it drink miso soup? Try it out.❞",
       "Translation": "`Kyousuke@❝Can it drink miso soup? Try it out.❞"
     },
     {
-      "JP": "鈴@「ふかーっ！」",
+      "JP": "`鈴@「ふかーっ！」",
       "EN": "`Rin@❝Fuka――!❞",
       "Translation": "`Rin@❝Fuka――!❞"
     },
     {
-      "JP": "が威嚇した！",
+      "JP": "鈴が威嚇した！",
       "EN": "She hissed!",
       "Translation": "She hissed!"
     },
     {
-      "JP": "真人@「草っぽいこいつはどうだろう」",
+      "JP": "`真人@「草っぽいこいつはどうだろう」",
       "EN": "`Masato@❝How about some grass...❞",
       "Translation": "`Masato@❝How about some grass...❞"
     },
     {
-      "JP": "度は真人が$K4バラン$K0を箸で寄せていく。",
+      "JP": "今度は真人が$K4バラン$K0を箸で寄せていく。",
       "EN": "This time, Masato held a $K4baran sheet$K0 out to it.",
       "Translation": "This time, Masato held a $K4baran sheet$K0 out to it."
     },
     {
-      "JP": "鈴@「食えるかーっ！」",
+      "JP": "`鈴@「食えるかーっ！」",
       "EN": "`Rin@❝Who'd eat that!!❞",
       "Translation": "`Rin@❝Who'd eat that!!❞"
     },
     {
-      "JP": "るでみんな、昨日あったことなんてすっかり忘れてしまっているようだ。",
+      "JP": "まるでみんな、昨日あったことなんてすっかり忘れてしまっているようだ。",
       "EN": "It seemed that everyone had already completely forgotten about what happened yesterday.",
       "Translation": "It seemed that everyone had already completely forgotten about what happened yesterday."
     },
     {
-      "JP": "もそれが日常なんだから、みんな慣れてしまっているんだろう。",
+      "JP": "でもそれが日常なんだから、みんな慣れてしまっているんだろう。",
       "EN": "But that was our everyday life, so they were probably used to it.",
       "Translation": "But that was our everyday life, so they were probably used to it."
     },
     {
-      "JP": "だ僕ひとりは、彼らとは価値観が違うようで、戸惑ってばかりいた。",
+      "JP": "ただ僕ひとりは、彼らとは価値観が違うようで、戸惑ってばかりいた。",
       "EN": "I alone found myself puzzled by the difference in our sense of values.",
       "Translation": "I alone found myself puzzled by the difference in our sense of values."
     },
     {
-      "JP": "い日、出会った時から彼らはそんなふうだったのに。",
+      "JP": "幼い日、出会った時から彼らはそんなふうだったのに。",
       "EN": "It'd always been like this, ever since the day we met.",
       "Translation": "It'd always been like this, ever since the day we met."
     },
     {
-      "JP": "ひとつ変わっていない。",
+      "JP": "何ひとつ変わっていない。",
       "EN": "Nothing had changed.",
       "Translation": "Nothing had changed."
     },
     {
-      "JP": "だその戸惑いも、時間が経ってから思い出すと、自然と頬が緩む。",
+      "JP": "ただその戸惑いも、時間が経ってから思い出すと、自然と頬が緩む。",
       "EN": "However, even as I was confused, I could only smile as I reflected on the past.",
       "Translation": "However, even as I was confused, I could only smile as I reflected on the past."
     },
     {
-      "JP": "惑いながらも、楽しんでいることに気づく。",
+      "JP": "戸惑いながらも、楽しんでいることに気づく。",
       "EN": "I realized that despite my bewilderment, I was still having fun.",
       "Translation": "I realized that despite my bewilderment, I was still having fun."
     },
     {
-      "JP": "して、また僕は願う。",
+      "JP": "そして、また僕は願う。",
       "EN": "Then, I wished once again.",
       "Translation": "Then, I wished once again."
     },
     {
-      "JP": "んな楽しい時間がいつまでも続きますようにと。",
+      "JP": "こんな楽しい時間がいつまでも続きますようにと。",
       "EN": "I wished such pleasant times could continue forever.",
       "Translation": "I wished such pleasant times could continue forever."
     },
     {
-      "JP": "で一緒に登校。",
+      "JP": "皆で一緒に登校。",
       "EN": "After breakfast, we headed toward school together.",
       "Translation": "After breakfast, we headed toward school together."
     },
     {
-      "JP": "は言っても、学舎は寮と隣接しているから、鞄を持って、この渡り廊下を渡るだけ。",
+      "JP": "とは言っても、学舎は寮と隣接しているから、鞄を持って、この渡り廊下を渡るだけ。",
       "EN": "However, since the school building was next to the dorms, our trip ended quickly.",
       "Translation": "However, since the school building was next to the dorms, our trip ended quickly."
     },
     {
-      "JP": "真人@「でも、就職決まったら遊び放題なんだろ？　いいねぇ」",
+      "JP": "`真人@「でも、就職決まったら遊び放題なんだろ？　いいねぇ」",
       "EN": "`Masato@❝So once you get a job, you'll have all the free time you want till March? Ain't that nice.❞",
       "Translation": "`Masato@❝So once you get a job, you'll have all the free time you want till March? Ain't that nice.❞"
     },
     {
-      "JP": "れでもこの中庭の自然を見ながら歩けることは、開放感をえられる貴重な時間だった。",
+      "JP": "それでもこの中庭の自然を見ながら歩けることは、開放感をえられる貴重な時間だった。",
       "EN": "Even so, the time we could spend walking and enjoying the beautiful nature of the courtyard was precious and soothing.",
       "Translation": "Even so, the time we could spend walking and enjoying the beautiful nature of the courtyard was precious and soothing."
     },
     {
-      "JP": "恭介@「そんな気楽なもんじゃないぜ」",
+      "JP": "`恭介@「そんな気楽なもんじゃないぜ」",
       "EN": "`Kyousuke@❝It won't be that laid back, you know.❞",
       "Translation": "`Kyousuke@❝It won't be that laid back, you know.❞"
     },
     {
-      "JP": "恭介@「色々考えていかなくちゃいけないことがある」",
+      "JP": "`恭介@「色々考えていかなくちゃいけないことがある」",
       "EN": "`Kyousuke@❝There are a lot of things I have to think about.❞",
       "Translation": "`Kyousuke@❝There are a lot of things I have to think about.❞"
     },
     {
-      "JP": "理樹@「人生設計？　早いね」",
+      "JP": "`理樹@「人生設計？　早いね」",
       "EN": "`Riki@❝Your life's plan? So soon?❞",
       "Translation": "`Riki@❝Your life's plan? So soon?❞"
     },
     {
-      "JP": "恭介@「今だけしかできないことがあるってことだよ」",
+      "JP": "`恭介@「今だけしかできないことがあるってことだよ」",
       "EN": "`Kyousuke@❝No, about things that can only be done now.❞",
       "Translation": "`Kyousuke@❝No, about things that can only be done now.❞"
     },
     {
-      "JP": "理樹@「でも一年後には、僕たちも受験か、就職活動やってるんだね」",
+      "JP": "`理樹@「でも一年後には、僕たちも受験か、就職活動やってるんだね」",
       "EN": "`Riki@❝But... next year, we'll be preparing for college exams or looking for a job, don't you think?❞",
       "Translation": "`Riki@❝But... next year, we'll be preparing for college exams or looking for a job, don't you think?❞"
     },
     {
-      "JP": "真人@「ここまで一緒だったオレたちも、その後は、散り散りになるかもな」",
+      "JP": "`真人@「ここまで一緒だったオレたちも、その後は、散り散りになるかもな」",
       "EN": "`Masato@❝Even though we've always been together so far, we might become separated from each other.❞",
       "Translation": "`Masato@❝Even though we've always been together so far, we might become separated from each other.❞"
     },
     {
-      "JP": "謙吾@「少なくとも恭介は一年先にそうなる」",
+      "JP": "`謙吾@「少なくとも恭介は一年先にそうなる」",
       "EN": "`Kengo@❝At least it'll already be so for Kyousuke one year earlier than us.❞",
       "Translation": "`Kengo@❝At least it'll already be so for Kyousuke one year earlier than us.❞"
     },
     {
-      "JP": "真人@「考えたくねーな、そんな先のこと」",
+      "JP": "`真人@「考えたくねーな、そんな先のこと」",
       "EN": "`Masato@❝Don't even wanna think about it... that kind of future.❞",
       "Translation": "`Masato@❝Don't even wanna think about it... that kind of future.❞"
     },
     {
-      "JP": "恭介@「そうだな…」",
+      "JP": "`恭介@「そうだな…」",
       "EN": "`Kyousuke@❝Yeah...❞",
       "Translation": "`Kyousuke@❝Yeah...❞"
     },
     {
-      "JP": "して、恭介もそれを願った。",
+      "JP": "そして、恭介もそれを願った。",
       "EN": "Then, Kyousuke made a wish.",
       "Translation": "Then, Kyousuke made a wish."
     },
     {
-      "JP": "恭介@「今がずっと続けばいいのにな」",
+      "JP": "`恭介@「今がずっと続けばいいのにな」",
       "EN": "`Kyousuke@❝If only this could last forever.❞",
       "Translation": "`Kyousuke@❝If only this could last forever.❞"
     },
     {
-      "JP": "れは、なんとも心強い一言だった。",
+      "JP": "それは、なんとも心強い一言だった。",
       "EN": "His words were profoundly reassuring.",
       "Translation": "His words were profoundly reassuring."
     },
     {
-      "JP": "介が願うなら、本当にそうなるような気がした。",
+      "JP": "恭介が願うなら、本当にそうなるような気がした。",
       "EN": "I thought it would surely come true if only Kyousuke wished so.",
       "Translation": "I thought it would surely come true if only Kyousuke wished so."
     },
     {
-      "JP": "理樹@「ねぇ、昔みたいに、みんなで何かしない？」",
+      "JP": "`理樹@「ねぇ、昔みたいに、みんなで何かしない？」",
       "EN": "`Riki@❝Say, why don't we do something, like in the old days?❞",
       "Translation": "`Riki@❝Say, why don't we do something, like in the old days?❞"
     },
     {
-      "JP": "から僕はそう提案していた。",
+      "JP": "だから僕はそう提案していた。",
       "EN": "I suggested.",
       "Translation": "I suggested."
     },
     {
-      "JP": "真人@「なんだよ、唐突に」",
+      "JP": "`真人@「なんだよ、唐突に」",
       "EN": "`Masato@❝What's this all of a sudden?❞",
       "Translation": "`Masato@❝What's this all of a sudden?❞"
     },
     {
-      "JP": "謙吾@「何かって？」",
+      "JP": "`謙吾@「何かって？」",
       "EN": "`Kengo@❝What do you want to do?❞",
       "Translation": "`Kengo@❝What do you want to do?❞"
     },
     {
-      "JP": "理樹@「ほら、小学生の時。何かを悪に仕立て上げては近所をかっぽしてたでしょ、みんなで」",
+      "JP": "`理樹@「ほら、小学生の時。何かを悪に仕立て上げては近所をかっぽしてたでしょ、みんなで」",
       "EN": "`Riki@❝Remember grade school? We'd go around the neighborhood and look for bad guys and beat them up.❞",
       "Translation": "`Riki@❝Remember grade school? We'd go around the neighborhood and look for bad guys and beat them up.❞"
     },
     {
-      "JP": "鈴@「おまえらと一緒にするな」",
+      "JP": "`鈴@「おまえらと一緒にするな」",
       "EN": "`Rin@❝I didn't!❞",
       "Translation": "`Rin@❝I didn't!❞"
     },
     {
-      "JP": "介なら、そうしてくれるはずだ。",
+      "JP": "恭介なら、そうしてくれるはずだ。",
       "EN": "Kyousuke would definitely go along.",
       "Translation": "Kyousuke would definitely go along."
     },
     {
-      "JP": "０年という月日が経っても、僕と同じ気持ちでいたから。",
+      "JP": "１０年という月日が経っても、僕と同じ気持ちでいたから。",
       "EN": "Because, even though ten years have already passed, he still felt the same way I did.",
       "Translation": "Because, even though ten years have already passed, he still felt the same way I did."
     },
     {
-      "JP": "して、今も、恭介は僕たちのリーダーだったから。",
+      "JP": "そして、今も、恭介は僕たちのリーダーだったから。",
       "EN": "Besides, even now he was our leader.",
       "Translation": "Besides, even now he was our leader."
     },
     {
-      "JP": "恭介@「じゃ…」",
+      "JP": "`恭介@「じゃ…」",
       "EN": "`Kyousuke@❝Then...❞",
       "Translation": "`Kyousuke@❝Then...❞"
     },
     {
-      "JP": "介が屈んでいた。",
+      "JP": "恭介が屈んでいた。",
       "EN": "Kyousuke bent down and...",
       "Translation": "Kyousuke bent down and..."
     },
     {
-      "JP": "の手が何かを拾い上げる。",
+      "JP": "その手が何かを拾い上げる。",
       "EN": "...picked something up.",
       "Translation": "...picked something up."
     },
     {
-      "JP": "ピンをかけて回した。",
+      "JP": "スピンをかけて回した。",
       "EN": "Then he gave it a spin.",
       "Translation": "Then he gave it a spin."
     },
     {
-      "JP": "恭介@「…野球をしよう」",
+      "JP": "`恭介@「…野球をしよう」",
       "EN": "`Kyousuke@❝...Let's play baseball.❞",
       "Translation": "`Kyousuke@❝...Let's play baseball.❞"
     },
     {
-      "JP": "色くくすんでしまった白球を。",
+      "JP": "茶色くくすんでしまった白球を。",
       "EN": "It was a discolored baseball.",
       "Translation": "It was a discolored baseball."
     },
     {
-      "JP": "真人@「へ…」",
+      "JP": "`真人@「へ…」",
       "EN": "`Masato@❝Eh...❞",
       "Translation": "`Masato@❝Eh...❞"
     },
     {
-      "JP": "謙吾@「…は？」",
+      "JP": "`謙吾@「…は？」",
       "EN": "`Kengo@❝...Huh?❞",
       "Translation": "`Kengo@❝...Huh?❞"
     },
     {
-      "JP": "以外はその言葉が理解できなかったようで怪訝な声をあげている。",
+      "JP": "僕以外はその言葉が理解できなかったようで怪訝な声をあげている。",
       "EN": "Everyone, dumbfounded by Kyousuke's words, exclaimed in surprise.",
       "Translation": "Everyone, dumbfounded by Kyousuke's words, exclaimed in surprise."
     },
     {
-      "JP": "恭介@「野球だよ」",
+      "JP": "`恭介@「野球だよ」",
       "EN": "`Kyousuke@❝Baseball.❞",
       "Translation": "`Kyousuke@❝Baseball.❞"
     },
     {
-      "JP": "う一度皆に向き直り、そう告げた。",
+      "JP": "もう一度皆に向き直り、そう告げた。",
       "EN": "He turned around and announced it to us again.",
       "Translation": "He turned around and announced it to us again."
     },
     {
-      "JP": "恭介@「野球チームを作る」",
+      "JP": "`恭介@「野球チームを作る」",
       "EN": "`Kyousuke@❝We're forming a baseball team.❞",
       "Translation": "`Kyousuke@❝We're forming a baseball team.❞"
     },
     {
-      "JP": "恭介@「チーム名は…リトルバスターズだ」",
+      "JP": "`恭介@「チーム名は…リトルバスターズだ」",
       "EN": "`Kyousuke@❝The team name will be... Little Busters!❞",
       "Translation": "`Kyousuke@❝The team name will be... Little Busters!❞"
     },
     {
-      "JP": "を見ていた。",
+      "JP": "夢を見ていた。",
       "EN": "I had a dream.",
       "Translation": "I had a dream."
     },
     {
-      "JP": "はその内容を思い出すまいと、窓の外に視線を向け、グラウンドで行われているサッカーの試合に見入った。",
+      "JP": "僕はその内容を思い出すまいと、窓の外に視線を向け、グラウンドで行われているサッカーの試合に見入った。",
       "EN": "Without trying to remember what it was about, I gazed out of the window at a soccer match playing out in the schoolyard.",
       "Translation": "Without trying to remember what it was about, I gazed out of the window at a soccer match playing out in the schoolyard."
     },
     {
-      "JP": "つものことだ。",
+      "JP": "いつものことだ。",
       "EN": "It was the same as always.",
       "Translation": "It was the same as always."
     },
     {
-      "JP": "識を失うようにして突然僕が寝入ってしまうことは。",
+      "JP": "意識を失うようにして突然僕が寝入ってしまうことは。",
       "EN": "I would suddenly fall asleep, like suddenly losing consciousness.",
       "Translation": "I would suddenly fall asleep, like suddenly losing consciousness."
     },
     {
-      "JP": "れは、幼い頃から僕が抱えている病気。",
+      "JP": "それは、幼い頃から僕が抱えている病気。",
       "EN": "That's because of an illness I've had since childhood.",
       "Translation": "That's because of an illness I've had since childhood."
     },
     {
-      "JP": "ルコレプシー…",
+      "JP": "ナルコレプシー…",
       "EN": "Narcolepsy... ",
       "Translation": "Narcolepsy... "
     },
     {
-      "JP": "り病だ。",
+      "JP": "眠り病だ。",
       "EN": "a sleeping disorder.",
       "Translation": "a sleeping disorder."
     },
     {
-      "JP": "師からも黙認されている。",
+      "JP": "教師からも黙認されている。",
       "EN": "My teachers were aware of it, so they tolerated my sleeping during class.",
       "Translation": "My teachers were aware of it, so they tolerated my sleeping during class."
     },
     {
-      "JP": "の病気に対する理解は学校側にもあるし、それで僕が成績を落とすようなこともないからだ。",
+      "JP": "この病気に対する理解は学校側にもあるし、それで僕が成績を落とすようなこともないからだ。",
       "EN": "Everyone else at school understood, and my grades weren't bad either.",
       "Translation": "Everyone else at school understood, and my grades weren't bad either."
     },
     {
-      "JP": "も、今の状態には少し違和感があった。",
+      "JP": "でも、今の状態には少し違和感があった。",
       "EN": "However, I was a little uncomfortable with it myself.",
       "Translation": "However, I was a little uncomfortable with it myself."
     },
     {
-      "JP": "が昼に見る夢は決まって悪夢だ。",
+      "JP": "僕が昼に見る夢は決まって悪夢だ。",
       "EN": "Since my daydreams were always nightmares,",
       "Translation": "Since my daydreams were always nightmares,"
     },
     {
-      "JP": "から絶対に思い出さないようにしている。",
+      "JP": "だから絶対に思い出さないようにしている。",
       "EN": "I tried hard not to remember them.",
       "Translation": "I tried hard not to remember them."
     },
     {
-      "JP": "けど、今見ていた夢は思い出そうにも、思い出せない…そんな気がした。",
+      "JP": "だけど、今見ていた夢は思い出そうにも、思い出せない…そんな気がした。",
       "EN": "But I don't think I could remember the dream I'd just seen, even if I tried.",
       "Translation": "But I don't think I could remember the dream I'd just seen, even if I tried."
     },
     {
-      "JP": "は…果たして夢を見ていたのだろうか？",
+      "JP": "僕は…果たして夢を見ていたのだろうか？",
       "EN": "...Did I really see a dream, at all?",
       "Translation": "...Did I really see a dream, at all?"
     },
     {
-      "JP": "真人@「どうした、暗い顔して」",
+      "JP": "`真人@「どうした、暗い顔して」",
       "EN": "`Masato@❝What's up? You look pale.❞",
       "Translation": "`Masato@❝What's up? You look pale.❞"
     },
     {
-      "JP": "の真人が話しかけてくる。",
+      "JP": "隣の真人が話しかけてくる。",
       "EN": "Masato, whose desk was next to mine, spoke to me.",
       "Translation": "Masato, whose desk was next to mine, spoke to me."
     },
     {
-      "JP": "理樹@「いや、べつになにも」",
+      "JP": "`理樹@「いや、べつになにも」",
       "EN": "`Riki@❝No, I'm fine.❞",
       "Translation": "`Riki@❝No, I'm fine.❞"
     },
     {
-      "JP": "真人@「水くさい奴だな。筋肉の相談ならいつでも乗るぜ？」",
+      "JP": "`真人@「水くさい奴だな。筋肉の相談ならいつでも乗るぜ？」",
       "EN": "`Masato@❝Don't act so cold. If you're worried about your muscles, why don't you talk to me?❞",
       "Translation": "`Masato@❝Don't act so cold. If you're worried about your muscles, why don't you talk to me?❞"
     },
     {
-      "JP": "理樹@「いや、それについては一生悩まないから」",
+      "JP": "`理樹@「いや、それについては一生悩まないから」",
       "EN": "`Riki@❝I'm sure I'll never be worried over that in my life.❞",
       "Translation": "`Riki@❝I'm sure I'll never be worried over that in my life.❞"
     },
     {
-      "JP": "女生徒@「ねぇ、棗さん、知らない？」",
+      "JP": "`女生徒@「ねぇ、棗さん、知らない？」",
       "EN": "`Female Student@❝Say, where can I find Natsume-san?❞",
       "Translation": "`Female Student@❝Say, where can I find Natsume-san?❞"
     },
     {
-      "JP": "子生徒が僕たちに話しかけてきた。",
+      "JP": "女子生徒が僕たちに話しかけてきた。",
       "EN": "A female student asked us.",
       "Translation": "A female student asked us."
     },
     {
-      "JP": "女の言う棗さんとは、妹のほう、鈴のことだろう。",
+      "JP": "彼女の言う棗さんとは、妹のほう、鈴のことだろう。",
       "EN": "I think she's looking for Rin.",
       "Translation": "I think she's looking for Rin."
     },
     {
-      "JP": "真人@「ん、あー？」",
+      "JP": "`真人@「ん、あー？」",
       "EN": "`Masato@❝Hmm, ah?❞",
       "Translation": "`Masato@❝Hmm, ah?❞"
     },
     {
-      "JP": "人が座ったまま、伸びをして鈴の席を確かめてから、そこにいないんだったら知らない、と手を広げてみせた。",
+      "JP": "真人が座ったまま、伸びをして鈴の席を確かめてから、そこにいないんだったら知らない、と手を広げてみせた。",
       "EN": "Masato pointed at Rin's seat and, confirming that she was indeed absent from it, shrugged to show that he had no other guess.",
       "Translation": "Masato pointed at Rin's seat and, confirming that she was indeed absent from it, shrugged to show that he had no other guess."
     },
     {
-      "JP": "女生徒@「日直なのに、黒板、消してないんだよね」",
+      "JP": "`女生徒@「日直なのに、黒板、消してないんだよね」",
       "EN": "`Female Student@❝She's on day duty today, but the blackboard hasn't been cleaned.❞",
       "Translation": "`Female Student@❝She's on day duty today, but the blackboard hasn't been cleaned.❞"
     },
     {
-      "JP": "理樹@「ああ…」",
+      "JP": "`理樹@「ああ…」",
       "EN": "`Riki@❝Ah...❞",
       "Translation": "`Riki@❝Ah...❞"
     },
     {
-      "JP": "ういえば、さっきの休み時間は、その背中に猫を貼り付けたまま黒板を消していたことを思い出す。",
+      "JP": "そういえば、さっきの休み時間は、その背中に猫を貼り付けたまま黒板を消していたことを思い出す。",
       "EN": "Come to think of it, she certainly was cleaning the blackboard with a cat on her back during the last break.",
       "Translation": "Come to think of it, she certainly was cleaning the blackboard with a cat on her back during the last break."
     },
     {
-      "JP": "女生徒@「また猫と遊んでるんじゃないの？」",
+      "JP": "`女生徒@「また猫と遊んでるんじゃないの？」",
       "EN": "`Female Student@❝I guess she must be playing with her cats again.❞",
       "Translation": "`Female Student@❝I guess she must be playing with her cats again.❞"
     },
     {
-      "JP": "の言葉には皮肉が込められていた。",
+      "JP": "その言葉には皮肉が込められていた。",
       "EN": "Her words were dripping with sarcasm.",
       "Translation": "Her words were dripping with sarcasm."
     },
     {
-      "JP": "直、クラス内で、鈴の同性からの人望は薄かった。",
+      "JP": "正直、クラス内で、鈴の同性からの人望は薄かった。",
       "EN": "Actually, some of the girls in the class don't like Rin.",
       "Translation": "Actually, some of the girls in the class don't like Rin."
     },
     {
-      "JP": "女は自己中心的でいつも猫のことばかり考えているし、その猫とのセットが男子からの人気が高いだけに、なおさら女生徒の神経を逆撫でしているようだった。",
+      "JP": "彼女は自己中心的でいつも猫のことばかり考えているし、その猫とのセットが男子からの人気が高いだけに、なおさら女生徒の神経を逆撫でしているようだった。",
       "EN": "She was pretty self-centered, and only concerned herself with her cats.",
       "Translation": "She was pretty self-centered, and only concerned herself with her cats."
     },
     {
-      "JP": "板を消さなかったぐらいでまた人望を失うのも可哀想だと思い、僕は鈴を探しに教室を後にする。",
+      "JP": "黒板を消さなかったぐらいでまた人望を失うのも可哀想だと思い、僕は鈴を探しに教室を後にする。",
       "EN": "She was only worsening her image in the class by not cleaning the blackboard, poor Rin.",
       "Translation": "She was only worsening her image in the class by not cleaning the blackboard, poor Rin."
     },
     {
-      "JP": "は、みごとに猫と遊んでいた。",
+      "JP": "鈴は、みごとに猫と遊んでいた。",
       "EN": "As expected, Rin was playing with her cats.",
       "Translation": "As expected, Rin was playing with her cats."
     },
     {
-      "JP": "ゃぁにゃぁ！",
+      "JP": "にゃぁにゃぁ！",
       "EN": "Meow meow!",
       "Translation": "Meow meow!"
     },
     {
-      "JP": "鈴@「揃ってるな」",
+      "JP": "`鈴@「揃ってるな」",
       "EN": "`Rin@❝You're all here.❞",
       "Translation": "`Rin@❝You're all here.❞"
     },
     {
-      "JP": "はスカートの裾を左手で押さえながら座りこんだ。",
+      "JP": "鈴はスカートの裾を左手で押さえながら座りこんだ。",
       "EN": "Rin sat down, holding the hem of her skirt with her left hand.",
       "Translation": "Rin sat down, holding the hem of her skirt with her left hand."
     },
     {
-      "JP": "鈴@「んー…」",
+      "JP": "`鈴@「んー…」",
       "EN": "`Rin@❝Hmm...❞",
       "Translation": "`Rin@❝Hmm...❞"
     },
     {
-      "JP": "の群れを見渡す鈴。",
+      "JP": "猫の群れを見渡す鈴。",
       "EN": "She surveyed the herd of cats.",
       "Translation": "She surveyed the herd of cats."
     },
     {
-      "JP": "たちは鈴にいつも興味を払っているわけではないらしい。",
+      "JP": "猫たちは鈴にいつも興味を払っているわけではないらしい。",
       "EN": "It didn't seem like they were paying much attention to Rin.",
       "Translation": "It didn't seem like they were paying much attention to Rin."
     },
     {
-      "JP": "んでばらばらに周囲に散らばっている。",
+      "JP": "てんでばらばらに周囲に散らばっている。",
       "EN": "They were strolling around as they pleased.",
       "Translation": "They were strolling around as they pleased."
     },
     {
-      "JP": "鈴@「よし、今日はおまえだ」",
+      "JP": "`鈴@「よし、今日はおまえだ」",
       "EN": "`Rin@❝All right, it's your turn today.❞",
       "Translation": "`Rin@❝All right, it's your turn today.❞"
     },
     {
-      "JP": "鈴@「おいで」",
+      "JP": "`鈴@「おいで」",
       "EN": "`Rin@❝Come, come.❞",
       "Translation": "`Rin@❝Come, come.❞"
     },
     {
-      "JP": "ゃ？",
+      "JP": "にゃ？",
       "EN": "Meow?",
       "Translation": "Meow?"
     },
     {
-      "JP": "ゃにゃ。",
+      "JP": "にゃにゃ。",
       "EN": "Meow meow.",
       "Translation": "Meow meow."
     },
     {
-      "JP": "ってって。",
+      "JP": "てってって。",
       "EN": "*Pat*pat*pat*.",
       "Translation": "*Pat*pat*pat*."
     },
     {
-      "JP": "猫がそばにやってきた。",
+      "JP": "虎猫がそばにやってきた。",
       "EN": "A tabby cat approached her.",
       "Translation": "A tabby cat approached her."
     },
     {
-      "JP": "鈴@「今日はすごいぞ」",
+      "JP": "`鈴@「今日はすごいぞ」",
       "EN": "`Rin@❝I've got something great for you today.❞",
       "Translation": "`Rin@❝I've got something great for you today.❞"
     },
     {
-      "JP": "鈴@「聞いて驚け」",
+      "JP": "`鈴@「聞いて驚け」",
       "EN": "`Rin@❝Watch and be surprised.❞",
       "Translation": "`Rin@❝Watch and be surprised.❞"
     },
     {
-      "JP": "鈴@「じゃん！」",
+      "JP": "`鈴@「じゃん！」",
       "EN": "`Rin@❝There!❞",
       "Translation": "`Rin@❝There!❞"
     },
     {
-      "JP": "が取りだしたのは猫じゃらしだ。",
+      "JP": "鈴が取りだしたのは猫じゃらしだ。",
       "EN": "She took a stalk of bristlegrass from her pocket.",
       "Translation": "She took a stalk of bristlegrass from her pocket."
     },
     {
-      "JP": "鈴@「この道六十五年の匠がこりこりにこだわった猫じゃらしだ」",
+      "JP": "`鈴@「この道六十五年の匠がこりこりにこだわった猫じゃらしだ」",
       "EN": "`Rin@❝This is one of the bristlegrasses a great artisan put 65 years into making.❞",
       "Translation": "`Rin@❝This is one of the bristlegrasses a great artisan put 65 years into making.❞"
     },
     {
-      "JP": "ょんぴょん。",
+      "JP": "ぴょんぴょん。",
       "EN": "The cat pranced up.",
       "Translation": "The cat pranced up."
     },
     {
-      "JP": "られた猫じゃらしは恐ろしく自在にしなった。",
+      "JP": "振られた猫じゃらしは恐ろしく自在にしなった。",
       "EN": "She waved the grass very quickly.",
       "Translation": "She waved the grass very quickly."
     },
     {
-      "JP": "ゃー！",
+      "JP": "にゃー！",
       "EN": "Meow!",
       "Translation": "Meow!"
     },
     {
-      "JP": "鈴@「おまえにもわかるか…そうだろうそうだろう」",
+      "JP": "`鈴@「おまえにもわかるか…そうだろうそうだろう」",
       "EN": "`Rin@❝Oh, you can tell? Yes, that's right, this is an awesome bristlegrass.❞",
       "Translation": "`Rin@❝Oh, you can tell? Yes, that's right, this is an awesome bristlegrass.❞"
     },
     {
-      "JP": "鈴@「絶対に捕まえられないな」",
+      "JP": "`鈴@「絶対に捕まえられないな」",
       "EN": "`Rin@❝I'm sure you can't catch this.❞",
       "Translation": "`Rin@❝I'm sure you can't catch this.❞"
     },
     {
-      "JP": "鈴@「捕まえるのに六十五年はかかるな」",
+      "JP": "`鈴@「捕まえるのに六十五年はかかるな」",
       "EN": "`Rin@❝It would take you 65 years to catch it.❞",
       "Translation": "`Rin@❝It would take you 65 years to catch it.❞"
     },
     {
-      "JP": "ょんびょん。",
+      "JP": "びょんびょん。",
       "EN": "*Swing*swing*.",
       "Translation": "*Swing*swing*."
     },
     {
-      "JP": "ゃにゃ。",
+      "JP": "にゃにゃ。",
       "EN": "Meow meow.",
       "Translation": "Meow meow."
     },
     {
-      "JP": "鈴@「どーだどーだっ」",
+      "JP": "`鈴@「どーだどーだっ」",
       "EN": "`Rin@❝Come on, catch it.❞",
       "Translation": "`Rin@❝Come on, catch it.❞"
     },
     {
-      "JP": "て。",
+      "JP": "ぽて。",
       "EN": "The cat kept failing to grasp it.",
       "Translation": "The cat kept failing to grasp it."
     },
     {
-      "JP": "鈴@「やっぱり難しいだろ」",
+      "JP": "`鈴@「やっぱり難しいだろ」",
       "EN": "`Rin@❝I knew it'd be difficult.❞",
       "Translation": "`Rin@❝I knew it'd be difficult.❞"
     },
     {
-      "JP": "鈴@「そうだろー」",
+      "JP": "`鈴@「そうだろー」",
       "EN": "`Rin@❝That's right.❞",
       "Translation": "`Rin@❝That's right.❞"
     },
     {
-      "JP": "は得意げだ。",
+      "JP": "鈴は得意げだ。",
       "EN": "She looked pleased.",
       "Translation": "She looked pleased."
     },
     {
-      "JP": "ょんびょん。",
+      "JP": "びょんびょん。",
       "EN": "*Swing*swing*.",
       "Translation": "*Swing*swing*."
     },
     {
-      "JP": "じゃらしを見せびらかすように動かしている。",
+      "JP": "猫じゃらしを見せびらかすように動かしている。",
       "EN": "She waved the grass as though showing it off.",
       "Translation": "She waved the grass as though showing it off."
     },
     {
-      "JP": "鈴@「さすが六十五年物は違うな…」",
+      "JP": "`鈴@「さすが六十五年物は違うな…」",
       "EN": "`Rin@❝As expected of one 65 years old, it's really something else...❞",
       "Translation": "`Rin@❝As expected of one 65 years old, it's really something else...❞"
     },
     {
-      "JP": "鈴@「きっと寮長は手に入れるのに苦労しただろう…」",
+      "JP": "`鈴@「きっと寮長は手に入れるのに苦労しただろう…」",
       "EN": "`Rin@❝I'm sure it must've been a tough thing for the dorm head to get her hands on...❞",
       "Translation": "`Rin@❝I'm sure it must've been a tough thing for the dorm head to get her hands on...❞"
     },
     {
-      "JP": "や、それは違うと思うよ鈴…。",
+      "JP": "いや、それは違うと思うよ鈴…。",
       "EN": "No, Rin, I'm not so sure about that...",
       "Translation": "No, Rin, I'm not so sure about that..."
     },
     {
-      "JP": "ゃっ。",
+      "JP": "にゃっ。",
       "EN": "Meow.",
       "Translation": "Meow."
     },
     {
-      "JP": "ょんびょ…たし。",
+      "JP": "びょんびょ…たし。",
       "EN": "But wait...",
       "Translation": "But wait..."
     },
     {
-      "JP": "鈴@「…なにぃ…」",
+      "JP": "`鈴@「…なにぃ…」",
       "EN": "`Rin@❝...What...❞",
       "Translation": "`Rin@❝...What...❞"
     },
     {
-      "JP": "ゃ～。",
+      "JP": "にゃ～。",
       "EN": "Meow～.",
       "Translation": "Meow～."
     },
     {
-      "JP": "猫は見事に猫じゃらしを押さえた。",
+      "JP": "虎猫は見事に猫じゃらしを押さえた。",
       "EN": "The tabby cat splendidly caught hold of the bristlegrass.",
       "Translation": "The tabby cat splendidly caught hold of the bristlegrass."
     },
     {
-      "JP": "鈴@「もう六十五年経ったのか…」",
+      "JP": "`鈴@「もう六十五年経ったのか…」",
       "EN": "`Rin@❝Wow, 65 years have already passed...?❞",
       "Translation": "`Rin@❝Wow, 65 years have already passed...?❞"
     },
     {
-      "JP": "っ！",
+      "JP": "早っ！",
       "EN": "No way!",
       "Translation": "No way!"
     },
     {
-      "JP": "鈴@「というかおまえがすごいだけか」",
+      "JP": "`鈴@「というかおまえがすごいだけか」",
       "EN": "`Rin@❝Or rather, you're amazing.❞",
       "Translation": "`Rin@❝Or rather, you're amazing.❞"
     },
     {
-      "JP": "鈴@「常人、じゃない常猫（じょうねこ）の何倍もすごいな」",
+      "JP": "`鈴@「常人、じゃない常猫（じょうねこ）の何倍もすごいな」",
       "EN": "`Rin@❝You're much better than any ordinary person... no, any ordinary cat.❞",
       "Translation": "`Rin@❝You're much better than any ordinary person... no, any ordinary cat.❞"
     },
     {
-      "JP": "鈴@「よし、ヒットラー、おまえのあだ名は五十六（いそろく）にしよう」",
+      "JP": "`鈴@「よし、ヒットラー、おまえのあだ名は五十六（いそろく）にしよう」",
       "EN": "`Rin@❝Okay, Hitler, your nickname will be Isoroku.❞",
       "Translation": "`Rin@❝Okay, Hitler, your nickname will be Isoroku.❞"
     },
     {
-      "JP": "ごい掛け合わせだ…。",
+      "JP": "すごい掛け合わせだ…。",
       "EN": "The cats names keep getting more intimidating...",
       "Translation": "The cats names keep getting more intimidating..."
     },
     {
-      "JP": "鈴@「五十六、リベンジだ。ほらびょんびょん」",
+      "JP": "`鈴@「五十六、リベンジだ。ほらびょんびょん」",
       "EN": "`Rin@❝Isoroku, revenge time! Here, ～boing boing～.❞",
       "Translation": "`Rin@❝Isoroku, revenge time! Here, ～boing boing～.❞"
     },
     {
-      "JP": "ゃ！　にゃ！",
+      "JP": "にゃ！　にゃ！",
       "EN": "Meow! Meow!",
       "Translation": "Meow! Meow!"
     },
     {
-      "JP": "鈴@「あたしがもっと動かせばダメだろおまえ」",
+      "JP": "`鈴@「あたしがもっと動かせばダメだろおまえ」",
       "EN": "`Rin@❝If I swing it faster, you won't catch it, right?❞",
       "Translation": "`Rin@❝If I swing it faster, you won't catch it, right?❞"
     },
     {
-      "JP": "鈴@「あさっぷあさっぷ！」",
+      "JP": "`鈴@「あさっぷあさっぷ！」",
       "EN": "`Rin@❝ASAP! ASAP!❞",
       "Translation": "`Rin@❝ASAP! ASAP!❞"
     },
     {
-      "JP": "鈴@「…早いはあさっぷってばか兄貴言ってたけど」",
+      "JP": "`鈴@「…早いはあさっぷってばか兄貴言ってたけど」",
       "EN": "`Rin@❝My stupid brother said ❛ASAP❜ meant ❛soon.❜❞",
       "Translation": "`Rin@❝My stupid brother said ❛ASAP❜ meant ❛soon.❜❞"
     },
     {
-      "JP": "鈴@「あさっぷってなんだろ」",
+      "JP": "`鈴@「あさっぷってなんだろ」",
       "EN": "`Rin@❝But what is ❛ASAP❜?❞",
       "Translation": "`Rin@❝But what is ❛ASAP❜?❞"
     },
     {
-      "JP": "鈴@「…？　？」",
+      "JP": "`鈴@「…？　？」",
       "EN": "`Rin@❝...?❞",
       "Translation": "`Rin@❝...?❞"
     },
     {
-      "JP": "がふと考え込んで動きが止まった隙に猫じゃらしが押さえつけられる。",
+      "JP": "鈴がふと考え込んで動きが止まった隙に猫じゃらしが押さえつけられる。",
       "EN": "While she was pondering it, the cat caught the bristlegrass again.",
       "Translation": "While she was pondering it, the cat caught the bristlegrass again."
     },
     {
-      "JP": "ゃ。たし。",
+      "JP": "にゃ。たし。",
       "EN": "Meow.",
       "Translation": "Meow."
     },
     {
-      "JP": "鈴@「…なにぃ…」",
+      "JP": "`鈴@「…なにぃ…」",
       "EN": "`Rin@❝...What...❞",
       "Translation": "`Rin@❝...What...❞"
     },
     {
-      "JP": "鈴@「また六十五年経ったのか…」",
+      "JP": "`鈴@「また六十五年経ったのか…」",
       "EN": "`Rin@❝Another 65 years have passed...?❞",
       "Translation": "`Rin@❝Another 65 years have passed...?❞"
     },
     {
-      "JP": "鈴@「こういん矢のごとしだな…」",
+      "JP": "`鈴@「こういん矢のごとしだな…」",
       "EN": "`Rin@❝Time does fly.❞",
       "Translation": "`Rin@❝Time does fly.❞"
     },
     {
-      "JP": "鈴@「こういんとは光と影だ。銀行のひとじゃないんだぞ？」",
+      "JP": "`鈴@「こういんとは光と影だ。銀行のひとじゃないんだぞ？」",
       "EN": "`Rin@❝That's the verb ❛to fly❜, not the insect. Got it?❞",
       "Translation": "`Rin@❝That's the verb ❛to fly❜, not the insect. Got it?❞"
     },
     {
-      "JP": "ゃ。にゃ。",
+      "JP": "にゃ。にゃ。",
       "EN": "Meow. Meow.",
       "Translation": "Meow. Meow."
     },
     {
-      "JP": "ょんびょん。",
+      "JP": "びょんびょん。",
       "EN": "*Swing*swing*.",
       "Translation": "*Swing*swing*."
     },
     {
-      "JP": "鈴@「ん？　んん？」",
+      "JP": "`鈴@「ん？　んん？」",
       "EN": "`Rin@❝Hm? Hmm?❞",
       "Translation": "`Rin@❝Hm? Hmm?❞"
     },
     {
-      "JP": "いー、と鈴は猫じゃらしを持ち上げた。",
+      "JP": "ぐいー、と鈴は猫じゃらしを持ち上げた。",
       "EN": "She lifted up the bristlegrass.",
       "Translation": "She lifted up the bristlegrass."
     },
     {
-      "JP": "ゃ？",
+      "JP": "にゃ？",
       "EN": "Meow?",
       "Translation": "Meow?"
     },
     {
-      "JP": "鈴@「んー…」",
+      "JP": "`鈴@「んー…」",
       "EN": "`Rin@❝Hmm...❞",
       "Translation": "`Rin@❝Hmm...❞"
     },
     {
-      "JP": "じゃらしを前足で押さえている猫が持ち上がる。",
+      "JP": "猫じゃらしを前足で押さえている猫が持ち上がる。",
       "EN": "The cat, holding onto the grass with its forepaws, was also lifted up.",
       "Translation": "The cat, holding onto the grass with its forepaws, was also lifted up."
     },
     {
-      "JP": "鈴@「こんじょー、こんじょー」",
+      "JP": "`鈴@「こんじょー、こんじょー」",
       "EN": "`Rin@❝Keep it up! Keep it up!❞",
       "Translation": "`Rin@❝Keep it up! Keep it up!❞"
     },
     {
-      "JP": "かエールを送ってるぞ…。",
+      "JP": "何かエールを送ってるぞ…。",
       "EN": "She was cheering for the cat...",
       "Translation": "She was cheering for the cat..."
     },
     {
-      "JP": "鈴@「足ぷるぷるしてるぞ」",
+      "JP": "`鈴@「足ぷるぷるしてるぞ」",
       "EN": "`Rin@❝Your feet are wiggling.❞",
       "Translation": "`Rin@❝Your feet are wiggling.❞"
     },
     {
-      "JP": "、ほんとだ。",
+      "JP": "あ、ほんとだ。",
       "EN": "Wow, they really were!",
       "Translation": "Wow, they really were!"
     },
     {
-      "JP": "鈴@「後ろ足がぷるぷるしてるな…すごいな五十六」",
+      "JP": "`鈴@「後ろ足がぷるぷるしてるな…すごいな五十六」",
       "EN": "`Rin@❝Your hind legs are really wiggling... That's awesome, Isoroku!❞",
       "Translation": "`Rin@❝Your hind legs are really wiggling... That's awesome, Isoroku!❞"
     },
     {
-      "JP": "ゃ…にゃにゃっ…。",
+      "JP": "にゃ…にゃにゃっ…。",
       "EN": "Meow... me... meow...",
       "Translation": "Meow... me... meow..."
     },
     {
-      "JP": "鈴@「がんばれー。史上初の二足歩行だっ」",
+      "JP": "`鈴@「がんばれー。史上初の二足歩行だっ」",
       "EN": "`Rin@❝Keep it up! Be the first upright-walking cat!❞",
       "Translation": "`Rin@❝Keep it up! Be the first upright-walking cat!❞"
     },
     {
-      "JP": "て。",
+      "JP": "ぽて。",
       "EN": "But his forefeet landed on the ground.",
       "Translation": "But his forefeet landed on the ground."
     },
     {
-      "JP": "鈴@「あ」",
+      "JP": "`鈴@「あ」",
       "EN": "`Rin@❝Ah.❞",
       "Translation": "`Rin@❝Ah.❞"
     },
     {
-      "JP": "ゃにゃ。ごろごろ。",
+      "JP": "にゃにゃ。ごろごろ。",
       "EN": "Meow, meow. He started rolling around.",
       "Translation": "Meow, meow. He started rolling around."
     },
     {
-      "JP": "鈴@「どーでもよくなったなおまえ…」",
+      "JP": "`鈴@「どーでもよくなったなおまえ…」",
       "EN": "`Rin@❝You seem to have lost all interest...❞",
       "Translation": "`Rin@❝You seem to have lost all interest...❞"
     },
     {
-      "JP": "鈴@「まぁいい。次。ってまた虎猫か。いいけど」",
+      "JP": "`鈴@「まぁいい。次。ってまた虎猫か。いいけど」",
       "EN": "`Rin@❝Fine. Next. Huh, another tabby cat? All right, fine.❞",
       "Translation": "`Rin@❝Fine. Next. Huh, another tabby cat? All right, fine.❞"
     },
     {
-      "JP": "ょんびょん。",
+      "JP": "びょんびょん。",
       "EN": "*Swing*swing*.",
       "Translation": "*Swing*swing*."
     },
     {
-      "JP": "鈴@「んー？」",
+      "JP": "`鈴@「んー？」",
       "EN": "`Rin@❝Hmmm?❞",
       "Translation": "`Rin@❝Hmmm?❞"
     },
     {
-      "JP": "鈴@「…なんだおまえも遊んで欲しいのか」",
+      "JP": "`鈴@「…なんだおまえも遊んで欲しいのか」",
       "EN": "`Rin@❝...You wanna play with me as well?❞",
       "Translation": "`Rin@❝...You wanna play with me as well?❞"
     },
     {
-      "JP": "みゃー。",
+      "JP": "ふみゃー。",
       "EN": "Phmeow.",
       "Translation": "Phmeow."
     },
     {
-      "JP": "差し指に茶白猫が頭を撫でつけている。",
+      "JP": "人差し指に茶白猫が頭を撫でつけている。",
       "EN": "It was a white-brown cat. It seemed like he wanted her to pet his head.",
       "Translation": "It was a white-brown cat. It seemed like he wanted her to pet his head."
     },
     {
-      "JP": "じゃらしを動かしながら、鈴は茶白猫のひげを指先でくるくる弄った。",
+      "JP": "猫じゃらしを動かしながら、鈴は茶白猫のひげを指先でくるくる弄った。",
       "EN": "While swinging the grass, she was playing with his whiskers.",
       "Translation": "While swinging the grass, she was playing with his whiskers."
     },
     {
-      "JP": "にゃふにゃ。",
+      "JP": "ふにゃふにゃ。",
       "EN": "Phmeow, phmeow.",
       "Translation": "Phmeow, phmeow."
     },
     {
-      "JP": "も合わせて顔をぐるぐる回している。",
+      "JP": "猫も合わせて顔をぐるぐる回している。",
       "EN": "The cat was also turning his head around, following its movement.",
       "Translation": "The cat was also turning his head around, following its movement."
     },
     {
-      "JP": "鈴@「んー…」",
+      "JP": "`鈴@「んー…」",
       "EN": "`Rin@❝Hmmm...❞",
       "Translation": "`Rin@❝Hmmm...❞"
     },
     {
-      "JP": "々頬をつついたりしている。",
+      "JP": "時々頬をつついたりしている。",
       "EN": "She occasionally poked at his cheek.",
       "Translation": "She occasionally poked at his cheek."
     },
     {
-      "JP": "鈴@「びょんびょん…ふにふに…」",
+      "JP": "`鈴@「びょんびょん…ふにふに…」",
       "EN": "`Rin@❝Aww, so soft and squishy...❞",
       "Translation": "`Rin@❝Aww, so soft and squishy...❞"
     },
     {
-      "JP": "鈴@「………」",
+      "JP": "`鈴@「………」",
       "EN": "`Rin@❝.........❞",
       "Translation": "`Rin@❝.........❞"
     },
     {
-      "JP": "鈴@「びょふびょふ…」",
+      "JP": "`鈴@「びょふびょふ…」",
       "EN": "`Rin@❝Feels like byoufu byoufu...❞",
       "Translation": "`Rin@❝Feels like byoufu byoufu...❞"
     },
     {
-      "JP": "しい擬音を生み出している…。",
+      "JP": "新しい擬音を生み出している…。",
       "EN": "She just made up a new mimetic word...",
       "Translation": "She just made up a new mimetic word..."
     },
     {
-      "JP": "鈴@「ひゃ！」",
+      "JP": "`鈴@「ひゃ！」",
       "EN": "`Rin@❝Ah!❞",
       "Translation": "`Rin@❝Ah!❞"
     },
     {
-      "JP": "が体を震わせた。",
+      "JP": "鈴が体を震わせた。",
       "EN": "She shook her body.",
       "Translation": "She shook her body."
     },
     {
-      "JP": "鈴@「こ、こら」",
+      "JP": "`鈴@「こ、こら」",
       "EN": "`Rin@❝H, hey!❞",
       "Translation": "`Rin@❝H, hey!❞"
     },
     {
-      "JP": "ぷかぷ、と猫が人差し指を甘咬みしている。",
+      "JP": "かぷかぷ、と猫が人差し指を甘咬みしている。",
       "EN": "He was nibbling her finger.",
       "Translation": "He was nibbling her finger."
     },
     {
-      "JP": "鈴@「おまえ、あたしの指はおいしくないぞ…」",
+      "JP": "`鈴@「おまえ、あたしの指はおいしくないぞ…」",
       "EN": "`Rin@❝Hey you... my finger isn't tasty...❞",
       "Translation": "`Rin@❝Hey you... my finger isn't tasty...❞"
     },
     {
-      "JP": "ゃふにゃふ。",
+      "JP": "にゃふにゃふ。",
       "EN": "He didn't stop.",
       "Translation": "He didn't stop."
     },
     {
-      "JP": "鈴@「…口にあたる感触がおもしろいのか？」",
+      "JP": "`鈴@「…口にあたる感触がおもしろいのか？」",
       "EN": "`Rin@❝...You like nibbling my finger? Is it interesting?❞",
       "Translation": "`Rin@❝...You like nibbling my finger? Is it interesting?❞"
     },
     {
-      "JP": "鈴@「変わった趣味だなおまえ…」",
+      "JP": "`鈴@「変わった趣味だなおまえ…」",
       "EN": "`Rin@❝You have some weird tastes...❞",
       "Translation": "`Rin@❝You have some weird tastes...❞"
     },
     {
-      "JP": "えられた指を上下に軽く動かす鈴。",
+      "JP": "咥えられた指を上下に軽く動かす鈴。",
       "EN": "She moved her nibbled finger up and down.",
       "Translation": "She moved her nibbled finger up and down."
     },
     {
-      "JP": "鈴@「んっ…ん…ぁ…」",
+      "JP": "`鈴@「んっ…ん…ぁ…」",
       "EN": "`Rin@❝Hmm... hm... ah...❞",
       "Translation": "`Rin@❝Hmm... hm... ah...❞"
     },
     {
-      "JP": "根を一瞬寄せた鈴。",
+      "JP": "眉根を一瞬寄せた鈴。",
       "EN": "She knit her eyebrows.",
       "Translation": "She knit her eyebrows."
     },
     {
-      "JP": "首をかしげて言った。",
+      "JP": "小首をかしげて言った。",
       "EN": "Leaning her head to one side, she said.",
       "Translation": "Leaning her head to one side, she said."
     },
     {
-      "JP": "鈴@「…お？」",
+      "JP": "`鈴@「…お？」",
       "EN": "`Rin@❝...Oh?❞",
       "Translation": "`Rin@❝...Oh?❞"
     },
     {
-      "JP": "鈴@「おー？」",
+      "JP": "`鈴@「おー？」",
       "EN": "`Rin@❝Ohhhhhhh.❞",
       "Translation": "`Rin@❝Ohhhhhhh.❞"
     },
     {
-      "JP": "鈴@「なんか気持ちいいぞこれ…」",
+      "JP": "`鈴@「なんか気持ちいいぞこれ…」",
       "EN": "`Rin@❝That feels good, somehow...❞",
       "Translation": "`Rin@❝That feels good, somehow...❞"
     },
     {
-      "JP": "鈴@「まさか指圧師なのかおまえ…」",
+      "JP": "`鈴@「まさか指圧師なのかおまえ…」",
       "EN": "`Rin@❝Could you be... an acupressure therapist?❞",
       "Translation": "`Rin@❝Could you be... an acupressure therapist?❞"
     },
     {
-      "JP": "鈴@「さすがだな…テヅカ」",
+      "JP": "`鈴@「さすがだな…テヅカ」",
       "EN": "`Rin@❝As expected of you, Tezuka.❞",
       "Translation": "`Rin@❝As expected of you, Tezuka.❞"
     },
     {
-      "JP": "ろそろ声をかけよう。",
+      "JP": "そろそろ声をかけよう。",
       "EN": "I should call out to her soon.",
       "Translation": "I should call out to her soon."
     },
     {
-      "JP": "理樹@「鈴、日直なのに、遊んでたらダメだろ」",
+      "JP": "`理樹@「鈴、日直なのに、遊んでたらダメだろ」",
       "EN": "`Riki@❝Rin, you're on class duty today. No time to play with them.❞",
       "Translation": "`Riki@❝Rin, you're on class duty today. No time to play with them.❞"
     },
     {
-      "JP": "っていってそう言うと、彼女は立ち上がり、こちらを睨みつけた。",
+      "JP": "寄っていってそう言うと、彼女は立ち上がり、こちらを睨みつけた。",
       "EN": "I said, getting closer to her. She got to her feet and gave me a fierce look.",
       "Translation": "I said, getting closer to her. She got to her feet and gave me a fierce look."
     },
     {
-      "JP": "鈴@「遊んでなんかない」",
+      "JP": "`鈴@「遊んでなんかない」",
       "EN": "`Rin@❝I wasn't playing with them.❞",
       "Translation": "`Rin@❝I wasn't playing with them.❞"
     },
     {
-      "JP": "の手に持つ猫じゃらしを後ろに隠す。そこへみゃーみゃーと猫が集中する。",
+      "JP": "その手に持つ猫じゃらしを後ろに隠す。そこへみゃーみゃーと猫が集中する。",
       "EN": "She hid the bristlegrass behind her back. The cats started gathering behind her.",
       "Translation": "She hid the bristlegrass behind her back. The cats started gathering behind her."
     },
     {
-      "JP": "鈴@「叱ってたんだ」",
+      "JP": "`鈴@「叱ってたんだ」",
       "EN": "`Rin@❝I was scolding them.❞",
       "Translation": "`Rin@❝I was scolding them.❞"
     },
     {
-      "JP": "理樹@「猫を？」",
+      "JP": "`理樹@「猫を？」",
       "EN": "`Riki@❝You were scolding the cats?❞",
       "Translation": "`Riki@❝You were scolding the cats?❞"
     },
     {
-      "JP": "鈴@「うん」",
+      "JP": "`鈴@「うん」",
       "EN": "`Rin@❝Yup.❞",
       "Translation": "`Rin@❝Yup.❞"
     },
     {
-      "JP": "理樹@「どうして」",
+      "JP": "`理樹@「どうして」",
       "EN": "`Riki@❝Why?❞",
       "Translation": "`Riki@❝Why?❞"
     },
     {
-      "JP": "鈴@「ファーブルとヒットラーが喧嘩してたから」",
+      "JP": "`鈴@「ファーブルとヒットラーが喧嘩してたから」",
       "EN": "`Rin@❝Because Fabre was fighting with Hitler.❞",
       "Translation": "`Rin@❝Because Fabre was fighting with Hitler.❞"
     },
     {
-      "JP": "理樹@「そりゃまた穏やかじゃないねぇ」",
+      "JP": "`理樹@「そりゃまた穏やかじゃないねぇ」",
       "EN": "`Riki@❝You sure have your hands full like always.❞",
       "Translation": "`Riki@❝You sure have your hands full like always.❞"
     },
     {
-      "JP": "え見えの嘘だったし、それが本当だとしてもいいわけとして成り立たない。",
+      "JP": "見え見えの嘘だったし、それが本当だとしてもいいわけとして成り立たない。",
       "EN": "Of course I knew she was lying. That aside, it would be a bad excuse even if it were true.",
       "Translation": "Of course I knew she was lying. That aside, it would be a bad excuse even if it were true."
     },
     {
-      "JP": "鈴@「何度言っても聞かない。こいつら馬鹿だ」",
+      "JP": "`鈴@「何度言っても聞かない。こいつら馬鹿だ」",
       "EN": "`Rin@❝They don't listen to anything I say. They must be stupid cats.❞",
       "Translation": "`Rin@❝They don't listen to anything I say. They must be stupid cats.❞"
     },
     {
-      "JP": "理樹@「鈴、日直なのに、遊んでたらダメだろ」",
+      "JP": "`理樹@「鈴、日直なのに、遊んでたらダメだろ」",
       "EN": "`Riki@❝Rin, you're on class duty today. No time to play with them.❞",
       "Translation": "`Riki@❝Rin, you're on class duty today. No time to play with them.❞"
     },
     {
-      "JP": "っていってそう言うと、彼女は立ち上がり、こちらを睨みつけた。",
+      "JP": "寄っていってそう言うと、彼女は立ち上がり、こちらを睨みつけた。",
       "EN": "I said, getting closer to her. She got to her feet and gave me a fierce look.",
       "Translation": "I said, getting closer to her. She got to her feet and gave me a fierce look."
     },
     {
-      "JP": "鈴@「遊んでなんかない」",
+      "JP": "`鈴@「遊んでなんかない」",
       "EN": "`Rin@❝I wasn't playing with them.❞",
       "Translation": "`Rin@❝I wasn't playing with them.❞"
     },
     {
-      "JP": "鈴@「叱ってたんだ」",
+      "JP": "`鈴@「叱ってたんだ」",
       "EN": "`Rin@❝I was scolding them.❞",
       "Translation": "`Rin@❝I was scolding them.❞"
     },
     {
-      "JP": "理樹@「猫を？」",
+      "JP": "`理樹@「猫を？」",
       "EN": "`Riki@❝You were scolding the cats?❞",
       "Translation": "`Riki@❝You were scolding the cats?❞"
     },
     {
-      "JP": "鈴@「うん」",
+      "JP": "`鈴@「うん」",
       "EN": "`Rin@❝Yup.❞",
       "Translation": "`Rin@❝Yup.❞"
     },
     {
-      "JP": "理樹@「どうして」",
+      "JP": "`理樹@「どうして」",
       "EN": "`Riki@❝Why?❞",
       "Translation": "`Riki@❝Why?❞"
     },
     {
-      "JP": "鈴@「ファーブルとヒットラーが喧嘩してたから」",
+      "JP": "`鈴@「ファーブルとヒットラーが喧嘩してたから」",
       "EN": "`Rin@❝Because Fabre was fighting with Hitler.❞",
       "Translation": "`Rin@❝Because Fabre was fighting with Hitler.❞"
     },
     {
-      "JP": "理樹@「そりゃまた穏やかじゃないねぇ」",
+      "JP": "`理樹@「そりゃまた穏やかじゃないねぇ」",
       "EN": "`Riki@❝You sure have your hands full like always.❞",
       "Translation": "`Riki@❝You sure have your hands full like always.❞"
     },
     {
-      "JP": "の名前であることはわかっていたが、響きだけでおののいてしまう。",
+      "JP": "猫の名前であることはわかっていたが、響きだけでおののいてしまう。",
       "EN": "Although I knew Hitler and Fabre were the names of her cats, I shuddered at hearing them.",
       "Translation": "Although I knew Hitler and Fabre were the names of her cats, I shuddered at hearing them."
     },
     {
-      "JP": "鈴@「何度言っても聞かない。こいつら馬鹿だ」",
+      "JP": "`鈴@「何度言っても聞かない。こいつら馬鹿だ」",
       "EN": "`Rin@❝They don't listen to anything I say. They must be stupid cats.❞",
       "Translation": "`Rin@❝They don't listen to anything I say. They must be stupid cats.❞"
     },
     {
-      "JP": "鈴@「こら、ヒットラー！」",
+      "JP": "`鈴@「こら、ヒットラー！」",
       "EN": "`Rin@❝Hey, Hitler!❞",
       "Translation": "`Rin@❝Hey, Hitler!❞"
     },
     {
-      "JP": "が彼女の手から逃げ、それを追おうとした。",
+      "JP": "猫が彼女の手から逃げ、それを追おうとした。",
       "EN": "The cat escaped from Rin's hold, and she made to give chase.",
       "Translation": "The cat escaped from Rin's hold, and she made to give chase."
     },
     {
-      "JP": "はその肩を掴む。",
+      "JP": "僕はその肩を掴む。",
       "EN": "I grabbed her shoulder.",
       "Translation": "I grabbed her shoulder."
     },
     {
-      "JP": "にとっては、鈴のほうが猫みたいなものだ。",
+      "JP": "僕にとっては、鈴のほうが猫みたいなものだ。",
       "EN": "If you ask me, she is more cat-like than the cats themselves.",
       "Translation": "If you ask me, she is more cat-like than the cats themselves."
     },
     {
-      "JP": "鈴@「なに？」",
+      "JP": "`鈴@「なに？」",
       "EN": "`Rin@❝What?❞",
       "Translation": "`Rin@❝What?❞"
     },
     {
-      "JP": "理樹@「いや、最初に言ったでしょ。鈴、日直だって」",
+      "JP": "`理樹@「いや、最初に言ったでしょ。鈴、日直だって」",
       "EN": "`Riki@❝You forgot? I told you that you have work to do in the classroom today.❞",
       "Translation": "`Riki@❝You forgot? I told you that you have work to do in the classroom today.❞"
     },
     {
-      "JP": "鈴@「そんなこと、どうでもいい」",
+      "JP": "`鈴@「そんなこと、どうでもいい」",
       "EN": "`Rin@❝I don't care.❞",
       "Translation": "`Rin@❝I don't care.❞"
     },
     {
-      "JP": "理樹@「どうでもよくないよ」",
+      "JP": "`理樹@「どうでもよくないよ」",
       "EN": "`Riki@❝You should care.❞",
       "Translation": "`Riki@❝You should care.❞"
     },
     {
-      "JP": "鈴@「どうして」",
+      "JP": "`鈴@「どうして」",
       "EN": "`Rin@❝Why?❞",
       "Translation": "`Rin@❝Why?❞"
     },
     {
-      "JP": "理樹@「そういう役目をちゃんと果たしていかないと、鈴、クラスから浮いていくよ？」",
+      "JP": "`理樹@「そういう役目をちゃんと果たしていかないと、鈴、クラスから浮いていくよ？」",
       "EN": "`Riki@❝If you don't take care of your duties, they'll treat you as an irresponsible person.❞",
       "Translation": "`Riki@❝If you don't take care of your duties, they'll treat you as an irresponsible person.❞"
     },
     {
-      "JP": "理樹@「女子ともあんまり仲よくないでしょ？」",
+      "JP": "`理樹@「女子ともあんまり仲よくないでしょ？」",
       "EN": "`Riki@❝You aren't getting along with the other girls, are you?❞",
       "Translation": "`Riki@❝You aren't getting along with the other girls, are you?❞"
     },
     {
-      "JP": "鈴@「そんなことない」",
+      "JP": "`鈴@「そんなことない」",
       "EN": "`Rin@❝That's not true.❞",
       "Translation": "`Rin@❝That's not true.❞"
     },
     {
-      "JP": "理樹@「え？　誰か仲のいい女子いたっけ？」",
+      "JP": "`理樹@「え？　誰か仲のいい女子いたっけ？」",
       "EN": "`Riki@❝Really? Who are you friends with?❞",
       "Translation": "`Riki@❝Really? Who are you friends with?❞"
     },
     {
-      "JP": "鈴@「後ろの席の子」",
+      "JP": "`鈴@「後ろの席の子」",
       "EN": "`Rin@❝The girl who sits behind me.❞",
       "Translation": "`Rin@❝The girl who sits behind me.❞"
     },
     {
-      "JP": "理樹@「あ、そうなんだ。なんて名前の子だっけ？」",
+      "JP": "`理樹@「あ、そうなんだ。なんて名前の子だっけ？」",
       "EN": "`Riki@❝Ah, I didn't know that. What's her name?❞",
       "Translation": "`Riki@❝Ah, I didn't know that. What's her name?❞"
     },
     {
-      "JP": "鈴@「ぅぅ…」",
+      "JP": "`鈴@「ぅぅ…」",
       "EN": "`Rin@❝Uh...❞",
       "Translation": "`Rin@❝Uh...❞"
     },
     {
-      "JP": "理樹@「知らないの？」",
+      "JP": "`理樹@「知らないの？」",
       "EN": "`Riki@❝You don't know?❞",
       "Translation": "`Riki@❝You don't know?❞"
     },
     {
-      "JP": "鈴@「………」",
+      "JP": "`鈴@「………」",
       "EN": "`Rin@❝.........❞",
       "Translation": "`Rin@❝.........❞"
     },
     {
-      "JP": "理樹@「それで仲がいいってよく言えたね…」",
+      "JP": "`理樹@「それで仲がいいってよく言えたね…」",
       "EN": "`Riki@❝So much for getting along with her...❞",
       "Translation": "`Riki@❝So much for getting along with her...❞"
     },
     {
-      "JP": "鈴@「うるさい、だまれっ」",
+      "JP": "`鈴@「うるさい、だまれっ」",
       "EN": "`Rin@❝Shut up, you're noisy.❞",
       "Translation": "`Rin@❝Shut up, you're noisy.❞"
     },
     {
-      "JP": "鈴@「友達いなくて悪いか、おまえに迷惑かけてるかっ、それでおまえ、死ぬのかっ！」",
+      "JP": "`鈴@「友達いなくて悪いか、おまえに迷惑かけてるかっ、それでおまえ、死ぬのかっ！」",
       "EN": "`Rin@❝Is it a problem that I don't have any friends? Does that bother you? Will it kill you!?❞",
       "Translation": "`Rin@❝Is it a problem that I don't have any friends? Does that bother you? Will it kill you!?❞"
     },
     {
-      "JP": "理樹@「いや、悪くないし、迷惑もかかってないし、死にもしないけどさ…」",
+      "JP": "`理樹@「いや、悪くないし、迷惑もかかってないし、死にもしないけどさ…」",
       "EN": "`Riki@❝No, it's not a problem, it's not bothering me, and it won't kill me...❞",
       "Translation": "`Riki@❝No, it's not a problem, it's not bothering me, and it won't kill me...❞"
     },
     {
-      "JP": "理樹@「でも心配なんだよ、鈴のことが」",
+      "JP": "`理樹@「でも心配なんだよ、鈴のことが」",
       "EN": "`Riki@❝But I'm worried about you, Rin.❞",
       "Translation": "`Riki@❝But I'm worried about you, Rin.❞"
     },
     {
-      "JP": "理樹@「二年はたまたまみんな一緒のクラスになったから、いいけどさ…」",
+      "JP": "`理樹@「二年はたまたまみんな一緒のクラスになったから、いいけどさ…」",
       "EN": "`Riki@❝We're in the same class now, so there's no problem yet...❞",
       "Translation": "`Riki@❝We're in the same class now, so there's no problem yet...❞"
     },
     {
-      "JP": "理樹@「この先、鈴ひとりになったときにさ」",
+      "JP": "`理樹@「この先、鈴ひとりになったときにさ」",
       "EN": "`Riki@❝But we'll have to separate some day.❞",
       "Translation": "`Riki@❝But we'll have to separate some day.❞"
     },
     {
-      "JP": "理樹@「就職してさ、そんなだったら、まずいと思うよ？」",
+      "JP": "`理樹@「就職してさ、そんなだったら、まずいと思うよ？」",
       "EN": "`Riki@❝It'll be bad if things continue like this when you find yourself a job.❞",
       "Translation": "`Riki@❝It'll be bad if things continue like this when you find yourself a job.❞"
     },
     {
-      "JP": "理樹@「ボーイフレンドも見つからないよ」",
+      "JP": "`理樹@「ボーイフレンドも見つからないよ」",
       "EN": "`Riki@❝You haven't found a boyfriend either.❞",
       "Translation": "`Riki@❝You haven't found a boyfriend either.❞"
     },
     {
-      "JP": "鈴@「しね、ばーか」",
+      "JP": "`鈴@「しね、ばーか」",
       "EN": "`Rin@❝Drop dead, nitwit.❞",
       "Translation": "`Rin@❝Drop dead, nitwit.❞"
     },
     {
-      "JP": "理樹@「え？」",
+      "JP": "`理樹@「え？」",
       "EN": "`Riki@❝What?❞",
       "Translation": "`Riki@❝What?❞"
     },
     {
-      "JP": "鈴@「と、レノンが言ってる」",
+      "JP": "`鈴@「と、レノンが言ってる」",
       "EN": "`Rin@❝...is what Lennon said.❞",
       "Translation": "`Rin@❝...is what Lennon said.❞"
     },
     {
-      "JP": "匹の猫を指さす。",
+      "JP": "一匹の猫を指さす。",
       "EN": "She pointed at the cat.",
       "Translation": "She pointed at the cat."
     },
     {
-      "JP": "理樹@「あ、そ…」",
+      "JP": "`理樹@「あ、そ…」",
       "EN": "`Riki@❝Yeah, right...❞",
       "Translation": "`Riki@❝Yeah, right...❞"
     },
     {
-      "JP": "室に戻ってくると、黒板は綺麗になっていた。",
+      "JP": "教室に戻ってくると、黒板は綺麗になっていた。",
       "EN": "Upon returning to the classroom, I found the blackboard erased.",
       "Translation": "Upon returning to the classroom, I found the blackboard erased."
     },
     {
-      "JP": "にはいつの間にか、鈴の姿が。",
+      "JP": "席にはいつの間にか、鈴の姿が。",
       "EN": "And I saw Rin sitting at her desk.",
       "Translation": "And I saw Rin sitting at her desk."
     },
     {
-      "JP": "目は果たし終えたという顔だった。",
+      "JP": "役目は果たし終えたという顔だった。",
       "EN": "Sure enough, it looked like she'd finished her job.",
       "Translation": "Sure enough, it looked like she'd finished her job."
     },
     {
-      "JP": "局黒板は僕が消した。",
+      "JP": "結局黒板は僕が消した。",
       "EN": "I ended up erasing the blackboard myself.",
       "Translation": "I ended up erasing the blackboard myself."
     },
     {
-      "JP": "業が終わり放課後となる。",
+      "JP": "授業が終わり放課後となる。",
       "EN": "The classes finally drew to a close.",
       "Translation": "The classes finally drew to a close."
     },
     {
-      "JP": "理樹@「やっと終わった…」",
+      "JP": "`理樹@「やっと終わった…」",
       "EN": "`Riki@❝Phew, all over...❞",
       "Translation": "`Riki@❝Phew, all over...❞"
     },
     {
-      "JP": "真人@「授業受けるだけで、へばってるのか。体力のない奴め」",
+      "JP": "`真人@「授業受けるだけで、へばってるのか。体力のない奴め」",
       "EN": "`Masato@❝You're tired already? You have no strength.❞",
       "Translation": "`Masato@❝You're tired already? You have no strength.❞"
     },
     {
-      "JP": "理樹@「真人はもう内申捨ててるからいいよね、１８５３年にあった出来事、『火星と戦争』って、すごいね、尊敬するよ」",
+      "JP": "`理樹@「真人はもう内申捨ててるからいいよね、１８５３年にあった出来事、『火星と戦争』って、すごいね、尊敬するよ」",
       "EN": "`Riki@❝I envy you, Masato. Your answer to the question ❛What happened in 1853?❜ was ❛A war broke out between Mars and Earth.❜❞",
       "Translation": "`Riki@❝I envy you, Masato. Your answer to the question ❛What happened in 1853?❜ was ❛A war broke out between Mars and Earth.❜❞"
     },
     {
-      "JP": "真人@「ありがとよ」",
+      "JP": "`真人@「ありがとよ」",
       "EN": "`Masato@❝Thanks.❞",
       "Translation": "`Masato@❝Thanks.❞"
     },
     {
-      "JP": "の時の教師の唖然とした顔は、しばらく忘れられそうもない。",
+      "JP": "その時の教師の唖然とした顔は、しばらく忘れられそうもない。",
       "EN": "I'll never forget the history teacher's face when he heard the answer.",
       "Translation": "I'll never forget the history teacher's face when he heard the answer."
     },
     {
-      "JP": "真人@「で、今日は、これからどうすればいいんだ？」",
+      "JP": "`真人@「で、今日は、これからどうすればいいんだ？」",
       "EN": "`Masato@❝So what're we going to do?❞",
       "Translation": "`Masato@❝So what're we going to do?❞"
     },
     {
-      "JP": "人が考えながら僕と目を合わせる。",
+      "JP": "真人が考えながら僕と目を合わせる。",
       "EN": "While thinking about what to do, Masato's eyes met mine.",
       "Translation": "While thinking about what to do, Masato's eyes met mine."
     },
     {
-      "JP": "の恭介の提案を思い出す。",
+      "JP": "朝の恭介の提案を思い出す。",
       "EN": "We remembered what Kyousuke had said this morning.",
       "Translation": "We remembered what Kyousuke had said this morning."
     },
     {
-      "JP": "理樹@「…野球？」",
+      "JP": "`理樹@「…野球？」",
       "EN": "`Riki@❝...Baseball?❞",
       "Translation": "`Riki@❝...Baseball?❞"
     },
     {
-      "JP": "真人@「とにかく、恭介を迎えにいっか」",
+      "JP": "`真人@「とにかく、恭介を迎えにいっか」",
       "EN": "`Masato@❝Anyway, let's go see Kyousuke.❞",
       "Translation": "`Masato@❝Anyway, let's go see Kyousuke.❞"
     },
     {
-      "JP": "真人@「謙吾、鈴っ」",
+      "JP": "`真人@「謙吾、鈴っ」",
       "EN": "`Masato@❝Kengo! Rin!❞",
       "Translation": "`Masato@❝Kengo! Rin!❞"
     },
     {
-      "JP": "でに半分ぐらいの生徒がいない教室内を見渡したところ、鈴は見つかったが、謙吾の姿はなかった。",
+      "JP": "すでに半分ぐらいの生徒がいない教室内を見渡したところ、鈴は見つかったが、謙吾の姿はなかった。",
       "EN": "Looking around the half empty classroom, we found Rin, but not Kengo.",
       "Translation": "Looking around the half empty classroom, we found Rin, but not Kengo."
     },
     {
-      "JP": "理樹@「まあ、謙吾が、そんなもののために待つはずもなく」",
+      "JP": "`理樹@「まあ、謙吾が、そんなもののために待つはずもなく」",
       "EN": "`Riki@❝Actually, I can't imagine he'd wait for us.❞",
       "Translation": "`Riki@❝Actually, I can't imagine he'd wait for us.❞"
     },
     {
-      "JP": "真人@「まーな。とりあえず鈴確保」",
+      "JP": "`真人@「まーな。とりあえず鈴確保」",
       "EN": "`Masato@❝True that. But at least we got Rin.❞",
       "Translation": "`Masato@❝True that. But at least we got Rin.❞"
     },
     {
-      "JP": "人が、鞄を抱きしめて佇む鈴の肩をつかむ。",
+      "JP": "真人が、鞄を抱きしめて佇む鈴の肩をつかむ。",
       "EN": "Masato's hand gripped her shoulder.",
       "Translation": "Masato's hand gripped her shoulder."
     },
     {
-      "JP": "鈴@「うわ、馬鹿がうつる！」",
+      "JP": "`鈴@「うわ、馬鹿がうつる！」",
       "EN": "`Rin@❝Uwa, don't infect me with your stupidity!❞",
       "Translation": "`Rin@❝Uwa, don't infect me with your stupidity!❞"
     },
     {
-      "JP": "鈴@「ふかーっ！」",
+      "JP": "`鈴@「ふかーっ！」",
       "EN": "`Rin@❝Fuka――!❞",
       "Translation": "`Rin@❝Fuka――!❞"
     },
     {
-      "JP": "たばたするも、屈強な腕からは逃れられない。",
+      "JP": "じたばたするも、屈強な腕からは逃れられない。",
       "EN": "She struggled to free herself from his grip, but couldn't escape his muscled arm.",
       "Translation": "She struggled to free herself from his grip, but couldn't escape his muscled arm."
     },
     {
-      "JP": "真人@「じゃ、参りましょうか」",
+      "JP": "`真人@「じゃ、参りましょうか」",
       "EN": "`Masato@❝Okay, let's get going.❞",
       "Translation": "`Masato@❝Okay, let's get going.❞"
     },
     {
-      "JP": "課後なのに、恭介の教室は、いやに静かに感じた。",
+      "JP": "放課後なのに、恭介の教室は、いやに静かに感じた。",
       "EN": "Although school was over, Kyousuke's classroom was shrouded in silence.",
       "Translation": "Although school was over, Kyousuke's classroom was shrouded in silence."
     },
     {
-      "JP": "れは恭介が読書にふけっているせいだ。",
+      "JP": "それは恭介が読書にふけっているせいだ。",
       "EN": "I guess that's simply because Kyousuke was reading.",
       "Translation": "I guess that's simply because Kyousuke was reading."
     },
     {
-      "JP": "の姿は、他のクラスから女子が見物に訪れるほど、なんていうか…神聖なものだった。",
+      "JP": "その姿は、他のクラスから女子が見物に訪れるほど、なんていうか…神聖なものだった。",
       "EN": "Girls from other classes kept coming over to watch him. He looked, how to put it... like something holy.",
       "Translation": "Girls from other classes kept coming over to watch him. He looked, how to put it... like something holy."
     },
     {
-      "JP": "が目を伏せて、ページをめくる姿、それはとても絵になった。",
+      "JP": "彼が目を伏せて、ページをめくる姿、それはとても絵になった。",
       "EN": "He looked down at his book and turned a page. It was a picture perfect moment.",
       "Translation": "He looked down at his book and turned a page. It was a picture perfect moment."
     },
     {
-      "JP": "も、なにより見守りたいと思わせるのは、彼の童心だ。",
+      "JP": "でも、なにより見守りたいと思わせるのは、彼の童心だ。",
       "EN": "But what I wanted to watch above all was nothing but his childlike innocence.",
       "Translation": "But what I wanted to watch above all was nothing but his childlike innocence."
     },
     {
-      "JP": "語に感化され、笑い、怒り、時に泣く、その純真無垢な感情だ。",
+      "JP": "物語に感化され、笑い、怒り、時に泣く、その純真無垢な感情だ。",
       "EN": "While reading, all his emotions are clearly visible on his face: happiness, anger and sometimes sadness.",
       "Translation": "While reading, all his emotions are clearly visible on his face: happiness, anger and sometimes sadness."
     },
     {
-      "JP": "ういう意味で、読書をしている時の恭介は、魅力的なのだ。",
+      "JP": "そういう意味で、読書をしている時の恭介は、魅力的なのだ。",
       "EN": "In that way, Kyousuke is charming when he's reading.",
       "Translation": "In that way, Kyousuke is charming when he's reading."
     },
     {
-      "JP": "う。",
+      "JP": "笑う。",
       "EN": "He laughs――",
       "Translation": "He laughs――"
     },
     {
-      "JP": "年のように。",
+      "JP": "少年のように。",
       "EN": "――like a boy.",
       "Translation": "――like a boy."
     },
     {
-      "JP": "はいつまでその童心を守っていけるのだろうか。",
+      "JP": "彼はいつまでその童心を守っていけるのだろうか。",
       "EN": "Will he always keep his pure heart?",
       "Translation": "Will he always keep his pure heart?"
     },
     {
-      "JP": "なみに、恭介が読むのは、子供向けの漫画雑誌だけだ。",
+      "JP": "ちなみに、恭介が読むのは、子供向けの漫画雑誌だけだ。",
       "EN": "By the way, Kyousuke reads only manga magazines for kids.",
       "Translation": "By the way, Kyousuke reads only manga magazines for kids."
     },
     {
-      "JP": "うやく放課後になっていることに気づいたのか、顔を上げて時間を確かめた後、雑誌を閉ざした。",
+      "JP": "ようやく放課後になっていることに気づいたのか、顔を上げて時間を確かめた後、雑誌を閉ざした。",
       "EN": "Finally noticing that school had finished, he glanced at the clock and closed the magazine.",
       "Translation": "Finally noticing that school had finished, he glanced at the clock and closed the magazine."
     },
     {
-      "JP": "れと同時に教室内に、放課後のざわめきが戻る。",
+      "JP": "それと同時に教室内に、放課後のざわめきが戻る。",
       "EN": "At the same time, the stillness was broken.",
       "Translation": "At the same time, the stillness was broken."
     },
     {
-      "JP": "介が僕たちを認めて歩いてくる。",
+      "JP": "恭介が僕たちを認めて歩いてくる。",
       "EN": "Taking note of our presence, Kyousuke walked toward us.",
       "Translation": "Taking note of our presence, Kyousuke walked toward us."
     },
     {
-      "JP": "恭介@「バンドをしよう」",
+      "JP": "`恭介@「バンドをしよう」",
       "EN": "`Kyousuke@❝Let's start a band.❞",
       "Translation": "`Kyousuke@❝Let's start a band.❞"
     },
     {
-      "JP": "恭介@「バンド名は…リトルバスターズだ」",
+      "JP": "`恭介@「バンド名は…リトルバスターズだ」",
       "EN": "`Kyousuke@❝We'll call the band... Little Busters.❞",
       "Translation": "`Kyousuke@❝We'll call the band... Little Busters.❞"
     },
     {
-      "JP": "だんっ！",
+      "JP": "ずだんっ！",
       "EN": "*Tumble*!",
       "Translation": "*Tumble*!"
     },
     {
-      "JP": "",
+      "JP": "　",
       "EN": "　",
       "Translation": "　"
     },
     {
-      "JP": "と真人は同時にひっくり返る。",
+      "JP": "僕と真人は同時にひっくり返る。",
       "EN": "Masato and I fell down together.",
       "Translation": "Masato and I fell down together."
     },
     {
-      "JP": "真人@「待て、野球じゃなかったのか…？」",
+      "JP": "`真人@「待て、野球じゃなかったのか…？」",
       "EN": "`Masato@❝Wait! Didn't you say we were going to play baseball...?❞",
       "Translation": "`Masato@❝Wait! Didn't you say we were going to play baseball...?❞"
     },
     {
-      "JP": "恭介@「え？　そうだったか？」",
+      "JP": "`恭介@「え？　そうだったか？」",
       "EN": "`Kyousuke@❝Oh, did I?❞",
       "Translation": "`Kyousuke@❝Oh, did I?❞"
     },
     {
-      "JP": "恭介@「ああ…悪い。そうだったな、野球だ。今読んでた漫画がバンドものだったから感化されちまったぜ」",
+      "JP": "`恭介@「ああ…悪い。そうだったな、野球だ。今読んでた漫画がバンドものだったから感化されちまったぜ」",
       "EN": "`Kyousuke@❝Oh... sorry. Yeah, baseball. The manga I just read was one about a rock band, so I was just influenced.❞",
       "Translation": "`Kyousuke@❝Oh... sorry. Yeah, baseball. The manga I just read was one about a rock band, so I was just influenced.❞"
     },
     {
-      "JP": "鈴@「おまえ、なんでもいいんだろ」",
+      "JP": "`鈴@「おまえ、なんでもいいんだろ」",
       "EN": "`Rin@❝Anything goes for you, does it...❞",
       "Translation": "`Rin@❝Anything goes for you, does it...❞"
     },
     {
-      "JP": "恭介@「んなこたねぇーよ、野球だよ、安心しろ、鈴」",
+      "JP": "`恭介@「んなこたねぇーよ、野球だよ、安心しろ、鈴」",
       "EN": "`Kyousuke@❝Of course not, baseball it is. Don't worry, Rin.❞",
       "Translation": "`Kyousuke@❝Of course not, baseball it is. Don't worry, Rin.❞"
     },
     {
-      "JP": "の頭を撫でるが、鈴はうっとうしいとばかりに顔をぷるぷる振るった。",
+      "JP": "その頭を撫でるが、鈴はうっとうしいとばかりに顔をぷるぷる振るった。",
       "EN": "He patted her head, but it seemed to annoy her.",
       "Translation": "He patted her head, but it seemed to annoy her."
     },
     {
-      "JP": "恭介@「で、やっぱ謙吾はいないのか」",
+      "JP": "`恭介@「で、やっぱ謙吾はいないのか」",
       "EN": "`Kyousuke@❝So, Kengo isn't with you, of course?❞",
       "Translation": "`Kyousuke@❝So, Kengo isn't with you, of course?❞"
     },
     {
-      "JP": "理樹@「部活あるからねぇ」",
+      "JP": "`理樹@「部活あるからねぇ」",
       "EN": "`Riki@❝He's busy with his club stuff.❞",
       "Translation": "`Riki@❝He's busy with his club stuff.❞"
     },
     {
-      "JP": "恭介@「まぁいい。そのうちあいつもわかってくれるさ」",
+      "JP": "`恭介@「まぁいい。そのうちあいつもわかってくれるさ」",
       "EN": "`Kyousuke@❝Ah well, he'll understand one day.❞",
       "Translation": "`Kyousuke@❝Ah well, he'll understand one day.❞"
     },
     {
-      "JP": "にを？と目を見合わせる僕たちを残して、恭介は廊下を歩いていく。",
+      "JP": "なにを？と目を見合わせる僕たちを残して、恭介は廊下を歩いていく。",
       "EN": "Understand what? We exchanged glances as Kyousuke strode into the corridor.",
       "Translation": "Understand what? We exchanged glances as Kyousuke strode into the corridor."
     },
     {
-      "JP": "恭介@「ほら、おまえら、いくぞっ」",
+      "JP": "`恭介@「ほら、おまえら、いくぞっ」",
       "EN": "`Kyousuke@❝Guys, let's go.❞",
       "Translation": "`Kyousuke@❝Guys, let's go.❞"
     },
     {
-      "JP": "う振り返りもせず、促した。",
+      "JP": "そう振り返りもせず、促した。",
       "EN": "Not even turning around, he just kept walking.",
       "Translation": "Not even turning around, he just kept walking."
     },
     {
-      "JP": "理樹@「どこに？」",
+      "JP": "`理樹@「どこに？」",
       "EN": "`Riki@❝Hey, where are you going?❞",
       "Translation": "`Riki@❝Hey, where are you going?❞"
     },
     {
-      "JP": "恭介@「部室」",
+      "JP": "`恭介@「部室」",
       "EN": "`Kyousuke@❝Clubroom.❞",
       "Translation": "`Kyousuke@❝Clubroom.❞"
     },
     {
-      "JP": "たちは、野球部の部室にやってきていた。",
+      "JP": "僕たちは、野球部の部室にやってきていた。",
       "EN": "We arrived at the baseball clubroom.",
       "Translation": "We arrived at the baseball clubroom."
     },
     {
-      "JP": "介は躊躇することなく戸を開け、中に踏み込んでいく。",
+      "JP": "恭介は躊躇することなく戸を開け、中に踏み込んでいく。",
       "EN": "Without any hesitation, Kyousuke opened the door and stepped inside.",
       "Translation": "Without any hesitation, Kyousuke opened the door and stepped inside."
     },
     {
-      "JP": "はしばらく掃除していないのか、荒れ放題だった。",
+      "JP": "中はしばらく掃除していないのか、荒れ放題だった。",
       "EN": "The interior had not been cleaned in a while; frankly, it was a mess.",
       "Translation": "The interior had not been cleaned in a while; frankly, it was a mess."
     },
     {
-      "JP": "理樹@「ひどい有様だねぇ…」",
+      "JP": "`理樹@「ひどい有様だねぇ…」",
       "EN": "`Riki@❝What an awful state...❞",
       "Translation": "`Riki@❝What an awful state...❞"
     },
     {
-      "JP": "恭介@「一応二年の部員は何人かいるらしいが、なにやらごたごたがあったそうで、新入部員がいないらしい」",
+      "JP": "`恭介@「一応二年の部員は何人かいるらしいが、なにやらごたごたがあったそうで、新入部員がいないらしい」",
       "EN": "`Kyousuke@❝They say there are still a few club members, but they've had some problems and failed to get any new members.❞",
       "Translation": "`Kyousuke@❝They say there are still a few club members, but they've had some problems and failed to get any new members.❞"
     },
     {
-      "JP": "恭介@「で、連中の留守のこの期間、使わしてもらおうというわけだ」",
+      "JP": "`恭介@「で、連中の留守のこの期間、使わしてもらおうというわけだ」",
       "EN": "`Kyousuke@❝That's why I've decided to borrow this room in their absence.❞",
       "Translation": "`Kyousuke@❝That's why I've decided to borrow this room in their absence.❞"
     },
     {
-      "JP": "真人@「早い話が、乗っ取るってわけだな」",
+      "JP": "`真人@「早い話が、乗っ取るってわけだな」",
       "EN": "`Masato@❝In a word, you simply hijacked it.❞",
       "Translation": "`Masato@❝In a word, you simply hijacked it.❞"
     },
     {
-      "JP": "理樹@「ちょっとの間だけね」",
+      "JP": "`理樹@「ちょっとの間だけね」",
       "EN": "`Riki@❝Just for a while.❞",
       "Translation": "`Riki@❝Just for a while.❞"
     },
     {
-      "JP": "恭介@「とりあえず掃除でもして、チーム結成祝いだ」",
+      "JP": "`恭介@「とりあえず掃除でもして、チーム結成祝いだ」",
       "EN": "`Kyousuke@❝Anyway, we have to clean up the room first and celebrate the formation of our team.❞",
       "Translation": "`Kyousuke@❝Anyway, we have to clean up the room first and celebrate the formation of our team.❞"
     },
     {
-      "JP": "理樹@「ふぅ…これ以上はきれいになりそうもないね」",
+      "JP": "`理樹@「ふぅ…これ以上はきれいになりそうもないね」",
       "EN": "`Riki@❝Phew, almost okay, I guess.❞",
       "Translation": "`Riki@❝Phew, almost okay, I guess.❞"
     },
     {
-      "JP": "恭介@「ま、いいだろ」",
+      "JP": "`恭介@「ま、いいだろ」",
       "EN": "`Kyousuke@❝Yeah, seems all right.❞",
       "Translation": "`Kyousuke@❝Yeah, seems all right.❞"
     },
     {
-      "JP": "真人@「ところで、人が減ってないか？」",
+      "JP": "`真人@「ところで、人が減ってないか？」",
       "EN": "`Masato@❝By the way, didn't we lose someone?❞",
       "Translation": "`Masato@❝By the way, didn't we lose someone?❞"
     },
     {
-      "JP": "理樹@「ああ、鈴なら、僕に雑巾とモップ渡して帰ったけど」",
+      "JP": "`理樹@「ああ、鈴なら、僕に雑巾とモップ渡して帰ったけど」",
       "EN": "`Riki@❝If you mean Rin, she handed me this mop and went to her room.❞",
       "Translation": "`Riki@❝If you mean Rin, she handed me this mop and went to her room.❞"
     },
     {
-      "JP": "真人@「なんだとおぉーーっ！」",
+      "JP": "`真人@「なんだとおぉーーっ！」",
       "EN": "`Masato@❝What!?❞",
       "Translation": "`Masato@❝What!?❞"
     },
     {
-      "JP": "真人@「おまえ、なんで止めねーんだよっ、三人で野球ができるかよっ！」",
+      "JP": "`真人@「おまえ、なんで止めねーんだよっ、三人で野球ができるかよっ！」",
       "EN": "`Masato@❝Why didn't you stop her? How can we play baseball with just three people!?❞",
       "Translation": "`Masato@❝Why didn't you stop her? How can we play baseball with just three people!?❞"
     },
     {
-      "JP": "理樹@「いや、ぜんぜん乗り気じゃなかったし…それに、四人でもできないけどさ…」",
+      "JP": "`理樹@「いや、ぜんぜん乗り気じゃなかったし…それに、四人でもできないけどさ…」",
       "EN": "`Riki@❝She had absolutely no interest in it... Besides, four people isn't enough either...❞",
       "Translation": "`Riki@❝She had absolutely no interest in it... Besides, four people isn't enough either...❞"
     },
     {
-      "JP": "真人@「どうすんだよ、恭介」",
+      "JP": "`真人@「どうすんだよ、恭介」",
       "EN": "`Masato@❝What are we gonna do, Kyousuke?❞",
       "Translation": "`Masato@❝What are we gonna do, Kyousuke?❞"
     },
     {
-      "JP": "恭介@「ふん…俺を見くびるな…」",
+      "JP": "`恭介@「ふん…俺を見くびるな…」",
       "EN": "`Kyousuke@❝Hmph... Don't underestimate me.❞",
       "Translation": "`Kyousuke@❝Hmph... Don't underestimate me.❞"
     },
     {
-      "JP": "真人@「なんだよ、さすがだな、打つ手があんのか」",
+      "JP": "`真人@「なんだよ、さすがだな、打つ手があんのか」",
       "EN": "`Masato@❝That's our Kyousuke. You already had something in mind?❞",
       "Translation": "`Masato@❝That's our Kyousuke. You already had something in mind?❞"
     },
     {
-      "JP": "恭介@「三人でやる」",
+      "JP": "`恭介@「三人でやる」",
       "EN": "`Kyousuke@❝We'll play with just the three of us.❞",
       "Translation": "`Kyousuke@❝We'll play with just the three of us.❞"
     },
     {
-      "JP": "理樹＆真人@「えー」",
+      "JP": "`理樹＆真人@「えー」",
       "EN": "`Riki & Masato@❝Ehh?❞",
       "Translation": "`Riki & Masato@❝Ehh?❞"
     },
     {
-      "JP": "ぜか延々とノックを受けるはめに。",
+      "JP": "なぜか延々とノックを受けるはめに。",
       "EN": "We started fielding practice.",
       "Translation": "We started fielding practice."
     },
     {
-      "JP": "理樹@「真人までいなくなったよ」",
+      "JP": "`理樹@「真人までいなくなったよ」",
       "EN": "`Riki@❝Masato's gone as well.❞",
       "Translation": "`Riki@❝Masato's gone as well.❞"
     },
     {
-      "JP": "恭介@「俺を見くびるな…」",
+      "JP": "`恭介@「俺を見くびるな…」",
       "EN": "`Kyousuke@❝Don't underestimate me...❞",
       "Translation": "`Kyousuke@❝Don't underestimate me...❞"
     },
     {
-      "JP": "恭介@「ふたりでやる」",
+      "JP": "`恭介@「ふたりでやる」",
       "EN": "`Kyousuke@❝We'll play with just the two of us!❞",
       "Translation": "`Kyousuke@❝We'll play with just the two of us!❞"
     },
     {
-      "JP": "理樹@「えー」",
+      "JP": "`理樹@「えー」",
       "EN": "`Riki@❝Ehh?❞",
       "Translation": "`Riki@❝Ehh?❞"
     },
     {
-      "JP": "ックはふたりきりで続いていった…。",
+      "JP": "ノックはふたりきりで続いていった…。",
       "EN": "We ended up training until late.",
       "Translation": "We ended up training until late."
     },
     {
-      "JP": "鈴@「なんだ？」",
+      "JP": "`鈴@「なんだ？」",
       "EN": "`Rin@❝What?❞",
       "Translation": "`Rin@❝What?❞"
     },
     {
-      "JP": "恭介@「おまえら、なんで就職活動で忙しい俺が一番一生懸命なんだよっ！」",
+      "JP": "`恭介@「おまえら、なんで就職活動で忙しい俺が一番一生懸命なんだよっ！」",
       "EN": "`Kyousuke@❝You guys, why am I trying my hardest here despite being the busiest with job hunting!?❞",
       "Translation": "`Kyousuke@❝You guys, why am I trying my hardest here despite being the busiest with job hunting!?❞"
     },
     {
-      "JP": "真人@「いや、そんな一方的にキレられても…」",
+      "JP": "`真人@「いや、そんな一方的にキレられても…」",
       "EN": "`Masato@❝Hey, why are you pissed off so suddenly...❞",
       "Translation": "`Masato@❝Hey, why are you pissed off so suddenly...❞"
     },
     {
-      "JP": "恭介@「理樹を見習え、俺のノックを受け続けて、見ろ、泥だらけだ」",
+      "JP": "`恭介@「理樹を見習え、俺のノックを受け続けて、見ろ、泥だらけだ」",
       "EN": "`Kyousuke@❝Look at Riki! He practiced very hard with me till he was covered with mud!❞",
       "Translation": "`Kyousuke@❝Look at Riki! He practiced very hard with me till he was covered with mud!❞"
     },
     {
-      "JP": "鈴@「それはなんだ…？　哀れめばいいのか…？」",
+      "JP": "`鈴@「それはなんだ…？　哀れめばいいのか…？」",
       "EN": "`Rin@❝What are you trying to say? Should we pity him...?❞",
       "Translation": "`Rin@❝What are you trying to say? Should we pity him...?❞"
     },
     {
-      "JP": "謙吾@「ふたりが発案者なんだから続けるのは結構だが、部活で忙しい人間まで巻き込んでもらいたくないな」",
+      "JP": "`謙吾@「ふたりが発案者なんだから続けるのは結構だが、部活で忙しい人間まで巻き込んでもらいたくないな」",
       "EN": "`Kengo@❝You two came up with that idea, so you can keep going at it, but don't get those who're busy with club activities involved.❞",
       "Translation": "`Kengo@❝You two came up with that idea, so you can keep going at it, but don't get those who're busy with club activities involved.❞"
     },
     {
-      "JP": "真人@「なんだよてめぇ…部活もやってねぇ筋肉馬鹿は暇だろうから、球拾いがお似合いだってかっっ！」",
+      "JP": "`真人@「なんだよてめぇ…部活もやってねぇ筋肉馬鹿は暇だろうから、球拾いがお似合いだってかっっ！」",
       "EN": "`Masato@❝What, you're saying ❛this Muscle Idiot who didn't even join any clubs must have a whole lot of free time, so fetching balls is a role befitting of him❜!?❞",
       "Translation": "`Masato@❝What, you're saying ❛this Muscle Idiot who didn't even join any clubs must have a whole lot of free time, so fetching balls is a role befitting of him❜!?❞"
     },
     {
-      "JP": "理樹@「真人の言いがかりって、ときにお金を払ってまで見たくなるほど素晴らしい言いがかりだよね…」",
+      "JP": "`理樹@「真人の言いがかりって、ときにお金を払ってまで見たくなるほど素晴らしい言いがかりだよね…」",
       "EN": "`Riki@❝Sometimes I really wanna pay you for your amazing comebacks, Masato...❞",
       "Translation": "`Riki@❝Sometimes I really wanna pay you for your amazing comebacks, Masato...❞"
     },
     {
-      "JP": "真人@「ありがとよ」",
+      "JP": "`真人@「ありがとよ」",
       "EN": "`Masato@❝Thanks.❞",
       "Translation": "`Masato@❝Thanks.❞"
     },
     {
-      "JP": "鈴@「こいつばかだ！」",
+      "JP": "`鈴@「こいつばかだ！」",
       "EN": "`Rin@❝What an idiot!❞",
       "Translation": "`Rin@❝What an idiot!❞"
     },
     {
-      "JP": "が新種の生き物でも見つけたかのように見る。",
+      "JP": "鈴が新種の生き物でも見つけたかのように見る。",
       "EN": "Rin watched Masato as if she'd discovered a new species of animal.",
       "Translation": "Rin watched Masato as if she'd discovered a new species of animal."
     },
     {
-      "JP": "謙吾@「そもそも、どうして野球なんだ」",
+      "JP": "`謙吾@「そもそも、どうして野球なんだ」",
       "EN": "`Kengo@❝By the way, why baseball?❞",
       "Translation": "`Kengo@❝By the way, why baseball?❞"
     },
     {
-      "JP": "乱した場を仕切り直すように謙吾が問う。",
+      "JP": "混乱した場を仕切り直すように謙吾が問う。",
       "EN": "Kengo asked Kyousuke.",
       "Translation": "Kengo asked Kyousuke."
     },
     {
-      "JP": "恭介@「そうか、それを言ってなかったな」",
+      "JP": "`恭介@「そうか、それを言ってなかったな」",
       "EN": "`Kyousuke@❝Oh, I totally forgot to tell you that.❞",
       "Translation": "`Kyousuke@❝Oh, I totally forgot to tell you that.❞"
     },
     {
-      "JP": "謙吾@「ちなみに何も聞いていない」",
+      "JP": "`謙吾@「ちなみに何も聞いていない」",
       "EN": "`Kengo@❝Actually, you haven't told us anything.❞",
       "Translation": "`Kengo@❝Actually, you haven't told us anything.❞"
     },
     {
-      "JP": "恭介@「俺はここんとこずっと就職活動に奔走してるけどさ…」",
+      "JP": "`恭介@「俺はここんとこずっと就職活動に奔走してるけどさ…」",
       "EN": "`Kyousuke@❝As you know, I'm really busy with job hunting right now...❞",
       "Translation": "`Kyousuke@❝As you know, I'm really busy with job hunting right now...❞"
     },
     {
-      "JP": "恭介@「ふと、なにやってるんだろう、って思う時がある」",
+      "JP": "`恭介@「ふと、なにやってるんだろう、って思う時がある」",
       "EN": "`Kyousuke@❝But I sometimes wonder why I'm doing such a thing.❞",
       "Translation": "`Kyousuke@❝But I sometimes wonder why I'm doing such a thing.❞"
     },
     {
-      "JP": "恭介@「これから$K91サラリーマン$K0としてあくせく働いていくんだろうな…それだけはわかる」",
+      "JP": "`恭介@「これから$K91サラリーマン$K0としてあくせく働いていくんだろうな…それだけはわかる」",
       "EN": "`Kyousuke@❝I'm going to work as a $K91salaryman$K0 from here on... That's all I know.❞",
       "Translation": "`Kyousuke@❝I'm going to work as a $K91salaryman$K0 from here on... That's all I know.❞"
     },
     {
-      "JP": "恭介@「でも、それはなんだか流されてるな、という気がしたんだ」",
+      "JP": "`恭介@「でも、それはなんだか流されてるな、という気がしたんだ」",
       "EN": "`Kyousuke@❝However, I've realized that this isn't by my own will.❞",
       "Translation": "`Kyousuke@❝However, I've realized that this isn't by my own will.❞"
     },
     {
-      "JP": "恭介@「周りがそうし始めてるから、自分もなんとなくそうしようってだけだ」",
+      "JP": "`恭介@「周りがそうし始めてるから、自分もなんとなくそうしようってだけだ」",
       "EN": "`Kyousuke@❝Everybody's looking for their job, so I've also got to do that...❞",
       "Translation": "`Kyousuke@❝Everybody's looking for their job, so I've also got to do that...❞"
     },
     {
-      "JP": "恭介@「そこには自分がいない。自分自身というものがない」",
+      "JP": "`恭介@「そこには自分がいない。自分自身というものがない」",
       "EN": "`Kyousuke@❝It's not my own thing. It's not something that truly belongs to me.❞",
       "Translation": "`Kyousuke@❝It's not my own thing. It's not something that truly belongs to me.❞"
     },
     {
-      "JP": "恭介@「体だけあっても、中身はからっぽの人形のようじゃないか。そうは思わないか？」",
+      "JP": "`恭介@「体だけあっても、中身はからっぽの人形のようじゃないか。そうは思わないか？」",
       "EN": "`Kyousuke@❝Even if there's a body, if the insides are hollow it's nothing but a puppet. Don't you think so?❞",
       "Translation": "`Kyousuke@❝Even if there's a body, if the insides are hollow it's nothing but a puppet. Don't you think so?❞"
     },
     {
-      "JP": "真人@「まぁ、なんとなくはわかるが…」",
+      "JP": "`真人@「まぁ、なんとなくはわかるが…」",
       "EN": "`Masato@❝Well, I kind of understand where you're going with this...❞",
       "Translation": "`Masato@❝Well, I kind of understand where you're going with this...❞"
     },
     {
-      "JP": "恭介@「だから、俺は俺であり、そして俺がここにいることを証明し続けるため…」",
+      "JP": "`恭介@「だから、俺は俺であり、そして俺がここにいることを証明し続けるため…」",
       "EN": "`Kyousuke@❝Then I realized I have to do something to prove that I am me and that I am here...❞",
       "Translation": "`Kyousuke@❝Then I realized I have to do something to prove that I am me and that I am here...❞"
     },
     {
-      "JP": "恭介@「野球をやることにした」",
+      "JP": "`恭介@「野球をやることにした」",
       "EN": "`Kyousuke@❝That's why I've decided to play baseball.❞",
       "Translation": "`Kyousuke@❝That's why I've decided to play baseball.❞"
     },
     {
-      "JP": "真人@「ありゃ？　途中まで理解できていたつもりなのに、最後の部分だけ理解できなかったぞ？」",
+      "JP": "`真人@「ありゃ？　途中まで理解できていたつもりなのに、最後の部分だけ理解できなかったぞ？」",
       "EN": "`Masato@❝Hmm? I was following up to a point, but I didn't get that last bit.❞",
       "Translation": "`Masato@❝Hmm? I was following up to a point, but I didn't get that last bit.❞"
     },
     {
-      "JP": "謙吾@「ああ…奇遇だな…俺もよく似た感想だ…」",
+      "JP": "`謙吾@「ああ…奇遇だな…俺もよく似た感想だ…」",
       "EN": "`Kengo@❝Yeah... An unexpected conclusion... My impression is similar to yours...❞",
       "Translation": "`Kengo@❝Yeah... An unexpected conclusion... My impression is similar to yours...❞"
     },
     {
-      "JP": "真人@「悪いが、恭介、最後の部分だけもう一度、言ってみてくれないか」",
+      "JP": "`真人@「悪いが、恭介、最後の部分だけもう一度、言ってみてくれないか」",
       "EN": "`Masato@❝Sorry, Kyousuke, but could you repeat that last line one more time?❞",
       "Translation": "`Masato@❝Sorry, Kyousuke, but could you repeat that last line one more time?❞"
     },
     {
-      "JP": "恭介@「俺は俺であり続けるため、野球をする」",
+      "JP": "`恭介@「俺は俺であり続けるため、野球をする」",
       "EN": "`Kyousuke@❝I'll play baseball to continue being myself.❞",
       "Translation": "`Kyousuke@❝I'll play baseball to continue being myself.❞"
     },
     {
-      "JP": "真人@「えーと…」",
+      "JP": "`真人@「えーと…」",
       "EN": "`Masato@❝Umm...❞",
       "Translation": "`Masato@❝Umm...❞"
     },
     {
-      "JP": "人が目頭を指で押さえてしばらく考え込む。",
+      "JP": "真人が目頭を指で押さえてしばらく考え込む。",
       "EN": "Masato pondered while tapping his temple.",
       "Translation": "Masato pondered while tapping his temple."
     },
     {
-      "JP": "真人@「そこでどうして野球が…？」",
+      "JP": "`真人@「そこでどうして野球が…？」",
       "EN": "`Masato@❝What made you choose ❛baseball❜...?❞",
       "Translation": "`Masato@❝What made you choose ❛baseball❜...?❞"
     },
     {
-      "JP": "大の謎を訊いた。",
+      "JP": "最大の謎を訊いた。",
       "EN": "He asked the ultimate question.",
       "Translation": "He asked the ultimate question."
     },
     {
-      "JP": "恭介@「考えてもみろよ」",
+      "JP": "`恭介@「考えてもみろよ」",
       "EN": "`Kyousuke@❝Just imagine.❞",
       "Translation": "`Kyousuke@❝Just imagine.❞"
     },
     {
-      "JP": "恭介@「就職活動中に野球をしようなんて誰が考えるんだ？　普通思わないだろ？」",
+      "JP": "`恭介@「就職活動中に野球をしようなんて誰が考えるんだ？　普通思わないだろ？」",
       "EN": "`Kyousuke@❝Who would consider playing baseball while they're hunting for a job? It doesn't normally happen.❞",
       "Translation": "`Kyousuke@❝Who would consider playing baseball while they're hunting for a job? It doesn't normally happen.❞"
     },
     {
-      "JP": "真人@「まぁ、そりゃ…」",
+      "JP": "`真人@「まぁ、そりゃ…」",
       "EN": "`Masato@❝I guess, that's...❞",
       "Translation": "`Masato@❝I guess, that's...❞"
     },
     {
-      "JP": "恭介@「しかも、人数集めてさ…就職活動中じゃなくてもなかなかそんな気にはなれない」",
+      "JP": "`恭介@「しかも、人数集めてさ…就職活動中じゃなくてもなかなかそんな気にはなれない」",
       "EN": "`Kyousuke@❝Yeah, but that's not all there is to it. Even without job hunting, having to gather several people for the team is a hassle in itself.❞",
       "Translation": "`Kyousuke@❝Yeah, but that's not all there is to it. Even without job hunting, having to gather several people for the team is a hassle in itself.❞"
     },
     {
-      "JP": "恭介@「なれるか？」",
+      "JP": "`恭介@「なれるか？」",
       "EN": "`Kyousuke@❝Any objections?❞",
       "Translation": "`Kyousuke@❝Any objections?❞"
     },
     {
-      "JP": "真人@「いや、まあ、なれないが…」",
+      "JP": "`真人@「いや、まあ、なれないが…」",
       "EN": "`Masato@❝N, no, can't argue there...❞",
       "Translation": "`Masato@❝N, no, can't argue there...❞"
     },
     {
-      "JP": "恭介@「だろ」",
+      "JP": "`恭介@「だろ」",
       "EN": "`Kyousuke@❝Isn't that right.❞",
       "Translation": "`Kyousuke@❝Isn't that right.❞"
     },
     {
-      "JP": "恭介@「だからこそ、俺は野球をすることにしたんだ」",
+      "JP": "`恭介@「だからこそ、俺は野球をすることにしたんだ」",
       "EN": "`Kyousuke@❝And that's precisely why I've chosen baseball.❞",
       "Translation": "`Kyousuke@❝And that's precisely why I've chosen baseball.❞"
     },
     {
-      "JP": "なんだ、この説得力は。",
+      "JP": "…なんだ、この説得力は。",
       "EN": "...What's with this persuasive power?",
       "Translation": "...What's with this persuasive power?"
     },
     {
-      "JP": "うして僕らは、恭介に丸め込まれていくんだ…。",
+      "JP": "こうして僕らは、恭介に丸め込まれていくんだ…。",
       "EN": "There's no way we can escape his eloquence...",
       "Translation": "There's no way we can escape his eloquence..."
     },
     {
-      "JP": "真人@「だとしてもだ…」",
+      "JP": "`真人@「だとしてもだ…」",
       "EN": "`Masato@❝Even supposing you're right...❞",
       "Translation": "`Masato@❝Even supposing you're right...❞"
     },
     {
-      "JP": "うはさせまいと真人が切り込む。",
+      "JP": "そうはさせまいと真人が切り込む。",
       "EN": "Masato challenged him.",
       "Translation": "Masato challenged him."
     },
     {
-      "JP": "真人@「それじゃ、オレたちは単なる巻き添えじゃねぇか」",
+      "JP": "`真人@「それじゃ、オレたちは単なる巻き添えじゃねぇか」",
       "EN": "`Masato@❝Aren't we just collateral damage?❞",
       "Translation": "`Masato@❝Aren't we just collateral damage?❞"
     },
     {
-      "JP": "恭介@「いや、おまえたちも同じだろ」",
+      "JP": "`恭介@「いや、おまえたちも同じだろ」",
       "EN": "`Kyousuke@❝No, there's no difference between you guys and me.❞",
       "Translation": "`Kyousuke@❝No, there's no difference between you guys and me.❞"
     },
     {
-      "JP": "恭介@「試験勉強や課題に追われる日々の中で、野球をするなんて思いもしなかったはずだ。それはおまえが今さっき同意しただろ？」",
+      "JP": "`恭介@「試験勉強や課題に追われる日々の中で、野球をするなんて思いもしなかったはずだ。それはおまえが今さっき同意しただろ？」",
       "EN": "`Kyousuke@❝In the midst of life that has you studying for exams and doing homework, have you ever imagined yourself suddenly starting to play baseball?❞",
       "Translation": "`Kyousuke@❝In the midst of life that has you studying for exams and doing homework, have you ever imagined yourself suddenly starting to play baseball?❞"
     },
     {
-      "JP": "真人@「いや、でも野球なら普通に体育の時間にやってるんだが…」",
+      "JP": "`真人@「いや、でも野球なら普通に体育の時間にやってるんだが…」",
       "EN": "`Masato@❝No. But we often play it in P.E. class...❞",
       "Translation": "`Masato@❝No. But we often play it in P.E. class...❞"
     },
     {
-      "JP": "恭介@「授業のような主体性のないものでやったとして、なんの意味がある？」",
+      "JP": "`恭介@「授業のような主体性のないものでやったとして、なんの意味がある？」",
       "EN": "`Kyousuke@❝In class, there's no independence or identity. What meaning is there in it?❞",
       "Translation": "`Kyousuke@❝In class, there's no independence or identity. What meaning is there in it?❞"
     },
     {
-      "JP": "恭介@「自らの意志で、投げて走って打ち歓喜する、そのことに意味がある。違うか？」",
+      "JP": "`恭介@「自らの意志で、投げて走って打ち歓喜する、そのことに意味がある。違うか？」",
       "EN": "`Kyousuke@❝But if you're doing it of your own free will, you'll feel delighted in throwing, running, and hitting. That's what's meaningful; am I wrong?❞",
       "Translation": "`Kyousuke@❝But if you're doing it of your own free will, you'll feel delighted in throwing, running, and hitting. That's what's meaningful; am I wrong?❞"
     },
     {
-      "JP": "誰も何も言い返せなくなる。",
+      "JP": "…誰も何も言い返せなくなる。",
       "EN": "...No one could open their mouth...",
       "Translation": "...No one could open their mouth..."
     },
     {
-      "JP": "だひとりを除いては。",
+      "JP": "ただひとりを除いては。",
       "EN": "...Except for him.",
       "Translation": "...Except for him."
     },
     {
-      "JP": "謙吾@「俺は…」",
+      "JP": "`謙吾@「俺は…」",
       "EN": "`Kengo@❝I...❞",
       "Translation": "`Kengo@❝I...❞"
     },
     {
-      "JP": "吾が席を立つ。",
+      "JP": "謙吾が席を立つ。",
       "EN": "Kengo got up from his chair.",
       "Translation": "Kengo got up from his chair."
     },
     {
-      "JP": "謙吾@「自らの意志で、剣を振るっている。ではな」",
+      "JP": "`謙吾@「自らの意志で、剣を振るっている。ではな」",
       "EN": "`Kengo@❝I practice kendo of my own free will. See you.❞",
       "Translation": "`Kengo@❝I practice kendo of my own free will. See you.❞"
     },
     {
-      "JP": "のまま背を向け、食堂を出ていった。",
+      "JP": "そのまま背を向け、食堂を出ていった。",
       "EN": "He turned his back on us and left the cafeteria.",
       "Translation": "He turned his back on us and left the cafeteria."
     },
     {
-      "JP": "理樹@「謙吾っ」",
+      "JP": "`理樹@「謙吾っ」",
       "EN": "`Riki@❝Kengo!❞",
       "Translation": "`Riki@❝Kengo!❞"
     },
     {
-      "JP": "恭介@「放っておけ、理樹」",
+      "JP": "`恭介@「放っておけ、理樹」",
       "EN": "`Kyousuke@❝Let him go, Riki.❞",
       "Translation": "`Kyousuke@❝Let him go, Riki.❞"
     },
     {
-      "JP": "恭介@「…あいつも理解してくれる日がくるさ」",
+      "JP": "`恭介@「…あいつも理解してくれる日がくるさ」",
       "EN": "`Kyousuke@❝...Some day he'll understand me.❞",
       "Translation": "`Kyousuke@❝...Some day he'll understand me.❞"
     },
     {
-      "JP": "真人@「いや、オレたちですらまったく理解してないんだが」",
+      "JP": "`真人@「いや、オレたちですらまったく理解してないんだが」",
       "EN": "`Masato@❝It's not like we really understand anything either.❞",
       "Translation": "`Masato@❝It's not like we really understand anything either.❞"
     },
     {
-      "JP": "恭介@「ありゃ、そーなの」",
+      "JP": "`恭介@「ありゃ、そーなの」",
       "EN": "`Kyousuke@❝Oh, don't you?❞",
       "Translation": "`Kyousuke@❝Oh, don't you?❞"
     },
     {
-      "JP": "恭介@「理樹は」",
+      "JP": "`恭介@「理樹は」",
       "EN": "`Kyousuke@❝How about you, Riki?❞",
       "Translation": "`Kyousuke@❝How about you, Riki?❞"
     },
     {
-      "JP": "介の目が僕を射抜く。",
+      "JP": "恭介の目が僕を射抜く。",
       "EN": "Kyousuke gave me a penetrating look.",
       "Translation": "Kyousuke gave me a penetrating look."
     },
     {
-      "JP": "んな目で見られて、否定できるはずはない。",
+      "JP": "そんな目で見られて、否定できるはずはない。",
       "EN": "There's just no way you can say ❛no❜ to those eyes.",
       "Translation": "There's just no way you can say ❛no❜ to those eyes."
     },
     {
-      "JP": "もそも…",
+      "JP": "そもそも…",
       "EN": "When I think back, ",
       "Translation": "When I think back, "
     },
     {
-      "JP": "と恭介の心が触れあったから、こうなってるわけで。",
+      "JP": "僕と恭介の心が触れあったから、こうなってるわけで。",
       "EN": "the reason it came to this was because my heart and Kyousuke's had resonated.",
       "Translation": "the reason it came to this was because my heart and Kyousuke's had resonated."
     },
     {
-      "JP": "だ…野球とは思いもしなかったけど。",
+      "JP": "ただ…野球とは思いもしなかったけど。",
       "EN": "However, I'd never have thought we would start playing baseball.",
       "Translation": "However, I'd never have thought we would start playing baseball."
     },
     {
-      "JP": "理樹@「僕は…そもそも僕が言い出したことだし」",
+      "JP": "`理樹@「僕は…そもそも僕が言い出したことだし」",
       "EN": "`Riki@❝I'm in... since I was the one who said we should do something in the first place.❞",
       "Translation": "`Riki@❝I'm in... since I was the one who said we should do something in the first place.❞"
     },
     {
-      "JP": "鈴@「理樹は単純だからな」",
+      "JP": "`鈴@「理樹は単純だからな」",
       "EN": "`Rin@❝You're so simple-minded, Riki.❞",
       "Translation": "`Rin@❝You're so simple-minded, Riki.❞"
     },
     {
-      "JP": "理樹@「なんだよ、だからなんだってんだよ」",
+      "JP": "`理樹@「なんだよ、だからなんだってんだよ」",
       "EN": "`Riki@❝What? What are you trying to say?❞",
       "Translation": "`Riki@❝What? What are you trying to say?❞"
     },
     {
-      "JP": "鈴@「利用されてる」",
+      "JP": "`鈴@「利用されてる」",
       "EN": "`Rin@❝You're a patsy.❞",
       "Translation": "`Rin@❝You're a patsy.❞"
     },
     {
-      "JP": "鈴@「きょーすけの…」",
+      "JP": "`鈴@「きょーすけの…」",
       "EN": "`Rin@❝Kyousuke just wants to...❞",
       "Translation": "`Rin@❝Kyousuke just wants to...❞"
     },
     {
-      "JP": "鈴@「ふかーっ!!」",
+      "JP": "`鈴@「ふかーっ!!」",
       "EN": "`Rin@❝Fuka――!!❞",
       "Translation": "`Rin@❝Fuka――!!❞"
     },
     {
-      "JP": "鈴@「きょーすけの暇つぶしに」",
+      "JP": "`鈴@「きょーすけの暇つぶしに」",
       "EN": "`Rin@❝...kill time.❞",
       "Translation": "`Rin@❝...kill time.❞"
     },
     {
-      "JP": "理樹@「恭介は忙しいはずだよ」",
+      "JP": "`理樹@「恭介は忙しいはずだよ」",
       "EN": "`Riki@❝No, he must be busy.❞",
       "Translation": "`Riki@❝No, he must be busy.❞"
     },
     {
-      "JP": "も…",
+      "JP": "でも…",
       "EN": "However...",
       "Translation": "However..."
     },
     {
-      "JP": "んな恭介だからこそ、僕は頼ったのかもしれない。",
+      "JP": "そんな恭介だからこそ、僕は頼ったのかもしれない。",
       "EN": "I believed in Kyousuke since it was him.",
       "Translation": "I believed in Kyousuke since it was him."
     },
     {
-      "JP": "は勉強のことなんて忘れて、ただ遊びたいだけなのかもしれない。",
+      "JP": "僕は勉強のことなんて忘れて、ただ遊びたいだけなのかもしれない。",
       "EN": "It could be that I just want to forget about studying and play around with him.",
       "Translation": "It could be that I just want to forget about studying and play around with him."
     },
     {
-      "JP": "分を、そんな無規律な人間とは考えたくないけど。",
+      "JP": "自分を、そんな無規律な人間とは考えたくないけど。",
       "EN": "Of course, I didn't want to think of myself as being so indolent, but...",
       "Translation": "Of course, I didn't want to think of myself as being so indolent, but..."
     },
     {
-      "JP": "鈴@「みんなばかだ」",
+      "JP": "`鈴@「みんなばかだ」",
       "EN": "`Rin@❝You're all idiots.❞",
       "Translation": "`Rin@❝You're all idiots.❞"
     },
     {
-      "JP": "恭介@「あー、どうせ馬鹿さ」",
+      "JP": "`恭介@「あー、どうせ馬鹿さ」",
       "EN": "`Kyousuke@❝Yes, I'm an idiot.❞",
       "Translation": "`Kyousuke@❝Yes, I'm an idiot.❞"
     },
     {
-      "JP": "ったく厭わないといった様子で、恭介は夕飯に箸をつけ始めた。",
+      "JP": "まったく厭わないといった様子で、恭介は夕飯に箸をつけ始めた。",
       "EN": "Unfazed by her words, Kyousuke began eating his dinner.",
       "Translation": "Unfazed by her words, Kyousuke began eating his dinner."
     },
     {
-      "JP": "真人@「ったく、誰のせいだよ…」",
+      "JP": "`真人@「ったく、誰のせいだよ…」",
       "EN": "`Masato@❝Geez... whose fault is that...❞",
       "Translation": "`Masato@❝Geez... whose fault is that...❞"
     },
     {
-      "JP": "屋に戻ってきてから、真人はベッドに転がってそうぼやく。",
+      "JP": "部屋に戻ってきてから、真人はベッドに転がってそうぼやく。",
       "EN": "After we had returned to our room, Masato grumbled, lying on his bed.",
       "Translation": "After we had returned to our room, Masato grumbled, lying on his bed."
     },
     {
-      "JP": "理樹@「いや、野球することになるなんてまったく予想できなかったからさ…」",
+      "JP": "`理樹@「いや、野球することになるなんてまったく予想できなかったからさ…」",
       "EN": "`Riki@❝I never thought Kyousuke would choose baseball...❞",
       "Translation": "`Riki@❝I never thought Kyousuke would choose baseball...❞"
     },
     {
-      "JP": "真人@「予想つかないことをおっぱじめるのがあいつなんだよ…それぐらい予想しろ」",
+      "JP": "`真人@「予想つかないことをおっぱじめるのがあいつなんだよ…それぐらい予想しろ」",
       "EN": "`Masato@❝He's one to propose the unexpected... You should've at least predicted that much.❞",
       "Translation": "`Masato@❝He's one to propose the unexpected... You should've at least predicted that much.❞"
     },
     {
-      "JP": "理樹@「つまりそれ、予想つかないってことじゃん…」",
+      "JP": "`理樹@「つまりそれ、予想つかないってことじゃん…」",
       "EN": "`Riki@❝It's unexpected... because it's impossible to predict...❞",
       "Translation": "`Riki@❝It's unexpected... because it's impossible to predict...❞"
     },
     {
-      "JP": "真人@「オレは強くなることにしか興味ねぇんだよ、野球なんてスポーティなスポーツやってられるかよ…」",
+      "JP": "`真人@「オレは強くなることにしか興味ねぇんだよ、野球なんてスポーティなスポーツやってられるかよ…」",
       "EN": "`Masato@❝I'm only interested in becoming stronger. Why do I have to play a sporty sport like baseball?❞",
       "Translation": "`Masato@❝I'm only interested in becoming stronger. Why do I have to play a sporty sport like baseball?❞"
     },
     {
-      "JP": "ポーティじゃないスポーツってなんだろう…陸上とかだろうか。",
+      "JP": "スポーティじゃないスポーツってなんだろう…陸上とかだろうか。",
       "EN": "What's a non-sporty sport... an athletic sport or something?",
       "Translation": "What's a non-sporty sport... an athletic sport or something?"
     },
     {
-      "JP": "理樹@「真人って、ハンマー投げとか向いてそうじゃない？」",
+      "JP": "`理樹@「真人って、ハンマー投げとか向いてそうじゃない？」",
       "EN": "`Riki@❝Why don't you look into something like the hammer throw?❞",
       "Translation": "`Riki@❝Why don't you look into something like the hammer throw?❞"
     },
     {
-      "JP": "真人@「なんだよ、その筋肉はせいぜい球を遠くに飛ばすことぐらいしか能がなさそうですねぇ、とでもいいたげだなっ、あぁ!?」",
+      "JP": "`真人@「なんだよ、その筋肉はせいぜい球を遠くに飛ばすことぐらいしか能がなさそうですねぇ、とでもいいたげだなっ、あぁ!?」",
       "EN": "`Masato@❝What, this Muscle is so inept that he's only good for throwing balls into the distance, is that what you're thinking, huh!?❞",
       "Translation": "`Masato@❝What, this Muscle is so inept that he's only good for throwing balls into the distance, is that what you're thinking, huh!?❞"
     },
     {
-      "JP": "理樹@「いや、そんなことぜんぜん思ってないし…（みごとな言いがかりだっ）」",
+      "JP": "`理樹@「いや、そんなことぜんぜん思ってないし…（みごとな言いがかりだっ）」",
       "EN": "`Riki@❝No, I wasn't thinking that at all... (What amazing comebacks!)❞",
       "Translation": "`Riki@❝No, I wasn't thinking that at all... (What amazing comebacks!)❞"
     },
     {
-      "JP": "わずお代を払ってしまいそうになる。",
+      "JP": "思わずお代を払ってしまいそうになる。",
       "EN": "I was about to pay him.",
       "Translation": "I was about to pay him."
     },
     {
-      "JP": "真人@「ふんっ…」",
+      "JP": "`真人@「ふんっ…」",
       "EN": "`Masato@❝Humph...❞",
       "Translation": "`Masato@❝Humph...❞"
     },
     {
-      "JP": "人が起きあがり、ベッドから降りてくる。",
+      "JP": "真人が起きあがり、ベッドから降りてくる。",
       "EN": "Masato got up and stepped down from his bed.",
       "Translation": "Masato got up and stepped down from his bed."
     },
     {
-      "JP": "のまま部屋を出て行こうとするから、僕は呼び止める。",
+      "JP": "そのまま部屋を出て行こうとするから、僕は呼び止める。",
       "EN": "He tried to go straight out of the room, but I called out to stop him.",
       "Translation": "He tried to go straight out of the room, but I called out to stop him."
     },
     {
-      "JP": "理樹@「どこいくのさ」",
+      "JP": "`理樹@「どこいくのさ」",
       "EN": "`Riki@❝Where are you going?❞",
       "Translation": "`Riki@❝Where are you going?❞"
     },
     {
-      "JP": "真人@「走ってくる」",
+      "JP": "`真人@「走ってくる」",
       "EN": "`Masato@❝For a jog.❞",
       "Translation": "`Masato@❝For a jog.❞"
     },
     {
-      "JP": "理樹@「課題はしないでいいの？」",
+      "JP": "`理樹@「課題はしないでいいの？」",
       "EN": "`Riki@❝Have you finished today's homework?❞",
       "Translation": "`Riki@❝Have you finished today's homework?❞"
     },
     {
-      "JP": "真人@「え、なんだっけ」",
+      "JP": "`真人@「え、なんだっけ」",
       "EN": "`Masato@❝What? How much?❞",
       "Translation": "`Masato@❝What? How much?❞"
     },
     {
-      "JP": "理樹@「三科目も出てるんだから、ひとつぐらい覚えていてもよさそうなものなのに」",
+      "JP": "`理樹@「三科目も出てるんだから、ひとつぐらい覚えていてもよさそうなものなのに」",
       "EN": "`Riki@❝Three subjects. You forgot about all of them?❞",
       "Translation": "`Riki@❝Three subjects. You forgot about all of them?❞"
     },
     {
-      "JP": "真人@「いつもの頼む」",
+      "JP": "`真人@「いつもの頼む」",
       "EN": "`Masato@❝Counting on you as usual.❞",
       "Translation": "`Masato@❝Counting on you as usual.❞"
     },
     {
-      "JP": "理樹@「なんだよ、その常連のような厚かましい頼みかた」",
+      "JP": "`理樹@「なんだよ、その常連のような厚かましい頼みかた」",
       "EN": "`Riki@❝How impudent can you get, asking me to do it again.❞",
       "Translation": "`Riki@❝How impudent can you get, asking me to do it again.❞"
     },
     {
-      "JP": "真人@「少し筋肉やるから」",
+      "JP": "`真人@「少し筋肉やるから」",
       "EN": "`Masato@❝I'll give you a little bit of my muscle.❞",
       "Translation": "`Masato@❝I'll give you a little bit of my muscle.❞"
     },
     {
-      "JP": "理樹@「いや、いらないし、もらえないから」",
+      "JP": "`理樹@「いや、いらないし、もらえないから」",
       "EN": "`Riki@❝No thanks, and you can't.❞",
       "Translation": "`Riki@❝No thanks, and you can't.❞"
     },
     {
-      "JP": "真人@「…ちっ」",
+      "JP": "`真人@「…ちっ」",
       "EN": "`Masato@❝...Che!❞",
       "Translation": "`Masato@❝...Che!❞"
     },
     {
-      "JP": "打ちして、自分の机からノートを持ってくると、部屋の中央に特設されたちゃぶ台の前に座り込む。",
+      "JP": "舌打ちして、自分の机からノートを持ってくると、部屋の中央に特設されたちゃぶ台の前に座り込む。",
       "EN": "He clicked his tongue and took a notebook from his desk, seating himself in front of the low table at the center of the room.",
       "Translation": "He clicked his tongue and took a notebook from his desk, seating himself in front of the low table at the center of the room."
     },
     {
-      "JP": "理樹@「写す気まんまんじゃん…」",
+      "JP": "`理樹@「写す気まんまんじゃん…」",
       "EN": "`Riki@❝You're gonna copy my answers, aren't you...?❞",
       "Translation": "`Riki@❝You're gonna copy my answers, aren't you...?❞"
     },
     {
-      "JP": "真人@「こっちのほうが集中できんだよ」",
+      "JP": "`真人@「こっちのほうが集中できんだよ」",
       "EN": "`Masato@❝No, I can just concentrate better here.❞",
       "Translation": "`Masato@❝No, I can just concentrate better here.❞"
     },
     {
-      "JP": "理樹@「じゃ、僕は自分の机でするよ」",
+      "JP": "`理樹@「じゃ、僕は自分の机でするよ」",
       "EN": "`Riki@❝Then I'll use my desk.❞",
       "Translation": "`Riki@❝Then I'll use my desk.❞"
     },
     {
-      "JP": "真人@「なんだと、てめぇ…この筋肉を目の前に勉強なんて暑苦しくてやってられませんってかよっ！」",
+      "JP": "`真人@「なんだと、てめぇ…この筋肉を目の前に勉強なんて暑苦しくてやってられませんってかよっ！」",
       "EN": "`Masato@❝What!? Are you saying you don't wanna do homework with these muscles because they make you suffocate!?❞",
       "Translation": "`Masato@❝What!? Are you saying you don't wanna do homework with these muscles because they make you suffocate!?❞"
     },
     {
-      "JP": "理樹@「いや、そんなことぜんぜん思ってないし…」",
+      "JP": "`理樹@「いや、そんなことぜんぜん思ってないし…」",
       "EN": "`Riki@❝No, I wasn't thinking that at all...❞",
       "Translation": "`Riki@❝No, I wasn't thinking that at all...❞"
     },
     {
-      "JP": "ごいぞ、真人、そんなふうにこじつけられるのか！",
+      "JP": "すごいぞ、真人、そんなふうにこじつけられるのか！",
       "EN": "Amazing, Masato, I never imagined you could interpret it like that!",
       "Translation": "Amazing, Masato, I never imagined you could interpret it like that!"
     },
     {
-      "JP": "真人@「じゃあ、こっちでしろよ。でねぇとこのちゃぶ台どけて、アブシリーズ揃えに入るぞ」",
+      "JP": "`真人@「じゃあ、こっちでしろよ。でねぇとこのちゃぶ台どけて、アブシリーズ揃えに入るぞ」",
       "EN": "`Masato@❝Well, let's do it like this then. Or else I'll move this low table aside and get on the ab machine.❞",
       "Translation": "`Masato@❝Well, let's do it like this then. Or else I'll move this low table aside and get on the ab machine.❞"
     },
     {
-      "JP": "理樹@「それはやばいね…阻止しなきゃ」",
+      "JP": "`理樹@「それはやばいね…阻止しなきゃ」",
       "EN": "`Riki@❝That would be a horrible sight... I can't let it happen.❞",
       "Translation": "`Riki@❝That would be a horrible sight... I can't let it happen.❞"
     },
     {
-      "JP": "方なく、同じちゃぶ台で課題に取り組むことに。",
+      "JP": "仕方なく、同じちゃぶ台で課題に取り組むことに。",
       "EN": "So, I ended up using the table.",
       "Translation": "So, I ended up using the table."
     },
     {
-      "JP": "真人@「んあー、あ…ほぅほぅ…」",
+      "JP": "`真人@「んあー、あ…ほぅほぅ…」",
       "EN": "`Masato@❝Ummm, oh, I see...❞",
       "Translation": "`Masato@❝Ummm, oh, I see...❞"
     },
     {
-      "JP": "理樹@「おもいっきり、見てるよねぇ…」",
+      "JP": "`理樹@「おもいっきり、見てるよねぇ…」",
       "EN": "`Riki@❝You're totally copying my notebook, right...?❞",
       "Translation": "`Riki@❝You're totally copying my notebook, right...?❞"
     },
     {
-      "JP": "恭介@「よぅ」",
+      "JP": "`恭介@「よぅ」",
       "EN": "`Kyousuke@❝Yo!❞",
       "Translation": "`Kyousuke@❝Yo!❞"
     },
     {
-      "JP": "きなりドアが開いて恭介が顔を覗かせていた。",
+      "JP": "いきなりドアが開いて恭介が顔を覗かせていた。",
       "EN": "Suddenly the door opened, and Kyousuke appeared.",
       "Translation": "Suddenly the door opened, and Kyousuke appeared."
     },
     {
-      "JP": "真人@「なんだよ、また野球のお誘いか？」",
+      "JP": "`真人@「なんだよ、また野球のお誘いか？」",
       "EN": "`Masato@❝What's up? Baseball practice again?❞",
       "Translation": "`Masato@❝What's up? Baseball practice again?❞"
     },
     {
-      "JP": "恭介@「いや、違う。今日出た課題でやっかいなのがあるんだよ、助けてくれ」",
+      "JP": "`恭介@「いや、違う。今日出た課題でやっかいなのがあるんだよ、助けてくれ」",
       "EN": "`Kyousuke@❝Nope. I've got some difficult homework. Help me.❞",
       "Translation": "`Kyousuke@❝Nope. I've got some difficult homework. Help me.❞"
     },
     {
-      "JP": "りもなく入ってくる。",
+      "JP": "断りもなく入ってくる。",
       "EN": "He let himself in uninvited.",
       "Translation": "He let himself in uninvited."
     },
     {
-      "JP": "真人@「なんで二年のオレたちに相談してくんだよ」",
+      "JP": "`真人@「なんで二年のオレたちに相談してくんだよ」",
       "EN": "`Masato@❝Why ask us? We're only second years.❞",
       "Translation": "`Masato@❝Why ask us? We're only second years.❞"
     },
     {
-      "JP": "恭介@「何をさせたいのかよくわからないが、偉人の言葉を集めろって課題でさ」",
+      "JP": "`恭介@「何をさせたいのかよくわからないが、偉人の言葉を集めろって課題でさ」",
       "EN": "`Kyousuke@❝I don't know what the teacher is thinking, but I have to collect the words of great people.❞",
       "Translation": "`Kyousuke@❝I don't know what the teacher is thinking, but I have to collect the words of great people.❞"
     },
     {
-      "JP": "理樹@「名言ってこと？」",
+      "JP": "`理樹@「名言ってこと？」",
       "EN": "`Riki@❝You mean aphorisms?❞",
       "Translation": "`Riki@❝You mean aphorisms?❞"
     },
     {
-      "JP": "恭介@「そそ、それそれ」",
+      "JP": "`恭介@「そそ、それそれ」",
       "EN": "`Kyousuke@❝Yeah, that's it.❞",
       "Translation": "`Kyousuke@❝Yeah, that's it.❞"
     },
     {
-      "JP": "真人@「猫も棒から落ちる」",
+      "JP": "`真人@「猫も棒から落ちる」",
       "EN": "`Masato@❝Even cats fall from poles.❞",
       "Translation": "`Masato@❝Even cats fall from poles.❞"
     },
     {
-      "JP": "理樹@「それことわざだよ、しかも奇跡的に間違ってるし」",
+      "JP": "`理樹@「それことわざだよ、しかも奇跡的に間違ってるし」",
       "EN": "`Riki@❝That's a proverb, and you miraculously got it wrong.❞",
       "Translation": "`Riki@❝That's a proverb, and you miraculously got it wrong.❞"
     },
     {
-      "JP": "理樹@「真面目に集めるなら、図書館いったほうが早いでしょ？」",
+      "JP": "`理樹@「真面目に集めるなら、図書館いったほうが早いでしょ？」",
       "EN": "`Riki@❝If you're serious about it, why not go to the library?❞",
       "Translation": "`Riki@❝If you're serious about it, why not go to the library?❞"
     },
     {
-      "JP": "恭介@「いや、真面目にやる気がないからここにきたんだよ。おまえらが口にした言葉から探す」",
+      "JP": "`恭介@「いや、真面目にやる気がないからここにきたんだよ。おまえらが口にした言葉から探す」",
       "EN": "`Kyousuke@❝Nah, I'm not serious, so I'm here. All I need are your words.❞",
       "Translation": "`Kyousuke@❝Nah, I'm not serious, so I'm here. All I need are your words.❞"
     },
     {
-      "JP": "恭介@「で、さっきのもらい」",
+      "JP": "`恭介@「で、さっきのもらい」",
       "EN": "`Kyousuke@❝And I've already got one.❞",
       "Translation": "`Kyousuke@❝And I've already got one.❞"
     },
     {
-      "JP": "真人@「へ？」",
+      "JP": "`真人@「へ？」",
       "EN": "`Masato@❝Heh?❞",
       "Translation": "`Masato@❝Heh?❞"
     },
     {
-      "JP": "恭介@「今ここに、新しい名言が生まれた…」",
+      "JP": "`恭介@「今ここに、新しい名言が生まれた…」",
       "EN": "`Kyousuke@❝We've just witnessed the birth of a new aphorism...❞",
       "Translation": "`Kyousuke@❝We've just witnessed the birth of a new aphorism...❞"
     },
     {
-      "JP": "恭介@「これ明日授業で発表するから」",
+      "JP": "`恭介@「これ明日授業で発表するから」",
       "EN": "`Kyousuke@❝I'll use this for the class presentation tomorrow.❞",
       "Translation": "`Kyousuke@❝I'll use this for the class presentation tomorrow.❞"
     },
     {
-      "JP": "真人@「うおおぉぉーーーっ！」",
+      "JP": "`真人@「うおおぉぉーーーっ！」",
       "EN": "`Masato@❝Uwoooo――!!❞",
       "Translation": "`Masato@❝Uwoooo――!!❞"
     },
     {
-      "JP": "理樹@「馬鹿丸出しだね…」",
+      "JP": "`理樹@「馬鹿丸出しだね…」",
       "EN": "`Riki@❝Your idiocy will be exposed...❞",
       "Translation": "`Riki@❝Your idiocy will be exposed...❞"
     },
     {
-      "JP": "真人@「待てっ、オレだけに標的を絞るな…あいつらも呼ぶ」",
+      "JP": "`真人@「待てっ、オレだけに標的を絞るな…あいつらも呼ぶ」",
       "EN": "`Masato@❝Wait! Why should I be the only target?❞",
       "Translation": "`Masato@❝Wait! Why should I be the only target?❞"
     },
     {
-      "JP": "帯を取り出し、仲間を呼びつける。",
+      "JP": "携帯を取り出し、仲間を呼びつける。",
       "EN": "Masato took out his cellphone and called the rest of the group.",
       "Translation": "Masato took out his cellphone and called the rest of the group."
     },
     {
-      "JP": "して、いつもの顔ぶれが僕たちの部屋に揃うことに。",
+      "JP": "そして、いつもの顔ぶれが僕たちの部屋に揃うことに。",
       "EN": "A few minutes later, we had our regular lineup.",
       "Translation": "A few minutes later, we had our regular lineup."
     },
     {
-      "JP": "鈴@「あたしも課題ある」",
+      "JP": "`鈴@「あたしも課題ある」",
       "EN": "`Rin@❝I have to do homework too.❞",
       "Translation": "`Rin@❝I have to do homework too.❞"
     },
     {
-      "JP": "真人@「ここでやればいいだろ」",
+      "JP": "`真人@「ここでやればいいだろ」",
       "EN": "`Masato@❝Do it right here.❞",
       "Translation": "`Masato@❝Do it right here.❞"
     },
     {
-      "JP": "鈴@「なんでこんな小汚い男子の部屋でせにゃならんのだっ」",
+      "JP": "`鈴@「なんでこんな小汚い男子の部屋でせにゃならんのだっ」",
       "EN": "`Rin@❝Why? This room is cramped and dirty.❞",
       "Translation": "`Rin@❝Why? This room is cramped and dirty.❞"
     },
     {
-      "JP": "真人@「てめぇ、先入観でものを言うなよ…見ての通り掃除は行き届いてるぜ。理樹が力入れてんだぜ」",
+      "JP": "`真人@「てめぇ、先入観でものを言うなよ…見ての通り掃除は行き届いてるぜ。理樹が力入れてんだぜ」",
       "EN": "`Masato@❝Look carefully! There's no dust here because Riki is putting in some power for cleaning.❞",
       "Translation": "`Masato@❝Look carefully! There's no dust here because Riki is putting in some power for cleaning.❞"
     },
     {
-      "JP": "恭介@「あ、それもらい」",
+      "JP": "`恭介@「あ、それもらい」",
       "EN": "`Kyousuke@❝Ah, that's good too.❞",
       "Translation": "`Kyousuke@❝Ah, that's good too.❞"
     },
     {
-      "JP": "真人@「へ？」",
+      "JP": "`真人@「へ？」",
       "EN": "`Masato@❝Heh?❞",
       "Translation": "`Masato@❝Heh?❞"
     },
     {
-      "JP": "恭介@「今ここに、新しい名言が生まれた」",
+      "JP": "`恭介@「今ここに、新しい名言が生まれた」",
       "EN": "`Kyousuke@❝Like that, another new aphorism has been born.❞",
       "Translation": "`Kyousuke@❝Like that, another new aphorism has been born.❞"
     },
     {
-      "JP": "真人@「うおおぉぉーーーーっ！」",
+      "JP": "`真人@「うおおぉぉーーーーっ！」",
       "EN": "`Masato@❝Uwooo――!!❞",
       "Translation": "`Masato@❝Uwooo――!!❞"
     },
     {
-      "JP": "理樹@「これは正直、寒いねぇ…」",
+      "JP": "`理樹@「これは正直、寒いねぇ…」",
       "EN": "`Riki@❝Honestly, that was cold...❞",
       "Translation": "`Riki@❝Honestly, that was cold...❞"
     },
     {
-      "JP": "謙吾@「くだらない…俺はいくぞ」",
+      "JP": "`謙吾@「くだらない…俺はいくぞ」",
       "EN": "`Kengo@❝This is total hogwash... I'm leaving.❞",
       "Translation": "`Kengo@❝This is total hogwash... I'm leaving.❞"
     },
     {
-      "JP": "真人@「待てよ、てめぇ…また逃げんのかよ」",
+      "JP": "`真人@「待てよ、てめぇ…また逃げんのかよ」",
       "EN": "`Masato@❝Wait, are you running away?❞",
       "Translation": "`Masato@❝Wait, are you running away?❞"
     },
     {
-      "JP": "謙吾@「なんだ、夕べの続きでもしようってのか？　鈴にすら勝てなかった男が？」",
+      "JP": "`謙吾@「なんだ、夕べの続きでもしようってのか？　鈴にすら勝てなかった男が？」",
       "EN": "`Kengo@❝You want to continue from yesterday? You couldn't even beat Rin.❞",
       "Translation": "`Kengo@❝You want to continue from yesterday? You couldn't even beat Rin.❞"
     },
     {
-      "JP": "真人@「てめぇ、見てたのかよっ」",
+      "JP": "`真人@「てめぇ、見てたのかよっ」",
       "EN": "`Masato@❝How did you know that?❞",
       "Translation": "`Masato@❝How did you know that?❞"
     },
     {
-      "JP": "謙吾@「噂に聞いただけだ」",
+      "JP": "`謙吾@「噂に聞いただけだ」",
       "EN": "`Kengo@❝The word's got around.❞",
       "Translation": "`Kengo@❝The word's got around.❞"
     },
     {
-      "JP": "真人@「ちっ…あれは武器がうなぎパイになったせいだよっ」",
+      "JP": "`真人@「ちっ…あれは武器がうなぎパイになったせいだよっ」",
       "EN": "`Masato@❝Dammit... that's because my battle weapon was an eel pie.❞",
       "Translation": "`Masato@❝Dammit... that's because my battle weapon was an eel pie.❞"
     },
     {
-      "JP": "謙吾@「もしそうだったとしても、いくらでも手はあったはずだ。違うか？」",
+      "JP": "`謙吾@「もしそうだったとしても、いくらでも手はあったはずだ。違うか？」",
       "EN": "`Kengo@❝That may be so, but there were many more ways you could've fought. Am I wrong?❞",
       "Translation": "`Kengo@❝That may be so, but there were many more ways you could've fought. Am I wrong?❞"
     },
     {
-      "JP": "真人@「う…」",
+      "JP": "`真人@「う…」",
       "EN": "`Masato@❝Uh...❞",
       "Translation": "`Masato@❝Uh...❞"
     },
     {
-      "JP": "真人@「何が言いたいんだよ、てめぇ…」",
+      "JP": "`真人@「何が言いたいんだよ、てめぇ…」",
       "EN": "`Masato@❝What are you trying to say...?❞",
       "Translation": "`Masato@❝What are you trying to say...?❞"
     },
     {
-      "JP": "謙吾@「つまりおまえのほうが、逆にうなぎパイに食われたということさ」",
+      "JP": "`謙吾@「つまりおまえのほうが、逆にうなぎパイに食われたということさ」",
       "EN": "`Kengo@❝I mean, you were eaten by the eel pie instead.❞",
       "Translation": "`Kengo@❝I mean, you were eaten by the eel pie instead.❞"
     },
     {
-      "JP": "恭介@「お、それいいな」",
+      "JP": "`恭介@「お、それいいな」",
       "EN": "`Kyousuke@❝Oh, that's good.❞",
       "Translation": "`Kyousuke@❝Oh, that's good.❞"
     },
     {
-      "JP": "謙吾@「しまったあぁぁーー！」",
+      "JP": "`謙吾@「しまったあぁぁーー！」",
       "EN": "`Kengo@❝Damn!❞",
       "Translation": "`Kengo@❝Damn!❞"
     },
     {
-      "JP": "恭介@「ここにまた、新しい名言が生まれた」",
+      "JP": "`恭介@「ここにまた、新しい名言が生まれた」",
       "EN": "`Kyousuke@❝And like that, yet another new aphorism has been born.❞",
       "Translation": "`Kyousuke@❝And like that, yet another new aphorism has been born.❞"
     },
     {
-      "JP": "謙吾@「不覚だぁ…この俺が、そんなわけのわからん言葉を後世に残すことになろうとは…」",
+      "JP": "`謙吾@「不覚だぁ…この俺が、そんなわけのわからん言葉を後世に残すことになろうとは…」",
       "EN": "`Kengo@❝What a blunder... To think I'd leave something so absurd behind...❞",
       "Translation": "`Kengo@❝What a blunder... To think I'd leave something so absurd behind...❞"
     },
     {
-      "JP": "理樹@「残されたほうは、この言葉からどんな状況を想像するんだろうね…」",
+      "JP": "`理樹@「残されたほうは、この言葉からどんな状況を想像するんだろうね…」",
       "EN": "`Riki@❝I wonder, what will future generations think when they read that...❞",
       "Translation": "`Riki@❝I wonder, what will future generations think when they read that...❞"
     },
     {
-      "JP": "真人@「調子にのって、羽目をはずしすぎだ、ばーか」",
+      "JP": "`真人@「調子にのって、羽目をはずしすぎだ、ばーか」",
       "EN": "`Masato@❝You got carried away and let yourself go, stupid.❞",
       "Translation": "`Masato@❝You got carried away and let yourself go, stupid.❞"
     },
     {
-      "JP": "鈴@「おまえらうっさい！　もっと静かにしろっ」",
+      "JP": "`鈴@「おまえらうっさい！　もっと静かにしろっ」",
       "EN": "`Rin@❝Shut up you guys! Be quiet!❞",
       "Translation": "`Rin@❝Shut up you guys! Be quiet!❞"
     },
     {
-      "JP": "真人@「てめぇひとりで課題ばっかし進めやがって…少しは羽目はずせよ！」",
+      "JP": "`真人@「てめぇひとりで課題ばっかし進めやがって…少しは羽目はずせよ！」",
       "EN": "`Masato@❝Rin, why are you doing your homework alone? Lighten up a bit!❞",
       "Translation": "`Masato@❝Rin, why are you doing your homework alone? Lighten up a bit!❞"
     },
     {
-      "JP": "真人@「恭介も、ひいきすんなよっ、鈴からも搾り取れよっ、名言をよ！」",
+      "JP": "`真人@「恭介も、ひいきすんなよっ、鈴からも搾り取れよっ、名言をよ！」",
       "EN": "`Masato@❝And Kyousuke, why am I your only target? Try to squeeze some from Rin!❞",
       "Translation": "`Masato@❝And Kyousuke, why am I your only target? Try to squeeze some from Rin!❞"
     },
     {
-      "JP": "理樹@「真人が勝手によじれて搾れていってるって印象だけど」",
+      "JP": "`理樹@「真人が勝手によじれて搾れていってるって印象だけど」",
       "EN": "`Riki@❝I think that's entirely the result of your own actions.❞",
       "Translation": "`Riki@❝I think that's entirely the result of your own actions.❞"
     },
     {
-      "JP": "真人@「くそぅっ、自爆ってことかよっ」",
+      "JP": "`真人@「くそぅっ、自爆ってことかよっ」",
       "EN": "`Masato@❝Dammit, it's like scoring an own goal.❞",
       "Translation": "`Masato@❝Dammit, it's like scoring an own goal.❞"
     },
     {
-      "JP": "真人@「こうなったらマジで名言吐いて、あの子ちょっとイケてるじゃない？ってとこ見せてやる…」",
+      "JP": "`真人@「こうなったらマジで名言吐いて、あの子ちょっとイケてるじゃない？ってとこ見せてやる…」",
       "EN": "`Masato@❝Okay, since it's come to this, I'll make a bunch of great sayings and show her that I'm actually pretty cool...❞",
       "Translation": "`Masato@❝Okay, since it's come to this, I'll make a bunch of great sayings and show her that I'm actually pretty cool...❞"
     },
     {
-      "JP": "恭介@「すでにそれが名言だな」",
+      "JP": "`恭介@「すでにそれが名言だな」",
       "EN": "`Kyousuke@❝Thanks, you've made another one.❞",
       "Translation": "`Kyousuke@❝Thanks, you've made another one.❞"
     },
     {
-      "JP": "理樹@「前向きなのか、後ろ向きなのかよくわかんないところが真人っぽいよね…」",
+      "JP": "`理樹@「前向きなのか、後ろ向きなのかよくわかんないところが真人っぽいよね…」",
       "EN": "`Riki@❝I don't know if it's positive or negative, Masato, but these words are so like you.❞",
       "Translation": "`Riki@❝I don't know if it's positive or negative, Masato, but these words are so like you.❞"
     },
     {
-      "JP": "真人@「ありがとよ」",
+      "JP": "`真人@「ありがとよ」",
       "EN": "`Masato@❝Thanks.❞",
       "Translation": "`Masato@❝Thanks.❞"
     },
     {
-      "JP": "鈴@「こいつ馬鹿だ！」",
+      "JP": "`鈴@「こいつ馬鹿だ！」",
       "EN": "`Rin@❝What an idiot!❞",
       "Translation": "`Rin@❝What an idiot!❞"
     },
     {
-      "JP": "恭介@「お、それももらいだ」",
+      "JP": "`恭介@「お、それももらいだ」",
       "EN": "`Kyousuke@❝Nice, Rin.❞",
       "Translation": "`Kyousuke@❝Nice, Rin.❞"
     },
     {
-      "JP": "真人@「うおおぉぉーーーっ、状況まで補足するなああぁぁーーーーーっ！」",
+      "JP": "`真人@「うおおぉぉーーーっ、状況まで補足するなああぁぁーーーーーっ！」",
       "EN": "`Masato@❝Uwooo――! Don't add the details――!!❞",
       "Translation": "`Masato@❝Uwooo――! Don't add the details――!!❞"
     },
     {
-      "JP": "謙吾@「真人をみごとに一言で表してるな」",
+      "JP": "`謙吾@「真人をみごとに一言で表してるな」",
       "EN": "`Kengo@❝Well done, splendidly describing him in a single sentence.❞",
       "Translation": "`Kengo@❝Well done, splendidly describing him in a single sentence.❞"
     },
     {
-      "JP": "真人@「馬鹿って言ってるだけじゃねーかっ」",
+      "JP": "`真人@「馬鹿って言ってるだけじゃねーかっ」",
       "EN": "`Masato@❝She just said I'm an idiot.❞",
       "Translation": "`Masato@❝She just said I'm an idiot.❞"
     },
     {
-      "JP": "鈴@「だーかーらっ、うっさいっ！」",
+      "JP": "`鈴@「だーかーらっ、うっさいっ！」",
       "EN": "`Rin@❝Won't... you... just... shut up!❞",
       "Translation": "`Rin@❝Won't... you... just... shut up!❞"
     },
     {
-      "JP": "謙吾@「もう用はないな？　俺は戻るぞ」",
+      "JP": "`謙吾@「もう用はないな？　俺は戻るぞ」",
       "EN": "`Kengo@❝Was that all you had? I'm going back.❞",
       "Translation": "`Kengo@❝Was that all you had? I'm going back.❞"
     },
     {
-      "JP": "真人@「んまっ…」",
+      "JP": "`真人@「んまっ…」",
       "EN": "`Masato@❝nma...❞",
       "Translation": "`Masato@❝nma...❞"
     },
     {
-      "JP": "すっ。",
+      "JP": "ぶすっ。",
       "EN": "*Stab*!",
       "Translation": "*Stab*!"
     },
     {
-      "JP": "真人@「つぁ…ちょぎっ…！」",
+      "JP": "`真人@「つぁ…ちょぎっ…！」",
       "EN": "`Masato@❝tsua... chogi...!❞",
       "Translation": "`Masato@❝tsua... chogi...!❞"
     },
     {
-      "JP": "にシャーペンで脇腹を突かれながら、謙吾を呼び止めようとしたもんだから、言葉にならない。",
+      "JP": "鈴にシャーペンで脇腹を突かれながら、謙吾を呼び止めようとしたもんだから、言葉にならない。",
       "EN": "Masato couldn't get the words out of his mouth, since Rin had thrust a mechanical pencil into his side.",
       "Translation": "Masato couldn't get the words out of his mouth, since Rin had thrust a mechanical pencil into his side."
     },
     {
-      "JP": "恭介@「また奥深い名言が生まれちまったな…」",
+      "JP": "`恭介@「また奥深い名言が生まれちまったな…」",
       "EN": "`Kyousuke@❝Another profound saying has been born...❞",
       "Translation": "`Kyousuke@❝Another profound saying has been born...❞"
     },
     {
-      "JP": "理樹@「彼の人生に何があったんだろう…」",
+      "JP": "`理樹@「彼の人生に何があったんだろう…」",
       "EN": "`Riki@❝I wonder what happened to make him that way...❞",
       "Translation": "`Riki@❝I wonder what happened to make him that way...❞"
     },
     {
-      "JP": "鈴@「ふぅむ、興味深いな」",
+      "JP": "`鈴@「ふぅむ、興味深いな」",
       "EN": "`Rin@❝Hmm, I wanna know, too.❞",
       "Translation": "`Rin@❝Hmm, I wanna know, too.❞"
     },
     {
-      "JP": "恭介@「対訳も載っけておこう」",
+      "JP": "`恭介@「対訳も載っけておこう」",
       "EN": "`Kyousuke@❝I've translated it.❞",
       "Translation": "`Kyousuke@❝I've translated it.❞"
     },
     {
-      "JP": "理樹@「地味な内容の割に軽快だね…」",
+      "JP": "`理樹@「地味な内容の割に軽快だね…」",
       "EN": "`Riki@❝This is simple yet uplifting...❞",
       "Translation": "`Riki@❝This is simple yet uplifting...❞"
     },
     {
-      "JP": "謙吾@「しかも状況を見ろ、こいつ、マヨネーズを空に向けて差し出しているぞ…」",
+      "JP": "`謙吾@「しかも状況を見ろ、こいつ、マヨネーズを空に向けて差し出しているぞ…」",
       "EN": "`Kengo@❝That's not all. Look, he's holding out a tub of mayonnaise to the sky...❞",
       "Translation": "`Kengo@❝That's not all. Look, he's holding out a tub of mayonnaise to the sky...❞"
     },
     {
-      "JP": "理樹@「ほんとだ…」",
+      "JP": "`理樹@「ほんとだ…」",
       "EN": "`Riki@❝Wow, he really is...❞",
       "Translation": "`Riki@❝Wow, he really is...❞"
     },
     {
-      "JP": "鈴@「謎は深まるばかりだな…」",
+      "JP": "`鈴@「謎は深まるばかりだな…」",
       "EN": "`Rin@❝The mystery is only getting deeper and deeper...❞",
       "Translation": "`Rin@❝The mystery is only getting deeper and deeper...❞"
     },
     {
-      "JP": "真人@「てめぇに脇腹刺されただけだよっ!!」",
+      "JP": "`真人@「てめぇに脇腹刺されただけだよっ!!」",
       "EN": "`Masato@❝That's because you stabbed me in the side!!❞",
       "Translation": "`Masato@❝That's because you stabbed me in the side!!❞"
     },
     {
-      "JP": "恭介@「そういや、野球」",
+      "JP": "`恭介@「そういや、野球」",
       "EN": "`Kyousuke@❝Speaking of baseball...❞",
       "Translation": "`Kyousuke@❝Speaking of baseball...❞"
     },
     {
-      "JP": "うやく静かになって、みんながかりかりとノートを埋めるのに必死になっている中、恭介はぽつりと口にした。",
+      "JP": "ようやく静かになって、みんながかりかりとノートを埋めるのに必死になっている中、恭介はぽつりと口にした。",
       "EN": "After we finally quieted down and resumed our homework, Kyousuke brought it up again.",
       "Translation": "After we finally quieted down and resumed our homework, Kyousuke brought it up again."
     },
     {
-      "JP": "恭介@「来週末に試合するんでよろしく」",
+      "JP": "`恭介@「来週末に試合するんでよろしく」",
       "EN": "`Kyousuke@❝We'll have a match at the end of next week.❞",
       "Translation": "`Kyousuke@❝We'll have a match at the end of next week.❞"
     },
     {
-      "JP": "た、とすべてのシャーペンの動きが止まり、静寂が訪れる。",
+      "JP": "ぴた、とすべてのシャーペンの動きが止まり、静寂が訪れる。",
       "EN": "We immediately stopped moving our pencils, and the room fell dead quiet.",
       "Translation": "We immediately stopped moving our pencils, and the room fell dead quiet."
     },
     {
-      "JP": "んなその意味を計りかねているようだ。",
+      "JP": "みんなその意味を計りかねているようだ。",
       "EN": "It took some time for his words to sink in.",
       "Translation": "It took some time for his words to sink in."
     },
     {
-      "JP": "真人@「いいか、恭介」",
+      "JP": "`真人@「いいか、恭介」",
       "EN": "`Masato@❝Listen, Kyousuke.❞",
       "Translation": "`Masato@❝Listen, Kyousuke.❞"
     },
     {
-      "JP": "人がその中、先陣を切る。",
+      "JP": "真人がその中、先陣を切る。",
       "EN": "Masato broke the silence.",
       "Translation": "Masato broke the silence."
     },
     {
-      "JP": "真人@「…試合をするには足りないものがある」",
+      "JP": "`真人@「…試合をするには足りないものがある」",
       "EN": "`Masato@❝...There's still some things we're lacking.❞",
       "Translation": "`Masato@❝...There's still some things we're lacking.❞"
     },
     {
-      "JP": "恭介@「なんだ？」",
+      "JP": "`恭介@「なんだ？」",
       "EN": "`Kyousuke@❝What?❞",
       "Translation": "`Kyousuke@❝What?❞"
     },
     {
-      "JP": "真人@「そうか…わからないのか…なら教えてやろう…」",
+      "JP": "`真人@「そうか…わからないのか…なら教えてやろう…」",
       "EN": "`Masato@❝You don't know? Okay, I'll tell you...❞",
       "Translation": "`Masato@❝You don't know? Okay, I'll tell you...❞"
     },
     {
-      "JP": "真人@「そりゃあ、残りのメンバーと、練習時間と、練習道具と、おまえ以外の人間のやる気と、残りのメンバーだよっ！」",
+      "JP": "`真人@「そりゃあ、残りのメンバーと、練習時間と、練習道具と、おまえ以外の人間のやる気と、残りのメンバーだよっ！」",
       "EN": "`Masato@❝We need more members, more practice, more equipment, everyone save for you needs motivation, and we need more members!❞",
       "Translation": "`Masato@❝We need more members, more practice, more equipment, everyone save for you needs motivation, and we need more members!❞"
     },
     {
-      "JP": "鈴@「こいつ残りのメンバーって二回言ったぞ」",
+      "JP": "`鈴@「こいつ残りのメンバーって二回言ったぞ」",
       "EN": "`Rin@❝He said ❛more members❜ twice.❞",
       "Translation": "`Rin@❝He said ❛more members❜ twice.❞"
     },
     {
-      "JP": "理樹@「真人なりに意味があるんだよ、あまり深く詮索してあげないでよ」",
+      "JP": "`理樹@「真人なりに意味があるんだよ、あまり深く詮索してあげないでよ」",
       "EN": "`Riki@❝I guess he did it on purpose. There must be some deep meaning to it.❞",
       "Translation": "`Riki@❝I guess he did it on purpose. There must be some deep meaning to it.❞"
     },
     {
-      "JP": "真人@「意味なんてねぇーーよ、ごめんなさいでしたあぁぁー！」",
+      "JP": "`真人@「意味なんてねぇーーよ、ごめんなさいでしたあぁぁー！」",
       "EN": "`Masato@❝I just made a mistake! I'm so sorryyyy!❞",
       "Translation": "`Masato@❝I just made a mistake! I'm so sorryyyy!❞"
     },
     {
-      "JP": "鈴@「やっぱばかだ」",
+      "JP": "`鈴@「やっぱばかだ」",
       "EN": "`Rin@❝You idiot.❞",
       "Translation": "`Rin@❝You idiot.❞"
     },
     {
-      "JP": "真人@「なんだとてめぇ、触りまくって馬鹿移すぞ！」",
+      "JP": "`真人@「なんだとてめぇ、触りまくって馬鹿移すぞ！」",
       "EN": "`Masato@❝What did you say, Rin!? I'm gonna infect you with my stupidity!❞",
       "Translation": "`Masato@❝What did you say, Rin!? I'm gonna infect you with my stupidity!❞"
     },
     {
-      "JP": "きぃ！",
+      "JP": "ばきぃ！",
       "EN": "*Wham*!",
       "Translation": "*Wham*!"
     },
     {
-      "JP": "のハイキックが炸裂する。",
+      "JP": "鈴のハイキックが炸裂する。",
       "EN": "Rin gave him a high kick instead.",
       "Translation": "Rin gave him a high kick instead."
     },
     {
-      "JP": "謙吾@「そこんとこどうなんだ、恭介」",
+      "JP": "`謙吾@「そこんとこどうなんだ、恭介」",
       "EN": "`Kengo@❝What are you going to do about it, Kyousuke?❞",
       "Translation": "`Kengo@❝What are you going to do about it, Kyousuke?❞"
     },
     {
-      "JP": "ったまま白目を剥いた真人の後を謙吾が引き継ぐ。",
+      "JP": "立ったまま白目を剥いた真人の後を謙吾が引き継ぐ。",
       "EN": "Kengo took over Masato's role since he was standing still with his eyes rolled up to the whites.",
       "Translation": "Kengo took over Masato's role since he was standing still with his eyes rolled up to the whites."
     },
     {
-      "JP": "恭介@「練習道具はあるだろう。野球部のを使えばいい」",
+      "JP": "`恭介@「練習道具はあるだろう。野球部のを使えばいい」",
       "EN": "`Kyousuke@❝There's plenty of equipment. Left by the old baseball club.❞",
       "Translation": "`Kyousuke@❝There's plenty of equipment. Left by the old baseball club.❞"
     },
     {
-      "JP": "謙吾@「残りのメンバーは」",
+      "JP": "`謙吾@「残りのメンバーは」",
       "EN": "`Kengo@❝What about members?❞",
       "Translation": "`Kengo@❝What about members?❞"
     },
     {
-      "JP": "恭介@「これから探すさ」",
+      "JP": "`恭介@「これから探すさ」",
       "EN": "`Kyousuke@❝Finding them comes next.❞",
       "Translation": "`Kyousuke@❝Finding them comes next.❞"
     },
     {
-      "JP": "謙吾@「残り５人、見つかるかな」",
+      "JP": "`謙吾@「残り５人、見つかるかな」",
       "EN": "`Kengo@❝You need five more members. Can you make it?❞",
       "Translation": "`Kengo@❝You need five more members. Can you make it?❞"
     },
     {
-      "JP": "りは４人だと思ったが、謙吾はわざと自分を抜いたんだろう。",
+      "JP": "残りは４人だと思ったが、謙吾はわざと自分を抜いたんだろう。",
       "EN": "I thought we needed only four more, but Kengo purposely counted himself out.",
       "Translation": "I thought we needed only four more, but Kengo purposely counted himself out."
     },
     {
-      "JP": "猫@「ふぎゃーーーっ！」",
+      "JP": "`猫@「ふぎゃーーーっ！」",
       "EN": "`Cat@❝Phgeow!❞",
       "Translation": "`Cat@❝Phgeow!❞"
     },
     {
-      "JP": "真人@「うぉぉ、いてぇぇーーっ！」",
+      "JP": "`真人@「うぉぉ、いてぇぇーーっ！」",
       "EN": "`Masato@❝Nooo, it hurts!❞",
       "Translation": "`Masato@❝Nooo, it hurts!❞"
     },
     {
-      "JP": "らに猫に引っ掻かれ、正気を取り戻す真人。",
+      "JP": "さらに猫に引っ掻かれ、正気を取り戻す真人。",
       "EN": "With the assistance of a cat scratching him, Masato regained consciousness.",
       "Translation": "With the assistance of a cat scratching him, Masato regained consciousness."
     },
     {
-      "JP": "恭介@「なあ、鈴。ちょっとこい」",
+      "JP": "`恭介@「なあ、鈴。ちょっとこい」",
       "EN": "`Kyousuke@❝Hey, Rin. Come here for a bit.❞",
       "Translation": "`Kyousuke@❝Hey, Rin. Come here for a bit.❞"
     },
     {
-      "JP": "鈴@「…ん？」",
+      "JP": "`鈴@「…ん？」",
       "EN": "`Rin@❝...Hmm?❞",
       "Translation": "`Rin@❝...Hmm?❞"
     },
     {
-      "JP": "人は猫に任せて、鈴が寄ってくる。",
+      "JP": "真人は猫に任せて、鈴が寄ってくる。",
       "EN": "Leaving the cat with Masato, she approached Kyousuke.",
       "Translation": "Leaving the cat with Masato, she approached Kyousuke."
     },
     {
-      "JP": "恭介@「ひとつ頼まれてくれないか」",
+      "JP": "`恭介@「ひとつ頼まれてくれないか」",
       "EN": "`Kyousuke@❝Can you do me a favor?❞",
       "Translation": "`Kyousuke@❝Can you do me a favor?❞"
     },
     {
-      "JP": "鈴@「なにを」",
+      "JP": "`鈴@「なにを」",
       "EN": "`Rin@❝What is it?❞",
       "Translation": "`Rin@❝What is it?❞"
     },
     {
-      "JP": "恭介@「もちろん、メンバー集めだ」",
+      "JP": "`恭介@「もちろん、メンバー集めだ」",
       "EN": "`Kyousuke@❝Collecting members, of course.❞",
       "Translation": "`Kyousuke@❝Collecting members, of course.❞"
     },
     {
-      "JP": "鈴@「そんなのできない」",
+      "JP": "`鈴@「そんなのできない」",
       "EN": "`Rin@❝I can't do something like that.❞",
       "Translation": "`Rin@❝I can't do something like that.❞"
     },
     {
-      "JP": "恭介@「まあ、聞け。おまえこれを耳につけろ」",
+      "JP": "`恭介@「まあ、聞け。おまえこれを耳につけろ」",
       "EN": "`Kyousuke@❝Hey, just listen. Put this on.❞",
       "Translation": "`Kyousuke@❝Hey, just listen. Put this on.❞"
     },
     {
-      "JP": "って差し出すのは、手作りのイヤホンのようなもの。",
+      "JP": "言って差し出すのは、手作りのイヤホンのようなもの。",
       "EN": "He handed an earphone to her. It looked handmade.",
       "Translation": "He handed an earphone to her. It looked handmade."
     },
     {
-      "JP": "れを鈴の耳に装着させる。",
+      "JP": "それを鈴の耳に装着させる。",
       "EN": "She put it on.",
       "Translation": "She put it on."
     },
     {
-      "JP": "鈴@「…？」",
+      "JP": "`鈴@「…？」",
       "EN": "`Rin@❝...?❞",
       "Translation": "`Rin@❝...?❞"
     },
     {
-      "JP": "いて恭介は自分の携帯電話を取り出し、受話器を耳に当て、もしもし、と話しかけた。",
+      "JP": "続いて恭介は自分の携帯電話を取り出し、受話器を耳に当て、もしもし、と話しかけた。",
       "EN": "Then he took out his cellphone and said ❛hello?❜ into it.",
       "Translation": "Then he took out his cellphone and said ❛hello?❜ into it."
     },
     {
-      "JP": "鈴@「っ!?」",
+      "JP": "`鈴@「っ!?」",
       "EN": "`Rin@❝!?❞",
       "Translation": "`Rin@❝!?❞"
     },
     {
-      "JP": "が飛び退くぐらい驚く。",
+      "JP": "鈴が飛び退くぐらい驚く。",
       "EN": "Rin was startled by something.",
       "Translation": "Rin was startled by something."
     },
     {
-      "JP": "うやら、耳のイヤホンから恭介の声が聞こえたようだ。",
+      "JP": "どうやら、耳のイヤホンから恭介の声が聞こえたようだ。",
       "EN": "It seemed like she'd heard his voice from the earphone.",
       "Translation": "It seemed like she'd heard his voice from the earphone."
     },
     {
-      "JP": "恭介@「感度良好。早速任務を命ずる」",
+      "JP": "`恭介@「感度良好。早速任務を命ずる」",
       "EN": "`Kyousuke@❝Great reception. I'll assign you a mission.❞",
       "Translation": "`Kyousuke@❝Great reception. I'll assign you a mission.❞"
     },
     {
-      "JP": "恭介@「ミッション・スタート！」",
+      "JP": "`恭介@「ミッション・スタート！」",
       "EN": "`Kyousuke@❝Mission Start!❞",
       "Translation": "`Kyousuke@❝Mission Start!❞"
     },
     {
-      "JP": "恭介@「鈴を使って、女子生徒をリトルバスターズに勧誘せよ!!」",
+      "JP": "`恭介@「鈴を使って、女子生徒をリトルバスターズに勧誘せよ!!」",
       "EN": "`Kyousuke@❝By using Rin, we'll recruit a new female member for the team!❞",
       "Translation": "`Kyousuke@❝By using Rin, we'll recruit a new female member for the team!❞"
     },
     {
-      "JP": "理樹@「どうして女子生徒なの？」",
+      "JP": "`理樹@「どうして女子生徒なの？」",
       "EN": "`Riki@❝Why female?❞",
       "Translation": "`Riki@❝Why female?❞"
     },
     {
-      "JP": "恭介@「そりゃ、男ばっかじゃむさ苦しいからに決まってるだろ」",
+      "JP": "`恭介@「そりゃ、男ばっかじゃむさ苦しいからに決まってるだろ」",
       "EN": "`Kyousuke@❝That's... of course, because it's painful with only guys.❞",
       "Translation": "`Kyousuke@❝That's... of course, because it's painful with only guys.❞"
     },
     {
-      "JP": "理樹@「でも、野球でしょ？」",
+      "JP": "`理樹@「でも、野球でしょ？」",
       "EN": "`Riki@❝But, it's baseball we're talking about?❞",
       "Translation": "`Riki@❝But, it's baseball we're talking about?❞"
     },
     {
-      "JP": "恭介@「いいじゃねーか」",
+      "JP": "`恭介@「いいじゃねーか」",
       "EN": "`Kyousuke@❝It's fine.❞",
       "Translation": "`Kyousuke@❝It's fine.❞"
     },
     {
-      "JP": "恭介@「それに…女が鈴ひとりだと寂しいだろ」",
+      "JP": "`恭介@「それに…女が鈴ひとりだと寂しいだろ」",
       "EN": "`Kyousuke@❝And Rin won't feel lonely being the only girl.❞",
       "Translation": "`Kyousuke@❝And Rin won't feel lonely being the only girl.❞"
     },
     {
-      "JP": "れ以上何も言えなくなった。",
+      "JP": "それ以上何も言えなくなった。",
       "EN": "I couldn't say any more.",
       "Translation": "I couldn't say any more."
     },
     {
-      "JP": "鈴@『こちら、鈴。女子寮に潜入した』",
+      "JP": "`鈴@『こちら、鈴。女子寮に潜入した』",
       "EN": "`Rin@[This is Rin. I've infiltrated the girls' dorm.]",
       "Translation": "`Rin@[This is Rin. I've infiltrated the girls' dorm.]"
     },
     {
-      "JP": "介の携帯は手放しモードで、ちゃぶ台の中央に置いてある。それを男４人がぐるりと囲んでいる。",
+      "JP": "恭介の携帯は手放しモードで、ちゃぶ台の中央に置いてある。それを男４人がぐるりと囲んでいる。",
       "EN": "Kyousuke put his cellphone into hands-free mode and placed it on the table. We huddled around it.",
       "Translation": "Kyousuke put his cellphone into hands-free mode and placed it on the table. We huddled around it."
     },
     {
-      "JP": "恭介@「誰かいるか？」",
+      "JP": "`恭介@「誰かいるか？」",
       "EN": "`Kyousuke@❝Is someone there?❞",
       "Translation": "`Kyousuke@❝Is someone there?❞"
     },
     {
-      "JP": "鈴@『いる』",
+      "JP": "`鈴@『いる』",
       "EN": "`Rin@[Yup.]",
       "Translation": "`Rin@[Yup.]"
     },
     {
-      "JP": "恭介@「知り合いか？」",
+      "JP": "`恭介@「知り合いか？」",
       "EN": "`Kyousuke@❝Do you know her?❞",
       "Translation": "`Kyousuke@❝Do you know her?❞"
     },
     {
-      "JP": "鈴@『知ってるけどよくは知らない』",
+      "JP": "`鈴@『知ってるけどよくは知らない』",
       "EN": "`Rin@[I do, but not very well.]",
       "Translation": "`Rin@[I do, but not very well.]"
     },
     {
-      "JP": "理樹@「顔は知ってるけど、親しくない、といったところか…」",
+      "JP": "`理樹@「顔は知ってるけど、親しくない、といったところか…」",
       "EN": "`Riki@❝She probably meant that all she knows is her face...❞",
       "Translation": "`Riki@❝She probably meant that all she knows is her face...❞"
     },
     {
-      "JP": "鈴@『どうすればいい』",
+      "JP": "`鈴@『どうすればいい』",
       "EN": "`Rin@[What should I do?]",
       "Translation": "`Rin@[What should I do?]"
     },
     {
-      "JP": "恭介@「もちろん勧誘だ」",
+      "JP": "`恭介@「もちろん勧誘だ」",
       "EN": "`Kyousuke@❝Ask her if she wants to play baseball, of course.❞",
       "Translation": "`Kyousuke@❝Ask her if she wants to play baseball, of course.❞"
     },
     {
-      "JP": "鈴@『なんて言えばいいかわからない』",
+      "JP": "`鈴@『なんて言えばいいかわからない』",
       "EN": "`Rin@[But I don't know what to say.]",
       "Translation": "`Rin@[But I don't know what to say.]"
     },
     {
-      "JP": "恭介@「まずはおはようございますと挨拶しろ」",
+      "JP": "`恭介@「まずはおはようございますと挨拶しろ」",
       "EN": "`Kyousuke@❝First, go and say ❛ohayou gozaimasu.❜❞",
       "Translation": "`Kyousuke@❝First, go and say ❛ohayou gozaimasu.❜❞"
     },
     {
-      "JP": "恭介@「まずは挨拶しろ」",
+      "JP": "`恭介@「まずは挨拶しろ」",
       "EN": "`Kyousuke@❝First, greet her.❞",
       "Translation": "`Kyousuke@❝First, greet her.❞"
     },
     {
-      "JP": "鈴@『おはようございますか』",
+      "JP": "`鈴@『おはようございますか』",
       "EN": "`Rin@[Good morning?]",
       "Translation": "`Rin@[Good morning?]"
     },
     {
-      "JP": "や、朝じゃないし…。",
+      "JP": "いや、朝じゃないし…。",
       "EN": "It's not morning now...",
       "Translation": "It's not morning now..."
     },
     {
-      "JP": "謙吾@「なるほど。最近の女子は確かに、午後からでもその日初めて会うなら、おはようございますというらしいな」",
+      "JP": "`謙吾@「なるほど。最近の女子は確かに、午後からでもその日初めて会うなら、おはようございますというらしいな」",
       "EN": "`Kengo@❝I see. They say, recently, girls often use ❛ohayou gozaimasu❜ as long as it's their first meeting of the day.❞",
       "Translation": "`Kengo@❝I see. They say, recently, girls often use ❛ohayou gozaimasu❜ as long as it's their first meeting of the day.❞"
     },
     {
-      "JP": "真人@「でも、おはようございます、なんてはっきり言う奴はいないだろ」",
+      "JP": "`真人@「でも、おはようございます、なんてはっきり言う奴はいないだろ」",
       "EN": "`Masato@❝But I guess they don't say ❛ohayou gozaimasu❜ clearly.❞",
       "Translation": "`Masato@❝But I guess they don't say ❛ohayou gozaimasu❜ clearly.❞"
     },
     {
-      "JP": "真人@「玄人っぽく、ここは、おやっす、じゃないか？」",
+      "JP": "`真人@「玄人っぽく、ここは、おやっす、じゃないか？」",
       "EN": "`Masato@❝How about ❛oyassu❜ Sounds professional, doesn't it?❞",
       "Translation": "`Masato@❝How about ❛oyassu❜ Sounds professional, doesn't it?❞"
     },
     {
-      "JP": "理樹@「確かにそれは玄人っぽいけど…（なんの玄人だろう）」",
+      "JP": "`理樹@「確かにそれは玄人っぽいけど…（なんの玄人だろう）」",
       "EN": "`Riki@❝That is certainly very professional-ish, but... (what kind of profession?)❞",
       "Translation": "`Riki@❝That is certainly very professional-ish, but... (what kind of profession?)❞"
     },
     {
-      "JP": "真人@「ちょっと待て…オレは大変なことに今気づいた…」",
+      "JP": "`真人@「ちょっと待て…オレは大変なことに今気づいた…」",
       "EN": "`Masato@❝Wait a sec... I've realized an important fact...❞",
       "Translation": "`Masato@❝Wait a sec... I've realized an important fact...❞"
     },
     {
-      "JP": "うせ大したことじゃない。",
+      "JP": "どうせ大したことじゃない。",
       "EN": "I'm sure it's not important.",
       "Translation": "I'm sure it's not important."
     },
     {
-      "JP": "真人@「オリバーソースって早口で言ってみろ…これ…おはようございますって聞こえねぇか？」",
+      "JP": "`真人@「オリバーソースって早口で言ってみろ…これ…おはようございますって聞こえねぇか？」",
       "EN": "`Masato@❝Say ❛Oliver Sauce❜ quickly... Doesn't it sound like ❛ohayou gozaimasu❜?❞",
       "Translation": "`Masato@❝Say ❛Oliver Sauce❜ quickly... Doesn't it sound like ❛ohayou gozaimasu❜?❞"
     },
     {
-      "JP": "理樹@「いや、どうだろう…（やっぱり大したことなかった！）」",
+      "JP": "`理樹@「いや、どうだろう…（やっぱり大したことなかった！）」",
       "EN": "`Riki@❝I wonder... (I knew it was of little importance!)❞",
       "Translation": "`Riki@❝I wonder... (I knew it was of little importance!)❞"
     },
     {
-      "JP": "鈴@『それでいいのか？』",
+      "JP": "`鈴@『それでいいのか？』",
       "EN": "`Rin@[Can I go ahead?]",
       "Translation": "`Rin@[Can I go ahead?]"
     },
     {
-      "JP": "鈴@『こっちはやじゃっ』",
+      "JP": "`鈴@『こっちはやじゃっ』",
       "EN": "`Rin@[I don't want to.]",
       "Translation": "`Rin@[I don't want to.]"
     },
     {
-      "JP": "わ…抵抗された…。",
+      "JP": "うわ…抵抗された…。",
       "EN": "She refused...",
       "Translation": "She refused..."
     },
     {
-      "JP": "鈴@『了解』",
+      "JP": "`鈴@『了解』",
       "EN": "`Rin@[Understood.]",
       "Translation": "`Rin@[Understood.]"
     },
     {
-      "JP": "理樹@「わあ」",
+      "JP": "`理樹@「わあ」",
       "EN": "`Riki@❝Wow.❞",
       "Translation": "`Riki@❝Wow.❞"
     },
     {
-      "JP": "鈴@『オリバソース』",
+      "JP": "`鈴@『オリバソース』",
       "EN": "`Rin@[Oliver Sauce.]",
       "Translation": "`Rin@[Oliver Sauce.]"
     },
     {
-      "JP": "ほんとに言ってる。",
+      "JP": "…ほんとに言ってる。",
       "EN": "She really said it...",
       "Translation": "She really said it..."
     },
     {
-      "JP": "女生徒@『え、なに？』",
+      "JP": "`女生徒@『え、なに？』",
       "EN": "`Female Student@[Eh? What?]",
       "Translation": "`Female Student@[Eh? What?]"
     },
     {
-      "JP": "き返されてる…。",
+      "JP": "聞き返されてる…。",
       "EN": "No wonder she failed to catch it...",
       "Translation": "No wonder she failed to catch it..."
     },
     {
-      "JP": "鈴@『オリバソース』",
+      "JP": "`鈴@『オリバソース』",
       "EN": "`Rin@[Oliver Sauce.]",
       "Translation": "`Rin@[Oliver Sauce.]"
     },
     {
-      "JP": "り返してる…。",
+      "JP": "繰り返してる…。",
       "EN": "She repeated...",
       "Translation": "She repeated..."
     },
     {
-      "JP": "女生徒@『え…は、はぁ』",
+      "JP": "`女生徒@『え…は、はぁ』",
       "EN": "`Female Student@[Eh... o, okay.]",
       "Translation": "`Female Student@[Eh... o, okay.]"
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "鈴@『…こちら、鈴。任務失敗』",
+      "JP": "`鈴@『…こちら、鈴。任務失敗』",
       "EN": "`Rin@[...This is Rin. Mission Failed.]",
       "Translation": "`Rin@[...This is Rin. Mission Failed.]"
     },
     {
-      "JP": "理樹@「うわちゃー」",
+      "JP": "`理樹@「うわちゃー」",
       "EN": "`Riki@❝Oh my god.❞",
       "Translation": "`Riki@❝Oh my god.❞"
     },
     {
-      "JP": "真人@「ちっ、相手は素人だったかっ」",
+      "JP": "`真人@「ちっ、相手は素人だったかっ」",
       "EN": "`Masato@❝Dammit, she must be an amateur.❞",
       "Translation": "`Masato@❝Dammit, she must be an amateur.❞"
     },
     {
-      "JP": "理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
+      "JP": "`理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
       "EN": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞",
       "Translation": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞"
     },
     {
-      "JP": "声@『あら、棗さん、新しい遊び？』",
+      "JP": "`声@『あら、棗さん、新しい遊び？』",
       "EN": "`Voice@[Ah, Natsume-san, a new game?]",
       "Translation": "`Voice@[Ah, Natsume-san, a new game?]"
     },
     {
-      "JP": "しい声が聞こえる。",
+      "JP": "新しい声が聞こえる。",
       "EN": "We heard a new voice.",
       "Translation": "We heard a new voice."
     },
     {
-      "JP": "鈴@『オリバソース』",
+      "JP": "`鈴@『オリバソース』",
       "EN": "`Rin@[Oliver Sauce.]",
       "Translation": "`Rin@[Oliver Sauce.]"
     },
     {
-      "JP": "理樹@「まだ言ってるよ…」",
+      "JP": "`理樹@「まだ言ってるよ…」",
       "EN": "`Riki@❝She's still saying it...❞",
       "Translation": "`Riki@❝She's still saying it...❞"
     },
     {
-      "JP": "理樹@「よくないってっ」",
+      "JP": "`理樹@「よくないってっ」",
       "EN": "`Riki@❝It's not okay!❞",
       "Translation": "`Riki@❝It's not okay!❞"
     },
     {
-      "JP": "恭介@「じゃ、あえてもっと離れてみようか…」",
+      "JP": "`恭介@「じゃ、あえてもっと離れてみようか…」",
       "EN": "`Kyousuke@❝Then, let's make a major change...❞",
       "Translation": "`Kyousuke@❝Then, let's make a major change...❞"
     },
     {
-      "JP": "恭介@「こんなのはどうだ」",
+      "JP": "`恭介@「こんなのはどうだ」",
       "EN": "`Kyousuke@❝How about this?❞",
       "Translation": "`Kyousuke@❝How about this?❞"
     },
     {
-      "JP": "恭介@「代打バース」",
+      "JP": "`恭介@「代打バース」",
       "EN": "`Kyousuke@❝Daida basu (Pinch hitter bass).❞",
       "Translation": "`Kyousuke@❝Daida basu (Pinch hitter bass).❞"
     },
     {
-      "JP": "理樹@「いや、ぜんぜん聞こえないけど」",
+      "JP": "`理樹@「いや、ぜんぜん聞こえないけど」",
       "EN": "`Riki@❝Ah, that sounds totally different.❞",
       "Translation": "`Riki@❝Ah, that sounds totally different.❞"
     },
     {
-      "JP": "恭介@「こう、うつむき加減で言ってみろ…代打バースっ…」",
+      "JP": "`恭介@「こう、うつむき加減で言ってみろ…代打バースっ…」",
       "EN": "`Kyousuke@❝Cast your eyes down as you say it... Daida basu...❞",
       "Translation": "`Kyousuke@❝Cast your eyes down as you say it... Daida basu...❞"
     },
     {
-      "JP": "真人@「む…確かに…なんか挨拶されてる気分になるな…」",
+      "JP": "`真人@「む…確かに…なんか挨拶されてる気分になるな…」",
       "EN": "`Masato@❝Oh... it feels like you're greeting...❞",
       "Translation": "`Masato@❝Oh... it feels like you're greeting...❞"
     },
     {
-      "JP": "理樹@「そんなの頭下げてるからじゃんっ」",
+      "JP": "`理樹@「そんなの頭下げてるからじゃんっ」",
       "EN": "`Riki@❝That's only because he made a bow.❞",
       "Translation": "`Riki@❝That's only because he made a bow.❞"
     },
     {
-      "JP": "鈴@『それでいいのか？』",
+      "JP": "`鈴@『それでいいのか？』",
       "EN": "`Rin@[Can I go ahead?]",
       "Translation": "`Rin@[Can I go ahead?]"
     },
     {
-      "JP": "鈴@『いいわけあるかっ』",
+      "JP": "`鈴@『いいわけあるかっ』",
       "EN": "`Rin@[Do it yourself!]",
       "Translation": "`Rin@[Do it yourself!]"
     },
     {
-      "JP": "わ…また抵抗された…。",
+      "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
       "Translation": "She refused again..."
     },
     {
-      "JP": "鈴@『こっちはやじゃっ』",
+      "JP": "`鈴@『こっちはやじゃっ』",
       "EN": "`Rin@[I don't want to.]",
       "Translation": "`Rin@[I don't want to.]"
     },
     {
-      "JP": "わ…抵抗された…。",
+      "JP": "うわ…抵抗された…。",
       "EN": "She refused...",
       "Translation": "She refused..."
     },
     {
-      "JP": "鈴@『了解』",
+      "JP": "`鈴@『了解』",
       "EN": "`Rin@[Understood.]",
       "Translation": "`Rin@[Understood.]"
     },
     {
-      "JP": "理樹@「わあ」",
+      "JP": "`理樹@「わあ」",
       "EN": "`Riki@❝Wow.❞",
       "Translation": "`Riki@❝Wow.❞"
     },
     {
-      "JP": "鈴@『代打バース』",
+      "JP": "`鈴@『代打バース』",
       "EN": "`Rin@[Daida basu.]",
       "Translation": "`Rin@[Daida basu.]"
     },
     {
-      "JP": "ほんとに言ってる。",
+      "JP": "…ほんとに言ってる。",
       "EN": "...She said it.",
       "Translation": "...She said it."
     },
     {
-      "JP": "女生徒@『え、なに？』",
+      "JP": "`女生徒@『え、なに？』",
       "EN": "`Female Student@[Eh? What?]",
       "Translation": "`Female Student@[Eh? What?]"
     },
     {
-      "JP": "き返されてる…。",
+      "JP": "聞き返されてる…。",
       "EN": "No wonder she failed to catch it...",
       "Translation": "No wonder she failed to catch it..."
     },
     {
-      "JP": "鈴@『代打バース』",
+      "JP": "`鈴@『代打バース』",
       "EN": "`Rin@[Daida basu.]",
       "Translation": "`Rin@[Daida basu.]"
     },
     {
-      "JP": "り返してる…。",
+      "JP": "繰り返してる…。",
       "EN": "She repeated...",
       "Translation": "She repeated..."
     },
     {
-      "JP": "女生徒@『え…は、はぁ』",
+      "JP": "`女生徒@『え…は、はぁ』",
       "EN": "`Female Student@[Eh... o, okay.]",
       "Translation": "`Female Student@[Eh... o, okay.]"
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "鈴@『…こちら、鈴。任務失敗』",
+      "JP": "`鈴@『…こちら、鈴。任務失敗』",
       "EN": "`Rin@[...This is Rin. Mission Failed.]",
       "Translation": "`Rin@[...This is Rin. Mission Failed.]"
     },
     {
-      "JP": "理樹@「うわちゃー」",
+      "JP": "`理樹@「うわちゃー」",
       "EN": "`Riki@❝Oh my god.❞",
       "Translation": "`Riki@❝Oh my god.❞"
     },
     {
-      "JP": "恭介@「ちっ、表現力が足りなかったか…」",
+      "JP": "`恭介@「ちっ、表現力が足りなかったか…」",
       "EN": "`Kyousuke@❝Dammit, we need more imagination.❞",
       "Translation": "`Kyousuke@❝Dammit, we need more imagination.❞"
     },
     {
-      "JP": "理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
+      "JP": "`理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
       "EN": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞",
       "Translation": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞"
     },
     {
-      "JP": "声@『あら、棗さん、新しい遊び？』",
+      "JP": "`声@『あら、棗さん、新しい遊び？』",
       "EN": "`Voice@[Ah, Natsume-san, a new game?]",
       "Translation": "`Voice@[Ah, Natsume-san, a new game?]"
     },
     {
-      "JP": "しい声が聞こえる。",
+      "JP": "新しい声が聞こえる。",
       "EN": "We heard a new voice.",
       "Translation": "We heard a new voice."
     },
     {
-      "JP": "鈴@『代打バース』",
+      "JP": "`鈴@『代打バース』",
       "EN": "`Rin@[Daida basu.]",
       "Translation": "`Rin@[Daida basu.]"
     },
     {
-      "JP": "理樹@「まだ言ってるよ…」",
+      "JP": "`理樹@「まだ言ってるよ…」",
       "EN": "`Riki@❝She's still saying it...❞",
       "Translation": "`Riki@❝She's still saying it...❞"
     },
     {
-      "JP": "理樹@「よくないってっ」",
+      "JP": "`理樹@「よくないってっ」",
       "EN": "`Riki@❝It's not okay!❞",
       "Translation": "`Riki@❝It's not okay!❞"
     },
     {
-      "JP": "真人@「うるせぇ先生様だな…」",
+      "JP": "`真人@「うるせぇ先生様だな…」",
       "EN": "`Masato@❝You're nitpicking like a teacher...❞",
       "Translation": "`Masato@❝You're nitpicking like a teacher...❞"
     },
     {
-      "JP": "真人@「じゃあ、これで文句ねぇだろう」",
+      "JP": "`真人@「じゃあ、これで文句ねぇだろう」",
       "EN": "`Masato@❝Okay, how about this?❞",
       "Translation": "`Masato@❝Okay, how about this?❞"
     },
     {
-      "JP": "真人@「おれ斉藤っす」",
+      "JP": "`真人@「おれ斉藤っす」",
       "EN": "`Masato@❝Ore Saitou ssu (I'm Saito).❞ ",
       "Translation": "`Masato@❝Ore Saitou ssu (I'm Saito).❞ "
     },
     {
-      "JP": "理樹@「いや、斉藤じゃないし…」",
+      "JP": "`理樹@「いや、斉藤じゃないし…」",
       "EN": "`Riki@❝She's not Saito...❞",
       "Translation": "`Riki@❝She's not Saito...❞"
     },
     {
-      "JP": "真人@「早口で言ってみろ。おれ斉藤っす。ほら、なんとなくおはようございますって聞こえるだろ」",
+      "JP": "`真人@「早口で言ってみろ。おれ斉藤っす。ほら、なんとなくおはようございますって聞こえるだろ」",
       "EN": "`Masato@❝Say it quickly. It'll definitely sound like ❛ohayou gozaimasu.❜❞",
       "Translation": "`Masato@❝Say it quickly. It'll definitely sound like ❛ohayou gozaimasu.❜❞"
     },
     {
-      "JP": "鈴@『それでいいのか？』",
+      "JP": "`鈴@『それでいいのか？』",
       "EN": "`Rin@[Can I go ahead?]",
       "Translation": "`Rin@[Can I go ahead?]"
     },
     {
-      "JP": "鈴@『あほかっ』",
+      "JP": "`鈴@『あほかっ』",
       "EN": "`Rin@[No way.]",
       "Translation": "`Rin@[No way.]"
     },
     {
-      "JP": "わ…また抵抗された…。",
+      "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
       "Translation": "She refused again..."
     },
     {
-      "JP": "鈴@『いいわけあるかっ』",
+      "JP": "`鈴@『いいわけあるかっ』",
       "EN": "`Rin@[Do it yourself!]",
       "Translation": "`Rin@[Do it yourself!]"
     },
     {
-      "JP": "わ…また抵抗された…。",
+      "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
       "Translation": "She refused again..."
     },
     {
-      "JP": "鈴@『こっちはやじゃっ』",
+      "JP": "`鈴@『こっちはやじゃっ』",
       "EN": "`Rin@[I don't want to.]",
       "Translation": "`Rin@[I don't want to.]"
     },
     {
-      "JP": "わ…抵抗された…。",
+      "JP": "うわ…抵抗された…。",
       "EN": "She refused...",
       "Translation": "She refused..."
     },
     {
-      "JP": "鈴@『了解』",
+      "JP": "`鈴@『了解』",
       "EN": "`Rin@[Understood.]",
       "Translation": "`Rin@[Understood.]"
     },
     {
-      "JP": "理樹@「わあ」",
+      "JP": "`理樹@「わあ」",
       "EN": "`Riki@❝Wow.❞",
       "Translation": "`Riki@❝Wow.❞"
     },
     {
-      "JP": "鈴@『おれ斉藤っす』",
+      "JP": "`鈴@『おれ斉藤っす』",
       "EN": "`Rin@[Ore Saitou ssu.]",
       "Translation": "`Rin@[Ore Saitou ssu.]"
     },
     {
-      "JP": "ほんとに言ってる。",
+      "JP": "…ほんとに言ってる。",
       "EN": "...She really said it.",
       "Translation": "...She really said it."
     },
     {
-      "JP": "女生徒@『え、棗さん、どうしたの…』",
+      "JP": "`女生徒@『え、棗さん、どうしたの…』",
       "EN": "`Female Student@[Sorry, what did you say, Natsume-san?]",
       "Translation": "`Female Student@[Sorry, what did you say, Natsume-san?]"
     },
     {
-      "JP": "き返されてる…。",
+      "JP": "聞き返されてる…。",
       "EN": "No wonder she failed to catch it.",
       "Translation": "No wonder she failed to catch it."
     },
     {
-      "JP": "鈴@『おれ斉藤っす』",
+      "JP": "`鈴@『おれ斉藤っす』",
       "EN": "`Rin@[Ore Saitou ssu.]",
       "Translation": "`Rin@[Ore Saitou ssu.]"
     },
     {
-      "JP": "り返してる…。",
+      "JP": "繰り返してる…。",
       "EN": "She repeated...",
       "Translation": "She repeated..."
     },
     {
-      "JP": "女生徒@『え…は、はぁ』",
+      "JP": "`女生徒@『え…は、はぁ』",
       "EN": "`Female Student@[Eh... o, okay.]",
       "Translation": "`Female Student@[Eh... o, okay.]"
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "鈴@『…こちら、鈴。任務失敗』",
+      "JP": "`鈴@『…こちら、鈴。任務失敗』",
       "EN": "`Rin@[This is Rin. Mission Failed.]",
       "Translation": "`Rin@[This is Rin. Mission Failed.]"
     },
     {
-      "JP": "理樹@「うわちゃー」",
+      "JP": "`理樹@「うわちゃー」",
       "EN": "`Riki@❝Oh my god.❞",
       "Translation": "`Riki@❝Oh my god.❞"
     },
     {
-      "JP": "真人@「ちっ、相手は素人だったかっ」",
+      "JP": "`真人@「ちっ、相手は素人だったかっ」",
       "EN": "`Masato@❝Dammit, she must be an amateur.❞",
       "Translation": "`Masato@❝Dammit, she must be an amateur.❞"
     },
     {
-      "JP": "理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
+      "JP": "`理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
       "EN": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞",
       "Translation": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞"
     },
     {
-      "JP": "声@『あら、棗さん、新しい遊び？』",
+      "JP": "`声@『あら、棗さん、新しい遊び？』",
       "EN": "`Voice@[Ah, Natsume-san, a new game?]",
       "Translation": "`Voice@[Ah, Natsume-san, a new game?]"
     },
     {
-      "JP": "しい声が聞こえる。",
+      "JP": "新しい声が聞こえる。",
       "EN": "We heard a new voice.",
       "Translation": "We heard a new voice."
     },
     {
-      "JP": "鈴@『おれ斉藤っす』",
+      "JP": "`鈴@『おれ斉藤っす』",
       "EN": "`Rin@[Ore Saitou ssu.]",
       "Translation": "`Rin@[Ore Saitou ssu.]"
     },
     {
-      "JP": "理樹@「まだ言ってるよ…」",
+      "JP": "`理樹@「まだ言ってるよ…」",
       "EN": "`Riki@❝She said it again...❞",
       "Translation": "`Riki@❝She said it again...❞"
     },
     {
-      "JP": "理樹@「よくないってっ」",
+      "JP": "`理樹@「よくないってっ」",
       "EN": "`Riki@❝It's not okay!❞",
       "Translation": "`Riki@❝It's not okay!❞"
     },
     {
-      "JP": "恭介@「むしろ、相手に向けてだな…」",
+      "JP": "`恭介@「むしろ、相手に向けてだな…」",
       "EN": "`Kyousuke@❝Try thinking in reverse...❞",
       "Translation": "`Kyousuke@❝Try thinking in reverse...❞"
     },
     {
-      "JP": "恭介@「おまえ斉藤っす」",
+      "JP": "`恭介@「おまえ斉藤っす」",
       "EN": "`Kyousuke@❝Omae Saitou ssu (You're Saito).❞",
       "Translation": "`Kyousuke@❝Omae Saitou ssu (You're Saito).❞"
     },
     {
-      "JP": "恭介@「どうだ？」",
+      "JP": "`恭介@「どうだ？」",
       "EN": "`Kyousuke@❝How's that?❞",
       "Translation": "`Kyousuke@❝How's that?❞"
     },
     {
-      "JP": "真人@「すげぇ聞こえるぜ…」",
+      "JP": "`真人@「すげぇ聞こえるぜ…」",
       "EN": "`Masato@❝Incredible...❞",
       "Translation": "`Masato@❝Incredible...❞"
     },
     {
-      "JP": "理樹@「いやいやいや…」",
+      "JP": "`理樹@「いやいやいや…」",
       "EN": "`Riki@❝No, no, no...❞",
       "Translation": "`Riki@❝No, no, no...❞"
     },
     {
-      "JP": "鈴@『それでいいのか？』",
+      "JP": "`鈴@『それでいいのか？』",
       "EN": "`Rin@[Can I go ahead?]",
       "Translation": "`Rin@[Can I go ahead?]"
     },
     {
-      "JP": "鈴@『んなわけあるかっ』",
+      "JP": "`鈴@『んなわけあるかっ』",
       "EN": "`Rin@[Get real!]",
       "Translation": "`Rin@[Get real!]"
     },
     {
-      "JP": "わ…また抵抗された…。",
+      "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
       "Translation": "She refused again..."
     },
     {
-      "JP": "鈴@『あほかっ』",
+      "JP": "`鈴@『あほかっ』",
       "EN": "`Rin@[No way.]",
       "Translation": "`Rin@[No way.]"
     },
     {
-      "JP": "わ…また抵抗された…。",
+      "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
       "Translation": "She refused again..."
     },
     {
-      "JP": "鈴@『いいわけあるかっ』",
+      "JP": "`鈴@『いいわけあるかっ』",
       "EN": "`Rin@[Do it yourself!]",
       "Translation": "`Rin@[Do it yourself!]"
     },
     {
-      "JP": "わ…また抵抗された…。",
+      "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
       "Translation": "She refused again..."
     },
     {
-      "JP": "鈴@『こっちはやじゃっ』",
+      "JP": "`鈴@『こっちはやじゃっ』",
       "EN": "`Rin@[No, I don't want to.]",
       "Translation": "`Rin@[No, I don't want to.]"
     },
     {
-      "JP": "わ…抵抗された…。",
+      "JP": "うわ…抵抗された…。",
       "EN": "She refused...",
       "Translation": "She refused..."
     },
     {
-      "JP": "真人@「うるせぇ先生様だな…」",
+      "JP": "`真人@「うるせぇ先生様だな…」",
       "EN": "`Masato@❝You're nitpicking like a teacher...❞",
       "Translation": "`Masato@❝You're nitpicking like a teacher...❞"
     },
     {
-      "JP": "真人@「じゃあ、自分で考えろよ」",
+      "JP": "`真人@「じゃあ、自分で考えろよ」",
       "EN": "`Masato@❝Think of one yourself then.❞",
       "Translation": "`Masato@❝Think of one yourself then.❞"
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "り込む鈴。",
+      "JP": "黙り込む鈴。",
       "EN": "Rin went silent.",
       "Translation": "Rin went silent."
     },
     {
-      "JP": "はようございます、に近い語感を持つ別の言葉か…。",
+      "JP": "おはようございます、に近い語感を持つ別の言葉か…。",
       "EN": "A phrase that's close to ❛ohayou gozaimasu❜...",
       "Translation": "A phrase that's close to ❛ohayou gozaimasu❜..."
     },
     {
-      "JP": "も考えてみる。",
+      "JP": "僕も考えてみる。",
       "EN": "I tried to come up with one.",
       "Translation": "I tried to come up with one."
     },
     {
-      "JP": "鈴@『了解』",
+      "JP": "`鈴@『了解』",
       "EN": "`Rin@[Understood.]",
       "Translation": "`Rin@[Understood.]"
     },
     {
-      "JP": "理樹@「わあ」",
+      "JP": "`理樹@「わあ」",
       "EN": "`Riki@❝Wow.❞",
       "Translation": "`Riki@❝Wow.❞"
     },
     {
-      "JP": "鈴@『おまえ斉藤っす』",
+      "JP": "`鈴@『おまえ斉藤っす』",
       "EN": "`Rin@[Omae Saitou ssu.]",
       "Translation": "`Rin@[Omae Saitou ssu.]"
     },
     {
-      "JP": "ほんとに言ってる。",
+      "JP": "…ほんとに言ってる。",
       "EN": "She really said it...",
       "Translation": "She really said it..."
     },
     {
-      "JP": "女生徒@『え、違うけど…何か？』",
+      "JP": "`女生徒@『え、違うけど…何か？』",
       "EN": "`Female Student@[Eh, I'm not... What's the matter?]",
       "Translation": "`Female Student@[Eh, I'm not... What's the matter?]"
     },
     {
-      "JP": "き返されてる…。",
+      "JP": "聞き返されてる…。",
       "EN": "No wonder she didn't get it...",
       "Translation": "No wonder she didn't get it..."
     },
     {
-      "JP": "鈴@『おまえ斉藤っす』",
+      "JP": "`鈴@『おまえ斉藤っす』",
       "EN": "`Rin@[Omae Saitou ssu.]",
       "Translation": "`Rin@[Omae Saitou ssu.]"
     },
     {
-      "JP": "り返してる…。",
+      "JP": "繰り返してる…。",
       "EN": "She repeated...",
       "Translation": "She repeated..."
     },
     {
-      "JP": "女生徒@『え…は、はぁ』",
+      "JP": "`女生徒@『え…は、はぁ』",
       "EN": "`Female Student@[Eh... o, okay.]",
       "Translation": "`Female Student@[Eh... o, okay.]"
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "鈴@『…こちら、鈴。任務失敗』",
+      "JP": "`鈴@『…こちら、鈴。任務失敗』",
       "EN": "`Rin@[...This is Rin. Mission Failed.]",
       "Translation": "`Rin@[...This is Rin. Mission Failed.]"
     },
     {
-      "JP": "理樹@「うわちゃー」",
+      "JP": "`理樹@「うわちゃー」",
       "EN": "`Riki@❝Oh my god.❞",
       "Translation": "`Riki@❝Oh my god.❞"
     },
     {
-      "JP": "真人@「ちっ、相手は素人だったかっ」",
+      "JP": "`真人@「ちっ、相手は素人だったかっ」",
       "EN": "`Masato@❝Dammit, she must be an amateur.❞",
       "Translation": "`Masato@❝Dammit, she must be an amateur.❞"
     },
     {
-      "JP": "理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
+      "JP": "`理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
       "EN": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞",
       "Translation": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞"
     },
     {
-      "JP": "声@『あら、棗さん、新しい遊び？』",
+      "JP": "`声@『あら、棗さん、新しい遊び？』",
       "EN": "`Voice@[Ah, Natsume-san, a new game?]",
       "Translation": "`Voice@[Ah, Natsume-san, a new game?]"
     },
     {
-      "JP": "しい声が聞こえる。",
+      "JP": "新しい声が聞こえる。",
       "EN": "We heard a new voice.",
       "Translation": "We heard a new voice."
     },
     {
-      "JP": "鈴@『おまえ斉藤っす』",
+      "JP": "`鈴@『おまえ斉藤っす』",
       "EN": "`Rin@[Omae Saitou ssu.]",
       "Translation": "`Rin@[Omae Saitou ssu.]"
     },
     {
-      "JP": "理樹@「まだ言ってるよ…」",
+      "JP": "`理樹@「まだ言ってるよ…」",
       "EN": "`Riki@❝She's still saying it...❞",
       "Translation": "`Riki@❝She's still saying it...❞"
     },
     {
-      "JP": "理樹@「よくないってっ」",
+      "JP": "`理樹@「よくないってっ」",
       "EN": "`Riki@❝It's not okay!❞",
       "Translation": "`Riki@❝It's not okay!❞"
     },
     {
-      "JP": "真人@「うるせぇ先生様だな…」",
+      "JP": "`真人@「うるせぇ先生様だな…」",
       "EN": "`Masato@❝You're nitpicking like a teacher...❞",
       "Translation": "`Masato@❝You're nitpicking like a teacher...❞"
     },
     {
-      "JP": "真人@「じゃあ、てめぇが考えろよ」",
+      "JP": "`真人@「じゃあ、てめぇが考えろよ」",
       "EN": "`Masato@❝Then you think of one!❞",
       "Translation": "`Masato@❝Then you think of one!❞"
     },
     {
-      "JP": "理樹@「うーん…」",
+      "JP": "`理樹@「うーん…」",
       "EN": "`Riki@❝Okay...❞",
       "Translation": "`Riki@❝Okay...❞"
     },
     {
-      "JP": "はようございます、に近い語感を持つ別の言葉か…",
+      "JP": "おはようございます、に近い語感を持つ別の言葉か…",
       "EN": "A phrase that's close to ❛ohayou gozaimasu❜...",
       "Translation": "A phrase that's close to ❛ohayou gozaimasu❜..."
     },
     {
-      "JP": "にぎりをパンに挟みます…",
+      "JP": "おにぎりをパンに挟みます…",
       "EN": "How about ❛onigiri wo pan ni hasamimasu (I put rice balls between slices of bread)❜...?",
       "Translation": "How about ❛onigiri wo pan ni hasamimasu (I put rice balls between slices of bread)❜...?"
     },
     {
-      "JP": "れを早口で…",
+      "JP": "それを早口で…",
       "EN": "Maybe it'd work...",
       "Translation": "Maybe it'd work..."
     },
     {
-      "JP": "理樹@「って、何真面目に考え始めてんだっ、ていうか、そもそもおはようございますもおかしいし、普通にこんばんはでいいじゃんかっ」",
+      "JP": "`理樹@「って、何真面目に考え始めてんだっ、ていうか、そもそもおはようございますもおかしいし、普通にこんばんはでいいじゃんかっ」",
       "EN": "`Riki@❝Hey, what am I thinking!? It's not the time to be saying ❛good morning,❜ so why not use a normal 'good evening'?❞",
       "Translation": "`Riki@❝Hey, what am I thinking!? It's not the time to be saying ❛good morning,❜ so why not use a normal 'good evening'?❞"
     },
     {
-      "JP": "真人@「えぇー？」",
+      "JP": "`真人@「えぇー？」",
       "EN": "`Masato@❝Eh～!?❞",
       "Translation": "`Masato@❝Eh～!?❞"
     },
     {
-      "JP": "理樹@「なんだよ、その、こいつ感じわり～、みたいな目はっ」",
+      "JP": "`理樹@「なんだよ、その、こいつ感じわり～、みたいな目はっ」",
       "EN": "`Riki@❝What? What's with that creepy look you're giving me!?❞",
       "Translation": "`Riki@❝What? What's with that creepy look you're giving me!?❞"
     },
     {
-      "JP": "理樹@「そもそも、鈴と仲良くできるような子を誘うなら、へんに気取るより、普通に挨拶したほうがいいっての」",
+      "JP": "`理樹@「そもそも、鈴と仲良くできるような子を誘うなら、へんに気取るより、普通に挨拶したほうがいいっての」",
       "EN": "`Riki@❝Since we're looking for someone Rin can get along with in the first place, wouldn't it be best if she just greets her the way she normally does?❞",
       "Translation": "`Riki@❝Since we're looking for someone Rin can get along with in the first place, wouldn't it be best if she just greets her the way she normally does?❞"
     },
     {
-      "JP": "恭介@「む…そうだな」",
+      "JP": "`恭介@「む…そうだな」",
       "EN": "`Kyousuke@❝Maybe... you're right.❞",
       "Translation": "`Kyousuke@❝Maybe... you're right.❞"
     },
     {
-      "JP": "恭介@「その通りだ、理樹。ありがとよ」",
+      "JP": "`恭介@「その通りだ、理樹。ありがとよ」",
       "EN": "`Kyousuke@❝You're right, Riki. Thanks.❞",
       "Translation": "`Kyousuke@❝You're right, Riki. Thanks.❞"
     },
     {
-      "JP": "真人@「………」",
+      "JP": "`真人@「………」",
       "EN": "`Masato@❝.........❞",
       "Translation": "`Masato@❝.........❞"
     },
     {
-      "JP": "真人@「おまえ、鈴のこと好きなのか？」",
+      "JP": "`真人@「おまえ、鈴のこと好きなのか？」",
       "EN": "`Masato@❝You... do you like Rin or something?❞",
       "Translation": "`Masato@❝You... do you like Rin or something?❞"
     },
     {
-      "JP": "理樹@「関係ないでしょっ」",
+      "JP": "`理樹@「関係ないでしょっ」",
       "EN": "`Riki@❝It doesn't matter!❞",
       "Translation": "`Riki@❝It doesn't matter!❞"
     },
     {
-      "JP": "鈴@『え？　理樹はあたしが好きなのか？』",
+      "JP": "`鈴@『え？　理樹はあたしが好きなのか？』",
       "EN": "`Rin@[Eh? Riki likes me?]",
       "Translation": "`Rin@[Eh? Riki likes me?]"
     },
     {
-      "JP": "理樹@「しかも聞こえちゃってるよ!!」",
+      "JP": "`理樹@「しかも聞こえちゃってるよ!!」",
       "EN": "`Riki@❝She heard us!!❞",
       "Translation": "`Riki@❝She heard us!!❞"
     },
     {
-      "JP": "恭介@「オーケー、余興はここまでだ」",
+      "JP": "`恭介@「オーケー、余興はここまでだ」",
       "EN": "`Kyousuke@❝Okay, let's get serious.❞",
       "Translation": "`Kyousuke@❝Okay, let's get serious.❞"
     },
     {
-      "JP": "恭介@「さ、鈴。いけ。素直にこんばんはだ」",
+      "JP": "`恭介@「さ、鈴。いけ。素直にこんばんはだ」",
       "EN": "`Kyousuke@❝Rin, go ahead. Say ❛Good evening.❜❞",
       "Translation": "`Kyousuke@❝Rin, go ahead. Say ❛Good evening.❜❞"
     },
     {
-      "JP": "鈴@『了解』",
+      "JP": "`鈴@『了解』",
       "EN": "`Rin@[Understood.]",
       "Translation": "`Rin@[Understood.]"
     },
     {
-      "JP": "鈴@『こんばんは』",
+      "JP": "`鈴@『こんばんは』",
       "EN": "`Rin@[Good evening.]",
       "Translation": "`Rin@[Good evening.]"
     },
     {
-      "JP": "女生徒@『こんばんは』",
+      "JP": "`女生徒@『こんばんは』",
       "EN": "`Female Student@[Good evening.]",
       "Translation": "`Female Student@[Good evening.]"
     },
     {
-      "JP": "鈴@『………』",
+      "JP": "`鈴@『………』",
       "EN": "`Rin@[.........]",
       "Translation": "`Rin@[.........]"
     },
     {
-      "JP": "鈴@『…つぎは？』",
+      "JP": "`鈴@『…つぎは？』",
       "EN": "`Rin@[...Now what?]",
       "Translation": "`Rin@[...Now what?]"
     },
     {
-      "JP": "恭介@「もちろん勧誘だ、野球のな」",
+      "JP": "`恭介@「もちろん勧誘だ、野球のな」",
       "EN": "`Kyousuke@❝Ask her if she's interested in baseball.❞",
       "Translation": "`Kyousuke@❝Ask her if she's interested in baseball.❞"
     },
     {
-      "JP": "鈴@『…野球に興味はないか』",
+      "JP": "`鈴@『…野球に興味はないか』",
       "EN": "`Rin@[...Are you interested in baseball?]",
       "Translation": "`Rin@[...Are you interested in baseball?]"
     },
     {
-      "JP": "女生徒@『え…？　棗さんはあるの？』",
+      "JP": "`女生徒@『え…？　棗さんはあるの？』",
       "EN": "`Female Student@[Eh...? How about you, Natsume-san?]",
       "Translation": "`Female Student@[Eh...? How about you, Natsume-san?]"
     },
     {
-      "JP": "鈴@『ちょっとはあるな』",
+      "JP": "`鈴@『ちょっとはあるな』",
       "EN": "`Rin@[Yes, a little bit.]",
       "Translation": "`Rin@[Yes, a little bit.]"
     },
     {
-      "JP": "真人@「ちょっとかよっ、むちゃくちゃあるにしとけよっ」",
+      "JP": "`真人@「ちょっとかよっ、むちゃくちゃあるにしとけよっ」",
       "EN": "`Masato@❝A little bit? Say ❛I'm absolutely and ridiculously into it.❜❞",
       "Translation": "`Masato@❝A little bit? Say ❛I'm absolutely and ridiculously into it.❜❞"
     },
     {
-      "JP": "鈴@『…嘘はつけない』",
+      "JP": "`鈴@『…嘘はつけない』",
       "EN": "`Rin@[...I don't wanna lie.]",
       "Translation": "`Rin@[...I don't wanna lie.]"
     },
     {
-      "JP": "真人@「じゃあ、別のことで興味を引くしかないな…」",
+      "JP": "`真人@「じゃあ、別のことで興味を引くしかないな…」",
       "EN": "`Masato@❝Okay. Let's change the subject...❞",
       "Translation": "`Masato@❝Okay. Let's change the subject...❞"
     },
     {
-      "JP": "真人@「そうだな…己をひたすら鍛錬すること…つまり筋肉に興味はないか？」",
+      "JP": "`真人@「そうだな…己をひたすら鍛錬すること…つまり筋肉に興味はないか？」",
       "EN": "`Masato@❝Lemme see... Rin, ask her if she's interested in training herself... in other words, muscles.❞",
       "Translation": "`Masato@❝Lemme see... Rin, ask her if she's interested in training herself... in other words, muscles.❞"
     },
     {
-      "JP": "鈴@『んなもんおまえだけじゃ、ぼけー』",
+      "JP": "`鈴@『んなもんおまえだけじゃ、ぼけー』",
       "EN": "`Rin@[You're the only sad idiot who's interested in that!]",
       "Translation": "`Rin@[You're the only sad idiot who's interested in that!]"
     },
     {
-      "JP": "ッコミが返ってくる。",
+      "JP": "ツッコミが返ってくる。",
       "EN": "She returned the insult.",
       "Translation": "She returned the insult."
     },
     {
-      "JP": "女生徒@『え…私も野球に興味なんてないですけど…』",
+      "JP": "`女生徒@『え…私も野球に興味なんてないですけど…』",
       "EN": "`Female Student@[Eh... but I'm not really interested in baseball...]",
       "Translation": "`Female Student@[Eh... but I'm not really interested in baseball...]"
     },
     {
-      "JP": "理樹@「うわ、なんか誤解されてるよ…」",
+      "JP": "`理樹@「うわ、なんか誤解されてるよ…」",
       "EN": "`Riki@❝Uwa, what a misunderstanding...❞",
       "Translation": "`Riki@❝Uwa, what a misunderstanding...❞"
     },
     {
-      "JP": "女生徒@『それじゃあ、いくね…』",
+      "JP": "`女生徒@『それじゃあ、いくね…』",
       "EN": "`Female Student@[I have to go. See you...]",
       "Translation": "`Female Student@[I have to go. See you...]"
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "鈴@『こら、おまえのせいで失敗したろーっ』",
+      "JP": "`鈴@『こら、おまえのせいで失敗したろーっ』",
       "EN": "`Rin@[Hey, she's gone. It's all your fault!]",
       "Translation": "`Rin@[Hey, she's gone. It's all your fault!]"
     },
     {
-      "JP": "理樹@「あーあ、もったいない…」",
+      "JP": "`理樹@「あーあ、もったいない…」",
       "EN": "`Riki@❝Ah, what a waste...❞",
       "Translation": "`Riki@❝Ah, what a waste...❞"
     },
     {
-      "JP": "恭介@「おまえ、俺の妹をヘンな子に仕立て上げるんじゃねぇ」",
+      "JP": "`恭介@「おまえ、俺の妹をヘンな子に仕立て上げるんじゃねぇ」",
       "EN": "`Kyousuke@❝Hey! Are you trying to make my little sister look like a weirdo?❞",
       "Translation": "`Kyousuke@❝Hey! Are you trying to make my little sister look like a weirdo?❞"
     },
     {
-      "JP": "鈴@『…ない』",
+      "JP": "`鈴@『…ない』",
       "EN": "`Rin@[...No.]",
       "Translation": "`Rin@[...No.]"
     },
     {
-      "JP": "真人@「こらっ、そこはある、だろっ」",
+      "JP": "`真人@「こらっ、そこはある、だろっ」",
       "EN": "`Masato@❝Hey, say ❛yes❜!❞",
       "Translation": "`Masato@❝Hey, say ❛yes❜!❞"
     },
     {
-      "JP": "鈴@『…嘘はつけない』",
+      "JP": "`鈴@『…嘘はつけない』",
       "EN": "`Rin@[...I don't wanna lie.]",
       "Translation": "`Rin@[...I don't wanna lie.]"
     },
     {
-      "JP": "真人@「じゃあ、別のことで興味を引くしかないな…」",
+      "JP": "`真人@「じゃあ、別のことで興味を引くしかないな…」",
       "EN": "`Masato@❝Okay. Let's change the subject...❞",
       "Translation": "`Masato@❝Okay. Let's change the subject...❞"
     },
     {
-      "JP": "真人@「そうだな…己をひたすら鍛錬すること…つまり筋肉に興味はないか？」",
+      "JP": "`真人@「そうだな…己をひたすら鍛錬すること…つまり筋肉に興味はないか？」",
       "EN": "`Masato@❝Lemme see... Rin, ask her if she's interested in training herself... in other words, muscles.❞",
       "Translation": "`Masato@❝Lemme see... Rin, ask her if she's interested in training herself... in other words, muscles.❞"
     },
     {
-      "JP": "鈴@『んなもんおまえだけじゃ、ぼけー』",
+      "JP": "`鈴@『んなもんおまえだけじゃ、ぼけー』",
       "EN": "`Rin@[You're the only sad idiot who's interested in that!]",
       "Translation": "`Rin@[You're the only sad idiot who's interested in that!]"
     },
     {
-      "JP": "ッコミが返ってくる。",
+      "JP": "ツッコミが返ってくる。",
       "EN": "She returned the insult.",
       "Translation": "She returned the insult."
     },
     {
-      "JP": "女生徒@『え…私も野球に興味なんてないですけど…』",
+      "JP": "`女生徒@『え…私も野球に興味なんてないですけど…』",
       "EN": "`Female Student@[Eh... but I'm not really interested in baseball...]",
       "Translation": "`Female Student@[Eh... but I'm not really interested in baseball...]"
     },
     {
-      "JP": "理樹@「うわ、なんか誤解されてるよ…」",
+      "JP": "`理樹@「うわ、なんか誤解されてるよ…」",
       "EN": "`Riki@❝Uwa, what a misunderstanding...❞",
       "Translation": "`Riki@❝Uwa, what a misunderstanding...❞"
     },
     {
-      "JP": "女生徒@『それじゃあ、いくね…』",
+      "JP": "`女生徒@『それじゃあ、いくね…』",
       "EN": "`Female Student@[Well, I gotta go...]",
       "Translation": "`Female Student@[Well, I gotta go...]"
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "鈴@『…こちら、鈴。任務失敗』",
+      "JP": "`鈴@『…こちら、鈴。任務失敗』",
       "EN": "`Rin@[...This is Rin. Mission Failed.]",
       "Translation": "`Rin@[...This is Rin. Mission Failed.]"
     },
     {
-      "JP": "理樹@「うわちゃー」",
+      "JP": "`理樹@「うわちゃー」",
       "EN": "`Riki@❝Oh my god.❞",
       "Translation": "`Riki@❝Oh my god.❞"
     },
     {
-      "JP": "恭介@「おまえ、俺の妹をヘンな子に仕立て上げるんじゃねぇ」",
+      "JP": "`恭介@「おまえ、俺の妹をヘンな子に仕立て上げるんじゃねぇ」",
       "EN": "`Kyousuke@❝Hey! Are you trying to make my little sister look like a weirdo?❞",
       "Translation": "`Kyousuke@❝Hey! Are you trying to make my little sister look like a weirdo?❞"
     },
     {
-      "JP": "声@『あら、棗さん、新しい遊び？』",
+      "JP": "`声@『あら、棗さん、新しい遊び？』",
       "EN": "`Voice@[Ah, Natsume-san, a new game?]",
       "Translation": "`Voice@[Ah, Natsume-san, a new game?]"
     },
     {
-      "JP": "しい声が聞こえる。",
+      "JP": "新しい声が聞こえる。",
       "EN": "We heard a new voice.",
       "Translation": "We heard a new voice."
     },
     {
-      "JP": "鈴@『こんばんは』",
+      "JP": "`鈴@『こんばんは』",
       "EN": "`Rin@[Good evening.]",
       "Translation": "`Rin@[Good evening.]"
     },
     {
-      "JP": "鈴@『…野球に興味はないか』",
+      "JP": "`鈴@『…野球に興味はないか』",
       "EN": "`Rin@[...Are you interested in baseball?]",
       "Translation": "`Rin@[...Are you interested in baseball?]"
     },
     {
-      "JP": "女生徒@『あなた、私がソフトボール部次期キャプテン候補と知らずに仰ってるの？』",
+      "JP": "`女生徒@『あなた、私がソフトボール部次期キャプテン候補と知らずに仰ってるの？』",
       "EN": "`Female Student@[Don't you know that I'm a candidate for the next softball club captain?]",
       "Translation": "`Female Student@[Don't you know that I'm a candidate for the next softball club captain?]"
     },
     {
-      "JP": "理樹@「なんか相手が悪いね…」",
+      "JP": "`理樹@「なんか相手が悪いね…」",
       "EN": "`Riki@❝I don't think she's a suitable person...❞",
       "Translation": "`Riki@❝I don't think she's a suitable person...❞"
     },
     {
-      "JP": "女生徒@『あなたねぇ、筋肉馬鹿や、剣道部の宮沢さんと親しいからって、調子に乗ってるんじゃなくて？』",
+      "JP": "`女生徒@『あなたねぇ、筋肉馬鹿や、剣道部の宮沢さんと親しいからって、調子に乗ってるんじゃなくて？』",
       "EN": "`Female Student@[I know you're close with the muscle idiot and Miyazawa-san from the kendo club. But aren't you getting carried away?]",
       "Translation": "`Female Student@[I know you're close with the muscle idiot and Miyazawa-san from the kendo club. But aren't you getting carried away?]"
     },
     {
-      "JP": "理樹@「うわ、なんか不穏な空気…」",
+      "JP": "`理樹@「うわ、なんか不穏な空気…」",
       "EN": "`Riki@❝Uwa, the air's getting heavy there...❞",
       "Translation": "`Riki@❝Uwa, the air's getting heavy there...❞"
     },
     {
-      "JP": "真人@「オレが筋肉馬鹿だとぉ？　で、こっちは宮沢さん!?」",
+      "JP": "`真人@「オレが筋肉馬鹿だとぉ？　で、こっちは宮沢さん!?」",
       "EN": "`Masato@❝She called me a muscle idiot? And you Miyazawa-san!?❞",
       "Translation": "`Masato@❝She called me a muscle idiot? And you Miyazawa-san!?❞"
     },
     {
-      "JP": "謙吾@「不服か？　妥当なところだろう」",
+      "JP": "`謙吾@「不服か？　妥当なところだろう」",
       "EN": "`Kengo@❝What's wrong with that? It sounds appropriate to me.❞",
       "Translation": "`Kengo@❝What's wrong with that? It sounds appropriate to me.❞"
     },
     {
-      "JP": "真人@「鈴、実は宮沢のほうが馬鹿で、この前服着たまま風呂に入ってたと言え」",
+      "JP": "`真人@「鈴、実は宮沢のほうが馬鹿で、この前服着たまま風呂に入ってたと言え」",
       "EN": "`Masato@❝Rin, say ❛Actually Miyazawa's an idiot too, he went into the bath wearing his uniform.❜❞",
       "Translation": "`Masato@❝Rin, say ❛Actually Miyazawa's an idiot too, he went into the bath wearing his uniform.❜❞"
     },
     {
-      "JP": "鈴@『やじゃ、ぼけ』",
+      "JP": "`鈴@『やじゃ、ぼけ』",
       "EN": "`Rin@[No way, idiot.]",
       "Translation": "`Rin@[No way, idiot.]"
     },
     {
-      "JP": "女生徒@『わたくしに対して、なんて汚い言葉を…』",
+      "JP": "`女生徒@『わたくしに対して、なんて汚い言葉を…』",
       "EN": "`Female Student@[How dare you say that to me...]",
       "Translation": "`Female Student@[How dare you say that to me...]"
     },
     {
-      "JP": "鈴@『ん？　おまえは関係ない』",
+      "JP": "`鈴@『ん？　おまえは関係ない』",
       "EN": "`Rin@[Hm? It wasn't about you.]",
       "Translation": "`Rin@[Hm? It wasn't about you.]"
     },
     {
-      "JP": "女生徒@『ここにはわたくししかいないでしょうっ』",
+      "JP": "`女生徒@『ここにはわたくししかいないでしょうっ』",
       "EN": "`Female Student@[Stop kidding around. There is only you and me here.]",
       "Translation": "`Female Student@[Stop kidding around. There is only you and me here.]"
     },
     {
-      "JP": "鈴@『実は宮沢のほうが馬鹿で、この前服着たまま風呂に入ってた』",
+      "JP": "`鈴@『実は宮沢のほうが馬鹿で、この前服着たまま風呂に入ってた』",
       "EN": "`Rin@[Actually Miyazawa's an idiot too, he went into the bath wearing his uniform.]",
       "Translation": "`Rin@[Actually Miyazawa's an idiot too, he went into the bath wearing his uniform.]"
     },
     {
-      "JP": "女生徒@『なんですってぇ!?』",
+      "JP": "`女生徒@『なんですってぇ!?』",
       "EN": "`Female Student@[What did you say!?]",
       "Translation": "`Female Student@[What did you say!?]"
     },
     {
-      "JP": "理樹@「そんな火に油を注ぐようなことを…」",
+      "JP": "`理樹@「そんな火に油を注ぐようなことを…」",
       "EN": "`Riki@❝That was like pouring oil into a fire...❞",
       "Translation": "`Riki@❝That was like pouring oil into a fire...❞"
     },
     {
-      "JP": "女生徒@『それは、あなたなりの陰口？』",
+      "JP": "`女生徒@『それは、あなたなりの陰口？』",
       "EN": "`Female Student@[Are you badmouthing him behind his back?]",
       "Translation": "`Female Student@[Are you badmouthing him behind his back?]"
     },
     {
-      "JP": "手の声は怒りに震えている。",
+      "JP": "相手の声は怒りに震えている。",
       "EN": "Her voice was shaking with fury.",
       "Translation": "Her voice was shaking with fury."
     },
     {
-      "JP": "恭介@「まずいな…鈴、退却だ」",
+      "JP": "`恭介@「まずいな…鈴、退却だ」",
       "EN": "`Kyousuke@❝Not good... Rin, retreat.❞",
       "Translation": "`Kyousuke@❝Not good... Rin, retreat.❞"
     },
     {
-      "JP": "鈴@『………』",
+      "JP": "`鈴@『………』",
       "EN": "`Rin@[.........]",
       "Translation": "`Rin@[.........]"
     },
     {
-      "JP": "鈴@『…服をつかまれてるのでできない』",
+      "JP": "`鈴@『…服をつかまれてるのでできない』",
       "EN": "`Rin@[I can't. She's grabbing my clothes.]",
       "Translation": "`Rin@[I can't. She's grabbing my clothes.]"
     },
     {
-      "JP": "理樹@「うわぁ、やばいことになってんじゃんっ」",
+      "JP": "`理樹@「うわぁ、やばいことになってんじゃんっ」",
       "EN": "`Riki@❝Uwaa, she's in trouble.❞",
       "Translation": "`Riki@❝Uwaa, she's in trouble.❞"
     },
     {
-      "JP": "謙吾@「助けにいくか？」",
+      "JP": "`謙吾@「助けにいくか？」",
       "EN": "`Kengo@❝Should we go and help?❞",
       "Translation": "`Kengo@❝Should we go and help?❞"
     },
     {
-      "JP": "理樹@「女子寮で見つかったら大事（おおごと）になるよ？」",
+      "JP": "`理樹@「女子寮で見つかったら大事（おおごと）になるよ？」",
       "EN": "`Riki@❝No. It'd be even worse if they found us in the girls' dorm.❞",
       "Translation": "`Riki@❝No. It'd be even worse if they found us in the girls' dorm.❞"
     },
     {
-      "JP": "鈴@『…離せ、このばか！』",
+      "JP": "`鈴@『…離せ、このばか！』",
       "EN": "`Rin@[...Let go, stupid!]",
       "Translation": "`Rin@[...Let go, stupid!]"
     },
     {
-      "JP": "女生徒@『ば…か…？』",
+      "JP": "`女生徒@『ば…か…？』",
       "EN": "`Female Student@[Stu... pid...?]",
       "Translation": "`Female Student@[Stu... pid...?]"
     },
     {
-      "JP": "鈴@『おまえのほうがばかだっ』",
+      "JP": "`鈴@『おまえのほうがばかだっ』",
       "EN": "`Rin@[You're the stupidest!]",
       "Translation": "`Rin@[You're the stupidest!]"
     },
     {
-      "JP": "理樹@「ありゃ…」",
+      "JP": "`理樹@「ありゃ…」",
       "EN": "`Riki@❝Ah...❞",
       "Translation": "`Riki@❝Ah...❞"
     },
     {
-      "JP": "恭介@「鈴がキレた…」",
+      "JP": "`恭介@「鈴がキレた…」",
       "EN": "`Kyousuke@❝Rin's lost it...❞",
       "Translation": "`Kyousuke@❝Rin's lost it...❞"
     },
     {
-      "JP": "佐々美@「ソフトボール部、次期キャプテン候補のこのわたくし、笹瀬川佐々美に勝てると思って？」",
+      "JP": "`佐々美@「ソフトボール部、次期キャプテン候補のこのわたくし、笹瀬川佐々美に勝てると思って？」",
       "EN": "`Sasami@❝I am Sasami Sasasegawa, candidate for the captaincy of the softball club. Do you really think you could possibly win against me?❞",
       "Translation": "`Sasami@❝I am Sasami Sasasegawa, candidate for the captaincy of the softball club. Do you really think you could possibly win against me?❞"
     },
     {
-      "JP": "ソフト部員@「佐々美先輩、加勢いたしますっ」",
+      "JP": "`ソフト部員@「佐々美先輩、加勢いたしますっ」",
       "EN": "`Club Member@❝Sasami-senpai, we'll support you.❞",
       "Translation": "`Club Member@❝Sasami-senpai, we'll support you.❞"
     },
     {
-      "JP": "佐々美@「あら意外にやりますのね」",
+      "JP": "`佐々美@「あら意外にやりますのね」",
       "EN": "`Sasami@❝You are holding up unexpectedly well.❞",
       "Translation": "`Sasami@❝You are holding up unexpectedly well.❞"
     },
     {
-      "JP": "佐々美@「ではわたくし自ら受けてたちましょう…」",
+      "JP": "`佐々美@「ではわたくし自ら受けてたちましょう…」",
       "EN": "`Sasami@❝Well then, I shall take you on myself.❞",
       "Translation": "`Sasami@❝Well then, I shall take you on myself.❞"
     },
     {
-      "JP": "佐々美@「こんな尻の青い下級生にすら勝てないなんて、話にもならないですわね」",
+      "JP": "`佐々美@「こんな尻の青い下級生にすら勝てないなんて、話にもならないですわね」",
       "EN": "`Sasami@❝To think you can't even beat these novice underclassmen. This isn't even worth talking about.❞",
       "Translation": "`Sasami@❝To think you can't even beat these novice underclassmen. This isn't even worth talking about.❞"
     },
     {
-      "JP": "理樹@「って、そもそもミッションが別のものにすり替わっていない!?」",
+      "JP": "`理樹@「って、そもそもミッションが別のものにすり替わっていない!?」",
       "EN": "`Riki@❝Wait, wasn't that different from the original mission!?❞",
       "Translation": "`Riki@❝Wait, wasn't that different from the original mission!?❞"
     },
     {
-      "JP": "恭介@「どれも等しくミッションさ」",
+      "JP": "`恭介@「どれも等しくミッションさ」",
       "EN": "`Kyousuke@❝We should treat everything as a mission.❞",
       "Translation": "`Kyousuke@❝We should treat everything as a mission.❞"
     },
     {
-      "JP": "対騙されてる気がする…。",
+      "JP": "絶対騙されてる気がする…。",
       "EN": "I'm sure I'm just getting tricked...",
       "Translation": "I'm sure I'm just getting tricked..."
     },
     {
-      "JP": "鈴@『ミッションコンプリート』",
+      "JP": "`鈴@『ミッションコンプリート』",
       "EN": "`Rin@[❛Mission Complete.❜]",
       "Translation": "`Rin@[❛Mission Complete.❜]"
     },
     {
-      "JP": "",
+      "JP": "　",
       "EN": " ",
       "Translation": " "
     },
     {
-      "JP": "理樹@「いやいや、してないしてない」",
+      "JP": "`理樹@「いやいや、してないしてない」",
       "EN": "`Riki@❝No, no, no way it is.❞",
       "Translation": "`Riki@❝No, no, no way it is.❞"
     },
     {
-      "JP": "鈴@「理樹、戦利品だ。やる」",
+      "JP": "`鈴@「理樹、戦利品だ。やる」",
       "EN": "`Rin@❝Riki, here's the spoils. You can have it.❞",
       "Translation": "`Rin@❝Riki, here's the spoils. You can have it.❞"
     },
     {
-      "JP": "理樹@「え…ありがと」",
+      "JP": "`理樹@「え…ありがと」",
       "EN": "`Riki@❝Eh... thanks.❞",
       "Translation": "`Riki@❝Eh... thanks.❞"
     },
     {
-      "JP": "佐々美@「ざっとこんなものですわ」",
+      "JP": "`佐々美@「ざっとこんなものですわ」",
       "EN": "`Sasami@❝Oh my, hardly a challenge.❞",
       "Translation": "`Sasami@❝Oh my, hardly a challenge.❞"
     },
     {
-      "JP": "ソフト部員@「さすがは、佐々美様っ」",
+      "JP": "`ソフト部員@「さすがは、佐々美様っ」",
       "EN": "`Club Member@❝As expected from Sasami-sama!❞",
       "Translation": "`Club Member@❝As expected from Sasami-sama!❞"
     },
     {
-      "JP": "ソフト部員@「華麗でございましたっ」",
+      "JP": "`ソフト部員@「華麗でございましたっ」",
       "EN": "`Club Member@❝Your fighting style is really elegant!❞",
       "Translation": "`Club Member@❝Your fighting style is really elegant!❞"
     },
     {
-      "JP": "佐々美@「いきますわよっ」",
+      "JP": "`佐々美@「いきますわよっ」",
       "EN": "`Sasami@❝We shall take our leave.❞",
       "Translation": "`Sasami@❝We shall take our leave.❞"
     },
     {
-      "JP": "理樹@「って、そもそもミッションが別のものにすり替わっていない!?」",
+      "JP": "`理樹@「って、そもそもミッションが別のものにすり替わっていない!?」",
       "EN": "`Riki@❝Wait, wasn't that different from the original mission!?❞",
       "Translation": "`Riki@❝Wait, wasn't that different from the original mission!?❞"
     },
     {
-      "JP": "恭介@「どれも等しくミッションさ」",
+      "JP": "`恭介@「どれも等しくミッションさ」",
       "EN": "`Kyousuke@❝We should treat everything as a mission.❞",
       "Translation": "`Kyousuke@❝We should treat everything as a mission.❞"
     },
     {
-      "JP": "対騙されてる気がする…。",
+      "JP": "絶対騙されてる気がする…。",
       "EN": "I'm sure I'm just getting tricked...",
       "Translation": "I'm sure I'm just getting tricked..."
     },
     {
-      "JP": "うして夜は更けていった…。",
+      "JP": "そうして夜は更けていった…。",
       "EN": "And so the night went on...",
       "Translation": "And so the night went on..."
     }

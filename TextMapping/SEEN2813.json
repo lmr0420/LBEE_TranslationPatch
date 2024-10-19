@@ -1,1177 +1,1215 @@
 {
+  "TASK": [
+    {
+      "EN1": "REPLAY\nGAME END",
+      "Translation1": "REPLAY\nGAME END"
+    },
+    {
+      "EN1": "REPLAY\nGAME END",
+      "Translation1": "REPLAY\nGAME END"
+    },
+    {
+      "EN1": "REPLAY\nGAME END",
+      "Translation1": "REPLAY\nGAME END"
+    },
+    {
+      "EN1": "REPLAY\nGAME END",
+      "Translation1": "REPLAY\nGAME END"
+    },
+    {
+      "EN1": "REPLAY\nGAME END",
+      "Translation1": "REPLAY\nGAME END"
+    },
+    {
+      "EN1": "REPLAY\nGAME END",
+      "Translation1": "REPLAY\nGAME END"
+    },
+    {
+      "EN1": "REPLAY\nGAME END",
+      "Translation1": "REPLAY\nGAME END"
+    },
+    {
+      "EN1": "REPLAY\nGAME END",
+      "Translation1": "REPLAY\nGAME END"
+    },
+    {
+      "EN1": "REPLAY\nGAME END",
+      "Translation1": "REPLAY\nGAME END"
+    }
+  ],
   "MESSAGE": [
     {
-      "JP": "沙耶@「探索モードに入るわ」",
+      "JP": "`沙耶@「探索モードに入るわ」",
       "EN": "`Saya@❝We're going into search mode.❞",
       "Translation": "`Saya@❝We're going into search mode.❞"
     },
     {
-      "JP": "たしの時と同じく、梯子の位置はこの階の中心だったんだ。",
+      "JP": "あたしの時と同じく、梯子の位置はこの階の中心だったんだ。",
       "EN": "Like before, the ladder must be placed in the middle of the floor.",
       "Translation": "Like before, the ladder must be placed in the middle of the floor."
     },
     {
-      "JP": "わず進もう。",
+      "JP": "迷わず進もう。",
       "EN": "Let's proceed without hesitation.",
       "Translation": "Let's proceed without hesitation."
     },
     {
-      "JP": "沙耶@「分かれ道ね…ちょっと考えましょう」",
+      "JP": "`沙耶@「分かれ道ね…ちょっと考えましょう」",
       "EN": "`Saya@❝The road splits in two... Let's think first.❞",
       "Translation": "`Saya@❝The road splits in two... Let's think first.❞"
     },
     {
-      "JP": "たしは正解をフロアの中心部に置き、外に向かう通路の先にトラップを作った。",
+      "JP": "あたしは正解をフロアの中心部に置き、外に向かう通路の先にトラップを作った。",
       "EN": "I left the correct one in the middle of the floor, and set up traps at the end of the road branching out.",
       "Translation": "I left the correct one in the middle of the floor, and set up traps at the end of the road branching out."
     },
     {
-      "JP": "て、どちらに進むか…。",
+      "JP": "さて、どちらに進むか…。",
       "EN": "Well then, which way shall we go...",
       "Translation": "Well then, which way shall we go..."
     },
     {
-      "JP": "たトラップと梯子は入れ替わっているのか、いないのか…。",
+      "JP": "またトラップと梯子は入れ替わっているのか、いないのか…。",
       "EN": "Had the ladder been replaced by a trap, or not...",
       "Translation": "Had the ladder been replaced by a trap, or not..."
     },
     {
-      "JP": "沙耶@「理樹くんからはなにか？」",
+      "JP": "`沙耶@「理樹くんからはなにか？」",
       "EN": "`Saya@❝Any ideas?❞",
       "Translation": "`Saya@❝Any ideas?❞"
     },
     {
-      "JP": "理樹@「どちらに進むか？」",
+      "JP": "`理樹@「どちらに進むか？」",
       "EN": "`Riki@❝About which way to go?❞",
       "Translation": "`Riki@❝About which way to go?❞"
     },
     {
-      "JP": "沙耶@「そ。勘でいいわよ」",
+      "JP": "`沙耶@「そ。勘でいいわよ」",
       "EN": "`Saya@❝Yeah. Tell me what your gut says.❞",
       "Translation": "`Saya@❝Yeah. Tell me what your gut says.❞"
     },
     {
-      "JP": "理樹@「うーん…」",
+      "JP": "`理樹@「うーん…」",
       "EN": "`Riki@❝Hmm...❞",
       "Translation": "`Riki@❝Hmm...❞"
     },
     {
-      "JP": "理樹@「曲がったほうがよさそうな…」",
+      "JP": "`理樹@「曲がったほうがよさそうな…」",
       "EN": "`Riki@❝I think we should take a turn...❞",
       "Translation": "`Riki@❝I think we should take a turn...❞"
     },
     {
-      "JP": "沙耶@「ありがと」",
+      "JP": "`沙耶@「ありがと」",
       "EN": "`Saya@❝Thanks.❞",
       "Translation": "`Saya@❝Thanks.❞"
     },
     {
-      "JP": "にあたしが部屋の暗闇を視る。",
+      "JP": "先にあたしが部屋の暗闇を視る。",
       "EN": "I looked through the dark of the room.",
       "Translation": "I looked through the dark of the room."
     },
     {
-      "JP": "たと同時に、背後の入り口が重い石で閉ざされた。",
+      "JP": "視たと同時に、背後の入り口が重い石で閉ざされた。",
       "EN": "But at that moment, a heavy stone fell behind me, closing me in.",
       "Translation": "But at that moment, a heavy stone fell behind me, closing me in."
     },
     {
-      "JP": "沙耶@「ハズレね」",
+      "JP": "`沙耶@「ハズレね」",
       "EN": "`Saya@❝It's a miss.❞",
       "Translation": "`Saya@❝It's a miss.❞"
     },
     {
-      "JP": "ラップはあたしが作ったのと同じ蛇の間。",
+      "JP": "トラップはあたしが作ったのと同じ蛇の間。",
       "EN": "The trap was just like the one I'd set, a room of full snakes.",
       "Translation": "The trap was just like the one I'd set, a room of full snakes."
     },
     {
-      "JP": "ど、こいつらは本物の毒蛇だ。",
+      "JP": "けど、こいつらは本物の毒蛇だ。",
       "EN": "The difference being these guys were real venomous snakes.",
       "Translation": "The difference being these guys were real venomous snakes."
     },
     {
-      "JP": "ろ、この凶悪な牙を。",
+      "JP": "見ろ、この凶悪な牙を。",
       "EN": "Just look at their lethal fangs.",
       "Translation": "Just look at their lethal fangs."
     },
     {
-      "JP": "ぶり。",
+      "JP": "がぶり。",
       "EN": "*Bite*.",
       "Translation": "*Bite*."
     },
     {
-      "JP": "は毒が回るのを待つだけ…。",
+      "JP": "後は毒が回るのを待つだけ…。",
       "EN": "The only thing I could do was wait for the venom to spread...",
       "Translation": "The only thing I could do was wait for the venom to spread..."
     },
     {
-      "JP": "の部屋はトラップなのに、何入ってるんだ!?",
+      "JP": "この部屋はトラップなのに、何入ってるんだ!?",
       "EN": "Even though I knew this room was a trap, why did I enter it!?",
       "Translation": "Even though I knew this room was a trap, why did I enter it!?"
     },
     {
-      "JP": "後の入り口が重い石で閉ざされた。",
+      "JP": "背後の入り口が重い石で閉ざされた。",
       "EN": "A heavy stone fell behind me, closing me in.",
       "Translation": "A heavy stone fell behind me, closing me in."
     },
     {
-      "JP": "に？　あたしは蛇が大好きなの？",
+      "JP": "なに？　あたしは蛇が大好きなの？",
       "EN": "Did I like snakes, or something?",
       "Translation": "Did I like snakes, or something?"
     },
     {
-      "JP": "ーい、ってスキップでもしながら、この蛇の間で遊んでればいいの？",
+      "JP": "わーい、ってスキップでもしながら、この蛇の間で遊んでればいいの？",
       "EN": "Should I have froliced around happily in this room filled with snakes?",
       "Translation": "Should I have froliced around happily in this room filled with snakes?"
     },
     {
-      "JP": "けがわからないわ…。",
+      "JP": "わけがわからないわ…。",
       "EN": "I don't get it...",
       "Translation": "I don't get it..."
     },
     {
-      "JP": "あ…呼吸が…",
+      "JP": "ああ…呼吸が…",
       "EN": "Ah... I couldn't breathe...",
       "Translation": "Ah... I couldn't breathe..."
     },
     {
-      "JP": "沙耶@「よっしゃ、こいやーーーっ！　へびカモーーーーン!!」",
+      "JP": "`沙耶@「よっしゃ、こいやーーーっ！　へびカモーーーーン!!」",
       "EN": "`Saya@❝Okay, snakey, come here!❞",
       "Translation": "`Saya@❝Okay, snakey, come here!❞"
     },
     {
-      "JP": "ぶ。",
+      "JP": "がぶ。",
       "EN": "*Bite*.",
       "Translation": "*Bite*."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "…。",
+      "JP": "……。",
       "EN": "......",
       "Translation": "......"
     },
     {
-      "JP": "屋に出た。",
+      "JP": "部屋に出た。",
       "EN": "I entered the room.",
       "Translation": "I entered the room."
     },
     {
-      "JP": "たしは危険がないことを確認してからライトを点ける。",
+      "JP": "あたしは危険がないことを確認してからライトを点ける。",
       "EN": "I confirmed there was no danger before turning on the light.",
       "Translation": "I confirmed there was no danger before turning on the light."
     },
     {
-      "JP": "理樹@「なんか石があるよ…」",
+      "JP": "`理樹@「なんか石があるよ…」",
       "EN": "`Riki@❝There are some sort of stones...❞",
       "Translation": "`Riki@❝There are some sort of stones...❞"
     },
     {
-      "JP": "際に幅３メートルはありそうなおにぎり型の石が、三つ。",
+      "JP": "壁際に幅３メートルはありそうなおにぎり型の石が、三つ。",
       "EN": "Along the wall there were three triangularly shaped stones around 3 meters wide.",
       "Translation": "Along the wall there were three triangularly shaped stones around 3 meters wide."
     },
     {
-      "JP": "た三つだ。",
+      "JP": "また三つだ。",
       "EN": "Three of them again.",
       "Translation": "Three of them again."
     },
     {
-      "JP": "理樹@「また三つか…」",
+      "JP": "`理樹@「また三つか…」",
       "EN": "`Riki@❝Three again...❞",
       "Translation": "`Riki@❝Three again...❞"
     },
     {
-      "JP": "樹くんも同じことを思ったらしい。",
+      "JP": "理樹くんも同じことを思ったらしい。",
       "EN": "Riki-kun seemed to feel the same way.",
       "Translation": "Riki-kun seemed to feel the same way."
     },
     {
-      "JP": "沙耶@「どれかの石の下に降りる梯子があるのよ」",
+      "JP": "`沙耶@「どれかの石の下に降りる梯子があるのよ」",
       "EN": "`Saya@❝There's a drop-down ladder under one of those stones.❞",
       "Translation": "`Saya@❝There's a drop-down ladder under one of those stones.❞"
     },
     {
-      "JP": "理樹@「でも、こんな石、どうやってどけるの？」",
+      "JP": "`理樹@「でも、こんな石、どうやってどけるの？」",
       "EN": "`Riki@❝But, these stones, how do we move them?❞",
       "Translation": "`Riki@❝But, these stones, how do we move them?❞"
     },
     {
-      "JP": "沙耶@「この部屋の入り口に仕掛けがあるはず」",
+      "JP": "`沙耶@「この部屋の入り口に仕掛けがあるはず」",
       "EN": "`Saya@❝There should be a mechanism at the entrance to this room.❞",
       "Translation": "`Saya@❝There should be a mechanism at the entrance to this room.❞"
     },
     {
-      "JP": "歩戻り、それをライトで照らし出す。",
+      "JP": "数歩戻り、それをライトで照らし出す。",
       "EN": "I backtracked a few steps and shone the light on it.",
       "Translation": "I backtracked a few steps and shone the light on it."
     },
     {
-      "JP": "から丸い石が出っ張っている。これはひとつだけのままだった。",
+      "JP": "壁から丸い石が出っ張っている。これはひとつだけのままだった。",
       "EN": "A small stone was sticking out of the wall. There was only one.",
       "Translation": "A small stone was sticking out of the wall. There was only one."
     },
     {
-      "JP": "理樹@「後からつけてあるんだ。動かせそうだね」",
+      "JP": "`理樹@「後からつけてあるんだ。動かせそうだね」",
       "EN": "`Riki@❝Somebody placed it here. I think you can move it.❞",
       "Translation": "`Riki@❝Somebody placed it here. I think you can move it.❞"
     },
     {
-      "JP": "沙耶@「でも、どう動かす？　押すのか、引っ張るのか、あるいは回すのか」",
+      "JP": "`沙耶@「でも、どう動かす？　押すのか、引っ張るのか、あるいは回すのか」",
       "EN": "`Saya@❝But, how should we move it? Push it, pull it, or turn it?❞",
       "Translation": "`Saya@❝But, how should we move it? Push it, pull it, or turn it?❞"
     },
     {
-      "JP": "理樹@「とりあえず全部やってみよう」",
+      "JP": "`理樹@「とりあえず全部やってみよう」",
       "EN": "`Riki@❝Let's try each.❞",
       "Translation": "`Riki@❝Let's try each.❞"
     },
     {
-      "JP": "回殺す気じゃ！",
+      "JP": "何回殺す気じゃ！",
       "EN": "How many times were you going to kill me?!",
       "Translation": "How many times were you going to kill me?!"
     },
     {
-      "JP": "沙耶@「あのね、そう気軽に何度も試されたら、迷惑なの。あたしも死にたくないから」",
+      "JP": "`沙耶@「あのね、そう気軽に何度も試されたら、迷惑なの。あたしも死にたくないから」",
       "EN": "`Saya@❝Listen, I really want you to be more careful. I don't want to die.❞",
       "Translation": "`Saya@❝Listen, I really want you to be more careful. I don't want to die.❞"
     },
     {
-      "JP": "理樹@「えっ、そんな命にかかわるような仕掛けなの!?」",
+      "JP": "`理樹@「えっ、そんな命にかかわるような仕掛けなの!?」",
       "EN": "`Riki@❝Eh, would that kind of thing really kill you?!❞",
       "Translation": "`Riki@❝Eh, would that kind of thing really kill you?!❞"
     },
     {
-      "JP": "沙耶@「すでに三回死んでるから」",
+      "JP": "`沙耶@「すでに三回死んでるから」",
       "EN": "`Saya@❝I already died three times.❞",
       "Translation": "`Saya@❝I already died three times.❞"
     },
     {
-      "JP": "沙耶@「すでに四回死んでるから」",
+      "JP": "`沙耶@「すでに四回死んでるから」",
       "EN": "`Saya@❝I already died four times.❞",
       "Translation": "`Saya@❝I already died four times.❞"
     },
     {
-      "JP": "沙耶@「すでに五回死んでるから」",
+      "JP": "`沙耶@「すでに五回死んでるから」",
       "EN": "`Saya@❝I already died five times.❞",
       "Translation": "`Saya@❝I already died five times.❞"
     },
     {
-      "JP": "沙耶@「すでに六回死んでますから」",
+      "JP": "`沙耶@「すでに六回死んでますから」",
       "EN": "`Saya@❝I already died six times.❞",
       "Translation": "`Saya@❝I already died six times.❞"
     },
     {
-      "JP": "沙耶@「山ほど死んでますから」",
+      "JP": "`沙耶@「山ほど死んでますから」",
       "EN": "`Saya@❝I already died a ton of times.❞",
       "Translation": "`Saya@❝I already died a ton of times.❞"
     },
     {
-      "JP": "理樹@「生きてる…よね？」",
+      "JP": "`理樹@「生きてる…よね？」",
       "EN": "`Riki@❝You are alive... right?❞",
       "Translation": "`Riki@❝You are alive... right?❞"
     },
     {
-      "JP": "沙耶@「それぐらいここまでくるには壮絶だったってことよ」",
+      "JP": "`沙耶@「それぐらいここまでくるには壮絶だったってことよ」",
       "EN": "`Saya@❝You have no idea what I went through to get this far.❞",
       "Translation": "`Saya@❝You have no idea what I went through to get this far.❞"
     },
     {
-      "JP": "理樹@「案外あっさりきたような…」",
+      "JP": "`理樹@「案外あっさりきたような…」",
       "EN": "`Riki@❝I think it was a walk in the park...❞",
       "Translation": "`Riki@❝I think it was a walk in the park...❞"
     },
     {
-      "JP": "沙耶@「あなたの知らないところで、こっちはすんごーーーっく危険な目に遭ってんのよ！　ぶっちゃけ死んでんのよっ!!」",
+      "JP": "`沙耶@「あなたの知らないところで、こっちはすんごーーーっく危険な目に遭ってんのよ！　ぶっちゃけ死んでんのよっ!!」",
       "EN": "`Saya@❝You're just not aware of all the danger I've faced so far! Actually, I died plenty of times!❞",
       "Translation": "`Saya@❝You're just not aware of all the danger I've faced so far! Actually, I died plenty of times!❞"
     },
     {
-      "JP": "理樹@「へぇ…そうなんだ…」",
+      "JP": "`理樹@「へぇ…そうなんだ…」",
       "EN": "`Riki@❝Oh... Okay...❞",
       "Translation": "`Riki@❝Oh... Okay...❞"
     },
     {
-      "JP": "沙耶@「なんだその、こいつやばい、みたいな目は…」",
+      "JP": "`沙耶@「なんだその、こいつやばい、みたいな目は…」",
       "EN": "`Saya@❝Don't look at me like I'm out of my mind...❞",
       "Translation": "`Saya@❝Don't look at me like I'm out of my mind...❞"
     },
     {
-      "JP": "理樹@「いや、とくには…」",
+      "JP": "`理樹@「いや、とくには…」",
       "EN": "`Riki@❝Don't mind me...❞",
       "Translation": "`Riki@❝Don't mind me...❞"
     },
     {
-      "JP": "沙耶@「とにかく。だから慎重に考えてほしいのよ」",
+      "JP": "`沙耶@「とにかく。だから慎重に考えてほしいのよ」",
       "EN": "`Saya@❝Anyway. I want you to take this more seriously.❞",
       "Translation": "`Saya@❝Anyway. I want you to take this more seriously.❞"
     },
     {
-      "JP": "しの間、考えてみる。",
+      "JP": "少しの間、考えてみる。",
       "EN": "I tried thinking for a little.",
       "Translation": "I tried thinking for a little."
     },
     {
-      "JP": "も、と思う。",
+      "JP": "でも、と思う。",
       "EN": "But then it occured to me.",
       "Translation": "But then it occured to me."
     },
     {
-      "JP": "樹くんは安全だと思うから、理樹くんにすべての方法を試してもらえば、トラップは発動しない？",
+      "JP": "理樹くんは安全だと思うから、理樹くんにすべての方法を試してもらえば、トラップは発動しない？",
       "EN": "I don't think anything's would happen to Riki-kun, so if I let him do all the testing, the traps wouldn't activate.",
       "Translation": "I don't think anything's would happen to Riki-kun, so if I let him do all the testing, the traps wouldn't activate."
     },
     {
-      "JP": "たしはその後ろで見ているだけ。",
+      "JP": "あたしはその後ろで見ているだけ。",
       "EN": "I should just watch him from behind.",
       "Translation": "I should just watch him from behind."
     },
     {
-      "JP": "してみよう…。",
+      "JP": "試してみよう…。",
       "EN": "Let's try it...",
       "Translation": "Let's try it..."
     },
     {
-      "JP": "理樹@「…どう？」",
+      "JP": "`理樹@「…どう？」",
       "EN": "`Riki@❝Well?❞",
       "Translation": "`Riki@❝Well?❞"
     },
     {
-      "JP": "沙耶@「あたしの考えた解き方は、部屋を傾けて石を転がすという方法」",
+      "JP": "`沙耶@「あたしの考えた解き方は、部屋を傾けて石を転がすという方法」",
       "EN": "`Saya@❝The way to solve it, I think, is to tilt the room to move the stones.❞",
       "Translation": "`Saya@❝The way to solve it, I think, is to tilt the room to move the stones.❞"
     },
     {
-      "JP": "理樹@「部屋を傾ける？　そんな無茶な」",
+      "JP": "`理樹@「部屋を傾ける？　そんな無茶な」",
       "EN": "`Riki@❝Tilt the room? Is that possible?❞",
       "Translation": "`Riki@❝Tilt the room? Is that possible?❞"
     },
     {
-      "JP": "沙耶@「あるのよ、そういう方法が。前だってあったんだから」",
+      "JP": "`沙耶@「あるのよ、そういう方法が。前だってあったんだから」",
       "EN": "`Saya@❝There's a way to do that. There was one before.❞",
       "Translation": "`Saya@❝There's a way to do that. There was one before.❞"
     },
     {
-      "JP": "理樹@「前？」",
+      "JP": "`理樹@「前？」",
       "EN": "`Riki@❝Before?❞",
       "Translation": "`Riki@❝Before?❞"
     },
     {
-      "JP": "沙耶@「前世みたいなもんよ」",
+      "JP": "`沙耶@「前世みたいなもんよ」",
       "EN": "`Saya@❝Like, in a past life.❞",
       "Translation": "`Saya@❝Like, in a past life.❞"
     },
     {
-      "JP": "理樹@「………」",
+      "JP": "`理樹@「………」",
       "EN": "`Riki@❝.........❞",
       "Translation": "`Riki@❝.........❞"
     },
     {
-      "JP": "沙耶@「なによその、この人ほんきでやばい、みたいな目はっ」",
+      "JP": "`沙耶@「なによその、この人ほんきでやばい、みたいな目はっ」",
       "EN": "`Saya@❝Don't look at me like I'm totally out of my mind...❞",
       "Translation": "`Saya@❝Don't look at me like I'm totally out of my mind...❞"
     },
     {
-      "JP": "沙耶@「あるったらあるのよっ」",
+      "JP": "`沙耶@「あるったらあるのよっ」",
       "EN": "`Saya@❝Listen, there is a way!❞",
       "Translation": "`Saya@❝Listen, there is a way!❞"
     },
     {
-      "JP": "理樹@「まあ、わかったから、落ち着いて」",
+      "JP": "`理樹@「まあ、わかったから、落ち着いて」",
       "EN": "`Riki@❝Okay, I understand, so calm down.❞",
       "Translation": "`Riki@❝Okay, I understand, so calm down.❞"
     },
     {
-      "JP": "沙耶@「で、その仕掛けを理樹くんに探して解いてほしいわけ」",
+      "JP": "`沙耶@「で、その仕掛けを理樹くんに探して解いてほしいわけ」",
       "EN": "`Saya@❝And I want you to look for the control device.❞",
       "Translation": "`Saya@❝And I want you to look for the control device.❞"
     },
     {
-      "JP": "理樹@「ふたりがかりってわけだね」",
+      "JP": "`理樹@「ふたりがかりってわけだね」",
       "EN": "`Riki@❝You want to split the work?❞",
       "Translation": "`Riki@❝You want to split the work?❞"
     },
     {
-      "JP": "沙耶@「そうそう。効率よくやらないとね」",
+      "JP": "`沙耶@「そうそう。効率よくやらないとね」",
       "EN": "`Saya@❝Yeah, that's right. This is more efficient that way.❞",
       "Translation": "`Saya@❝Yeah, that's right. This is more efficient that way.❞"
     },
     {
-      "JP": "たしはそう嘘を言って、通路を引き返すことにした。",
+      "JP": "あたしはそう嘘を言って、通路を引き返すことにした。",
       "EN": "I lied and pulled back from the path.",
       "Translation": "I lied and pulled back from the path."
     },
     {
-      "JP": "沙耶@「ごめんね、理樹くん。あなたが無事仕掛けを解いてくれることを陰ながら祈ってるわ」",
+      "JP": "`沙耶@「ごめんね、理樹くん。あなたが無事仕掛けを解いてくれることを陰ながら祈ってるわ」",
       "EN": "`Saya@❝Sorry, Riki-kun, I'm praying for you to safely unlock the mechanism.❞",
       "Translation": "`Saya@❝Sorry, Riki-kun, I'm praying for you to safely unlock the mechanism.❞"
     },
     {
-      "JP": "ぶ、と胸から何かが飛び出た。",
+      "JP": "ずぶ、と胸から何かが飛び出た。",
       "EN": "*Thump*, something came out of my chest.",
       "Translation": "*Thump*, something came out of my chest."
     },
     {
-      "JP": "りゃ…死ぬんだ。",
+      "JP": "ありゃ…死ぬんだ。",
       "EN": "Ah... I died.",
       "Translation": "Ah... I died."
     },
     {
-      "JP": "そんな虫がいい話あるわけない。",
+      "JP": "…そんな虫がいい話あるわけない。",
       "EN": "There is no way it'd go so easily.",
       "Translation": "There is no way it'd go so easily."
     },
     {
-      "JP": "こまでの意地の悪さから言って。",
+      "JP": "ここまでの意地の悪さから言って。",
       "EN": "Judging from the wicked treatment I received until now.",
       "Translation": "Judging from the wicked treatment I received until now."
     },
     {
-      "JP": "理樹@「…どう？」",
+      "JP": "`理樹@「…どう？」",
       "EN": "`Riki@❝Well?❞",
       "Translation": "`Riki@❝Well?❞"
     },
     {
-      "JP": "沙耶@「あたしの考えた解き方は、部屋を傾けて石を転がすという方法」",
+      "JP": "`沙耶@「あたしの考えた解き方は、部屋を傾けて石を転がすという方法」",
       "EN": "`Saya@❝The way to solve it, I think, is to tilt the room and move the stones.❞",
       "Translation": "`Saya@❝The way to solve it, I think, is to tilt the room and move the stones.❞"
     },
     {
-      "JP": "理樹@「部屋を傾ける？　そんな無茶な」",
+      "JP": "`理樹@「部屋を傾ける？　そんな無茶な」",
       "EN": "`Riki@❝Tilt the room? Is that possible?❞",
       "Translation": "`Riki@❝Tilt the room? Is that possible?❞"
     },
     {
-      "JP": "沙耶@「あるのよ。それだったら、右か左の床下にある支えを取っ払うだけでいいもの」",
+      "JP": "`沙耶@「あるのよ。それだったら、右か左の床下にある支えを取っ払うだけでいいもの」",
       "EN": "`Saya@❝There's a way. We can just sweep away the left or right support beneath the floor.❞",
       "Translation": "`Saya@❝There's a way. We can just sweep away the left or right support beneath the floor.❞"
     },
     {
-      "JP": "理樹@「でも、部屋が傾いたところで、あんなふうに並んでいたら石同士がせめぎ合って転がらないことない？」",
+      "JP": "`理樹@「でも、部屋が傾いたところで、あんなふうに並んでいたら石同士がせめぎ合って転がらないことない？」",
       "EN": "`Riki@❝But when you tilt the room, given how the stones are placed, won't they get into each other's way?❞",
       "Translation": "`Riki@❝But when you tilt the room, given how the stones are placed, won't they get into each other's way?❞"
     },
     {
-      "JP": "沙耶@「そうね…」",
+      "JP": "`沙耶@「そうね…」",
       "EN": "`Saya@❝That's right...❞",
       "Translation": "`Saya@❝That's right...❞"
     },
     {
-      "JP": "沙耶@「となると、手前に転がすしかない…」",
+      "JP": "`沙耶@「となると、手前に転がすしかない…」",
       "EN": "`Saya@❝Then we need to roll them forward...❞",
       "Translation": "`Saya@❝Then we need to roll them forward...❞"
     },
     {
-      "JP": "屋がこちら向きに傾くのか？",
+      "JP": "部屋がこちら向きに傾くのか？",
       "EN": "Will the room tilt forward?",
       "Translation": "Will the room tilt forward?"
     },
     {
-      "JP": "しそうなら、あの三つの石を持ち上げる動力が必要になるが、そんなものがこの地下に存在するのか？",
+      "JP": "もしそうなら、あの三つの石を持ち上げる動力が必要になるが、そんなものがこの地下に存在するのか？",
       "EN": "But where would the power to lift the stones come from? Would it be in this maze?",
       "Translation": "But where would the power to lift the stones come from? Would it be in this maze?"
     },
     {
-      "JP": "理樹@「ここの通路、地続きになってないね」",
+      "JP": "`理樹@「ここの通路、地続きになってないね」",
       "EN": "`Riki@❝Did you notice there is a joint here between the passageway and the room?❞",
       "Translation": "`Riki@❝Did you notice there is a joint here between the passageway and the room?❞"
     },
     {
-      "JP": "いがけない言葉。理樹くんは壁を調べていた。",
+      "JP": "思いがけない言葉。理樹くんは壁を調べていた。",
       "EN": "His words caught me off guard. Riki-kun was investigating the wall.",
       "Translation": "His words caught me off guard. Riki-kun was investigating the wall."
     },
     {
-      "JP": "沙耶@「え、ほんと？」",
+      "JP": "`沙耶@「え、ほんと？」",
       "EN": "`Saya@❝Really?❞",
       "Translation": "`Saya@❝Really?❞"
     },
     {
-      "JP": "理樹@「天井まで切れ目が入ってて、この通路だけ独立した区画になってる」",
+      "JP": "`理樹@「天井まで切れ目が入ってて、この通路だけ独立した区画になってる」",
       "EN": "`Riki@❝You can see the seam going all the way to the ceiling. This room is detached from the others.❞",
       "Translation": "`Riki@❝You can see the seam going all the way to the ceiling. This room is detached from the others.❞"
     },
     {
-      "JP": "沙耶@「それは大発見だわ、理樹くん」",
+      "JP": "`沙耶@「それは大発見だわ、理樹くん」",
       "EN": "`Saya@❝That's a big discovery, Riki-kun.❞",
       "Translation": "`Saya@❝That's a big discovery, Riki-kun.❞"
     },
     {
-      "JP": "屋の手前と一緒に今あたしたちが立つ通路も下に落ちるんだ。",
+      "JP": "部屋の手前と一緒に今あたしたちが立つ通路も下に落ちるんだ。",
       "EN": "The area in front of the room and the one we were standing in would come tumbling down.",
       "Translation": "The area in front of the room and the one we were standing in would come tumbling down."
     },
     {
-      "JP": "うすることにより、一斉に石がこちらに向けて転がりだす。",
+      "JP": "そうすることにより、一斉に石がこちらに向けて転がりだす。",
       "EN": "And then the stones would roll toward us.",
       "Translation": "And then the stones would roll toward us."
     },
     {
-      "JP": "果、三つの石はこの入り口に殺到して道を閉ざす。",
+      "JP": "結果、三つの石はこの入り口に殺到して道を閉ざす。",
       "EN": "As a result, three stones tumbling toward the entrance would seal the path off.",
       "Translation": "As a result, three stones tumbling toward the entrance would seal the path off."
     },
     {
-      "JP": "の時にまだこちら側に居たら、部屋に入れずジ・エンド。",
+      "JP": "その時にまだこちら側に居たら、部屋に入れずジ・エンド。",
       "EN": "If we were still here when that happens, we wouldn't be able to enter the room. It would be the end for us.",
       "Translation": "If we were still here when that happens, we wouldn't be able to enter the room. It would be the end for us."
     },
     {
-      "JP": "ラップが発動すると同時に、傾いた部屋に入り、あたしたち目掛けて転がってくる石を回避して、部屋の安全な場所に逃げこめばクリア。",
+      "JP": "トラップが発動すると同時に、傾いた部屋に入り、あたしたち目掛けて転がってくる石を回避して、部屋の安全な場所に逃げこめばクリア。",
       "EN": "So the moment the trap activates, we need to enter the tilting room, avoid the rolling stones, and find a safe spot in the room.",
       "Translation": "So the moment the trap activates, we need to enter the tilting room, avoid the rolling stones, and find a safe spot in the room."
     },
     {
-      "JP": "クション映画のようだ。",
+      "JP": "アクション映画のようだ。",
       "EN": "Just like in an action movie.",
       "Translation": "Just like in an action movie."
     },
     {
-      "JP": "あ、スパイなんだから、それこそ見せ場ってわけだけど。",
+      "JP": "まあ、スパイなんだから、それこそ見せ場ってわけだけど。",
       "EN": "Well, I was a spy, so it was my time to shine.",
       "Translation": "Well, I was a spy, so it was my time to shine."
     },
     {
-      "JP": "も失敗したら、容赦なく圧死するんだろうなあ…。",
+      "JP": "でも失敗したら、容赦なく圧死するんだろうなあ…。",
       "EN": "But if we failed, we'd be mercilessly crushed to death...",
       "Translation": "But if we failed, we'd be mercilessly crushed to death..."
     },
     {
-      "JP": "沙耶@「じゃあ、始めましょ」",
+      "JP": "`沙耶@「じゃあ、始めましょ」",
       "EN": "`Saya@❝Okay, let's get started.❞",
       "Translation": "`Saya@❝Okay, let's get started.❞"
     },
     {
-      "JP": "沙耶@「理樹くんは、部屋の右か左、どっちでもいいわ、隅にしゃがんで待機してて」",
+      "JP": "`沙耶@「理樹くんは、部屋の右か左、どっちでもいいわ、隅にしゃがんで待機してて」",
       "EN": "`Saya@❝Riki-kun, crouch in a corner of the room and wait there. Either side's fine.❞",
       "Translation": "`Saya@❝Riki-kun, crouch in a corner of the room and wait there. Either side's fine.❞"
     },
     {
-      "JP": "理樹@「それがなんになるの？」",
+      "JP": "`理樹@「それがなんになるの？」",
       "EN": "`Riki@❝What for?❞",
       "Translation": "`Riki@❝What for?❞"
     },
     {
-      "JP": "沙耶@「あなたの命を救うわ。地震が起きるけどじっとしていてくれれば」",
+      "JP": "`沙耶@「あなたの命を救うわ。地震が起きるけどじっとしていてくれれば」",
       "EN": "`Saya@❝To save your life. Do not move even if an earthquake occurs.❞",
       "Translation": "`Saya@❝To save your life. Do not move even if an earthquake occurs.❞"
     },
     {
-      "JP": "理樹@「とき…いや、沙耶さんは？」",
+      "JP": "`理樹@「とき…いや、沙耶さんは？」",
       "EN": "`Riki@❝What about Toki... I mean, Saya-san?❞",
       "Translation": "`Riki@❝What about Toki... I mean, Saya-san?❞"
     },
     {
-      "JP": "沙耶@「あたしはスパイだから、スパイの仕事をするわ」",
+      "JP": "`沙耶@「あたしはスパイだから、スパイの仕事をするわ」",
       "EN": "`Saya@❝I am a spy, I have ❛spy❜ work to do.❞",
       "Translation": "`Saya@❝I am a spy, I have ❛spy❜ work to do.❞"
     },
     {
-      "JP": "理樹@「危険だったりしない？」",
+      "JP": "`理樹@「危険だったりしない？」",
       "EN": "`Riki@❝Isn't that dangerous?❞",
       "Translation": "`Riki@❝Isn't that dangerous?❞"
     },
     {
-      "JP": "沙耶@「あなた、危険のない仕事をスパイがすると思うの？」",
+      "JP": "`沙耶@「あなた、危険のない仕事をスパイがすると思うの？」",
       "EN": "`Saya@❝Do you think spies do anything that doesn't involve danger?❞",
       "Translation": "`Saya@❝Do you think spies do anything that doesn't involve danger?❞"
     },
     {
-      "JP": "理樹@「いや…まあ、なんていうか、難易度的にはどのぐらいかなって」",
+      "JP": "`理樹@「いや…まあ、なんていうか、難易度的にはどのぐらいかなって」",
       "EN": "`Riki@❝No... I was just wondering how dangerous that would be exactly.❞",
       "Translation": "`Riki@❝No... I was just wondering how dangerous that would be exactly.❞"
     },
     {
-      "JP": "沙耶@「やってみないことにはわからないわ」",
+      "JP": "`沙耶@「やってみないことにはわからないわ」",
       "EN": "`Saya@❝You won't know until you try.❞",
       "Translation": "`Saya@❝You won't know until you try.❞"
     },
     {
-      "JP": "理樹@「あ、そ…」",
+      "JP": "`理樹@「あ、そ…」",
       "EN": "`Riki@❝Ah, I see...❞",
       "Translation": "`Riki@❝Ah, I see...❞"
     },
     {
-      "JP": "沙耶@「せめて、祈ってて」",
+      "JP": "`沙耶@「せめて、祈ってて」",
       "EN": "`Saya@❝At least, pray for me.❞",
       "Translation": "`Saya@❝At least, pray for me.❞"
     },
     {
-      "JP": "理樹@「そうするよ…」",
+      "JP": "`理樹@「そうするよ…」",
       "EN": "`Riki@❝I'll do that...❞",
       "Translation": "`Riki@❝I'll do that...❞"
     },
     {
-      "JP": "うやく部屋に入っていった。",
+      "JP": "ようやく部屋に入っていった。",
       "EN": "He finally went inside the room.",
       "Translation": "He finally went inside the room."
     },
     {
-      "JP": "て。押すか引くか回すか。",
+      "JP": "さて。押すか引くか回すか。",
       "EN": "Okay, push it, pull it or turn it?",
       "Translation": "Okay, push it, pull it or turn it?"
     },
     {
-      "JP": "ういうのは『遊び』があるものだ。",
+      "JP": "こういうのは『遊び』があるものだ。",
       "EN": "The object would have to move in some way.",
       "Translation": "The object would have to move in some way."
     },
     {
-      "JP": "製のノブを掴んで、ぐらぐらと揺らしてみる。",
+      "JP": "石製のノブを掴んで、ぐらぐらと揺らしてみる。",
       "EN": "I grabbed the stone knob and tried jerking it.",
       "Translation": "I grabbed the stone knob and tried jerking it."
     },
     {
-      "JP": "度か試してみて、ようやく回す方向にわずかな『遊び』を発見した。",
+      "JP": "何度か試してみて、ようやく回す方向にわずかな『遊び』を発見した。",
       "EN": "After trying a few different things, I figured out how to rotate it.",
       "Translation": "After trying a few different things, I figured out how to rotate it."
     },
     {
-      "JP": "いうわけで、石とあたしの競争だ。",
+      "JP": "というわけで、石とあたしの競争だ。",
       "EN": "It was going to come down to a race between me and the stones.",
       "Translation": "It was going to come down to a race between me and the stones."
     },
     {
-      "JP": "沙耶@「ゴ、ゴゥ、って…結構重いわね…」",
+      "JP": "`沙耶@「ゴ、ゴゥ、って…結構重いわね…」",
       "EN": "`Saya@❝Hmmph, hngg... it's pretty heavy...❞",
       "Translation": "`Saya@❝Hmmph, hngg... it's pretty heavy...❞"
     },
     {
-      "JP": "は中腰で両手でないと動いてくれない…。",
+      "JP": "石は中腰で両手でないと動いてくれない…。",
       "EN": "The knob wouldn't move unless I bend over and use both my arms...",
       "Translation": "The knob wouldn't move unless I bend over and use both my arms..."
     },
     {
-      "JP": "とり。",
+      "JP": "ごとり。",
       "EN": "*Clunk*",
       "Translation": "*Clunk*"
     },
     {
-      "JP": "かが外れる音。直後…",
+      "JP": "何かが外れる音。直後…",
       "EN": "It sounded like something cracked. Right after that...",
       "Translation": "It sounded like something cracked. Right after that..."
     },
     {
-      "JP": "ぉん！と大地震。一瞬無重力を味わった後、すぐ床に叩きつけられる。",
+      "JP": "どぉん！と大地震。一瞬無重力を味わった後、すぐ床に叩きつけられる。",
       "EN": "There was a huge earthquake. After a moment of weightlessness, I fell to the floor.",
       "Translation": "There was a huge earthquake. After a moment of weightlessness, I fell to the floor."
     },
     {
-      "JP": "っていられない。でも、急がないと！　立ち上がる。",
+      "JP": "立っていられない。でも、急がないと！　立ち上がる。",
       "EN": "I lost my footing. But I had to hurry! I stood up.",
       "Translation": "I lost my footing. But I had to hurry! I stood up."
     },
     {
-      "JP": "沙耶@「って、こんな斜めなの!?」",
+      "JP": "`沙耶@「って、こんな斜めなの!?」",
       "EN": "`Saya@❝Huh, why is it already so steep?!❞",
       "Translation": "`Saya@❝Huh, why is it already so steep?!❞"
     },
     {
-      "JP": "屋に飛び込むと、４５度近く床が傾いていた。",
+      "JP": "部屋に飛び込むと、４５度近く床が傾いていた。",
       "EN": "By the time I jumped into the room, the floor was tilted almost 45 degrees.",
       "Translation": "By the time I jumped into the room, the floor was tilted almost 45 degrees."
     },
     {
-      "JP": "でに石は頭上にまで…。",
+      "JP": "すでに石は頭上にまで…。",
       "EN": "The stone was already on top of me...",
       "Translation": "The stone was already on top of me..."
     },
     {
-      "JP": "沙耶@「やば…」",
+      "JP": "`沙耶@「やば…」",
       "EN": "`Saya@❝This is bad...❞",
       "Translation": "`Saya@❝This is bad...❞"
     },
     {
-      "JP": "ちゅ。",
+      "JP": "ぶちゅ。",
       "EN": "*Splat*.",
       "Translation": "*Splat*."
     },
     {
-      "JP": "",
+      "JP": "　",
       "EN": " ",
       "Translation": " "
     },
     {
-      "JP": "沙耶@「そう。三つも。どれかの石の下に梯子があるのよ」",
+      "JP": "`沙耶@「そう。三つも。どれかの石の下に梯子があるのよ」",
       "EN": "`Saya@❝Right, three of them. One of them has a ladder underneath.❞",
       "Translation": "`Saya@❝Right, three of them. One of them has a ladder underneath.❞"
     },
     {
-      "JP": "理樹@「でも、こんな石、どうやってどけるの？」",
+      "JP": "`理樹@「でも、こんな石、どうやってどけるの？」",
       "EN": "`Riki@❝But, these stones, how do we move them?❞",
       "Translation": "`Riki@❝But, these stones, how do we move them?❞"
     },
     {
-      "JP": "沙耶@「この部屋の入り口に仕掛けはあるわ」",
+      "JP": "`沙耶@「この部屋の入り口に仕掛けはあるわ」",
       "EN": "`Saya@❝There should be a mechanism at the entrance to this room.❞",
       "Translation": "`Saya@❝There should be a mechanism at the entrance to this room.❞"
     },
     {
-      "JP": "理樹@「へぇ、やり方はわかってるんだ」",
+      "JP": "`理樹@「へぇ、やり方はわかってるんだ」",
       "EN": "`Riki@❝Oh, you know what to do.❞",
       "Translation": "`Riki@❝Oh, you know what to do.❞"
     },
     {
-      "JP": "沙耶@「そうよ。じゃあ、始めるわよ」",
+      "JP": "`沙耶@「そうよ。じゃあ、始めるわよ」",
       "EN": "`Saya@❝I do. Then let's start.❞",
       "Translation": "`Saya@❝I do. Then let's start.❞"
     },
     {
-      "JP": "沙耶@「理樹くんは、部屋の右か左、どっちでもいいわ、隅にしゃがんで待機してて」",
+      "JP": "`沙耶@「理樹くんは、部屋の右か左、どっちでもいいわ、隅にしゃがんで待機してて」",
       "EN": "`Saya@❝Riki-kun, crouch in a corner of the room and wait there. Either side's fine.❞",
       "Translation": "`Saya@❝Riki-kun, crouch in a corner of the room and wait there. Either side's fine.❞"
     },
     {
-      "JP": "理樹@「それがなんになるの？」",
+      "JP": "`理樹@「それがなんになるの？」",
       "EN": "`Riki@❝What for?❞",
       "Translation": "`Riki@❝What for?❞"
     },
     {
-      "JP": "沙耶@「あなたの命を救うわ。地震が起きるけどじっとしていてくれれば」",
+      "JP": "`沙耶@「あなたの命を救うわ。地震が起きるけどじっとしていてくれれば」",
       "EN": "`Saya@❝To save your life. Do not move even if an earthquake occurs.❞",
       "Translation": "`Saya@❝To save your life. Do not move even if an earthquake occurs.❞"
     },
     {
-      "JP": "理樹@「沙耶さんは？」",
+      "JP": "`理樹@「沙耶さんは？」",
       "EN": "`Riki@❝What about you, Saya-san?❞",
       "Translation": "`Riki@❝What about you, Saya-san?❞"
     },
     {
-      "JP": "沙耶@「あたしはスパイだから、スパイの仕事をするわ」",
+      "JP": "`沙耶@「あたしはスパイだから、スパイの仕事をするわ」",
       "EN": "`Saya@❝I am a spy, I have ❛spy❜ work to do.❞",
       "Translation": "`Saya@❝I am a spy, I have ❛spy❜ work to do.❞"
     },
     {
-      "JP": "理樹@「危険だったりしない？」",
+      "JP": "`理樹@「危険だったりしない？」",
       "EN": "`Riki@❝Isn't that dangerous?❞",
       "Translation": "`Riki@❝Isn't that dangerous?❞"
     },
     {
-      "JP": "沙耶@「あなた、危険のない仕事をスパイがすると思うの？」",
+      "JP": "`沙耶@「あなた、危険のない仕事をスパイがすると思うの？」",
       "EN": "`Saya@❝Do you think spies do anything that doesn't involve danger?❞",
       "Translation": "`Saya@❝Do you think spies do anything that doesn't involve danger?❞"
     },
     {
-      "JP": "理樹@「いや…まあ、なんていうか、難易度的にはどのぐらいかなって」",
+      "JP": "`理樹@「いや…まあ、なんていうか、難易度的にはどのぐらいかなって」",
       "EN": "`Riki@❝No... I was just wondering how dangerous that would be exactly.❞",
       "Translation": "`Riki@❝No... I was just wondering how dangerous that would be exactly.❞"
     },
     {
-      "JP": "沙耶@「泣きたいぐらい危険よ」",
+      "JP": "`沙耶@「泣きたいぐらい危険よ」",
       "EN": "`Saya@❝So dangerous I feel like crying.❞",
       "Translation": "`Saya@❝So dangerous I feel like crying.❞"
     },
     {
-      "JP": "理樹@「うわぁ、そんな…」",
+      "JP": "`理樹@「うわぁ、そんな…」",
       "EN": "`Riki@❝That's terrible...❞",
       "Translation": "`Riki@❝That's terrible...❞"
     },
     {
-      "JP": "沙耶@「冗談よ、冗談。やってみないことにはわからない」",
+      "JP": "`沙耶@「冗談よ、冗談。やってみないことにはわからない」",
       "EN": "`Saya@❝Just kidding. I won't know until I try.❞",
       "Translation": "`Saya@❝Just kidding. I won't know until I try.❞"
     },
     {
-      "JP": "理樹@「あ、そ…」",
+      "JP": "`理樹@「あ、そ…」",
       "EN": "`Riki@❝Ah, I see...❞",
       "Translation": "`Riki@❝Ah, I see...❞"
     },
     {
-      "JP": "沙耶@「せめて、祈ってて」",
+      "JP": "`沙耶@「せめて、祈ってて」",
       "EN": "`Saya@❝At least, pray for me.❞",
       "Translation": "`Saya@❝At least, pray for me.❞"
     },
     {
-      "JP": "理樹@「そうするよ…」",
+      "JP": "`理樹@「そうするよ…」",
       "EN": "`Riki@❝I'll do that...❞",
       "Translation": "`Riki@❝I'll do that...❞"
     },
     {
-      "JP": "うやく部屋に入っていった。",
+      "JP": "ようやく部屋に入っていった。",
       "EN": "He finally went inside the room.",
       "Translation": "He finally went inside the room."
     },
     {
-      "JP": "沙耶@「スタートで失敗したのよね…」",
+      "JP": "`沙耶@「スタートで失敗したのよね…」",
       "EN": "`Saya@❝I messed up right at the start...❞",
       "Translation": "`Saya@❝I messed up right at the start...❞"
     },
     {
-      "JP": "、脳みそがぶちゅ。",
+      "JP": "で、脳みそがぶちゅ。",
       "EN": "And my brain was squashed...",
       "Translation": "And my brain was squashed..."
     },
     {
-      "JP": "んな体験は二度とごめんだ…。",
+      "JP": "あんな体験は二度とごめんだ…。",
       "EN": "I didn't want to experience that again...",
       "Translation": "I didn't want to experience that again..."
     },
     {
-      "JP": "っきは、大地震が起きて、それで立っていられなくなったのよね…。",
+      "JP": "さっきは、大地震が起きて、それで立っていられなくなったのよね…。",
       "EN": "Last time, an earthquake occurred, and I wasn't able to stand...",
       "Translation": "Last time, an earthquake occurred, and I wasn't able to stand..."
     },
     {
-      "JP": "度はどう攻めるか…。",
+      "JP": "今度はどう攻めるか…。",
       "EN": "So how should I approach this...",
       "Translation": "So how should I approach this..."
     },
     {
-      "JP": "度は通路が落ちても立っていられるように、この石のノブに抱きついておこう。",
+      "JP": "今度は通路が落ちても立っていられるように、この石のノブに抱きついておこう。",
       "EN": "I'll hold on to the knob this time, so I can stand up even if I fall to the floor.",
       "Translation": "I'll hold on to the knob this time, so I can stand up even if I fall to the floor."
     },
     {
-      "JP": "れをゆっくり確実に回す。",
+      "JP": "それをゆっくり確実に回す。",
       "EN": "I slowly and firmly rotated the knob.",
       "Translation": "I slowly and firmly rotated the knob."
     },
     {
-      "JP": "とり。",
+      "JP": "ごとり。",
       "EN": "*Clunk*",
       "Translation": "*Clunk*"
     },
     {
-      "JP": "ぉぉん！",
+      "JP": "どぉぉん！",
       "EN": "Don!",
       "Translation": "Don!"
     },
     {
-      "JP": "まじい震動。",
+      "JP": "凄まじい震動。",
       "EN": "There was a terrible tremor.",
       "Translation": "There was a terrible tremor."
     },
     {
-      "JP": "れはそのまま転がってくる石の震動に繋がる。",
+      "JP": "それはそのまま転がってくる石の震動に繋がる。",
       "EN": "It was followed by shaking caused by rolling stones.",
       "Translation": "It was followed by shaking caused by rolling stones."
     },
     {
-      "JP": "たしはすでに部屋の中にいる。",
+      "JP": "あたしはすでに部屋の中にいる。",
       "EN": "I was already inside the room.",
       "Translation": "I was already inside the room."
     },
     {
-      "JP": "すこ…",
+      "JP": "後すこ…",
       "EN": "Almost the-...",
       "Translation": "Almost the-..."
     },
     {
-      "JP": "ちゅ。",
+      "JP": "ぶちゅ。",
       "EN": "*Splat*.",
       "Translation": "*Splat*."
     },
     {
-      "JP": "",
+      "JP": "　",
       "EN": " ",
       "Translation": " "
     },
     {
-      "JP": "うだ。あたしも石のように丸くなって、部屋に転がり込もう。",
+      "JP": "そうだ。あたしも石のように丸くなって、部屋に転がり込もう。",
       "EN": "That's right, I should curl up like a stone and roll into the room.",
       "Translation": "That's right, I should curl up like a stone and roll into the room."
     },
     {
-      "JP": "う決め、ノブをゆっくり確実に回す。",
+      "JP": "そう決め、ノブをゆっくり確実に回す。",
       "EN": "Having made up my mind, I slowly and firmly turn the stone.",
       "Translation": "Having made up my mind, I slowly and firmly turn the stone."
     },
     {
-      "JP": "とり。",
+      "JP": "ごとり。",
       "EN": "*Clunk*",
       "Translation": "*Clunk*"
     },
     {
-      "JP": "ぉぉん！",
+      "JP": "どぉぉん！",
       "EN": "Don!",
       "Translation": "Don!"
     },
     {
-      "JP": "まじい震動。",
+      "JP": "凄まじい震動。",
       "EN": "There was a terrible tremor.",
       "Translation": "There was a terrible tremor."
     },
     {
-      "JP": "け！",
+      "JP": "いけ！",
       "EN": "Go!",
       "Translation": "Go!"
     },
     {
-      "JP": "りゃ？　どこが床でどこが天井だか…",
+      "JP": "ありゃ？　どこが床でどこが天井だか…",
       "EN": "Huh?　Which way is the floor and which is the ceiling...",
       "Translation": "Huh?　Which way is the floor and which is the ceiling..."
     },
     {
-      "JP": "ちゅ。",
+      "JP": "ぶちゅ。",
       "EN": "*Splat*.",
       "Translation": "*Splat*."
     },
     {
-      "JP": "",
+      "JP": "　",
       "EN": " ",
       "Translation": " "
     },
     {
-      "JP": "沙耶@「冗談よ、冗談。やってみないことにはわからない」",
+      "JP": "`沙耶@「冗談よ、冗談。やってみないことにはわからない」",
       "EN": "`Saya@❝Just kidding. I won't know until I try.❞",
       "Translation": "`Saya@❝Just kidding. I won't know until I try.❞"
     },
     {
-      "JP": "理樹@「あ、そ…」",
+      "JP": "`理樹@「あ、そ…」",
       "EN": "`Riki@❝Ah, I see..❞",
       "Translation": "`Riki@❝Ah, I see..❞"
     },
     {
-      "JP": "沙耶@「せめて、脳みそがぶちゅってならないように祈ってて」",
+      "JP": "`沙耶@「せめて、脳みそがぶちゅってならないように祈ってて」",
       "EN": "`Saya@❝At least, pray that my brain won't get all squashed.❞",
       "Translation": "`Saya@❝At least, pray that my brain won't get all squashed.❞"
     },
     {
-      "JP": "理樹@「ええぇぇ…」",
+      "JP": "`理樹@「ええぇぇ…」",
       "EN": "`Riki@❝Ehh?!❞",
       "Translation": "`Riki@❝Ehh?!❞"
     },
     {
-      "JP": "沙耶@「冗談よ、もう。早く行きなさい」",
+      "JP": "`沙耶@「冗談よ、もう。早く行きなさい」",
       "EN": "`Saya@❝Geez, I'm just kidding. Hurry up and go.❞",
       "Translation": "`Saya@❝Geez, I'm just kidding. Hurry up and go.❞"
     },
     {
-      "JP": "理樹@「大丈夫かなあ…」",
+      "JP": "`理樹@「大丈夫かなあ…」",
       "EN": "`Riki@❝Will this really work out...❞",
       "Translation": "`Riki@❝Will this really work out...❞"
     },
     {
-      "JP": "つぶつ言いながら、部屋に入っていった。",
+      "JP": "ぶつぶつ言いながら、部屋に入っていった。",
       "EN": "He went inside the room as he mumbled.",
       "Translation": "He went inside the room as he mumbled."
     },
     {
-      "JP": "沙耶@「まともに部屋に入ったんじゃ間に合わない…」",
+      "JP": "`沙耶@「まともに部屋に入ったんじゃ間に合わない…」",
       "EN": "`Saya@❝I won't make it if I just try to walk into the room.❞",
       "Translation": "`Saya@❝I won't make it if I just try to walk into the room.❞"
     },
     {
-      "JP": "たしは入り口を入念に調べる。",
+      "JP": "あたしは入り口を入念に調べる。",
       "EN": "I carefully inspected the entrance.",
       "Translation": "I carefully inspected the entrance."
     },
     {
-      "JP": "この入り口の壁を蹴って、宙を飛んで突入すれば…？",
+      "JP": "…この入り口の壁を蹴って、宙を飛んで突入すれば…？",
       "EN": "...What if I kicked off the wall at the entrance, and jumped into the air?",
       "Translation": "...What if I kicked off the wall at the entrance, and jumped into the air?"
     },
     {
-      "JP": "し、腹はくくった。",
+      "JP": "よし、腹はくくった。",
       "EN": "I mustered my courage.",
       "Translation": "I mustered my courage."
     },
     {
-      "JP": "こう。",
+      "JP": "いこう。",
       "EN": "Let's go.",
       "Translation": "Let's go."
     },
     {
-      "JP": "のノブを回す。",
+      "JP": "石のノブを回す。",
       "EN": "I turned the knob.",
       "Translation": "I turned the knob."
     },
     {
-      "JP": "とり。",
+      "JP": "ごとり。",
       "EN": "*Clunk*",
       "Translation": "*Clunk*"
     },
     {
-      "JP": "だ!!",
+      "JP": "今だ!!",
       "EN": "Now!!",
       "Translation": "Now!!"
     },
     {
-      "JP": "り口の壁を蹴って、部屋の中に飛び込んだ。",
+      "JP": "入り口の壁を蹴って、部屋の中に飛び込んだ。",
       "EN": "I kicked off the door at the entrance, and jumped inside the room.",
       "Translation": "I kicked off the door at the entrance, and jumped inside the room."
     },
     {
-      "JP": "ぉぉん！",
+      "JP": "どぉぉん！",
       "EN": "Don!",
       "Translation": "Don!"
     },
     {
-      "JP": "",
+      "JP": "　",
       "EN": "　",
       "Translation": "　"
     },
     {
-      "JP": "まじい震動。",
+      "JP": "凄まじい震動。",
       "EN": "There was a terrible tremor.",
       "Translation": "There was a terrible tremor."
     },
     {
-      "JP": "ど、宙にいるあたしには関係ない。",
+      "JP": "けど、宙にいるあたしには関係ない。",
       "EN": "But it didn't affect me as I was in the air.",
       "Translation": "But it didn't affect me as I was in the air."
     },
     {
-      "JP": "うやく着地し、勢いのまま揺れる床を転がる。",
+      "JP": "ようやく着地し、勢いのまま揺れる床を転がる。",
       "EN": "I landed eventually and rolled further across the still shaking floor.",
       "Translation": "I landed eventually and rolled further across the still shaking floor."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "がて震動が止まる。",
+      "JP": "やがて震動が止まる。",
       "EN": "After a while the earthquake subsided.",
       "Translation": "After a while the earthquake subsided."
     },
     {
-      "JP": "たしは無事でいる。",
+      "JP": "あたしは無事でいる。",
       "EN": "I was still alright.",
       "Translation": "I was still alright."
     },
     {
-      "JP": "の下を無事抜けたんだ！",
+      "JP": "石の下を無事抜けたんだ！",
       "EN": "I managed to slip under the stone!",
       "Translation": "I managed to slip under the stone!"
     },
     {
-      "JP": "沙耶@「うおおおぉおぉぉぉぉぉーーー！」",
+      "JP": "`沙耶@「うおおおぉおぉぉぉぉぉーーー！」",
       "EN": "`Saya@❝Uoooooooo――!❞",
       "Translation": "`Saya@❝Uoooooooo――!❞"
     },
     {
-      "JP": "沙耶@「よっしゃ、みたか、ばろーーーめっ!!」",
+      "JP": "`沙耶@「よっしゃ、みたか、ばろーーーめっ!!」",
       "EN": "`Saya@❝Alright, you see that, yesss!!❞",
       "Translation": "`Saya@❝Alright, you see that, yesss!!❞"
     },
     {
-      "JP": "沙耶@「うあーーーはっはっはっはっ！」",
+      "JP": "`沙耶@「うあーーーはっはっはっはっ！」",
       "EN": "`Saya@❝Ua―― hahahaha!❞",
       "Translation": "`Saya@❝Ua―― hahahaha!❞"
     },
     {
-      "JP": "理樹@「………」",
+      "JP": "`理樹@「………」",
       "EN": "`Riki@❝.........❞",
       "Translation": "`Riki@❝.........❞"
     },
     {
-      "JP": "沙耶@「はっ…」",
+      "JP": "`沙耶@「はっ…」",
       "EN": "`Saya@❝Haa...❞",
       "Translation": "`Saya@❝Haa...❞"
     },
     {
-      "JP": "まった…また素のあたしが…。",
+      "JP": "しまった…また素のあたしが…。",
       "EN": "Crap... I had let my guard down again...",
       "Translation": "Crap... I had let my guard down again..."
     },
     {
-      "JP": "理樹@「ぷっ…」",
+      "JP": "`理樹@「ぷっ…」",
       "EN": "`Riki@❝*Chuckle*...❞",
       "Translation": "`Riki@❝*Chuckle*...❞"
     },
     {
-      "JP": "めた目で見られるかと思いきや、彼は笑い出した。",
+      "JP": "冷めた目で見られるかと思いきや、彼は笑い出した。",
       "EN": "I thought he was going to give me a disgusted look, but he had burst into laughter instead.",
       "Translation": "I thought he was going to give me a disgusted look, but he had burst into laughter instead."
     },
     {
-      "JP": "理樹@「不謹慎かもしれないけど、沙耶さんって、面白いよね」",
+      "JP": "`理樹@「不謹慎かもしれないけど、沙耶さんって、面白いよね」",
       "EN": "`Riki@❝I probably shouldn't be saying this, but you are interesting, Saya-san.❞",
       "Translation": "`Riki@❝I probably shouldn't be saying this, but you are interesting, Saya-san.❞"
     },
     {
-      "JP": "沙耶@「え？　お…おもしろい？」",
+      "JP": "`沙耶@「え？　お…おもしろい？」",
       "EN": "`Saya@❝Huh? I-interesting?❞",
       "Translation": "`Saya@❝Huh? I-interesting?❞"
     },
     {
-      "JP": "理樹@「可愛らしいというか」",
+      "JP": "`理樹@「可愛らしいというか」",
       "EN": "`Riki@❝I mean, you're kind of cute.❞",
       "Translation": "`Riki@❝I mean, you're kind of cute.❞"
     },
     {
-      "JP": "沙耶@「かわいらしい??」",
+      "JP": "`沙耶@「かわいらしい??」",
       "EN": "`Saya@❝Cute?❞",
       "Translation": "`Saya@❝Cute?❞"
     },
     {
-      "JP": "たしの頭にはハテナマークしか浮かんでこない。",
+      "JP": "あたしの頭にはハテナマークしか浮かんでこない。",
       "EN": "A question mark popped above my head.",
       "Translation": "A question mark popped above my head."
     },
     {
-      "JP": "体どこに面白く可愛らしい要素があったのか、今のあたしに。",
+      "JP": "一体どこに面白く可愛らしい要素があったのか、今のあたしに。",
       "EN": "Just what part of that was cute, or interesting?",
       "Translation": "Just what part of that was cute, or interesting?"
     },
     {
-      "JP": "ロインは、クールビューティーでなくてはならないのに…。",
+      "JP": "ヒロインは、クールビューティーでなくてはならないのに…。",
       "EN": "I failed as a ❛cool beauty❜ kind of heroine...",
       "Translation": "I failed as a ❛cool beauty❜ kind of heroine..."
     },
     {
-      "JP": "理樹@「それに、まだ短い時間だけど、長いこと沙耶さんと居るような気がするんだ。どうしてか親近感がすごく湧くんだ」",
+      "JP": "`理樹@「それに、まだ短い時間だけど、長いこと沙耶さんと居るような気がするんだ。どうしてか親近感がすごく湧くんだ」",
       "EN": "`Riki@❝Besides, somehow I feel like I have been with you for a long time. For some reason, the sense of closeness is really strong.❞",
       "Translation": "`Riki@❝Besides, somehow I feel like I have been with you for a long time. For some reason, the sense of closeness is really strong.❞"
     },
     {
-      "JP": "沙耶@「それは…」",
+      "JP": "`沙耶@「それは…」",
       "EN": "`Saya@❝That is...❞",
       "Translation": "`Saya@❝That is...❞"
     },
     {
-      "JP": "ういう『記憶』も残るのだろうか…。",
+      "JP": "そういう『記憶』も残るのだろうか…。",
       "EN": "So a fragment of ❛memory❜ still remained...",
       "Translation": "So a fragment of ❛memory❜ still remained..."
     },
     {
-      "JP": "セットされないのだろうか…。",
+      "JP": "リセットされないのだろうか…。",
       "EN": "It didn't get reset...",
       "Translation": "It didn't get reset..."
     },
     {
-      "JP": "樹くん…。",
+      "JP": "理樹くん…。",
       "EN": "Riki-kun...",
       "Translation": "Riki-kun..."
     },
     {
-      "JP": "樹くんは、一度あたしのことを好きだって言ってくれたのよ。",
+      "JP": "理樹くんは、一度あたしのことを好きだって言ってくれたのよ。",
       "EN": "Riki-kun, you once said that you love me.",
       "Translation": "Riki-kun, you once said that you love me."
     },
     {
-      "JP": "えてる…？",
+      "JP": "覚えてる…？",
       "EN": "Do you remember...?",
       "Translation": "Do you remember...?"
     },
     {
-      "JP": "んてロマンチックに浸るあたしは斜め４５度。",
+      "JP": "なんてロマンチックに浸るあたしは斜め４５度。",
       "EN": "Slanted 45 degrees, I was wallowing in romanticism.",
       "Translation": "Slanted 45 degrees, I was wallowing in romanticism."
     },
     {
-      "JP": "沙耶@「さ、先を急ぎましょっ」",
+      "JP": "`沙耶@「さ、先を急ぎましょっ」",
       "EN": "`Saya@❝L-let's hurry up.❞",
       "Translation": "`Saya@❝L-let's hurry up.❞"
     },
     {
-      "JP": "理樹@「うん」",
+      "JP": "`理樹@「うん」",
       "EN": "`Riki@❝Yeah.❞",
       "Translation": "`Riki@❝Yeah.❞"
     },
     {
-      "JP": "ち取るんだあたしは。",
+      "JP": "勝ち取るんだあたしは。",
       "EN": "I was gonna win.",
       "Translation": "I was gonna win."
     },
     {
-      "JP": "樹くんを連れて。",
+      "JP": "理樹くんを連れて。",
       "EN": "I was going to take Riki-kun with me.",
       "Translation": "I was going to take Riki-kun with me."
     }

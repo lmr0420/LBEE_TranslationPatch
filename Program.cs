@@ -28,7 +28,11 @@
 
             // 这两个脚本里有两个未知的复杂指令ONGOTO，不清楚是做什么的
             // 但脚本本身没有包含MESSAGE指令，并且都是一些控制变量的指令，大概都是计算的逻辑，无需翻译，可以先跳过
-            "SEEN8590", "SEEN8610"
+            "SEEN8590", "SEEN8610",
+
+            // 这些脚本应该是一些数值变量或者控制逻辑，看起来没有翻译的必要
+            "_ARFLAG","_BUILD_COUNT","_CGMODE","_QUAKE",
+            "_SCR_LABEL","_TASK","_VARNUM","_VOICE_PARAM"
         };
 
         static void Main(string[] args)
@@ -60,7 +64,7 @@
             foreach (var scriptFile in scriptFiles)
             {
                 var fileName = Path.GetFileNameWithoutExtension(scriptFile);
-                if (IgnoredScriptList.Contains(fileName) || fileName.StartsWith("_"))
+                if (IgnoredScriptList.Contains(fileName))
                 {
                     continue;
                 }
@@ -118,7 +122,7 @@
                 foreach (var command in allCommands)
                 {
                     var CurInstruction = command.GetInstruction();
-                    /*if(Operators[CurInstruction]== "FARCALL")
+                    /*if(Operators[CurInstruction]== "BATTLE" && command.GetCmdLength()>8)
                     {
                         Console.WriteLine($"{Operators[CurInstruction]} {command.CmdPtr}");
                     }*/

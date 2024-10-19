@@ -1,962 +1,963 @@
 {
+  "TASK": [],
   "MESSAGE": [
     {
-      "JP": "たしは、夜の校舎、その廊下に居た。",
+      "JP": "あたしは、夜の校舎、その廊下に居た。",
       "EN": "I stood in the hallway of the school at night.",
       "Translation": "I stood in the hallway of the school at night."
     },
     {
-      "JP": "今のはなんだ？",
+      "JP": "…今のはなんだ？",
       "EN": "...What now?",
       "Translation": "...What now?"
     },
     {
-      "JP": "にか、あるいは直接網膜にか、光る文字が映し出された。",
+      "JP": "宙にか、あるいは直接網膜にか、光る文字が映し出された。",
       "EN": "In the air, or perhaps written directly onto my retina, I can see letters written with light.",
       "Translation": "In the air, or perhaps written directly onto my retina, I can see letters written with light."
     },
     {
-      "JP": "ルファベットだった。",
+      "JP": "アルファベットだった。",
       "EN": "The Latin alphabet.",
       "Translation": "The Latin alphabet."
     },
     {
-      "JP": "、Ａ、Ｍ、Ｅ、Ｓ、Ｔ、Ａ、Ｒ、Ｔ。",
+      "JP": "Ｇ、Ａ、Ｍ、Ｅ、Ｓ、Ｔ、Ａ、Ｒ、Ｔ。",
       "EN": "G, A, M, E, S, T, A, R, T.",
       "Translation": "G, A, M, E, S, T, A, R, T."
     },
     {
-      "JP": "ームスタート。",
+      "JP": "ゲームスタート。",
       "EN": "Game start.",
       "Translation": "Game start."
     },
     {
-      "JP": "誰へ向けて？",
+      "JP": "…誰へ向けて？",
       "EN": "...Whose?",
       "Translation": "...Whose?"
     },
     {
-      "JP": "あたしにか？",
+      "JP": "…あたしにか？",
       "EN": "...Mine?",
       "Translation": "...Mine?"
     },
     {
-      "JP": "ームオーバーまで用意してあった…。",
+      "JP": "ゲームオーバーまで用意してあった…。",
       "EN": "There was even a game over sequence...",
       "Translation": "There was even a game over sequence..."
     },
     {
-      "JP": "れだけ馬鹿にしてるのよ…。",
+      "JP": "どれだけ馬鹿にしてるのよ…。",
       "EN": "He was mocking me...",
       "Translation": "He was mocking me..."
     },
     {
-      "JP": "時風@「ふん…また来たのか」",
+      "JP": "`時風@「ふん…また来たのか」",
       "EN": "`Tokikaze@❝Hmph... You've come again.❞",
       "Translation": "`Tokikaze@❝Hmph... You've come again.❞"
     },
     {
-      "JP": "っと。あと一回死ねば１００回死んだ記念ね。",
+      "JP": "おっと。あと一回死ねば１００回死んだ記念ね。",
       "EN": "Almost forgot. If I died one more time, I would have made it to one hundred.",
       "Translation": "Almost forgot. If I died one more time, I would have made it to one hundred."
     },
     {
-      "JP": "ああぁぁぁーーーーっ、１に戻ってるぅぅっ!!",
+      "JP": "うああぁぁぁーーーーっ、１に戻ってるぅぅっ!!",
       "EN": "Whaaaaaaaaaaat, it went back to one!!",
       "Translation": "Whaaaaaaaaaaat, it went back to one!!"
     },
     {
-      "JP": "までの積み重ねは一体ぃぃぃ…!!",
+      "JP": "今までの積み重ねは一体ぃぃぃ…!!",
       "EN": "All my hard work, for nothing...!",
       "Translation": "All my hard work, for nothing...!"
     },
     {
-      "JP": "いうか、あたしは死にまくって何をしてるんだ!?",
+      "JP": "というか、あたしは死にまくって何をしてるんだ!?",
       "EN": "Actually, what in world was I dying for?",
       "Translation": "Actually, what in world was I dying for?"
     },
     {
-      "JP": "ワイ？",
+      "JP": "ホワイ？",
       "EN": "What for?",
       "Translation": "What for?"
     },
     {
-      "JP": "沙耶@「パンツ一枚に泣いたわ…」",
+      "JP": "`沙耶@「パンツ一枚に泣いたわ…」",
       "EN": "`Saya@❝I cried over a pair of panties...❞",
       "Translation": "`Saya@❝I cried over a pair of panties...❞"
     },
     {
-      "JP": "沙耶@「あほか、あたしはあぁぁぁぁぁーーーっ!!」",
+      "JP": "`沙耶@「あほか、あたしはあぁぁぁぁぁーーーっ!!」",
       "EN": "`Saya@❝I'm such an idiot!!❞",
       "Translation": "`Saya@❝I'm such an idiot!!❞"
     },
     {
-      "JP": "時風@「まったく、とんだ余興だ」",
+      "JP": "`時風@「まったく、とんだ余興だ」",
       "EN": "`Tokikaze@❝That was quite a show.❞",
       "Translation": "`Tokikaze@❝That was quite a show.❞"
     },
     {
-      "JP": "沙耶@「同じ場所で同じ死に方しちゃったじゃない！」",
+      "JP": "`沙耶@「同じ場所で同じ死に方しちゃったじゃない！」",
       "EN": "`Saya@❝I died in the same way at the same place!❞",
       "Translation": "`Saya@❝I died in the same way at the same place!❞"
     },
     {
-      "JP": "時風@「そう。ゲームみたいなものだ」",
+      "JP": "`時風@「そう。ゲームみたいなものだ」",
       "EN": "`Tokikaze@❝Right. Think of it as a game.❞",
       "Translation": "`Tokikaze@❝Right. Think of it as a game.❞"
     },
     {
-      "JP": "沙耶@「おまえ、他のことも言ってみろっ」",
+      "JP": "`沙耶@「おまえ、他のことも言ってみろっ」",
       "EN": "`Saya@❝Damn, try saying something else.❞",
       "Translation": "`Saya@❝Damn, try saying something else.❞"
     },
     {
-      "JP": "時風@「また、始めるのかい」",
+      "JP": "`時風@「また、始めるのかい」",
       "EN": "`Tokikaze@❝Do you want to start over?❞",
       "Translation": "`Tokikaze@❝Do you want to start over?❞"
     },
     {
-      "JP": "時風@「わかった。ゲームスタートといこう」",
+      "JP": "`時風@「わかった。ゲームスタートといこう」",
       "EN": "`Tokikaze@❝Understood. Game start...❞",
       "Translation": "`Tokikaze@❝Understood. Game start...❞"
     },
     {
-      "JP": "沙耶@「唾飛ばしてやろうかしら。んーーー…ぺっ！」",
+      "JP": "`沙耶@「唾飛ばしてやろうかしら。んーーー…ぺっ！」",
       "EN": "`Saya@❝Want me to spit on you? Pfftttt...!❞",
       "Translation": "`Saya@❝Want me to spit on you? Pfftttt...!❞"
     },
     {
-      "JP": "時風@「だがおまえにとっては過酷な世界だ」",
+      "JP": "`時風@「だがおまえにとっては過酷な世界だ」",
       "EN": "`Tokikaze@❝But this is a cruel world for you.❞",
       "Translation": "`Tokikaze@❝But this is a cruel world for you.❞"
     },
     {
-      "JP": "時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
+      "JP": "`時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
       "EN": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞",
       "Translation": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞"
     },
     {
-      "JP": "沙耶@「ズボンにつばつけたまま格好つけてやんの！」",
+      "JP": "`沙耶@「ズボンにつばつけたまま格好つけてやんの！」",
       "EN": "`Saya@❝You look hilarious with my spit stuck on your trousers!❞",
       "Translation": "`Saya@❝You look hilarious with my spit stuck on your trousers!❞"
     },
     {
-      "JP": "沙耶@「あーはっはっはっは！」",
+      "JP": "`沙耶@「あーはっはっはっは！」",
       "EN": "`Saya@❝Ahahahaha!❞",
       "Translation": "`Saya@❝Ahahahaha!❞"
     },
     {
-      "JP": "沙耶@「だからどないせーっちゅうんじゃ!!」",
+      "JP": "`沙耶@「だからどないせーっちゅうんじゃ!!」",
       "EN": "`Saya@❝Whatcha want me to do?!❞",
       "Translation": "`Saya@❝Whatcha want me to do?!❞"
     },
     {
-      "JP": "時風@「まったく、とんだ余興だ」",
+      "JP": "`時風@「まったく、とんだ余興だ」",
       "EN": "`Tokikaze@❝That was quite a show.❞",
       "Translation": "`Tokikaze@❝That was quite a show.❞"
     },
     {
-      "JP": "沙耶@「やっぱりセリフは変わらないのね…」",
+      "JP": "`沙耶@「やっぱりセリフは変わらないのね…」",
       "EN": "`Saya@❝So you say the same thing every time.❞",
       "Translation": "`Saya@❝So you say the same thing every time.❞"
     },
     {
-      "JP": "時風@「そう。ゲームみたいなものだ」",
+      "JP": "`時風@「そう。ゲームみたいなものだ」",
       "EN": "`Tokikaze@❝Right. Think of it as a game.❞",
       "Translation": "`Tokikaze@❝Right. Think of it as a game.❞"
     },
     {
-      "JP": "沙耶@「だったらクソゲーね」",
+      "JP": "`沙耶@「だったらクソゲーね」",
       "EN": "`Saya@❝It's a pretty shitty game then.❞",
       "Translation": "`Saya@❝It's a pretty shitty game then.❞"
     },
     {
-      "JP": "時風@「また、始めるのかい」",
+      "JP": "`時風@「また、始めるのかい」",
       "EN": "`Tokikaze@❝Do you want to start over?❞",
       "Translation": "`Tokikaze@❝Do you want to start over?❞"
     },
     {
-      "JP": "沙耶@「クソゲーをね」",
+      "JP": "`沙耶@「クソゲーをね」",
       "EN": "`Saya@❝This shitty game?❞",
       "Translation": "`Saya@❝This shitty game?❞"
     },
     {
-      "JP": "時風@「わかった。ゲームスタートといこう」",
+      "JP": "`時風@「わかった。ゲームスタートといこう」",
       "EN": "`Tokikaze@❝Understood. Game start...❞",
       "Translation": "`Tokikaze@❝Understood. Game start...❞"
     },
     {
-      "JP": "沙耶@「クソゲー言われて反論できないでやんの！」",
+      "JP": "`沙耶@「クソゲー言われて反論できないでやんの！」",
       "EN": "`Saya@❝Are you not going to react when I call this a shitty game!?❞",
       "Translation": "`Saya@❝Are you not going to react when I call this a shitty game!?❞"
     },
     {
-      "JP": "時風@「だがおまえにとっては過酷な世界だ」",
+      "JP": "`時風@「だがおまえにとっては過酷な世界だ」",
       "EN": "`Tokikaze@❝But this is a cruel world for you.❞",
       "Translation": "`Tokikaze@❝But this is a cruel world for you.❞"
     },
     {
-      "JP": "時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
+      "JP": "`時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
       "EN": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞",
       "Translation": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞"
     },
     {
-      "JP": "沙耶@「あーはっはっはっは！」",
+      "JP": "`沙耶@「あーはっはっはっは！」",
       "EN": "`Saya@❝Ahahahaha!❞",
       "Translation": "`Saya@❝Ahahahaha!❞"
     },
     {
-      "JP": "沙耶@「どないせーっちゅうんじゃ!!」",
+      "JP": "`沙耶@「どないせーっちゅうんじゃ!!」",
       "EN": "`Saya@❝Whatcha want me to do?!❞",
       "Translation": "`Saya@❝Whatcha want me to do?!❞"
     },
     {
-      "JP": "時風@「まったく、とんだ余興だ」",
+      "JP": "`時風@「まったく、とんだ余興だ」",
       "EN": "`Tokikaze@❝That was quite a show.❞",
       "Translation": "`Tokikaze@❝That was quite a show.❞"
     },
     {
-      "JP": "沙耶@「相変わらずセリフは変わらないのね…」",
+      "JP": "`沙耶@「相変わらずセリフは変わらないのね…」",
       "EN": "`Saya@❝You really say the same thing every time.❞",
       "Translation": "`Saya@❝You really say the same thing every time.❞"
     },
     {
-      "JP": "時風@「そう。ゲームみたいなものだ」",
+      "JP": "`時風@「そう。ゲームみたいなものだ」",
       "EN": "`Tokikaze@❝Right. Think of it as a game.❞",
       "Translation": "`Tokikaze@❝Right. Think of it as a game.❞"
     },
     {
-      "JP": "沙耶@「ほかのこと言ってみなさいよ」",
+      "JP": "`沙耶@「ほかのこと言ってみなさいよ」",
       "EN": "`Saya@❝Say something else!❞",
       "Translation": "`Saya@❝Say something else!❞"
     },
     {
-      "JP": "時風@「また、始めるのかい」",
+      "JP": "`時風@「また、始めるのかい」",
       "EN": "`Tokikaze@❝Do you want to start over?❞",
       "Translation": "`Tokikaze@❝Do you want to start over?❞"
     },
     {
-      "JP": "沙耶@「なんか言えやーーーっ!!」",
+      "JP": "`沙耶@「なんか言えやーーーっ!!」",
       "EN": "`Saya@❝Say something, dammit!!❞",
       "Translation": "`Saya@❝Say something, dammit!!❞"
     },
     {
-      "JP": "ん！　ぱん！　ぱん！",
+      "JP": "ぱん！　ぱん！　ぱん！",
       "EN": "Bang! Bang! Bang!",
       "Translation": "Bang! Bang! Bang!"
     },
     {
-      "JP": "時風@「わかった。ゲームスタートといこう」",
+      "JP": "`時風@「わかった。ゲームスタートといこう」",
       "EN": "`Tokikaze@❝Understood. Game start...❞",
       "Translation": "`Tokikaze@❝Understood. Game start...❞"
     },
     {
-      "JP": "はどれも体を通過していった。",
+      "JP": "弾はどれも体を通過していった。",
       "EN": "All the bullets passed through his body.",
       "Translation": "All the bullets passed through his body."
     },
     {
-      "JP": "沙耶@「くそぉ…」",
+      "JP": "`沙耶@「くそぉ…」",
       "EN": "`Saya@❝Damn...❞",
       "Translation": "`Saya@❝Damn...❞"
     },
     {
-      "JP": "時風@「だがおまえにとっては過酷な世界だ」",
+      "JP": "`時風@「だがおまえにとっては過酷な世界だ」",
       "EN": "`Tokikaze@❝But this is a cruel world for you.❞",
       "Translation": "`Tokikaze@❝But this is a cruel world for you.❞"
     },
     {
-      "JP": "時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
+      "JP": "`時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
       "EN": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞",
       "Translation": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞"
     },
     {
-      "JP": "う言い終えると、煙のように立ち消える。",
+      "JP": "そう言い終えると、煙のように立ち消える。",
       "EN": "The moment he finished speaking, he disappeared like smoke.",
       "Translation": "The moment he finished speaking, he disappeared like smoke."
     },
     {
-      "JP": "りあえず笑っておこう。",
+      "JP": "とりあえず笑っておこう。",
       "EN": "I had to laugh.",
       "Translation": "I had to laugh."
     },
     {
-      "JP": "沙耶@「あは…」",
+      "JP": "`沙耶@「あは…」",
       "EN": "`Saya@❝Aha...❞",
       "Translation": "`Saya@❝Aha...❞"
     },
     {
-      "JP": "沙耶@「あーはっはっはっは！」",
+      "JP": "`沙耶@「あーはっはっはっは！」",
       "EN": "`Saya@❝Ahahahaha!❞",
       "Translation": "`Saya@❝Ahahahaha!❞"
     },
     {
-      "JP": "沙耶@「ぜんぶ、ハズレかよっ!!」",
+      "JP": "`沙耶@「ぜんぶ、ハズレかよっ!!」",
       "EN": "`Saya@❝There isn't a correct answer!!❞",
       "Translation": "`Saya@❝There isn't a correct answer!!❞"
     },
     {
-      "JP": "たしは仕掛けの理不尽さを訴えた。",
+      "JP": "あたしは仕掛けの理不尽さを訴えた。",
       "EN": "I complained about how unreasonable the trap was.",
       "Translation": "I complained about how unreasonable the trap was."
     },
     {
-      "JP": "時風@「まったく、とんだ余興だ」",
+      "JP": "`時風@「まったく、とんだ余興だ」",
       "EN": "`Tokikaze@❝That was quite a show.❞",
       "Translation": "`Tokikaze@❝That was quite a show.❞"
     },
     {
-      "JP": "沙耶@「あなたのセリフは変わらないのね…」",
+      "JP": "`沙耶@「あなたのセリフは変わらないのね…」",
       "EN": "`Saya@❝You always say the same thing...❞",
       "Translation": "`Saya@❝You always say the same thing...❞"
     },
     {
-      "JP": "時風@「そう。ゲームみたいなものだ」",
+      "JP": "`時風@「そう。ゲームみたいなものだ」",
       "EN": "`Tokikaze@❝Right. Think of it as a game.❞",
       "Translation": "`Tokikaze@❝Right. Think of it as a game.❞"
     },
     {
-      "JP": "沙耶@「会話、噛み合ってなくない？」",
+      "JP": "`沙耶@「会話、噛み合ってなくない？」",
       "EN": "`Saya@❝Our conversation doesn't make sense, you know?❞",
       "Translation": "`Saya@❝Our conversation doesn't make sense, you know?❞"
     },
     {
-      "JP": "時風@「また、始めるのかい」",
+      "JP": "`時風@「また、始めるのかい」",
       "EN": "`Tokikaze@❝Do you want to start over?❞",
       "Translation": "`Tokikaze@❝Do you want to start over?❞"
     },
     {
-      "JP": "沙耶@「もちろんよ」",
+      "JP": "`沙耶@「もちろんよ」",
       "EN": "`Saya@❝You bet I do.❞",
       "Translation": "`Saya@❝You bet I do.❞"
     },
     {
-      "JP": "時風@「わかった。ゲームスタートといこう」",
+      "JP": "`時風@「わかった。ゲームスタートといこう」",
       "EN": "`Tokikaze@❝Understood. Game start...❞",
       "Translation": "`Tokikaze@❝Understood. Game start...❞"
     },
     {
-      "JP": "すん！",
+      "JP": "ぱすん！",
       "EN": "*Pow*!",
       "Translation": "*Pow*!"
     },
     {
-      "JP": "ってやった。",
+      "JP": "撃ってやった。",
       "EN": "I shot him.",
       "Translation": "I shot him."
     },
     {
-      "JP": "たったはずだが、なんのダメージも与えられなかったようだ。",
+      "JP": "当たったはずだが、なんのダメージも与えられなかったようだ。",
       "EN": "It should've hit, but it didn't seem to have affected him.",
       "Translation": "It should've hit, but it didn't seem to have affected him."
     },
     {
-      "JP": "時風@「だがおまえにとっては過酷な世界だ」",
+      "JP": "`時風@「だがおまえにとっては過酷な世界だ」",
       "EN": "`Tokikaze@❝But this is a cruel world for you.❞",
       "Translation": "`Tokikaze@❝But this is a cruel world for you.❞"
     },
     {
-      "JP": "時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
+      "JP": "`時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
       "EN": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞",
       "Translation": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞"
     },
     {
-      "JP": "う言い終えると、煙のように立ち消える。",
+      "JP": "そう言い終えると、煙のように立ち消える。",
       "EN": "The moment he finished speaking, he disappeared like smoke.",
       "Translation": "The moment he finished speaking, he disappeared like smoke."
     },
     {
-      "JP": "りあえず笑っておこう。",
+      "JP": "とりあえず笑っておこう。",
       "EN": "I had to laugh.",
       "Translation": "I had to laugh."
     },
     {
-      "JP": "沙耶@「あは…」",
+      "JP": "`沙耶@「あは…」",
       "EN": "`Saya@❝Aha...❞",
       "Translation": "`Saya@❝Aha...❞"
     },
     {
-      "JP": "沙耶@「あーはっはっはっは！」",
+      "JP": "`沙耶@「あーはっはっはっは！」",
       "EN": "`Saya@❝Ahahahaha!❞",
       "Translation": "`Saya@❝Ahahahaha!❞"
     },
     {
-      "JP": "時風@「まったく、とんだ余興だ」",
+      "JP": "`時風@「まったく、とんだ余興だ」",
       "EN": "`Tokikaze@❝That was quite a show.❞",
       "Translation": "`Tokikaze@❝That was quite a show.❞"
     },
     {
-      "JP": "沙耶@「１０回死んだ記念よ。何かちょうだい」",
+      "JP": "`沙耶@「１０回死んだ記念よ。何かちょうだい」",
       "EN": "`Saya@❝That was the 10th time I died. Give me a reward.❞",
       "Translation": "`Saya@❝That was the 10th time I died. Give me a reward.❞"
     },
     {
-      "JP": "時風@「そう。ゲームみたいなものだ」",
+      "JP": "`時風@「そう。ゲームみたいなものだ」",
       "EN": "`Tokikaze@❝Right. Think of it as a game.❞",
       "Translation": "`Tokikaze@❝Right. Think of it as a game.❞"
     },
     {
-      "JP": "沙耶@「その仮面、素敵ね」",
+      "JP": "`沙耶@「その仮面、素敵ね」",
       "EN": "`Saya@❝I like your mask.❞",
       "Translation": "`Saya@❝I like your mask.❞"
     },
     {
-      "JP": "時風@「また、始めるのかい」",
+      "JP": "`時風@「また、始めるのかい」",
       "EN": "`Tokikaze@❝Do you want to start over?❞",
       "Translation": "`Tokikaze@❝Do you want to start over?❞"
     },
     {
-      "JP": "沙耶@「あたしにも似合うかしら」",
+      "JP": "`沙耶@「あたしにも似合うかしら」",
       "EN": "`Saya@❝Will it look good on me?❞",
       "Translation": "`Saya@❝Will it look good on me?❞"
     },
     {
-      "JP": "時風@「だがおまえにとっては過酷な世界だ」",
+      "JP": "`時風@「だがおまえにとっては過酷な世界だ」",
       "EN": "`Tokikaze@❝But this is a cruel world for you.❞",
       "Translation": "`Tokikaze@❝But this is a cruel world for you.❞"
     },
     {
-      "JP": "沙耶@「そんなもんいるかっ、こっちから願いさげじゃ、ぼけーーーーっ!!」",
+      "JP": "`沙耶@「そんなもんいるかっ、こっちから願いさげじゃ、ぼけーーーーっ!!」",
       "EN": "`Saya@❝Like hell I need that!! Keep it to yourself, idiot!!❞",
       "Translation": "`Saya@❝Like hell I need that!! Keep it to yourself, idiot!!❞"
     },
     {
-      "JP": "時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
+      "JP": "`時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
       "EN": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞",
       "Translation": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞"
     },
     {
-      "JP": "沙耶@「あーはっはっはっは！」",
+      "JP": "`沙耶@「あーはっはっはっは！」",
       "EN": "`Saya@❝Ahahahaha!❞",
       "Translation": "`Saya@❝Ahahahaha!❞"
     },
     {
-      "JP": "時風@「まったく、とんだ余興だ」",
+      "JP": "`時風@「まったく、とんだ余興だ」",
       "EN": "`Tokikaze@❝That was quite a show.❞",
       "Translation": "`Tokikaze@❝That was quite a show.❞"
     },
     {
-      "JP": "沙耶@「２０回死んだ記念よ。何かちょうだい」",
+      "JP": "`沙耶@「２０回死んだ記念よ。何かちょうだい」",
       "EN": "`Saya@❝That was the 20th time I died. Give me a reward.❞",
       "Translation": "`Saya@❝That was the 20th time I died. Give me a reward.❞"
     },
     {
-      "JP": "時風@「そう。ゲームみたいなものだ」",
+      "JP": "`時風@「そう。ゲームみたいなものだ」",
       "EN": "`Tokikaze@❝Right. Think of it as a game.❞",
       "Translation": "`Tokikaze@❝Right. Think of it as a game.❞"
     },
     {
-      "JP": "沙耶@「お金でもいいわよ。ユキチ頂戴」",
+      "JP": "`沙耶@「お金でもいいわよ。ユキチ頂戴」",
       "EN": "`Saya@❝Money is fine. I want 10,000 yen.❞",
       "Translation": "`Saya@❝Money is fine. I want 10,000 yen.❞"
     },
     {
-      "JP": "時風@「また、始めるのかい」",
+      "JP": "`時風@「また、始めるのかい」",
       "EN": "`Tokikaze@❝Do you want to start over?❞",
       "Translation": "`Tokikaze@❝Do you want to start over?❞"
     },
     {
-      "JP": "沙耶@「ユキチよこしなさいよ」",
+      "JP": "`沙耶@「ユキチよこしなさいよ」",
       "EN": "`Saya@❝Hand me over 10,000 yen already.❞",
       "Translation": "`Saya@❝Hand me over 10,000 yen already.❞"
     },
     {
-      "JP": "時風@「だがおまえにとっては過酷な世界だ」",
+      "JP": "`時風@「だがおまえにとっては過酷な世界だ」",
       "EN": "`Tokikaze@❝But this is a cruel world for you.❞",
       "Translation": "`Tokikaze@❝But this is a cruel world for you.❞"
     },
     {
-      "JP": "沙耶@「ユキチに囲まれてたら幸せな世界よ」",
+      "JP": "`沙耶@「ユキチに囲まれてたら幸せな世界よ」",
       "EN": "`Saya@❝If I were surrounded by 10,000 yen notes, it'd be a happy world.❞",
       "Translation": "`Saya@❝If I were surrounded by 10,000 yen notes, it'd be a happy world.❞"
     },
     {
-      "JP": "時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
+      "JP": "`時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
       "EN": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞",
       "Translation": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞"
     },
     {
-      "JP": "う言い終えると、煙のように立ち消える。",
+      "JP": "そう言い終えると、煙のように立ち消える。",
       "EN": "The moment he finished speaking, he disappeared like smoke.",
       "Translation": "The moment he finished speaking, he disappeared like smoke."
     },
     {
-      "JP": "りあえず笑っておこう。",
+      "JP": "とりあえず笑っておこう。",
       "EN": "I had to laugh.",
       "Translation": "I had to laugh."
     },
     {
-      "JP": "沙耶@「あは…」",
+      "JP": "`沙耶@「あは…」",
       "EN": "`Saya@❝Aha...❞",
       "Translation": "`Saya@❝Aha...❞"
     },
     {
-      "JP": "沙耶@「あーはっはっはっは！」",
+      "JP": "`沙耶@「あーはっはっはっは！」",
       "EN": "`Saya@❝Ahahahaha!❞",
       "Translation": "`Saya@❝Ahahahaha!❞"
     },
     {
-      "JP": "時風@「まったく、とんだ余興だ」",
+      "JP": "`時風@「まったく、とんだ余興だ」",
       "EN": "`Tokikaze@❝That was quite a show.❞",
       "Translation": "`Tokikaze@❝That was quite a show.❞"
     },
     {
-      "JP": "沙耶@「３０回死んだ記念よ。何かちょうだい」",
+      "JP": "`沙耶@「３０回死んだ記念よ。何かちょうだい」",
       "EN": "`Saya@❝That was the 30th time I died. Give me a reward.❞",
       "Translation": "`Saya@❝That was the 30th time I died. Give me a reward.❞"
     },
     {
-      "JP": "時風@「そう。ゲームみたいなものだ」",
+      "JP": "`時風@「そう。ゲームみたいなものだ」",
       "EN": "`Tokikaze@❝Right. Think of it as a game.❞",
       "Translation": "`Tokikaze@❝Right. Think of it as a game.❞"
     },
     {
-      "JP": "沙耶@「雑誌とかで１２周年記念とか、中途半端なのに、強引に記念号にするのあるじゃない？」",
+      "JP": "`沙耶@「雑誌とかで１２周年記念とか、中途半端なのに、強引に記念号にするのあるじゃない？」",
       "EN": "`Saya@❝You know how some magazines have a 12th anniversary issue? I mean, what's so special about 12?❞",
       "Translation": "`Saya@❝You know how some magazines have a 12th anniversary issue? I mean, what's so special about 12?❞"
     },
     {
-      "JP": "時風@「また、始めるのかい」",
+      "JP": "`時風@「また、始めるのかい」",
       "EN": "`Tokikaze@❝Do you want to start over?❞",
       "Translation": "`Tokikaze@❝Do you want to start over?❞"
     },
     {
-      "JP": "沙耶@「キリ番なら１０か２０にしとけよって話で、１５だったらまだしも、１２周年ってどうなのよ？」",
+      "JP": "`沙耶@「キリ番なら１０か２０にしとけよって話で、１５だったらまだしも、１２周年ってどうなのよ？」",
       "EN": "`Saya@❝If you want a round number, go for 10 or 20. Fifteen I can still understand, but 12? Seriously.❞",
       "Translation": "`Saya@❝If you want a round number, go for 10 or 20. Fifteen I can still understand, but 12? Seriously.❞"
     },
     {
-      "JP": "時風@「だがおまえにとっては過酷な世界だ」",
+      "JP": "`時風@「だがおまえにとっては過酷な世界だ」",
       "EN": "`Tokikaze@❝But this is a cruel world for you.❞",
       "Translation": "`Tokikaze@❝But this is a cruel world for you.❞"
     },
     {
-      "JP": "沙耶@「ならもう毎年やっちゃえばいいじゃない。翌年も１３周年記念やっちゃいなさいよっ、１４周年記念もやっちゃいなさいよっ、好きにやっちゃったらいいじゃない！」",
+      "JP": "`沙耶@「ならもう毎年やっちゃえばいいじゃない。翌年も１３周年記念やっちゃいなさいよっ、１４周年記念もやっちゃいなさいよっ、好きにやっちゃったらいいじゃない！」",
       "EN": "`Saya@❝Why not have an anniversary issue every year. Then you'll have a 13th anniversary issue and next year it'll be the 14th. Just do whatever you want!❞",
       "Translation": "`Saya@❝Why not have an anniversary issue every year. Then you'll have a 13th anniversary issue and next year it'll be the 14th. Just do whatever you want!❞"
     },
     {
-      "JP": "時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
+      "JP": "`時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
       "EN": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞",
       "Translation": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞"
     },
     {
-      "JP": "う言い終えると、煙のように立ち消える。",
+      "JP": "そう言い終えると、煙のように立ち消える。",
       "EN": "The moment he finished speaking, he disappeared like smoke.",
       "Translation": "The moment he finished speaking, he disappeared like smoke."
     },
     {
-      "JP": "りあえず笑っておこう。",
+      "JP": "とりあえず笑っておこう。",
       "EN": "I had to laugh.",
       "Translation": "I had to laugh."
     },
     {
-      "JP": "沙耶@「あは…」",
+      "JP": "`沙耶@「あは…」",
       "EN": "`Saya@❝Aha...❞",
       "Translation": "`Saya@❝Aha...❞"
     },
     {
-      "JP": "沙耶@「あーはっはっはっは！」",
+      "JP": "`沙耶@「あーはっはっはっは！」",
       "EN": "`Saya@❝Ahahahaha!❞",
       "Translation": "`Saya@❝Ahahahaha!❞"
     },
     {
-      "JP": "の世界のボスが目の前に立っていた。",
+      "JP": "この世界のボスが目の前に立っていた。",
       "EN": "The boss of this world was standing before me.",
       "Translation": "The boss of this world was standing before me."
     },
     {
-      "JP": "時風@「まったく、とんだ余興だ」",
+      "JP": "`時風@「まったく、とんだ余興だ」",
       "EN": "`Tokikaze@❝That was quite a show.❞",
       "Translation": "`Tokikaze@❝That was quite a show.❞"
     },
     {
-      "JP": "時風@「そう。ゲームみたいなものだ」",
+      "JP": "`時風@「そう。ゲームみたいなものだ」",
       "EN": "`Tokikaze@❝Right. Think of it as a game.❞",
       "Translation": "`Tokikaze@❝Right. Think of it as a game.❞"
     },
     {
-      "JP": "時風@「また、始めるのかい」",
+      "JP": "`時風@「また、始めるのかい」",
       "EN": "`Tokikaze@❝Do you want to start over?❞",
       "Translation": "`Tokikaze@❝Do you want to start over?❞"
     },
     {
-      "JP": "あたしは、もちろんと頷いてみせた。",
+      "JP": "…あたしは、もちろんと頷いてみせた。",
       "EN": "...I nodded, of course.",
       "Translation": "...I nodded, of course."
     },
     {
-      "JP": "時風@「わかった。ゲームスタートといこう」",
+      "JP": "`時風@「わかった。ゲームスタートといこう」",
       "EN": "`Tokikaze@❝Understood. Game start...❞",
       "Translation": "`Tokikaze@❝Understood. Game start...❞"
     },
     {
-      "JP": "るほど、そういうことか。",
+      "JP": "なるほど、そういうことか。",
       "EN": "Oh, it dawned on me.",
       "Translation": "Oh, it dawned on me."
     },
     {
-      "JP": "りにもよって、『ゲームスタート』だなんて。",
+      "JP": "よりにもよって、『ゲームスタート』だなんて。",
       "EN": "The reason why he said ❛game start.❜",
       "Translation": "The reason why he said ❛game start.❜"
     },
     {
-      "JP": "れを口癖とするこのキャラクターを選んだ、あたしに対する皮肉。",
+      "JP": "それを口癖とするこのキャラクターを選んだ、あたしに対する皮肉。",
       "EN": "He went with the character who uses this expression as a way to mock me.",
       "Translation": "He went with the character who uses this expression as a way to mock me."
     },
     {
-      "JP": "果応報とでも言いたいのか。",
+      "JP": "因果応報とでも言いたいのか。",
       "EN": "Was he trying to say you reap what you sow?",
       "Translation": "Was he trying to say you reap what you sow?"
     },
     {
-      "JP": "ことん意地の悪い奴だ。",
+      "JP": "とことん意地の悪い奴だ。",
       "EN": "What a mean guy.",
       "Translation": "What a mean guy."
     },
     {
-      "JP": "時風@「だがおまえにとっては過酷な世界だ」",
+      "JP": "`時風@「だがおまえにとっては過酷な世界だ」",
       "EN": "`Tokikaze@❝But this is a cruel world for you.❞",
       "Translation": "`Tokikaze@❝But this is a cruel world for you.❞"
     },
     {
-      "JP": "時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
+      "JP": "`時風@「去りたくなったら、迷わず己へ向けて引き金を引くがいい」",
       "EN": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞",
       "Translation": "`Tokikaze@❝When you decide to leave, just point the gun toward yourself and pull the trigger.❞"
     },
     {
-      "JP": "沙耶@「あは…」",
+      "JP": "`沙耶@「あは…」",
       "EN": "`Saya@❝Aha...❞",
       "Translation": "`Saya@❝Aha...❞"
     },
     {
-      "JP": "沙耶@「あーはっはっはっは！」",
+      "JP": "`沙耶@「あーはっはっはっは！」",
       "EN": "`Saya@❝Ahahahaha!❞",
       "Translation": "`Saya@❝Ahahahaha!❞"
     },
     {
-      "JP": "が消えていく。霧がはれるように。",
+      "JP": "奴が消えていく。霧がはれるように。",
       "EN": "He disappeared. Just like mist.",
       "Translation": "He disappeared. Just like mist."
     },
     {
-      "JP": "すん！",
+      "JP": "ぱすん！",
       "EN": "*Pow*!",
       "Translation": "*Pow*!"
     },
     {
-      "JP": "ってやった。",
+      "JP": "撃ってやった。",
       "EN": "I shot him.",
       "Translation": "I shot him."
     },
     {
-      "JP": "、あたしがホルスターから銃を取り出した時点で、姿は消えていた。",
+      "JP": "が、あたしがホルスターから銃を取り出した時点で、姿は消えていた。",
       "EN": "But the moment I pulled the gun out of my holster, his figure disappeared.",
       "Translation": "But the moment I pulled the gun out of my holster, his figure disappeared."
     },
     {
-      "JP": "手は余裕じゃないか。",
+      "JP": "相手は余裕じゃないか。",
       "EN": "He was so full of confidence.",
       "Translation": "He was so full of confidence."
     },
     {
-      "JP": "全になめられている。",
+      "JP": "完全になめられている。",
       "EN": "He was badly underestimating me.",
       "Translation": "He was badly underestimating me."
     },
     {
-      "JP": "ってやるも、いつもの通りその姿は霧散する。",
+      "JP": "撃ってやるも、いつもの通りその姿は霧散する。",
       "EN": "Even if I managed to shoot, his figure just dispersed like usual.",
       "Translation": "Even if I managed to shoot, his figure just dispersed like usual."
     },
     {
-      "JP": "沙耶@「あは…」",
+      "JP": "`沙耶@「あは…」",
       "EN": "`Saya@❝Aha...❞",
       "Translation": "`Saya@❝Aha...❞"
     },
     {
-      "JP": "沙耶@「あーはっはっはっは！」",
+      "JP": "`沙耶@「あーはっはっはっは！」",
       "EN": "`Saya@❝Ahahahaha!❞",
       "Translation": "`Saya@❝Ahahahaha!❞"
     },
     {
-      "JP": "いわ。あたしの執念を見せつけてやる。",
+      "JP": "いいわ。あたしの執念を見せつけてやる。",
       "EN": "That was fine. I'd show him my tenacity.",
       "Translation": "That was fine. I'd show him my tenacity."
     },
     {
-      "JP": "沙耶@「んなことするかっ！」",
+      "JP": "`沙耶@「んなことするかっ！」",
       "EN": "`Saya@❝I'm not gonna do that!❞",
       "Translation": "`Saya@❝I'm not gonna do that!❞"
     },
     {
-      "JP": "沙耶@「うせろっ、このやろおおおおおぉぉぉぉーーっ!!」",
+      "JP": "`沙耶@「うせろっ、このやろおおおおおぉぉぉぉーーっ!!」",
       "EN": "`Saya@❝Get out of my sight, you bastaaaaaaard―!!❞",
       "Translation": "`Saya@❝Get out of my sight, you bastaaaaaaard―!!❞"
     },
     {
-      "JP": "えた。",
+      "JP": "消えた。",
       "EN": "He disappeared.",
       "Translation": "He disappeared."
     },
     {
-      "JP": "然倒したわけじゃない。",
+      "JP": "当然倒したわけじゃない。",
       "EN": "Of course, I didn't defeat him.",
       "Translation": "Of course, I didn't defeat him."
     },
     {
-      "JP": "ち去っただけだ。",
+      "JP": "立ち去っただけだ。",
       "EN": "He had decided to leave.",
       "Translation": "He had decided to leave."
     },
     {
-      "JP": "れは…ゲーム。",
+      "JP": "これは…ゲーム。",
       "EN": "This was... a game.",
       "Translation": "This was... a game."
     },
     {
-      "JP": "んなもんじゃない。",
+      "JP": "そんなもんじゃない。",
       "EN": "Wasn't it?",
       "Translation": "Wasn't it?"
     },
     {
-      "JP": "たしにとっては、これがすべてなんだ。",
+      "JP": "あたしにとっては、これがすべてなんだ。",
       "EN": "For me, this was everything.",
       "Translation": "For me, this was everything."
     },
     {
-      "JP": "こに居るあたしがすべて。",
+      "JP": "ここに居るあたしがすべて。",
       "EN": "Me being here was everything.",
       "Translation": "Me being here was everything."
     },
     {
-      "JP": "にも先にも何もない。",
+      "JP": "後にも先にも何もない。",
       "EN": "I had no future.",
       "Translation": "I had no future."
     },
     {
-      "JP": "だけがあたしなんだ。",
+      "JP": "今だけがあたしなんだ。",
       "EN": "Only the me right then and there.",
       "Translation": "Only the me right then and there."
     },
     {
-      "JP": "ＡＭＥ　ＳＴＡＲＴなんて演出まで用意されて、完全に舐められてる。",
+      "JP": "ＧＡＭＥ　ＳＴＡＲＴなんて演出まで用意されて、完全に舐められてる。",
       "EN": "To go as far as to prepare a GAME START sign, he was very much mocking me.",
       "Translation": "To go as far as to prepare a GAME START sign, he was very much mocking me."
     },
     {
-      "JP": "うはいくか。",
+      "JP": "そうはいくか。",
       "EN": "I wouldn't let him have it his way.",
       "Translation": "I wouldn't let him have it his way."
     },
     {
-      "JP": "っちは本気なんだ。",
+      "JP": "こっちは本気なんだ。",
       "EN": "I was serious.",
       "Translation": "I was serious."
     },
     {
-      "JP": "たしはあたしの欲しいものを手に入れる。",
+      "JP": "あたしはあたしの欲しいものを手に入れる。",
       "EN": "I was determined to get my hands on what I want.",
       "Translation": "I was determined to get my hands on what I want."
     },
     {
-      "JP": "しんでる余裕なんてなかった、と後悔させてやろう。",
+      "JP": "楽しんでる余裕なんてなかった、と後悔させてやろう。",
       "EN": "I would make him regret taking me lightly.",
       "Translation": "I would make him regret taking me lightly."
     },
     {
-      "JP": "沙耶@「あは…」",
+      "JP": "`沙耶@「あは…」",
       "EN": "`Saya@❝Aha...❞",
       "Translation": "`Saya@❝Aha...❞"
     },
     {
-      "JP": "沙耶@「あーはっはっはっは！」",
+      "JP": "`沙耶@「あーはっはっはっは！」",
       "EN": "`Saya@❝Ahahahaha!❞",
       "Translation": "`Saya@❝Ahahahaha!❞"
     },
     {
-      "JP": "と、声に出して笑っちゃまずいわ。",
+      "JP": "っと、声に出して笑っちゃまずいわ。",
       "EN": "Crap, I laughed out loud.",
       "Translation": "Crap, I laughed out loud."
     },
     {
-      "JP": "ろそろ時間だもの。",
+      "JP": "そろそろ時間だもの。",
       "EN": "It was almost time.",
       "Translation": "It was almost time."
     },
     {
-      "JP": "樹くんがやってくるのを待つ。",
+      "JP": "理樹くんがやってくるのを待つ。",
       "EN": "I waited for the time when Riki-kun would come.",
       "Translation": "I waited for the time when Riki-kun would come."
     },
     {
-      "JP": "沙耶@「この学園の生徒だな…なぜこんな時間にいる」",
+      "JP": "`沙耶@「この学園の生徒だな…なぜこんな時間にいる」",
       "EN": "`Saya@❝You are a student from this school... Why are you here at this hour?❞",
       "Translation": "`Saya@❝You are a student from this school... Why are you here at this hour?❞"
     },
     {
-      "JP": "の中で彼を取り押さえ…",
+      "JP": "闇の中で彼を取り押さえ…",
       "EN": "I seized him in the darkness...",
       "Translation": "I seized him in the darkness..."
     },
     {
-      "JP": "沙耶@「手を離したら、スタートだ。いいな」",
+      "JP": "`沙耶@「手を離したら、スタートだ。いいな」",
       "EN": "`Saya@❝Once I let go of your arms, start running. Got that?❞",
       "Translation": "`Saya@❝Once I let go of your arms, start running. Got that?❞"
     },
     {
-      "JP": "して解放。",
+      "JP": "そして解放。",
       "EN": "I then released him.",
       "Translation": "I then released him."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "音が聞こえた。",
+      "JP": "足音が聞こえた。",
       "EN": "I heard footsteps.",
       "Translation": "I heard footsteps."
     },
     {
-      "JP": "たしは闇の中を跳び、その音の方へ向かう。",
+      "JP": "あたしは闇の中を跳び、その音の方へ向かう。",
       "EN": "I jumped in the darkness and headed toward the direction of the sound.",
       "Translation": "I jumped in the darkness and headed toward the direction of the sound."
     },
     {
-      "JP": "年が緊張したようにびくびくしながら歩いている。",
+      "JP": "少年が緊張したようにびくびくしながら歩いている。",
       "EN": "It was a nervous looking boy, walking timidly.",
       "Translation": "It was a nervous looking boy, walking timidly."
     },
     {
-      "JP": "っちに気づいたようだが、時既に遅し。",
+      "JP": "こっちに気づいたようだが、時既に遅し。",
       "EN": "He noticed me now, but it was too late.",
       "Translation": "He noticed me now, but it was too late."
     },
     {
-      "JP": "年を背後から取り押さえていた。",
+      "JP": "少年を背後から取り押さえていた。",
       "EN": "I seized him from behind.",
       "Translation": "I seized him from behind."
     },
     {
-      "JP": "沙耶@「この学園の生徒だな…なぜこんな時間にいる」",
+      "JP": "`沙耶@「この学園の生徒だな…なぜこんな時間にいる」",
       "EN": "`Saya@❝You are a student from this school... Why are you here at this hour?❞",
       "Translation": "`Saya@❝You are a student from this school... Why are you here at this hour?❞"
     },
     {
-      "JP": "調はできるだけ簡素に、訊く。",
+      "JP": "口調はできるだけ簡素に、訊く。",
       "EN": "I asked him as simply as possible.",
       "Translation": "I asked him as simply as possible."
     },
     {
-      "JP": "理樹@「教室に忘れたノートを取りにきたんですけど…」",
+      "JP": "`理樹@「教室に忘れたノートを取りにきたんですけど…」",
       "EN": "`Riki@❝I was on my way to my classroom to get my notebook...❞",
       "Translation": "`Riki@❝I was on my way to my classroom to get my notebook...❞"
     },
     {
-      "JP": "抗はまったくない。",
+      "JP": "抵抗はまったくない。",
       "EN": "He didn't resist at all.",
       "Translation": "He didn't resist at all."
     },
     {
-      "JP": "沙耶@「振り返らずに、廊下を走りきり正面の非常ドアから外に出られるか？」",
+      "JP": "`沙耶@「振り返らずに、廊下を走りきり正面の非常ドアから外に出られるか？」",
       "EN": "`Saya@❝Do you think you'll be able to run straight down the hallway and get outside from the emergency exit door in front without turning around?❞",
       "Translation": "`Saya@❝Do you think you'll be able to run straight down the hallway and get outside from the emergency exit door in front without turning around?❞"
     },
     {
-      "JP": "理樹@「非常ドアを開けるのには手間取るかもしれませんが…」",
+      "JP": "`理樹@「非常ドアを開けるのには手間取るかもしれませんが…」",
       "EN": "`Riki@❝Yes, but I think getting the door open would be a bit hard...❞",
       "Translation": "`Riki@❝Yes, but I think getting the door open would be a bit hard...❞"
     },
     {
-      "JP": "沙耶@「普通に開く」",
+      "JP": "`沙耶@「普通に開く」",
       "EN": "`Saya@❝It'll open easily.❞",
       "Translation": "`Saya@❝It'll open easily.❞"
     },
     {
-      "JP": "理樹@「どうも…」",
+      "JP": "`理樹@「どうも…」",
       "EN": "`Riki@❝Thanks for the info...❞",
       "Translation": "`Riki@❝Thanks for the info...❞"
     },
     {
-      "JP": "沙耶@「手を離したら、スタートだ。いいな」",
+      "JP": "`沙耶@「手を離したら、スタートだ。いいな」",
       "EN": "`Saya@❝Once I let go of your arms, start running. Got that?❞",
       "Translation": "`Saya@❝Once I let go of your arms, start running. Got that?❞"
     },
     {
-      "JP": "を離した。",
+      "JP": "手を離した。",
       "EN": "I let go of his hands.",
       "Translation": "I let go of his hands."
     },
     {
-      "JP": "格好に走り出す少年。",
+      "JP": "不格好に走り出す少年。",
       "EN": "The boy, though unsteady on his feet, ran.",
       "Translation": "The boy, though unsteady on his feet, ran."
     },
     {
-      "JP": "がドアを閉ざすと同時、それらは現れた。",
+      "JP": "彼がドアを閉ざすと同時、それらは現れた。",
       "EN": "Right as he closed the door, they appeared.",
       "Translation": "Right as he closed the door, they appeared."
     },
     {
-      "JP": "たしは立て続けに、二丁の拳銃の弾を撃ち尽くす。",
+      "JP": "あたしは立て続けに、二丁の拳銃の弾を撃ち尽くす。",
       "EN": "I took out both of my guns and opened fire.",
       "Translation": "I took out both of my guns and opened fire."
     },
     {
-      "JP": "う立っている者はいなかった。",
+      "JP": "もう立っている者はいなかった。",
       "EN": "There was no one left standing.",
       "Translation": "There was no one left standing."
     },
     {
-      "JP": "沙耶@「うっわー、つえぇ…」",
+      "JP": "`沙耶@「うっわー、つえぇ…」",
       "EN": "`Saya@❝Woah, awesome..❞",
       "Translation": "`Saya@❝Woah, awesome..❞"
     },
     {
-      "JP": "の場にしゃがみ込んでしまう。",
+      "JP": "その場にしゃがみ込んでしまう。",
       "EN": "I bent down where I was.",
       "Translation": "I bent down where I was."
     },
     {
-      "JP": "以上に体力を奪われた気がする…。",
+      "JP": "前以上に体力を奪われた気がする…。",
       "EN": "I felt more exhausted than ever before...",
       "Translation": "I felt more exhausted than ever before..."
     },
     {
-      "JP": "かもあの人数…。",
+      "JP": "しかもあの人数…。",
       "EN": "And why were there so many enemies...",
       "Translation": "And why were there so many enemies..."
     },
     {
-      "JP": "下迷宮に入る前からこれだけの手勢って…",
+      "JP": "地下迷宮に入る前からこれだけの手勢って…",
       "EN": "So many before entering the maze...",
       "Translation": "So many before entering the maze..."
     },
     {
-      "JP": "沙耶@「ああ、想像するだけでも頭が重い…」",
+      "JP": "`沙耶@「ああ、想像するだけでも頭が重い…」",
       "EN": "`Saya@❝Ah, just thinking about it makes my head hurt...❞",
       "Translation": "`Saya@❝Ah, just thinking about it makes my head hurt...❞"
     },
     {
-      "JP": "たしはようやく腰を上げる。",
+      "JP": "あたしはようやく腰を上げる。",
       "EN": "I finally stood up.",
       "Translation": "I finally stood up."
     },
     {
-      "JP": "沙耶@「ああ、忘れるとこだった」",
+      "JP": "`沙耶@「ああ、忘れるとこだった」",
       "EN": "`Saya@❝Oh, almost forgot.❞",
       "Translation": "`Saya@❝Oh, almost forgot.❞"
     },
     {
-      "JP": "沙耶@「あらよっと」",
+      "JP": "`沙耶@「あらよっと」",
       "EN": "`Saya@❝There you go.❞",
       "Translation": "`Saya@❝There you go.❞"
     },
     {
-      "JP": "着のポケットからそれを取り出して、無造作に放り投げた。",
+      "JP": "上着のポケットからそれを取り出して、無造作に放り投げた。",
       "EN": "I took ❛that❜ out of my coat pocket, and casually dropped it.",
       "Translation": "I took ❛that❜ out of my coat pocket, and casually dropped it."
     }

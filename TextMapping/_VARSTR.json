@@ -1,0 +1,2332 @@
+{
+  "VARSTR_SET": [
+    {
+      "Text": "朱鷺戸",
+      "Translation": "朱鷺戸"
+    },
+    {
+      "Text": "Tokido",
+      "Translation": "Tokido"
+    },
+    {
+      "Text": "朱鷺戸さん",
+      "Translation": "朱鷺戸さん"
+    },
+    {
+      "Text": "Tokido-san",
+      "Translation": "Tokido-san"
+    },
+    {
+      "Text": "５月１３日（日）",
+      "Translation": "５月１３日（日）"
+    },
+    {
+      "Text": "May 13th (Sun)",
+      "Translation": "May 13th (Sun)"
+    },
+    {
+      "Text": "５月１４日（月）",
+      "Translation": "５月１４日（月）"
+    },
+    {
+      "Text": "May 14th (Mon)",
+      "Translation": "May 14th (Mon)"
+    },
+    {
+      "Text": "",
+      "Translation": ""
+    },
+    {
+      "Text": "５月１５日（火）",
+      "Translation": "５月１５日（火）"
+    },
+    {
+      "Text": "May 15th (Tue)",
+      "Translation": "May 15th (Tue)"
+    },
+    {
+      "Text": "５月１６日（水）",
+      "Translation": "５月１６日（水）"
+    },
+    {
+      "Text": "May 16th (Wed)",
+      "Translation": "May 16th (Wed)"
+    },
+    {
+      "Text": "５月１７日（木）",
+      "Translation": "５月１７日（木）"
+    },
+    {
+      "Text": "May 17th (Thu)",
+      "Translation": "May 17th (Thu)"
+    },
+    {
+      "Text": "５月１８日（金）",
+      "Translation": "５月１８日（金）"
+    },
+    {
+      "Text": "May 18th (Fri)",
+      "Translation": "May 18th (Fri)"
+    },
+    {
+      "Text": "５月１９日（土）",
+      "Translation": "５月１９日（土）"
+    },
+    {
+      "Text": "May 19th (Sat)",
+      "Translation": "May 19th (Sat)"
+    },
+    {
+      "Text": "５月２０日（日）",
+      "Translation": "５月２０日（日）"
+    },
+    {
+      "Text": "May 20th (Sun)",
+      "Translation": "May 20th (Sun)"
+    },
+    {
+      "Text": "５月２１日（月）",
+      "Translation": "５月２１日（月）"
+    },
+    {
+      "Text": "May 21st (Mon)",
+      "Translation": "May 21st (Mon)"
+    },
+    {
+      "Text": "５月２２日（火）",
+      "Translation": "５月２２日（火）"
+    },
+    {
+      "Text": "May 22nd (Tue)",
+      "Translation": "May 22nd (Tue)"
+    },
+    {
+      "Text": "５月２３日（水）",
+      "Translation": "５月２３日（水）"
+    },
+    {
+      "Text": "May 23rd (Wed)",
+      "Translation": "May 23rd (Wed)"
+    },
+    {
+      "Text": "５月２４日（木）",
+      "Translation": "５月２４日（木）"
+    },
+    {
+      "Text": "May 24th (Thu)",
+      "Translation": "May 24th (Thu)"
+    },
+    {
+      "Text": "５月２５日（金）",
+      "Translation": "５月２５日（金）"
+    },
+    {
+      "Text": "May 25th (Fri)",
+      "Translation": "May 25th (Fri)"
+    },
+    {
+      "Text": "５月２６日（土）",
+      "Translation": "５月２６日（土）"
+    },
+    {
+      "Text": "May 26th (Sat)",
+      "Translation": "May 26th (Sat)"
+    },
+    {
+      "Text": "５月２７日（日）",
+      "Translation": "５月２７日（日）"
+    },
+    {
+      "Text": "May 27th (Sun)",
+      "Translation": "May 27th (Sun)"
+    },
+    {
+      "Text": "５月２８日（月）",
+      "Translation": "５月２８日（月）"
+    },
+    {
+      "Text": "May 28th (Mon)",
+      "Translation": "May 28th (Mon)"
+    },
+    {
+      "Text": "小毬",
+      "Translation": "小毬"
+    },
+    {
+      "Text": "Komari",
+      "Translation": "Komari"
+    },
+    {
+      "Text": "５月２９日（火）",
+      "Translation": "５月２９日（火）"
+    },
+    {
+      "Text": "May 29th (Tue)",
+      "Translation": "May 29th (Tue)"
+    },
+    {
+      "Text": "１０月２３日（火）",
+      "Translation": "１０月２３日（火）"
+    },
+    {
+      "Text": "October 23rd (Tue)",
+      "Translation": "October 23rd (Tue)"
+    },
+    {
+      "Text": "佐々美",
+      "Translation": "佐々美"
+    },
+    {
+      "Text": "Sasami",
+      "Translation": "Sasami"
+    },
+    {
+      "Text": "鈴",
+      "Translation": "鈴"
+    },
+    {
+      "Text": "Rin",
+      "Translation": "Rin"
+    },
+    {
+      "Text": "Episode:真人",
+      "Translation": "Episode:真人"
+    },
+    {
+      "Text": "Episode: Masato",
+      "Translation": "Episode: Masato"
+    },
+    {
+      "Text": "Episode:謙吾",
+      "Translation": "Episode:謙吾"
+    },
+    {
+      "Text": "Episode: Kengo",
+      "Translation": "Episode: Kengo"
+    },
+    {
+      "Text": "Episode:恭介",
+      "Translation": "Episode:恭介"
+    },
+    {
+      "Text": "Episode: Kyousuke",
+      "Translation": "Episode: Kyousuke"
+    },
+    {
+      "Text": "Last Episode:Little Busters",
+      "Translation": "Last Episode:Little Busters"
+    },
+    {
+      "Text": "Last Episode: Little Busters",
+      "Translation": "Last Episode: Little Busters"
+    },
+    {
+      "Text": "修学旅行",
+      "Translation": "修学旅行"
+    },
+    {
+      "Text": "Field Trip",
+      "Translation": "Field Trip"
+    },
+    {
+      "Text": "Epilogue",
+      "Translation": "Epilogue"
+    },
+    {
+      "Text": "Episode:鈴",
+      "Translation": "Episode:鈴"
+    },
+    {
+      "Text": "Episode: Rin",
+      "Translation": "Episode: Rin"
+    },
+    {
+      "Text": "Episode:理樹",
+      "Translation": "Episode:理樹"
+    },
+    {
+      "Text": "Episode: Riki",
+      "Translation": "Episode: Riki"
+    },
+    {
+      "Text": "最後のゆめ",
+      "Translation": "最後のゆめ"
+    },
+    {
+      "Text": "The Last Dream",
+      "Translation": "The Last Dream"
+    },
+    {
+      "Text": "沙耶",
+      "Translation": "沙耶"
+    },
+    {
+      "Text": "Saya",
+      "Translation": "Saya"
+    },
+    {
+      "Text": "５月１８日(金)Ｂ１Ｆ",
+      "Translation": "５月１８日(金)Ｂ１Ｆ"
+    },
+    {
+      "Text": "May 18th (Fri) B1F",
+      "Translation": "May 18th (Fri) B1F"
+    },
+    {
+      "Text": "５月１８日(金)Ｂ２Ｆ",
+      "Translation": "５月１８日(金)Ｂ２Ｆ"
+    },
+    {
+      "Text": "May 18th (Fri) B2F",
+      "Translation": "May 18th (Fri) B2F"
+    },
+    {
+      "Text": "５月１９日(土)Ｂ３Ｆ",
+      "Translation": "５月１９日(土)Ｂ３Ｆ"
+    },
+    {
+      "Text": "May 19th (Sat) B3F",
+      "Translation": "May 19th (Sat) B3F"
+    },
+    {
+      "Text": "５月１９日(土)Ｂ４Ｆ",
+      "Translation": "５月１９日(土)Ｂ４Ｆ"
+    },
+    {
+      "Text": "May 19th (Sat) B4F",
+      "Translation": "May 19th (Sat) B4F"
+    },
+    {
+      "Text": "５月２０日(日)Ｂ５Ｆ",
+      "Translation": "５月２０日(日)Ｂ５Ｆ"
+    },
+    {
+      "Text": "May 20th (Sun) B5F",
+      "Translation": "May 20th (Sun) B5F"
+    },
+    {
+      "Text": "５月２０日(日)Ｂ６Ｆ",
+      "Translation": "５月２０日(日)Ｂ６Ｆ"
+    },
+    {
+      "Text": "May 20th (Sun) B6F",
+      "Translation": "May 20th (Sun) B6F"
+    },
+    {
+      "Text": "５月２２日(火)Ｂ７Ｆ",
+      "Translation": "５月２２日(火)Ｂ７Ｆ"
+    },
+    {
+      "Text": "May 22th (Tue) B7F",
+      "Translation": "May 22th (Tue) B7F"
+    },
+    {
+      "Text": "５月２２日(火)Ｂ８Ｆ",
+      "Translation": "５月２２日(火)Ｂ８Ｆ"
+    },
+    {
+      "Text": "May 22th (Tue) B8F",
+      "Translation": "May 22th (Tue) B8F"
+    },
+    {
+      "Text": "５月２３日(水)Ｂ８Ｆ",
+      "Translation": "５月２３日(水)Ｂ８Ｆ"
+    },
+    {
+      "Text": "May 23th (Wed) B8F",
+      "Translation": "May 23th (Wed) B8F"
+    },
+    {
+      "Text": "05/24(Thu)",
+      "Translation": "05/24(Thu)"
+    },
+    {
+      "Text": "リプレイ（$V(#6035)）",
+      "Translation": "リプレイ（$V(#6035)）"
+    },
+    {
+      "Text": "Replay ($v(#6035))",
+      "Translation": "Replay ($v(#6035))"
+    },
+    {
+      "Text": "リプレイ（$V(#6035)）Ｂ１Ｆ",
+      "Translation": "リプレイ（$V(#6035)）Ｂ１Ｆ"
+    },
+    {
+      "Text": "Replay ($v(#6035)) B1F",
+      "Translation": "Replay ($v(#6035)) B1F"
+    },
+    {
+      "Text": "リプレイ（$V(#6035)）Ｂ２Ｆ",
+      "Translation": "リプレイ（$V(#6035)）Ｂ２Ｆ"
+    },
+    {
+      "Text": "Replay ($v(#6035)) B2F",
+      "Translation": "Replay ($v(#6035)) B2F"
+    },
+    {
+      "Text": "リプレイ（$V(#6035)）Ｂ３Ｆ",
+      "Translation": "リプレイ（$V(#6035)）Ｂ３Ｆ"
+    },
+    {
+      "Text": "Replay ($v(#6035)) B3F",
+      "Translation": "Replay ($v(#6035)) B3F"
+    },
+    {
+      "Text": "リプレイ（$V(#6035)）Ｂ４Ｆ",
+      "Translation": "リプレイ（$V(#6035)）Ｂ４Ｆ"
+    },
+    {
+      "Text": "Replay ($v(#6035)) B4F",
+      "Translation": "Replay ($v(#6035)) B4F"
+    },
+    {
+      "Text": "リプレイ（$V(#6035)）Ｂ５Ｆ",
+      "Translation": "リプレイ（$V(#6035)）Ｂ５Ｆ"
+    },
+    {
+      "Text": "Replay ($v(#6035)) B5F",
+      "Translation": "Replay ($v(#6035)) B5F"
+    },
+    {
+      "Text": "リプレイ（$V(#6035)）Ｂ６Ｆ",
+      "Translation": "リプレイ（$V(#6035)）Ｂ６Ｆ"
+    },
+    {
+      "Text": "Replay ($v(#6035)) B6F",
+      "Translation": "Replay ($v(#6035)) B6F"
+    },
+    {
+      "Text": "リプレイ（$V(#6035)）Ｂ７Ｆ",
+      "Translation": "リプレイ（$V(#6035)）Ｂ７Ｆ"
+    },
+    {
+      "Text": "Replay ($v(#6035)) B7F",
+      "Translation": "Replay ($v(#6035)) B7F"
+    },
+    {
+      "Text": "リプレイ（$V(#6035)）Ｂ８Ｆ",
+      "Translation": "リプレイ（$V(#6035)）Ｂ８Ｆ"
+    },
+    {
+      "Text": "Replay ($v(#6035)) B8F",
+      "Translation": "Replay ($v(#6035)) B8F"
+    },
+    {
+      "Text": "あや",
+      "Translation": "あや"
+    },
+    {
+      "Text": "Aya",
+      "Translation": "Aya"
+    },
+    {
+      "Text": "スクレボＥＮＤ",
+      "Translation": "スクレボＥＮＤ"
+    },
+    {
+      "Text": "School Revolution END",
+      "Translation": "School Revolution END"
+    },
+    {
+      "Text": "葉留佳",
+      "Translation": "葉留佳"
+    },
+    {
+      "Text": "Haruka",
+      "Translation": "Haruka"
+    },
+    {
+      "Text": "佳奈多",
+      "Translation": "佳奈多"
+    },
+    {
+      "Text": "Kanata",
+      "Translation": "Kanata"
+    },
+    {
+      "Text": "クドリャフカ",
+      "Translation": "クドリャフカ"
+    },
+    {
+      "Text": "Kudryavka",
+      "Translation": "Kudryavka"
+    },
+    {
+      "Text": "ファイナル筋肉",
+      "Translation": "ファイナル筋肉"
+    },
+    {
+      "Text": "Final Muscle",
+      "Translation": "Final Muscle"
+    },
+    {
+      "Text": "来ヶ谷",
+      "Translation": "来ヶ谷"
+    },
+    {
+      "Text": "Kurugaya",
+      "Translation": "Kurugaya"
+    },
+    {
+      "Text": "美魚",
+      "Translation": "美魚"
+    },
+    {
+      "Text": "Mio",
+      "Translation": "Mio"
+    },
+    {
+      "Text": "クド",
+      "Translation": "クド"
+    },
+    {
+      "Text": "Kud",
+      "Translation": "Kud"
+    },
+    {
+      "Text": "理樹",
+      "Translation": "理樹"
+    },
+    {
+      "Text": "Riki",
+      "Translation": "Riki"
+    },
+    {
+      "Text": "真人",
+      "Translation": "真人"
+    },
+    {
+      "Text": "Masato",
+      "Translation": "Masato"
+    },
+    {
+      "Text": "謙吾",
+      "Translation": "謙吾"
+    },
+    {
+      "Text": "Kengo",
+      "Translation": "Kengo"
+    },
+    {
+      "Text": "恭介",
+      "Translation": "恭介"
+    },
+    {
+      "Text": "Kyousuke",
+      "Translation": "Kyousuke"
+    },
+    {
+      "Text": "陸上部主将",
+      "Translation": "陸上部主将"
+    },
+    {
+      "Text": "Athletics Club Captain",
+      "Translation": "Athletics Club Captain"
+    },
+    {
+      "Text": "サッカー部主将",
+      "Translation": "サッカー部主将"
+    },
+    {
+      "Text": "Soccer Club Captain",
+      "Translation": "Soccer Club Captain"
+    },
+    {
+      "Text": "空手部主将",
+      "Translation": "空手部主将"
+    },
+    {
+      "Text": "Karate Club Captain",
+      "Translation": "Karate Club Captain"
+    },
+    {
+      "Text": "剣道部主将",
+      "Translation": "剣道部主将"
+    },
+    {
+      "Text": "Kendo Club Captain",
+      "Translation": "Kendo Club Captain"
+    },
+    {
+      "Text": "柔道部主将",
+      "Translation": "柔道部主将"
+    },
+    {
+      "Text": "Judo Club Captain",
+      "Translation": "Judo Club Captain"
+    },
+    {
+      "Text": "バスケ部主将",
+      "Translation": "バスケ部主将"
+    },
+    {
+      "Text": "Basketball Club Captain",
+      "Translation": "Basketball Club Captain"
+    },
+    {
+      "Text": "テニス部主将",
+      "Translation": "テニス部主将"
+    },
+    {
+      "Text": "Tennis Club Captain",
+      "Translation": "Tennis Club Captain"
+    },
+    {
+      "Text": "野球部主将",
+      "Translation": "野球部主将"
+    },
+    {
+      "Text": "Baseball Club Captain",
+      "Translation": "Baseball Club Captain"
+    },
+    {
+      "Text": "卓球部主将",
+      "Translation": "卓球部主将"
+    },
+    {
+      "Text": "Ping Pong Club Captain",
+      "Translation": "Ping Pong Club Captain"
+    },
+    {
+      "Text": "棗 鈴",
+      "Translation": "棗 鈴"
+    },
+    {
+      "Text": "Rin Natsume",
+      "Translation": "Rin Natsume"
+    },
+    {
+      "Text": "神北 小毬",
+      "Translation": "神北 小毬"
+    },
+    {
+      "Text": "Komari Kamikita",
+      "Translation": "Komari Kamikita"
+    },
+    {
+      "Text": "来ヶ谷 唯湖",
+      "Translation": "来ヶ谷 唯湖"
+    },
+    {
+      "Text": "Yuiko Kurugaya",
+      "Translation": "Yuiko Kurugaya"
+    },
+    {
+      "Text": "能美 クドリャフカ",
+      "Translation": "能美 クドリャフカ"
+    },
+    {
+      "Text": "Kudryavka Noumi",
+      "Translation": "Kudryavka Noumi"
+    },
+    {
+      "Text": "三枝 葉留佳",
+      "Translation": "三枝 葉留佳"
+    },
+    {
+      "Text": "Haruka Saigusa",
+      "Translation": "Haruka Saigusa"
+    },
+    {
+      "Text": "西園 美魚",
+      "Translation": "西園 美魚"
+    },
+    {
+      "Text": "Mio Nishizono",
+      "Translation": "Mio Nishizono"
+    },
+    {
+      "Text": "直枝 理樹",
+      "Translation": "直枝 理樹"
+    },
+    {
+      "Text": "Riki Naoe",
+      "Translation": "Riki Naoe"
+    },
+    {
+      "Text": "井ノ原 真人",
+      "Translation": "井ノ原 真人"
+    },
+    {
+      "Text": "Masato Inohara",
+      "Translation": "Masato Inohara"
+    },
+    {
+      "Text": "宮沢 謙吾",
+      "Translation": "宮沢 謙吾"
+    },
+    {
+      "Text": "Kengo Miyazawa",
+      "Translation": "Kengo Miyazawa"
+    },
+    {
+      "Text": "棗 恭介",
+      "Translation": "棗 恭介"
+    },
+    {
+      "Text": "Kyousuke Natsume",
+      "Translation": "Kyousuke Natsume"
+    },
+    {
+      "Text": "『投げつける』",
+      "Translation": "『投げつける』"
+    },
+    {
+      "Text": "❝throw❞",
+      "Translation": "❝throw❞"
+    },
+    {
+      "Text": "『蹴りつける』",
+      "Translation": "『蹴りつける』"
+    },
+    {
+      "Text": "❝kick❞",
+      "Translation": "❝kick❞"
+    },
+    {
+      "Text": "『叩く』",
+      "Translation": "『叩く』"
+    },
+    {
+      "Text": "❝hit❞",
+      "Translation": "❝hit❞"
+    },
+    {
+      "Text": "『押しつける』",
+      "Translation": "『押しつける』"
+    },
+    {
+      "Text": "❝apply❞",
+      "Translation": "❝apply❞"
+    },
+    {
+      "Text": "『手で戦わせる』",
+      "Translation": "『手で戦わせる』"
+    },
+    {
+      "Text": "❝manipulate❞",
+      "Translation": "❝manipulate❞"
+    },
+    {
+      "Text": "『乗ってぶつかる』",
+      "Translation": "『乗ってぶつかる』"
+    },
+    {
+      "Text": "❝charge❞",
+      "Translation": "❝charge❞"
+    },
+    {
+      "Text": "『踊る』",
+      "Translation": "『踊る』"
+    },
+    {
+      "Text": "❝dance❞",
+      "Translation": "❝dance❞"
+    },
+    {
+      "Text": "『はたく』",
+      "Translation": "『はたく』"
+    },
+    {
+      "Text": "『斬る』",
+      "Translation": "『斬る』"
+    },
+    {
+      "Text": "❝slash❞",
+      "Translation": "❝slash❞"
+    },
+    {
+      "Text": "『差し出す』",
+      "Translation": "『差し出す』"
+    },
+    {
+      "Text": "❝present❞",
+      "Translation": "❝present❞"
+    },
+    {
+      "Text": "『かぶせる』",
+      "Translation": "『かぶせる』"
+    },
+    {
+      "Text": "❝cover❞",
+      "Translation": "❝cover❞"
+    },
+    {
+      "Text": "『撃つ』",
+      "Translation": "『撃つ』"
+    },
+    {
+      "Text": "❝shoot❞",
+      "Translation": "❝shoot❞"
+    },
+    {
+      "Text": "『膨らませる』",
+      "Translation": "『膨らませる』"
+    },
+    {
+      "Text": "❝inflate❞",
+      "Translation": "❝inflate❞"
+    },
+    {
+      "Text": "『罠を仕掛ける』",
+      "Translation": "『罠を仕掛ける』"
+    },
+    {
+      "Text": "❝set trap❞",
+      "Translation": "❝set trap❞"
+    },
+    {
+      "Text": "『泡立てる』",
+      "Translation": "『泡立てる』"
+    },
+    {
+      "Text": "❝suds up❞",
+      "Translation": "❝suds up❞"
+    },
+    {
+      "Text": "『足下を払う』",
+      "Translation": "『足下を払う』"
+    },
+    {
+      "Text": "❝leg sweep❞",
+      "Translation": "❝leg sweep❞"
+    },
+    {
+      "Text": "『花火を仕掛ける』",
+      "Translation": "『花火を仕掛ける』"
+    },
+    {
+      "Text": "❝launch firework❞",
+      "Translation": "❝launch firework❞"
+    },
+    {
+      "Text": "『走らせてぶつける』",
+      "Translation": "『走らせてぶつける』"
+    },
+    {
+      "Text": "❝hit-and-run❞",
+      "Translation": "❝hit-and-run❞"
+    },
+    {
+      "Text": "『組み立ててぶつける』",
+      "Translation": "『組み立ててぶつける』"
+    },
+    {
+      "Text": "❝fold and throw❞",
+      "Translation": "❝fold and throw❞"
+    },
+    {
+      "Text": "『貼り付ける』",
+      "Translation": "『貼り付ける』"
+    },
+    {
+      "Text": "❝stick to❞",
+      "Translation": "❝stick to❞"
+    },
+    {
+      "Text": "『塗り付ける』",
+      "Translation": "『塗り付ける』"
+    },
+    {
+      "Text": "❝smear❞",
+      "Translation": "❝smear❞"
+    },
+    {
+      "Text": "『歯を磨く』",
+      "Translation": "『歯を磨く』"
+    },
+    {
+      "Text": "❝brush teeth❞",
+      "Translation": "❝brush teeth❞"
+    },
+    {
+      "Text": "『摘む』",
+      "Translation": "『摘む』"
+    },
+    {
+      "Text": "❝pinch❞",
+      "Translation": "❝pinch❞"
+    },
+    {
+      "Text": "『挟む』",
+      "Translation": "『挟む』"
+    },
+    {
+      "Text": "❝clip on❞",
+      "Translation": "❝clip on❞"
+    },
+    {
+      "Text": "『刺す』",
+      "Translation": "『刺す』"
+    },
+    {
+      "Text": "❝stab❞",
+      "Translation": "❝stab❞"
+    },
+    {
+      "Text": "『はめて殴る』",
+      "Translation": "『はめて殴る』"
+    },
+    {
+      "Text": "❝punch❞",
+      "Translation": "❝punch❞"
+    },
+    {
+      "Text": "『漕ぐ』",
+      "Translation": "『漕ぐ』"
+    },
+    {
+      "Text": "❝row❞",
+      "Translation": "❝row❞"
+    },
+    {
+      "Text": "『振り回す』",
+      "Translation": "『振り回す』"
+    },
+    {
+      "Text": "❝brandish❞",
+      "Translation": "❝brandish❞"
+    },
+    {
+      "Text": "『粉を払う』",
+      "Translation": "『粉を払う』"
+    },
+    {
+      "Text": "❝brush powder❞",
+      "Translation": "❝brush powder❞"
+    },
+    {
+      "Text": "『寝返りを打つ』",
+      "Translation": "『寝返りを打つ』"
+    },
+    {
+      "Text": "❝turn over in sleep❞",
+      "Translation": "❝turn over in sleep❞"
+    },
+    {
+      "Text": "『虫を飛ばす』",
+      "Translation": "『虫を飛ばす』"
+    },
+    {
+      "Text": "❝let the insect fly❞",
+      "Translation": "❝let the insect fly❞"
+    },
+    {
+      "Text": "『手品をする』",
+      "Translation": "『手品をする』"
+    },
+    {
+      "Text": "❝perform trick❞",
+      "Translation": "❝perform trick❞"
+    },
+    {
+      "Text": "『人形を操る』",
+      "Translation": "『人形を操る』"
+    },
+    {
+      "Text": "❝pull string❞",
+      "Translation": "❝pull string❞"
+    },
+    {
+      "Text": "『光を当てる』",
+      "Translation": "『光を当てる』"
+    },
+    {
+      "Text": "❝shine light❞",
+      "Translation": "❝shine light❞"
+    },
+    {
+      "Text": "『眼鏡を掛ける』",
+      "Translation": "『眼鏡を掛ける』"
+    },
+    {
+      "Text": "❝put the glasses on❞",
+      "Translation": "❝put the glasses on❞"
+    },
+    {
+      "Text": "『写真を撮る』",
+      "Translation": "『写真を撮る』"
+    },
+    {
+      "Text": "❝take a picture❞",
+      "Translation": "❝take a picture❞"
+    },
+    {
+      "Text": "『爪を切る』",
+      "Translation": "『爪を切る』"
+    },
+    {
+      "Text": "❝clip nail❞",
+      "Translation": "❝clip nail❞"
+    },
+    {
+      "Text": "『舞わせる』",
+      "Translation": "『舞わせる』"
+    },
+    {
+      "Text": "❝toss❞",
+      "Translation": "❝toss❞"
+    },
+    {
+      "Text": "『カウントする』",
+      "Translation": "『カウントする』"
+    },
+    {
+      "Text": "❝count❞",
+      "Translation": "❝count❞"
+    },
+    {
+      "Text": "『サイコロを振る』",
+      "Translation": "『サイコロを振る』"
+    },
+    {
+      "Text": "❝roll❞",
+      "Translation": "❝roll❞"
+    },
+    {
+      "Text": "『猫使い』",
+      "Translation": "『猫使い』"
+    },
+    {
+      "Text": "❝use cat❞",
+      "Translation": "❝use cat❞"
+    },
+    {
+      "Text": "『童話を書く』",
+      "Translation": "『童話を書く』"
+    },
+    {
+      "Text": "❝write a fairy tale❞",
+      "Translation": "❝write a fairy tale❞"
+    },
+    {
+      "Text": "『犬好き』",
+      "Translation": "『犬好き』"
+    },
+    {
+      "Text": "❝dog lover❞",
+      "Translation": "❝dog lover❞"
+    },
+    {
+      "Text": "『コマを回す』",
+      "Translation": "『コマを回す』"
+    },
+    {
+      "Text": "❝rotate the piece❞",
+      "Translation": "❝rotate the piece❞"
+    },
+    {
+      "Text": "『本を読む』",
+      "Translation": "『本を読む』"
+    },
+    {
+      "Text": "❝read❞",
+      "Translation": "❝read❞"
+    },
+    {
+      "Text": "『サイバー兵器』",
+      "Translation": "『サイバー兵器』"
+    },
+    {
+      "Text": "❝use cyber weapon❞",
+      "Translation": "❝use cyber weapon❞"
+    },
+    {
+      "Text": "『ノーウェポン』",
+      "Translation": "『ノーウェポン』"
+    },
+    {
+      "Text": "❝no weapon❞",
+      "Translation": "❝no weapon❞"
+    },
+    {
+      "Text": "『格闘』",
+      "Translation": "『格闘』"
+    },
+    {
+      "Text": "❝hand-to-hand combat❞",
+      "Translation": "❝hand-to-hand combat❞"
+    },
+    {
+      "Text": "『竹刀』",
+      "Translation": "『竹刀』"
+    },
+    {
+      "Text": "『Shinai』",
+      "Translation": "『Shinai』"
+    },
+    {
+      "Text": "ヒトラー",
+      "Translation": "ヒトラー"
+    },
+    {
+      "Text": "Hitler",
+      "Translation": "Hitler"
+    },
+    {
+      "Text": "ファーブル",
+      "Translation": "ファーブル"
+    },
+    {
+      "Text": "Fabre",
+      "Translation": "Fabre"
+    },
+    {
+      "Text": "オードリー",
+      "Translation": "オードリー"
+    },
+    {
+      "Text": "Audrey",
+      "Translation": "Audrey"
+    },
+    {
+      "Text": "コバーン",
+      "Translation": "コバーン"
+    },
+    {
+      "Text": "Cobain",
+      "Translation": "Cobain"
+    },
+    {
+      "Text": "テヅカ",
+      "Translation": "テヅカ"
+    },
+    {
+      "Text": "Tezuka",
+      "Translation": "Tezuka"
+    },
+    {
+      "Text": "ゲイツ",
+      "Translation": "ゲイツ"
+    },
+    {
+      "Text": "Gates",
+      "Translation": "Gates"
+    },
+    {
+      "Text": "アインシュタイン",
+      "Translation": "アインシュタイン"
+    },
+    {
+      "Text": "Einstein",
+      "Translation": "Einstein"
+    },
+    {
+      "Text": "ヒョードル",
+      "Translation": "ヒョードル"
+    },
+    {
+      "Text": "Fyodor",
+      "Translation": "Fyodor"
+    },
+    {
+      "Text": "アリストテレス",
+      "Translation": "アリストテレス"
+    },
+    {
+      "Text": "Aristotle",
+      "Translation": "Aristotle"
+    },
+    {
+      "Text": "ホクサイ",
+      "Translation": "ホクサイ"
+    },
+    {
+      "Text": "Hokusai",
+      "Translation": "Hokusai"
+    },
+    {
+      "Text": "ジャッキー",
+      "Translation": "ジャッキー"
+    },
+    {
+      "Text": "Jackie",
+      "Translation": "Jackie"
+    },
+    {
+      "Text": "ユウサク",
+      "Translation": "ユウサク"
+    },
+    {
+      "Text": "Yuusaku",
+      "Translation": "Yuusaku"
+    },
+    {
+      "Text": "のダメージ！",
+      "Translation": "のダメージ！"
+    },
+    {
+      "Text": " damage! ",
+      "Translation": " damage! "
+    },
+    {
+      "Text": "の田中ダメージ！",
+      "Translation": "の田中ダメージ！"
+    },
+    {
+      "Text": " Tanaka-damage! ",
+      "Translation": " Tanaka-damage! "
+    },
+    {
+      "Text": "の斉藤ダメージ！",
+      "Translation": "の斉藤ダメージ！"
+    },
+    {
+      "Text": " Saito-damage! ",
+      "Translation": " Saito-damage! "
+    },
+    {
+      "Text": "マスクザ斉藤",
+      "Translation": "マスクザ斉藤"
+    },
+    {
+      "Text": "Mask the Saito",
+      "Translation": "Mask the Saito"
+    },
+    {
+      "Text": "ソフト部員",
+      "Translation": "ソフト部員"
+    },
+    {
+      "Text": "Club Member",
+      "Translation": "Club Member"
+    },
+    {
+      "Text": "謎の生命体",
+      "Translation": "謎の生命体"
+    },
+    {
+      "Text": "Unknown Lifeform",
+      "Translation": "Unknown Lifeform"
+    },
+    {
+      "Text": "他４",
+      "Translation": "他４"
+    },
+    {
+      "Text": "Ohter 4",
+      "Translation": "Ohter 4"
+    },
+    {
+      "Text": "ピンポン球",
+      "Translation": "ピンポン球"
+    },
+    {
+      "Text": "ping pong ball",
+      "Translation": "ping pong ball"
+    },
+    {
+      "Text": "軟球",
+      "Translation": "軟球"
+    },
+    {
+      "Text": "baseball",
+      "Translation": "baseball"
+    },
+    {
+      "Text": "バレーボール",
+      "Translation": "バレーボール"
+    },
+    {
+      "Text": "volleyball",
+      "Translation": "volleyball"
+    },
+    {
+      "Text": "バスケットボール",
+      "Translation": "バスケットボール"
+    },
+    {
+      "Text": "basketball",
+      "Translation": "basketball"
+    },
+    {
+      "Text": "かごごとバスケットボール",
+      "Translation": "かごごとバスケットボール"
+    },
+    {
+      "Text": "basket of basketballs",
+      "Translation": "basket of basketballs"
+    },
+    {
+      "Text": "スーパーボール",
+      "Translation": "スーパーボール"
+    },
+    {
+      "Text": "super ball",
+      "Translation": "super ball"
+    },
+    {
+      "Text": "消しゴム",
+      "Translation": "消しゴム"
+    },
+    {
+      "Text": "eraser",
+      "Translation": "eraser"
+    },
+    {
+      "Text": "チョーク",
+      "Translation": "チョーク"
+    },
+    {
+      "Text": "chalk",
+      "Translation": "chalk"
+    },
+    {
+      "Text": "枕",
+      "Translation": "枕"
+    },
+    {
+      "Text": "pillow",
+      "Translation": "pillow"
+    },
+    {
+      "Text": "甲子園の土",
+      "Translation": "甲子園の土"
+    },
+    {
+      "Text": "soil from Koshien",
+      "Translation": "soil from Koshien"
+    },
+    {
+      "Text": "うに",
+      "Translation": "うに"
+    },
+    {
+      "Text": "sea urchin",
+      "Translation": "sea urchin"
+    },
+    {
+      "Text": "かごごとうに",
+      "Translation": "かごごとうに"
+    },
+    {
+      "Text": "basket of sea urchins",
+      "Translation": "basket of sea urchins"
+    },
+    {
+      "Text": "サッカーボール",
+      "Translation": "サッカーボール"
+    },
+    {
+      "Text": "soccer ball",
+      "Translation": "soccer ball"
+    },
+    {
+      "Text": "ラグビーボール",
+      "Translation": "ラグビーボール"
+    },
+    {
+      "Text": "rugby ball",
+      "Translation": "rugby ball"
+    },
+    {
+      "Text": "卓球ラケット",
+      "Translation": "卓球ラケット"
+    },
+    {
+      "Text": "ping pong paddle",
+      "Translation": "ping pong paddle"
+    },
+    {
+      "Text": "バドミントンラケット",
+      "Translation": "バドミントンラケット"
+    },
+    {
+      "Text": "badminton racket",
+      "Translation": "badminton racket"
+    },
+    {
+      "Text": "テニスラケット",
+      "Translation": "テニスラケット"
+    },
+    {
+      "Text": "tennis racket",
+      "Translation": "tennis racket"
+    },
+    {
+      "Text": "ごぼう",
+      "Translation": "ごぼう"
+    },
+    {
+      "Text": "burdock",
+      "Translation": "burdock"
+    },
+    {
+      "Text": "太いごぼう",
+      "Translation": "太いごぼう"
+    },
+    {
+      "Text": "thick burdock",
+      "Translation": "thick burdock"
+    },
+    {
+      "Text": "うなぎパイ",
+      "Translation": "うなぎパイ"
+    },
+    {
+      "Text": "eel pie",
+      "Translation": "eel pie"
+    },
+    {
+      "Text": "田中さんの判子",
+      "Translation": "田中さんの判子"
+    },
+    {
+      "Text": "Tanaka family seal",
+      "Translation": "Tanaka family seal"
+    },
+    {
+      "Text": "斉藤さんの判子",
+      "Translation": "斉藤さんの判子"
+    },
+    {
+      "Text": "Saito family seal",
+      "Translation": "Saito family seal"
+    },
+    {
+      "Text": "あぶらとり紙",
+      "Translation": "あぶらとり紙"
+    },
+    {
+      "Text": "cosmetic paper",
+      "Translation": "cosmetic paper"
+    },
+    {
+      "Text": "高級あぶらとり紙",
+      "Translation": "高級あぶらとり紙"
+    },
+    {
+      "Text": "expensive cosmetic paper",
+      "Translation": "expensive cosmetic paper"
+    },
+    {
+      "Text": "ソフビ製のヒーロー",
+      "Translation": "ソフビ製のヒーロー"
+    },
+    {
+      "Text": "hand-made vinyl hero figure",
+      "Translation": "hand-made vinyl hero figure"
+    },
+    {
+      "Text": "ソフビ製の怪人",
+      "Translation": "ソフビ製の怪人"
+    },
+    {
+      "Text": "hand-made vinyl phantom figure",
+      "Translation": "hand-made vinyl phantom figure"
+    },
+    {
+      "Text": "超合金のロボット",
+      "Translation": "超合金のロボット"
+    },
+    {
+      "Text": "superalloy robot",
+      "Translation": "superalloy robot"
+    },
+    {
+      "Text": "乗れる車のおもちゃ",
+      "Translation": "乗れる車のおもちゃ"
+    },
+    {
+      "Text": "ride-on toy car",
+      "Translation": "ride-on toy car"
+    },
+    {
+      "Text": "三輪車",
+      "Translation": "三輪車"
+    },
+    {
+      "Text": "tricycle",
+      "Translation": "tricycle"
+    },
+    {
+      "Text": "ママチャリ",
+      "Translation": "ママチャリ"
+    },
+    {
+      "Text": "granny's bike",
+      "Translation": "granny's bike"
+    },
+    {
+      "Text": "MP3プレイヤー(mini)",
+      "Translation": "MP3プレイヤー(mini)"
+    },
+    {
+      "Text": "Mini MP3 Player",
+      "Translation": "Mini MP3 Player"
+    },
+    {
+      "Text": "MP3プレイヤー(60GB)",
+      "Translation": "MP3プレイヤー(60GB)"
+    },
+    {
+      "Text": "60GB MP3 Player",
+      "Translation": "60GB MP3 Player"
+    },
+    {
+      "Text": "新聞紙",
+      "Translation": "新聞紙"
+    },
+    {
+      "Text": "newspaper",
+      "Translation": "newspaper"
+    },
+    {
+      "Text": "週刊誌",
+      "Translation": "週刊誌"
+    },
+    {
+      "Text": "magazine",
+      "Translation": "magazine"
+    },
+    {
+      "Text": "名刺",
+      "Translation": "名刺"
+    },
+    {
+      "Text": "business card",
+      "Translation": "business card"
+    },
+    {
+      "Text": "お中元",
+      "Translation": "お中元"
+    },
+    {
+      "Text": "Bon Lantern Festival gift",
+      "Translation": "Bon Lantern Festival gift"
+    },
+    {
+      "Text": "毛布",
+      "Translation": "毛布"
+    },
+    {
+      "Text": "blanket",
+      "Translation": "blanket"
+    },
+    {
+      "Text": "体育館のネット",
+      "Translation": "体育館のネット"
+    },
+    {
+      "Text": "gym net",
+      "Translation": "gym net"
+    },
+    {
+      "Text": "虎模様のペルシャじゅうたん",
+      "Translation": "虎模様のペルシャじゅうたん"
+    },
+    {
+      "Text": "Persian Tiger Carpet",
+      "Translation": "Persian Tiger Carpet"
+    },
+    {
+      "Text": "輪ゴム",
+      "Translation": "輪ゴム"
+    },
+    {
+      "Text": "rubber band",
+      "Translation": "rubber band"
+    },
+    {
+      "Text": "銀玉鉄砲",
+      "Translation": "銀玉鉄砲"
+    },
+    {
+      "Text": "pellet gun",
+      "Translation": "pellet gun"
+    },
+    {
+      "Text": "ゴム風船・小",
+      "Translation": "ゴム風船・小"
+    },
+    {
+      "Text": "small-sized balloon",
+      "Translation": "small-sized balloon"
+    },
+    {
+      "Text": "ゴム風船・中",
+      "Translation": "ゴム風船・中"
+    },
+    {
+      "Text": "medium-sized balloon",
+      "Translation": "medium-sized balloon"
+    },
+    {
+      "Text": "ゴム風船・大",
+      "Translation": "ゴム風船・大"
+    },
+    {
+      "Text": "large-sized balloon",
+      "Translation": "large-sized balloon"
+    },
+    {
+      "Text": "噛み捨てたガム",
+      "Translation": "噛み捨てたガム"
+    },
+    {
+      "Text": "chewed gum",
+      "Translation": "chewed gum"
+    },
+    {
+      "Text": "バナナの皮",
+      "Translation": "バナナの皮"
+    },
+    {
+      "Text": "banana peel",
+      "Translation": "banana peel"
+    },
+    {
+      "Text": "バケツ",
+      "Translation": "バケツ"
+    },
+    {
+      "Text": "bucket",
+      "Translation": "bucket"
+    },
+    {
+      "Text": "ねずみ捕り",
+      "Translation": "ねずみ捕り"
+    },
+    {
+      "Text": "mouse trap",
+      "Translation": "mouse trap"
+    },
+    {
+      "Text": "ハンドソープ",
+      "Translation": "ハンドソープ"
+    },
+    {
+      "Text": "hand soap",
+      "Translation": "hand soap"
+    },
+    {
+      "Text": "洗顔用石けん",
+      "Translation": "洗顔用石けん"
+    },
+    {
+      "Text": "cleansing soap",
+      "Translation": "cleansing soap"
+    },
+    {
+      "Text": "ボディーシャンプー",
+      "Translation": "ボディーシャンプー"
+    },
+    {
+      "Text": "body shampoo",
+      "Translation": "body shampoo"
+    },
+    {
+      "Text": "コロコロ",
+      "Translation": "コロコロ"
+    },
+    {
+      "Text": "paint roller",
+      "Translation": "paint roller"
+    },
+    {
+      "Text": "ほうき",
+      "Translation": "ほうき"
+    },
+    {
+      "Text": "broom",
+      "Translation": "broom"
+    },
+    {
+      "Text": "モップ",
+      "Translation": "モップ"
+    },
+    {
+      "Text": "mop",
+      "Translation": "mop"
+    },
+    {
+      "Text": "トイレブラシ",
+      "Translation": "トイレブラシ"
+    },
+    {
+      "Text": "toilet brush",
+      "Translation": "toilet brush"
+    },
+    {
+      "Text": "ぞうきん",
+      "Translation": "ぞうきん"
+    },
+    {
+      "Text": "dirty rag",
+      "Translation": "dirty rag"
+    },
+    {
+      "Text": "ねずみ花火",
+      "Translation": "ねずみ花火"
+    },
+    {
+      "Text": "firecracker",
+      "Translation": "firecracker"
+    },
+    {
+      "Text": "ロケット花火",
+      "Translation": "ロケット花火"
+    },
+    {
+      "Text": "skyrocket",
+      "Translation": "skyrocket"
+    },
+    {
+      "Text": "打ち上げ花火",
+      "Translation": "打ち上げ花火"
+    },
+    {
+      "Text": "fireworks launcher",
+      "Translation": "fireworks launcher"
+    },
+    {
+      "Text": "ミニカー",
+      "Translation": "ミニカー"
+    },
+    {
+      "Text": "mini car",
+      "Translation": "mini car"
+    },
+    {
+      "Text": "ラジコン",
+      "Translation": "ラジコン"
+    },
+    {
+      "Text": "remote-controlled car",
+      "Translation": "remote-controlled car"
+    },
+    {
+      "Text": "ペーパークラフト（飛行機）",
+      "Translation": "ペーパークラフト（飛行機）"
+    },
+    {
+      "Text": "papercraft plane",
+      "Translation": "papercraft plane"
+    },
+    {
+      "Text": "ペーパークラフト（ステゴザウルス）",
+      "Translation": "ペーパークラフト（ステゴザウルス）"
+    },
+    {
+      "Text": "papercraft stegosaurus",
+      "Translation": "papercraft stegosaurus"
+    },
+    {
+      "Text": "ペーパークラフト（姫路城）",
+      "Translation": "ペーパークラフト（姫路城）"
+    },
+    {
+      "Text": "papercraft Himeji Castle",
+      "Translation": "papercraft Himeji Castle"
+    },
+    {
+      "Text": "ペーパークラフト（機動戦艦）",
+      "Translation": "ペーパークラフト（機動戦艦）"
+    },
+    {
+      "Text": "papercraft mobile battleship",
+      "Translation": "papercraft mobile battleship"
+    },
+    {
+      "Text": "粘着テープ",
+      "Translation": "粘着テープ"
+    },
+    {
+      "Text": "sticky tape",
+      "Translation": "sticky tape"
+    },
+    {
+      "Text": "ガムテープ",
+      "Translation": "ガムテープ"
+    },
+    {
+      "Text": "box tape",
+      "Translation": "box tape"
+    },
+    {
+      "Text": "工業用耐熱超強力粘着テープ",
+      "Translation": "工業用耐熱超強力粘着テープ"
+    },
+    {
+      "Text": "super-powerful industrial heat-resistant adhesive tape",
+      "Translation": "super-powerful industrial heat-resistant adhesive tape"
+    },
+    {
+      "Text": "スティックのり",
+      "Translation": "スティックのり"
+    },
+    {
+      "Text": "glue stick",
+      "Translation": "glue stick"
+    },
+    {
+      "Text": "業務用液状のり",
+      "Translation": "業務用液状のり"
+    },
+    {
+      "Text": "industrial liquid glue",
+      "Translation": "industrial liquid glue"
+    },
+    {
+      "Text": "瞬間接着剤",
+      "Translation": "瞬間接着剤"
+    },
+    {
+      "Text": "instant glue",
+      "Translation": "instant glue"
+    },
+    {
+      "Text": "歯ブラシ",
+      "Translation": "歯ブラシ"
+    },
+    {
+      "Text": "toothbrush",
+      "Translation": "toothbrush"
+    },
+    {
+      "Text": "電動歯ブラシ",
+      "Translation": "電動歯ブラシ"
+    },
+    {
+      "Text": "electric toothbrush",
+      "Translation": "electric toothbrush"
+    },
+    {
+      "Text": "キッチンミトン",
+      "Translation": "キッチンミトン"
+    },
+    {
+      "Text": "kitchen mitt",
+      "Translation": "kitchen mitt"
+    },
+    {
+      "Text": "割り箸",
+      "Translation": "割り箸"
+    },
+    {
+      "Text": "chopsticks",
+      "Translation": "chopsticks"
+    },
+    {
+      "Text": "トング",
+      "Translation": "トング"
+    },
+    {
+      "Text": "tong",
+      "Translation": "tong"
+    },
+    {
+      "Text": "ペンチ",
+      "Translation": "ペンチ"
+    },
+    {
+      "Text": "pliers",
+      "Translation": "pliers"
+    },
+    {
+      "Text": "洗濯バサミ",
+      "Translation": "洗濯バサミ"
+    },
+    {
+      "Text": "laundry peg",
+      "Translation": "laundry peg"
+    },
+    {
+      "Text": "アルミピンチ",
+      "Translation": "アルミピンチ"
+    },
+    {
+      "Text": "aluminium peg",
+      "Translation": "aluminium peg"
+    },
+    {
+      "Text": "クリップ式小型扇風機",
+      "Translation": "クリップ式小型扇風機"
+    },
+    {
+      "Text": "small clip-on fan",
+      "Translation": "small clip-on fan"
+    },
+    {
+      "Text": "おもちゃのナイフ",
+      "Translation": "おもちゃのナイフ"
+    },
+    {
+      "Text": "toy knife",
+      "Translation": "toy knife"
+    },
+    {
+      "Text": "あおひげ",
+      "Translation": "あおひげ"
+    },
+    {
+      "Text": "pop up pirate",
+      "Translation": "pop up pirate"
+    },
+    {
+      "Text": "ボクシンググローブ",
+      "Translation": "ボクシンググローブ"
+    },
+    {
+      "Text": "boxing gloves",
+      "Translation": "boxing gloves"
+    },
+    {
+      "Text": "パドル",
+      "Translation": "パドル"
+    },
+    {
+      "Text": "oar",
+      "Translation": "oar"
+    },
+    {
+      "Text": "三節棍",
+      "Translation": "三節棍"
+    },
+    {
+      "Text": "three-section staff",
+      "Translation": "three-section staff"
+    },
+    {
+      "Text": "黒板消し",
+      "Translation": "黒板消し"
+    },
+    {
+      "Text": "blackboard eraser",
+      "Translation": "blackboard eraser"
+    },
+    {
+      "Text": "寝袋",
+      "Translation": "寝袋"
+    },
+    {
+      "Text": "sleeping bag",
+      "Translation": "sleeping bag"
+    },
+    {
+      "Text": "かなぶん",
+      "Translation": "かなぶん"
+    },
+    {
+      "Text": "stag beetle",
+      "Translation": "stag beetle"
+    },
+    {
+      "Text": "手品セット",
+      "Translation": "手品セット"
+    },
+    {
+      "Text": "magic hat",
+      "Translation": "magic hat"
+    },
+    {
+      "Text": "弓曳童子",
+      "Translation": "弓曳童子"
+    },
+    {
+      "Text": "child archer figure",
+      "Translation": "child archer figure"
+    },
+    {
+      "Text": "実験プリズムキット",
+      "Translation": "実験プリズムキット"
+    },
+    {
+      "Text": "prism experiment kit",
+      "Translation": "prism experiment kit"
+    },
+    {
+      "Text": "３Ｄ眼鏡",
+      "Translation": "３Ｄ眼鏡"
+    },
+    {
+      "Text": "3D glasses",
+      "Translation": "3D glasses"
+    },
+    {
+      "Text": "デジタルカメラ",
+      "Translation": "デジタルカメラ"
+    },
+    {
+      "Text": "digital camera",
+      "Translation": "digital camera"
+    },
+    {
+      "Text": "爪切り",
+      "Translation": "爪切り"
+    },
+    {
+      "Text": "nail clipper",
+      "Translation": "nail clipper"
+    },
+    {
+      "Text": "トイレットペーパー",
+      "Translation": "トイレットペーパー"
+    },
+    {
+      "Text": "toilet paper",
+      "Translation": "toilet paper"
+    },
+    {
+      "Text": "数取器",
+      "Translation": "数取器"
+    },
+    {
+      "Text": "counting machine",
+      "Translation": "counting machine"
+    },
+    {
+      "Text": "サイコロ",
+      "Translation": "サイコロ"
+    },
+    {
+      "Text": "dice",
+      "Translation": "dice"
+    },
+    {
+      "Text": "猫１匹",
+      "Translation": "猫１匹"
+    },
+    {
+      "Text": "1 cat",
+      "Translation": "1 cat"
+    },
+    {
+      "Text": "猫２匹",
+      "Translation": "猫２匹"
+    },
+    {
+      "Text": "2 cats",
+      "Translation": "2 cats"
+    },
+    {
+      "Text": "猫３匹",
+      "Translation": "猫３匹"
+    },
+    {
+      "Text": "3 cats",
+      "Translation": "3 cats"
+    },
+    {
+      "Text": "猫４匹",
+      "Translation": "猫４匹"
+    },
+    {
+      "Text": "4 cats",
+      "Translation": "4 cats"
+    },
+    {
+      "Text": "猫５匹",
+      "Translation": "猫５匹"
+    },
+    {
+      "Text": "5 cats",
+      "Translation": "5 cats"
+    },
+    {
+      "Text": "猫６匹",
+      "Translation": "猫６匹"
+    },
+    {
+      "Text": "6 cats",
+      "Translation": "6 cats"
+    },
+    {
+      "Text": "猫７匹",
+      "Translation": "猫７匹"
+    },
+    {
+      "Text": "7 cats",
+      "Translation": "7 cats"
+    },
+    {
+      "Text": "猫８匹",
+      "Translation": "猫８匹"
+    },
+    {
+      "Text": "8 cats",
+      "Translation": "8 cats"
+    },
+    {
+      "Text": "猫９匹",
+      "Translation": "猫９匹"
+    },
+    {
+      "Text": "9 cats",
+      "Translation": "9 cats"
+    },
+    {
+      "Text": "猫１０匹",
+      "Translation": "猫１０匹"
+    },
+    {
+      "Text": "10 cats",
+      "Translation": "10 cats"
+    },
+    {
+      "Text": "猫１１匹",
+      "Translation": "猫１１匹"
+    },
+    {
+      "Text": "11 cats",
+      "Translation": "11 cats"
+    },
+    {
+      "Text": "猫１２匹",
+      "Translation": "猫１２匹"
+    },
+    {
+      "Text": "12 cats",
+      "Translation": "12 cats"
+    },
+    {
+      "Text": "ドルジ",
+      "Translation": "ドルジ"
+    },
+    {
+      "Text": "Dorj",
+      "Translation": "Dorj"
+    },
+    {
+      "Text": "ぺんぎんぬいぐるみ",
+      "Translation": "ぺんぎんぬいぐるみ"
+    },
+    {
+      "Text": "plush penguin",
+      "Translation": "plush penguin"
+    },
+    {
+      "Text": "ノート",
+      "Translation": "ノート"
+    },
+    {
+      "Text": "notebook",
+      "Translation": "notebook"
+    },
+    {
+      "Text": "レプリカノリムネ",
+      "Translation": "レプリカノリムネ"
+    },
+    {
+      "Text": "replica of Norimune",
+      "Translation": "replica of Norimune"
+    },
+    {
+      "Text": "マシンガン",
+      "Translation": "マシンガン"
+    },
+    {
+      "Text": "machine gun",
+      "Translation": "machine gun"
+    },
+    {
+      "Text": "ストレルカ",
+      "Translation": "ストレルカ"
+    },
+    {
+      "Text": "Strelka",
+      "Translation": "Strelka"
+    },
+    {
+      "Text": "ヴェルカ",
+      "Translation": "ヴェルカ"
+    },
+    {
+      "Text": "Belka",
+      "Translation": "Belka"
+    },
+    {
+      "Text": "ヴェルカ＆ストレルカ",
+      "Translation": "ヴェルカ＆ストレルカ"
+    },
+    {
+      "Text": "Belka & Strelka",
+      "Translation": "Belka & Strelka"
+    },
+    {
+      "Text": "ビーだま",
+      "Translation": "ビーだま"
+    },
+    {
+      "Text": "marble",
+      "Translation": "marble"
+    },
+    {
+      "Text": "べーごま",
+      "Translation": "べーごま"
+    },
+    {
+      "Text": "beigoma",
+      "Translation": "beigoma"
+    },
+    {
+      "Text": "日傘",
+      "Translation": "日傘"
+    },
+    {
+      "Text": "parasol",
+      "Translation": "parasol"
+    },
+    {
+      "Text": "薄っぺらい本",
+      "Translation": "薄っぺらい本"
+    },
+    {
+      "Text": "cheap magazine",
+      "Translation": "cheap magazine"
+    },
+    {
+      "Text": "サイバーヨーヨー",
+      "Translation": "サイバーヨーヨー"
+    },
+    {
+      "Text": "cyber yoyo",
+      "Translation": "cyber yoyo"
+    },
+    {
+      "Text": "ウィルス",
+      "Translation": "ウィルス"
+    },
+    {
+      "Text": "computer virus",
+      "Translation": "computer virus"
+    },
+    {
+      "Text": "電磁バリア",
+      "Translation": "電磁バリア"
+    },
+    {
+      "Text": "electromagnetic barrier",
+      "Translation": "electromagnetic barrier"
+    },
+    {
+      "Text": "ライトセイバー",
+      "Translation": "ライトセイバー"
+    },
+    {
+      "Text": "lightsaber",
+      "Translation": "lightsaber"
+    },
+    {
+      "Text": "ビームライフル",
+      "Translation": "ビームライフル"
+    },
+    {
+      "Text": "beam rifle",
+      "Translation": "beam rifle"
+    },
+    {
+      "Text": "メガバズーカランチャー",
+      "Translation": "メガバズーカランチャー"
+    },
+    {
+      "Text": "mega bazooka",
+      "Translation": "mega bazooka"
+    },
+    {
+      "Text": "教室",
+      "Translation": "教室"
+    },
+    {
+      "Text": "in the classroom",
+      "Translation": "in the classroom"
+    },
+    {
+      "Text": "職員室の前",
+      "Translation": "職員室の前"
+    },
+    {
+      "Text": "in the staff room",
+      "Translation": "in the staff room"
+    },
+    {
+      "Text": "廊下",
+      "Translation": "廊下"
+    },
+    {
+      "Text": "in the corridor",
+      "Translation": "in the corridor"
+    },
+    {
+      "Text": "階段の近く",
+      "Translation": "階段の近く"
+    },
+    {
+      "Text": "near the stairs",
+      "Translation": "near the stairs"
+    },
+    {
+      "Text": "学食",
+      "Translation": "学食"
+    },
+    {
+      "Text": "in the cafeteria",
+      "Translation": "in the cafeteria"
+    },
+    {
+      "Text": "渡り廊下",
+      "Translation": "渡り廊下"
+    },
+    {
+      "Text": "in the adjacent corridor",
+      "Translation": "in the adjacent corridor"
+    },
+    {
+      "Text": "中庭",
+      "Translation": "中庭"
+    },
+    {
+      "Text": "in the courtyard",
+      "Translation": "in the courtyard"
+    },
+    {
+      "Text": "裏庭",
+      "Translation": "裏庭"
+    },
+    {
+      "Text": "in the backyard",
+      "Translation": "in the backyard"
+    },
+    {
+      "Text": "校舎裏",
+      "Translation": "校舎裏"
+    },
+    {
+      "Text": "behind the school",
+      "Translation": "behind the school"
+    },
+    {
+      "Text": "グラウンド",
+      "Translation": "グラウンド"
+    },
+    {
+      "Text": "on the grounds",
+      "Translation": "on the grounds"
+    },
+    {
+      "Text": "校門の近く",
+      "Translation": "校門の近く"
+    },
+    {
+      "Text": "near the school gate",
+      "Translation": "near the school gate"
+    },
+    {
+      "Text": "寮の前",
+      "Translation": "寮の前"
+    },
+    {
+      "Text": "in front of the dormitory",
+      "Translation": "in front of the dormitory"
+    },
+    {
+      "Text": "河原の方",
+      "Translation": "河原の方"
+    },
+    {
+      "Text": "in the river",
+      "Translation": "in the river"
+    }
+  ]
+}

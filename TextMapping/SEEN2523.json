@@ -1,3112 +1,3115 @@
 {
   "MESSAGE": [
     {
-      "JP": "覚めた。",
+      "JP": "目覚めた。",
       "EN": "I woke up.",
       "Translation": "I woke up."
     },
     {
-      "JP": "身を襲う痛み。",
+      "JP": "全身を襲う痛み。",
       "EN": "Pain wracked my entire body.",
       "Translation": "Pain wracked my entire body."
     },
     {
-      "JP": "を動かす。",
+      "JP": "体を動かす。",
       "EN": "I tried to move.",
       "Translation": "I tried to move."
     },
     {
-      "JP": "こが上で下だかもわからない。",
+      "JP": "どこが上で下だかもわからない。",
       "EN": "I couldn't tell which side was up or down.",
       "Translation": "I couldn't tell which side was up or down."
     },
     {
-      "JP": "が動く。",
+      "JP": "指が動く。",
       "EN": "I could move my fingers.",
       "Translation": "I could move my fingers."
     },
     {
-      "JP": "目に光が差し込んできた。",
+      "JP": "…目に光が差し込んできた。",
       "EN": "...My eyes caught a light.",
       "Translation": "...My eyes caught a light."
     },
     {
-      "JP": "を捩じらせて、そこまで這っていく。",
+      "JP": "身を捩じらせて、そこまで這っていく。",
       "EN": "Twisting my body, I crawled toward it.",
       "Translation": "Twisting my body, I crawled toward it."
     },
     {
-      "JP": "か…色々な障害物がある。",
+      "JP": "何か…色々な障害物がある。",
       "EN": "There were... many obstacles in my way.",
       "Translation": "There were... many obstacles in my way."
     },
     {
-      "JP": "れど、視界がはっきりしない。",
+      "JP": "けれど、視界がはっきりしない。",
       "EN": "My vision still wasn't clear.",
       "Translation": "My vision still wasn't clear."
     },
     {
-      "JP": "声@「…りき」",
+      "JP": "`声@「…りき」",
       "EN": "`Voice@❝...Riki...❞",
       "Translation": "`Voice@❝...Riki...❞"
     },
     {
-      "JP": "ぐそばで声がした。鈴の声だ！",
+      "JP": "すぐそばで声がした。鈴の声だ！",
       "EN": "Someone called my name. It was Rin's voice!",
       "Translation": "Someone called my name. It was Rin's voice!"
     },
     {
-      "JP": "理樹@「鈴、ここだ、僕はここだよっ」",
+      "JP": "`理樹@「鈴、ここだ、僕はここだよっ」",
       "EN": "`Riki@❝Rin, right here, I'm right here!❞",
       "Translation": "`Riki@❝Rin, right here, I'm right here!❞"
     },
     {
-      "JP": "死に伝えた。",
+      "JP": "必死に伝えた。",
       "EN": "I desperately called to her.",
       "Translation": "I desperately called to her."
     },
     {
-      "JP": "を伸ばした。",
+      "JP": "手を伸ばした。",
       "EN": "I extended my arm.",
       "Translation": "I extended my arm."
     },
     {
-      "JP": "し。",
+      "JP": "ぱし。",
       "EN": "*Grab*.",
       "Translation": "*Grab*."
     },
     {
-      "JP": "れが合わさった。",
+      "JP": "それが合わさった。",
       "EN": "We seized each other's hand.",
       "Translation": "We seized each other's hand."
     },
     {
-      "JP": "かい…。",
+      "JP": "温かい…。",
       "EN": "Her hand was warm...",
       "Translation": "Her hand was warm..."
     },
     {
-      "JP": "鈴@「りき…からだがいたい」",
+      "JP": "`鈴@「りき…からだがいたい」",
       "EN": "`Rin@❝Riki... My body hurts.❞",
       "Translation": "`Rin@❝Riki... My body hurts.❞"
     },
     {
-      "JP": "理樹@「僕もだよ…」",
+      "JP": "`理樹@「僕もだよ…」",
       "EN": "`Riki@❝So does mine...❞",
       "Translation": "`Riki@❝So does mine...❞"
     },
     {
-      "JP": "を這わせて寄っていって、顔を見た。",
+      "JP": "体を這わせて寄っていって、顔を見た。",
       "EN": "I crawled up to her and looked into her face.",
       "Translation": "I crawled up to her and looked into her face."
     },
     {
-      "JP": "かしいような鈴の顔だ。",
+      "JP": "懐かしいような鈴の顔だ。",
       "EN": "I felt like I was seeing her face for the first time after a long separation.",
       "Translation": "I felt like I was seeing her face for the first time after a long separation."
     },
     {
-      "JP": "の手を取って、そこから這い出した。",
+      "JP": "鈴の手を取って、そこから這い出した。",
       "EN": "Taking her by the hand, we crawled out of there together.",
       "Translation": "Taking her by the hand, we crawled out of there together."
     },
     {
-      "JP": "理樹@「戻ってきたんだよ…」",
+      "JP": "`理樹@「戻ってきたんだよ…」",
       "EN": "`Riki@❝We've come back here...❞",
       "Translation": "`Riki@❝We've come back here...❞"
     },
     {
-      "JP": "鈴@「ここは…どこだ…」",
+      "JP": "`鈴@「ここは…どこだ…」",
       "EN": "`Rin@❝Where... are we...?❞",
       "Translation": "`Rin@❝Where... are we...?❞"
     },
     {
-      "JP": "理樹@「ここは…」",
+      "JP": "`理樹@「ここは…」",
       "EN": "`Riki@❝We are...❞",
       "Translation": "`Riki@❝We are...❞"
     },
     {
-      "JP": "理樹@「修学旅行の途中の道…」",
+      "JP": "`理樹@「修学旅行の途中の道…」",
       "EN": "`Riki@❝...at the bottom of the cliff...❞",
       "Translation": "`Riki@❝...at the bottom of the cliff...❞"
     },
     {
-      "JP": "理樹@「その崖の下だよ…」",
+      "JP": "`理樹@「その崖の下だよ…」",
       "EN": "`Riki@❝Our bus fell down here in the middle of our field trip...❞",
       "Translation": "`Riki@❝Our bus fell down here in the middle of our field trip...❞"
     },
     {
-      "JP": "憶が次々と蘇ってくる。",
+      "JP": "記憶が次々と蘇ってくる。",
       "EN": "I regained one memory after another.",
       "Translation": "I regained one memory after another."
     },
     {
-      "JP": "の、バスの中の騒ぎが克明に思い出される。",
+      "JP": "あの、バスの中の騒ぎが克明に思い出される。",
       "EN": "I could clearly remember how the events had unfolded inside the bus.",
       "Translation": "I could clearly remember how the events had unfolded inside the bus."
     },
     {
-      "JP": "スが何かにぶつかった。",
+      "JP": "バスが何かにぶつかった。",
       "EN": "It had crashed into something.",
       "Translation": "It had crashed into something."
     },
     {
-      "JP": "しく揺れ、生徒が右から左へ飛ぶ。",
+      "JP": "激しく揺れ、生徒が右から左へ飛ぶ。",
       "EN": "The violent shaking had thrown classmates from right to left.",
       "Translation": "The violent shaking had thrown classmates from right to left."
     },
     {
-      "JP": "員がパニック状態。",
+      "JP": "全員がパニック状態。",
       "EN": "Everybody had panicked.",
       "Translation": "Everybody had panicked."
     },
     {
-      "JP": "して上下が入れ替わった。",
+      "JP": "そして上下が入れ替わった。",
       "EN": "In the next moment, the bus had turned upside down.",
       "Translation": "In the next moment, the bus had turned upside down."
     },
     {
-      "JP": "井が床になっていた。",
+      "JP": "天井が床になっていた。",
       "EN": "The floor became the ceiling.",
       "Translation": "The floor became the ceiling."
     },
     {
-      "JP": "こで前に座っていた真人の顔が、すぐ正面に現れた。",
+      "JP": "そこで前に座っていた真人の顔が、すぐ正面に現れた。",
       "EN": "And Masato, from the seat ahead of mine, had stood up right in front of me.",
       "Translation": "And Masato, from the seat ahead of mine, had stood up right in front of me."
     },
     {
-      "JP": "理樹@「真人が…助けてくれたんだ…」",
+      "JP": "`理樹@「真人が…助けてくれたんだ…」",
       "EN": "`Riki@❝Masato... He saved me...❞",
       "Translation": "`Riki@❝Masato... He saved me...❞"
     },
     {
-      "JP": "理樹@「鈴は…？」",
+      "JP": "`理樹@「鈴は…？」",
       "EN": "`Riki@❝What about you, Rin...?❞",
       "Translation": "`Riki@❝What about you, Rin...?❞"
     },
     {
-      "JP": "鈴@「謙吾が…あたしに抱きついた」",
+      "JP": "`鈴@「謙吾が…あたしに抱きついた」",
       "EN": "`Rin@❝Kengo... He came and hugged me.❞",
       "Translation": "`Rin@❝Kengo... He came and hugged me.❞"
     },
     {
-      "JP": "理樹@「それは…謙吾が助けてくれたんだよ…」",
+      "JP": "`理樹@「それは…謙吾が助けてくれたんだよ…」",
       "EN": "`Riki@❝No... He saved you...❞",
       "Translation": "`Riki@❝No... He saved you...❞"
     },
     {
-      "JP": "鈴@「そうだったのか…」",
+      "JP": "`鈴@「そうだったのか…」",
       "EN": "`Rin@❝Is that it...❞",
       "Translation": "`Rin@❝Is that it...❞"
     },
     {
-      "JP": "理樹@「立てる…？」",
+      "JP": "`理樹@「立てる…？」",
       "EN": "`Riki@❝Can you stand...?❞",
       "Translation": "`Riki@❝Can you stand...?❞"
     },
     {
-      "JP": "鈴@「わからない…やってみる…」",
+      "JP": "`鈴@「わからない…やってみる…」",
       "EN": "`Rin@❝Not sure... I'll give it a try...❞",
       "Translation": "`Rin@❝Not sure... I'll give it a try...❞"
     },
     {
-      "JP": "は痛む体にむち打ち、立ち上がる。",
+      "JP": "僕は痛む体にむち打ち、立ち上がる。",
       "EN": "Bearing the pain, I wrenched myself upright.",
       "Translation": "Bearing the pain, I wrenched myself upright."
     },
     {
-      "JP": "こもかしこも痛い…全身が悲鳴を上げている。",
+      "JP": "どこもかしこも痛い…全身が悲鳴を上げている。",
       "EN": "Every inch of my body hurt... My entire body was screaming in pain.",
       "Translation": "Every inch of my body hurt... My entire body was screaming in pain."
     },
     {
-      "JP": "れから、てこずっていた鈴の肩を抱き上げ、立たせてあげた。",
+      "JP": "それから、てこずっていた鈴の肩を抱き上げ、立たせてあげた。",
       "EN": "Then I noticed Rin having a little trouble standing up on her own, so I helped her up.",
       "Translation": "Then I noticed Rin having a little trouble standing up on her own, so I helped her up."
     },
     {
-      "JP": "たり人の字のようにもたれ合って立つ。",
+      "JP": "ふたり人の字のようにもたれ合って立つ。",
       "EN": "We leaned against each other.",
       "Translation": "We leaned against each other."
     },
     {
-      "JP": "の眼前…",
+      "JP": "その眼前…",
       "EN": "Right in front of our eyes...",
       "Translation": "Right in front of our eyes..."
     },
     {
-      "JP": "つか夢の中で見た、絶望の風景だ…。",
+      "JP": "いつか夢の中で見た、絶望の風景だ…。",
       "EN": "...lay the hopeless scene of my nightmares...",
       "Translation": "...lay the hopeless scene of my nightmares..."
     },
     {
-      "JP": "れを今現実のものとして突きつけられている…。",
+      "JP": "それを今現実のものとして突きつけられている…。",
       "EN": "Now I was facing it unfiltered...",
       "Translation": "Now I was facing it unfiltered..."
     },
     {
-      "JP": "を逸らしたい…。",
+      "JP": "目を逸らしたい…。",
       "EN": "I wanted to look away...",
       "Translation": "I wanted to look away..."
     },
     {
-      "JP": "も、みんながそこに居る。",
+      "JP": "でも、みんながそこに居る。",
       "EN": "But I couldn't, because everyone else was in there.",
       "Translation": "But I couldn't, because everyone else was in there."
     },
     {
-      "JP": "けなきゃ…。",
+      "JP": "助けなきゃ…。",
       "EN": "I had to help them out...",
       "Translation": "I had to help them out..."
     },
     {
-      "JP": "れともここからすぐ離れるべきか…。",
+      "JP": "それともここからすぐ離れるべきか…。",
       "EN": "Or should I leave here right away with Rin...?",
       "Translation": "Or should I leave here right away with Rin...?"
     },
     {
-      "JP": "し、みんなを助けないと…。",
+      "JP": "よし、みんなを助けないと…。",
       "EN": "We had to rescue them all...",
       "Translation": "We had to rescue them all..."
     },
     {
-      "JP": "理樹@「鈴！　大丈夫、みんなを助けよう」",
+      "JP": "`理樹@「鈴！　大丈夫、みんなを助けよう」",
       "EN": "`Riki@❝Rin! We've got to help everyone out.❞",
       "Translation": "`Riki@❝Rin! We've got to help everyone out.❞"
     },
     {
-      "JP": "鈴@「うん」",
+      "JP": "`鈴@「うん」",
       "EN": "`Rin@❝Yeah.❞",
       "Translation": "`Rin@❝Yeah.❞"
     },
     {
-      "JP": "たりには石油のような臭いが立ち込めていた。",
+      "JP": "あたりには石油のような臭いが立ち込めていた。",
       "EN": "An oily smell hung in the air.",
       "Translation": "An oily smell hung in the air."
     },
     {
-      "JP": "く助けないと引火する危険がある！",
+      "JP": "早く助けないと引火する危険がある！",
       "EN": "If we didn't help them fast, there was a danger of the oil catching fire!",
       "Translation": "If we didn't help them fast, there was a danger of the oil catching fire!"
     },
     {
-      "JP": "は、大破した前方部分からクラスメイトを引きずり出す。",
+      "JP": "僕は、大破した前方部分からクラスメイトを引きずり出す。",
       "EN": "I dragged a classmate out from the smashed-up front of the bus.",
       "Translation": "I dragged a classmate out from the smashed-up front of the bus."
     },
     {
-      "JP": "理樹@「…くっ！」",
+      "JP": "`理樹@「…くっ！」",
       "EN": "`Riki@❝...Ugh!❞",
       "Translation": "`Riki@❝...Ugh!❞"
     },
     {
-      "JP": "絶した人間の体の重さに愕然とする。",
+      "JP": "気絶した人間の体の重さに愕然とする。",
       "EN": "The weight of a passed-out human being was surprisingly heavy.",
       "Translation": "The weight of a passed-out human being was surprisingly heavy."
     },
     {
-      "JP": "もまごついて、僕をすがるように見ていた。",
+      "JP": "鈴もまごついて、僕をすがるように見ていた。",
       "EN": "Rin was also at a loss, looking at me worriedly.",
       "Translation": "Rin was also at a loss, looking at me worriedly."
     },
     {
-      "JP": "間だけが過ぎていく…。",
+      "JP": "時間だけが過ぎていく…。",
       "EN": "And time kept ticking by...",
       "Translation": "And time kept ticking by..."
     },
     {
-      "JP": "裂音が響いた。",
+      "JP": "破裂音が響いた。",
       "EN": "We heard a loud blast.",
       "Translation": "We heard a loud blast."
     },
     {
-      "JP": "スの後ろから火の手が上がる。",
+      "JP": "バスの後ろから火の手が上がる。",
       "EN": "There was a fire blazing up out of the rear of the bus.",
       "Translation": "There was a fire blazing up out of the rear of the bus."
     },
     {
-      "JP": "あ、どうしたらいいんだ…!?",
+      "JP": "ああ、どうしたらいいんだ…!?",
       "EN": "Ugh, what should I do...!?",
       "Translation": "Ugh, what should I do...!?"
     },
     {
-      "JP": "ニック状態に陥る。",
+      "JP": "パニック状態に陥る。",
       "EN": "I was totally panicking.",
       "Translation": "I was totally panicking."
     },
     {
-      "JP": "―くらり、と世界が揺れた。",
+      "JP": "――くらり、と世界が揺れた。",
       "EN": "――The world shook.",
       "Translation": "――The world shook."
     },
     {
-      "JP": "んなタイミングで来るのか…",
+      "JP": "こんなタイミングで来るのか…",
       "EN": "Why now, of all times...",
       "Translation": "Why now, of all times..."
     },
     {
-      "JP": "まわしき病気…",
+      "JP": "忌まわしき病気…",
       "EN": "The hateful illness I had... ",
       "Translation": "The hateful illness I had... "
     },
     {
-      "JP": "ルコレプシー…",
+      "JP": "ナルコレプシー…",
       "EN": "narcolepsy...",
       "Translation": "narcolepsy..."
     },
     {
-      "JP": "れていく意識の中で、閃光と熱風が僕らを包んだ。",
+      "JP": "薄れていく意識の中で、閃光と熱風が僕らを包んだ。",
       "EN": "Even as my consciousness faded away, we were wrapped in a flash of hot wind.",
       "Translation": "Even as my consciousness faded away, we were wrapped in a flash of hot wind."
     },
     {
-      "JP": "だ、白くなる。",
+      "JP": "ただ、白くなる。",
       "EN": "Everything was simply turning white.",
       "Translation": "Everything was simply turning white."
     },
     {
-      "JP": "も感じなくなって…。",
+      "JP": "何も感じなくなって…。",
       "EN": "I was losing all my senses...",
       "Translation": "I was losing all my senses..."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "…。",
+      "JP": "……。",
       "EN": "......",
       "Translation": "......"
     },
     {
-      "JP": "。",
+      "JP": "…。",
       "EN": "...",
       "Translation": "..."
     },
     {
-      "JP": "うだ、冷静になれ…。",
+      "JP": "そうだ、冷静になれ…。",
       "EN": "That's right, I had to stay cool.",
       "Translation": "That's right, I had to stay cool."
     },
     {
-      "JP": "んなはもう…",
+      "JP": "みんなはもう…",
       "EN": "Anyone else... ",
       "Translation": "Anyone else... "
     },
     {
-      "JP": "からないんだ。",
+      "JP": "助からないんだ。",
       "EN": "was not gonna make it.",
       "Translation": "was not gonna make it."
     },
     {
-      "JP": "のうち流れ出た燃料に引火し、燃え出す。",
+      "JP": "そのうち流れ出た燃料に引火し、燃え出す。",
       "EN": "It was only a matter of time before the leaked oil caught fire.",
       "Translation": "It was only a matter of time before the leaked oil caught fire."
     },
     {
-      "JP": "こら一帯は火の海と化す…。",
+      "JP": "ここら一帯は火の海と化す…。",
       "EN": "This area was going to turn into a sea of flame...",
       "Translation": "This area was going to turn into a sea of flame..."
     },
     {
-      "JP": "の前にできるだけ離れないと…。",
+      "JP": "その前にできるだけ離れないと…。",
       "EN": "Before that, we've got to get as far as we can.",
       "Translation": "Before that, we've got to get as far as we can."
     },
     {
-      "JP": "を連れて、逃げるんだ…。",
+      "JP": "鈴を連れて、逃げるんだ…。",
       "EN": "I've got to take Rin and run...",
       "Translation": "I've got to take Rin and run..."
     },
     {
-      "JP": "理樹@「いくよ…鈴…」",
+      "JP": "`理樹@「いくよ…鈴…」",
       "EN": "`Riki@❝Rin... Let's get going...❞",
       "Translation": "`Riki@❝Rin... Let's get going...❞"
     },
     {
-      "JP": "の手を引いた。",
+      "JP": "その手を引いた。",
       "EN": "I took her by the hand.",
       "Translation": "I took her by the hand."
     },
     {
-      "JP": "スとは反対方向へ…。",
+      "JP": "バスとは反対方向へ…。",
       "EN": "And began running in the opposite direction from the bus...",
       "Translation": "And began running in the opposite direction from the bus..."
     },
     {
-      "JP": "鈴@「どこへっ…」",
+      "JP": "`鈴@「どこへっ…」",
       "EN": "`Rin@❝Where...❞",
       "Translation": "`Rin@❝Where...❞"
     },
     {
-      "JP": "理樹@「生きるんだ、僕たちは…」",
+      "JP": "`理樹@「生きるんだ、僕たちは…」",
       "EN": "`Riki@❝We're going to live...❞",
       "Translation": "`Riki@❝We're going to live...❞"
     },
     {
-      "JP": "鈴@「みんながっ…」",
+      "JP": "`鈴@「みんながっ…」",
       "EN": "`Rin@❝Everyone is...❞",
       "Translation": "`Rin@❝Everyone is...❞"
     },
     {
-      "JP": "明しても、鈴は納得しないだろう。",
+      "JP": "説明しても、鈴は納得しないだろう。",
       "EN": "Even if I had explained, she wouldn't have accepted it.",
       "Translation": "Even if I had explained, she wouldn't have accepted it."
     },
     {
-      "JP": "は無言でその手を引き続けた。",
+      "JP": "僕は無言でその手を引き続けた。",
       "EN": "So I just kept on walking in silence.",
       "Translation": "So I just kept on walking in silence."
     },
     {
-      "JP": "らは生きるために、戻ってきた。",
+      "JP": "僕らは生きるために、戻ってきた。",
       "EN": "We'd gotten back here in order to keep on living.",
       "Translation": "We'd gotten back here in order to keep on living."
     },
     {
-      "JP": "んなからその強さをもらって。",
+      "JP": "みんなからその強さをもらって。",
       "EN": "They had all given us the strength to make it possible.",
       "Translation": "They had all given us the strength to make it possible."
     },
     {
-      "JP": "れが正しいんだ。",
+      "JP": "これが正しいんだ。",
       "EN": "I had made the right decision.",
       "Translation": "I had made the right decision."
     },
     {
-      "JP": "。",
+      "JP": "右。",
       "EN": "Right.",
       "Translation": "Right."
     },
     {
-      "JP": "。",
+      "JP": "左。",
       "EN": "Left.",
       "Translation": "Left."
     },
     {
-      "JP": "。",
+      "JP": "右。",
       "EN": "Right.",
       "Translation": "Right."
     },
     {
-      "JP": "。",
+      "JP": "左。",
       "EN": "Left.",
       "Translation": "Left."
     },
     {
-      "JP": "歩ずつ歩を進める。",
+      "JP": "一歩ずつ歩を進める。",
       "EN": "Taking one step after another, we moved.",
       "Translation": "Taking one step after another, we moved."
     },
     {
-      "JP": "の場所を後に、鈴を連れて歩いていく。",
+      "JP": "その場所を後に、鈴を連れて歩いていく。",
       "EN": "Having left the scene of the accident, I was walking by Rin's side.",
       "Translation": "Having left the scene of the accident, I was walking by Rin's side."
     },
     {
-      "JP": "だ…恭介。",
+      "JP": "ただ…恭介。",
       "EN": "But... Kyousuke.",
       "Translation": "But... Kyousuke."
     },
     {
-      "JP": "めん…。",
+      "JP": "ごめん…。",
       "EN": "I'm sorry...",
       "Translation": "I'm sorry..."
     },
     {
-      "JP": "は止めようもないよ…。",
+      "JP": "涙は止めようもないよ…。",
       "EN": "I just can't stop crying...",
       "Translation": "I just can't stop crying..."
     },
     {
-      "JP": "れだけは許してほしい…。",
+      "JP": "これだけは許してほしい…。",
       "EN": "Please forgive me...",
       "Translation": "Please forgive me..."
     },
     {
-      "JP": "は僕が守るから…。",
+      "JP": "鈴は僕が守るから…。",
       "EN": "I will protect Rin...",
       "Translation": "I will protect Rin..."
     },
     {
-      "JP": "り続けるから…。",
+      "JP": "守り続けるから…。",
       "EN": "I will protect her till the end of time...",
       "Translation": "I will protect her till the end of time..."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "わりと体の力が抜ける。",
+      "JP": "ふわりと体の力が抜ける。",
       "EN": "All of a sudden, my legs went weak.",
       "Translation": "All of a sudden, my legs went weak."
     },
     {
-      "JP": "うか…こんな時に訪れるのか…。",
+      "JP": "そうか…こんな時に訪れるのか…。",
       "EN": "Wow... I never expected that it would hit now, of all times...",
       "Translation": "Wow... I never expected that it would hit now, of all times..."
     },
     {
-      "JP": "まわしき病気…",
+      "JP": "忌まわしき病気…",
       "EN": "The hateful illness I had... ",
       "Translation": "The hateful illness I had... "
     },
     {
-      "JP": "ルコレプシー…",
+      "JP": "ナルコレプシー…",
       "EN": "narcolepsy.",
       "Translation": "narcolepsy."
     },
     {
-      "JP": "るほど…",
+      "JP": "なるほど…",
       "EN": "I see...",
       "Translation": "I see..."
     },
     {
-      "JP": "し僕があの場で助けにいったり、悩んだりしていたら…",
+      "JP": "もし僕があの場で助けにいったり、悩んだりしていたら…",
       "EN": "If I had ventured into the bus or kept hesitating back there...",
       "Translation": "If I had ventured into the bus or kept hesitating back there..."
     },
     {
-      "JP": "まで倒れてしまって…",
+      "JP": "僕まで倒れてしまって…",
       "EN": "I would have ended up falling asleep...",
       "Translation": "I would have ended up falling asleep..."
     },
     {
-      "JP": "ひとりではどうすることもできなくて…",
+      "JP": "鈴ひとりではどうすることもできなくて…",
       "EN": "Rin wouldn't have been able to figure out what to do...",
       "Translation": "Rin wouldn't have been able to figure out what to do..."
     },
     {
-      "JP": "緒に火に飲まれていたんだな…。",
+      "JP": "一緒に火に飲まれていたんだな…。",
       "EN": "We'd both have been surrounded by fire...",
       "Translation": "We'd both have been surrounded by fire..."
     },
     {
-      "JP": "直線にここまでこれて、よかった…。",
+      "JP": "一直線にここまでこれて、よかった…。",
       "EN": "Thank god that we had made it straight here...",
       "Translation": "Thank god that we had made it straight here..."
     },
     {
-      "JP": "を連れてこれてよかった…。",
+      "JP": "鈴を連れてこれてよかった…。",
       "EN": "I'm glad I was able to bring Rin here with me.",
       "Translation": "I'm glad I was able to bring Rin here with me."
     },
     {
-      "JP": "こまできたなら、大丈夫かな。",
+      "JP": "ここまできたなら、大丈夫かな。",
       "EN": "I wonder if we're safe here.",
       "Translation": "I wonder if we're safe here."
     },
     {
-      "JP": "う、十分離れたかな…。",
+      "JP": "もう、十分離れたかな…。",
       "EN": "I wonder if we're far enough from the bus.",
       "Translation": "I wonder if we're far enough from the bus."
     },
     {
-      "JP": "鈴@「りきっ」",
+      "JP": "`鈴@「りきっ」",
       "EN": "`Rin@❝Riki!❞",
       "Translation": "`Rin@❝Riki!❞"
     },
     {
-      "JP": "は大丈夫…。",
+      "JP": "僕は大丈夫…。",
       "EN": "I'm fine...",
       "Translation": "I'm fine..."
     },
     {
-      "JP": "つものだよ、鈴。",
+      "JP": "いつものだよ、鈴。",
       "EN": "It's just the same as usual, Rin.",
       "Translation": "It's just the same as usual, Rin."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "…。",
+      "JP": "……。",
       "EN": "......",
       "Translation": "......"
     },
     {
-      "JP": "。",
+      "JP": "…。",
       "EN": "...",
       "Translation": "..."
     },
     {
-      "JP": "目覚めたのは白い世界だ。",
+      "JP": "次目覚めたのは白い世界だ。",
       "EN": "When I opened my eyes, I found myself in a white world.",
       "Translation": "When I opened my eyes, I found myself in a white world."
     },
     {
-      "JP": "つか見た世界だ…。",
+      "JP": "いつか見た世界だ…。",
       "EN": "This was a white which I'd seen before...",
       "Translation": "This was a white which I'd seen before..."
     },
     {
-      "JP": "れは遠い記憶の中にあって、うまくは解けてくれなかった。",
+      "JP": "それは遠い記憶の中にあって、うまくは解けてくれなかった。",
       "EN": "The memory of it was too old for me to recall clearly.",
       "Translation": "The memory of it was too old for me to recall clearly."
     },
     {
-      "JP": "滴を打たれている。",
+      "JP": "点滴を打たれている。",
       "EN": "I was on a drip.",
       "Translation": "I was on a drip."
     },
     {
-      "JP": "目覚めたのは白い世界だ。",
+      "JP": "次目覚めたのは白い世界だ。",
       "EN": "When I opened my eyes, I found myself in a white world.",
       "Translation": "When I opened my eyes, I found myself in a white world."
     },
     {
-      "JP": "ろんな世界があるんだな…。",
+      "JP": "いろんな世界があるんだな…。",
       "EN": "There sure were a lot of different worlds...",
       "Translation": "There sure were a lot of different worlds..."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "天井か。",
+      "JP": "…天井か。",
       "EN": "...I saw a ceiling.",
       "Translation": "...I saw a ceiling."
     },
     {
-      "JP": "い天井…。",
+      "JP": "白い天井…。",
       "EN": "A white ceiling...",
       "Translation": "A white ceiling..."
     },
     {
-      "JP": "手が痛む…。",
+      "JP": "右手が痛む…。",
       "EN": "There was a pain in my right arm...",
       "Translation": "There was a pain in my right arm..."
     },
     {
-      "JP": "ち上げて見てみると、管が刺さっていた。",
+      "JP": "持ち上げて見てみると、管が刺さっていた。",
       "EN": "I brought it up and found a needle in it.",
       "Translation": "I brought it up and found a needle in it."
     },
     {
-      "JP": "滴…。",
+      "JP": "点滴…。",
       "EN": "A drip...",
       "Translation": "A drip..."
     },
     {
-      "JP": "院か…。",
+      "JP": "病院か…。",
       "EN": "Apparently this was a hospital...",
       "Translation": "Apparently this was a hospital..."
     },
     {
-      "JP": "ッドで寝てるんだな、僕は…。",
+      "JP": "ベッドで寝てるんだな、僕は…。",
       "EN": "I was lying in bed.",
       "Translation": "I was lying in bed."
     },
     {
-      "JP": "は…？",
+      "JP": "鈴は…？",
       "EN": "Where is Rin...?",
       "Translation": "Where is Rin...?"
     },
     {
-      "JP": "理樹@「鈴っ」",
+      "JP": "`理樹@「鈴っ」",
       "EN": "`Riki@❝Rin!❞",
       "Translation": "`Riki@❝Rin!❞"
     },
     {
-      "JP": "の名を呼んだ。",
+      "JP": "その名を呼んだ。",
       "EN": "I called out her name.",
       "Translation": "I called out her name."
     },
     {
-      "JP": "理樹@「鈴！」",
+      "JP": "`理樹@「鈴！」",
       "EN": "`Riki@❝Rin!❞",
       "Translation": "`Riki@❝Rin!❞"
     },
     {
-      "JP": "鈴@「ここにいる…理樹」",
+      "JP": "`鈴@「ここにいる…理樹」",
       "EN": "`Rin@❝I'm right here... Riki.❞",
       "Translation": "`Rin@❝I'm right here... Riki.❞"
     },
     {
-      "JP": "から声がした。",
+      "JP": "隣から声がした。",
       "EN": "Her voice came from beside me.",
       "Translation": "Her voice came from beside me."
     },
     {
-      "JP": "の方向に顔を向けると、鈴が部屋の端でうずくまっているのが確認できた。",
+      "JP": "その方向に顔を向けると、鈴が部屋の端でうずくまっているのが確認できた。",
       "EN": "I turned my eyes in that direction and found her crouching in the corner of the room.",
       "Translation": "I turned my eyes in that direction and found her crouching in the corner of the room."
     },
     {
-      "JP": "理樹@「よかった…」",
+      "JP": "`理樹@「よかった…」",
       "EN": "`Riki@❝Thank goodness...❞",
       "Translation": "`Riki@❝Thank goodness...❞"
     },
     {
-      "JP": "は安心した。",
+      "JP": "僕は安心した。",
       "EN": "I was relieved.",
       "Translation": "I was relieved."
     },
     {
-      "JP": "を繋ぎたいと思った。",
+      "JP": "手を繋ぎたいと思った。",
       "EN": "I wanted to hold her hand.",
       "Translation": "I wanted to hold her hand."
     },
     {
-      "JP": "も、起きあがることもできず、それはできなかった。",
+      "JP": "でも、起きあがることもできず、それはできなかった。",
       "EN": "But I couldn't, because I couldn't even sit up.",
       "Translation": "But I couldn't, because I couldn't even sit up."
     },
     {
-      "JP": "鈴@「理樹はすごく寝ていたな」",
+      "JP": "`鈴@「理樹はすごく寝ていたな」",
       "EN": "`Rin@❝You slept for so long.❞",
       "Translation": "`Rin@❝You slept for so long.❞"
     },
     {
-      "JP": "理樹@「うん…」",
+      "JP": "`理樹@「うん…」",
       "EN": "`Riki@❝Yeah...❞",
       "Translation": "`Riki@❝Yeah...❞"
     },
     {
-      "JP": "理樹@「疲れてたんだ…」",
+      "JP": "`理樹@「疲れてたんだ…」",
       "EN": "`Riki@❝I was tired...❞",
       "Translation": "`Riki@❝I was tired...❞"
     },
     {
-      "JP": "理樹@「いろいろがんばったから…」",
+      "JP": "`理樹@「いろいろがんばったから…」",
       "EN": "`Riki@❝Because I worked really hard...❞",
       "Translation": "`Riki@❝Because I worked really hard...❞"
     },
     {
-      "JP": "鈴@「そうか…」",
+      "JP": "`鈴@「そうか…」",
       "EN": "`Rin@❝I see...❞",
       "Translation": "`Rin@❝I see...❞"
     },
     {
-      "JP": "理樹@「鈴は怪我はなかったの…？」",
+      "JP": "`理樹@「鈴は怪我はなかったの…？」",
       "EN": "`Riki@❝Aren't you injured...?❞",
       "Translation": "`Riki@❝Aren't you injured...?❞"
     },
     {
-      "JP": "鈴@「………」",
+      "JP": "`鈴@「………」",
       "EN": "`Rin@❝.........❞",
       "Translation": "`Rin@❝.........❞"
     },
     {
-      "JP": "はその質問には答えない。",
+      "JP": "鈴はその質問には答えない。",
       "EN": "She didn't answer my question.",
       "Translation": "She didn't answer my question."
     },
     {
-      "JP": "あ、ベッドに寝ていないわけだから、大丈夫だったんだろう。",
+      "JP": "まあ、ベッドに寝ていないわけだから、大丈夫だったんだろう。",
       "EN": "Well, she should be all right since she wasn't in bed.",
       "Translation": "Well, she should be all right since she wasn't in bed."
     },
     {
-      "JP": "鈴@「あのな」",
+      "JP": "`鈴@「あのな」",
       "EN": "`Rin@❝You know what.❞",
       "Translation": "`Rin@❝You know what.❞"
     },
     {
-      "JP": "鈴@「先に先生に会ったんだ」",
+      "JP": "`鈴@「先に先生に会ったんだ」",
       "EN": "`Rin@❝I saw the doctor.❞",
       "Translation": "`Rin@❝I saw the doctor.❞"
     },
     {
-      "JP": "理樹@「うん…」",
+      "JP": "`理樹@「うん…」",
       "EN": "`Riki@❝Yeah...❞",
       "Translation": "`Riki@❝Yeah...❞"
     },
     {
-      "JP": "鈴@「みんなどうなったか訊いたんだ」",
+      "JP": "`鈴@「みんなどうなったか訊いたんだ」",
       "EN": "`Rin@❝And I asked him about everyone else.❞",
       "Translation": "`Rin@❝And I asked him about everyone else.❞"
     },
     {
-      "JP": "理樹@「うん…」",
+      "JP": "`理樹@「うん…」",
       "EN": "`Riki@❝Yeah...❞",
       "Translation": "`Riki@❝Yeah...❞"
     },
     {
-      "JP": "鈴@「でも教えてくれなかった」",
+      "JP": "`鈴@「でも教えてくれなかった」",
       "EN": "`Rin@❝But he didn't tell me anything.❞",
       "Translation": "`Rin@❝But he didn't tell me anything.❞"
     },
     {
-      "JP": "理樹@「そう…」",
+      "JP": "`理樹@「そう…」",
       "EN": "`Riki@❝I see...❞",
       "Translation": "`Riki@❝I see...❞"
     },
     {
-      "JP": "鈴@「理樹は気にならないのか？」",
+      "JP": "`鈴@「理樹は気にならないのか？」",
       "EN": "`Rin@❝Aren't you worried about them, Riki?❞",
       "Translation": "`Rin@❝Aren't you worried about them, Riki?❞"
     },
     {
-      "JP": "理樹@「あのね、鈴」",
+      "JP": "`理樹@「あのね、鈴」",
       "EN": "`Riki@❝Look, Rin.❞",
       "Translation": "`Riki@❝Look, Rin.❞"
     },
     {
-      "JP": "鈴@「うん？」",
+      "JP": "`鈴@「うん？」",
       "EN": "`Rin@❝Yes?❞",
       "Translation": "`Rin@❝Yes?❞"
     },
     {
-      "JP": "理樹@「僕は鈴を守って生きる」",
+      "JP": "`理樹@「僕は鈴を守って生きる」",
       "EN": "`Riki@❝I'm going to protect you for the rest of my life.❞",
       "Translation": "`Riki@❝I'm going to protect you for the rest of my life.❞"
     },
     {
-      "JP": "鈴@「…突然なんだ？」",
+      "JP": "`鈴@「…突然なんだ？」",
       "EN": "`Rin@❝...What's that all of a sudden?❞",
       "Translation": "`Rin@❝...What's that all of a sudden?❞"
     },
     {
-      "JP": "理樹@「ようは…」",
+      "JP": "`理樹@「ようは…」",
       "EN": "`Riki@❝I mean...❞",
       "Translation": "`Riki@❝I mean...❞"
     },
     {
-      "JP": "理樹@「何が起きようとも、僕がいる」",
+      "JP": "`理樹@「何が起きようとも、僕がいる」",
       "EN": "`Riki@❝Whatever happens to you, I will be right beside you.❞",
       "Translation": "`Riki@❝Whatever happens to you, I will be right beside you.❞"
     },
     {
-      "JP": "理樹@「だから、安心してよ」",
+      "JP": "`理樹@「だから、安心してよ」",
       "EN": "`Riki@❝So there's nothing to be worried about.❞",
       "Translation": "`Riki@❝So there's nothing to be worried about.❞"
     },
     {
-      "JP": "理樹@「鈴の手を引いていく」",
+      "JP": "`理樹@「鈴の手を引いていく」",
       "EN": "`Riki@❝I'll take you by the hand.❞",
       "Translation": "`Riki@❝I'll take you by the hand.❞"
     },
     {
-      "JP": "理樹@「どこまでもいくから…」",
+      "JP": "`理樹@「どこまでもいくから…」",
       "EN": "`Riki@❝And I'll stick with you wherever you go...❞",
       "Translation": "`Riki@❝And I'll stick with you wherever you go...❞"
     },
     {
-      "JP": "理樹@「一緒に生きよう」",
+      "JP": "`理樹@「一緒に生きよう」",
       "EN": "`Riki@❝I want you to live with me.❞",
       "Translation": "`Riki@❝I want you to live with me.❞"
     },
     {
-      "JP": "鈴@「………」",
+      "JP": "`鈴@「………」",
       "EN": "`Rin@❝.........❞",
       "Translation": "`Rin@❝.........❞"
     },
     {
-      "JP": "鈴@「…それは…プロポーズか？」",
+      "JP": "`鈴@「…それは…プロポーズか？」",
       "EN": "`Rin@❝...Is that a proposal?❞",
       "Translation": "`Rin@❝...Is that a proposal?❞"
     },
     {
-      "JP": "理樹@「うん」",
+      "JP": "`理樹@「うん」",
       "EN": "`Riki@❝Yes.❞",
       "Translation": "`Riki@❝Yes.❞"
     },
     {
-      "JP": "鈴@「唐突だな…」",
+      "JP": "`鈴@「唐突だな…」",
       "EN": "`Rin@❝It's so sudden...❞",
       "Translation": "`Rin@❝It's so sudden...❞"
     },
     {
-      "JP": "理樹@「うん…」",
+      "JP": "`理樹@「うん…」",
       "EN": "`Riki@❝Yes...❞",
       "Translation": "`Riki@❝Yes...❞"
     },
     {
-      "JP": "鈴@「うーん…」",
+      "JP": "`鈴@「うーん…」",
       "EN": "`Rin@❝Hmm...❞",
       "Translation": "`Rin@❝Hmm...❞"
     },
     {
-      "JP": "鈴@「理樹ならいいな」",
+      "JP": "`鈴@「理樹ならいいな」",
       "EN": "`Rin@❝If it's you, it's okay.❞",
       "Translation": "`Rin@❝If it's you, it's okay.❞"
     },
     {
-      "JP": "鈴@「うん、受けてやる」",
+      "JP": "`鈴@「うん、受けてやる」",
       "EN": "`Rin@❝Yep, I accept your proposal.❞",
       "Translation": "`Rin@❝Yep, I accept your proposal.❞"
     },
     {
-      "JP": "理樹@「そんな大層なものじゃないけど…」",
+      "JP": "`理樹@「そんな大層なものじゃないけど…」",
       "EN": "`Riki@❝No, it's nothing that grand...❞",
       "Translation": "`Riki@❝No, it's nothing that grand...❞"
     },
     {
-      "JP": "理樹@「ずっと守っていけたらな…って」",
+      "JP": "`理樹@「ずっと守っていけたらな…って」",
       "EN": "`Riki@❝I just want to stay by you and protect you always...❞",
       "Translation": "`Riki@❝I just want to stay by you and protect you always...❞"
     },
     {
-      "JP": "鈴@「そうか…」",
+      "JP": "`鈴@「そうか…」",
       "EN": "`Rin@❝Okay...❞",
       "Translation": "`Rin@❝Okay...❞"
     },
     {
-      "JP": "理樹@「そんな大層なものじゃないけど…」",
+      "JP": "`理樹@「そんな大層なものじゃないけど…」",
       "EN": "`Riki@❝No, it's nothing that grand...❞",
       "Translation": "`Riki@❝No, it's nothing that grand...❞"
     },
     {
-      "JP": "理樹@「ずっと守っていけたらな…って」",
+      "JP": "`理樹@「ずっと守っていけたらな…って」",
       "EN": "`Riki@❝I just want to stay by you and protect you always...❞",
       "Translation": "`Riki@❝I just want to stay by you and protect you always...❞"
     },
     {
-      "JP": "鈴@「そうか…」",
+      "JP": "`鈴@「そうか…」",
       "EN": "`Rin@❝Okay...❞",
       "Translation": "`Rin@❝Okay...❞"
     },
     {
-      "JP": "鈴@「理樹がいるならこれからもずっと…生きていけそうだ」",
+      "JP": "`鈴@「理樹がいるならこれからもずっと…生きていけそうだ」",
       "EN": "`Rin@❝If you are beside me... I think I can go on.❞",
       "Translation": "`Rin@❝If you are beside me... I think I can go on.❞"
     },
     {
-      "JP": "鈴@「だから、いなくなるんじゃないぞ」",
+      "JP": "`鈴@「だから、いなくなるんじゃないぞ」",
       "EN": "`Rin@❝So, don't go away.❞",
       "Translation": "`Rin@❝So, don't go away.❞"
     },
     {
-      "JP": "理樹@「うん…僕は大丈夫」",
+      "JP": "`理樹@「うん…僕は大丈夫」",
       "EN": "`Riki@❝Sure... I won't.❞",
       "Translation": "`Riki@❝Sure... I won't.❞"
     },
     {
-      "JP": "鈴@「…よかった」",
+      "JP": "`鈴@「…よかった」",
       "EN": "`Rin@❝...I'm glad.❞",
       "Translation": "`Rin@❝...I'm glad.❞"
     },
     {
-      "JP": "は前向きだ。僕がいるから。",
+      "JP": "鈴は前向きだ。僕がいるから。",
       "EN": "She sounds positive about the future because I'm with her.",
       "Translation": "She sounds positive about the future because I'm with her."
     },
     {
-      "JP": "れからはずっとそばにいるから。",
+      "JP": "これからはずっとそばにいるから。",
       "EN": "From now on, I will be with you forever.",
       "Translation": "From now on, I will be with you forever."
     },
     {
-      "JP": "鈴@「理樹がいるならこれからもずっと…生きていけそうだ」",
+      "JP": "`鈴@「理樹がいるならこれからもずっと…生きていけそうだ」",
       "EN": "`Rin@❝If you are beside me... I think I can go on.❞",
       "Translation": "`Rin@❝If you are beside me... I think I can go on.❞"
     },
     {
-      "JP": "鈴@「だから、いなくなるんじゃないぞ」",
+      "JP": "`鈴@「だから、いなくなるんじゃないぞ」",
       "EN": "`Rin@❝So, don't go away.❞",
       "Translation": "`Rin@❝So, don't go away.❞"
     },
     {
-      "JP": "理樹@「うん…僕は大丈夫」",
+      "JP": "`理樹@「うん…僕は大丈夫」",
       "EN": "`Riki@❝Sure... I won't.❞",
       "Translation": "`Riki@❝Sure... I won't.❞"
     },
     {
-      "JP": "鈴@「そうか…」",
+      "JP": "`鈴@「そうか…」",
       "EN": "`Rin@❝All right...❞",
       "Translation": "`Rin@❝All right...❞"
     },
     {
-      "JP": "鈴@「よかった」",
+      "JP": "`鈴@「よかった」",
       "EN": "`Rin@❝I'm glad.❞",
       "Translation": "`Rin@❝I'm glad.❞"
     },
     {
-      "ERR": "#Invalid Instruct"
+      "JP": "",
+      "EN": "",
+      "Translation": ""
     },
     {
-      "JP": "んながいない。",
+      "JP": "みんながいない。",
       "EN": "Everyone else is not here.",
       "Translation": "Everyone else is not here."
     },
     {
-      "JP": "たちしかいない。",
+      "JP": "僕たちしかいない。",
       "EN": "Only us two.",
       "Translation": "Only us two."
     },
     {
-      "JP": "能性はある。",
+      "JP": "可能性はある。",
       "EN": "We did have a chance of rescuing them,",
       "Translation": "We did have a chance of rescuing them,"
     },
     {
-      "JP": "が、ナルコレプシーを克服すればいい。",
+      "JP": "僕が、ナルコレプシーを克服すればいい。",
       "EN": "if only I could have overcome my narcolepsy.",
       "Translation": "if only I could have overcome my narcolepsy."
     },
     {
-      "JP": "たしも強くなる。",
+      "JP": "あたしも強くなる。",
       "EN": "I'll make myself stronger too.",
       "Translation": "I'll make myself stronger too."
     },
     {
-      "JP": "たちの心はもう結束してるんだよ、恭介。",
+      "JP": "僕たちの心はもう結束してるんだよ、恭介。",
       "EN": "We're all connected to one another, Kyousuke.",
       "Translation": "We're all connected to one another, Kyousuke."
     },
     {
-      "JP": "丈夫だよ。",
+      "JP": "大丈夫だよ。",
       "EN": "It's going to be all right.",
       "Translation": "It's going to be all right."
     },
     {
-      "JP": "界は鈴と僕で作る。",
+      "JP": "世界は鈴と僕で作る。",
       "EN": "Rin and I will create a world.",
       "Translation": "Rin and I will create a world."
     },
     {
-      "JP": "こう、鈴。",
+      "JP": "いこう、鈴。",
       "EN": "Let's go, Rin.",
       "Translation": "Let's go, Rin."
     },
     {
-      "JP": "りん、と音がした。",
+      "JP": "ちりん、と音がした。",
       "EN": "Her bell chimed.",
       "Translation": "Her bell chimed."
     },
     {
-      "JP": "時に波紋が広がる。",
+      "JP": "同時に波紋が広がる。",
       "EN": "And as it did, a ripple spread.",
       "Translation": "And as it did, a ripple spread."
     },
     {
-      "JP": "は…どこまでいこう？",
+      "JP": "僕は…どこまでいこう？",
       "EN": "How far... should I go back?",
       "Translation": "How far... should I go back?"
     },
     {
-      "JP": "自身のことだ。どこまでだって遡れる。",
+      "JP": "僕自身のことだ。どこまでだって遡れる。",
       "EN": "This is all about myself, so I can retrace as much as I need.",
       "Translation": "This is all about myself, so I can retrace as much as I need."
     },
     {
-      "JP": "真人@「すげぇな…鈴まで一緒だぜ」",
+      "JP": "`真人@「すげぇな…鈴まで一緒だぜ」",
       "EN": "`Masato@❝Holy crap... even Rin is with us.❞",
       "Translation": "`Masato@❝Holy crap... even Rin is with us.❞"
     },
     {
-      "JP": "真人@「ちっ、謙吾は余計だ…」",
+      "JP": "`真人@「ちっ、謙吾は余計だ…」",
       "EN": "`Masato@❝Dammit, I don't need Kengo...❞",
       "Translation": "`Masato@❝Dammit, I don't need Kengo...❞"
     },
     {
-      "JP": "理樹@「恭介以外揃ったんだね…」",
+      "JP": "`理樹@「恭介以外揃ったんだね…」",
       "EN": "`Riki@❝We're all together except for Kyousuke...❞",
       "Translation": "`Riki@❝We're all together except for Kyousuke...❞"
     },
     {
-      "JP": "真人@「理樹、よかったな。オレも一緒だぜ」",
+      "JP": "`真人@「理樹、よかったな。オレも一緒だぜ」",
       "EN": "`Masato@❝Riki, good for you. You get to be together with me.❞",
       "Translation": "`Masato@❝Riki, good for you. You get to be together with me.❞"
     },
     {
-      "JP": "理樹@「ルームメイトだけでも十分だったんだけど…」",
+      "JP": "`理樹@「ルームメイトだけでも十分だったんだけど…」",
       "EN": "`Riki@❝Having you as just my roommate was enough for me, though...❞",
       "Translation": "`Riki@❝Having you as just my roommate was enough for me, though...❞"
     },
     {
-      "JP": "れは…春だ。",
+      "JP": "これは…春だ。",
       "EN": "This was... spring.",
       "Translation": "This was... spring."
     },
     {
-      "JP": "ラス替えの発表だ。",
+      "JP": "クラス替えの発表だ。",
       "EN": "When we checked out the class distribution announcement.",
       "Translation": "When we checked out the class distribution announcement."
     },
     {
-      "JP": "だまだこんなところには僕の弱さはない。",
+      "JP": "まだまだこんなところには僕の弱さはない。",
       "EN": "It's too recent, I can't find my weakness here.",
       "Translation": "It's too recent, I can't find my weakness here."
     },
     {
-      "JP": "らに還ろう。",
+      "JP": "さらに還ろう。",
       "EN": "I need to go back more.",
       "Translation": "I need to go back more."
     },
     {
-      "JP": "理樹@「ま、待ってよ、はやいよっ」",
+      "JP": "`理樹@「ま、待ってよ、はやいよっ」",
       "EN": "`Riki@❝S-slow down, you're too fast!❞",
       "Translation": "`Riki@❝S-slow down, you're too fast!❞"
     },
     {
-      "JP": "少年@「ばかっ、敵は待ってなんてくれねぇんだぞっ」",
+      "JP": "`少年@「ばかっ、敵は待ってなんてくれねぇんだぞっ」",
       "EN": "`Young Boy@❝Stupid, there's no evil that waits for the heroes to come to them.❞",
       "Translation": "`Young Boy@❝Stupid, there's no evil that waits for the heroes to come to them.❞"
     },
     {
-      "JP": "少年@「わーーーはっはっは！　リトルバスターズ参上だ！」",
+      "JP": "`少年@「わーーーはっはっは！　リトルバスターズ参上だ！」",
       "EN": "`Young Boy@❝Waaahahaha! The Little Busters have arrived!❞",
       "Translation": "`Young Boy@❝Waaahahaha! The Little Busters have arrived!❞"
     },
     {
-      "JP": "少年@「まだ参上しとらん」",
+      "JP": "`少年@「まだ参上しとらん」",
       "EN": "`Young Boy@❝We aren't there yet.❞",
       "Translation": "`Young Boy@❝We aren't there yet.❞"
     },
     {
-      "JP": "少年@「………」",
+      "JP": "`少年@「………」",
       "EN": "`Young Boy@❝.........❞",
       "Translation": "`Young Boy@❝.........❞"
     },
     {
-      "JP": "れは…最初のリトルバスターズ。",
+      "JP": "これは…最初のリトルバスターズ。",
       "EN": "This was... the original Little Busters.",
       "Translation": "This was... the original Little Busters."
     },
     {
-      "JP": "の町を５人で駆け回っていた時だ。",
+      "JP": "この町を５人で駆け回っていた時だ。",
       "EN": "The five of us were running about the town day after day.",
       "Translation": "The five of us were running about the town day after day."
     },
     {
-      "JP": "快な日々。",
+      "JP": "痛快な日々。",
       "EN": "Those days were so thrilling.",
       "Translation": "Those days were so thrilling."
     },
     {
-      "JP": "は傷心の身でいたはずだ。",
+      "JP": "僕は傷心の身でいたはずだ。",
       "EN": "But I'm sure my heart was still wounded at that time.",
       "Translation": "But I'm sure my heart was still wounded at that time."
     },
     {
-      "JP": "もそれは癒えてなかったんだ。",
+      "JP": "でもそれは癒えてなかったんだ。",
       "EN": "I hadn't been completely cured.",
       "Translation": "I hadn't been completely cured."
     },
     {
-      "JP": "れていただけ。",
+      "JP": "忘れていただけ。",
       "EN": "I had just put it out of my mind.",
       "Translation": "I had just put it out of my mind."
     },
     {
-      "JP": "だまだ遠くにある気がする。",
+      "JP": "まだまだ遠くにある気がする。",
       "EN": "I think I need to go back much more.",
       "Translation": "I think I need to go back much more."
     },
     {
-      "JP": "こう。",
+      "JP": "いこう。",
       "EN": "Let's go.",
       "Translation": "Let's go."
     },
     {
-      "JP": "きな体がふたつ…横たわっている…。",
+      "JP": "大きな体がふたつ…横たわっている…。",
       "EN": "There were two large bodies... lying...",
       "Translation": "There were two large bodies... lying..."
     },
     {
-      "JP": "に触れてみた。",
+      "JP": "手に触れてみた。",
       "EN": "I touched them.",
       "Translation": "I touched them."
     },
     {
-      "JP": "たかった。",
+      "JP": "冷たかった。",
       "EN": "They were both cold.",
       "Translation": "They were both cold."
     },
     {
-      "JP": "うしてこんなに冷たいの？",
+      "JP": "どうしてこんなに冷たいの？",
       "EN": "Why were they so cold?",
       "Translation": "Why were they so cold?"
     },
     {
-      "JP": "からない…。",
+      "JP": "わからない…。",
       "EN": "I didn't know...",
       "Translation": "I didn't know..."
     },
     {
-      "JP": "かが僕の肩を抱きしめる。",
+      "JP": "誰かが僕の肩を抱きしめる。",
       "EN": "Someone hugged me.",
       "Translation": "Someone hugged me."
     },
     {
-      "JP": "あ、そうか…。",
+      "JP": "ああ、そうか…。",
       "EN": "Ah, I get it...",
       "Translation": "Ah, I get it..."
     },
     {
-      "JP": "はショックを受けているんだ。",
+      "JP": "僕はショックを受けているんだ。",
       "EN": "I was in shock.",
       "Translation": "I was in shock."
     },
     {
-      "JP": "から、見知らぬ誰かに慰められているんだ。",
+      "JP": "だから、見知らぬ誰かに慰められているんだ。",
       "EN": "So this stranger was comforting me.",
       "Translation": "So this stranger was comforting me."
     },
     {
-      "JP": "れは、その日から見続けてきた僕の『夢』だ。",
+      "JP": "それは、その日から見続けてきた僕の『夢』だ。",
       "EN": "That is the ❛dream❜ of mine that I've been seeing since that day.",
       "Translation": "That is the ❛dream❜ of mine that I've been seeing since that day."
     },
     {
-      "JP": "して。",
+      "JP": "そして。",
       "EN": "And",
       "Translation": "And"
     },
     {
-      "JP": "は夢の中で眠りに落ちた。",
+      "JP": "僕は夢の中で眠りに落ちた。",
       "EN": "in that dream, I fell asleep.",
       "Translation": "in that dream, I fell asleep."
     },
     {
-      "JP": "うか、これが始まりだ。",
+      "JP": "そうか、これが始まりだ。",
       "EN": "This is it, this is the beginning.",
       "Translation": "This is it, this is the beginning."
     },
     {
-      "JP": "は知りたくなかったんだ。",
+      "JP": "僕は知りたくなかったんだ。",
       "EN": "I didn't want to learn.",
       "Translation": "I didn't want to learn."
     },
     {
-      "JP": "きることが、失うことだったなんて。",
+      "JP": "生きることが、失うことだったなんて。",
       "EN": "I didn't want to learn that living meant losing something.",
       "Translation": "I didn't want to learn that living meant losing something."
     },
     {
-      "JP": "こで、歩みを、止めた。",
+      "JP": "そこで、歩みを、止めた。",
       "EN": "I stopped walking there.",
       "Translation": "I stopped walking there."
     },
     {
-      "JP": "ちる…。",
+      "JP": "落ちる…。",
       "EN": "And started falling...",
       "Translation": "And started falling..."
     },
     {
-      "JP": "らに落ちてゆく…。",
+      "JP": "さらに落ちてゆく…。",
       "EN": "Falling deeper and deeper...",
       "Translation": "Falling deeper and deeper..."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "…。",
+      "JP": "……。",
       "EN": "......",
       "Translation": "......"
     },
     {
-      "JP": "。",
+      "JP": "…。",
       "EN": "...",
       "Translation": "..."
     },
     {
-      "JP": "あ…",
+      "JP": "ああ…",
       "EN": "Ah...",
       "Translation": "Ah..."
     },
     {
-      "JP": "はまだ生まれてもいない。",
+      "JP": "僕はまだ生まれてもいない。",
       "EN": "I'm not even born yet.",
       "Translation": "I'm not even born yet."
     },
     {
-      "JP": "だ世界を知らない。",
+      "JP": "まだ世界を知らない。",
       "EN": "I don't know anything about the world.",
       "Translation": "I don't know anything about the world."
     },
     {
-      "JP": "きることもしらない。",
+      "JP": "生きることもしらない。",
       "EN": "I don't even know of living.",
       "Translation": "I don't even know of living."
     },
     {
-      "JP": "もこの先、僕は失うことを知っている。",
+      "JP": "でもこの先、僕は失うことを知っている。",
       "EN": "But nonetheless, I know of loss.",
       "Translation": "But nonetheless, I know of loss."
     },
     {
-      "JP": "れが生きることだ。",
+      "JP": "それが生きることだ。",
       "EN": "That is what living means.",
       "Translation": "That is what living means."
     },
     {
-      "JP": "んてつらいことだ。生きることとは。",
+      "JP": "なんてつらいことだ。生きることとは。",
       "EN": "Living is just so painful.",
       "Translation": "Living is just so painful."
     },
     {
-      "JP": "ったら、生まれなくていいじゃないか。",
+      "JP": "だったら、生まれなくていいじゃないか。",
       "EN": "Then, I just don't have to be born.",
       "Translation": "Then, I just don't have to be born."
     },
     {
-      "JP": "こは居心地がいい。",
+      "JP": "ここは居心地がいい。",
       "EN": "It's comfortable in here.",
       "Translation": "It's comfortable in here."
     },
     {
-      "JP": "たたかい…。",
+      "JP": "あたたかい…。",
       "EN": "It's warm...",
       "Translation": "It's warm..."
     },
     {
-      "JP": "っとこのままここにいたい。",
+      "JP": "ずっとこのままここにいたい。",
       "EN": "I wanna stay in here forever.",
       "Translation": "I wanna stay in here forever."
     },
     {
-      "JP": "とりになりたくないんだ。",
+      "JP": "ひとりになりたくないんだ。",
       "EN": "I don't wanna be alone.",
       "Translation": "I don't wanna be alone."
     },
     {
-      "JP": "わいんです。",
+      "JP": "こわいんです。",
       "EN": "I'm scared.",
       "Translation": "I'm scared."
     },
     {
-      "JP": "らいのはいやだ。",
+      "JP": "つらいのはいやだ。",
       "EN": "I don't want anything hard.",
       "Translation": "I don't want anything hard."
     },
     {
-      "JP": "こくなのはいやだ。",
+      "JP": "かこくなのはいやだ。",
       "EN": "I don't want anything cruel.",
       "Translation": "I don't want anything cruel."
     },
     {
-      "JP": "あ…どうか、ずっとこのぬくもりの中にいさせてください。",
+      "JP": "ああ…どうか、ずっとこのぬくもりの中にいさせてください。",
       "EN": "Ah... Please let me stay in this warmth forever.",
       "Translation": "Ah... Please let me stay in this warmth forever."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "れだ…きみは。",
+      "JP": "だれだ…きみは。",
       "EN": "Who's... there?",
       "Translation": "Who's... there?"
     },
     {
-      "JP": "れかがいる。",
+      "JP": "だれかがいる。",
       "EN": "There is somebody.",
       "Translation": "There is somebody."
     },
     {
-      "JP": "まれてもいない、ぼくのきおくの中にだれかがいる。",
+      "JP": "うまれてもいない、ぼくのきおくの中にだれかがいる。",
       "EN": "There is somebody in this memory of mine, somebody who is not even born yet.",
       "Translation": "There is somebody in this memory of mine, somebody who is not even born yet."
     },
     {
-      "JP": "みはだれだい？",
+      "JP": "きみはだれだい？",
       "EN": "Who are you?",
       "Translation": "Who are you?"
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "くちな子だね。",
+      "JP": "むくちな子だね。",
       "EN": "You're so silent.",
       "Translation": "You're so silent."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "うしてだろう…。",
+      "JP": "どうしてだろう…。",
       "EN": "I wonder why...",
       "Translation": "I wonder why..."
     },
     {
-      "JP": "くは、きみとであいたい。",
+      "JP": "ぼくは、きみとであいたい。",
       "EN": "I want to meet you.",
       "Translation": "I want to meet you."
     },
     {
-      "JP": "うかんじる。",
+      "JP": "そうかんじる。",
       "EN": "I have that feeling.",
       "Translation": "I have that feeling."
     },
     {
-      "JP": "のかんじょうはなに？",
+      "JP": "このかんじょうはなに？",
       "EN": "What is that feeling?",
       "Translation": "What is that feeling?"
     },
     {
-      "JP": "つかなにもかもがうしなわれるのに。",
+      "JP": "いつかなにもかもがうしなわれるのに。",
       "EN": "I know everything will be lost in the end.",
       "Translation": "I know everything will be lost in the end."
     },
     {
-      "JP": "くは、きみとであいたい。",
+      "JP": "ぼくは、きみとであいたい。",
       "EN": "But I still want to meet you.",
       "Translation": "But I still want to meet you."
     },
     {
-      "JP": "のしょうどうはなに？",
+      "JP": "このしょうどうはなに？",
       "EN": "What's that sensation?",
       "Translation": "What's that sensation?"
     },
     {
-      "JP": "ほかにもたくさんのかおがうかんでくる。",
+      "JP": "…ほかにもたくさんのかおがうかんでくる。",
       "EN": "...Other faces are rising to my mind.",
       "Translation": "...Other faces are rising to my mind."
     },
     {
-      "JP": "みたちはだれ？",
+      "JP": "きみたちはだれ？",
       "EN": "Who are you all?",
       "Translation": "Who are you all?"
     },
     {
-      "JP": "も、そこもあたたかだ。",
+      "JP": "でも、そこもあたたかだ。",
       "EN": "But there is also warmth there.",
       "Translation": "But there is also warmth there."
     },
     {
-      "JP": "てもいごこちがよさそうだ。",
+      "JP": "とてもいごこちがよさそうだ。",
       "EN": "It feels like a comfortable place to be.",
       "Translation": "It feels like a comfortable place to be."
     },
     {
-      "JP": "も、であってしまったら、いつかうしなう。",
+      "JP": "でも、であってしまったら、いつかうしなう。",
       "EN": "But if I meet someone, I'll end up losing them some day.",
       "Translation": "But if I meet someone, I'll end up losing them some day."
     },
     {
-      "JP": "れはこわい。",
+      "JP": "それはこわい。",
       "EN": "That's scary.",
       "Translation": "That's scary."
     },
     {
-      "JP": "のに、そうしたい、このしょうどうはなんだろう…。",
+      "JP": "なのに、そうしたい、このしょうどうはなんだろう…。",
       "EN": "Even knowing that, I want to meet them. What is this sensation...?",
       "Translation": "Even knowing that, I want to meet them. What is this sensation...?"
     },
     {
-      "JP": "あ…そうか…",
+      "JP": "ああ…そうか…",
       "EN": "Ah... I know now.",
       "Translation": "Ah... I know now."
     },
     {
-      "JP": "れは…ぼくが…",
+      "JP": "それは…ぼくが…",
       "EN": "That is because... ",
       "Translation": "That is because... "
     },
     {
-      "JP": "しなうことより、であうことのほうがたいせつだと…しったからだ。",
+      "JP": "うしなうことより、であうことのほうがたいせつだと…しったからだ。",
       "EN": "I have learned that... the encounter is much more important than the loss.",
       "Translation": "I have learned that... the encounter is much more important than the loss."
     },
     {
-      "JP": "しなえばかなしい、つらい。",
+      "JP": "うしなえばかなしい、つらい。",
       "EN": "Losing people is sad and painful.",
       "Translation": "Losing people is sad and painful."
     },
     {
-      "JP": "も、それをおそれて、であわないより…",
+      "JP": "でも、それをおそれて、であわないより…",
       "EN": "Yet I now know that, compared to that pain...",
       "Translation": "Yet I now know that, compared to that pain..."
     },
     {
-      "JP": "ととであい、いっしょにすごすじかんのほうが…",
+      "JP": "ひととであい、いっしょにすごすじかんのほうが…",
       "EN": "...coming to know people and spending time with them is much, much more valuable...",
       "Translation": "...coming to know people and spending time with them is much, much more valuable..."
     },
     {
-      "JP": "いせつで、かけがえのないものだってことをしっている。",
+      "JP": "たいせつで、かけがえのないものだってことをしっている。",
       "EN": "...That those encounters are something precious and irreplaceable.",
       "Translation": "...That those encounters are something precious and irreplaceable."
     },
     {
-      "JP": "それてばかりではだめだ…",
+      "JP": "おそれてばかりではだめだ…",
       "EN": "I must stop being scared...",
       "Translation": "I must stop being scared..."
     },
     {
-      "JP": "しなうのは、もちろんかなしいけど…",
+      "JP": "うしなうのは、もちろんかなしいけど…",
       "EN": "Of course, losing things is sad...",
       "Translation": "Of course, losing things is sad..."
     },
     {
-      "JP": "くさんのであいがまってくれている。",
+      "JP": "たくさんのであいがまってくれている。",
       "EN": "But there are so many people waiting for me to meet them.",
       "Translation": "But there are so many people waiting for me to meet them."
     },
     {
-      "JP": "くさんのかけがえのないじかんが、まってくれている。",
+      "JP": "たくさんのかけがえのないじかんが、まってくれている。",
       "EN": "There are so many precious moments waiting to be spent.",
       "Translation": "There are so many precious moments waiting to be spent."
     },
     {
-      "JP": "して、いつか、みんなにつたえよう。",
+      "JP": "そして、いつか、みんなにつたえよう。",
       "EN": "And some day, I will make everyone know",
       "Translation": "And some day, I will make everyone know"
     },
     {
-      "JP": "まれることはすばらしいよ、って。",
+      "JP": "うまれることはすばらしいよ、って。",
       "EN": "that having been born is such a wonderful thing.",
       "Translation": "that having been born is such a wonderful thing."
     },
     {
-      "JP": "まれることをおそれているひとたちにつたえよう。",
+      "JP": "うまれることをおそれているひとたちにつたえよう。",
       "EN": "I will tell even those who are afraid of being born",
       "Translation": "I will tell even those who are afraid of being born"
     },
     {
-      "JP": "ばらしいであいがたくさんまってたよって。",
+      "JP": "すばらしいであいがたくさんまってたよって。",
       "EN": "of all those wonderful people I met,",
       "Translation": "of all those wonderful people I met,"
     },
     {
-      "JP": "てもしあわせだったよって。",
+      "JP": "とてもしあわせだったよって。",
       "EN": "and how happy they made me.",
       "Translation": "and how happy they made me."
     },
     {
-      "JP": "こよりもとおい世界で。",
+      "JP": "ここよりもとおい世界で。",
       "EN": "I will tell people in another world, far from here.",
       "Translation": "I will tell people in another world, far from here."
     },
     {
-      "JP": "から…",
+      "JP": "だから…",
       "EN": "So...",
       "Translation": "So..."
     },
     {
-      "JP": "くは、いま生をうけいれる。",
+      "JP": "ぼくは、いま生をうけいれる。",
       "EN": "I will accept my birth.",
       "Translation": "I will accept my birth."
     },
     {
-      "JP": "まれよう。",
+      "JP": "うまれよう。",
       "EN": "I will be born",
       "Translation": "I will be born"
     },
     {
-      "JP": "らたな世界へ。",
+      "JP": "あらたな世界へ。",
       "EN": "into a whole new world.",
       "Translation": "into a whole new world."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "…。",
+      "JP": "……。",
       "EN": "......",
       "Translation": "......"
     },
     {
-      "JP": "。",
+      "JP": "…。",
       "EN": "...",
       "Translation": "..."
     },
     {
-      "JP": "覚めた。",
+      "JP": "目覚めた。",
       "EN": "I woke up.",
       "Translation": "I woke up."
     },
     {
-      "JP": "れはこの世に今、生まれ落ちたような生々しい感覚だった。",
+      "JP": "それはこの世に今、生まれ落ちたような生々しい感覚だった。",
       "EN": "I had this vivid feeling, like I had at this moment been born into this world.",
       "Translation": "I had this vivid feeling, like I had at this moment been born into this world."
     },
     {
-      "JP": "までいた世界とは違う。",
+      "JP": "今までいた世界とは違う。",
       "EN": "A world different from the one I had been in.",
       "Translation": "A world different from the one I had been in."
     },
     {
-      "JP": "身を襲う痛み。",
+      "JP": "全身を襲う痛み。",
       "EN": "Pain wracked my entire body.",
       "Translation": "Pain wracked my entire body."
     },
     {
-      "JP": "の感覚だけですべてを実感した。",
+      "JP": "その感覚だけですべてを実感した。",
       "EN": "And the pain told me everything.",
       "Translation": "And the pain told me everything."
     },
     {
-      "JP": "れが本当の世界なんだと。",
+      "JP": "これが本当の世界なんだと。",
       "EN": "It told me I was back in the real world.",
       "Translation": "It told me I was back in the real world."
     },
     {
-      "JP": "を動かす。",
+      "JP": "体を動かす。",
       "EN": "I tried to move.",
       "Translation": "I tried to move."
     },
     {
-      "JP": "こが上で下だかもわからない。",
+      "JP": "どこが上で下だかもわからない。",
       "EN": "I couldn't tell which side was up or down.",
       "Translation": "I couldn't tell which side was up or down."
     },
     {
-      "JP": "声@「…りき」",
+      "JP": "`声@「…りき」",
       "EN": "`Voice@❝...Riki...❞",
       "Translation": "`Voice@❝...Riki...❞"
     },
     {
-      "JP": "ぐそばで声がした。鈴の声だ！",
+      "JP": "すぐそばで声がした。鈴の声だ！",
       "EN": "Someone called my name. It was Rin's voice!",
       "Translation": "Someone called my name. It was Rin's voice!"
     },
     {
-      "JP": "理樹@「鈴、ここだ、僕はここだよっ」",
+      "JP": "`理樹@「鈴、ここだ、僕はここだよっ」",
       "EN": "`Riki@❝Rin, right here, I'm right here!❞",
       "Translation": "`Riki@❝Rin, right here, I'm right here!❞"
     },
     {
-      "JP": "死に伝えた。",
+      "JP": "必死に伝えた。",
       "EN": "I desperately called to her.",
       "Translation": "I desperately called to her."
     },
     {
-      "JP": "を伸ばした。",
+      "JP": "手を伸ばした。",
       "EN": "I extended my arm.",
       "Translation": "I extended my arm."
     },
     {
-      "JP": "し。",
+      "JP": "ぱし。",
       "EN": "*Grab*.",
       "Translation": "*Grab*."
     },
     {
-      "JP": "れが合わさった。",
+      "JP": "それが合わさった。",
       "EN": "We seized each other's hand.",
       "Translation": "We seized each other's hand."
     },
     {
-      "JP": "かい…。",
+      "JP": "温かい…。",
       "EN": "Her hand was warm...",
       "Translation": "Her hand was warm..."
     },
     {
-      "JP": "鈴@「りき…からだがいたい」",
+      "JP": "`鈴@「りき…からだがいたい」",
       "EN": "`Rin@❝Riki... My body hurts.❞",
       "Translation": "`Rin@❝Riki... My body hurts.❞"
     },
     {
-      "JP": "理樹@「僕もだよ…」",
+      "JP": "`理樹@「僕もだよ…」",
       "EN": "`Riki@❝So does mine...❞",
       "Translation": "`Riki@❝So does mine...❞"
     },
     {
-      "JP": "を這わせて寄っていって、顔を見た。",
+      "JP": "体を這わせて寄っていって、顔を見た。",
       "EN": "I crawled up to her and looked into her face.",
       "Translation": "I crawled up to her and looked into her face."
     },
     {
-      "JP": "かしいような鈴の顔だ。",
+      "JP": "懐かしいような鈴の顔だ。",
       "EN": "I felt like I was seeing her face for the first time after a long separation.",
       "Translation": "I felt like I was seeing her face for the first time after a long separation."
     },
     {
-      "JP": "の手を取って、そこから這い出した。",
+      "JP": "鈴の手を取って、そこから這い出した。",
       "EN": "Taking her by the hand, we crawled out of there together.",
       "Translation": "Taking her by the hand, we crawled out of there together."
     },
     {
-      "JP": "理樹@「戻ってきたんだよ…」",
+      "JP": "`理樹@「戻ってきたんだよ…」",
       "EN": "`Riki@❝We've come back here...❞",
       "Translation": "`Riki@❝We've come back here...❞"
     },
     {
-      "JP": "鈴@「うん…」",
+      "JP": "`鈴@「うん…」",
       "EN": "`Rin@❝Yeah...❞",
       "Translation": "`Rin@❝Yeah...❞"
     },
     {
-      "JP": "こは修学旅行の途中の道…その崖の下。",
+      "JP": "ここは修学旅行の途中の道…その崖の下。",
       "EN": "We had fallen down onto the bottom of this cliff... in the middle of our field trip.",
       "Translation": "We had fallen down onto the bottom of this cliff... in the middle of our field trip."
     },
     {
-      "JP": "憶が次々と蘇ってくる。",
+      "JP": "記憶が次々と蘇ってくる。",
       "EN": "I regained one memory after another.",
       "Translation": "I regained one memory after another."
     },
     {
-      "JP": "の、バスの中の騒ぎが克明に思い出される。",
+      "JP": "あの、バスの中の騒ぎが克明に思い出される。",
       "EN": "I could clearly remember how the events had unfolded inside the bus.",
       "Translation": "I could clearly remember how the events had unfolded inside the bus."
     },
     {
-      "JP": "スが何かにぶつかった。",
+      "JP": "バスが何かにぶつかった。",
       "EN": "It had crashed into something.",
       "Translation": "It had crashed into something."
     },
     {
-      "JP": "しく揺れ、生徒が右から左へ飛ぶ。",
+      "JP": "激しく揺れ、生徒が右から左へ飛ぶ。",
       "EN": "The violent shaking had thrown classmates from right to left.",
       "Translation": "The violent shaking had thrown classmates from right to left."
     },
     {
-      "JP": "員がパニック状態。",
+      "JP": "全員がパニック状態。",
       "EN": "Everybody had panicked.",
       "Translation": "Everybody had panicked."
     },
     {
-      "JP": "して上下が入れ替わった。",
+      "JP": "そして上下が入れ替わった。",
       "EN": "In the next moment, the bus had turned upside down.",
       "Translation": "In the next moment, the bus had turned upside down."
     },
     {
-      "JP": "井が床になっていた。",
+      "JP": "天井が床になっていた。",
       "EN": "The floor became the ceiling.",
       "Translation": "The floor became the ceiling."
     },
     {
-      "JP": "こで前に座っていた真人の顔が、すぐ正面に現れた。",
+      "JP": "そこで前に座っていた真人の顔が、すぐ正面に現れた。",
       "EN": "And Masato, from the seat ahead of mine, had stood up right in front of me.",
       "Translation": "And Masato, from the seat ahead of mine, had stood up right in front of me."
     },
     {
-      "JP": "を庇ってくれたんだ。",
+      "JP": "僕を庇ってくれたんだ。",
       "EN": "He had saved me.",
       "Translation": "He had saved me."
     },
     {
-      "JP": "は謙吾に支えられていた。",
+      "JP": "鈴は謙吾に支えられていた。",
       "EN": "Kengo had shielded Rin.",
       "Translation": "Kengo had shielded Rin."
     },
     {
-      "JP": "れで、ふたりともこうして助かった。",
+      "JP": "それで、ふたりともこうして助かった。",
       "EN": "That was how the two of us had survived.",
       "Translation": "That was how the two of us had survived."
     },
     {
-      "JP": "理樹@「ふたりが助けてくれたんだ…」",
+      "JP": "`理樹@「ふたりが助けてくれたんだ…」",
       "EN": "`Riki@❝Those two saved us...❞",
       "Translation": "`Riki@❝Those two saved us...❞"
     },
     {
-      "JP": "鈴@「うん…」",
+      "JP": "`鈴@「うん…」",
       "EN": "`Rin@❝Yeah...❞",
       "Translation": "`Rin@❝Yeah...❞"
     },
     {
-      "JP": "理樹@「立てる…？」",
+      "JP": "`理樹@「立てる…？」",
       "EN": "`Riki@❝Can you stand...?❞",
       "Translation": "`Riki@❝Can you stand...?❞"
     },
     {
-      "JP": "鈴@「わからない…やってみる…」",
+      "JP": "`鈴@「わからない…やってみる…」",
       "EN": "`Rin@❝Not sure... I'll give it a try...❞",
       "Translation": "`Rin@❝Not sure... I'll give it a try...❞"
     },
     {
-      "JP": "は痛む体にむち打ち、立ち上がる。",
+      "JP": "僕は痛む体にむち打ち、立ち上がる。",
       "EN": "Bearing the pain, I wrenched myself upright.",
       "Translation": "Bearing the pain, I wrenched myself upright."
     },
     {
-      "JP": "こもかしこも痛い…全身が悲鳴を上げている。",
+      "JP": "どこもかしこも痛い…全身が悲鳴を上げている。",
       "EN": "Every inch of my body hurt... My entire body was screaming in pain.",
       "Translation": "Every inch of my body hurt... My entire body was screaming in pain."
     },
     {
-      "JP": "れから、てこずっていた鈴の肩を抱き上げ、立たせてあげた。",
+      "JP": "それから、てこずっていた鈴の肩を抱き上げ、立たせてあげた。",
       "EN": "Then I noticed Rin having a little trouble standing up on her own, so I helped her up.",
       "Translation": "Then I noticed Rin having a little trouble standing up on her own, so I helped her up."
     },
     {
-      "JP": "たり人の字のようにもたれ合って立つ。",
+      "JP": "ふたり人の字のようにもたれ合って立つ。",
       "EN": "We leaned against each other.",
       "Translation": "We leaned against each other."
     },
     {
-      "JP": "の眼前…",
+      "JP": "その眼前…",
       "EN": "Right in front of our eyes...",
       "Translation": "Right in front of our eyes..."
     },
     {
-      "JP": "つか夢の中で見た、絶望の風景だ…。",
+      "JP": "いつか夢の中で見た、絶望の風景だ…。",
       "EN": "...lay the hopeless scene of my nightmares...",
       "Translation": "...lay the hopeless scene of my nightmares..."
     },
     {
-      "JP": "れを今現実のものとして突きつけられている…。",
+      "JP": "それを今現実のものとして突きつけられている…。",
       "EN": "Now I was facing it unfiltered...",
       "Translation": "Now I was facing it unfiltered..."
     },
     {
-      "JP": "を逸らしたい…。",
+      "JP": "目を逸らしたい…。",
       "EN": "I wanted to look away...",
       "Translation": "I wanted to look away..."
     },
     {
-      "JP": "も、みんながそこに居る。",
+      "JP": "でも、みんながそこに居る。",
       "EN": "But I couldn't, because everyone else was in there.",
       "Translation": "But I couldn't, because everyone else was in there."
     },
     {
-      "JP": "けなきゃ…。",
+      "JP": "助けなきゃ…。",
       "EN": "I had to help them out...",
       "Translation": "I had to help them out..."
     },
     {
-      "JP": "とつ、ふたつ、深呼吸をする。",
+      "JP": "ひとつ、ふたつ、深呼吸をする。",
       "EN": "I took a deep breath. Another.",
       "Translation": "I took a deep breath. Another."
     },
     {
-      "JP": "は、みんなを助けなくてはいけない。",
+      "JP": "僕は、みんなを助けなくてはいけない。",
       "EN": "I had to help them all out.",
       "Translation": "I had to help them all out."
     },
     {
-      "JP": "鈴@「…どうした？」",
+      "JP": "`鈴@「…どうした？」",
       "EN": "`Rin@❝...What is it?❞",
       "Translation": "`Rin@❝...What is it?❞"
     },
     {
-      "JP": "理樹@「ちょっとだけ、待って」",
+      "JP": "`理樹@「ちょっとだけ、待って」",
       "EN": "`Riki@❝Wait just a bit.❞",
       "Translation": "`Riki@❝Wait just a bit.❞"
     },
     {
-      "JP": "り上がってくる恐怖心を押さえ込む。",
+      "JP": "せり上がってくる恐怖心を押さえ込む。",
       "EN": "I suppressed the fear trying to force its way out from within me.",
       "Translation": "I suppressed the fear trying to force its way out from within me."
     },
     {
-      "JP": "すかにガソリンのような…燃料の匂いがする。",
+      "JP": "かすかにガソリンのような…燃料の匂いがする。",
       "EN": "I faintly smelled... something like gasoline.",
       "Translation": "I faintly smelled... something like gasoline."
     },
     {
-      "JP": "のままだと爆発するのは明白だ。",
+      "JP": "このままだと爆発するのは明白だ。",
       "EN": "At this rate, the bus was plainly going to end up exploding. ",
       "Translation": "At this rate, the bus was plainly going to end up exploding. "
     },
     {
-      "JP": "重な時間だけど、冷静になるんだ。",
+      "JP": "貴重な時間だけど、冷静になるんだ。",
       "EN": "There was little time left, but I needed to use some of it to cool myself down.",
       "Translation": "There was little time left, but I needed to use some of it to cool myself down."
     },
     {
-      "JP": "情に絡め取られて、いいことなんかこれまでなかった。",
+      "JP": "感情に絡め取られて、いいことなんかこれまでなかった。",
       "EN": "Getting swept away by emotion had never done me any good so far.",
       "Translation": "Getting swept away by emotion had never done me any good so far."
     },
     {
-      "JP": "度も経験してきたことじゃないか。",
+      "JP": "何度も経験してきたことじゃないか。",
       "EN": "It was something I had experienced first hand countless times.",
       "Translation": "It was something I had experienced first hand countless times."
     },
     {
-      "JP": "れを活かせ。",
+      "JP": "それを活かせ。",
       "EN": "It was time to learn from my mistakes.",
       "Translation": "It was time to learn from my mistakes."
     },
     {
-      "JP": "理樹@「みんなを助けるんだ」",
+      "JP": "`理樹@「みんなを助けるんだ」",
       "EN": "`Riki@❝We're rescuing everybody.❞",
       "Translation": "`Riki@❝We're rescuing everybody.❞"
     },
     {
-      "JP": "理樹@「でも、このままじゃ無理だから」",
+      "JP": "`理樹@「でも、このままじゃ無理だから」",
       "EN": "`Riki@❝But we need a plan.❞",
       "Translation": "`Riki@❝But we need a plan.❞"
     },
     {
-      "JP": "理樹@「考えるんだ」",
+      "JP": "`理樹@「考えるんだ」",
       "EN": "`Riki@❝We have to think.❞",
       "Translation": "`Riki@❝We have to think.❞"
     },
     {
-      "JP": "理樹@「鈴、僕を信じて」",
+      "JP": "`理樹@「鈴、僕を信じて」",
       "EN": "`Riki@❝Rin, trust in me.❞",
       "Translation": "`Riki@❝Rin, trust in me.❞"
     },
     {
-      "JP": "鈴@「…うん」",
+      "JP": "`鈴@「…うん」",
       "EN": "`Rin@❝...Sure.❞",
       "Translation": "`Rin@❝...Sure.❞"
     },
     {
-      "JP": "鈴@「だいじょうぶだ、信じてる」",
+      "JP": "`鈴@「だいじょうぶだ、信じてる」",
       "EN": "`Rin@❝No worries, I trust you.❞",
       "Translation": "`Rin@❝No worries, I trust you.❞"
     },
     {
-      "JP": "鈴@「警察に電話しないといけないんじゃないか？」",
+      "JP": "`鈴@「警察に電話しないといけないんじゃないか？」",
       "EN": "`Rin@❝Shouldn't we call the police?❞",
       "Translation": "`Rin@❝Shouldn't we call the police?❞"
     },
     {
-      "JP": "理樹@「機転が利くね」",
+      "JP": "`理樹@「機転が利くね」",
       "EN": "`Riki@❝Great idea.❞",
       "Translation": "`Riki@❝Great idea.❞"
     },
     {
-      "JP": "理樹@「ちゃんと説明できるよね？」",
+      "JP": "`理樹@「ちゃんと説明できるよね？」",
       "EN": "`Riki@❝Can you explain things to them?❞",
       "Translation": "`Riki@❝Can you explain things to them?❞"
     },
     {
-      "JP": "鈴@「うん」",
+      "JP": "`鈴@「うん」",
       "EN": "`Rin@❝Sure.❞",
       "Translation": "`Rin@❝Sure.❞"
     },
     {
-      "JP": "は落ち着いて、１１０番通報をしていた。",
+      "JP": "鈴は落ち着いて、１１０番通報をしていた。",
       "EN": "She called the emergency number level-headedly.",
       "Translation": "She called the emergency number level-headedly."
     },
     {
-      "JP": "きどきつっかえたり、困っていた様子もあったが、頑張っている。大丈夫だ。",
+      "JP": "ときどきつっかえたり、困っていた様子もあったが、頑張っている。大丈夫だ。",
       "EN": "Despite stumbling over her words and having trouble figuring out what to say at times, she seemed to be doing well.",
       "Translation": "Despite stumbling over her words and having trouble figuring out what to say at times, she seemed to be doing well."
     },
     {
-      "JP": "つか、みんなで他人に対する行儀を鈴に教えた記憶とだぶって見えた。",
+      "JP": "いつか、みんなで他人に対する行儀を鈴に教えた記憶とだぶって見えた。",
       "EN": "That reminded me of the time the four of us had taught her how to behave properly toward other people.",
       "Translation": "That reminded me of the time the four of us had taught her how to behave properly toward other people."
     },
     {
-      "JP": "れが何だったかはもう思い出せないけど、それは無駄じゃなかったんだ、と思えた。",
+      "JP": "それが何だったかはもう思い出せないけど、それは無駄じゃなかったんだ、と思えた。",
       "EN": "I couldn't remember any details, but I thought it had been worth it.",
       "Translation": "I couldn't remember any details, but I thought it had been worth it."
     },
     {
-      "JP": "て、僕は僕のやるべきことがある。",
+      "JP": "さて、僕は僕のやるべきことがある。",
       "EN": "Well then, I also had my own things to do.",
       "Translation": "Well then, I also had my own things to do."
     },
     {
-      "JP": "にかく、みんなを助けないと…!!",
+      "JP": "とにかく、みんなを助けないと…!!",
       "EN": "I had to help everyone out...!!",
       "Translation": "I had to help everyone out...!!"
     },
     {
-      "JP": "は傷む身体に鞭打って、バスの様子を見に行く。",
+      "JP": "僕は傷む身体に鞭打って、バスの様子を見に行く。",
       "EN": "Forcing myself to bear all the pain in my body, I climbed inside the bus to see what it was like.",
       "Translation": "Forcing myself to bear all the pain in my body, I climbed inside the bus to see what it was like."
     },
     {
-      "JP": "ひどい惨状だ。",
+      "JP": "…ひどい惨状だ。",
       "EN": "...What a horrible scene it was.",
       "Translation": "...What a horrible scene it was."
     },
     {
-      "JP": "理樹@（どうしたらいいんだ…!?）",
+      "JP": "`理樹@（どうしたらいいんだ…!?）",
       "EN": "`Riki@(What should I do...!?)",
       "Translation": "`Riki@(What should I do...!?)"
     },
     {
-      "JP": "の状況を見て、さらに気が動転してしまう。",
+      "JP": "その状況を見て、さらに気が動転してしまう。",
       "EN": "Recognizing the full extent of the situation made me even more agitated.",
       "Translation": "Recognizing the full extent of the situation made me even more agitated."
     },
     {
-      "JP": "理樹@（どうしよう…どうしよう…!!）",
+      "JP": "`理樹@（どうしよう…どうしよう…!!）",
       "EN": "`Riki@(What should I do... What should I do...!!)",
       "Translation": "`Riki@(What should I do... What should I do...!!)"
     },
     {
-      "JP": "えなんてまとまらない!!",
+      "JP": "考えなんてまとまらない!!",
       "EN": "How could I come up with any ideas at a place like this!?",
       "Translation": "How could I come up with any ideas at a place like this!?"
     },
     {
-      "JP": "とまずそこから離れて、息を落ち着かせることにした…。",
+      "JP": "ひとまずそこから離れて、息を落ち着かせることにした…。",
       "EN": "I decided to go outside for a moment to steady my breathing...",
       "Translation": "I decided to go outside for a moment to steady my breathing..."
     },
     {
-      "JP": "む全身を堪えながら、太そうな枝に飛びついた。",
+      "JP": "痛む全身を堪えながら、太そうな枝に飛びついた。",
       "EN": "Suppressing the pain, I jumped at a thick-looking branch.",
       "Translation": "Suppressing the pain, I jumped at a thick-looking branch."
     },
     {
-      "JP": "のまま体重をかけて、根元から折る。",
+      "JP": "そのまま体重をかけて、根元から折る。",
       "EN": "Hanging from it, my weight made it break off.",
       "Translation": "Hanging from it, my weight made it break off."
     },
     {
-      "JP": "して、もう一本。",
+      "JP": "そして、もう一本。",
       "EN": "I repeated this one more time.",
       "Translation": "I repeated this one more time."
     },
     {
-      "JP": "鈴@「なにやってんだ？」",
+      "JP": "`鈴@「なにやってんだ？」",
       "EN": "`Rin@❝What are you doing?❞",
       "Translation": "`Rin@❝What are you doing?❞"
     },
     {
-      "JP": "話を終えたのだろう。鈴がそばまで寄ってきた。",
+      "JP": "電話を終えたのだろう。鈴がそばまで寄ってきた。",
       "EN": "Rin must have finished her call, as she came back to me.",
       "Translation": "Rin must have finished her call, as she came back to me."
     },
     {
-      "JP": "理樹@「すぐわかるよ」",
+      "JP": "`理樹@「すぐわかるよ」",
       "EN": "`Riki@❝You'll see soon.❞",
       "Translation": "`Riki@❝You'll see soon.❞"
     },
     {
-      "JP": "枝を打ち払い、一本の棒に仕立てる。",
+      "JP": "小枝を打ち払い、一本の棒に仕立てる。",
       "EN": "I snapped off the twigs to smoothen the branches.",
       "Translation": "I snapped off the twigs to smoothen the branches."
     },
     {
-      "JP": "着を脱いで、ボタンを留める。",
+      "JP": "上着を脱いで、ボタンを留める。",
       "EN": "Then I took off my jacket and fastened its buttons.",
       "Translation": "Then I took off my jacket and fastened its buttons."
     },
     {
-      "JP": "本の棒に袖を通し、裾から出す。",
+      "JP": "二本の棒に袖を通し、裾から出す。",
       "EN": "I put the two branches into the sleeves and pushed them out of the hem.",
       "Translation": "I put the two branches into the sleeves and pushed them out of the hem."
     },
     {
-      "JP": "をひっくり返し、袖にかぶせて強度を持たせる。",
+      "JP": "裾をひっくり返し、袖にかぶせて強度を持たせる。",
       "EN": "After that, I folded the hem and sleeves over to make the fabric thicker.",
       "Translation": "After that, I folded the hem and sleeves over to make the fabric thicker."
     },
     {
-      "JP": "着がもう何枚か必要だ。",
+      "JP": "上着がもう何枚か必要だ。",
       "EN": "I needed a couple more jackets.",
       "Translation": "I needed a couple more jackets."
     },
     {
-      "JP": "らばった荷物からパーカーを借りて、同じように棒にかぶせた。",
+      "JP": "散らばった荷物からパーカーを借りて、同じように棒にかぶせた。",
       "EN": "I found a sweater in someone's bag and pulled it over the branches as well.",
       "Translation": "I found a sweater in someone's bag and pulled it over the branches as well."
     },
     {
-      "JP": "らにもう一枚。",
+      "JP": "さらにもう一枚。",
       "EN": "Then I added one more.",
       "Translation": "Then I added one more."
     },
     {
-      "JP": "理樹@「よし、できた」",
+      "JP": "`理樹@「よし、できた」",
       "EN": "`Riki@❝All right, I'm done.❞",
       "Translation": "`Riki@❝All right, I'm done.❞"
     },
     {
-      "JP": "理樹@「鈴、そっち持って！」",
+      "JP": "`理樹@「鈴、そっち持って！」",
       "EN": "`Riki@❝Rin, grab that side!❞",
       "Translation": "`Riki@❝Rin, grab that side!❞"
     },
     {
-      "JP": "の形を見ればもう何だかわかるだろう。",
+      "JP": "この形を見ればもう何だかわかるだろう。",
       "EN": "Now she could tell what I had made.",
       "Translation": "Now she could tell what I had made."
     },
     {
-      "JP": "がちりん、と頷き正面に回った。",
+      "JP": "鈴がちりん、と頷き正面に回った。",
       "EN": "With a chime of her bell, she moved to take the other side.",
       "Translation": "With a chime of her bell, she moved to take the other side."
     },
     {
-      "JP": "らはバスからクラスメイトを、二本の棒…即席の担架に乗せて運び出した。",
+      "JP": "僕らはバスからクラスメイトを、二本の棒…即席の担架に乗せて運び出した。",
       "EN": "Using the improvised stretcher... we carried one classmate after another out of the bus.",
       "Translation": "Using the improvised stretcher... we carried one classmate after another out of the bus."
     },
     {
-      "JP": "スは、フロントバンパーのところが最も酷く壊れていた。",
+      "JP": "バスは、フロントバンパーのところが最も酷く壊れていた。",
       "EN": "The front bumper of the bus had suffered the heaviest damage.",
       "Translation": "The front bumper of the bus had suffered the heaviest damage."
     },
     {
-      "JP": "いにも客室内はそれほど壊れてなく、フロントガラスから中に入ることができた。",
+      "JP": "幸いにも客室内はそれほど壊れてなく、フロントガラスから中に入ることができた。",
       "EN": "Fortunately the passenger compartment wasn't that badly messed up, so we could pass through the windshield.",
       "Translation": "Fortunately the passenger compartment wasn't that badly messed up, so we could pass through the windshield."
     },
     {
-      "JP": "だ、横倒しの車体なので、中を移動するのが難しい。運転席が天井となっている。",
+      "JP": "ただ、横倒しの車体なので、中を移動するのが難しい。運転席が天井となっている。",
       "EN": "Although, since the bus was lying on its left side, it was not an easy task for us to move around inside the bus.",
       "Translation": "Although, since the bus was lying on its left side, it was not an easy task for us to move around inside the bus."
     },
     {
-      "JP": "転席は潰れてしまって、奥の様子はわからない。",
+      "JP": "運転席は潰れてしまって、奥の様子はわからない。",
       "EN": "The driver's seat was crushed, and I couldn't see the situation behind it.",
       "Translation": "The driver's seat was crushed, and I couldn't see the situation behind it."
     },
     {
-      "JP": "れたガラスで怪我しないよう、ひとりずつ抱えて、外へと出していく。",
+      "JP": "割れたガラスで怪我しないよう、ひとりずつ抱えて、外へと出していく。",
       "EN": "Cautious of the shattered glass, we carried out one person at a time.",
       "Translation": "Cautious of the shattered glass, we carried out one person at a time."
     },
     {
-      "JP": "架に乗せ、全速力で離れた場所へと寝かせ、また戻る。",
+      "JP": "担架に乗せ、全速力で離れた場所へと寝かせ、また戻る。",
       "EN": "Placing one on the stretcher, carrying them away at full speed and then getting right back inside the bus.",
       "Translation": "Placing one on the stretcher, carrying them away at full speed and then getting right back inside the bus."
     },
     {
-      "JP": "うだ、とにかくみんなを中から出さないと。",
+      "JP": "そうだ、とにかくみんなを中から出さないと。",
       "EN": "The first thing I had to finish was getting them all out of the bus.",
       "Translation": "The first thing I had to finish was getting them all out of the bus."
     },
     {
-      "JP": "計なことをしている場合じゃない、と判断し、バスへ向かった。",
+      "JP": "余計なことをしている場合じゃない、と判断し、バスへ向かった。",
       "EN": "I had no time to waste on anything unnecessary.",
       "Translation": "I had no time to waste on anything unnecessary."
     },
     {
-      "JP": "から、ひとりの生徒を引きずり出す。",
+      "JP": "窓から、ひとりの生徒を引きずり出す。",
       "EN": "I pulled a classmate out through a window.",
       "Translation": "I pulled a classmate out through a window."
     },
     {
-      "JP": "理樹@（くそっ…）",
+      "JP": "`理樹@（くそっ…）",
       "EN": "`Riki@(Dammit...)",
       "Translation": "`Riki@(Dammit...)"
     },
     {
-      "JP": "けない人って、なんて重いんだ…!!",
+      "JP": "動けない人って、なんて重いんだ…!!",
       "EN": "I hadn't known how heavy an unconscious person could be...!",
       "Translation": "I hadn't known how heavy an unconscious person could be...!"
     },
     {
-      "JP": "に抱えて、遠くまで連れて行く。",
+      "JP": "肩に抱えて、遠くまで連れて行く。",
       "EN": "Hoisting him on my shoulders, I took him away from the bus.",
       "Translation": "Hoisting him on my shoulders, I took him away from the bus."
     },
     {
-      "JP": "理樹@「はぁっ、はぁっ…」",
+      "JP": "`理樹@「はぁっ、はぁっ…」",
       "EN": "`Riki@❝Hahh, haah...❞",
       "Translation": "`Riki@❝Hahh, haah...❞"
     },
     {
-      "JP": "なんてついてる場合じゃない。",
+      "JP": "膝なんてついてる場合じゃない。",
       "EN": "I had no time to rest.",
       "Translation": "I had no time to rest."
     },
     {
-      "JP": "れど、身体はすぐに疲労してしまう。",
+      "JP": "けれど、身体はすぐに疲労してしまう。",
       "EN": "But my body was rapidly growing tired.",
       "Translation": "But my body was rapidly growing tired."
     },
     {
-      "JP": "鈴@「りきっ、早くっ」",
+      "JP": "`鈴@「りきっ、早くっ」",
       "EN": "`Rin@❝Riki, hurry!❞",
       "Translation": "`Rin@❝Riki, hurry!❞"
     },
     {
-      "JP": "くから鈴の声が届く。",
+      "JP": "遠くから鈴の声が届く。",
       "EN": "She was calling out to me from afar.",
       "Translation": "She was calling out to me from afar."
     },
     {
-      "JP": "理樹@「うんっ…」",
+      "JP": "`理樹@「うんっ…」",
       "EN": "`Riki@❝Sure...❞",
       "Translation": "`Riki@❝Sure...❞"
     },
     {
-      "JP": "こんなに時間がかかるなんて…。",
+      "JP": "…こんなに時間がかかるなんて…。",
       "EN": "...I had spent so much time carrying just one single person here...",
       "Translation": "...I had spent so much time carrying just one single person here..."
     },
     {
-      "JP": "は思慮が足りていなかったことを悔いる。",
+      "JP": "僕は思慮が足りていなかったことを悔いる。",
       "EN": "I regretted how thoughtless I had been.",
       "Translation": "I regretted how thoughtless I had been."
     },
     {
-      "JP": "うだ、枝を使って…。",
+      "JP": "そうだ、枝を使って…。",
       "EN": "Maybe I should use thick branches to make...",
       "Translation": "Maybe I should use thick branches to make..."
     },
     {
-      "JP": "と、何かを引きずった跡を地面に見つけた。",
+      "JP": "ふと、何かを引きずった跡を地面に見つけた。",
       "EN": "Suddenly I saw dragging marks on the ground.",
       "Translation": "Suddenly I saw dragging marks on the ground."
     },
     {
-      "JP": "は倒れ、黒ずんだ血で染まっていた。",
+      "JP": "草は倒れ、黒ずんだ血で染まっていた。",
       "EN": "On the path of the trail, the grass was pressed down and dyed in blood.",
       "Translation": "On the path of the trail, the grass was pressed down and dyed in blood."
     },
     {
-      "JP": "れは横倒しになったバスの底面へと続いていた。",
+      "JP": "それは横倒しになったバスの底面へと続いていた。",
       "EN": "The marks led me to the bottom of the upturned bus.",
       "Translation": "The marks led me to the bottom of the upturned bus."
     },
     {
-      "JP": "りには燃料が漏れているのか油の匂いが漂い、まだ熱いエンジンを避けながら覗き込むと…",
+      "JP": "辺りには燃料が漏れているのか油の匂いが漂い、まだ熱いエンジンを避けながら覗き込むと…",
       "EN": "Smelling the source of leaked fuel or oil close by, I avoided the still hot engine and looked over it to find...",
       "Translation": "Smelling the source of leaked fuel or oil close by, I avoided the still hot engine and looked over it to find..."
     },
     {
-      "JP": "理樹@「恭介！」",
+      "JP": "`理樹@「恭介！」",
       "EN": "`Riki@❝Kyousuke!❞",
       "Translation": "`Riki@❝Kyousuke!❞"
     },
     {
-      "JP": "こに恭介が居た。",
+      "JP": "そこに恭介が居た。",
       "EN": "Kyousuke was there.",
       "Translation": "Kyousuke was there."
     },
     {
-      "JP": "恭介@「理不尽だ…なぜてめぇらだけ旅行で、俺だけ居残りなんだよぉぉ！」",
+      "JP": "`恭介@「理不尽だ…なぜてめぇらだけ旅行で、俺だけ居残りなんだよぉぉ！」",
       "EN": "`Kyousuke@❝Totally unacceptable... How come I'm gonna have to stay in school while you guys go on a field trip!❞",
       "Translation": "`Kyousuke@❝Totally unacceptable... How come I'm gonna have to stay in school while you guys go on a field trip!❞"
     },
     {
-      "JP": "理樹@「それは恭介が三年生で、一年前に行ってるし、目下就職活動中だからだよ」",
+      "JP": "`理樹@「それは恭介が三年生で、一年前に行ってるし、目下就職活動中だからだよ」",
       "EN": "`Riki@❝That's because you're a third-year, had your field trip last year and are currently busy looking for a job.❞",
       "Translation": "`Riki@❝That's because you're a third-year, had your field trip last year and are currently busy looking for a job.❞"
     },
     {
-      "JP": "謙吾@「どっちかというと、完全におまえのほうが理不尽だぞ」",
+      "JP": "`謙吾@「どっちかというと、完全におまえのほうが理不尽だぞ」",
       "EN": "`Kengo@❝If you ask me, YOU are what's unacceptable here.❞",
       "Translation": "`Kengo@❝If you ask me, YOU are what's unacceptable here.❞"
     },
     {
-      "JP": "真人@「でもこいつの行動原理に言わせると、行かないわけにはいかないんだろうな」",
+      "JP": "`真人@「でもこいつの行動原理に言わせると、行かないわけにはいかないんだろうな」",
       "EN": "`Masato@❝But I'm pretty sure that following his principles, there's no way he'll just give up here.❞",
       "Translation": "`Masato@❝But I'm pretty sure that following his principles, there's no way he'll just give up here.❞"
     },
     {
-      "JP": "恭介@「当然だ…修学旅行なんて楽しいことだらけじゃねぇか！」",
+      "JP": "`恭介@「当然だ…修学旅行なんて楽しいことだらけじゃねぇか！」",
       "EN": "`Kyousuke@❝Of course I won't... Field trips are way too much fun!❞",
       "Translation": "`Kyousuke@❝Of course I won't... Field trips are way too much fun!❞"
     },
     {
-      "JP": "鈴@「子供か、おまえは」",
+      "JP": "`鈴@「子供か、おまえは」",
       "EN": "`Rin@❝Are you a child?❞",
       "Translation": "`Rin@❝Are you a child?❞"
     },
     {
-      "JP": "介も乗り込んでいたんだ。",
+      "JP": "恭介も乗り込んでいたんだ。",
       "EN": "He had been on the bus also.",
       "Translation": "He had been on the bus also."
     },
     {
-      "JP": "対どこかに隠れ潜んでいる…僕らはそう話し合いながらバスに乗っていたんだ。",
+      "JP": "絶対どこかに隠れ潜んでいる…僕らはそう話し合いながらバスに乗っていたんだ。",
       "EN": "We had suspected that he must have hidden himself somewhere on the bus.",
       "Translation": "We had suspected that he must have hidden himself somewhere on the bus."
     },
     {
-      "JP": "して今、白いシャツを鮮血に染め、バスの底、その中央部にもたれかかっていた。",
+      "JP": "そして今、白いシャツを鮮血に染め、バスの底、その中央部にもたれかかっていた。",
       "EN": "And now he lay there, his white shirt soaked with blood, leaning against the center area of the bottom of the bus.",
       "Translation": "And now he lay there, his white shirt soaked with blood, leaning against the center area of the bottom of the bus."
     },
     {
-      "JP": "んてことだ…あんなに接して、熱いだろうに…。",
+      "JP": "なんてことだ…あんなに接して、熱いだろうに…。",
       "EN": "Why on earth was he there...? His back was on the hot engine...",
       "Translation": "Why on earth was he there...? His back was on the hot engine..."
     },
     {
-      "JP": "は急いで駆け寄る。",
+      "JP": "僕は急いで駆け寄る。",
       "EN": "I dashed up to him.",
       "Translation": "I dashed up to him."
     },
     {
-      "JP": "理樹@「大丈夫!?」",
+      "JP": "`理樹@「大丈夫!?」",
       "EN": "`Riki@❝You all right!?❞",
       "Translation": "`Riki@❝You all right!?❞"
     },
     {
-      "JP": "を揺するも返事はない！",
+      "JP": "体を揺するも返事はない！",
       "EN": "I shook him, but there was no reply!",
       "Translation": "I shook him, but there was no reply!"
     },
     {
-      "JP": "に耳を当てると、弱々しく不揃いだが…鼓動はわずかに聞こえる。",
+      "JP": "胸に耳を当てると、弱々しく不揃いだが…鼓動はわずかに聞こえる。",
       "EN": "I put my ear onto his chest... It was weak and irregular, but his heart was still barely beating.",
       "Translation": "I put my ear onto his chest... It was weak and irregular, but his heart was still barely beating."
     },
     {
-      "JP": "けよう…背中に手を回したところで気づく。",
+      "JP": "助けよう…背中に手を回したところで気づく。",
       "EN": "I had to help him... But just as I was about to slide my arm behind his back, I noticed something.",
       "Translation": "I had to help him... But just as I was about to slide my arm behind his back, I noticed something."
     },
     {
-      "JP": "の背面、接したバスの底から油が染みだし、地面を濡らしていた。",
+      "JP": "その背面、接したバスの底から油が染みだし、地面を濡らしていた。",
       "EN": "There was oil leaking out of the bus and making a pool on the ground.",
       "Translation": "There was oil leaking out of the bus and making a pool on the ground."
     },
     {
-      "JP": "介は、バスの底に空いた穴をふさいでいるんだ。",
+      "JP": "恭介は、バスの底に空いた穴をふさいでいるんだ。",
       "EN": "He must have been blocking the hole with his body.",
       "Translation": "He must have been blocking the hole with his body."
     },
     {
-      "JP": "は、腕を抜いて、その体を離した。",
+      "JP": "僕は、腕を抜いて、その体を離した。",
       "EN": "I withdrew my arm and released his body.",
       "Translation": "I withdrew my arm and released his body."
     },
     {
-      "JP": "介は今もなお、こんな体でも…みんなを守り続けているんだ。",
+      "JP": "恭介は今もなお、こんな体でも…みんなを守り続けているんだ。",
       "EN": "Despite being injured so severely... he was even now protecting us all.",
       "Translation": "Despite being injured so severely... he was even now protecting us all."
     },
     {
-      "JP": "の思いに応えるためにも、恭介は後回しにしてクラスメイトを助けなくちゃならない…！",
+      "JP": "その思いに応えるためにも、恭介は後回しにしてクラスメイトを助けなくちゃならない…！",
       "EN": "I could not let his devotion go to waste; I had to rescue the other classmates before him...!",
       "Translation": "I could not let his devotion go to waste; I had to rescue the other classmates before him...!"
     },
     {
-      "JP": "は自分のシャツを切り裂いて、切れた額を覆うように縛った。",
+      "JP": "僕は自分のシャツを切り裂いて、切れた額を覆うように縛った。",
       "EN": "I ripped part of my shirt off and wrapped the strip around his bleeding forehead.",
       "Translation": "I ripped part of my shirt off and wrapped the strip around his bleeding forehead."
     },
     {
-      "JP": "理樹@「恭介…絶対助けるから、待ってて」",
+      "JP": "`理樹@「恭介…絶対助けるから、待ってて」",
       "EN": "`Riki@❝Kyousuke... I'll be right back for you.❞",
       "Translation": "`Riki@❝Kyousuke... I'll be right back for you.❞"
     },
     {
-      "JP": "理樹@「恭介っ!!」",
+      "JP": "`理樹@「恭介っ!!」",
       "EN": "`Riki@❝Kyousuke!!❞",
       "Translation": "`Riki@❝Kyousuke!!❞"
     },
     {
-      "JP": "情に任せて、恭介に手を伸ばす。",
+      "JP": "感情に任せて、恭介に手を伸ばす。",
       "EN": "I reached toward him without another thought.",
       "Translation": "I reached toward him without another thought."
     },
     {
-      "JP": "僕は、忘れていた。",
+      "JP": "…僕は、忘れていた。",
       "EN": "...I should have been aware",
       "Translation": "...I should have been aware"
     },
     {
-      "JP": "介が、なぜそこで…。",
+      "JP": "恭介が、なぜそこで…。",
       "EN": "of why he was there...",
       "Translation": "of why he was there..."
     },
     {
-      "JP": "の場所に、いなければならなかったのか。",
+      "JP": "その場所に、いなければならなかったのか。",
       "EN": "...why he had needed to be there.",
       "Translation": "...why he had needed to be there."
     },
     {
-      "JP": "介は、守っていたんだ。",
+      "JP": "恭介は、守っていたんだ。",
       "EN": "He had been protecting us.",
       "Translation": "He had been protecting us."
     },
     {
-      "JP": "熱から、僕たちを。",
+      "JP": "灼熱から、僕たちを。",
       "EN": "He had been protecting us from that inevitable flame.",
       "Translation": "He had been protecting us from that inevitable flame."
     },
     {
-      "JP": "風が、吹いた。",
+      "JP": "…風が、吹いた。",
       "EN": "...A wind blew.",
       "Translation": "...A wind blew."
     },
     {
-      "JP": "して、視界は白くなり…。",
+      "JP": "そして、視界は白くなり…。",
       "EN": "And I could only see white...",
       "Translation": "And I could only see white..."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "…。",
+      "JP": "……。",
       "EN": "......",
       "Translation": "......"
     },
     {
-      "JP": "。",
+      "JP": "…。",
       "EN": "...",
       "Translation": "..."
     },
     {
-      "JP": "っとバスの最後尾に着いた。",
+      "JP": "やっとバスの最後尾に着いた。",
       "EN": "I eventually made it to the very rear of the bus.",
       "Translation": "I eventually made it to the very rear of the bus."
     },
     {
-      "JP": "ったりとして倒れているのは真人と謙吾。",
+      "JP": "ぐったりとして倒れているのは真人と謙吾。",
       "EN": "There I found Masato and Kengo lying limp.",
       "Translation": "There I found Masato and Kengo lying limp."
     },
     {
-      "JP": "ずは上に乗っかっている謙吾を引っ張り出す。",
+      "JP": "まずは上に乗っかっている謙吾を引っ張り出す。",
       "EN": "Since Kengo was atop Masato, I pulled him out first.",
       "Translation": "Since Kengo was atop Masato, I pulled him out first."
     },
     {
-      "JP": "力がなく、指を開くのに苦労する。",
+      "JP": "握力がなく、指を開くのに苦労する。",
       "EN": "There was no strength in my fingers.",
       "Translation": "There was no strength in my fingers."
     },
     {
-      "JP": "呼吸で全身が酸素を欲しがっている。",
+      "JP": "過呼吸で全身が酸素を欲しがっている。",
       "EN": "My entire body was shouting for oxygen.",
       "Translation": "My entire body was shouting for oxygen."
     },
     {
-      "JP": "すぐ座り込んで、そのまま倒れてしまいたいほどの疲労。",
+      "JP": "今すぐ座り込んで、そのまま倒れてしまいたいほどの疲労。",
       "EN": "If I sat down now, I probably wouldn't be able to get up again.",
       "Translation": "If I sat down now, I probably wouldn't be able to get up again."
     },
     {
-      "JP": "のすべてを奥歯で噛み潰し、気合とともに謙吾を担ぐ。",
+      "JP": "そのすべてを奥歯で噛み潰し、気合とともに謙吾を担ぐ。",
       "EN": "Clenching my teeth, I hoisted myself onto my feet with him on my shoulder.",
       "Translation": "Clenching my teeth, I hoisted myself onto my feet with him on my shoulder."
     },
     {
-      "JP": "理樹@「うぁっ…」",
+      "JP": "`理樹@「うぁっ…」",
       "EN": "`Riki@❝A... gh...❞",
       "Translation": "`Riki@❝A... gh...❞"
     },
     {
-      "JP": "動で、背中をシートで打ってしまった。",
+      "JP": "反動で、背中をシートで打ってしまった。",
       "EN": "My back screamed in protest.",
       "Translation": "My back screamed in protest."
     },
     {
-      "JP": "、必死に堪える。",
+      "JP": "が、必死に堪える。",
       "EN": "Yet, I stood.",
       "Translation": "Yet, I stood."
     },
     {
-      "JP": "間がないんだ。",
+      "JP": "時間がないんだ。",
       "EN": "There was no time to waste.",
       "Translation": "There was no time to waste."
     },
     {
-      "JP": "め。",
+      "JP": "進め。",
       "EN": "I had to go forward.",
       "Translation": "I had to go forward."
     },
     {
-      "JP": "歩ずつ。",
+      "JP": "一歩ずつ。",
       "EN": "One step after another.",
       "Translation": "One step after another."
     },
     {
-      "JP": "能な限りの速度で。",
+      "JP": "可能な限りの速度で。",
       "EN": "As fast as I could.",
       "Translation": "As fast as I could."
     },
     {
-      "JP": "んなを助けるって、決めたんだから。",
+      "JP": "みんなを助けるって、決めたんだから。",
       "EN": "Because I had decided to rescue them all.",
       "Translation": "Because I had decided to rescue them all."
     },
     {
-      "JP": "度目の往復になるだろうか…。",
+      "JP": "何度目の往復になるだろうか…。",
       "EN": "How many round-trips had I made so far...?",
       "Translation": "How many round-trips had I made so far...?"
     },
     {
-      "JP": "う数え切れない…。",
+      "JP": "もう数え切れない…。",
       "EN": "I couldn't tell anymore...",
       "Translation": "I couldn't tell anymore..."
     },
     {
-      "JP": "スの中から、最後の人を助け出す。",
+      "JP": "バスの中から、最後の人を助け出す。",
       "EN": "I helped the last one out of the bus.",
       "Translation": "I helped the last one out of the bus."
     },
     {
-      "JP": "理樹@「…重いよ、こんなに無駄に筋肉つけて」",
+      "JP": "`理樹@「…重いよ、こんなに無駄に筋肉つけて」",
       "EN": "`Riki@❝...You're so heavy. You've got too much muscle on you.❞",
       "Translation": "`Riki@❝...You're so heavy. You've got too much muscle on you.❞"
     },
     {
-      "JP": "を失っている真人は答えない。",
+      "JP": "気を失っている真人は答えない。",
       "EN": "Masato didn't make any reply.",
       "Translation": "Masato didn't make any reply."
     },
     {
-      "JP": "となくだけど苦笑が出た。",
+      "JP": "何となくだけど苦笑が出た。",
       "EN": "I didn't know why, but I couldn't help a laugh escaping my lips.",
       "Translation": "I didn't know why, but I couldn't help a laugh escaping my lips."
     },
     {
-      "JP": "より大きな体を必死に抱え、一歩ずつバスの外へ出る。",
+      "JP": "僕より大きな体を必死に抱え、一歩ずつバスの外へ出る。",
       "EN": "Holding his gigantic body on my back, I made my way out of the bus step by painstaking step.",
       "Translation": "Holding his gigantic body on my back, I made my way out of the bus step by painstaking step."
     },
     {
-      "JP": "鈴@「担架にのせるか？」",
+      "JP": "`鈴@「担架にのせるか？」",
       "EN": "`Rin@❝Should we use the stretcher?❞",
       "Translation": "`Rin@❝Should we use the stretcher?❞"
     },
     {
-      "JP": "理樹@「いや…、真人は大きすぎるからさ」",
+      "JP": "`理樹@「いや…、真人は大きすぎるからさ」",
       "EN": "`Riki@❝No... It's too small for him.❞",
       "Translation": "`Riki@❝No... It's too small for him.❞"
     },
     {
-      "JP": "理樹@「このまま運んでいくよ」",
+      "JP": "`理樹@「このまま運んでいくよ」",
       "EN": "`Riki@❝I'll just keep carrying him this way.❞",
       "Translation": "`Riki@❝I'll just keep carrying him this way.❞"
     },
     {
-      "JP": "理樹@「鈴、バスの中から持ってきて欲しいんだけど」",
+      "JP": "`理樹@「鈴、バスの中から持ってきて欲しいんだけど」",
       "EN": "`Riki@❝Rin, there's something I need you to bring from the bus.❞",
       "Translation": "`Riki@❝Rin, there's something I need you to bring from the bus.❞"
     },
     {
-      "JP": "理樹@「!?」",
+      "JP": "`理樹@「!?」",
       "EN": "`Riki@❝!?❞",
       "Translation": "`Riki@❝!?❞"
     },
     {
-      "JP": "部座席のほうから火柱が上がっている!!",
+      "JP": "後部座席のほうから火柱が上がっている!!",
       "EN": "There was a pillar of fire swirling up from the rear of the bus!!",
       "Translation": "There was a pillar of fire swirling up from the rear of the bus!!"
     },
     {
-      "JP": "火したら終わりだ…もう時間がない…!!",
+      "JP": "引火したら終わりだ…もう時間がない…!!",
       "EN": "If the oil caught the fire, we would all be done for... No time left...!!",
       "Translation": "If the oil caught the fire, we would all be done for... No time left...!!"
     },
     {
-      "JP": "鈴@「えらいことになってるぞ、どうするんだ、理樹っ」",
+      "JP": "`鈴@「えらいことになってるぞ、どうするんだ、理樹っ」",
       "EN": "`Rin@❝It's getting a lot worse. What do we do, Riki!?❞",
       "Translation": "`Rin@❝It's getting a lot worse. What do we do, Riki!?❞"
     },
     {
-      "JP": "理樹@「荷物を調べてほしいんだっ」",
+      "JP": "`理樹@「荷物を調べてほしいんだっ」",
       "EN": "`Riki@❝I need you to look into the bags.❞",
       "Translation": "`Riki@❝I need you to look into the bags.❞"
     },
     {
-      "JP": "理樹@「何でもいいから、集めておいて」",
+      "JP": "`理樹@「何でもいいから、集めておいて」",
       "EN": "`Riki@❝Collect whatever you think is useful.❞",
       "Translation": "`Riki@❝Collect whatever you think is useful.❞"
     },
     {
-      "JP": "味が通じたかはわからないが、鈴は頷いて、走っていった。",
+      "JP": "意味が通じたかはわからないが、鈴は頷いて、走っていった。",
       "EN": "I wasn't sure if she'd understood my purpose, but she nodded and ran off.",
       "Translation": "I wasn't sure if she'd understood my purpose, but she nodded and ran off."
     },
     {
-      "JP": "理樹@「荷物を調べてくれないかな…」",
+      "JP": "`理樹@「荷物を調べてくれないかな…」",
       "EN": "`Riki@❝Can you look into the bags...?❞",
       "Translation": "`Riki@❝Can you look into the bags...?❞"
     },
     {
-      "JP": "理樹@「みんな、怪我してるから、添木になるものや、止血できそうな布」",
+      "JP": "`理樹@「みんな、怪我してるから、添木になるものや、止血できそうな布」",
       "EN": "`Riki@❝Everybody's injured, so we need stuff that we can use as braces, or clothes to stop their bleeding.❞",
       "Translation": "`Riki@❝Everybody's injured, so we need stuff that we can use as braces, or clothes to stop their bleeding.❞"
     },
     {
-      "JP": "理樹@「何でもいいから、集めておいて」",
+      "JP": "`理樹@「何でもいいから、集めておいて」",
       "EN": "`Riki@❝Collect whatever you think is useful.❞",
       "Translation": "`Riki@❝Collect whatever you think is useful.❞"
     },
     {
-      "JP": "りん、とひとつ頷き、走っていった。",
+      "JP": "ちりん、とひとつ頷き、走っていった。",
       "EN": "With a cling of the bell, she ran off.",
       "Translation": "With a cling of the bell, she ran off."
     },
     {
-      "JP": "は、先に意識を取り戻した比較的軽傷な同級生たちを叱咤激励し、荷物から取り出したタオルやシャツで治療を始めた。",
+      "JP": "鈴は、先に意識を取り戻した比較的軽傷な同級生たちを叱咤激励し、荷物から取り出したタオルやシャツで治療を始めた。",
       "EN": "Some of the more lightly injured classmates had started to regain consciousness.",
       "Translation": "Some of the more lightly injured classmates had started to regain consciousness."
     },
     {
-      "JP": "きぱきと調べ、集めては女生徒のひとりに止血させている。",
+      "JP": "てきぱきと調べ、集めては女生徒のひとりに止血させている。",
       "EN": "She quickly gathered more clothes while a female classmate treated the injured.",
       "Translation": "She quickly gathered more clothes while a female classmate treated the injured."
     },
     {
-      "JP": "安そうな顔もするけど、がんばって考えて、次の行動に移る。",
+      "JP": "不安そうな顔もするけど、がんばって考えて、次の行動に移る。",
       "EN": "Even though she occasionally wore a look of anxiety on her face, she tried hard to figure out what to do next and moved to action.",
       "Translation": "Even though she occasionally wore a look of anxiety on her face, she tried hard to figure out what to do next and moved to action."
     },
     {
-      "JP": "には相談して、指示を仰ぐ。",
+      "JP": "時には相談して、指示を仰ぐ。",
       "EN": "She even asked me for advice every once in a while.",
       "Translation": "She even asked me for advice every once in a while."
     },
     {
-      "JP": "では考えられないほど頼もしい姿だ。",
+      "JP": "昔では考えられないほど頼もしい姿だ。",
       "EN": "She'd become far more reliable than she used to be.",
       "Translation": "She'd become far more reliable than she used to be."
     },
     {
-      "JP": "理樹@「シートを取り外して」",
+      "JP": "`理樹@「シートを取り外して」",
       "EN": "`Riki@❝Take some of the seats off.❞",
       "Translation": "`Riki@❝Take some of the seats off.❞"
     },
     {
-      "JP": "理樹@「…ベッド代わりになるはずだから」",
+      "JP": "`理樹@「…ベッド代わりになるはずだから」",
       "EN": "`Riki@❝...I think we can use them as beds.❞",
       "Translation": "`Riki@❝...I think we can use them as beds.❞"
     },
     {
-      "JP": "鈴@「わかった」",
+      "JP": "`鈴@「わかった」",
       "EN": "`Rin@❝Got it.❞",
       "Translation": "`Rin@❝Got it.❞"
     },
     {
-      "JP": "に向かう。",
+      "JP": "中に向かう。",
       "EN": "She got into the bus.",
       "Translation": "She got into the bus."
     },
     {
-      "JP": "けれど、シートはなかなか簡単には外れない。",
+      "JP": "…けれど、シートはなかなか簡単には外れない。",
       "EN": "...However, it wasn't so easy to detach a seat.",
       "Translation": "...However, it wasn't so easy to detach a seat."
     },
     {
-      "JP": "我をしている人たちのために必要と、僕は判断した。",
+      "JP": "怪我をしている人たちのために必要と、僕は判断した。",
       "EN": "I had judged that the injured needed them.",
       "Translation": "I had judged that the injured needed them."
     },
     {
-      "JP": "けれど、そんなものよりもっと必要なものはいっぱいあった。",
+      "JP": "…けれど、そんなものよりもっと必要なものはいっぱいあった。",
       "EN": "...But I realized that there were many other things they needed much more.",
       "Translation": "...But I realized that there were many other things they needed much more."
     },
     {
-      "JP": "えを改める。",
+      "JP": "考えを改める。",
       "EN": "I thought again.",
       "Translation": "I thought again."
     },
     {
-      "JP": "理樹@「ごめん、鈴」",
+      "JP": "`理樹@「ごめん、鈴」",
       "EN": "`Riki@❝Sorry, Rin.❞",
       "Translation": "`Riki@❝Sorry, Rin.❞"
     },
     {
-      "JP": "人を少し離れた草むらに寝かせる。",
+      "JP": "真人を少し離れた草むらに寝かせる。",
       "EN": "We carried Masato to a grassy patch some distance away.",
       "Translation": "We carried Masato to a grassy patch some distance away."
     },
     {
-      "JP": "れでバスの中に居た全員を避難させた。",
+      "JP": "これでバスの中に居た全員を避難させた。",
       "EN": "We'd gotten all the classmates out of the bus.",
       "Translation": "We'd gotten all the classmates out of the bus."
     },
     {
-      "JP": "は、最後に残された恭介だけだ。",
+      "JP": "後は、最後に残された恭介だけだ。",
       "EN": "The only one left was Kyousuke.",
       "Translation": "The only one left was Kyousuke."
     },
     {
-      "JP": "うやくその目の前に戻ってくる。",
+      "JP": "ようやくその目の前に戻ってくる。",
       "EN": "At long last, I had come back for him.",
       "Translation": "At long last, I had come back for him."
     },
     {
-      "JP": "が、手遅れだったみたいだ。",
+      "JP": "だが、手遅れだったみたいだ。",
       "EN": "But it was already too late.",
       "Translation": "But it was already too late."
     },
     {
-      "JP": "う何も見えない。",
+      "JP": "もう何も見えない。",
       "EN": "I couldn't see anything.",
       "Translation": "I couldn't see anything."
     },
     {
-      "JP": "べては消し飛んだんだ。",
+      "JP": "すべては消し飛んだんだ。",
       "EN": "Everything was swept away.",
       "Translation": "Everything was swept away."
     },
     {
-      "JP": "も…恭介も…。",
+      "JP": "僕も…恭介も…。",
       "EN": "Me... and Kyousuke as well...",
       "Translation": "Me... and Kyousuke as well..."
     },
     {
-      "JP": "理樹@「!?」",
+      "JP": "`理樹@「!?」",
       "EN": "`Riki@❝!?❞",
       "Translation": "`Riki@❝!?❞"
     },
     {
-      "JP": "部座席のほうから火柱が上がっている!!",
+      "JP": "後部座席のほうから火柱が上がっている!!",
       "EN": "There was a pillar of fire swirling up from the rear of the bus!!",
       "Translation": "There was a pillar of fire swirling up from the rear of the bus!!"
     },
     {
-      "JP": "火したら終わりだ…もう時間がない…!!",
+      "JP": "引火したら終わりだ…もう時間がない…!!",
       "EN": "If the oil caught the fire, we would all be done for... No time left...!!",
       "Translation": "If the oil caught the fire, we would all be done for... No time left...!!"
     },
     {
-      "JP": "理樹@「恭介っ!!」",
+      "JP": "`理樹@「恭介っ!!」",
       "EN": "`Riki@❝Kyousuke!!❞",
       "Translation": "`Riki@❝Kyousuke!!❞"
     },
     {
-      "JP": "情に任せて、恭介に手を伸ばす。",
+      "JP": "感情に任せて、恭介に手を伸ばす。",
       "EN": "I reached toward him without another thought.",
       "Translation": "I reached toward him without another thought."
     },
     {
-      "JP": "僕は、忘れていた。",
+      "JP": "…僕は、忘れていた。",
       "EN": "...I should have been aware",
       "Translation": "...I should have been aware"
     },
     {
-      "JP": "介が、なぜそこで…。",
+      "JP": "恭介が、なぜそこで…。",
       "EN": "of why he was there...",
       "Translation": "of why he was there..."
     },
     {
-      "JP": "の場所に、いなければならなかったのか。",
+      "JP": "その場所に、いなければならなかったのか。",
       "EN": "...why he had needed to be there.",
       "Translation": "...why he had needed to be there."
     },
     {
-      "JP": "介は、守っていたんだ。",
+      "JP": "恭介は、守っていたんだ。",
       "EN": "He had been protecting us.",
       "Translation": "He had been protecting us."
     },
     {
-      "JP": "熱から、僕たちを。",
+      "JP": "灼熱から、僕たちを。",
       "EN": "He had been protecting us from that inevitable flame.",
       "Translation": "He had been protecting us from that inevitable flame."
     },
     {
-      "JP": "風が、吹いた。",
+      "JP": "…風が、吹いた。",
       "EN": "...A wind blew.",
       "Translation": "...A wind blew."
     },
     {
-      "JP": "して、視界は白くなり…。",
+      "JP": "そして、視界は白くなり…。",
       "EN": "And I could only see white...",
       "Translation": "And I could only see white..."
     },
     {
-      "JP": "……。",
+      "JP": "………。",
       "EN": ".........",
       "Translation": "........."
     },
     {
-      "JP": "…。",
+      "JP": "……。",
       "EN": "......",
       "Translation": "......"
     },
     {
-      "JP": "。",
+      "JP": "…。",
       "EN": "...",
       "Translation": "..."
     },
     {
-      "JP": "うだ…！",
+      "JP": "そうだ…！",
       "EN": "That's right...!",
       "Translation": "That's right...!"
     },
     {
-      "JP": "介は、爆発を防ぐために、身を挺しているんじゃないか。",
+      "JP": "恭介は、爆発を防ぐために、身を挺しているんじゃないか。",
       "EN": "He was using his own body to prevent an explosion.",
       "Translation": "He was using his own body to prevent an explosion."
     },
     {
-      "JP": "ならば、代わりになるもので埋めなければ！",
+      "JP": "…ならば、代わりになるもので埋めなければ！",
       "EN": "...Therefore, I needed something to take his place!",
       "Translation": "...Therefore, I needed something to take his place!"
     },
     {
-      "JP": "理樹@（埋めるもの…!?）",
+      "JP": "`理樹@（埋めるもの…!?）",
       "EN": "`Riki@(A replacement...!?)",
       "Translation": "`Riki@(A replacement...!?)"
     },
     {
-      "JP": "着は、さっき担架を作るときに使ってしまった。",
+      "JP": "上着は、さっき担架を作るときに使ってしまった。",
       "EN": "I'd already used my jacket to make the stretcher.",
       "Translation": "I'd already used my jacket to make the stretcher."
     },
     {
-      "JP": "んでもいい、僕たちが逃げおおせるまでの間、もてばいい…。",
+      "JP": "なんでもいい、僕たちが逃げおおせるまでの間、もてばいい…。",
       "EN": "Anything would do as long as it could gain us the time to get far enough...",
       "Translation": "Anything would do as long as it could gain us the time to get far enough..."
     },
     {
-      "JP": "らを見る。",
+      "JP": "傍らを見る。",
       "EN": "I looked down.",
       "Translation": "I looked down."
     },
     {
-      "JP": "女子の制服の上着が、ガラスまみれで落ちていた。",
+      "JP": "…女子の制服の上着が、ガラスまみれで落ちていた。",
       "EN": "...There was a girl's jacket, covered in shards of glass from the window.",
       "Translation": "...There was a girl's jacket, covered in shards of glass from the window."
     },
     {
-      "JP": "とまず、これでいいっ！",
+      "JP": "ひとまず、これでいいっ！",
       "EN": "This would do!",
       "Translation": "This would do!"
     },
     {
-      "JP": "介をどかし、穴を塞ぐように、それを詰め込む。",
+      "JP": "恭介をどかし、穴を塞ぐように、それを詰め込む。",
       "EN": "I moved Kyousuke aside and stuffed the jacket into the hole.",
       "Translation": "I moved Kyousuke aside and stuffed the jacket into the hole."
     },
     {
-      "JP": "理樹@「!?」",
+      "JP": "`理樹@「!?」",
       "EN": "`Riki@❝!?❞",
       "Translation": "`Riki@❝!?❞"
     },
     {
-      "JP": "部座席のほうから火柱が上がっている!!",
+      "JP": "後部座席のほうから火柱が上がっている!!",
       "EN": "There was a pillar of fire swirling up from the rear of the bus!!",
       "Translation": "There was a pillar of fire swirling up from the rear of the bus!!"
     },
     {
-      "JP": "火したら終わりだ…もう時間がない…!!",
+      "JP": "引火したら終わりだ…もう時間がない…!!",
       "EN": "If the oil caught fire, we would all be done for... No time left...!!",
       "Translation": "If the oil caught fire, we would all be done for... No time left...!!"
     },
     {
-      "JP": "れで問題はないはずだ！",
+      "JP": "これで問題はないはずだ！",
       "EN": "I'm sure I've done everything I need to!",
       "Translation": "I'm sure I've done everything I need to!"
     },
     {
-      "JP": "理樹@（まだなにか、やりのこしたことは…）",
+      "JP": "`理樹@（まだなにか、やりのこしたことは…）",
       "EN": "`Riki@(Is there something I haven't done yet...?)",
       "Translation": "`Riki@(Is there something I haven't done yet...?)"
     },
     {
-      "JP": "介を肩に抱えて、立ち止まる。",
+      "JP": "恭介を肩に抱えて、立ち止まる。",
       "EN": "I stopped walking with Kyousuke on my shoulder.",
       "Translation": "I stopped walking with Kyousuke on my shoulder."
     },
     {
-      "JP": "そんなこと、してる場合じゃない。",
+      "JP": "…そんなこと、してる場合じゃない。",
       "EN": "...You don't have time for that.",
       "Translation": "...You don't have time for that."
     },
     {
-      "JP": "の中に声が響いた、気がした。",
+      "JP": "頭の中に声が響いた、気がした。",
       "EN": "I felt like I heard someone say that inside my head.",
       "Translation": "I felt like I heard someone say that inside my head."
     },
     {
-      "JP": "理樹@「あ…」",
+      "JP": "`理樹@「あ…」",
       "EN": "`Riki@❝Uh...❞",
       "Translation": "`Riki@❝Uh...❞"
     },
     {
-      "JP": "の目の前で、塞いでいた上着が吹き飛ぶ。",
+      "JP": "僕の目の前で、塞いでいた上着が吹き飛ぶ。",
       "EN": "I saw the wind blow the jacket away from the tank.",
       "Translation": "I saw the wind blow the jacket away from the tank."
     },
     {
-      "JP": "耳に、声が聞こえる。",
+      "JP": "…耳に、声が聞こえる。",
       "EN": "...I heard someone's voice.",
       "Translation": "...I heard someone's voice."
     },
     {
-      "JP": "の声だろうか。",
+      "JP": "鈴の声だろうか。",
       "EN": "Perhaps it was Rin's.",
       "Translation": "Perhaps it was Rin's."
     },
     {
-      "JP": "めだ。",
+      "JP": "だめだ。",
       "EN": "I couldn't make it.",
       "Translation": "I couldn't make it."
     },
     {
-      "JP": "う、遅かった。",
+      "JP": "もう、遅かった。",
       "EN": "It was too late.",
       "Translation": "It was too late."
     },
     {
-      "JP": "だけでも…。",
+      "JP": "鈴だけでも…。",
       "EN": "Rin, even if it's just you...",
       "Translation": "Rin, even if it's just you..."
     },
     {
-      "JP": "こから…。",
+      "JP": "ここから…。",
       "EN": "...get out of here...",
       "Translation": "...get out of here..."
     },
     {
-      "JP": "う、だめだ。早く、逃げろ。",
+      "JP": "もう、だめだ。早く、逃げろ。",
       "EN": "It's too late. Just run.",
       "Translation": "It's too late. Just run."
     },
     {
-      "JP": "の中に声が響いた、気がした。",
+      "JP": "頭の中に声が響いた、気がした。",
       "EN": "I felt like I heard someone say that inside my head.",
       "Translation": "I felt like I heard someone say that inside my head."
     },
     {
-      "JP": "理樹@「あ…」",
+      "JP": "`理樹@「あ…」",
       "EN": "`Riki@❝Uh...❞",
       "Translation": "`Riki@❝Uh...❞"
     },
     {
-      "JP": "耳に、声が聞こえる。",
+      "JP": "…耳に、声が聞こえる。",
       "EN": "...I heard someone's voice.",
       "Translation": "...I heard someone's voice."
     },
     {
-      "JP": "の声だろうか。",
+      "JP": "鈴の声だろうか。",
       "EN": "Perhaps it was Rin's.",
       "Translation": "Perhaps it was Rin's."
     },
     {
-      "JP": "めだ。",
+      "JP": "だめだ。",
       "EN": "I couldn't make it.",
       "Translation": "I couldn't make it."
     },
     {
-      "JP": "う、遅かった。",
+      "JP": "もう、遅かった。",
       "EN": "It was too late.",
       "Translation": "It was too late."
     },
     {
-      "JP": "だけでも…。",
+      "JP": "鈴だけでも…。",
       "EN": "Rin, even if it's just you...",
       "Translation": "Rin, even if it's just you..."
     },
     {
-      "JP": "こから…。",
+      "JP": "ここから…。",
       "EN": "...get out of here...",
       "Translation": "...get out of here..."
     },
     {
-      "JP": "理樹@「ありがとう、恭介…」",
+      "JP": "`理樹@「ありがとう、恭介…」",
       "EN": "`Riki@❝Thank you, Kyousuke...❞",
       "Translation": "`Riki@❝Thank you, Kyousuke...❞"
     },
     {
-      "JP": "理樹@「みんな無事だ…」",
+      "JP": "`理樹@「みんな無事だ…」",
       "EN": "`Riki@❝We're all safe...❞",
       "Translation": "`Riki@❝We're all safe...❞"
     },
     {
-      "JP": "理樹@「恭介の…おかげだよ…」",
+      "JP": "`理樹@「恭介の…おかげだよ…」",
       "EN": "`Riki@❝It's... all thanks to you...❞",
       "Translation": "`Riki@❝It's... all thanks to you...❞"
     },
     {
-      "JP": "吸も覚束ない…。",
+      "JP": "呼吸も覚束ない…。",
       "EN": "I couldn't even breathe normally...",
       "Translation": "I couldn't even breathe normally..."
     },
     {
-      "JP": "にはまだ力が残っているのか…。",
+      "JP": "僕にはまだ力が残っているのか…。",
       "EN": "Did I still have enough energy left within me...?",
       "Translation": "Did I still have enough energy left within me...?"
     },
     {
-      "JP": "れすら怪しい…。",
+      "JP": "それすら怪しい…。",
       "EN": "I could no longer tell.",
       "Translation": "I could no longer tell."
     },
     {
-      "JP": "ど…。",
+      "JP": "けど…。",
       "EN": "Still...",
       "Translation": "Still..."
     },
     {
-      "JP": "理樹@「最後は恭介の番だ…」",
+      "JP": "`理樹@「最後は恭介の番だ…」",
       "EN": "`Riki@❝It's finally your turn, Kyousuke...❞",
       "Translation": "`Riki@❝It's finally your turn, Kyousuke...❞"
     },
     {
-      "JP": "理樹@「いこう」",
+      "JP": "`理樹@「いこう」",
       "EN": "`Riki@❝Let's go.❞",
       "Translation": "`Riki@❝Let's go.❞"
     },
     {
-      "JP": "介を抱きしめ…一気に持ち上げる。",
+      "JP": "恭介を抱きしめ…一気に持ち上げる。",
       "EN": "I put my arms around him and lifted him up.",
       "Translation": "I put my arms around him and lifted him up."
     },
     {
-      "JP": "着で塞いでいた燃料タンクから、大量の軽油が一気に噴出する。",
+      "JP": "上着で塞いでいた燃料タンクから、大量の軽油が一気に噴出する。",
       "EN": "A large amount of oil instantly erupted from the tank his jacket had been covering.",
       "Translation": "A large amount of oil instantly erupted from the tank his jacket had been covering."
     },
     {
-      "JP": "あの程度じゃ、長くもつわけはなかった。",
+      "JP": "…あの程度じゃ、長くもつわけはなかった。",
       "EN": "...The girl's jacket alone couldn't buy us much time.",
       "Translation": "...The girl's jacket alone couldn't buy us much time."
     },
     {
-      "JP": "理樹@「鈴！　手を貸して！」",
+      "JP": "`理樹@「鈴！　手を貸して！」",
       "EN": "`Riki@❝Rin! Give me a hand!❞",
       "Translation": "`Riki@❝Rin! Give me a hand!❞"
     },
     {
-      "JP": "鈴@「っ!?」",
+      "JP": "`鈴@「っ!?」",
       "EN": "`Rin@❝!?❞",
       "Translation": "`Rin@❝!?❞"
     },
     {
-      "JP": "理樹@「早くっ」",
+      "JP": "`理樹@「早くっ」",
       "EN": "`Riki@❝Quick!❞",
       "Translation": "`Riki@❝Quick!❞"
     },
     {
-      "JP": "てて駆けつけた鈴が、恭介を反対側から肩で背負う。",
+      "JP": "慌てて駆けつけた鈴が、恭介を反対側から肩で背負う。",
       "EN": "She rushed over to me and took Kyousuke's other shoulder.",
       "Translation": "She rushed over to me and took Kyousuke's other shoulder."
     },
     {
-      "JP": "理樹@「急いで離れるんだ！　爆発する！」",
+      "JP": "`理樹@「急いで離れるんだ！　爆発する！」",
       "EN": "`Riki@❝We've got to hurry up and get out of here! It's gonna blow!❞",
       "Translation": "`Riki@❝We've got to hurry up and get out of here! It's gonna blow!❞"
     },
     {
-      "JP": "鈴@「うん！」",
+      "JP": "`鈴@「うん！」",
       "EN": "`Rin@❝Okay!❞",
       "Translation": "`Rin@❝Okay!❞"
     },
     {
-      "JP": "ろは振り返らない。",
+      "JP": "後ろは振り返らない。",
       "EN": "We didn't look back.",
       "Translation": "We didn't look back."
     },
     {
-      "JP": "だまっすぐ…",
+      "JP": "ただまっすぐ…",
       "EN": "Straight ahead...",
       "Translation": "Straight ahead..."
     },
     {
-      "JP": "たすらまっすぐに…",
+      "JP": "ひたすらまっすぐに…",
       "EN": "We ran straight forward with everything we had...",
       "Translation": "We ran straight forward with everything we had..."
     },
     {
-      "JP": "界が白く染まった。",
+      "JP": "世界が白く染まった。",
       "EN": "The world became white.",
       "Translation": "The world became white."
     },
     {
-      "JP": "音が熱風と共に襲いかかる。",
+      "JP": "轟音が熱風と共に襲いかかる。",
       "EN": "A booming roar and fiery wind attacked us from behind.",
       "Translation": "A booming roar and fiery wind attacked us from behind."
     },
     {
-      "JP": "っさに身を翻し、鈴と恭介を庇う。",
+      "JP": "とっさに身を翻し、鈴と恭介を庇う。",
       "EN": "Instinctively, I flattened Rin and Kyousuke against the ground under me.",
       "Translation": "Instinctively, I flattened Rin and Kyousuke against the ground under me."
     },
     {
-      "JP": "先を焼く臭いが鼻腔を刺し、一瞬息が出来なくなる。",
+      "JP": "毛先を焼く臭いが鼻腔を刺し、一瞬息が出来なくなる。",
       "EN": "The smell of my own hair burning filled my nose, and I could not breathe for a moment.",
       "Translation": "The smell of my own hair burning filled my nose, and I could not breathe for a moment."
     },
     {
-      "JP": "風で吹き飛ばされながら、僕は二人の体を離さなかった。",
+      "JP": "爆風で吹き飛ばされながら、僕は二人の体を離さなかった。",
       "EN": "Even though the blast hammered me, I kept holding on tight to the siblings.",
       "Translation": "Even though the blast hammered me, I kept holding on tight to the siblings."
     },
     {
-      "JP": "う、二度と離れない。",
+      "JP": "もう、二度と離れない。",
       "EN": "I won't let you go ever again.",
       "Translation": "I won't let you go ever again."
     },
     {
-      "JP": "丈夫だよ、もう。",
+      "JP": "大丈夫だよ、もう。",
       "EN": "It's going to be alright now.",
       "Translation": "It's going to be alright now."
     }
-  ]
+  ],
+  "TASK": []
 }

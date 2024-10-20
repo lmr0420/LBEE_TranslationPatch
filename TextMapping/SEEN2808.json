@@ -1526,5 +1526,12 @@
       "Translation": "........."
     }
   ],
-  "TASK": []
+  "TASK": [],
+  "SELECT": [
+    {
+      "JP": "撃つ$d撃たない",
+      "EN": "Shoot$dDon't shoot",
+      "Translation": "Shoot$dDon't shoot"
+    }
+  ]
 }

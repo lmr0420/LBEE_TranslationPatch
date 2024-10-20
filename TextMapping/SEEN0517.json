@@ -10597,5 +10597,67 @@
       "EN": "And so the night went on...",
       "Translation": "And so the night went on..."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "取る$d取らない",
+      "EN": "Take it$dLeave it be",
+      "Translation": "Take it$dLeave it be"
+    },
+    {
+      "JP": "探してみる$dない$dさすらう",
+      "EN": "Look for it$dDon't have it$dWander",
+      "Translation": "Look for it$dDon't have it$dWander"
+    },
+    {
+      "JP": "探してみる$dない",
+      "EN": "Look for it$dDon't have it",
+      "Translation": "Look for it$dDon't have it"
+    },
+    {
+      "JP": "黙ってみてる$dやっぱり止める",
+      "EN": "Watch the battle$dStop them",
+      "Translation": "Watch the battle$dStop them"
+    },
+    {
+      "JP": "携帯サイトにアクセスする$d自習する",
+      "EN": "Access the site$dContinue studying",
+      "Translation": "Access the site$dContinue studying"
+    },
+    {
+      "JP": "次を読む$d自習に戻る",
+      "EN": "Read the next one$dStart studying",
+      "Translation": "Read the next one$dStart studying"
+    },
+    {
+      "JP": "鈴を追う$dさすらう$d真人と遊ぶ",
+      "EN": "Run after Rin$dWander$dPlay with Masato",
+      "Translation": "Run after Rin$dWander$dPlay with Masato"
+    },
+    {
+      "JP": "鈴を追う$d放っておく$d真人と遊ぶ",
+      "EN": "Run after Rin$dStay here$dPlay with Masato",
+      "Translation": "Run after Rin$dStay here$dPlay with Masato"
+    },
+    {
+      "JP": "しばらく見守る$d声をかける",
+      "EN": "Watch for a while$dCall out to her",
+      "Translation": "Watch for a while$dCall out to her"
+    },
+    {
+      "JP": "さすらう$d休む",
+      "EN": "Wander$dTake a break",
+      "Translation": "Wander$dTake a break"
+    },
+    {
+      "JP": "屋上にいく$d屋上にいかない",
+      "EN": "Go to the rooftop$dDon't go to the rooftop",
+      "Translation": "Go to the rooftop$dDon't go to the rooftop"
+    },
+    {
+      "JP": "さすらう$d休んでおく",
+      "EN": "Wander$dRest",
+      "Translation": "Wander$dRest"
+    }
   ]
 }

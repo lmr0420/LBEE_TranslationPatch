@@ -13126,5 +13126,27 @@
       "Translation": "But I'm still as weak as I used to be..."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "中庭$dグラウンド$d廊下",
+      "EN": "Courtyard$dSports grounds$dCorridor",
+      "Translation": "Courtyard$dSports grounds$dCorridor"
+    },
+    {
+      "JP": "[!(#92==1),]中庭$d[!(#90==1),]グラウンド$d[!(#91==1),]廊下",
+      "EN": "[!(#92==1),]Courtyard$d[!(#90==1),]Sports grounds$d[!(#91==1),]Corridor",
+      "Translation": "[!(#92==1),]Courtyard$d[!(#90==1),]Sports grounds$d[!(#91==1),]Corridor"
+    },
+    {
+      "JP": "いく$dやめる",
+      "EN": "Go$dGive up",
+      "Translation": "Go$dGive up"
+    },
+    {
+      "JP": "これからは強く生きる$d逃げる",
+      "EN": "Become stronger$dRun away",
+      "Translation": "Become stronger$dRun away"
+    }
+  ],
   "TASK": []
 }

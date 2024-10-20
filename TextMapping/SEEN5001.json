@@ -2800,5 +2800,22 @@
       "EN": "...I'll have to give it my all on Monday after school...",
       "Translation": "...I'll have to give it my all on Monday after school..."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "小毬$dクド$d葉留佳$d美魚",
+      "EN": "Komari$dKud$dHaruka$dMio",
+      "Translation": "Komari$dKud$dHaruka$dMio"
+    },
+    {
+      "JP": "[!(#63==1),]小毬$d[!(#64==1),]クド$d[!(#65==1),]葉留佳$d[!(#66==1),]美魚",
+      "EN": "[!(#63==1),]Komari$d[!(#64==1),]Kud$d[!(#65==1),]Haruka$d[!(#66==1),]Mio",
+      "Translation": "[!(#63==1),]Komari$d[!(#64==1),]Kud$d[!(#65==1),]Haruka$d[!(#66==1),]Mio"
+    },
+    {
+      "JP": "[!(#63==1),]小毬$d[!(#64==1),]クド$d[!(#65==1),]葉留佳$d[!(#66==1),]美魚",
+      "EN": "[!(#63==1),]Komari$d[!(#64==1),]Kud$d[!(#65==1),]Haruka$d[!(#66==1),]Mio",
+      "Translation": "[!(#63==1),]Komari$d[!(#64==1),]Kud$d[!(#65==1),]Haruka$d[!(#66==1),]Mio"
+    }
   ]
 }

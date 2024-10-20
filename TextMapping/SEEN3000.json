@@ -17266,5 +17266,62 @@
       "Translation": "I stood in front of her as she continued to cry."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "学食$d中庭の自動販売機$d校門",
+      "EN": "Cafeteria$dCourtyard vending machine$dSchool gates",
+      "Translation": "Cafeteria$dCourtyard vending machine$dSchool gates"
+    },
+    {
+      "JP": "中庭の自動販売機$d校門",
+      "EN": "Courtyard vending machine$dSchool gates",
+      "Translation": "Courtyard vending machine$dSchool gates"
+    },
+    {
+      "JP": "学食$d中庭の自動販売機",
+      "EN": "Cafeteria$dCourtyard vending machine",
+      "Translation": "Cafeteria$dCourtyard vending machine"
+    },
+    {
+      "JP": "何も訊かない$dどうしたのか訊く",
+      "EN": "Don't ask anything$dAsk what happened",
+      "Translation": "Don't ask anything$dAsk what happened"
+    },
+    {
+      "JP": "委員会室へ向かう$dこのまま寮に帰る",
+      "EN": "Head to the meeting room$dReturn to the dorms",
+      "Translation": "Head to the meeting room$dReturn to the dorms"
+    },
+    {
+      "JP": "本当か訊く$d何も言わない",
+      "EN": "Ask for the truth$dDon't say anything",
+      "Translation": "Ask for the truth$dDon't say anything"
+    },
+    {
+      "JP": "確認する$d確認するまでもない",
+      "EN": "Check it out$dThere's no need",
+      "Translation": "Check it out$dThere's no need"
+    },
+    {
+      "JP": "葉留佳さん探しを続行する$d今日は諦めることにする",
+      "EN": "Continue searching for Haruka-san$dGive up for today",
+      "Translation": "Continue searching for Haruka-san$dGive up for today"
+    },
+    {
+      "JP": "名簿で見たと答える$d二木さんから聞いたと答える",
+      "EN": "Saw it in the class register$dHeard it from Futaki-san",
+      "Translation": "Saw it in the class register$dHeard it from Futaki-san"
+    },
+    {
+      "JP": "うん$dううん",
+      "EN": "Yes$dNo",
+      "Translation": "Yes$dNo"
+    },
+    {
+      "JP": "わかりました$dやっぱりちょっと…",
+      "EN": "I understand$dI don't think so...",
+      "Translation": "I understand$dI don't think so..."
+    }
+  ],
   "TASK": []
 }

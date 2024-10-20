@@ -820,5 +820,17 @@
       "EN": "`Riki@❝Sure.❞",
       "Translation": "`Riki@❝Sure.❞"
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "銃で応戦$d飛び退く",
+      "EN": "Counter with your gun$dJump back",
+      "Translation": "Counter with your gun$dJump back"
+    },
+    {
+      "JP": "剣をもらう$d石像にのぼる",
+      "EN": "Get the sword$dClimb the statue",
+      "Translation": "Get the sword$dClimb the statue"
+    }
   ]
 }

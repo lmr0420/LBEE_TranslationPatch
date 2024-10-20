@@ -2451,5 +2451,47 @@
       "Translation": "`Tokido@❝That's right.❞"
     }
   ],
-  "TASK": []
+  "TASK": [],
+  "SELECT": [
+    {
+      "JP": "龍を氷細工で再現する$d龍を見ながらロックで一杯やる",
+      "EN": "Carve the dragon out of ice$dHave a drink on-the-rocks while gazing at it",
+      "Translation": "Carve the dragon out of ice$dHave a drink on-the-rocks while gazing at it"
+    },
+    {
+      "JP": "さらに頑張る$d諦める",
+      "EN": "Try harder$dGive up",
+      "Translation": "Try harder$dGive up"
+    },
+    {
+      "JP": "さらに頑張る$d諦める",
+      "EN": "Try even harder$dGive up",
+      "Translation": "Try even harder$dGive up"
+    },
+    {
+      "JP": "もう一方の部屋を調べる$dこの階のマップを見直す",
+      "EN": "Investigate the other room$dLook at the map one more time",
+      "Translation": "Investigate the other room$dLook at the map one more time"
+    },
+    {
+      "JP": "儚$d王$d死",
+      "EN": "儚 (fleeting)$d王 (king)$d死 (death)",
+      "Translation": "儚 (fleeting)$d王 (king)$d死 (death)"
+    },
+    {
+      "JP": "この部屋の棺を開ける$d移動",
+      "EN": "Open the sarcophagus in this room$dMove",
+      "Translation": "Open the sarcophagus in this room$dMove"
+    },
+    {
+      "JP": "この部屋の棺を開ける$d移動",
+      "EN": "Open the sarcophagus in this room$dMove",
+      "Translation": "Open the sarcophagus in this room$dMove"
+    },
+    {
+      "JP": "ミイラを探す$d放っておく",
+      "EN": "Search for the mummy$dLeave him be",
+      "Translation": "Search for the mummy$dLeave him be"
+    }
+  ]
 }

@@ -7026,5 +7026,17 @@
       "Translation": ""
     }
   ],
-  "TASK": []
+  "TASK": [],
+  "SELECT": [
+    {
+      "JP": "そうじゃないけど…$d僕だって…",
+      "EN": "No, that's not it...$dI too...",
+      "Translation": "No, that's not it...$dI too..."
+    },
+    {
+      "JP": "理由なんてなかったじゃないか$dその答えは他にある",
+      "EN": "I guess there was no reason$dThere's another reason",
+      "Translation": "I guess there was no reason$dThere's another reason"
+    }
+  ]
 }

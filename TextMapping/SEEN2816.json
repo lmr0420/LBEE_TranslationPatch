@@ -1816,5 +1816,32 @@
       "EN": "We pretended to have forgotten how we got the sculpture.",
       "Translation": "We pretended to have forgotten how we got the sculpture."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "もう一度降りる$d部屋を出る",
+      "EN": "Go down again$dLeave the room",
+      "Translation": "Go down again$dLeave the room"
+    },
+    {
+      "JP": "龍を氷で彫る$d別の方法を探す",
+      "EN": "Carve an ice dragon$dFind another way",
+      "Translation": "Carve an ice dragon$dFind another way"
+    },
+    {
+      "JP": "戻る$d確かめる",
+      "EN": "Go back$dCheck",
+      "Translation": "Go back$dCheck"
+    },
+    {
+      "JP": "服を脱ぐ$d裸足になる",
+      "EN": "Take off my clothes$dGo barefoot",
+      "Translation": "Take off my clothes$dGo barefoot"
+    },
+    {
+      "JP": "パンツまで脱ぐ$dその一線は越えないでおく",
+      "EN": "Take off my panties$dThat's one line I won't cross",
+      "Translation": "Take off my panties$dThat's one line I won't cross"
+    }
   ]
 }

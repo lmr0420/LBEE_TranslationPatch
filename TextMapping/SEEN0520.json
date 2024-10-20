@@ -5276,5 +5276,62 @@
       "EN": "And so the night went on...",
       "Translation": "And so the night went on..."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "いく$dいかない",
+      "EN": "Go$dDon't go",
+      "Translation": "Go$dDon't go"
+    },
+    {
+      "JP": "いく$dいかない",
+      "EN": "Go$dDon't go",
+      "Translation": "Go$dDon't go"
+    },
+    {
+      "JP": "本当$d好き",
+      "EN": "Yes, it's true$dNo, I like him",
+      "Translation": "Yes, it's true$dNo, I like him"
+    },
+    {
+      "JP": "朱鷺戸さんと過ごしたい$d誰かと練習に励もう",
+      "EN": "Spend time with Tokido-san$dPractice with someone",
+      "Translation": "Spend time with Tokido-san$dPractice with someone"
+    },
+    {
+      "JP": "趣味を訊く$dどんな男がタイプか訊く",
+      "EN": "Ask about her hobbies$dAsk what her type is",
+      "Translation": "Ask about her hobbies$dAsk what her type is"
+    },
+    {
+      "JP": "背は高いよ？$d包容力はあるよ？$d実は年上だよ？",
+      "EN": "I'm tall.$dI'm understanding.$dI'm actually older.",
+      "Translation": "I'm tall.$dI'm understanding.$dI'm actually older."
+    },
+    {
+      "JP": "祈る$dそろそろ帰る",
+      "EN": "Pray$dIt's time to go",
+      "Translation": "Pray$dIt's time to go"
+    },
+    {
+      "JP": "探す$dさすらう",
+      "EN": "Look for a partner$dWander",
+      "Translation": "Look for a partner$dWander"
+    },
+    {
+      "JP": "[(#297==0),]鈴$d[(#298==0),]葉留佳$d[(#299==0),]来ヶ谷$d[(#300==0),]真人$d[(#301==0),]恭介",
+      "EN": "[(#297==0),]Rin$d[(#298==0),]Haruka$d[(#299==0),]Kurugaya$d[(#300==0),]Masato$d[(#301==0),]Kyousuke",
+      "Translation": "[(#297==0),]Rin$d[(#298==0),]Haruka$d[(#299==0),]Kurugaya$d[(#300==0),]Masato$d[(#301==0),]Kyousuke"
+    },
+    {
+      "JP": "[(#297==0),]鈴$d[(#298==0),]葉留佳$d[(#299==0),]来ヶ谷$d[(#300==0),]真人$d[(#301==0),]恭介",
+      "EN": "[(#297==0),]Rin$d[(#298==0),]Haruka$d[(#299==0),]Kurugaya$d[(#300==0),]Masato$d[(#301==0),]Kyousuke",
+      "Translation": "[(#297==0),]Rin$d[(#298==0),]Haruka$d[(#299==0),]Kurugaya$d[(#300==0),]Masato$d[(#301==0),]Kyousuke"
+    },
+    {
+      "JP": "ベーシックなドーナツ$dチョコストライプのドーナツ$dふわふわストロベリードーナツ",
+      "EN": "Basic donut$dChocolate striped donut$dLight strawberry donut",
+      "Translation": "Basic donut$dChocolate striped donut$dLight strawberry donut"
+    }
   ]
 }

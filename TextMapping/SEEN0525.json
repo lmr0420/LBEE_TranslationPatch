@@ -3946,5 +3946,32 @@
       "EN": "I can only pray she'll keep pitching until the very end.",
       "Translation": "I can only pray she'll keep pitching until the very end."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "恭介に相談$d鈴に相談$dこれで決定",
+      "EN": "Consult Kyousuke$dConsult Rin$dGo with what I have",
+      "Translation": "Consult Kyousuke$dConsult Rin$dGo with what I have"
+    },
+    {
+      "JP": "さらに相談する$dやめる",
+      "EN": "Consult her again$dStop",
+      "Translation": "Consult her again$dStop"
+    },
+    {
+      "JP": "助けてもらう$d断る",
+      "EN": "Accept his help$dTurn down his help",
+      "Translation": "Accept his help$dTurn down his help"
+    },
+    {
+      "JP": "練習を続ける$d終わりにする",
+      "EN": "Continue practicing$dCall it a day",
+      "Translation": "Continue practicing$dCall it a day"
+    },
+    {
+      "JP": "練習を続ける$d終わりにする",
+      "EN": "Continue practicing$dCall it a day",
+      "Translation": "Continue practicing$dCall it a day"
+    }
   ]
 }

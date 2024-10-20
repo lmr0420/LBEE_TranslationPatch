@@ -8846,5 +8846,17 @@
       "Translation": "Sasasegawa-san is still Sasasegawa-san, but I've slightly changed my opinion of her."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "励ます$dそっとしておく",
+      "EN": "Cheer her on$dLeave her be",
+      "Translation": "Cheer her on$dLeave her be"
+    },
+    {
+      "JP": "挙手する$dしない",
+      "EN": "Raise hand$dDon't raise hand",
+      "Translation": "Raise hand$dDon't raise hand"
+    }
+  ],
   "TASK": []
 }

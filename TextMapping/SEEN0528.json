@@ -1576,5 +1576,27 @@
       "EN": "Sounds like Rin has begun to see Sasasegawa-san in a new light.",
       "Translation": "Sounds like Rin has begun to see Sasasegawa-san in a new light."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "手伝う$dそっとしておく",
+      "EN": "Help$dStay out of it",
+      "Translation": "Help$dStay out of it"
+    },
+    {
+      "JP": "屋上にいく$d学食にいく",
+      "EN": "Go to the rooftop$dGo to the cafeteria",
+      "Translation": "Go to the rooftop$dGo to the cafeteria"
+    },
+    {
+      "JP": "中庭にいく$d学食にいく",
+      "EN": "Go to the courtyard$dGo to the cafeteria",
+      "Translation": "Go to the courtyard$dGo to the cafeteria"
+    },
+    {
+      "JP": "学食にいく$d二人が気になる",
+      "EN": "Go to the cafeteria$dFollow the two girls",
+      "Translation": "Go to the cafeteria$dFollow the two girls"
+    }
   ]
 }

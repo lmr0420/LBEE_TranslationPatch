@@ -31,6 +31,7 @@ namespace TextMapper
             {
                 return;
             }
+            this.Text = Path.GetFileName(OFD.FileName);
             var JsonStr = File.ReadAllText(OFD.FileName);
             this.EditingTranslationObj = JObject.Parse(JsonStr);
             this.TextList.Items.Clear();
@@ -105,7 +106,11 @@ namespace TextMapper
                     string PendingReplace = TextLines[i];
                     if (TextLines[i].Contains("「") && TextLines[i].IndexOf('「') != 0 && !TextLines[i].StartsWith("`"))
                     {
-                        PendingReplace ="`"+PendingReplace.Insert(TextLines[i].IndexOf('「'),"@");
+                        PendingReplace = "`" + PendingReplace.Insert(TextLines[i].IndexOf('「'), "@");
+                    }
+                    else if (TextLines[i].Contains("『") && TextLines[i].IndexOf('『') != 0 && !TextLines[i].StartsWith("`"))
+                    {
+                        PendingReplace = "`" + PendingReplace.Insert(TextLines[i].IndexOf('『'), "@");
                     }
                     TrasnlateTextObj["Translation"] = PendingReplace;
                 }

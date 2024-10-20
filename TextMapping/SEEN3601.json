@@ -21516,5 +21516,17 @@
       "Translation": ""
     }
   ],
-  "TASK": []
+  "TASK": [],
+  "SELECT": [
+    {
+      "JP": "好きだから$d答えられない",
+      "EN": "Because I like you$dI can't answer",
+      "Translation": "Because I like you$dI can't answer"
+    },
+    {
+      "JP": "キスをする$dキスをしない",
+      "EN": "Kiss her$dDo not kiss her",
+      "Translation": "Kiss her$dDo not kiss her"
+    }
+  ]
 }

@@ -3101,5 +3101,32 @@
       "Translation": "I resolved to do my best to bring out more of Tokido-san's girly side..."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "楽しいと感じる時もある$dそんなふうには感じられない",
+      "EN": "There were times I had thought it was fun$dI shouldn't have thought of it that way",
+      "Translation": "There were times I had thought it was fun$dI shouldn't have thought of it that way"
+    },
+    {
+      "JP": "楽しいと感じる時もある$dそんなふうには感じられない$dめっちゃ楽しい",
+      "EN": "There were times I had thought it was fun$dI shouldn't have thought of it that way$dIt was super fun.",
+      "Translation": "There were times I had thought it was fun$dI shouldn't have thought of it that way$dIt was super fun."
+    },
+    {
+      "JP": "大人しくやる$d朱鷺戸さんに押しつける",
+      "EN": "Do it like a man$dPush it onto Tokido-san",
+      "Translation": "Do it like a man$dPush it onto Tokido-san"
+    },
+    {
+      "JP": "ぐー$dちょき$dぱー",
+      "EN": "Rock$dScissors$dPaper",
+      "Translation": "Rock$dScissors$dPaper"
+    },
+    {
+      "JP": "部屋の外を調べてみる$d湯船を調べてみる",
+      "EN": "Look around outside the room$dExamine the bath",
+      "Translation": "Look around outside the room$dExamine the bath"
+    }
+  ],
   "TASK": []
 }

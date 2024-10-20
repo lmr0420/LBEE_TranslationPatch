@@ -45,6 +45,7 @@ namespace LBEE_TranslationPatch
         public static Dictionary<byte, Func<byte[], JObject?>> InstructionGetMapping = new ()
         {
             { 0x1F, MESSAGE_GET },
+            { 0x21, SELECT_GET },
             { 0x19, VARSTR_SET_GET },
             { 0x5A, TASK_GET },
             { 0x5C, BATTLE_GET },
@@ -53,6 +54,7 @@ namespace LBEE_TranslationPatch
         public static Dictionary<byte, Func<byte[], JObject, byte[]?>> InstructionSetMapping = new ()
         {
             { 0x1F, MESSAGE_SET },
+            { 0x21, SELECT_SET },
             { 0x19, VARSTR_SET_SET },
             { 0x5A, TASK_SET },
             { 0x5C, BATTLE_SET }
@@ -131,6 +133,37 @@ namespace LBEE_TranslationPatch
             newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
             newCommand.Add(0);
             newCommand.Add(0);
+            foreach (var newChar in Translation.ToCharArray())
+            {
+                CharCollection.Add(newChar);
+            }
+            return newCommand.ToArray();
+        }
+
+        public static JObject? SELECT_GET(byte[] command)
+        {
+            JObject TrasnlationObj = new JObject();
+            int index = GetCmdHeaderLength(command) + 4*2; // Header+ID+VAR123
+            int StrLength = GetStrLength(command, index);
+            TrasnlationObj["JP"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
+            index += StrLength + 2;
+            StrLength = GetStrLength(command, index);
+            TrasnlationObj["EN"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
+            TrasnlationObj["Translation"] = TrasnlationObj["EN"];
+            return TrasnlationObj;
+        }
+
+        public static byte[]? SELECT_SET(byte[] command, JObject inJsonObj)
+        {
+            int index = GetCmdHeaderLength(command) + 4*2; // Header+ID
+            int StrLength = GetStrLength(command, index); // Jp
+            index += StrLength + 2;
+            StrLength = GetStrLength(command, index);
+            string Translation = inJsonObj["Translation"]?.Value<string>() ?? "";
+            List<byte> newCommand = new List<byte>();
+            newCommand.AddRange(command[..index]);
+            newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
+            newCommand.AddRange(command.Skip(index + StrLength));
             foreach (var newChar in Translation.ToCharArray())
             {
                 CharCollection.Add(newChar);

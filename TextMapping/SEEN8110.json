@@ -1,1 +1,14 @@
-{}
+{
+  "SELECT": [
+    {
+      "JP": "[!(#357==0),]臨機応変にいく$d[!(#6201==0),]盗塁$d[!(#6202==0),]ダブルスチール$d[!(#6203==0),]ホームスチール$d[!(#6204==0),]ヒットエンドラン$d[!(#6205==0),]セーフティバント$d[!(#6206==0),]送りバント$d[!(#6207==0),]スクイズバント",
+      "EN": "[!(#357==0),]Opportunity play$d[!(#6201==0),]Steal$d[!(#6202==0),]Double steal$d[!(#6203==0),]Steal home$d[!(#6204==0),]Hit and run$d[!(#6205==0),]Drag bunt$d[!(#6206==0),]Sacrifice bunt$d[!(#6207==0),]Squeeze bunt",
+      "Translation": "[!(#357==0),]Opportunity play$d[!(#6201==0),]Steal$d[!(#6202==0),]Double steal$d[!(#6203==0),]Steal home$d[!(#6204==0),]Hit and run$d[!(#6205==0),]Drag bunt$d[!(#6206==0),]Sacrifice bunt$d[!(#6207==0),]Squeeze bunt"
+    },
+    {
+      "JP": "[!(#357==0),]選手にまかせる$d[!(#6201==0),]盗塁$d[!(#6202==0),]ダブルスチール$d[!(#6203==0),]ホームスチール$d[!(#6204==0),]ヒットエンドラン$d[!(#6205==0),]セーフティバント$d[!(#6206==0),]送りバント$d[!(#6207==0),]スクイズバント",
+      "EN": "[!(#357==0),]Leave it to the player$d[!(#6201==0),]Steal$d[!(#6202==0),]Double steal$d[!(#6203==0),]Steal home$d[!(#6204==0),]Hit and run$d[!(#6205==0),]Drag bunt$d[!(#6206==0),]Sacrifice bunt$d[!(#6207==0),]Squeeze bunt",
+      "Translation": "[!(#357==0),]Leave it to the player$d[!(#6201==0),]Steal$d[!(#6202==0),]Double steal$d[!(#6203==0),]Steal home$d[!(#6204==0),]Hit and run$d[!(#6205==0),]Drag bunt$d[!(#6206==0),]Sacrifice bunt$d[!(#6207==0),]Squeeze bunt"
+    }
+  ]
+}

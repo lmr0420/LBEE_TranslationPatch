@@ -3111,5 +3111,52 @@
       "Translation": "It's going to be alright now."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "みんなを助ける$d鈴を連れて逃げる",
+      "EN": "Rescue everyone$dEscape with Rin",
+      "Translation": "Rescue everyone$dEscape with Rin"
+    },
+    {
+      "JP": "うん$dいや",
+      "EN": "Yes$dNo",
+      "Translation": "Yes$dNo"
+    },
+    {
+      "JP": "いい$dよくない",
+      "EN": "It's enough$dIt's not enough",
+      "Translation": "It's enough$dIt's not enough"
+    },
+    {
+      "JP": "冷静になる$dバスの中へ様子を見に行く$d鈴を連れて逃げる",
+      "EN": "Calm myself down$dSurvey the inside of the bus$dEscape with Rin",
+      "Translation": "Calm myself down$dSurvey the inside of the bus$dEscape with Rin"
+    },
+    {
+      "JP": "枝を折る$d救出に向かう",
+      "EN": "Break off branches$dStart rescuing the classmates",
+      "Translation": "Break off branches$dStart rescuing the classmates"
+    },
+    {
+      "JP": "後回しにする$dすぐ助ける",
+      "EN": "Postpone his rescue$dRescue him without delay",
+      "Translation": "Postpone his rescue$dRescue him without delay"
+    },
+    {
+      "JP": "荷物を調べてもらう$dシートを取り外してもらう",
+      "EN": "Tell her to check the luggage$dTell her to remove some seats",
+      "Translation": "Tell her to check the luggage$dTell her to remove some seats"
+    },
+    {
+      "JP": "恭介を助ける$d何かを考える",
+      "EN": "Rescue Kyousuke$dThink it through",
+      "Translation": "Rescue Kyousuke$dThink it through"
+    },
+    {
+      "JP": "恭介を助ける$dさらに考える",
+      "EN": "Rescue Kyousuke$dThink more",
+      "Translation": "Rescue Kyousuke$dThink more"
+    }
+  ],
   "TASK": []
 }

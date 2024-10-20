@@ -961,5 +961,12 @@
       "Translation": "I decided to study for the day after tomorrow too..."
     }
   ],
-  "TASK": []
+  "TASK": [],
+  "SELECT": [
+    {
+      "JP": "捨てる$d捨てない",
+      "EN": "Throw it away$dDon't throw it away",
+      "Translation": "Throw it away$dDon't throw it away"
+    }
+  ]
 }

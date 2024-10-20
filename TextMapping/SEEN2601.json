@@ -1785,5 +1785,17 @@
       "EN": "...We cleaned up after ourselves and went back to our rooms.",
       "Translation": "...We cleaned up after ourselves and went back to our rooms."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "ウサギ$dジョー$dエイリアン",
+      "EN": "Rabbit$dJoe$dAlien",
+      "Translation": "Rabbit$dJoe$dAlien"
+    },
+    {
+      "JP": "[!(#6021==0),]ウサギ$d[!(#6021==1),]ジョー$d[!(#6021==2),]エイリアン",
+      "EN": "[!(#6021==0),]Rabbit$d[!(#6021==1),]Joe$d[!(#6021==2),]Alien",
+      "Translation": "[!(#6021==0),]Rabbit$d[!(#6021==1),]Joe$d[!(#6021==2),]Alien"
+    }
   ]
 }

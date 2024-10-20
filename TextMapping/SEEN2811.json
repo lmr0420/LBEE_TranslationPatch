@@ -751,6 +751,18 @@
       "Translation": "This was a game for me and only me."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "机を動かす$d床を調べる",
+      "EN": "Move the tables$dInvestigate the floor",
+      "Translation": "Move the tables$dInvestigate the floor"
+    },
+    {
+      "JP": "机を動かしてみる$d後ろの黒板を調べる",
+      "EN": "Move the tables$dInvestigate the blackboard in the back",
+      "Translation": "Move the tables$dInvestigate the blackboard in the back"
+    }
+  ],
   "TASK": [
     {
       "EN1": "REPLAY\nGAME END",

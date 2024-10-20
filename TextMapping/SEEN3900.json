@@ -3761,5 +3761,12 @@
       "Translation": "After hearing those final words, the bottomless darkness took me."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "望む$d望まない",
+      "EN": "I want to$dI don't want to",
+      "Translation": "I want to$dI don't want to"
+    }
+  ],
   "TASK": []
 }

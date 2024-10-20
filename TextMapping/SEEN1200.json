@@ -8526,5 +8526,22 @@
       "EN": "A phrase I picked up from the strongest person I'd ever met.",
       "Translation": "A phrase I picked up from the strongest person I'd ever met."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "真人が起きた$dほっぺたをぐりぐりされた",
+      "EN": "Masato had just woken up$dShe had pinched my cheeks",
+      "Translation": "Masato had just woken up$dShe had pinched my cheeks"
+    },
+    {
+      "JP": "猫のこと$dモンペチ$dキレイな猫トイレ",
+      "EN": "About cats$dAbout Mon Petit$dAbout a litter box",
+      "Translation": "About cats$dAbout Mon Petit$dAbout a litter box"
+    },
+    {
+      "JP": "パンを買いに行く$d無言でモンペチを差し出す",
+      "EN": "Go get some bread$dWordlessly hold out the Mon Petit",
+      "Translation": "Go get some bread$dWordlessly hold out the Mon Petit"
+    }
   ]
 }

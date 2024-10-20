@@ -5885,5 +5885,17 @@
       "EN": "I wasn't so sure about the operation name.",
       "Translation": "I wasn't so sure about the operation name."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "話す$d話さない",
+      "EN": "Talk to her$dDon't talk to her",
+      "Translation": "Talk to her$dDon't talk to her"
+    },
+    {
+      "JP": "しらを切る$dごまかす",
+      "EN": "Feign ignorance$dFool her",
+      "Translation": "Feign ignorance$dFool her"
+    }
   ]
 }

@@ -2161,5 +2161,27 @@
       "Translation": "Today's adventure comes to an end here."
     }
   ],
-  "TASK": []
+  "TASK": [],
+  "SELECT": [
+    {
+      "JP": "僕$d朱鷺戸さん",
+      "EN": "Me$dTokido-san",
+      "Translation": "Me$dTokido-san"
+    },
+    {
+      "JP": "でも飛ぶ$d譲歩する",
+      "EN": "But I'll still do the jump$dI compromise",
+      "Translation": "But I'll still do the jump$dI compromise"
+    },
+    {
+      "JP": "右に回す$d左に回す$d一回転させる",
+      "EN": "Turn it right$dTurn it left$dTurn it 360 degrees",
+      "Translation": "Turn it right$dTurn it left$dTurn it 360 degrees"
+    },
+    {
+      "JP": "右に回す$d一回転させる",
+      "EN": "Turn it right$dTurn it 360 degrees",
+      "Translation": "Turn it right$dTurn it 360 degrees"
+    }
+  ]
 }

@@ -11841,5 +11841,32 @@
       "Translation": "`Riki@❝Sure. I will wait.❞"
     }
   ],
+  "SELECT": [
+    {
+      "JP": "訊く$d帰る",
+      "EN": "Ask him$dGo home",
+      "Translation": "Ask him$dGo home"
+    },
+    {
+      "JP": "訊いてみる$d違う",
+      "EN": "Ask Kengo$dThat's not it",
+      "Translation": "Ask Kengo$dThat's not it"
+    },
+    {
+      "JP": "痛みが走ったから$d怪我をしていることを思い出したから$d気まぐれ",
+      "EN": "Because the hand hurt$dBecause he reminded himself of the injury$dBecause he just felt like it",
+      "Translation": "Because the hand hurt$dBecause he reminded himself of the injury$dBecause he just felt like it"
+    },
+    {
+      "JP": "怪我をしていることを思い出したから$d気まぐれ",
+      "EN": "Because he reminded himself of the injury$dBecause he just felt like it",
+      "Translation": "Because he reminded himself of the injury$dBecause he just felt like it"
+    },
+    {
+      "JP": "痛みが走ったから$d怪我をしていることを思い出したから",
+      "EN": "Because the hand hurt$dBecause he reminded himself of the injury",
+      "Translation": "Because the hand hurt$dBecause he reminded himself of the injury"
+    }
+  ],
   "TASK": []
 }

@@ -7031,5 +7031,22 @@
       "EN": "I will also stick with you until the last moment comes.",
       "Translation": "I will also stick with you until the last moment comes."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "力業で$d頭を使って$d数で勝負",
+      "EN": "Use force$dUse my brain$dGo with numbers",
+      "Translation": "Use force$dUse my brain$dGo with numbers"
+    },
+    {
+      "JP": "頭を使って$d数で勝負",
+      "EN": "Use my brain$dGo with numbers",
+      "Translation": "Use my brain$dGo with numbers"
+    },
+    {
+      "JP": "力業で$d頭を使って",
+      "EN": "Use force$dUse my brain",
+      "Translation": "Use force$dUse my brain"
+    }
   ]
 }

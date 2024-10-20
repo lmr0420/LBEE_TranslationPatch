@@ -7961,5 +7961,22 @@
       "Translation": "That was just some feeling I had."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "胸にしまっておく$d婿に行く",
+      "EN": "Keep it to myself$dKeep her to myself",
+      "Translation": "Keep it to myself$dKeep her to myself"
+    },
+    {
+      "JP": "クド$d葉留佳",
+      "EN": "Kud$dHaruka",
+      "Translation": "Kud$dHaruka"
+    },
+    {
+      "JP": "そっとしておく$dそばにいる",
+      "EN": "Leave her alone$dStay with her",
+      "Translation": "Leave her alone$dStay with her"
+    }
+  ],
   "TASK": []
 }

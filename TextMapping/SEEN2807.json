@@ -2546,5 +2546,22 @@
       "Translation": "I renewed my decision to fight alongside her."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "手を握る$d大人しくしている",
+      "EN": "Hold her hand$dDon't do it",
+      "Translation": "Hold her hand$dDon't do it"
+    },
+    {
+      "JP": "腕に触れてみる$d大人しくしている",
+      "EN": "Try to touch her arm$dStay put",
+      "Translation": "Try to touch her arm$dStay put"
+    },
+    {
+      "JP": "頭を撫でてみる$d大人しくしている",
+      "EN": "Try patting her head$dStay put",
+      "Translation": "Try patting her head$dStay put"
+    }
+  ],
   "TASK": []
 }

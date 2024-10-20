@@ -37,6 +37,19 @@
 
         static void Main(string[] args)
         {
+            if(args.Length>0)
+            {
+                string LBEE_Exe = args[0];
+                // 获取LBEE_Exe所在文件夹
+                LBEEGamePath = Path.GetDirectoryName(LBEE_Exe)??"";
+            }
+            if(!Path.Exists(LBEEGamePath))
+            {
+                Console.WriteLine("找不到LBEE的游戏目录，请将LBEE的主程序拖动到汉化程序上");
+                Console.ReadKey();
+                return;
+            }
+
             Directory.CreateDirectory(TMPPath);
             Directory.CreateDirectory(TextMappingPath);
             Directory.CreateDirectory(ExtractedScriptPath);
@@ -195,12 +208,23 @@
 
             var FontTemplate = "明朝";
 
-            var OriginalCharset = File.ReadAllText(LBEECharset);
-            OriginalCharset+= "　";
-            foreach (var oldChar in OriginalCharset.ToCharArray())
+            var Charset = File.ReadAllText(LBEECharset);
+            HashSet<char> OriginalCharCollection =new (InstructionProcessor.CharCollection);
+            InstructionProcessor.CharCollection.Remove('　');
+            InstructionProcessor.CharCollection.Remove('\n');
+            foreach (var oldChar in Charset.ToCharArray())
             {
                 InstructionProcessor.CharCollection.Remove(oldChar);
             }
+            var PendingOverrideChars = Charset[^(InstructionProcessor.CharCollection.Count)..];
+            foreach(char PendingOverrideChar in PendingOverrideChars)
+            {
+                if(OriginalCharCollection.Contains(PendingOverrideChar))
+                {
+                    InstructionProcessor.CharCollection.Add(PendingOverrideChar);
+                }
+            }
+            int FontReplaceIndex = Charset.Length - PendingOverrideChars.Length;
             string AllNewChar = new string(InstructionProcessor.CharCollection.ToArray().Order().ToArray());
             string AllNewCharFile = Path.Combine(TMPPath, "AllNewChar.txt");
             File.WriteAllText(AllNewCharFile, AllNewChar);
@@ -208,7 +232,8 @@
             {
                 // 针对Template进行重绘，然后复制到各个字体
                 // 如果每个字体都进行重绘，那么重绘后的游戏会崩溃，但只用一份的话就正常，很奇怪，不清楚原因
-                Process.Start("LuckSystem\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -a -S \"{ExtractedFontPath}\\info{fSize}\" -f C:\\Windows\\Fonts\\simhei.ttf -c {AllNewCharFile} -o {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} -O {Path.Combine(PendingReplacePath, $"info{fSize}")}").WaitForExit();
+                // 看起来很像是字体过大了，这里指定一下ReplaceIndex，把一部分原有字体替换掉
+                Process.Start("LuckSystem\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex} -S \"{ExtractedFontPath}\\info{fSize}\" -f C:\\Windows\\Fonts\\simhei.ttf -c {AllNewCharFile} -o {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} -O {Path.Combine(PendingReplacePath, $"info{fSize}")}").WaitForExit();
                 Process.Start("czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}").WaitForExit();
                 File.Delete(Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png"));
                 foreach (var fName in FontName)
@@ -288,7 +313,7 @@
             }
             if (InstructionProcessor.InstructionSetMapping.ContainsKey(GetInstruction()))
             {
-                byte[] NewCommand = InstructionProcessor.InstructionSetMapping[GetInstruction()](Command, inJsonObj);
+                byte[]? NewCommand = InstructionProcessor.InstructionSetMapping[GetInstruction()](Command, inJsonObj);
                 if (NewCommand == null)
                 {
                     return false;

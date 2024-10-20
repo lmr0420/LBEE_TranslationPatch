@@ -6047,5 +6047,37 @@
       "EN": "And so the night went on...",
       "Translation": "And so the night went on..."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "貸す$d貸さない",
+      "EN": "Lend it to her$dDon't lend it out",
+      "Translation": "Lend it to her$dDon't lend it out"
+    },
+    {
+      "JP": "探しに行く$d放っておく",
+      "EN": "Go look for her$dLet her be",
+      "Translation": "Go look for her$dLet her be"
+    },
+    {
+      "JP": "しばらく見守る$d声をかける",
+      "EN": "Watch for a while$dCall out to her",
+      "Translation": "Watch for a while$dCall out to her"
+    },
+    {
+      "JP": "さすらう$d休んでおく",
+      "EN": "Wander$dRest",
+      "Translation": "Wander$dRest"
+    },
+    {
+      "JP": "取りにいく$d別のノートで代用",
+      "EN": "Go fetch the notebook$dUse another notebook",
+      "Translation": "Go fetch the notebook$dUse another notebook"
+    },
+    {
+      "JP": "校舎に戻る$d大人しく寮に帰る",
+      "EN": "Go back inside$dGo back to the dorm",
+      "Translation": "Go back inside$dGo back to the dorm"
+    }
   ]
 }

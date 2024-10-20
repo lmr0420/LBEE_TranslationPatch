@@ -7441,5 +7441,12 @@
       "Translation": ""
     }
   ],
-  "TASK": []
+  "TASK": [],
+  "SELECT": [
+    {
+      "JP": "その名前を覚えている$dその名前を覚えていない",
+      "EN": "I know the sender$dI don't know the sender",
+      "Translation": "I know the sender$dI don't know the sender"
+    }
+  ]
 }

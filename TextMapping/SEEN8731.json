@@ -437,5 +437,22 @@
       "EN": "Phew... I'll head back to my room.",
       "Translation": "Phew... I'll head back to my room."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "バトルを申し込む$dバトルを申し込まない",
+      "EN": "Battle Start$dSkip Battle",
+      "Translation": "Battle Start$dSkip Battle"
+    },
+    {
+      "JP": "観戦しにいく$d結果だけを聞く",
+      "EN": "Go watch$dJust listen to the results",
+      "Translation": "Go watch$dJust listen to the results"
+    },
+    {
+      "JP": "もっとさすらう$dそろそろ戻る",
+      "EN": "Wander around some more$dGo back",
+      "Translation": "Wander around some more$dGo back"
+    }
   ]
 }

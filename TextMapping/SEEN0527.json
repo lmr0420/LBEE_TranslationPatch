@@ -5386,5 +5386,17 @@
       "EN": "...Looking at the photograph, that's what I wished for.",
       "Translation": "...Looking at the photograph, that's what I wished for."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "また晴れの日にすればいいんじゃないかな$d荷物持ちしようか？",
+      "EN": "You should probably go on a sunny day$dDo you mind if I tag along?",
+      "Translation": "You should probably go on a sunny day$dDo you mind if I tag along?"
+    },
+    {
+      "JP": "真人の$d謙吾の$d鈴の",
+      "EN": "Masato$dKengo$dRin",
+      "Translation": "Masato$dKengo$dRin"
+    }
   ]
 }

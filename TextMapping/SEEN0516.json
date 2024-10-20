@@ -14272,5 +14272,87 @@
       "EN": "And so the night went on...",
       "Translation": "And so the night went on..."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "鈴を追う$d放っておく$d真人と遊ぶ",
+      "EN": "Follow after Rin$dLeave her alone$dPlay with Masato",
+      "Translation": "Follow after Rin$dLeave her alone$dPlay with Masato"
+    },
+    {
+      "JP": "しばらく見守る$d声をかける",
+      "EN": "Watch for a while$dCall out to her",
+      "Translation": "Watch for a while$dCall out to her"
+    },
+    {
+      "JP": "助けを乞う$d自力で上る",
+      "EN": "Ask for help$dGet back by myself",
+      "Translation": "Ask for help$dGet back by myself"
+    },
+    {
+      "JP": "さすらう$d休んでおく",
+      "EN": "Wander$dRest",
+      "Translation": "Wander$dRest"
+    },
+    {
+      "JP": "ＱＲコードを携帯で読み込んでおく$d先を急ぐ",
+      "EN": "Read the QR code with my cellphone$dHurry forward",
+      "Translation": "Read the QR code with my cellphone$dHurry forward"
+    },
+    {
+      "JP": "さすらう$d休んでおく",
+      "EN": "Wander$dRest",
+      "Translation": "Wander$dRest"
+    },
+    {
+      "JP": "引き受ける$d自分で行ってもらう",
+      "EN": "Take it$dHave him do it by himself",
+      "Translation": "Take it$dHave him do it by himself"
+    },
+    {
+      "JP": "巻き込まれる$d逃げる",
+      "EN": "Get involved$dRun away",
+      "Translation": "Get involved$dRun away"
+    },
+    {
+      "JP": "練習を続ける$d終わりにする",
+      "EN": "Continue practicing$dCall it a day",
+      "Translation": "Continue practicing$dCall it a day"
+    },
+    {
+      "JP": "よくない$d逃げてみせる",
+      "EN": "Not okay$dI will run away",
+      "Translation": "Not okay$dI will run away"
+    },
+    {
+      "JP": "パートナーになる$d逃げきってみせる",
+      "EN": "Become her partner$dStill run away",
+      "Translation": "Become her partner$dStill run away"
+    },
+    {
+      "JP": "ピラミッド$d太陽の塔$dローソン",
+      "EN": "A pyramid$dTower of the Sun$dLawson",
+      "Translation": "A pyramid$dTower of the Sun$dLawson"
+    },
+    {
+      "JP": "ピラミッド$dローソン",
+      "EN": "A pyramid$dLawson",
+      "Translation": "A pyramid$dLawson"
+    },
+    {
+      "JP": "ピラミッド$dファミマ",
+      "EN": "A pyramid$dFamima",
+      "Translation": "A pyramid$dFamima"
+    },
+    {
+      "JP": "見つけるのを手伝う$dあまり関わらないでおく",
+      "EN": "Help her look for a roommate$dDon't get involved too much",
+      "Translation": "Help her look for a roommate$dDon't get involved too much"
+    },
+    {
+      "JP": "さすらう$d休んでおく",
+      "EN": "Wander$dRest",
+      "Translation": "Wander$dRest"
+    }
   ]
 }

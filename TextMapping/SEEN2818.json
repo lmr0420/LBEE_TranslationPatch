@@ -2081,5 +2081,12 @@
       "EN": "...",
       "Translation": "..."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "考える$d理樹くんの意見を訊く",
+      "EN": "Think$dAsk Riki-kun's opinion",
+      "Translation": "Think$dAsk Riki-kun's opinion"
+    }
   ]
 }

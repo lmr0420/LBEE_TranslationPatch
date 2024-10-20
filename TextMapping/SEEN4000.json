@@ -16536,5 +16536,32 @@
       "Translation": "Waving back to her once more, I made my way back to the boys' dorm."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "来ヶ谷さんと小毬さん$d葉留佳さんと西園さん$d僕と真人",
+      "EN": "Kurugaya-san and Komari-san$dHaruka-san and Nishizono-san$dMasato and me",
+      "Translation": "Kurugaya-san and Komari-san$dHaruka-san and Nishizono-san$dMasato and me"
+    },
+    {
+      "JP": "来ヶ谷さんと小毬さん$d葉留佳さんと西園さん$d僕と真人$dクドに選ばせる",
+      "EN": "Kurugaya-san and Komari-san$dHaruka-san and Nishizono-san$dMasato and me$dLet Kud choose",
+      "Translation": "Kurugaya-san and Komari-san$dHaruka-san and Nishizono-san$dMasato and me$dLet Kud choose"
+    },
+    {
+      "JP": "昨日の疑問を調べる$dそれよりクドを手伝う",
+      "EN": "Look into the question from yesterday$dHelp Kud first",
+      "Translation": "Look into the question from yesterday$dHelp Kud first"
+    },
+    {
+      "JP": "物理$d筋肉",
+      "EN": "Physics$dMuscle",
+      "Translation": "Physics$dMuscle"
+    },
+    {
+      "JP": "やっぱり物理$dそれでも筋肉",
+      "EN": "Physics, of course$dEven so, muscle",
+      "Translation": "Physics, of course$dEven so, muscle"
+    }
+  ],
   "TASK": []
 }

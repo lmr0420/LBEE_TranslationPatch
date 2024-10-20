@@ -14472,5 +14472,117 @@
       "EN": "And so the night went on...",
       "Translation": "And so the night went on..."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "叫ぶ$d黙っている",
+      "EN": "Yell$dStay quiet",
+      "Translation": "Yell$dStay quiet"
+    },
+    {
+      "JP": "助けてと叫んだ$d愛を叫んだ",
+      "EN": "Yell for help$dDeclare my love",
+      "Translation": "Yell for help$dDeclare my love"
+    },
+    {
+      "JP": "嘘を吹き込む$d黙っている",
+      "EN": "Lie$dStay silent",
+      "Translation": "Lie$dStay silent"
+    },
+    {
+      "JP": "[(#297==0),]鈴$d[(#298==0),]小毬さん$d[(#299==0),]来ヶ谷さん$d[(#300==0),]三枝さん$d[(#301==0),]西園さん$d[(#302==0),]僕",
+      "EN": "[(#297==0),]Rin$d[(#298==0),]Komari-san$d[(#299==0),]Kurugaya-san$d[(#300==0),]Saigusa-san$d[(#301==0),]Nishizono-san$d[(#302==0),]Me",
+      "Translation": "[(#297==0),]Rin$d[(#298==0),]Komari-san$d[(#299==0),]Kurugaya-san$d[(#300==0),]Saigusa-san$d[(#301==0),]Nishizono-san$d[(#302==0),]Me"
+    },
+    {
+      "JP": "[(#297==0),]鈴$d[(#298==0),]小毬さん$d[(#299==0),]来ヶ谷さん$d[(#300==0),]三枝さん$d[(#301==0),]西園さん",
+      "EN": "[(#297==0),]Rin$d[(#298==0),]Komari-san$d[(#299==0),]Kurugaya-san$d[(#300==0),]Saigusa-san$d[(#301==0),]Nishizono-san",
+      "Translation": "[(#297==0),]Rin$d[(#298==0),]Komari-san$d[(#299==0),]Kurugaya-san$d[(#300==0),]Saigusa-san$d[(#301==0),]Nishizono-san"
+    },
+    {
+      "JP": "しばらく見守る$d声をかける",
+      "EN": "Watch for a while$dCall out to her",
+      "Translation": "Watch for a while$dCall out to her"
+    },
+    {
+      "JP": "何訊いてたの？$dそろそろ行こうか",
+      "EN": "What did you ask?$dIt's time to go back",
+      "Translation": "What did you ask?$dIt's time to go back"
+    },
+    {
+      "JP": "西園さん$dまだ見つかっていない",
+      "EN": "Nishizono-san$dKeep searching",
+      "Translation": "Nishizono-san$dKeep searching"
+    },
+    {
+      "JP": "三枝さん$dまだ見つかっていない",
+      "EN": "Saigusa-san$dKeep searching",
+      "Translation": "Saigusa-san$dKeep searching"
+    },
+    {
+      "JP": "さすらう$d休む",
+      "EN": "Wander$dTake a break",
+      "Translation": "Wander$dTake a break"
+    },
+    {
+      "JP": "学食に戻る$d中庭に残る",
+      "EN": "Back to the cafeteria$dKeep staying here",
+      "Translation": "Back to the cafeteria$dKeep staying here"
+    },
+    {
+      "JP": "学食に行く$d中庭に残る",
+      "EN": "Go to the cafeteria$dStay in the courtyard",
+      "Translation": "Go to the cafeteria$dStay in the courtyard"
+    },
+    {
+      "JP": "さすらう$d休んでおく",
+      "EN": "Wander$dRest",
+      "Translation": "Wander$dRest"
+    },
+    {
+      "JP": "ジュースを買いに行く$d真人と遊ぶ$dさすらう",
+      "EN": "Go buy juice$dPlay with Masato$dWander",
+      "Translation": "Go buy juice$dPlay with Masato$dWander"
+    },
+    {
+      "JP": "ジュースを買いに行く$d真人と遊ぶ",
+      "EN": "Go buy juice$dPlay with Masato",
+      "Translation": "Go buy juice$dPlay with Masato"
+    },
+    {
+      "JP": "引き受ける$dちょっと考える$dさすらう",
+      "EN": "Take on the task$dGive it some thought$dWander",
+      "Translation": "Take on the task$dGive it some thought$dWander"
+    },
+    {
+      "JP": "引き受ける$dちょっと考える",
+      "EN": "Take on the task$dGive it some thought",
+      "Translation": "Take on the task$dGive it some thought"
+    },
+    {
+      "JP": "敵意を感じた$d好意を感じた",
+      "EN": "Hostility$dFriendliness",
+      "Translation": "Hostility$dFriendliness"
+    },
+    {
+      "JP": "さすらう$d休んでおく",
+      "EN": "Wander$dRest",
+      "Translation": "Wander$dRest"
+    },
+    {
+      "JP": "やや好き$d好き$d大好き",
+      "EN": "I kinda love him$dI love him$dI really love him",
+      "Translation": "I kinda love him$dI love him$dI really love him"
+    },
+    {
+      "JP": "やや恭介$d恭介$d絶対恭介",
+      "EN": "Probably Kyousuke$dKyousuke$dDefinitely Kyousuke",
+      "Translation": "Probably Kyousuke$dKyousuke$dDefinitely Kyousuke"
+    },
+    {
+      "JP": "黙って成り行きを見守る$dやめさせる",
+      "EN": "Watch calmly$dStop her",
+      "Translation": "Watch calmly$dStop her"
+    }
   ]
 }

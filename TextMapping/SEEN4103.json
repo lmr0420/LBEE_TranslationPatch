@@ -8510,5 +8510,17 @@
       "EN": "That, I thought, really was the smile I so cherished.",
       "Translation": "That, I thought, really was the smile I so cherished."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "学食$d購買",
+      "EN": "Cafeteria$dSchool store",
+      "Translation": "Cafeteria$dSchool store"
+    },
+    {
+      "JP": "言語学の書棚を見る$d自然科学・工学の書棚を見る",
+      "EN": "In the linguistics section$dIn the science and engineering section",
+      "Translation": "In the linguistics section$dIn the science and engineering section"
+    }
   ]
 }

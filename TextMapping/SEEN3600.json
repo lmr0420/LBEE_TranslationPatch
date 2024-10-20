@@ -16511,5 +16511,37 @@
       "Translation": "Kud finally nodded cheerfully."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "寮会の手伝いをする$d他のことをする",
+      "EN": "Help the dorm committee out$dDo something else",
+      "Translation": "Help the dorm committee out$dDo something else"
+    },
+    {
+      "JP": "出て行く$d出て行かない",
+      "EN": "Leave$dDon't leave",
+      "Translation": "Leave$dDon't leave"
+    },
+    {
+      "JP": "出て行く$d出て行かない",
+      "EN": "Leave$dDon't leave",
+      "Translation": "Leave$dDon't leave"
+    },
+    {
+      "JP": "呼ばない$d鈴とクドを呼ぶ$d小毬さんと西園さんを呼ぶ$d来ヶ谷さんと葉留佳さんを呼ぶ",
+      "EN": "I won't call anyone$dCall Rin and Kud$dCall Komari-san and Nishizono-san$dCall Kurugaya-san and Haruka-san",
+      "Translation": "I won't call anyone$dCall Rin and Kud$dCall Komari-san and Nishizono-san$dCall Kurugaya-san and Haruka-san"
+    },
+    {
+      "JP": "食券$d映画チケット",
+      "EN": "Meal ticket$dMovie ticket",
+      "Translation": "Meal ticket$dMovie ticket"
+    },
+    {
+      "JP": "寮会について訊く$dピクルスについて訊く$d１時間待ちについて訊く",
+      "EN": "Talk about the dorm committee$dTalk about the pickles$dTalk about the one hour wait",
+      "Translation": "Talk about the dorm committee$dTalk about the pickles$dTalk about the one hour wait"
+    }
+  ],
   "TASK": []
 }

@@ -12681,5 +12681,72 @@
       "EN": "I decided not to think about it...",
       "Translation": "I decided not to think about it..."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "ジュースを買いに行く$d真人と遊ぶ$dさすらう",
+      "EN": "Go and get something to drink$dPlay with Masato$dWander",
+      "Translation": "Go and get something to drink$dPlay with Masato$dWander"
+    },
+    {
+      "JP": "ジュースを買いに行く$d真人と遊ぶ",
+      "EN": "Go and get something to drink$dPlay with Masato",
+      "Translation": "Go and get something to drink$dPlay with Masato"
+    },
+    {
+      "JP": "手伝う$d見送る$dさすらう",
+      "EN": "Help her out$dSee her off$dWander",
+      "Translation": "Help her out$dSee her off$dWander"
+    },
+    {
+      "JP": "手伝う$d見送る",
+      "EN": "Help her out$dSee her off",
+      "Translation": "Help her out$dSee her off"
+    },
+    {
+      "JP": "中庭にいく$d学食にいく",
+      "EN": "Go to the courtyard$dGo to the cafeteria",
+      "Translation": "Go to the courtyard$dGo to the cafeteria"
+    },
+    {
+      "JP": "猫を探してみる$d教室に戻る",
+      "EN": "Look for the cat$dGo back to the classroom",
+      "Translation": "Look for the cat$dGo back to the classroom"
+    },
+    {
+      "JP": "猫を探してみる$d教室に戻る",
+      "EN": "Look for the cat$dGo back to the classroom",
+      "Translation": "Look for the cat$dGo back to the classroom"
+    },
+    {
+      "JP": "何を話しているか聞きにいく$d練習に集中",
+      "EN": "Go see what they're talking about$dConcentrate on practice",
+      "Translation": "Go see what they're talking about$dConcentrate on practice"
+    },
+    {
+      "JP": "止める$d止めない",
+      "EN": "Stop her$dDon't stop her",
+      "Translation": "Stop her$dDon't stop her"
+    },
+    {
+      "JP": "さすらう$d休んでおく",
+      "EN": "Wander$dRest",
+      "Translation": "Wander$dRest"
+    },
+    {
+      "JP": "[(#297==0),]小毬$d[(#298==0),]鈴$d[(#299==0),]葉留佳$d[(#300==0),]クド$d[(#301==0),]来ヶ谷$d[(#302==0),]美魚$d[(#303==0),]考える",
+      "EN": "[(#297==0),]Komari$d[(#298==0),]Rin$d[(#299==0),]Haruka$d[(#300==0),]Kud$d[(#301==0),]Kurugaya$d[(#302==0),]Mio$d[(#303==0),]Think it over",
+      "Translation": "[(#297==0),]Komari$d[(#298==0),]Rin$d[(#299==0),]Haruka$d[(#300==0),]Kud$d[(#301==0),]Kurugaya$d[(#302==0),]Mio$d[(#303==0),]Think it over"
+    },
+    {
+      "JP": "[(#297==0),]小毬$d[(#298==0),]鈴$d[(#299==0),]葉留佳$d[(#300==0),]クド$d[(#301==0),]来ヶ谷$d[(#302==0),]美魚$d[(#303==0),]野郎たちと行きたい",
+      "EN": "[(#297==0),]Komari$d[(#298==0),]Rin$d[(#299==0),]Haruka$d[(#300==0),]Kud$d[(#301==0),]Kurugaya$d[(#302==0),]Mio$d[(#303==0),]Go with the bros",
+      "Translation": "[(#297==0),]Komari$d[(#298==0),]Rin$d[(#299==0),]Haruka$d[(#300==0),]Kud$d[(#301==0),]Kurugaya$d[(#302==0),]Mio$d[(#303==0),]Go with the bros"
+    },
+    {
+      "JP": "[(#297==0),]小毬$d[(#298==0),]鈴$d[(#299==0),]葉留佳$d[(#300==0),]クド$d[(#301==0),]来ヶ谷$d[(#302==0),]美魚",
+      "EN": "[(#297==0),]Komari$d[(#298==0),]Rin$d[(#299==0),]Haruka$d[(#300==0),]Kud$d[(#301==0),]Kurugaya$d[(#302==0),]Mio",
+      "Translation": "[(#297==0),]Komari$d[(#298==0),]Rin$d[(#299==0),]Haruka$d[(#300==0),]Kud$d[(#301==0),]Kurugaya$d[(#302==0),]Mio"
+    }
   ]
 }

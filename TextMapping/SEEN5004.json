@@ -2830,5 +2830,12 @@
       "EN": "...But that's probably why I feel the way I do about her now.",
       "Translation": "...But that's probably why I feel the way I do about her now."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "あえて前$d後ろ$d横",
+      "EN": "Forward$dBackward$dSideways",
+      "Translation": "Forward$dBackward$dSideways"
+    }
   ]
 }

@@ -2941,5 +2941,12 @@
       "Translation": "...I went to sleep without waiting for anyone's reply."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "それでも…$dやっぱり…",
+      "EN": "I can't give up...$dIt's impossible...",
+      "Translation": "I can't give up...$dIt's impossible..."
+    }
+  ],
   "TASK": []
 }

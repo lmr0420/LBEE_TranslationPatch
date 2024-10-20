@@ -17466,5 +17466,27 @@
       "Translation": "The sound of the picture being taken was like a voice of congratulation for the twin sisters who had finally, side by side, reached their starting line."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "いいと思う$dダメだと思う",
+      "EN": "That's a good idea$dIt's a bad idea",
+      "Translation": "That's a good idea$dIt's a bad idea"
+    },
+    {
+      "JP": "マーマレードとか$dブルーベリーとか",
+      "EN": "Maybe some marmalade$dMaybe some blueberry jam",
+      "Translation": "Maybe some marmalade$dMaybe some blueberry jam"
+    },
+    {
+      "JP": "条件をのむ$d条件をのまない",
+      "EN": "Accept her condition$dReject her condition",
+      "Translation": "Accept her condition$dReject her condition"
+    },
+    {
+      "JP": "諦める$d諦めない",
+      "EN": "Give up$dDon't give up",
+      "Translation": "Give up$dDon't give up"
+    }
+  ],
   "TASK": []
 }

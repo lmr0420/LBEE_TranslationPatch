@@ -1338,5 +1338,27 @@
       "EN": "After drying my hair, I put on my clothes.",
       "Translation": "After drying my hair, I put on my clothes."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "理樹くんを信じる$d信じない",
+      "EN": "Have faith in Riki-kun$dDon't have faith in him",
+      "Translation": "Have faith in Riki-kun$dDon't have faith in him"
+    },
+    {
+      "JP": "理樹くんを信じる$d信じない",
+      "EN": "Have faith in Riki-kun$dDon't have faith in him",
+      "Translation": "Have faith in Riki-kun$dDon't have faith in him"
+    },
+    {
+      "JP": "湯に入る$d別の方法を考える",
+      "EN": "Go in the water$dThink of another way",
+      "Translation": "Go in the water$dThink of another way"
+    },
+    {
+      "JP": "でも入る$d別の方法を考える",
+      "EN": "Go in anyway$dThink of another way",
+      "Translation": "Go in anyway$dThink of another way"
+    }
   ]
 }

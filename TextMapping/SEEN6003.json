@@ -8756,5 +8756,17 @@
       "Translation": ""
     }
   ],
+  "SELECT": [
+    {
+      "JP": "美魚$d美鳥",
+      "EN": "Mio$dMidori",
+      "Translation": "Mio$dMidori"
+    },
+    {
+      "JP": "善意$d悪意",
+      "EN": "Good intentions$dBad intentions",
+      "Translation": "Good intentions$dBad intentions"
+    }
+  ],
   "TASK": []
 }

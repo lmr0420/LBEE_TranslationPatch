@@ -2761,5 +2761,17 @@
       "Translation": "He left behind those words."
     }
   ],
+  "SELECT": [
+    {
+      "JP": "潜む$d廊下を走り抜ける",
+      "EN": "Take cover in a classroom$dBlaze through the hallway",
+      "Translation": "Take cover in a classroom$dBlaze through the hallway"
+    },
+    {
+      "JP": "助けてもらう$d断る",
+      "EN": "Ask him for help$dTurn down his offer",
+      "Translation": "Ask him for help$dTurn down his offer"
+    }
+  ],
   "TASK": []
 }

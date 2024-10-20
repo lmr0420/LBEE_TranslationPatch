@@ -1120,5 +1120,12 @@
       "EN": "I needed to apologize later...",
       "Translation": "I needed to apologize later..."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "そのままでいる$dよける",
+      "EN": "At this rate...$dI dodge",
+      "Translation": "At this rate...$dI dodge"
+    }
   ]
 }

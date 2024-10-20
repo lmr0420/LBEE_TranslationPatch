@@ -16771,5 +16771,137 @@
       "EN": "It was yet another rowdy day...",
       "Translation": "It was yet another rowdy day..."
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "クドに話しかける$d教室に入る",
+      "EN": "Talk to Kud$dEnter the classroom",
+      "Translation": "Talk to Kud$dEnter the classroom"
+    },
+    {
+      "JP": "しばらく見守る$d話を進める",
+      "EN": "Watch for a while$dLook for a new task straight away",
+      "Translation": "Watch for a while$dLook for a new task straight away"
+    },
+    {
+      "JP": "やめさせる$d手伝い続ける",
+      "EN": "Quit$dKeep helping her out",
+      "Translation": "Quit$dKeep helping her out"
+    },
+    {
+      "JP": "[(0),]おまえらはＥＸＩＬＥか！！$d邪魔だろ！！$dおまえはおじいさんか！！",
+      "EN": "[(0),]ARE YOU THE EXILE!!$dYOU ARE IN THEIR WAY!!$dARE YOU AN OLD MAN!!",
+      "Translation": "[(0),]ARE YOU THE EXILE!!$dYOU ARE IN THEIR WAY!!$dARE YOU AN OLD MAN!!"
+    },
+    {
+      "JP": "さすらう$d休んでおく",
+      "EN": "Wander$dRest",
+      "Translation": "Wander$dRest"
+    },
+    {
+      "JP": "屋上にいく$d[,(#12010==1)]中庭にいく$d学食にいく",
+      "EN": "Go to the rooftop$d[,(#12010==1)]Go to the courtyard$dGo to the cafeteria",
+      "Translation": "Go to the rooftop$d[,(#12010==1)]Go to the courtyard$dGo to the cafeteria"
+    },
+    {
+      "JP": "[,(#12010==1)]中庭にいく$d学食にいく",
+      "EN": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria",
+      "Translation": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria"
+    },
+    {
+      "JP": "[,(#12010==1)]中庭にいく$d学食にいく$dさすらう",
+      "EN": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria$dWander",
+      "Translation": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria$dWander"
+    },
+    {
+      "JP": "屋上にいく$d学食にいく",
+      "EN": "Go to the rooftop$dGo to the cafeteria",
+      "Translation": "Go to the rooftop$dGo to the cafeteria"
+    },
+    {
+      "JP": "おまえは謙吾か！！$dそこまででかくなるか！！$dむしろ今引きずれ！！",
+      "EN": "Are you Kengo or what!!$dThere's no way you're growing that tall!!$dWhy don't you drag it there right now!!",
+      "Translation": "Are you Kengo or what!!$dThere's no way you're growing that tall!!$dWhy don't you drag it there right now!!"
+    },
+    {
+      "JP": "あたしとメニューかぶるだろ！$dみんなの服に飛び散っただろ！！$dむしろおまえが浴びろ！！",
+      "EN": "$S024Why did you have to choose the same!!$d$S024You're dirtying everybody's clothes with that soup!!$d$S024Why don't you bathe in the soup!!",
+      "Translation": "$S024Why did you have to choose the same!!$d$S024You're dirtying everybody's clothes with that soup!!$d$S024Why don't you bathe in the soup!!"
+    },
+    {
+      "JP": "手伝う$d断る$dさすらう",
+      "EN": "Help her$dDon't help her$dWander",
+      "Translation": "Help her$dDon't help her$dWander"
+    },
+    {
+      "JP": "手伝う$d断る",
+      "EN": "Help her$dDon't help her",
+      "Translation": "Help her$dDon't help her"
+    },
+    {
+      "JP": "ジュースを買いに行く$d真人と遊ぶ",
+      "EN": "Get something to drink$dPlay with Masato",
+      "Translation": "Get something to drink$dPlay with Masato"
+    },
+    {
+      "JP": "何を話しているか聞きにいく$d練習に集中",
+      "EN": "Go see what they're talking about$dConcentrate on practice",
+      "Translation": "Go see what they're talking about$dConcentrate on practice"
+    },
+    {
+      "JP": "そんな目で見続ける$d練習",
+      "EN": "Keep looking at him with those eyes$dReturn to practice",
+      "Translation": "Keep looking at him with those eyes$dReturn to practice"
+    },
+    {
+      "JP": "掃除する$d放っておく$dさすらう",
+      "EN": "Clean up the room$dLeave it as it is$dWander",
+      "Translation": "Clean up the room$dLeave it as it is$dWander"
+    },
+    {
+      "JP": "掃除する$d放っておく",
+      "EN": "Clean up the room$dLeave it as it is",
+      "Translation": "Clean up the room$dLeave it as it is"
+    },
+    {
+      "JP": "話しかける$d学食に急ぐ",
+      "EN": "Talk to her$dHurry to the cafeteria",
+      "Translation": "Talk to her$dHurry to the cafeteria"
+    },
+    {
+      "JP": "とめる$d見守る",
+      "EN": "Make Masato stop$dWatch",
+      "Translation": "Make Masato stop$dWatch"
+    },
+    {
+      "JP": "話しかける$d恭介たちと食べる",
+      "EN": "Talk to them$dEat with Kyousuke",
+      "Translation": "Talk to them$dEat with Kyousuke"
+    },
+    {
+      "JP": "おかわりする$dやめておく",
+      "EN": "Try it$dDon't try it",
+      "Translation": "Try it$dDon't try it"
+    },
+    {
+      "JP": "恭介の部屋にいく$d今日は休む",
+      "EN": "Visit Kyousuke$dJust rest today",
+      "Translation": "Visit Kyousuke$dJust rest today"
+    },
+    {
+      "JP": "恭介の部屋にいく$d今日は休む",
+      "EN": "Visit Kyousuke$dJust rest today",
+      "Translation": "Visit Kyousuke$dJust rest today"
+    },
+    {
+      "JP": "みんなを呼ぶ$d今日は帰る",
+      "EN": "Call the other members$dCall it a night",
+      "Translation": "Call the other members$dCall it a night"
+    },
+    {
+      "JP": "みんなを呼ぶ$d今日は帰る",
+      "EN": "Call the other members$dCall it a night",
+      "Translation": "Call the other members$dCall it a night"
+    }
   ]
 }

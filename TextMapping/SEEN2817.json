@@ -1272,5 +1272,22 @@
       "EN": "`Riki@❝No... let's go.❞",
       "Translation": "`Riki@❝No... let's go.❞"
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "この部屋の棺を開ける$d移動",
+      "EN": "Open the sarcophagus in this room$dLeave",
+      "Translation": "Open the sarcophagus in this room$dLeave"
+    },
+    {
+      "JP": "この部屋の棺を開ける$d移動",
+      "EN": "Open the sarcophagus in here$dLeave",
+      "Translation": "Open the sarcophagus in here$dLeave"
+    },
+    {
+      "JP": "この部屋の棺を開ける$d移動",
+      "EN": "Open the sarcophagus in this room$dLeave",
+      "Translation": "Open the sarcophagus in this room$dLeave"
+    }
   ]
 }

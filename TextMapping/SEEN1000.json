@@ -7875,5 +7875,12 @@
       "EN": "...I wonder, is this how she always replenishes her stock of sweets?",
       "Translation": "...I wonder, is this how she always replenishes her stock of sweets?"
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "恭介を待つ$d恭介にメールを出す",
+      "EN": "Wait for him$dText him",
+      "Translation": "Wait for him$dText him"
+    }
   ]
 }

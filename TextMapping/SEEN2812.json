@@ -1512,5 +1512,22 @@
       "EN1": "REPLAY\nGAME END",
       "Translation1": "REPLAY\nGAME END"
     }
+  ],
+  "SELECT": [
+    {
+      "JP": "引っ張る$d理樹くんの意見を聞く",
+      "EN": "Pull it$dListen to Riki-kun's opinion",
+      "Translation": "Pull it$dListen to Riki-kun's opinion"
+    },
+    {
+      "JP": "左$d真ん中$d右",
+      "EN": "Left$dMiddle$dRight",
+      "Translation": "Left$dMiddle$dRight"
+    },
+    {
+      "JP": "引っ張る$d理樹くんの意見を聞く",
+      "EN": "Pull it$dListen to Riki-kun's opinion",
+      "Translation": "Pull it$dListen to Riki-kun's opinion"
+    }
   ]
 }

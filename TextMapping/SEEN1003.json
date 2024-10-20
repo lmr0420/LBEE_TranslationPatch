@@ -7016,5 +7016,17 @@
       "Translation": "That's probably something I have to do."
     }
   ],
-  "TASK": []
+  "TASK": [],
+  "SELECT": [
+    {
+      "JP": "気付かない振りをすればいい$d真正面から向き合わなきゃいけない",
+      "EN": "Pretend not to notice anything$dFace reality head on",
+      "Translation": "Pretend not to notice anything$dFace reality head on"
+    },
+    {
+      "JP": "それじゃ何も解決しない$dそれが守るってことだ",
+      "EN": "That isn't going to get us anywhere$dIf it will protect another",
+      "Translation": "That isn't going to get us anywhere$dIf it will protect another"
+    }
+  ]
 }

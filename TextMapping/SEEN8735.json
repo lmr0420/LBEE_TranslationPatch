@@ -1041,6 +1041,18 @@
       "Translation": "`Mask the Saito@❝Waaana my tomaato.❞"
     }
   ],
+  "SELECT": [
+    {
+      "JP": "交換に応じる$d交換に応じない",
+      "EN": "Trade$dRefuse to trade",
+      "Translation": "Trade$dRefuse to trade"
+    },
+    {
+      "JP": "持ち物を貰う$d持ち物を貰わない",
+      "EN": "Accept item$dRefuse item",
+      "Translation": "Accept item$dRefuse item"
+    }
+  ],
   "TASK": [
     {
       "JP1": "に",

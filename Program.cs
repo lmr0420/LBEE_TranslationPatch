@@ -12,6 +12,7 @@
     using System.Security.Cryptography;
     using System.Diagnostics;
     using System.Xml.Linq;
+    using System.Reflection.Metadata;
 
     class Program
     {
@@ -37,6 +38,7 @@
 
         static void Main(string[] args)
         {
+            Directory.SetCurrentDirectory(Path.GetDirectoryName(Environment.ProcessPath!)!);
             if(args.Length>0)
             {
                 string LBEE_Exe = args[0];
@@ -65,8 +67,17 @@
             string TemplateLBEEFontPak = Path.Combine(LBEEGamePath, @"files\template\FONT.PAK");
             if (!Directory.Exists(Path.Combine(LBEEGamePath, @"files\template")))
             {
-                Console.WriteLine("Need template files");
-                return;
+                if (File.Exists(LBEEScriptPak) && File.Exists(LBEEFontPak))
+                {
+                    Directory.CreateDirectory(Path.Combine(LBEEGamePath, @"files\template"));
+                    File.Copy(LBEEScriptPak, TemplateLBEEScriptPak);
+                    File.Copy(LBEEFontPak, TemplateLBEEFontPak);
+                }
+                else
+                {
+                    Console.WriteLine("Need template files");
+                    return;
+                }
             }
 
             // Assuming LuckSystem is a separate executable that needs to be run

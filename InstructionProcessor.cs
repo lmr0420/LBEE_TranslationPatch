@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
@@ -31,18 +32,30 @@ namespace LBEE_TranslationPatch
             return index - StartIndex;
         }
 
+        public static int GetSingleByteStrLength(byte[] Command, int StartIndex)
+        {
+            int index = StartIndex;
+            while (Command[index] != 0)
+            {
+                index++;
+            }
+            return index - StartIndex;
+        }
+
         public static Dictionary<byte, Func<byte[], JObject?>> InstructionGetMapping = new ()
         {
             { 0x1F, MESSAGE_GET },
             { 0x19, VARSTR_SET_GET },
-            { 0x5A, TASK_GET }
+            { 0x5A, TASK_GET },
+            { 0x5C, BATTLE_GET },
         };
 
-        public static Dictionary<byte, Func<byte[], JObject, byte[]>> InstructionSetMapping = new ()
+        public static Dictionary<byte, Func<byte[], JObject, byte[]?>> InstructionSetMapping = new ()
         {
             { 0x1F, MESSAGE_SET },
             { 0x19, VARSTR_SET_SET },
-            { 0x5A, TASK_SET }
+            { 0x5A, TASK_SET },
+            { 0x5C, BATTLE_SET }
         };
 
         public static Dictionary<byte, Func<List<LucaCommand>, int, LucaCommand[]?>> AssignCmdMapping = new ()
@@ -78,11 +91,11 @@ namespace LBEE_TranslationPatch
             return outObj;
         }
 
-        public static byte[] MESSAGE_SET(byte[] command, JObject inJsonObj)
+        public static byte[]? MESSAGE_SET(byte[] command, JObject inJsonObj)
         {
             int index = GetCmdHeaderLength(command)+2;
             int strStart = GetStrLength(command, index) + 2;
-            int strEnd = GetStrLength(command, index + strStart);
+            int strEnd = GetStrLength(command, index + strStart) + strStart;
             List<byte> newCommand = new List<byte>(command[..strStart]);
             string Translation = inJsonObj["Translation"]?.Value<string>()??"";
             string EN = inJsonObj["EN"]?.Value<string>()??"";
@@ -109,7 +122,7 @@ namespace LBEE_TranslationPatch
             return TrasnlationObj;
         }
 
-        public static byte[] VARSTR_SET_SET(byte[] command, JObject inJsonObj)
+        public static byte[]? VARSTR_SET_SET(byte[] command, JObject inJsonObj)
         {
             int index = GetCmdHeaderLength(command) + 2; // Header+ID
             string Translation = inJsonObj["Translation"]?.Value<string>() ?? "";
@@ -218,14 +231,14 @@ namespace LBEE_TranslationPatch
             return TrasnlationObj;
         }
 
-        public static byte[] TASK_SET(byte[] command, JObject inJsonObj)
+        public static byte[]? TASK_SET(byte[] command, JObject inJsonObj)
         {
             int index = GetCmdHeaderLength(command); // Header
             int TaskID = command[index] + command[index + 1] * 256;
             index += 2;
             if (command.Length <= index)
             {
-                return command;
+                return null;
             }
             if (TaskID == 4)
             {
@@ -233,7 +246,7 @@ namespace LBEE_TranslationPatch
                 index += 2;
                 if (command.Length <= index)
                 {
-                    return command;
+                    return null;
                 }
                 if (TaskVar1 == 0 || TaskVar1 == 4 || TaskVar1 == 5 || TaskVar1 == 6)
                 {
@@ -264,7 +277,8 @@ namespace LBEE_TranslationPatch
                     index += strLength + 2;  // str2
 
                     strLength = GetStrLength(command, index);
-                    newCommand.AddRange(command[index..(index + strLength + 2)]);
+                    // -2包含str2的\0
+                    newCommand.AddRange(command[(index-2)..(index + strLength + 2)]);
                     index += strLength + 2; //str3
 
                     strLength = GetStrLength(command, index);
@@ -298,7 +312,7 @@ namespace LBEE_TranslationPatch
                 index += strLength + 2;  // str2
 
                 strLength = GetStrLength(command, index);
-                newCommand.AddRange(command[index..(index + strLength + 2)]);
+                newCommand.AddRange(command[(index-2)..(index + strLength + 2)]);
                 index += strLength + 2; //str3
 
                 strLength = GetStrLength(command, index);
@@ -306,6 +320,164 @@ namespace LBEE_TranslationPatch
                 newCommand.AddRange(Encoding.Unicode.GetBytes(Translation2));
                 newCommand.AddRange(command.Skip(index + strLength)); //str4
 
+                return newCommand.ToArray();
+            }
+            return null;
+        }
+
+        public static JObject? BATTLE_GET(byte[] command)
+        {
+            JObject TrasnlationObj = new JObject();
+            int index = GetCmdHeaderLength(command); // Header+ID
+            int BattleID = command[index] + command[index+1] * 256;
+            string? msgStr_jp = null;
+            string? msgStr_en = null;
+            index += 2;
+            if(index >= command.Length)
+            {
+                return null;
+            }
+            /*if(BattleID == 300)
+            {
+                // LucaSystem中认为BattleID为300的指令只有日文文本，不确定是否需要翻译
+                // 英文语言不全？先返回空白,不做进一步处理
+                return null;
+            }*/
+            else if (BattleID == 101)
+            {
+                index += 2; //Skip Var1
+                int Var2 = command[index] + command[index + 1] * 256;
+                if (Var2 == 0)
+                {
+                    index += 4; //Skip Var2,3
+                    int strLength = GetSingleByteStrLength(command, index);
+                    index += strLength + 1; // Skip ExprStr
+                    strLength = GetStrLength(command, index);
+                    msgStr_jp = Encoding.Unicode.GetString(command[index..(index + strLength)]);
+                    index += strLength + 2;
+                    strLength = GetStrLength(command, index);
+                    msgStr_en = Encoding.Unicode.GetString(command[index..(index + strLength)]);
+                }
+                else
+                {
+                    // 当下的var2就是文本
+                    int strLength = GetStrLength(command, index);
+                    msgStr_jp = Encoding.Unicode.GetString(command[index..(index + strLength)]);
+                    index += strLength + 2;
+                    strLength = GetStrLength(command, index);
+                    msgStr_en = Encoding.Unicode.GetString(command[index..(index + strLength)]);
+                }
+            }
+            else if (BattleID == 102)
+            {
+                int Var1 = command[index] + command[index + 1] * 256;
+                if (Var1 == 0)
+                {
+                    index += 4; //Skip Var1,2
+                    int strLength = GetSingleByteStrLength(command, index);
+                    index += strLength + 1; // 跳过ExprStr，ExprStr为单字节字符串
+                    strLength = GetStrLength(command, index);
+                    msgStr_jp = Encoding.Unicode.GetString(command[index..(index + strLength)]);
+                    index += strLength + 2;
+                    strLength = GetStrLength(command, index);
+                    msgStr_en = Encoding.Unicode.GetString(command[index..(index + strLength)]);
+                }
+                else
+                {
+                    // 当下的Var1就是文本
+                    int strLength = GetStrLength(command, index);
+                    msgStr_jp = Encoding.Unicode.GetString(command[index..(index + strLength)]);
+                    index += strLength + 2;
+                    strLength = GetStrLength(command, index);
+                    msgStr_en = Encoding.Unicode.GetString(command[index..(index + strLength)]);
+                }
+            }
+
+            if (msgStr_en == null && msgStr_jp == null)
+            {
+                return null;
+            }
+            if (msgStr_jp != null)
+            {
+                TrasnlationObj["JP"] = msgStr_jp;
+            }
+            if (msgStr_en != null)
+            {
+                TrasnlationObj["EN"] = msgStr_en;
+                TrasnlationObj["Translation"] = msgStr_en;
+            }
+            return TrasnlationObj;
+        }
+
+        public static byte[] BATTLE_SET(byte[] command, JObject inJsonObj)
+        {
+            JObject TrasnlationObj = new JObject();
+            int index = GetCmdHeaderLength(command); // Header+ID
+            int BattleID = command[index] + command[index+1] * 256;
+            index += 2;
+            if (index >= command.Length)
+            {
+                return command;
+            }
+            /*if (BattleID == 300)
+            {
+                return command;
+            }*/
+            else if (BattleID == 101)
+            {
+                index += 2; //Skip Var1
+                int Var2 = command[index] + command[index + 1] * 256;
+                string Translation = inJsonObj["Translation"]?.Value<string>() ?? "";
+                List<byte> newCommand = new List<byte>(command[..index]);
+                if (Var2 == 0)
+                {
+                    index += 4; //Skip Var2,3
+                    int strLength = GetStrLength(command, index);
+                    index += strLength + 2; // Skip ExprStr
+                    strLength = GetStrLength(command, index);
+                    index += strLength + 2; // Skip JP
+                    strLength = GetStrLength(command, index);
+                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
+                    index += strLength;
+                }
+                else
+                {
+                    // 当下的var2就是文本
+                    int strLength = GetStrLength(command, index);
+                    index += strLength + 2;
+                    strLength = GetStrLength(command, index);
+                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
+                    index += strLength;
+                }
+                newCommand.AddRange(command.Skip(index));
+                return newCommand.ToArray();
+            }
+            else if (BattleID == 102)
+            {
+                string Translation = inJsonObj["Translation"]?.Value<string>() ?? "";
+                List<byte> newCommand = new List<byte>(command[..index]);
+                int Var1 = command[index] + command[index + 1] * 256;
+                if (Var1 == 0)
+                {
+                    index += 4; //Skip Var1,2
+                    int strLength = GetStrLength(command, index);
+                    index += strLength + 2; // Skip ExprStr
+                    strLength = GetStrLength(command, index);
+                    index += strLength + 2;
+                    strLength = GetStrLength(command, index);
+                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
+                    index += strLength;
+                }
+                else
+                {
+                    // 当下的Var1就是文本
+                    int strLength = GetStrLength(command, index);
+                    index += strLength + 2;
+                    strLength = GetStrLength(command, index);
+                    newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
+                    index += strLength;
+                }
+                newCommand.AddRange(command.Skip(index));
                 return newCommand.ToArray();
             }
             return command;

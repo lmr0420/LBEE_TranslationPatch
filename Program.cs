@@ -148,7 +148,11 @@
                                 var CommandTranslationObj = CommandTranslationCollection[CurCmdIndex].Value<JObject>();
                                 if (CommandTranslationObj != null)
                                 {
-                                    command.SetTranslationObj(CommandTranslationObj);
+                                    if(!command.SetTranslationObj(CommandTranslationObj))
+                                    {
+                                        // 如果指令未被接受，则往前退一步
+                                        CmdIndexMap[CurInstruction]--;
+                                    }
                                 }
                             }
                         }
@@ -276,18 +280,25 @@
             return null;
         }
 
-        public void SetTranslationObj(JObject inJsonObj)
+        public bool SetTranslationObj(JObject inJsonObj)
         {
             if (Command == null)
             {
-                return;
+                return false;
             }
             if (InstructionProcessor.InstructionSetMapping.ContainsKey(GetInstruction()))
             {
-                Command = InstructionProcessor.InstructionSetMapping[GetInstruction()](Command, inJsonObj);
+                byte[] NewCommand = InstructionProcessor.InstructionSetMapping[GetInstruction()](Command, inJsonObj);
+                if (NewCommand == null)
+                {
+                    return false;
+                }
+                Command = NewCommand;
                 Command[1] = (byte)(Command.Length / 256);
                 Command[0] = (byte)(Command.Length % 256);
+                return true;
             }
+            return false;
         }
 
         public void AssignCommand(List<LucaCommand> InAllCommands, int CmdIndex)

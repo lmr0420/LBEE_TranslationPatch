@@ -1,1 +1,29 @@
-{}
+{
+  "BATTLE": [
+    {
+      "JP": "の攻撃！",
+      "EN": " attacks! ",
+      "Translation": " attacks! "
+    },
+    {
+      "JP": "の勝利！",
+      "EN": " is victorious! ",
+      "Translation": " is victorious! "
+    },
+    {
+      "JP": "の勝利！",
+      "EN": " is victorious! ",
+      "Translation": " is victorious! "
+    },
+    {
+      "JP": "タイムアップ！",
+      "EN": "Time's up! ",
+      "Translation": "Time's up! "
+    },
+    {
+      "JP": "ギブアップ！",
+      "EN": "Gave up! ",
+      "Translation": "Gave up! "
+    }
+  ]
+}

@@ -1,3 +1,270 @@
 {
-  "TASK": []
+  "TASK": [],
+  "BATTLE": [
+    {
+      "JP": "「おらぁっ!!　いけえっ!!」",
+      "EN": "❝Oraa!! Gooo!❞",
+      "Translation": "❝Oraa!! Gooo!❞"
+    },
+    {
+      "JP": "真人の攻撃！",
+      "EN": "Masato attacks!",
+      "Translation": "Masato attacks!"
+    },
+    {
+      "JP": "真人は樽にナイフを刺しまくる！",
+      "EN": "Masato stabs the knives into the barrel!",
+      "Translation": "Masato stabs the knives into the barrel!"
+    },
+    {
+      "JP": "…あおひげが飛び出した！",
+      "EN": "...The pirate figure flies out!",
+      "Translation": "...The pirate figure flies out!"
+    },
+    {
+      "JP": "ミス！　来ヶ谷にダメージを与えられない！",
+      "EN": "Miss! No damage to Kurugaya!",
+      "Translation": "Miss! No damage to Kurugaya!"
+    },
+    {
+      "JP": "「おらおらおらぁっ!!」",
+      "EN": "❝Hey hey hey!!❞",
+      "Translation": "❝Hey hey hey!!❞"
+    },
+    {
+      "JP": "真人の攻撃！",
+      "EN": "Masato attacks!",
+      "Translation": "Masato attacks!"
+    },
+    {
+      "JP": "真人は樽にナイフを刺しまくる！",
+      "EN": "Masato stabs the knives into the barrel!",
+      "Translation": "Masato stabs the knives into the barrel!"
+    },
+    {
+      "JP": "…不発！　あおひげは飛び出さなかった！",
+      "EN": "...Dud! The pirate figure stayed inside!",
+      "Translation": "...Dud! The pirate figure stayed inside!"
+    },
+    {
+      "JP": "「ちっくしょぉーっ!!」",
+      "EN": "❝Dammit!!❞",
+      "Translation": "❝Dammit!!❞"
+    },
+    {
+      "JP": "「ふむ…」",
+      "EN": "❝Hmph...❞",
+      "Translation": "❝Hmph...❞"
+    },
+    {
+      "JP": "来ヶ谷はにやりと笑っている…",
+      "EN": "Kurugaya laughs with a smile on her lips...",
+      "Translation": "Kurugaya laughs with a smile on her lips..."
+    },
+    {
+      "JP": "「おらぁっ!!　いけえっ!!」",
+      "EN": "❝Oraa!! Gooo!❞",
+      "Translation": "❝Oraa!! Gooo!❞"
+    },
+    {
+      "JP": "真人の攻撃！",
+      "EN": "Masato attacks!",
+      "Translation": "Masato attacks!"
+    },
+    {
+      "JP": "真人は樽にナイフを刺しまくる！",
+      "EN": "Masato stabs the knives into the barrel!",
+      "Translation": "Masato stabs the knives into the barrel!"
+    },
+    {
+      "JP": "…あおひげが飛び出した！",
+      "EN": "...The pirate figure flies out!",
+      "Translation": "...The pirate figure flies out!"
+    },
+    {
+      "JP": "ミス！　来ヶ谷にダメージを与えられない！",
+      "EN": "Miss! No damage to Kurugaya!",
+      "Translation": "Miss! No damage to Kurugaya!"
+    },
+    {
+      "JP": "「うらあああぁぁああぁぁーーっ!!」",
+      "EN": "❝Uraaaaaaaaaah――!!❞",
+      "Translation": "❝Uraaaaaaaaaah――!!❞"
+    },
+    {
+      "JP": "真人の攻撃！",
+      "EN": "Masato attacks!",
+      "Translation": "Masato attacks!"
+    },
+    {
+      "JP": "真人は樽にナイフを刺しまくる！",
+      "EN": "Masato stabs the knives into the barrel!",
+      "Translation": "Masato stabs the knives into the barrel!"
+    },
+    {
+      "JP": "…あおひげが飛び出した！",
+      "EN": "...The pirate figure flies out!",
+      "Translation": "...The pirate figure flies out!"
+    },
+    {
+      "JP": "来ヶ谷に３のダメージ！",
+      "EN": "Kurugaya takes 3 damage!",
+      "Translation": "Kurugaya takes 3 damage!"
+    },
+    {
+      "JP": "「へっ、ようやく捕まえたぜ」",
+      "EN": "❝Hah, finally got ya.❞",
+      "Translation": "❝Hah, finally got ya.❞"
+    },
+    {
+      "JP": "「…ふん、ならばお遊びもここまでだ」",
+      "EN": "❝...Hmph, then it's finally time to get serious.❞",
+      "Translation": "❝...Hmph, then it's finally time to get serious.❞"
+    },
+    {
+      "JP": "来ヶ谷の攻撃！",
+      "EN": "Kurugaya attacks!",
+      "Translation": "Kurugaya attacks!"
+    },
+    {
+      "JP": "上段から剣を薙ぐ！",
+      "EN": "She slashes from above!",
+      "Translation": "She slashes from above!"
+    },
+    {
+      "JP": "…ミス!!",
+      "EN": "...Miss!",
+      "Translation": "...Miss!"
+    },
+    {
+      "JP": "「さあ、楽しいオシオキターイムだ」",
+      "EN": "❝Okay, I'll enjoy punishing you.❞",
+      "Translation": "❝Okay, I'll enjoy punishing you.❞"
+    },
+    {
+      "JP": "来ヶ谷の攻撃！",
+      "EN": "Kurugaya attacks!",
+      "Translation": "Kurugaya attacks!"
+    },
+    {
+      "JP": "三段連続斬り！",
+      "EN": "Three-step continuous slash!",
+      "Translation": "Three-step continuous slash!"
+    },
+    {
+      "JP": "上段から剣を薙ぐ！",
+      "EN": "She slashes from above!",
+      "Translation": "She slashes from above!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "続けざまに逆袈裟斬り！",
+      "EN": "A succession of upward diagonal cuts!",
+      "Translation": "A succession of upward diagonal cuts!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "さらに身を返し、横に薙ぐ！",
+      "EN": "While withdrawing the sword, another slash from the side!",
+      "Translation": "While withdrawing the sword, another slash from the side!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "「断罪してやろう」",
+      "EN": "❝Off with your head.❞",
+      "Translation": "❝Off with your head.❞"
+    },
+    {
+      "JP": "来ヶ谷の攻撃！",
+      "EN": "Kurugaya attacks!",
+      "Translation": "Kurugaya attacks!"
+    },
+    {
+      "JP": "来ヶ谷のスパルタンキックコンボが発動!!",
+      "EN": "Kurugaya initiates a Spartan-style kick combo!",
+      "Translation": "Kurugaya initiates a Spartan-style kick combo!"
+    },
+    {
+      "JP": "かかと落とし！",
+      "EN": "Heel drop!",
+      "Translation": "Heel drop!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "連環腿！",
+      "EN": "Chain leg attack!",
+      "Translation": "Chain leg attack!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "アシッドストーム！",
+      "EN": "Acid Storm!",
+      "Translation": "Acid Storm!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "ドラゴンサマーソルト！",
+      "EN": "Dragon Somersault!",
+      "Translation": "Dragon Somersault!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "シャイニングウィザード！",
+      "EN": "Shining Wizard!",
+      "Translation": "Shining Wizard!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "そのまま真人の首に膝をかける！　地獄の断頭台！",
+      "EN": "A knee hold on his neck! A guillotine from hell!",
+      "Translation": "A knee hold on his neck! A guillotine from hell!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "は倒れた！",
+      "EN": " falls!",
+      "Translation": " falls!"
+    },
+    {
+      "JP": "の勝利！",
+      "EN": " is victorious!",
+      "Translation": " is victorious!"
+    }
+  ]
 }

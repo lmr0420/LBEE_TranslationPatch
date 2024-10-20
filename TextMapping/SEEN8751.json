@@ -1,3 +1,85 @@
 {
-  "TASK": []
+  "TASK": [],
+  "BATTLE": [
+    {
+      "JP": "「しねっ」",
+      "EN": "❝Die!❞",
+      "Translation": "❝Die!❞"
+    },
+    {
+      "JP": "鈴の攻撃！",
+      "EN": "Rin attacks!",
+      "Translation": "Rin attacks!"
+    },
+    {
+      "JP": "鈴は三節棍を振り回した！",
+      "EN": "Rin swings the three section staff!",
+      "Translation": "Rin swings the three section staff!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "「今度はこっちからいくぞっ」",
+      "EN": "❝Now it's my turn!❞",
+      "Translation": "❝Now it's my turn!❞"
+    },
+    {
+      "JP": "真人の攻撃！",
+      "EN": "Masato attacks!",
+      "Translation": "Masato attacks!"
+    },
+    {
+      "JP": "真人はうなぎパイで叩いた！",
+      "EN": "Masato strikes with the eel pie!",
+      "Translation": "Masato strikes with the eel pie!"
+    },
+    {
+      "JP": "鈴に０のダメージ！",
+      "EN": "Rin takes 0 damage!",
+      "Translation": "Rin takes 0 damage!"
+    },
+    {
+      "JP": "うなぎパイが折れてしまった！",
+      "EN": "The eel pie breaks!",
+      "Translation": "The eel pie breaks!"
+    },
+    {
+      "JP": "「うあぁぁぁぁーーーーっ！　うなぎパイがあぁぁーーっ！」",
+      "EN": "❝Uwaaaaa! The eel pie!❞",
+      "Translation": "❝Uwaaaaa! The eel pie!❞"
+    },
+    {
+      "JP": "「しねっ」",
+      "EN": "❝Die!❞",
+      "Translation": "❝Die!❞"
+    },
+    {
+      "JP": "鈴の攻撃！",
+      "EN": "Rin attacks!",
+      "Translation": "Rin attacks!"
+    },
+    {
+      "JP": "鈴は三節棍を振り回した！",
+      "EN": "Rin swings the three section staff!",
+      "Translation": "Rin swings the three section staff!"
+    },
+    {
+      "JP": "真人に$V(#20002)のダメージ！",
+      "EN": "Masato takes $v(#20002) damage!",
+      "Translation": "Masato takes $v(#20002) damage!"
+    },
+    {
+      "JP": "は倒れた！",
+      "EN": " falls!",
+      "Translation": " falls!"
+    },
+    {
+      "JP": "の勝利！",
+      "EN": " is victorious!",
+      "Translation": " is victorious!"
+    }
+  ]
 }

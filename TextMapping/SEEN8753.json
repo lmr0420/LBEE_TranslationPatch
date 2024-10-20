@@ -1,3 +1,215 @@
 {
-  "TASK": []
+  "TASK": [],
+  "BATTLE": [
+    {
+      "JP": "「いけぇっ」",
+      "EN": "❝Go!❞",
+      "Translation": "❝Go!❞"
+    },
+    {
+      "JP": "鈴の攻撃！",
+      "EN": "Rin attacks!",
+      "Translation": "Rin attacks!"
+    },
+    {
+      "JP": "鈴は猫たちを放った！",
+      "EN": "Rin lets the cats loose!",
+      "Translation": "Rin lets the cats loose!"
+    },
+    {
+      "JP": "にゃあ！　ヒトラーは飛びかかった！",
+      "EN": "Meow! Hitler leaps!",
+      "Translation": "Meow! Hitler leaps!"
+    },
+    {
+      "JP": "にゃあ！　ファーブルは飛びかかった！",
+      "EN": "Meow! Fabre leaps!",
+      "Translation": "Meow! Fabre leaps!"
+    },
+    {
+      "JP": "にゃあ！　オードリーは飛びかかった！",
+      "EN": "Meow! Audrey leaps!",
+      "Translation": "Meow! Audrey leaps!"
+    },
+    {
+      "JP": "にゃあ！　コバーンは飛びかかった！",
+      "EN": "Meow! Cobain leaps!",
+      "Translation": "Meow! Cobain leaps!"
+    },
+    {
+      "JP": "にゃあ！　テヅカは飛びかかった！",
+      "EN": "Meow! Tezuka leaps!",
+      "Translation": "Meow! Tezuka leaps!"
+    },
+    {
+      "JP": "にゃあ！　ゲイツは飛びかかった！",
+      "EN": "Meow! Gates leaps!",
+      "Translation": "Meow! Gates leaps!"
+    },
+    {
+      "JP": "にゃあ！　アインシュタインは飛びかかった！",
+      "EN": "Meow! Einstein leaps!",
+      "Translation": "Meow! Einstein leaps!"
+    },
+    {
+      "JP": "にゃあ！　ヒョードルは飛びかかった！",
+      "EN": "Meow! Fyodor leaps!",
+      "Translation": "Meow! Fyodor leaps!"
+    },
+    {
+      "JP": "にゃあ！　アリストテレスは飛びかかった！",
+      "EN": "Meow! Aristotle leaps!",
+      "Translation": "Meow! Aristotle leaps!"
+    },
+    {
+      "JP": "にゃあ！　ホクサイは飛びかかった！",
+      "EN": "Meow! Hokusai leaps!",
+      "Translation": "Meow! Hokusai leaps!"
+    },
+    {
+      "JP": "にゃあ！　ジャッキーは飛びかかった！",
+      "EN": "Meow! Jackie leaps!",
+      "Translation": "Meow! Jackie leaps!"
+    },
+    {
+      "JP": "にゃあ！　ユウサクは飛びかかった！",
+      "EN": "Meow! Yuusaku leaps!",
+      "Translation": "Meow! Yuusaku leaps!"
+    },
+    {
+      "JP": "真人に５のダメージ！",
+      "EN": "Masato takes 5 damage!",
+      "Translation": "Masato takes 5 damage!"
+    },
+    {
+      "JP": "「やるじゃねぇか…今度はこっちからいくぜ」",
+      "EN": "❝Not bad... it's my turn now.❞",
+      "Translation": "❝Not bad... it's my turn now.❞"
+    },
+    {
+      "JP": "真人の攻撃！",
+      "EN": "Masato attacks!",
+      "Translation": "Masato attacks!"
+    },
+    {
+      "JP": "真人は爪切りで鈴の爪を切った！",
+      "EN": "Masato trims Rin's nail with the nail clippers!",
+      "Translation": "Masato trims Rin's nail with the nail clippers!"
+    },
+    {
+      "JP": "鈴の指が深爪になった！",
+      "EN": "Rin's nail was fully trimmed.",
+      "Translation": "Rin's nail was fully trimmed."
+    },
+    {
+      "JP": "「へっ、これでプルタブは開けられまい…」",
+      "EN": "❝Heh, now you won't even be able to pull the tab off a can...❞",
+      "Translation": "❝Heh, now you won't even be able to pull the tab off a can...❞"
+    },
+    {
+      "JP": "「あとでツナ缶あげるから、おまえらがんばれ」",
+      "EN": "❝I'll open some canned tuna, so work hard!❞",
+      "Translation": "❝I'll open some canned tuna, so work hard!❞"
+    },
+    {
+      "JP": "うにゃあー!!",
+      "EN": "Unyaa!!",
+      "Translation": "Unyaa!!"
+    },
+    {
+      "JP": "猫たちの士気が上がった！",
+      "EN": "The cats' morale went up!",
+      "Translation": "The cats' morale went up!"
+    },
+    {
+      "JP": "「いけぇっ」",
+      "EN": "❝Go!❞",
+      "Translation": "❝Go!❞"
+    },
+    {
+      "JP": "鈴の攻撃！",
+      "EN": "Rin attacks!",
+      "Translation": "Rin attacks!"
+    },
+    {
+      "JP": "鈴は猫たちを放った！",
+      "EN": "Rin lets the cats loose!",
+      "Translation": "Rin lets the cats loose!"
+    },
+    {
+      "JP": "にゃあ！　ヒトラーは飛びかかった！",
+      "EN": "Meow! Hitler leaps!",
+      "Translation": "Meow! Hitler leaps!"
+    },
+    {
+      "JP": "にゃあ！　ファーブルは飛びかかった！",
+      "EN": "Meow! Fabre leaps!",
+      "Translation": "Meow! Fabre leaps!"
+    },
+    {
+      "JP": "にゃあ！　オードリーは飛びかかった！",
+      "EN": "Meow! Audrey leaps!",
+      "Translation": "Meow! Audrey leaps!"
+    },
+    {
+      "JP": "にゃあ！　コバーンは飛びかかった！",
+      "EN": "Meow! Cobain leaps!",
+      "Translation": "Meow! Cobain leaps!"
+    },
+    {
+      "JP": "にゃあ！　テヅカは飛びかかった！",
+      "EN": "Meow! Tezuka leaps!",
+      "Translation": "Meow! Tezuka leaps!"
+    },
+    {
+      "JP": "にゃあ！　ゲイツは飛びかかった！",
+      "EN": "Meow! Gates leaps!",
+      "Translation": "Meow! Gates leaps!"
+    },
+    {
+      "JP": "にゃあ！　アインシュタインは飛びかかった！",
+      "EN": "Meow! Einstein leaps!",
+      "Translation": "Meow! Einstein leaps!"
+    },
+    {
+      "JP": "にゃあ！　ヒョードルは飛びかかった！",
+      "EN": "Meow! Fyodor leaps!",
+      "Translation": "Meow! Fyodor leaps!"
+    },
+    {
+      "JP": "にゃあ！　アリストテレスは飛びかかった！",
+      "EN": "Meow! Aristotle leaps!",
+      "Translation": "Meow! Aristotle leaps!"
+    },
+    {
+      "JP": "にゃあ！　ホクサイは飛びかかった！",
+      "EN": "Meow! Hokusai leaps!",
+      "Translation": "Meow! Hokusai leaps!"
+    },
+    {
+      "JP": "にゃあ！　ジャッキーは飛びかかった！",
+      "EN": "Meow! Jackie leaps!",
+      "Translation": "Meow! Jackie leaps!"
+    },
+    {
+      "JP": "にゃあ！　ユウサクは飛びかかった！",
+      "EN": "Meow! Yuusaku leaps!",
+      "Translation": "Meow! Yuusaku leaps!"
+    },
+    {
+      "JP": "真人に$V(#20004)のダメージ！",
+      "EN": "Masato takes $v(#20004) damage!",
+      "Translation": "Masato takes $v(#20004) damage!"
+    },
+    {
+      "JP": "は倒れた！",
+      "EN": " falls!",
+      "Translation": " falls!"
+    },
+    {
+      "JP": "の勝利！",
+      "EN": " is victorious!",
+      "Translation": " is victorious!"
+    }
+  ]
 }

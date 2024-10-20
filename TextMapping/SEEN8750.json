@@ -1,3 +1,155 @@
 {
-  "TASK": []
+  "TASK": [],
+  "BATTLE": [
+    {
+      "JP": "「いくぞっ」",
+      "EN": "❝Here I go!❞",
+      "Translation": "「要上了！」"
+    },
+    {
+      "JP": "謙吾の攻撃！",
+      "EN": "Kengo attacks!",
+      "Translation": "谦吾攻击！"
+    },
+    {
+      "JP": "謙吾は銀玉鉄砲で真人を撃った！",
+      "EN": "Kengo shoots pellets at Masato!",
+      "Translation": "谦吾向真人发射子弹！"
+    },
+    {
+      "JP": "真人に０のダメージ！",
+      "EN": "Masato takes 0 damage!",
+      "Translation": "真人受到0点伤害！"
+    },
+    {
+      "JP": "「今度はこっちからいくぞっ」",
+      "EN": "❝Now it's my turn!❞",
+      "Translation": "「现在是我的回合了！」❞"
+    },
+    {
+      "JP": "真人の攻撃！",
+      "EN": "Masato attacks!",
+      "Translation": "真人攻击！"
+    },
+    {
+      "JP": "にゃー！",
+      "EN": "Meow!",
+      "Translation": "喵！"
+    },
+    {
+      "JP": "猫は謙吾を引っ掻いた！",
+      "EN": "The cat scratches at Kengo!",
+      "Translation": "猫对谦吾疯狂乱抓！"
+    },
+    {
+      "JP": "謙吾に１のダメージ！",
+      "EN": "Kengo takes 1 damage!",
+      "Translation": "谦吾受到1点伤害！"
+    },
+    {
+      "JP": "「こうなったら目だな、目を狙ってやる」",
+      "EN": "❝When you look at me, I'll aim for your eyes.❞",
+      "Translation": "「如果你看着我，我会瞄准你的眼睛！」"
+    },
+    {
+      "JP": "謙吾の攻撃！",
+      "EN": "Kengo attacks!",
+      "Translation": "谦吾攻击！"
+    },
+    {
+      "JP": "謙吾は銀玉鉄砲で真人を撃った！",
+      "EN": "Kengo shoots pellets at Masato!",
+      "Translation": "谦吾向真人发射子弹！"
+    },
+    {
+      "JP": "真人に１のダメージ！",
+      "EN": "Masato takes 1 damage!",
+      "Translation": "真人受到1点伤害！"
+    },
+    {
+      "JP": "「くそぉ、いけぇっ！」",
+      "EN": "❝Ow, go!❞",
+      "Translation": "「唔哦！上吧！」"
+    },
+    {
+      "JP": "真人の攻撃！",
+      "EN": "Masato attacks!",
+      "Translation": "真人攻击！"
+    },
+    {
+      "JP": "にゃー！",
+      "EN": "Meow!",
+      "Translation": "喵！"
+    },
+    {
+      "JP": "猫は謙吾を引っ掻いた！",
+      "EN": "The cat scratches at Kengo!",
+      "Translation": "猫对谦吾疯狂乱抓！"
+    },
+    {
+      "JP": "謙吾に２のダメージ！",
+      "EN": "Kengo takes 2 damage!",
+      "Translation": "谦吾受到2点伤害！"
+    },
+    {
+      "JP": "「まずい、玉切れだ」",
+      "EN": "❝Damn, out of pellets!❞",
+      "Translation": "「糟糕，没子弹了！」"
+    },
+    {
+      "JP": "謙吾は玉を充填！",
+      "EN": "Kengo reloads the pistol!",
+      "Translation": "谦吾重新装弹！"
+    },
+    {
+      "JP": "「はっはっは、いまだ、いけぇ！」",
+      "EN": "❝Hahaha, now, go!❞",
+      "Translation": "「哈哈，现在上吧！」"
+    },
+    {
+      "JP": "真人の攻撃！",
+      "EN": "Masato attacks!",
+      "Translation": "真人攻击！"
+    },
+    {
+      "JP": "にゃー！",
+      "EN": "Meow!",
+      "Translation": "喵！"
+    },
+    {
+      "JP": "猫は謙吾を引っ掻いた！",
+      "EN": "The cat scratches at Kengo!",
+      "Translation": "猫对谦吾疯狂乱抓！"
+    },
+    {
+      "JP": "謙吾に２のダメージ！",
+      "EN": "Kengo takes 2 damage!",
+      "Translation": "谦吾受到2点伤害！"
+    },
+    {
+      "JP": "「って、これ、オレじゃなくて猫が戦ってね!?」",
+      "EN": "❝Wait, isn't it the cat fighting rather than me!?❞",
+      "Translation": "「等等，难道战斗的不是我而是猫吗？」"
+    },
+    {
+      "JP": "「よし、目だ」",
+      "EN": "❝Ok, your eyes!❞",
+      "Translation": "「好，眼睛！」❞"
+    },
+    {
+      "JP": "謙吾の攻撃！",
+      "EN": "Kengo attacks!",
+      "Translation": "谦吾攻击！"
+    },
+    {
+      "JP": "謙吾は銀玉鉄砲で真人を撃った！",
+      "EN": "Kengo shoots pellets at Masato!",
+      "Translation": "谦吾向真人发射子弹！"
+    },
+    {
+      "JP": "真人に１のダメージ！",
+      "EN": "Masato takes 1 damage!",
+      "Translation": "真人受到1点伤害！"
+    }
+  ]
 }

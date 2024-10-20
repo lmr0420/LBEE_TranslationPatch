@@ -1,3 +1,180 @@
 {
-  "TASK": []
+  "TASK": [],
+  "BATTLE": [
+    {
+      "JP": "「…だから、そもそもその名で呼ばれるのが好きじゃないんだ」",
+      "EN": "❝...To begin with, I don't like being called by that name.❞",
+      "Translation": "❝...To begin with, I don't like being called by that name.❞"
+    },
+    {
+      "JP": "「なんで？」",
+      "EN": "❝Why's that?❞",
+      "Translation": "❝Why's that?❞"
+    },
+    {
+      "JP": "「なんでと言われても好きじゃないのだから仕方ない」",
+      "EN": "❝Even if you ask me why, I just don't like it, that's all.❞",
+      "Translation": "❝Even if you ask me why, I just don't like it, that's all.❞"
+    },
+    {
+      "JP": "「好きじゃないなら好きになればいいんだよ～」",
+      "EN": "❝If you don't like it, you just have to come to like it～.❞",
+      "Translation": "❝If you don't like it, you just have to come to like it～.❞"
+    },
+    {
+      "JP": "「みんなに呼んでもらえれば、きっと好きになれるよ」",
+      "EN": "❝If everyone calls you by that name, you're sure to come to like it.❞",
+      "Translation": "❝If everyone calls you by that name, you're sure to come to like it.❞"
+    },
+    {
+      "JP": "「だって、名前って自分だけのものだよね」",
+      "EN": "❝Because your first name is something that belongs only to you.❞",
+      "Translation": "❝Because your first name is something that belongs only to you.❞"
+    },
+    {
+      "JP": "「う、いや…」",
+      "EN": "❝Ugh, no...❞",
+      "Translation": "❝Ugh, no...❞"
+    },
+    {
+      "JP": "来ヶ谷に$V(#20002)のダメージ！",
+      "EN": "Kurugaya takes $v(#20002) damage!",
+      "Translation": "Kurugaya takes $v(#20002) damage!"
+    },
+    {
+      "JP": "「ええい、だったらこれからキミのことをコマリマックスと呼ぶぞ」",
+      "EN": "❝All right, from now on I'm gonna call you Komari-max!❞",
+      "Translation": "❝All right, from now on I'm gonna call you Komari-max!❞"
+    },
+    {
+      "JP": "「どうだ、恥ずかしいだろう」",
+      "EN": "❝What do you think, isn't that embarrassing?❞",
+      "Translation": "❝What do you think, isn't that embarrassing?❞"
+    },
+    {
+      "JP": "「うん、別にいいよ～」",
+      "EN": "❝No, it's good～.❞",
+      "Translation": "❝No, it's good～.❞"
+    },
+    {
+      "JP": "「えへへ、ちょっとカッコいいね、それ」",
+      "EN": "❝Ehehe, it's even a little cool.❞",
+      "Translation": "❝Ehehe, it's even a little cool.❞"
+    },
+    {
+      "JP": "「ぐあ…」",
+      "EN": "❝Guah...❞",
+      "Translation": "❝Guah...❞"
+    },
+    {
+      "JP": "来ヶ谷は反撃を受けた！",
+      "EN": "Kurugaya receives a counterattack!",
+      "Translation": "Kurugaya receives a counterattack!"
+    },
+    {
+      "JP": "来ヶ谷に$V(#20002)のダメージ！",
+      "EN": "Kurugaya takes $v(#20002) damage!",
+      "Translation": "Kurugaya takes $v(#20002) damage!"
+    },
+    {
+      "JP": "「だったらゆいちゃんとか言われても反応しない」",
+      "EN": "❝Then, even if you call me Yui-chan, I won't respond.❞",
+      "Translation": "❝Then, even if you call me Yui-chan, I won't respond.❞"
+    },
+    {
+      "JP": "「え～」",
+      "EN": "❝Eh～?❞",
+      "Translation": "❝Eh～?❞"
+    },
+    {
+      "JP": "「ゆいちゃん～」",
+      "EN": "❝Yui-chan～!❞",
+      "Translation": "❝Yui-chan～!❞"
+    },
+    {
+      "JP": "「ふん、無視だ無視」",
+      "EN": "❝Hmph, ignored, ignored.❞",
+      "Translation": "❝Hmph, ignored, ignored.❞"
+    },
+    {
+      "JP": "「…現在の世界情勢はどうなっているのかなぁ～」",
+      "EN": "❝What's the world coming to, I wonder～.❞",
+      "Translation": "❝What's the world coming to, I wonder～.❞"
+    },
+    {
+      "JP": "「ううっ…」",
+      "EN": "❝Ooh...❞",
+      "Translation": "❝Ooh...❞"
+    },
+    {
+      "JP": "小毬に$V(#20002)のダメージ！",
+      "EN": "Komari takes $v(#20002) damage!",
+      "Translation": "Komari takes $v(#20002) damage!"
+    },
+    {
+      "JP": "「む～……」",
+      "EN": "❝Mu～...❞",
+      "Translation": "❝Mu～...❞"
+    },
+    {
+      "JP": "小毬は泣きそうな表情をした！",
+      "EN": "Komari makes a tearful look!",
+      "Translation": "Komari makes a tearful look!"
+    },
+    {
+      "JP": "「うっ…」",
+      "EN": "❝Ooh...❞",
+      "Translation": "❝Ooh...❞"
+    },
+    {
+      "JP": "来ヶ谷に$V(#20002)のダメージ！",
+      "EN": "Kurugaya takes $v(#20002) damage!",
+      "Translation": "Kurugaya takes $v(#20002) damage!"
+    },
+    {
+      "JP": "さらに来ヶ谷に麻痺の効果を与えた！",
+      "EN": "In addition, Kurugaya receives the effect of paralysis!",
+      "Translation": "In addition, Kurugaya receives the effect of paralysis!"
+    },
+    {
+      "JP": "来ヶ谷は麻痺している！",
+      "EN": "Kurugaya is paralyzed!",
+      "Translation": "Kurugaya is paralyzed!"
+    },
+    {
+      "JP": "「…いいもん、無視されたってゆいちゃんって呼ぶもん」",
+      "EN": "❝...Fine then, even if you ignore me, I'm still calling you Yui-chan.❞",
+      "Translation": "❝...Fine then, even if you ignore me, I'm still calling you Yui-chan.❞"
+    },
+    {
+      "JP": "小毬はすねて見せた！",
+      "EN": "Komari pouts!",
+      "Translation": "Komari pouts!"
+    },
+    {
+      "JP": "「ぐあああっ、それやばいだろうっ」",
+      "EN": "❝Guaaah, isn't that dangerous!?❞",
+      "Translation": "❝Guaaah, isn't that dangerous!?❞"
+    },
+    {
+      "JP": "クリティカルヒット！",
+      "EN": "A critical hit!",
+      "Translation": "A critical hit!"
+    },
+    {
+      "JP": "来ヶ谷に$V(#20002)のダメージ！",
+      "EN": "Kurugaya takes $v(#20002) damage!",
+      "Translation": "Kurugaya takes $v(#20002) damage!"
+    },
+    {
+      "JP": "は倒れた！",
+      "EN": " falls!",
+      "Translation": " falls!"
+    },
+    {
+      "JP": "の勝利！",
+      "EN": " wins!",
+      "Translation": " wins!"
+    }
+  ]
 }

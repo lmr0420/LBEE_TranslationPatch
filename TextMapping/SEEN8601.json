@@ -1,1 +1,64 @@
-{}
+{
+  "BATTLE": [
+    {
+      "JP": "クリティカルヒット！",
+      "EN": "Critical hit!",
+      "Translation": "Critical hit!"
+    },
+    {
+      "JP": "に$V(#22091)の田中ダメージ！",
+      "EN": " takes $v(#22091) Tanaka damage!",
+      "Translation": " takes $v(#22091) Tanaka damage!"
+    },
+    {
+      "JP": "に$V(#22091)の斉藤ダメージ！",
+      "EN": " takes $v(#22091) Saito damage!",
+      "Translation": " takes $v(#22091) Saito damage!"
+    },
+    {
+      "JP": "に$V(#22091)のダメージ！",
+      "EN": " takes $v(#22091) damage!",
+      "Translation": " takes $v(#22091) damage!"
+    },
+    {
+      "JP": "ミス！　",
+      "EN": "Missed! ",
+      "Translation": "Missed! "
+    },
+    {
+      "JP": "に$V(#22092)$(7,0)",
+      "EN": " takes $v(#22092)$(7,1)",
+      "Translation": " takes $v(#22092)$(7,1)"
+    },
+    {
+      "JP": "しかし$(6,0)は巧みなピボットで避けてみせた！",
+      "EN": "But $(6,1) deftly avoids the ball! ",
+      "Translation": "But $(6,1) deftly avoids the ball! "
+    },
+    {
+      "JP": "しかし$(6,0)はひらりと避けてみせた！",
+      "EN": "But $(6,1) parries the attack! ",
+      "Translation": "But $(6,1) parries the attack! "
+    },
+    {
+      "JP": "クリティカルヒット！",
+      "EN": "Critical hit!",
+      "Translation": "Critical hit!"
+    },
+    {
+      "JP": "に$V(#22093)$(7,0)",
+      "EN": " takes $v(#22093)$(7,1)",
+      "Translation": " takes $v(#22093)$(7,1)"
+    },
+    {
+      "JP": "に$V(#22092)$(7,0)",
+      "EN": " takes $v(#22092)$(7,1)",
+      "Translation": " takes $v(#22092)$(7,1)"
+    },
+    {
+      "JP": "沙耶の援護射撃！",
+      "EN": "Saya provides cover fire!",
+      "Translation": "Saya provides cover fire!"
+    }
+  ]
+}

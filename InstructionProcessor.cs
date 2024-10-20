@@ -94,8 +94,8 @@ namespace LBEE_TranslationPatch
         public static byte[]? MESSAGE_SET(byte[] command, JObject inJsonObj)
         {
             int index = GetCmdHeaderLength(command)+2;
-            int strStart = GetStrLength(command, index) + 2;
-            int strEnd = GetStrLength(command, index + strStart) + strStart;
+            int strStart = index + GetStrLength(command, index) + 2;
+            int strEnd = GetStrLength(command, strStart) + strStart;
             List<byte> newCommand = new List<byte>(command[..strStart]);
             string Translation = inJsonObj["Translation"]?.Value<string>()??"";
             string EN = inJsonObj["EN"]?.Value<string>()??"";
@@ -131,6 +131,10 @@ namespace LBEE_TranslationPatch
             newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
             newCommand.Add(0);
             newCommand.Add(0);
+            foreach (var newChar in Translation.ToCharArray())
+            {
+                CharCollection.Add(newChar);
+            }
             return newCommand.ToArray();
         }
 
@@ -286,6 +290,15 @@ namespace LBEE_TranslationPatch
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation2));
                     newCommand.AddRange(command.Skip(index + strLength)); //str4
 
+                    foreach (var newChar in Translation.ToCharArray())
+                    {
+                        CharCollection.Add(newChar);
+                    }
+                    foreach (var newChar in Translation2.ToCharArray())
+                    {
+                        CharCollection.Add(newChar);
+                    }
+
                     return newCommand.ToArray();
                 }
             }
@@ -294,6 +307,10 @@ namespace LBEE_TranslationPatch
                 // 只有英文？有点怪
                 int strLength = GetStrLength(command, index);
                 string Translation = inJsonObj["Translation1"]?.Value<string>() ?? "";
+                foreach (var newChar in Translation.ToCharArray())
+                {
+                    CharCollection.Add(newChar);
+                }
                 List<byte> newCommand = new List<byte>(command[..index]);
                 newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                 newCommand.AddRange(command.Skip(index + strLength));
@@ -319,7 +336,14 @@ namespace LBEE_TranslationPatch
                 string Translation2 = inJsonObj["Translation2"]?.Value<string>() ?? "";
                 newCommand.AddRange(Encoding.Unicode.GetBytes(Translation2));
                 newCommand.AddRange(command.Skip(index + strLength)); //str4
-
+                foreach (var newChar in Translation.ToCharArray())
+                {
+                    CharCollection.Add(newChar);
+                }
+                foreach (var newChar in Translation2.ToCharArray())
+                {
+                    CharCollection.Add(newChar);
+                }
                 return newCommand.ToArray();
             }
             return null;
@@ -409,7 +433,7 @@ namespace LBEE_TranslationPatch
             return TrasnlationObj;
         }
 
-        public static byte[] BATTLE_SET(byte[] command, JObject inJsonObj)
+        public static byte[]? BATTLE_SET(byte[] command, JObject inJsonObj)
         {
             JObject TrasnlationObj = new JObject();
             int index = GetCmdHeaderLength(command); // Header+ID
@@ -417,7 +441,7 @@ namespace LBEE_TranslationPatch
             index += 2;
             if (index >= command.Length)
             {
-                return command;
+                return null;
             }
             /*if (BattleID == 300)
             {
@@ -428,14 +452,19 @@ namespace LBEE_TranslationPatch
                 index += 2; //Skip Var1
                 int Var2 = command[index] + command[index + 1] * 256;
                 string Translation = inJsonObj["Translation"]?.Value<string>() ?? "";
-                List<byte> newCommand = new List<byte>(command[..index]);
+                foreach (var newChar in Translation.ToCharArray())
+                {
+                    CharCollection.Add(newChar);
+                }
+                List<byte>? newCommand = null;
                 if (Var2 == 0)
                 {
                     index += 4; //Skip Var2,3
-                    int strLength = GetStrLength(command, index);
-                    index += strLength + 2; // Skip ExprStr
+                    int strLength = GetSingleByteStrLength(command, index);
+                    index += strLength + 1; // Skip ExprStr
                     strLength = GetStrLength(command, index);
                     index += strLength + 2; // Skip JP
+                    newCommand = new List<byte>(command[..index]);
                     strLength = GetStrLength(command, index);
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                     index += strLength;
@@ -445,6 +474,7 @@ namespace LBEE_TranslationPatch
                     // 当下的var2就是文本
                     int strLength = GetStrLength(command, index);
                     index += strLength + 2;
+                    newCommand = new List<byte>(command[..index]);
                     strLength = GetStrLength(command, index);
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                     index += strLength;
@@ -455,15 +485,20 @@ namespace LBEE_TranslationPatch
             else if (BattleID == 102)
             {
                 string Translation = inJsonObj["Translation"]?.Value<string>() ?? "";
-                List<byte> newCommand = new List<byte>(command[..index]);
+                foreach (var newChar in Translation.ToCharArray())
+                {
+                    CharCollection.Add(newChar);
+                }
+                List<byte>? newCommand = null;
                 int Var1 = command[index] + command[index + 1] * 256;
                 if (Var1 == 0)
                 {
                     index += 4; //Skip Var1,2
-                    int strLength = GetStrLength(command, index);
-                    index += strLength + 2; // Skip ExprStr
+                    int strLength = GetSingleByteStrLength(command, index);
+                    index += strLength + 1; // Skip ExprStr
                     strLength = GetStrLength(command, index);
                     index += strLength + 2;
+                    newCommand = new List<byte>(command[..index]);
                     strLength = GetStrLength(command, index);
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                     index += strLength;
@@ -473,6 +508,7 @@ namespace LBEE_TranslationPatch
                     // 当下的Var1就是文本
                     int strLength = GetStrLength(command, index);
                     index += strLength + 2;
+                    newCommand = new List<byte>(command[..index]);
                     strLength = GetStrLength(command, index);
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                     index += strLength;
@@ -480,7 +516,7 @@ namespace LBEE_TranslationPatch
                 newCommand.AddRange(command.Skip(index));
                 return newCommand.ToArray();
             }
-            return command;
+            return null;
         }
 
         public static int LittleEndian2Int(byte[] InBytes)

@@ -1,1 +1,119 @@
-{}
+{
+  "BATTLE": [
+    {
+      "JP": "に$V(#20002)のダメージ！",
+      "EN": " takes $v(#20002) damage!",
+      "Translation": " takes $v(#20002) damage!"
+    },
+    {
+      "JP": "に$V(#20002)田中ダメージ！",
+      "EN": " takes $v(#20002) Tanaka damage!",
+      "Translation": " takes $v(#20002) Tanaka damage!"
+    },
+    {
+      "JP": "に$V(#20002)斉藤ダメージ！",
+      "EN": " takes $v(#20002) Saito damage!",
+      "Translation": " takes $v(#20002) Saito damage!"
+    },
+    {
+      "JP": "しゅこしゅこ！　",
+      "EN": "Shuko shuko! ",
+      "Translation": "Shuko shuko! "
+    },
+    {
+      "JP": "勝負あり！　",
+      "EN": "The battle is over! ",
+      "Translation": "The battle is over! "
+    },
+    {
+      "JP": "は毛布に包まれた！",
+      "EN": " is wrapped in a blanket!",
+      "Translation": " is wrapped in a blanket!"
+    },
+    {
+      "JP": "は体育館のネットに包まれた！",
+      "EN": " is caught in a gym net!",
+      "Translation": " is caught in a gym net!"
+    },
+    {
+      "JP": "は虎模様のペルシャじゅうたんに包まれた！",
+      "EN": " is wrapped in a tiger-patterned Persian carpet!",
+      "Translation": " is wrapped in a tiger-patterned Persian carpet!"
+    },
+    {
+      "JP": "地震攻撃！　",
+      "EN": "Earthquake Attack! ",
+      "Translation": "Earthquake Attack! "
+    },
+    {
+      "JP": "侵入成功！　",
+      "EN": "Invasion successful! ",
+      "Translation": "Invasion successful! "
+    },
+    {
+      "JP": "に$V(#20002)のダメージ！",
+      "EN": " takes $v(#20002) damage!",
+      "Translation": " takes $v(#20002) damage!"
+    },
+    {
+      "JP": "に$V(#20002)田中ダメージ！",
+      "EN": " takes $v(#20002) Tanaka damage!",
+      "Translation": " takes $v(#20002) Tanaka damage!"
+    },
+    {
+      "JP": "に$V(#20002)斉藤ダメージ！",
+      "EN": " takes $v(#20002) Saito damage!",
+      "Translation": " takes $v(#20002) Saito damage!"
+    },
+    {
+      "JP": "しゅこしゅこ！　",
+      "EN": "Shuko shuko! ",
+      "Translation": "Shuko shuko! "
+    },
+    {
+      "JP": "勝負あり！　",
+      "EN": "The battle is over! ",
+      "Translation": "The battle is over! "
+    },
+    {
+      "JP": "は毛布に包まれた！",
+      "EN": " is wrapped in the blanket!",
+      "Translation": " is wrapped in the blanket!"
+    },
+    {
+      "JP": "は体育館のネットに包まれた！",
+      "EN": " is caught in the gym net!",
+      "Translation": " is caught in the gym net!"
+    },
+    {
+      "JP": "は虎模様のペルシャじゅうたんに包まれた！",
+      "EN": " is wrapped in the tiger-patterned Persian carpet!",
+      "Translation": " is wrapped in the tiger-patterned Persian carpet!"
+    },
+    {
+      "JP": "地震攻撃！　",
+      "EN": "Earthquake Attack! ",
+      "Translation": "Earthquake Attack! "
+    },
+    {
+      "JP": "侵入成功！　",
+      "EN": "Invasion successful! ",
+      "Translation": "Invasion successful! "
+    },
+    {
+      "JP": "は倒れた！",
+      "EN": " has fallen!",
+      "Translation": " has fallen!"
+    },
+    {
+      "JP": "は倒れた！",
+      "EN": " has fallen!",
+      "Translation": " has fallen!"
+    },
+    {
+      "JP": "は$(6,0)のコツを覚えた！",
+      "EN": " has learned the $(6,1) trick!",
+      "Translation": " has learned the $(6,1) trick!"
+    }
+  ]
+}

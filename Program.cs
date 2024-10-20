@@ -38,7 +38,7 @@
 
         static void Main(string[] args)
         {
-            Directory.SetCurrentDirectory(Path.GetDirectoryName(Environment.ProcessPath!)!);
+            //Directory.SetCurrentDirectory(Path.GetDirectoryName(Environment.ProcessPath!)!);
             if(args.Length>0)
             {
                 string LBEE_Exe = args[0];

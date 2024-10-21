@@ -3404,7 +3404,7 @@
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "被拒绝了…"
+      "Translation": "………。"
     },
     {
       "JP": "`鈴@『…こちら、鈴。任務失敗』",
@@ -3449,17 +3449,17 @@
     {
       "JP": "`理樹@「よくないってっ」",
       "EN": "`Riki@❝It's not okay!❞",
-      "Translation": "`理树@「这样不行啊」"
+      "Translation": "`理树@「那个不行」"
     },
     {
       "JP": "`恭介@「じゃ、あえてもっと離れてみようか…」",
       "EN": "`Kyousuke@❝Then, let's make a major change...❞",
-      "Translation": "`恭介@「接下来，就需要改变战术了…」"
+      "Translation": "`恭介@「那么，先稍微离远一点…」"
     },
     {
       "JP": "`恭介@「こんなのはどうだ」",
       "EN": "`Kyousuke@❝How about this?❞",
-      "Translation": "`恭介@「这样如何？」"
+      "Translation": "`恭介@「这句怎么样」"
     },
     {
       "JP": "`恭介@「代打バース」",
@@ -3469,22 +3469,22 @@
     {
       "JP": "`理樹@「いや、ぜんぜん聞こえないけど」",
       "EN": "`Riki@❝Ah, that sounds totally different.❞",
-      "Translation": "`理树@「啊，那听起来完全不一样啊」"
+      "Translation": "`理树@「不，根本听不出来」"
     },
     {
       "JP": "`恭介@「こう、うつむき加減で言ってみろ…代打バースっ…」",
       "EN": "`Kyousuke@❝Cast your eyes down as you say it... Daida basu...❞",
-      "Translation": "`恭介@「低头向下看，然后说…代打巴斯…」"
+      "Translation": "`恭介@「喂，低着头这样说…代打巴斯…」"
     },
     {
       "JP": "`真人@「む…確かに…なんか挨拶されてる気分になるな…」",
       "EN": "`Masato@❝Oh... it feels like you're greeting...❞",
-      "Translation": "`真人@「唔…确实…感觉好像是在打招呼…」"
+      "Translation": "`真人@「嗯…确实…有点正在打招呼的感觉…」"
     },
     {
       "JP": "`理樹@「そんなの頭下げてるからじゃんっ」",
       "EN": "`Riki@❝That's only because he made a bow.❞",
-      "Translation": "`理树@「那完全是因为他低着头啊」"
+      "Translation": "`理树@「那不是只是在低头吗」"
     },
     {
       "JP": "`鈴@『それでいいのか？』",
@@ -3524,972 +3524,972 @@
     {
       "JP": "`鈴@『代打バース』",
       "EN": "`Rin@[Daida basu.]",
-      "Translation": "`Kyousuke@❝Cast your eyes down as you say it... Daida basu...❞"
+      "Translation": "`铃@『代打巴斯…』"
     },
     {
       "JP": "…ほんとに言ってる。",
       "EN": "...She said it.",
-      "Translation": "`Masato@❝Oh... it feels like you're greeting...❞"
+      "Translation": "…她真的这么说了"
     },
     {
       "JP": "`女生徒@『え、なに？』",
       "EN": "`Female Student@[Eh? What?]",
-      "Translation": "`Riki@❝That's only because he made a bow.❞"
+      "Translation": "`女生@『唉？什么？』"
     },
     {
       "JP": "聞き返されてる…。",
       "EN": "No wonder she failed to catch it...",
-      "Translation": "`Rin@[Can I go ahead?]"
+      "Translation": "也难怪她没理解是什么意思…"
     },
     {
       "JP": "`鈴@『代打バース』",
       "EN": "`Rin@[Daida basu.]",
-      "Translation": "`Rin@[Do it yourself!]"
+      "Translation": "`铃@『代打巴斯』"
     },
     {
       "JP": "繰り返してる…。",
       "EN": "She repeated...",
-      "Translation": "She refused again..."
+      "Translation": "又被拒绝了…"
     },
     {
       "JP": "`女生徒@『え…は、はぁ』",
       "EN": "`Female Student@[Eh... o, okay.]",
-      "Translation": "`Rin@[I don't want to.]"
+      "Translation": "`女生@『呃…好，好的…』"
     },
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "She refused..."
+      "Translation": "………。"
     },
     {
       "JP": "`鈴@『…こちら、鈴。任務失敗』",
       "EN": "`Rin@[...This is Rin. Mission Failed.]",
-      "Translation": "`Rin@[Understood.]"
+      "Translation": "`铃@『…这里是铃。任务失败』"
     },
     {
       "JP": "`理樹@「うわちゃー」",
       "EN": "`Riki@❝Oh my god.❞",
-      "Translation": "`Riki@❝Wow.❞"
+      "Translation": "`理树@「呜哇—」"
     },
     {
       "JP": "`恭介@「ちっ、表現力が足りなかったか…」",
       "EN": "`Kyousuke@❝Dammit, we need more imagination.❞",
-      "Translation": "`Rin@[Daida basu.]"
+      "Translation": "`恭介@「啧，表现力不够吗…」"
     },
     {
       "JP": "`理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
       "EN": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞",
-      "Translation": "...She said it."
+      "Translation": "`理树@「我感觉问题不在这里。现在我们怎么办？」"
     },
     {
       "JP": "`声@『あら、棗さん、新しい遊び？』",
       "EN": "`Voice@[Ah, Natsume-san, a new game?]",
-      "Translation": "`Female Student@[Eh? What?]"
+      "Translation": "`声音@『咦，棗同学，这是什么新游戏？』"
     },
     {
       "JP": "新しい声が聞こえる。",
       "EN": "We heard a new voice.",
-      "Translation": "No wonder she failed to catch it..."
+      "Translation": "我听到了新的说话声。"
     },
     {
       "JP": "`鈴@『代打バース』",
       "EN": "`Rin@[Daida basu.]",
-      "Translation": "`Rin@[Daida basu.]"
+      "Translation": "`铃@『代打巴斯』"
     },
     {
       "JP": "`理樹@「まだ言ってるよ…」",
       "EN": "`Riki@❝She's still saying it...❞",
-      "Translation": "She repeated..."
+      "Translation": "`理树@「她还在重复呢…」"
     },
     {
       "JP": "`理樹@「よくないってっ」",
       "EN": "`Riki@❝It's not okay!❞",
-      "Translation": "`Female Student@[Eh... o, okay.]"
+      "Translation": "`理树@「那个不行」"
     },
     {
       "JP": "`真人@「うるせぇ先生様だな…」",
       "EN": "`Masato@❝You're nitpicking like a teacher...❞",
-      "Translation": "........."
+      "Translation": "`真人@「斤斤计较呢…」"
     },
     {
       "JP": "`真人@「じゃあ、これで文句ねぇだろう」",
       "EN": "`Masato@❝Okay, how about this?❞",
-      "Translation": "`Rin@[...This is Rin. Mission Failed.]"
+      "Translation": "`真人@「那么，这句总没有意见了吧」"
     },
     {
       "JP": "`真人@「おれ斉藤っす」",
       "EN": "`Masato@❝Ore Saitou ssu (I'm Saito).❞ ",
-      "Translation": "`Riki@❝Oh my god.❞"
+      "Translation": "`真人@「俺叫齐藤」"
     },
     {
       "JP": "`理樹@「いや、斉藤じゃないし…」",
       "EN": "`Riki@❝She's not Saito...❞",
-      "Translation": "`Kyousuke@❝Dammit, we need more imagination.❞"
+      "Translation": "`理树@「不对，她不叫齐藤啊…」"
     },
     {
       "JP": "`真人@「早口で言ってみろ。おれ斉藤っす。ほら、なんとなくおはようございますって聞こえるだろ」",
       "EN": "`Masato@❝Say it quickly. It'll definitely sound like ❛ohayou gozaimasu.❜❞",
-      "Translation": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞"
+      "Translation": "`真人@「讲快点看看。俺叫齐藤。你看，不是听起来有点像您早上好吗」"
     },
     {
       "JP": "`鈴@『それでいいのか？』",
       "EN": "`Rin@[Can I go ahead?]",
-      "Translation": "`Voice@[Ah, Natsume-san, a new game?]"
+      "Translation": "`铃@『这句话可以吗？』"
     },
     {
       "JP": "`鈴@『あほかっ』",
       "EN": "`Rin@[No way.]",
-      "Translation": "We heard a new voice."
+      "Translation": "`铃@『不要』"
     },
     {
       "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
-      "Translation": "`Rin@[Daida basu.]"
+      "Translation": "呜哇…又被拒绝了…"
     },
     {
       "JP": "`鈴@『いいわけあるかっ』",
       "EN": "`Rin@[Do it yourself!]",
-      "Translation": "`Riki@❝She's still saying it...❞"
+      "Translation": "`铃@『你自己上吧』"
     },
     {
       "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
-      "Translation": "`Riki@❝It's not okay!❞"
+      "Translation": "被拒绝了…"
     },
     {
       "JP": "`鈴@『こっちはやじゃっ』",
       "EN": "`Rin@[I don't want to.]",
-      "Translation": "`Masato@❝You're nitpicking like a teacher...❞"
+      "Translation": "`铃@『我不要』"
     },
     {
       "JP": "うわ…抵抗された…。",
       "EN": "She refused...",
-      "Translation": "`Masato@❝Okay, how about this?❞"
+      "Translation": "呜哇…被拒绝了…"
     },
     {
       "JP": "`鈴@『了解』",
       "EN": "`Rin@[Understood.]",
-      "Translation": "`Masato@❝Ore Saitou ssu (I'm Saito).❞ "
+      "Translation": "`铃@『了解』"
     },
     {
       "JP": "`理樹@「わあ」",
       "EN": "`Riki@❝Wow.❞",
-      "Translation": "`Riki@❝She's not Saito...❞"
+      "Translation": "`理树@「哇哦」"
     },
     {
       "JP": "`鈴@『おれ斉藤っす』",
       "EN": "`Rin@[Ore Saitou ssu.]",
-      "Translation": "`Masato@❝Say it quickly. It'll definitely sound like ❛ohayou gozaimasu.❜❞"
+      "Translation": "`铃@『我是齐藤』"
     },
     {
       "JP": "…ほんとに言ってる。",
       "EN": "...She really said it.",
-      "Translation": "`Rin@[Can I go ahead?]"
+      "Translation": "…她真的这么说了"
     },
     {
       "JP": "`女生徒@『え、棗さん、どうしたの…』",
       "EN": "`Female Student@[Sorry, what did you say, Natsume-san?]",
-      "Translation": "`Rin@[No way.]"
+      "Translation": "`女生@『诶，棗同学，你说什么？』"
     },
     {
       "JP": "聞き返されてる…。",
       "EN": "No wonder she failed to catch it.",
-      "Translation": "She refused again..."
+      "Translation": "也难怪她没理解是什么意思…"
     },
     {
       "JP": "`鈴@『おれ斉藤っす』",
       "EN": "`Rin@[Ore Saitou ssu.]",
-      "Translation": "`Rin@[Do it yourself!]"
+      "Translation": "`铃@『我是齐藤』"
     },
     {
       "JP": "繰り返してる…。",
       "EN": "She repeated...",
-      "Translation": "She refused again..."
+      "Translation": "她又重复了一遍…"
     },
     {
       "JP": "`女生徒@『え…は、はぁ』",
       "EN": "`Female Student@[Eh... o, okay.]",
-      "Translation": "`Rin@[I don't want to.]"
+      "Translation": "`女生@『呃…好，好的…』"
     },
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "She refused..."
+      "Translation": "………。"
     },
     {
       "JP": "`鈴@『…こちら、鈴。任務失敗』",
       "EN": "`Rin@[This is Rin. Mission Failed.]",
-      "Translation": "`Rin@[Understood.]"
+      "Translation": "`铃@『…这里是铃。任务失败』"
     },
     {
       "JP": "`理樹@「うわちゃー」",
       "EN": "`Riki@❝Oh my god.❞",
-      "Translation": "`Riki@❝Wow.❞"
+      "Translation": "`理树@「呜哇—」"
     },
     {
       "JP": "`真人@「ちっ、相手は素人だったかっ」",
       "EN": "`Masato@❝Dammit, she must be an amateur.❞",
-      "Translation": "`Rin@[Ore Saitou ssu.]"
+      "Translation": "`真人@「啧，对方真是个外行」"
     },
     {
       "JP": "`理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
       "EN": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞",
-      "Translation": "...She really said it."
+      "Translation": "`理树@「我感觉问题不在这里。现在我们怎么办？」"
     },
     {
       "JP": "`声@『あら、棗さん、新しい遊び？』",
       "EN": "`Voice@[Ah, Natsume-san, a new game?]",
-      "Translation": "`Female Student@[Sorry, what did you say, Natsume-san?]"
+      "Translation": "`声音@『咦，棗同学，这是什么新游戏？』"
     },
     {
       "JP": "新しい声が聞こえる。",
       "EN": "We heard a new voice.",
-      "Translation": "No wonder she failed to catch it."
+      "Translation": "我听到了新的说话声。"
     },
     {
       "JP": "`鈴@『おれ斉藤っす』",
       "EN": "`Rin@[Ore Saitou ssu.]",
-      "Translation": "`Rin@[Ore Saitou ssu.]"
+      "Translation": "`铃@『我是齐藤』"
     },
     {
       "JP": "`理樹@「まだ言ってるよ…」",
       "EN": "`Riki@❝She said it again...❞",
-      "Translation": "She repeated..."
+      "Translation": "`理树@「她又说了一遍…」"
     },
     {
       "JP": "`理樹@「よくないってっ」",
       "EN": "`Riki@❝It's not okay!❞",
-      "Translation": "`Female Student@[Eh... o, okay.]"
+      "Translation": "`理树@「那个不行」"
     },
     {
       "JP": "`恭介@「むしろ、相手に向けてだな…」",
       "EN": "`Kyousuke@❝Try thinking in reverse...❞",
-      "Translation": "........."
+      "Translation": "`恭介@「要不然，面对对方这样说…」"
     },
     {
       "JP": "`恭介@「おまえ斉藤っす」",
       "EN": "`Kyousuke@❝Omae Saitou ssu (You're Saito).❞",
-      "Translation": "`Rin@[This is Rin. Mission Failed.]"
+      "Translation": "`恭介@「你是齐藤」"
     },
     {
       "JP": "`恭介@「どうだ？」",
       "EN": "`Kyousuke@❝How's that?❞",
-      "Translation": "`Riki@❝Oh my god.❞"
+      "Translation": "`恭介@「怎样？」"
     },
     {
       "JP": "`真人@「すげぇ聞こえるぜ…」",
       "EN": "`Masato@❝Incredible...❞",
-      "Translation": "`Masato@❝Dammit, she must be an amateur.❞"
+      "Translation": "`真人@「听起来真不错…」"
     },
     {
       "JP": "`理樹@「いやいやいや…」",
       "EN": "`Riki@❝No, no, no...❞",
-      "Translation": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞"
+      "Translation": "`理树@「不对不对不对…」"
     },
     {
       "JP": "`鈴@『それでいいのか？』",
       "EN": "`Rin@[Can I go ahead?]",
-      "Translation": "`Voice@[Ah, Natsume-san, a new game?]"
+      "Translation": "`铃@『这句话可以吗？』"
     },
     {
       "JP": "`鈴@『んなわけあるかっ』",
       "EN": "`Rin@[Get real!]",
-      "Translation": "We heard a new voice."
+      "Translation": "`铃@『怎么可能』"
     },
     {
       "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
-      "Translation": "`Rin@[Ore Saitou ssu.]"
+      "Translation": "呜哇…被拒绝了…"
     },
     {
       "JP": "`鈴@『あほかっ』",
       "EN": "`Rin@[No way.]",
-      "Translation": "`Riki@❝She said it again...❞"
+      "Translation": "`铃@『不要』"
     },
     {
       "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
-      "Translation": "`Riki@❝It's not okay!❞"
+      "Translation": "呜哇…又被拒绝了…"
     },
     {
       "JP": "`鈴@『いいわけあるかっ』",
       "EN": "`Rin@[Do it yourself!]",
-      "Translation": "`Kyousuke@❝Try thinking in reverse...❞"
+      "Translation": "`铃@『你自己上吧』"
     },
     {
       "JP": "うわ…また抵抗された…。",
       "EN": "She refused again...",
-      "Translation": "`Kyousuke@❝Omae Saitou ssu (You're Saito).❞"
+      "Translation": "呜哇…又被拒绝了…"
     },
     {
       "JP": "`鈴@『こっちはやじゃっ』",
       "EN": "`Rin@[No, I don't want to.]",
-      "Translation": "`Kyousuke@❝How's that?❞"
+      "Translation": "`铃@『我不要』"
     },
     {
       "JP": "うわ…抵抗された…。",
       "EN": "She refused...",
-      "Translation": "`Masato@❝Incredible...❞"
+      "Translation": "呜哇…又被拒绝了…"
     },
     {
       "JP": "`真人@「うるせぇ先生様だな…」",
       "EN": "`Masato@❝You're nitpicking like a teacher...❞",
-      "Translation": "`Riki@❝No, no, no...❞"
+      "Translation": "`真人@「斤斤计较呢…」"
     },
     {
       "JP": "`真人@「じゃあ、自分で考えろよ」",
       "EN": "`Masato@❝Think of one yourself then.❞",
-      "Translation": "`Rin@[Can I go ahead?]"
+      "Translation": "`真人@「那么、你来想吧」"
     },
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "`Rin@[Get real!]"
+      "Translation": "………。"
     },
     {
       "JP": "黙り込む鈴。",
       "EN": "Rin went silent.",
-      "Translation": "She refused again..."
+      "Translation": "铃沉默了。"
     },
     {
       "JP": "おはようございます、に近い語感を持つ別の言葉か…。",
       "EN": "A phrase that's close to ❛ohayou gozaimasu❜...",
-      "Translation": "`Rin@[No way.]"
+      "Translation": "别的听起来与您早上好感觉相近的词汇…。"
     },
     {
       "JP": "僕も考えてみる。",
       "EN": "I tried to come up with one.",
-      "Translation": "She refused again..."
+      "Translation": "我也试着思考一下。"
     },
     {
       "JP": "`鈴@『了解』",
       "EN": "`Rin@[Understood.]",
-      "Translation": "`Rin@[Do it yourself!]"
+      "Translation": "`铃@『了解』"
     },
     {
       "JP": "`理樹@「わあ」",
       "EN": "`Riki@❝Wow.❞",
-      "Translation": "She refused again..."
+      "Translation": "`理树@「哇哦」"
     },
     {
       "JP": "`鈴@『おまえ斉藤っす』",
       "EN": "`Rin@[Omae Saitou ssu.]",
-      "Translation": "`Rin@[No, I don't want to.]"
+      "Translation": "`铃@『你是齐藤』"
     },
     {
       "JP": "…ほんとに言ってる。",
       "EN": "She really said it...",
-      "Translation": "She refused..."
+      "Translation": "…她真的这么说了"
     },
     {
       "JP": "`女生徒@『え、違うけど…何か？』",
       "EN": "`Female Student@[Eh, I'm not... What's the matter?]",
-      "Translation": "`Masato@❝You're nitpicking like a teacher...❞"
+      "Translation": "`女生@『呃，我不是…有什么事吗？』"
     },
     {
       "JP": "聞き返されてる…。",
       "EN": "No wonder she didn't get it...",
-      "Translation": "`Masato@❝Think of one yourself then.❞"
+      "Translation": "也难怪她没理解是什么意思…"
     },
     {
       "JP": "`鈴@『おまえ斉藤っす』",
       "EN": "`Rin@[Omae Saitou ssu.]",
-      "Translation": "........."
+      "Translation": "`铃@『你是齐藤』"
     },
     {
       "JP": "繰り返してる…。",
       "EN": "She repeated...",
-      "Translation": "Rin went silent."
+      "Translation": "她又重复了一遍…"
     },
     {
       "JP": "`女生徒@『え…は、はぁ』",
       "EN": "`Female Student@[Eh... o, okay.]",
-      "Translation": "A phrase that's close to ❛ohayou gozaimasu❜..."
+      "Translation": "`女生@『呃…好，好的…』"
     },
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "I tried to come up with one."
+      "Translation": "………。"
     },
     {
       "JP": "`鈴@『…こちら、鈴。任務失敗』",
       "EN": "`Rin@[...This is Rin. Mission Failed.]",
-      "Translation": "`Rin@[Understood.]"
+      "Translation": "`铃@『…这里是铃。任务失败』"
     },
     {
       "JP": "`理樹@「うわちゃー」",
       "EN": "`Riki@❝Oh my god.❞",
-      "Translation": "`Riki@❝Wow.❞"
+      "Translation": "`理树@「呜哇—」"
     },
     {
       "JP": "`真人@「ちっ、相手は素人だったかっ」",
       "EN": "`Masato@❝Dammit, she must be an amateur.❞",
-      "Translation": "`Rin@[Omae Saitou ssu.]"
+      "Translation": "`真人@「啧，对方真是个外行」"
     },
     {
       "JP": "`理樹@「もうそういう問題じゃなかったと思うけど、どうすんのさ」",
       "EN": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞",
-      "Translation": "She really said it..."
+      "Translation": "`理树@「我感觉问题不在这里。现在我们怎么办？」"
     },
     {
       "JP": "`声@『あら、棗さん、新しい遊び？』",
       "EN": "`Voice@[Ah, Natsume-san, a new game?]",
-      "Translation": "`Female Student@[Eh, I'm not... What's the matter?]"
+      "Translation": "`声音@『咦，棗同学，这是什么新游戏？』"
     },
     {
       "JP": "新しい声が聞こえる。",
       "EN": "We heard a new voice.",
-      "Translation": "No wonder she didn't get it..."
+      "Translation": "我听到了新的说话声。"
     },
     {
       "JP": "`鈴@『おまえ斉藤っす』",
       "EN": "`Rin@[Omae Saitou ssu.]",
-      "Translation": "`Rin@[Omae Saitou ssu.]"
+      "Translation": "`铃@『你是齐藤』"
     },
     {
       "JP": "`理樹@「まだ言ってるよ…」",
       "EN": "`Riki@❝She's still saying it...❞",
-      "Translation": "She repeated..."
+      "Translation": "`理树@「她又说了一遍…」"
     },
     {
       "JP": "`理樹@「よくないってっ」",
       "EN": "`Riki@❝It's not okay!❞",
-      "Translation": "`Female Student@[Eh... o, okay.]"
+      "Translation": "`理树@「那个不行」"
     },
     {
       "JP": "`真人@「うるせぇ先生様だな…」",
       "EN": "`Masato@❝You're nitpicking like a teacher...❞",
-      "Translation": "........."
+      "Translation": "`真人@「斤斤计较呢…」"
     },
     {
       "JP": "`真人@「じゃあ、てめぇが考えろよ」",
       "EN": "`Masato@❝Then you think of one!❞",
-      "Translation": "`Rin@[...This is Rin. Mission Failed.]"
+      "Translation": "`真人@「那么、你来想吧」"
     },
     {
       "JP": "`理樹@「うーん…」",
       "EN": "`Riki@❝Okay...❞",
-      "Translation": "`Riki@❝Oh my god.❞"
+      "Translation": "`理树@「唔嗯…」"
     },
     {
       "JP": "おはようございます、に近い語感を持つ別の言葉か…",
       "EN": "A phrase that's close to ❛ohayou gozaimasu❜...",
-      "Translation": "`Masato@❝Dammit, she must be an amateur.❞"
+      "Translation": "别的听起来与您早上好感觉相近的词汇…。"
     },
     {
       "JP": "おにぎりをパンに挟みます…",
       "EN": "How about ❛onigiri wo pan ni hasamimasu (I put rice balls between slices of bread)❜...?",
-      "Translation": "`Riki@❝I don't think that was the problem. What're we gonna do now?❞"
+      "Translation": "饭团夹进面包里…"
     },
     {
       "JP": "それを早口で…",
       "EN": "Maybe it'd work...",
-      "Translation": "`Voice@[Ah, Natsume-san, a new game?]"
+      "Translation": "然后迅速解决掉…"
     },
     {
       "JP": "`理樹@「って、何真面目に考え始めてんだっ、ていうか、そもそもおはようございますもおかしいし、普通にこんばんはでいいじゃんかっ」",
       "EN": "`Riki@❝Hey, what am I thinking!? It's not the time to be saying ❛good morning,❜ so why not use a normal 'good evening'?❞",
-      "Translation": "We heard a new voice."
+      "Translation": "`理树@「喂，我怎么认真开始想了，或者说，说您早上好什么的就够奇怪了，普通的说句晚上好不就行了」"
     },
     {
       "JP": "`真人@「えぇー？」",
       "EN": "`Masato@❝Eh～!?❞",
-      "Translation": "`Rin@[Omae Saitou ssu.]"
+      "Translation": "`真人@「唉—？」"
     },
     {
       "JP": "`理樹@「なんだよ、その、こいつ感じわり～、みたいな目はっ」",
       "EN": "`Riki@❝What? What's with that creepy look you're giving me!?❞",
-      "Translation": "`Riki@❝She's still saying it...❞"
+      "Translation": "`理树@「什么啊，那个，这家伙真差劲～，之类的绝对不行」"
     },
     {
       "JP": "`理樹@「そもそも、鈴と仲良くできるような子を誘うなら、へんに気取るより、普通に挨拶したほうがいいっての」",
       "EN": "`Riki@❝Since we're looking for someone Rin can get along with in the first place, wouldn't it be best if she just greets her the way she normally does?❞",
-      "Translation": "`Riki@❝It's not okay!❞"
+      "Translation": "`理树@「而且，要想邀请能和铃合得来的女生的话，比起搞怪，普通的打个招呼不就行了」"
     },
     {
       "JP": "`恭介@「む…そうだな」",
       "EN": "`Kyousuke@❝Maybe... you're right.❞",
-      "Translation": "`Masato@❝You're nitpicking like a teacher...❞"
+      "Translation": "`恭介@「嗯…是呢」"
     },
     {
       "JP": "`恭介@「その通りだ、理樹。ありがとよ」",
       "EN": "`Kyousuke@❝You're right, Riki. Thanks.❞",
-      "Translation": "`Masato@❝Then you think of one!❞"
+      "Translation": "`恭介@「正是如此啊，理树。谢谢了」"
     },
     {
       "JP": "`真人@「………」",
       "EN": "`Masato@❝.........❞",
-      "Translation": "`Riki@❝Okay...❞"
+      "Translation": "`真人@「………」"
     },
     {
       "JP": "`真人@「おまえ、鈴のこと好きなのか？」",
       "EN": "`Masato@❝You... do you like Rin or something?❞",
-      "Translation": "A phrase that's close to ❛ohayou gozaimasu❜..."
+      "Translation": "`真人@「你这家伙，喜欢铃吗？」"
     },
     {
       "JP": "`理樹@「関係ないでしょっ」",
       "EN": "`Riki@❝It doesn't matter!❞",
-      "Translation": "How about ❛onigiri wo pan ni hasamimasu (I put rice balls between slices of bread)❜...?"
+      "Translation": "`理树@「与那个没关系吧」"
     },
     {
       "JP": "`鈴@『え？　理樹はあたしが好きなのか？』",
       "EN": "`Rin@[Eh? Riki likes me?]",
-      "Translation": "Maybe it'd work..."
+      "Translation": "`铃@『唉？理树喜欢我吗？』"
     },
     {
       "JP": "`理樹@「しかも聞こえちゃってるよ!!」",
       "EN": "`Riki@❝She heard us!!❞",
-      "Translation": "`Riki@❝Hey, what am I thinking!? It's not the time to be saying ❛good morning,❜ so why not use a normal 'good evening'?❞"
+      "Translation": "`理树@「而且还被听到了啊！！」"
     },
     {
       "JP": "`恭介@「オーケー、余興はここまでだ」",
       "EN": "`Kyousuke@❝Okay, let's get serious.❞",
-      "Translation": "`Masato@❝Eh～!?❞"
+      "Translation": "`恭介@「ＯＫ，余兴节目就到此为止了」"
     },
     {
       "JP": "`恭介@「さ、鈴。いけ。素直にこんばんはだ」",
       "EN": "`Kyousuke@❝Rin, go ahead. Say ❛Good evening.❜❞",
-      "Translation": "`Riki@❝What? What's with that creepy look you're giving me!?❞"
+      "Translation": "`恭介@「那么，铃。上吧。直接说句晚上好」"
     },
     {
       "JP": "`鈴@『了解』",
       "EN": "`Rin@[Understood.]",
-      "Translation": "`Riki@❝Since we're looking for someone Rin can get along with in the first place, wouldn't it be best if she just greets her the way she normally does?❞"
+      "Translation": "`铃@『了解』"
     },
     {
       "JP": "`鈴@『こんばんは』",
       "EN": "`Rin@[Good evening.]",
-      "Translation": "`Kyousuke@❝Maybe... you're right.❞"
+      "Translation": "`铃@『晚上好』"
     },
     {
       "JP": "`女生徒@『こんばんは』",
       "EN": "`Female Student@[Good evening.]",
-      "Translation": "`Kyousuke@❝You're right, Riki. Thanks.❞"
+      "Translation": "`女生@『晚上好』"
     },
     {
       "JP": "`鈴@『………』",
       "EN": "`Rin@[.........]",
-      "Translation": "`Masato@❝.........❞"
+      "Translation": "`铃@『………』"
     },
     {
       "JP": "`鈴@『…つぎは？』",
       "EN": "`Rin@[...Now what?]",
-      "Translation": "`Masato@❝You... do you like Rin or something?❞"
+      "Translation": "`铃@『…接下来呢？』"
     },
     {
       "JP": "`恭介@「もちろん勧誘だ、野球のな」",
       "EN": "`Kyousuke@❝Ask her if she's interested in baseball.❞",
-      "Translation": "`Riki@❝It doesn't matter!❞"
+      "Translation": "`恭介@「当然是棒球的劝诱啊」"
     },
     {
       "JP": "`鈴@『…野球に興味はないか』",
       "EN": "`Rin@[...Are you interested in baseball?]",
-      "Translation": "`Rin@[Eh? Riki likes me?]"
+      "Translation": "`铃@『…对棒球有兴趣吗』"
     },
     {
       "JP": "`女生徒@『え…？　棗さんはあるの？』",
       "EN": "`Female Student@[Eh...? How about you, Natsume-san?]",
-      "Translation": "`Riki@❝She heard us!!❞"
+      "Translation": "`女生@『唉…？棗同学你有吗？』"
     },
     {
       "JP": "`鈴@『ちょっとはあるな』",
       "EN": "`Rin@[Yes, a little bit.]",
-      "Translation": "`Kyousuke@❝Okay, let's get serious.❞"
+      "Translation": "`铃@『…没有』"
     },
     {
       "JP": "`真人@「ちょっとかよっ、むちゃくちゃあるにしとけよっ」",
       "EN": "`Masato@❝A little bit? Say ❛I'm absolutely and ridiculously into it.❜❞",
-      "Translation": "`Kyousuke@❝Rin, go ahead. Say ❛Good evening.❜❞"
+      "Translation": "`真人@「喂，这里应该说有吧」"
     },
     {
       "JP": "`鈴@『…嘘はつけない』",
       "EN": "`Rin@[...I don't wanna lie.]",
-      "Translation": "`Rin@[Understood.]"
+      "Translation": "`铃@『…不能说谎』"
     },
     {
       "JP": "`真人@「じゃあ、別のことで興味を引くしかないな…」",
       "EN": "`Masato@❝Okay. Let's change the subject...❞",
-      "Translation": "`Rin@[Good evening.]"
+      "Translation": "`真人@「那么，只有从别的兴趣开始下手了…」"
     },
     {
       "JP": "`真人@「そうだな…己をひたすら鍛錬すること…つまり筋肉に興味はないか？」",
       "EN": "`Masato@❝Lemme see... Rin, ask her if she's interested in training herself... in other words, muscles.❞",
-      "Translation": "`Female Student@[Good evening.]"
+      "Translation": "`真人@「是这样呢…对自己进行锻炼…也就是说对肌肉有兴趣吗？」"
     },
     {
       "JP": "`鈴@『んなもんおまえだけじゃ、ぼけー』",
       "EN": "`Rin@[You're the only sad idiot who's interested in that!]",
-      "Translation": "`Rin@[.........]"
+      "Translation": "`铃@『有兴趣的只有你一个人吧，白痴—』"
     },
     {
       "JP": "ツッコミが返ってくる。",
       "EN": "She returned the insult.",
-      "Translation": "`Rin@[...Now what?]"
+      "Translation": "被吐槽了。"
     },
     {
       "JP": "`女生徒@『え…私も野球に興味なんてないですけど…』",
       "EN": "`Female Student@[Eh... but I'm not really interested in baseball...]",
-      "Translation": "`Kyousuke@❝Ask her if she's interested in baseball.❞"
+      "Translation": "`女生@『唉…我也对棒球没有兴趣…』"
     },
     {
       "JP": "`理樹@「うわ、なんか誤解されてるよ…」",
       "EN": "`Riki@❝Uwa, what a misunderstanding...❞",
-      "Translation": "`Rin@[...Are you interested in baseball?]"
+      "Translation": "`理树@「呜哇，好像是被误解了哦…」"
     },
     {
       "JP": "`女生徒@『それじゃあ、いくね…』",
       "EN": "`Female Student@[I have to go. See you...]",
-      "Translation": "`Female Student@[Eh...? How about you, Natsume-san?]"
+      "Translation": "`女生@『那么，我走了…』"
     },
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "`Rin@[Yes, a little bit.]"
+      "Translation": "………。"
     },
     {
       "JP": "`鈴@『こら、おまえのせいで失敗したろーっ』",
       "EN": "`Rin@[Hey, she's gone. It's all your fault!]",
-      "Translation": "`Masato@❝A little bit? Say ❛I'm absolutely and ridiculously into it.❜❞"
+      "Translation": "`铃@『喂，都是你的错所以失败了吧』"
     },
     {
       "JP": "`理樹@「あーあ、もったいない…」",
       "EN": "`Riki@❝Ah, what a waste...❞",
-      "Translation": "`Rin@[...I don't wanna lie.]"
+      "Translation": "`理树@「啊啊，真可惜…」"
     },
     {
       "JP": "`恭介@「おまえ、俺の妹をヘンな子に仕立て上げるんじゃねぇ」",
       "EN": "`Kyousuke@❝Hey! Are you trying to make my little sister look like a weirdo?❞",
-      "Translation": "`Masato@❝Okay. Let's change the subject...❞"
+      "Translation": "`恭介@「你这家伙，是想将我的妹妹塑造成奇怪的孩子吗」"
     },
     {
       "JP": "`鈴@『…ない』",
       "EN": "`Rin@[...No.]",
-      "Translation": "`Masato@❝Lemme see... Rin, ask her if she's interested in training herself... in other words, muscles.❞"
+      "Translation": "`铃@『…没有』"
     },
     {
       "JP": "`真人@「こらっ、そこはある、だろっ」",
       "EN": "`Masato@❝Hey, say ❛yes❜!❞",
-      "Translation": "`Rin@[You're the only sad idiot who's interested in that!]"
+      "Translation": "`真人@「喂，这里应该说有吧」"
     },
     {
       "JP": "`鈴@『…嘘はつけない』",
       "EN": "`Rin@[...I don't wanna lie.]",
-      "Translation": "She returned the insult."
+      "Translation": "`铃@『…不能说谎』"
     },
     {
       "JP": "`真人@「じゃあ、別のことで興味を引くしかないな…」",
       "EN": "`Masato@❝Okay. Let's change the subject...❞",
-      "Translation": "`Female Student@[Eh... but I'm not really interested in baseball...]"
+      "Translation": "`真人@「那就只能用别的东西引起兴趣了…」"
     },
     {
       "JP": "`真人@「そうだな…己をひたすら鍛錬すること…つまり筋肉に興味はないか？」",
       "EN": "`Masato@❝Lemme see... Rin, ask her if she's interested in training herself... in other words, muscles.❞",
-      "Translation": "`Riki@❝Uwa, what a misunderstanding...❞"
+      "Translation": "`真人@「是这样呢…对自己进行锻炼…也就是说对肌肉有兴趣吗？」"
     },
     {
       "JP": "`鈴@『んなもんおまえだけじゃ、ぼけー』",
       "EN": "`Rin@[You're the only sad idiot who's interested in that!]",
-      "Translation": "`Female Student@[I have to go. See you...]"
+      "Translation": "`铃@『有兴趣的只有你一个人吧，白痴—』"
     },
     {
       "JP": "ツッコミが返ってくる。",
       "EN": "She returned the insult.",
-      "Translation": "........."
+      "Translation": "被吐槽了。"
     },
     {
       "JP": "`女生徒@『え…私も野球に興味なんてないですけど…』",
       "EN": "`Female Student@[Eh... but I'm not really interested in baseball...]",
-      "Translation": "`Rin@[Hey, she's gone. It's all your fault!]"
+      "Translation": "`女生@『唉…我也对棒球没有兴趣…』"
     },
     {
       "JP": "`理樹@「うわ、なんか誤解されてるよ…」",
       "EN": "`Riki@❝Uwa, what a misunderstanding...❞",
-      "Translation": "`Riki@❝Ah, what a waste...❞"
+      "Translation": "`理树@「呜哇，好像是被误解了哦…」"
     },
     {
       "JP": "`女生徒@『それじゃあ、いくね…』",
       "EN": "`Female Student@[Well, I gotta go...]",
-      "Translation": "`Kyousuke@❝Hey! Are you trying to make my little sister look like a weirdo?❞"
+      "Translation": "`女生@『那么，我走了…』"
     },
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "`Rin@[...No.]"
+      "Translation": "………。"
     },
     {
       "JP": "`鈴@『…こちら、鈴。任務失敗』",
       "EN": "`Rin@[...This is Rin. Mission Failed.]",
-      "Translation": "`Masato@❝Hey, say ❛yes❜!❞"
+      "Translation": "`铃@『…这里是铃。任务失败』"
     },
     {
       "JP": "`理樹@「うわちゃー」",
       "EN": "`Riki@❝Oh my god.❞",
-      "Translation": "`Rin@[...I don't wanna lie.]"
+      "Translation": "`理树@「呜哇—」"
     },
     {
       "JP": "`恭介@「おまえ、俺の妹をヘンな子に仕立て上げるんじゃねぇ」",
       "EN": "`Kyousuke@❝Hey! Are you trying to make my little sister look like a weirdo?❞",
-      "Translation": "`Masato@❝Okay. Let's change the subject...❞"
+      "Translation": "`恭介@「你这家伙，是想将我的妹妹塑造成奇怪的孩子吗」"
     },
     {
       "JP": "`声@『あら、棗さん、新しい遊び？』",
       "EN": "`Voice@[Ah, Natsume-san, a new game?]",
-      "Translation": "`Masato@❝Lemme see... Rin, ask her if she's interested in training herself... in other words, muscles.❞"
+      "Translation": "`声音@『咦，棗同学，这是什么新游戏？』"
     },
     {
       "JP": "新しい声が聞こえる。",
       "EN": "We heard a new voice.",
-      "Translation": "`Rin@[You're the only sad idiot who's interested in that!]"
+      "Translation": "我听到了新的说话声。"
     },
     {
       "JP": "`鈴@『こんばんは』",
       "EN": "`Rin@[Good evening.]",
-      "Translation": "She returned the insult."
+      "Translation": "`铃@『晚上好』"
     },
     {
       "JP": "`鈴@『…野球に興味はないか』",
       "EN": "`Rin@[...Are you interested in baseball?]",
-      "Translation": "`Female Student@[Eh... but I'm not really interested in baseball...]"
+      "Translation": "`铃@『…对棒球有兴趣吗』"
     },
     {
       "JP": "`女生徒@『あなた、私がソフトボール部次期キャプテン候補と知らずに仰ってるの？』",
       "EN": "`Female Student@[Don't you know that I'm a candidate for the next softball club captain?]",
-      "Translation": "`Riki@❝Uwa, what a misunderstanding...❞"
+      "Translation": "`女生@『我说你，居然不认识我这个垒球部下届队长候补？』"
     },
     {
       "JP": "`理樹@「なんか相手が悪いね…」",
       "EN": "`Riki@❝I don't think she's a suitable person...❞",
-      "Translation": "`Female Student@[Well, I gotta go...]"
+      "Translation": "`理树@「看起来对手不简单呢…」"
     },
     {
       "JP": "`女生徒@『あなたねぇ、筋肉馬鹿や、剣道部の宮沢さんと親しいからって、調子に乗ってるんじゃなくて？』",
       "EN": "`Female Student@[I know you're close with the muscle idiot and Miyazawa-san from the kendo club. But aren't you getting carried away?]",
-      "Translation": "........."
+      "Translation": "`女生@『你啊，不过就是跟肌肉笨蛋和剑道部的宫沢同学比较亲近，就得意忘形了吧？』"
     },
     {
       "JP": "`理樹@「うわ、なんか不穏な空気…」",
       "EN": "`Riki@❝Uwa, the air's getting heavy there...❞",
-      "Translation": "`Rin@[...This is Rin. Mission Failed.]"
+      "Translation": "`理树@「呜哇，怎么有种不安的气氛…」"
     },
     {
       "JP": "`真人@「オレが筋肉馬鹿だとぉ？　で、こっちは宮沢さん!?」",
       "EN": "`Masato@❝She called me a muscle idiot? And you Miyazawa-san!?❞",
-      "Translation": "`Riki@❝Oh my god.❞"
+      "Translation": "`真人@「叫老子肌肉笨蛋？而这位却是宫沢同学！？」"
     },
     {
       "JP": "`謙吾@「不服か？　妥当なところだろう」",
       "EN": "`Kengo@❝What's wrong with that? It sounds appropriate to me.❞",
-      "Translation": "`Kyousuke@❝Hey! Are you trying to make my little sister look like a weirdo?❞"
+      "Translation": "`谦吾@「不服吗？我认为很合适」"
     },
     {
       "JP": "`真人@「鈴、実は宮沢のほうが馬鹿で、この前服着たまま風呂に入ってたと言え」",
       "EN": "`Masato@❝Rin, say ❛Actually Miyazawa's an idiot too, he went into the bath wearing his uniform.❜❞",
-      "Translation": "`Voice@[Ah, Natsume-san, a new game?]"
+      "Translation": "`真人@「铃，就说其实宫沢他才是个笨蛋，而且之前他还穿着衣服就去泡澡了」"
     },
     {
       "JP": "`鈴@『やじゃ、ぼけ』",
       "EN": "`Rin@[No way, idiot.]",
-      "Translation": "We heard a new voice."
+      "Translation": "`铃@『我才不要，呆子』"
     },
     {
       "JP": "`女生徒@『わたくしに対して、なんて汚い言葉を…』",
       "EN": "`Female Student@[How dare you say that to me...]",
-      "Translation": "`Rin@[Good evening.]"
+      "Translation": "`女生@『竟然对我说出如此肮脏的词汇…』"
     },
     {
       "JP": "`鈴@『ん？　おまえは関係ない』",
       "EN": "`Rin@[Hm? It wasn't about you.]",
-      "Translation": "`Rin@[...Are you interested in baseball?]"
+      "Translation": "`铃@『嗯？跟你没关系』"
     },
     {
       "JP": "`女生徒@『ここにはわたくししかいないでしょうっ』",
       "EN": "`Female Student@[Stop kidding around. There is only you and me here.]",
-      "Translation": "`Female Student@[Don't you know that I'm a candidate for the next softball club captain?]"
+      "Translation": "`女生@『这里除了我之外就没别人了吧』"
     },
     {
       "JP": "`鈴@『実は宮沢のほうが馬鹿で、この前服着たまま風呂に入ってた』",
       "EN": "`Rin@[Actually Miyazawa's an idiot too, he went into the bath wearing his uniform.]",
-      "Translation": "`Riki@❝I don't think she's a suitable person...❞"
+      "Translation": "`铃@『其实宫沢才是个笨蛋，之前还穿着衣服就去泡澡了』"
     },
     {
       "JP": "`女生徒@『なんですってぇ!?』",
       "EN": "`Female Student@[What did you say!?]",
-      "Translation": "`Female Student@[I know you're close with the muscle idiot and Miyazawa-san from the kendo club. But aren't you getting carried away?]"
+      "Translation": "`女生@『你说什么！？』"
     },
     {
       "JP": "`理樹@「そんな火に油を注ぐようなことを…」",
       "EN": "`Riki@❝That was like pouring oil into a fire...❞",
-      "Translation": "`Riki@❝Uwa, the air's getting heavy there...❞"
+      "Translation": "`理树@「那种火上浇油的话…」"
     },
     {
       "JP": "`女生徒@『それは、あなたなりの陰口？』",
       "EN": "`Female Student@[Are you badmouthing him behind his back?]",
-      "Translation": "`Masato@❝She called me a muscle idiot? And you Miyazawa-san!?❞"
+      "Translation": "`女生@『这是你在说宫沢同学的坏话？』"
     },
     {
       "JP": "相手の声は怒りに震えている。",
       "EN": "Her voice was shaking with fury.",
-      "Translation": "`Kengo@❝What's wrong with that? It sounds appropriate to me.❞"
+      "Translation": "对方的声音因为愤怒而颤抖了。"
     },
     {
       "JP": "`恭介@「まずいな…鈴、退却だ」",
       "EN": "`Kyousuke@❝Not good... Rin, retreat.❞",
-      "Translation": "`Masato@❝Rin, say ❛Actually Miyazawa's an idiot too, he went into the bath wearing his uniform.❜❞"
+      "Translation": "`恭介@「不妙了…铃，撤退了」"
     },
     {
       "JP": "`鈴@『………』",
       "EN": "`Rin@[.........]",
-      "Translation": "`Rin@[No way, idiot.]"
+      "Translation": "`铃@『………』"
     },
     {
       "JP": "`鈴@『…服をつかまれてるのでできない』",
       "EN": "`Rin@[I can't. She's grabbing my clothes.]",
-      "Translation": "`Female Student@[How dare you say that to me...]"
+      "Translation": "`铃@『…衣服被抓住了撤退不了』"
     },
     {
       "JP": "`理樹@「うわぁ、やばいことになってんじゃんっ」",
       "EN": "`Riki@❝Uwaa, she's in trouble.❞",
-      "Translation": "`Rin@[Hm? It wasn't about you.]"
+      "Translation": "`理树@「呜哇，这下真的不妙了」"
     },
     {
       "JP": "`謙吾@「助けにいくか？」",
       "EN": "`Kengo@❝Should we go and help?❞",
-      "Translation": "`Female Student@[Stop kidding around. There is only you and me here.]"
+      "Translation": "`谦吾@「要去救她吗？」"
     },
     {
       "JP": "`理樹@「女子寮で見つかったら大事（おおごと）になるよ？」",
       "EN": "`Riki@❝No. It'd be even worse if they found us in the girls' dorm.❞",
-      "Translation": "`Rin@[Actually Miyazawa's an idiot too, he went into the bath wearing his uniform.]"
+      "Translation": "`理树@「在女生宿舍被抓到的话不就事大了吗？」"
     },
     {
       "JP": "`鈴@『…離せ、このばか！』",
       "EN": "`Rin@[...Let go, stupid!]",
-      "Translation": "`Female Student@[What did you say!?]"
+      "Translation": "`铃@『…放开我，你这笨蛋！』"
     },
     {
       "JP": "`女生徒@『ば…か…？』",
       "EN": "`Female Student@[Stu... pid...?]",
-      "Translation": "`Riki@❝That was like pouring oil into a fire...❞"
+      "Translation": "`女生@『笨…蛋…？』"
     },
     {
       "JP": "`鈴@『おまえのほうがばかだっ』",
       "EN": "`Rin@[You're the stupidest!]",
-      "Translation": "`Female Student@[Are you badmouthing him behind his back?]"
+      "Translation": "`铃@『你这家伙就是笨蛋啊』"
     },
     {
       "JP": "`理樹@「ありゃ…」",
       "EN": "`Riki@❝Ah...❞",
-      "Translation": "Her voice was shaking with fury."
+      "Translation": "`理树@「糟了…」"
     },
     {
       "JP": "`恭介@「鈴がキレた…」",
       "EN": "`Kyousuke@❝Rin's lost it...❞",
-      "Translation": "`Kyousuke@❝Not good... Rin, retreat.❞"
+      "Translation": "`恭介@「铃怒了…」"
     },
     {
       "JP": "`佐々美@「ソフトボール部、次期キャプテン候補のこのわたくし、笹瀬川佐々美に勝てると思って？」",
       "EN": "`Sasami@❝I am Sasami Sasasegawa, candidate for the captaincy of the softball club. Do you really think you could possibly win against me?❞",
-      "Translation": "`Rin@[.........]"
+      "Translation": "`佐佐美@「你以为能胜过垒球部下届队长候补的我，笹濑川佐佐美吗？」"
     },
     {
       "JP": "`ソフト部員@「佐々美先輩、加勢いたしますっ」",
       "EN": "`Club Member@❝Sasami-senpai, we'll support you.❞",
-      "Translation": "`Rin@[I can't. She's grabbing my clothes.]"
+      "Translation": "`垒球部员@「佐佐美前辈，我们来帮你」"
     },
     {
       "JP": "`佐々美@「あら意外にやりますのね」",
       "EN": "`Sasami@❝You are holding up unexpectedly well.❞",
-      "Translation": "`Riki@❝Uwaa, she's in trouble.❞"
+      "Translation": "`佐佐美@「哎呀，意外地很能干呢」"
     },
     {
       "JP": "`佐々美@「ではわたくし自ら受けてたちましょう…」",
       "EN": "`Sasami@❝Well then, I shall take you on myself.❞",
-      "Translation": "`Kengo@❝Should we go and help?❞"
+      "Translation": "`佐佐美@「那么我就亲自领教了…」"
     },
     {
       "JP": "`佐々美@「こんな尻の青い下級生にすら勝てないなんて、話にもならないですわね」",
       "EN": "`Sasami@❝To think you can't even beat these novice underclassmen. This isn't even worth talking about.❞",
-      "Translation": "`Riki@❝No. It'd be even worse if they found us in the girls' dorm.❞"
+      "Translation": "`佐佐美@「居然连这种乳臭未干的低年级学生都赢不了，还想和我搭话」"
     },
     {
       "JP": "`理樹@「って、そもそもミッションが別のものにすり替わっていない!?」",
       "EN": "`Riki@❝Wait, wasn't that different from the original mission!?❞",
-      "Translation": "`Rin@[...Let go, stupid!]"
+      "Translation": "`理树@「那个，不觉得已经偏离了原本的任务目标吗！？」"
     },
     {
       "JP": "`恭介@「どれも等しくミッションさ」",
       "EN": "`Kyousuke@❝We should treat everything as a mission.❞",
-      "Translation": "`Female Student@[Stu... pid...?]"
+      "Translation": "`恭介@「无论哪个都是同等重要的任务」"
     },
     {
       "JP": "絶対騙されてる気がする…。",
       "EN": "I'm sure I'm just getting tricked...",
-      "Translation": "`Rin@[You're the stupidest!]"
+      "Translation": "有种绝对被骗了的感觉…。"
     },
     {
       "JP": "`鈴@『ミッションコンプリート』",
       "EN": "`Rin@[❛Mission Complete.❜]",
-      "Translation": "`Riki@❝Ah...❞"
+      "Translation": "`铃@『Mission Complete.』"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": "`Kyousuke@❝Rin's lost it...❞"
+      "Translation": " "
     },
     {
       "JP": "`理樹@「いやいや、してないしてない」",
       "EN": "`Riki@❝No, no, no way it is.❞",
-      "Translation": "`Sasami@❝I am Sasami Sasasegawa, candidate for the captaincy of the softball club. Do you really think you could possibly win against me?❞"
+      "Translation": "`理树@「不对不对，哪有完成啊」"
     },
     {
       "JP": "`鈴@「理樹、戦利品だ。やる」",
       "EN": "`Rin@❝Riki, here's the spoils. You can have it.❞",
-      "Translation": "`Club Member@❝Sasami-senpai, we'll support you.❞"
+      "Translation": "`铃@「理树，给，战利品」"
     },
     {
       "JP": "`理樹@「え…ありがと」",
       "EN": "`Riki@❝Eh... thanks.❞",
-      "Translation": "`Sasami@❝You are holding up unexpectedly well.❞"
+      "Translation": "`理树@「唉…谢谢」"
     },
     {
       "JP": "`佐々美@「ざっとこんなものですわ」",
       "EN": "`Sasami@❝Oh my, hardly a challenge.❞",
-      "Translation": "`Sasami@❝Well then, I shall take you on myself.❞"
+      "Translation": "`佐佐美@「大致就是这样」"
     },
     {
       "JP": "`ソフト部員@「さすがは、佐々美様っ」",
       "EN": "`Club Member@❝As expected from Sasami-sama!❞",
-      "Translation": "`Sasami@❝To think you can't even beat these novice underclassmen. This isn't even worth talking about.❞"
+      "Translation": "`垒球部员@「真不愧是佐佐美大人！」"
     },
     {
       "JP": "`ソフト部員@「華麗でございましたっ」",
       "EN": "`Club Member@❝Your fighting style is really elegant!❞",
-      "Translation": "`Riki@❝Wait, wasn't that different from the original mission!?❞"
+      "Translation": "`垒球部员@「您战斗的姿势真是太华丽了！」"
     },
     {
       "JP": "`佐々美@「いきますわよっ」",
       "EN": "`Sasami@❝We shall take our leave.❞",
-      "Translation": "`Kyousuke@❝We should treat everything as a mission.❞"
+      "Translation": "`佐佐美@「好，我们可以走了」"
     },
     {
       "JP": "`理樹@「って、そもそもミッションが別のものにすり替わっていない!?」",
       "EN": "`Riki@❝Wait, wasn't that different from the original mission!?❞",
-      "Translation": "I'm sure I'm just getting tricked..."
+      "Translation": "`理树@「那个，不觉得已经偏离了原本的任务目标吗！？」"
     },
     {
       "JP": "`恭介@「どれも等しくミッションさ」",
       "EN": "`Kyousuke@❝We should treat everything as a mission.❞",
-      "Translation": "`Rin@[❛Mission Complete.❜]"
+      "Translation": "`恭介@「无论哪个都是同等重要的任务」"
     },
     {
       "JP": "絶対騙されてる気がする…。",
       "EN": "I'm sure I'm just getting tricked...",
-      "Translation": " "
+      "Translation": "有种绝对被骗了的感觉…。"
     },
     {
       "JP": "そうして夜は更けていった…。",
       "EN": "And so the night went on...",
-      "Translation": " "
+      "Translation": "于是乎夜深了…。"
     }
   ],
   "SELECT": [

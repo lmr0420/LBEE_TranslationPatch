@@ -107,8 +107,9 @@
             this.TextList.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.TextList.Font = new System.Drawing.Font("黑体", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.TextList.FormattingEnabled = true;
-            this.TextList.ItemHeight = 12;
+            this.TextList.ItemHeight = 20;
             this.TextList.Location = new System.Drawing.Point(39, 112);
             this.TextList.Name = "TextList";
             this.TextList.ScrollAlwaysVisible = true;
@@ -154,21 +155,21 @@
             // InsertClipboard
             // 
             this.InsertClipboard.Name = "InsertClipboard";
-            this.InsertClipboard.Size = new System.Drawing.Size(180, 22);
+            this.InsertClipboard.Size = new System.Drawing.Size(160, 22);
             this.InsertClipboard.Text = "插入剪贴板内容";
             this.InsertClipboard.Click += new System.EventHandler(this.InsertClipboard_Click);
             // 
             // InsertText
             // 
             this.InsertText.Name = "InsertText";
-            this.InsertText.Size = new System.Drawing.Size(180, 22);
+            this.InsertText.Size = new System.Drawing.Size(160, 22);
             this.InsertText.Text = "插入文本";
             this.InsertText.Click += new System.EventHandler(this.InsertText_Click);
             // 
             // RemoveText
             // 
             this.RemoveText.Name = "RemoveText";
-            this.RemoveText.Size = new System.Drawing.Size(180, 22);
+            this.RemoveText.Size = new System.Drawing.Size(160, 22);
             this.RemoveText.Text = "移除文本";
             this.RemoveText.Click += new System.EventHandler(this.RemoveText_Click);
             // 

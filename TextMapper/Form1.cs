@@ -6,6 +6,7 @@ using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -16,6 +17,9 @@ namespace TextMapper
     {
         JObject EditingTranslationObj { get; set; }
 
+        [DllImport("user32.dll", CharSet = CharSet.Auto, CallingConvention = CallingConvention.StdCall)]
+        public static extern short GetKeyState(int nVirtKey);
+        public const int VK_LCONTROL = 0xA2;
         public Form1()
         {
             InitializeComponent();
@@ -104,13 +108,24 @@ namespace TextMapper
                 if(TrasnlateTextObj != null)
                 {
                     string PendingReplace = TextLines[i];
-                    if (TextLines[i].Contains("「") && TextLines[i].IndexOf('「') != 0 && !TextLines[i].StartsWith("`"))
+                    if ((GetKeyState(VK_LCONTROL) & 0x8000) == 0)
                     {
-                        PendingReplace = "`" + PendingReplace.Insert(TextLines[i].IndexOf('「'), "@");
-                    }
-                    else if (TextLines[i].Contains("『") && TextLines[i].IndexOf('『') != 0 && !TextLines[i].StartsWith("`"))
-                    {
-                        PendingReplace = "`" + PendingReplace.Insert(TextLines[i].IndexOf('『'), "@");
+                        if (TextLines[i].Contains("「") && TextLines[i].IndexOf('「') != 0 && !TextLines[i].StartsWith("`"))
+                        {
+                            int DialogueStart = TextLines[i].IndexOf('「');
+                            if (DialogueStart < 10)
+                            {
+                                PendingReplace = "`" + PendingReplace.Insert(DialogueStart, "@");
+                            }
+                        }
+                        else if (TextLines[i].Contains("『") && TextLines[i].IndexOf('『') != 0 && !TextLines[i].StartsWith("`"))
+                        {
+                            int DialogueStart = TextLines[i].IndexOf('『');
+                            if (DialogueStart < 10)
+                            {
+                                PendingReplace = "`" + PendingReplace.Insert(DialogueStart, "@");
+                            }
+                        }
                     }
                     TrasnlateTextObj["Translation"] = PendingReplace;
                 }

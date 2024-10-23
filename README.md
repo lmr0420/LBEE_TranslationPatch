@@ -11,5 +11,6 @@
 
 前往[Release页面](https://github.com/Jack-Myth/LBEE_TranslationPatch/releases)下载已编译的汉化程序  
 将LBEE的主程序拖到LBEE_TranslationPatch.exe上即可执行汉化流程  
+可以将项目里的TextMapping文件夹单独拿出来覆盖Release包里的同名文件夹来换成最新更新的翻译  
 
 目前汉化还远未完成，可能存在疏漏或错误，可以帮忙填一填[汉化文本](TextMapping)吖！  

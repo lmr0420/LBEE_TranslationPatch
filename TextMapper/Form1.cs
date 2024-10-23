@@ -190,5 +190,37 @@ namespace TextMapper
             }
             File.WriteAllText(OFD.FileName, EditingTranslationObj.ToString(Newtonsoft.Json.Formatting.Indented));
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("这是一个很简单的小工具，用于快速替换翻译文本。\n由于翻译和文本很大部分都是对应的，所以填起来应该很快。\n"+
+            "右键菜单:\n"+
+            "1.插入剪贴板内容：会将剪贴板里的文本按行分割填入，会覆盖现有文本，可以一次填很多行\n"+
+            "2.插入文本：在当前位置插入一行文本，剩下文本整体后移动一行\n"+
+            "3.移除文本：移除当前文本，剩下文本整体向前移动一行\n"+
+            "如果遇见插入文本后错位，可以通过插入和移除错位的行，一般移除几条后其他大部分翻译就会对得很齐了。");
+        }
+
+        private void textTranslation_KeyDown(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Enter)
+            {
+                if (TextList.SelectedIndex < 0)
+                {
+                    return;
+                }
+                var Messages = EditingTranslationObj.GetValue("MESSAGE")?.ToList();
+                if (Messages == null)
+                {
+                    return;
+                }
+                var TrasnlateTextObj = Messages[TextList.SelectedIndex].Value<JObject>();
+                if (TrasnlateTextObj != null)
+                {
+                    TrasnlateTextObj["Translation"] = this.textTranslation.Text;
+                }
+                RefreshTextList();
+            }
+        }
     }
 }

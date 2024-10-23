@@ -43,6 +43,7 @@
             this.InsertClipboard = new System.Windows.Forms.ToolStripMenuItem();
             this.InsertText = new System.Windows.Forms.ToolStripMenuItem();
             this.RemoveText = new System.Windows.Forms.ToolStripMenuItem();
+            this.button3 = new System.Windows.Forms.Button();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -92,6 +93,7 @@
             this.textTranslation.Name = "textTranslation";
             this.textTranslation.Size = new System.Drawing.Size(256, 21);
             this.textTranslation.TabIndex = 5;
+            this.textTranslation.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textTranslation_KeyDown);
             // 
             // label3
             // 
@@ -173,11 +175,23 @@
             this.RemoveText.Text = "移除文本";
             this.RemoveText.Click += new System.EventHandler(this.RemoveText_Click);
             // 
+            // button3
+            // 
+            this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.button3.Location = new System.Drawing.Point(193, 543);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(54, 23);
+            this.button3.TabIndex = 9;
+            this.button3.Text = "说明";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(418, 598);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.TextList);
@@ -211,6 +225,7 @@
         private System.Windows.Forms.ToolStripMenuItem InsertClipboard;
         private System.Windows.Forms.ToolStripMenuItem InsertText;
         private System.Windows.Forms.ToolStripMenuItem RemoveText;
+        private System.Windows.Forms.Button button3;
     }
 }
 

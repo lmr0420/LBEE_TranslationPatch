@@ -13130,7 +13130,7 @@
     {
       "JP": "`鈴@「少し待て」",
       "EN": "`Rin@❝Wait a bit.❞",
-      "Translation": "`拿出来一看…@『该怎么办才好』"
+      "Translation": "拿出来一看…『该怎么办才好』"
     },
     {
       "JP": "そう言い残して、部屋を出ていった。",
@@ -13165,22 +13165,22 @@
     {
       "JP": "`真人@「ああ…途中からぐだぐだだけどな…」",
       "EN": "`Masato@❝Yeah... She got bored halfway through though...❞",
-      "Translation": "`理树@「为了能让大家都明白，她做了一张很大的纸，字也写得很大」"
+      "Translation": "`真人@「啊…虽然从途中开始变得很乱了…」"
     },
     {
       "JP": "ポケットの携帯が震える。",
       "EN": "The cellphone in my pocket vibrated.",
-      "Translation": "`真人@「啊…虽然从途中开始变得很乱了…」"
+      "Translation": "口袋里的手机开始震动了。"
     },
     {
       "JP": "取り出して、見てみると…",
       "EN": "I took it out and checked the message.",
-      "Translation": "口袋里的手机开始震动了。"
+      "Translation": "拿出来一看…"
     },
     {
       "JP": "『どうしたらいい』",
       "EN": "[What should I do?]",
-      "Translation": "`拿出来一看…@『该怎么办才好』"
+      "Translation": "『该怎么办才好』"
     },
     {
       "JP": "と鈴から。",

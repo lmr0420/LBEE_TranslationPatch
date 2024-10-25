@@ -217,7 +217,8 @@
                 "モダン","明朝","ゴシック","丸ゴシック"
             };
 
-            var FontTemplate = "明朝";
+            var FontTemplate = "ゴシック";
+            string TargetFontPath = "C:\\Windows\\Fonts\\simhei.ttf";
 
             var Charset = File.ReadAllText(LBEECharset);
             HashSet<char> OriginalCharCollection =new (InstructionProcessor.CharCollection);
@@ -244,7 +245,7 @@
                 // 针对Template进行重绘，然后复制到各个字体
                 // 如果每个字体都进行重绘，那么重绘后的游戏会崩溃，但只用一份的话就正常，很奇怪，不清楚原因
                 // 看起来很像是字体过大了，这里指定一下ReplaceIndex，把一部分原有字体替换掉
-                Process.Start("LuckSystem\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex} -S \"{ExtractedFontPath}\\info{fSize}\" -f C:\\Windows\\Fonts\\simhei.ttf -c {AllNewCharFile} -o {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} -O {Path.Combine(PendingReplacePath, $"info{fSize}")}").WaitForExit();
+                Process.Start("LuckSystem\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex} -S \"{ExtractedFontPath}\\info{fSize}\" -f {TargetFontPath} -c {AllNewCharFile} -o {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} -O {Path.Combine(PendingReplacePath, $"info{fSize}")}").WaitForExit();
                 Process.Start("czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}").WaitForExit();
                 File.Delete(Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png"));
                 foreach (var fName in FontName)

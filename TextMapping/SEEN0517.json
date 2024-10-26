@@ -3815,12 +3815,12 @@
     {
       "JP": "手紙を手に入れたようだ。",
       "EN": "She seemed to have gotten another letter.",
-      "Translation": "好像拿到了信。差不多该搭话了。"
+      "Translation": "好像拿到了信。"
     },
     {
       "JP": "そろそろ話しかけよう。",
       "EN": "Okay, I think I've waited long enough.",
-      "Translation": "好像拿到了信。差不多该搭话了。"
+      "Translation": "差不多该搭话了。"
     },
     {
       "JP": "`鈴@「あ！　おまえ…」",
@@ -7910,7 +7910,7 @@
     {
       "JP": "`真人@「うわぁ…」",
       "EN": "`Masato@❝Uwaaa...❞",
-      "Translation": "`真人真人@「呜哇…」"
+      "Translation": "`真人@「呜哇…」"
     },
     {
       "JP": "全員が呆気に取られている。",

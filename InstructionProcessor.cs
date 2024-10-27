@@ -19,6 +19,13 @@ namespace LBEE_TranslationPatch
             return Math.Min(SpecByte, 2) * 2 + 4;
         }
 
+        public static string PostProcessText(string In)
+        {
+            // 这两个字体在绘制的时候有问题，由于字体太小，所以直接绘制到了字符的顶端
+            // 通过调整绘制的位置大概可以解决问题，但这里先替换为相近的字符，暂时规避问题。
+            return In.Replace('—', '~').Replace('－','-');
+        }
+
         public static int GetStrLength(byte[] Command,int StartIndex)
         {
             int index = StartIndex;
@@ -96,7 +103,7 @@ namespace LBEE_TranslationPatch
             int strStart = index + GetStrLength(command, index) + 2;
             int strEnd = GetStrLength(command, strStart) + strStart;
             List<byte> newCommand = new List<byte>(command[..strStart]);
-            string Translation = inJsonObj["Translation"]?.Value<string>()??"";
+            string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>()??"");
             string EN = inJsonObj["EN"]?.Value<string>()??"";
             if(Translation!=EN)
             {
@@ -124,7 +131,7 @@ namespace LBEE_TranslationPatch
         public static byte[]? VARSTR_SET_SET(byte[] command, JObject inJsonObj)
         {
             int index = GetCmdHeaderLength(command) + 2; // Header+ID
-            string Translation = inJsonObj["Translation"]?.Value<string>() ?? "";
+            string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
             List<byte> newCommand = new List<byte>();
             newCommand.AddRange(command[..index]);
             newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
@@ -156,7 +163,7 @@ namespace LBEE_TranslationPatch
             int StrLength = GetStrLength(command, index); // Jp
             index += StrLength + 2;
             StrLength = GetStrLength(command, index);
-            string Translation = inJsonObj["Translation"]?.Value<string>() ?? "";
+            string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
             List<byte> newCommand = new List<byte>();
             newCommand.AddRange(command[..index]);
             newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
@@ -293,7 +300,7 @@ namespace LBEE_TranslationPatch
                     index += GetStrLength(command, index) + 2;
                     newCommand.AddRange(command[..index]);
                     int strLength = GetStrLength(command, index);
-                    string Translation = inJsonObj["Translation1"]?.Value<string>() ?? "";
+                    string Translation = PostProcessText(inJsonObj["Translation1"]?.Value<string>() ?? "");
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                     newCommand.AddRange(command.Skip(index+strLength));
                     return newCommand.ToArray();
@@ -306,7 +313,7 @@ namespace LBEE_TranslationPatch
                     newCommand.AddRange(command[..index]); //str1
 
                     int strLength = GetStrLength(command, index);
-                    string Translation = inJsonObj["Translation1"]?.Value<string>() ?? "";
+                    string Translation = PostProcessText(inJsonObj["Translation1"]?.Value<string>() ?? "");
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                     index += strLength + 2;  // str2
 
@@ -316,7 +323,7 @@ namespace LBEE_TranslationPatch
                     index += strLength + 2; //str3
 
                     strLength = GetStrLength(command, index);
-                    string Translation2 = inJsonObj["Translation2"]?.Value<string>() ?? "";
+                    string Translation2 = PostProcessText(inJsonObj["Translation2"]?.Value<string>() ?? "");
                     newCommand.AddRange(Encoding.Unicode.GetBytes(Translation2));
                     newCommand.AddRange(command.Skip(index + strLength)); //str4
 
@@ -336,7 +343,7 @@ namespace LBEE_TranslationPatch
             {
                 // 只有英文？有点怪
                 int strLength = GetStrLength(command, index);
-                string Translation = inJsonObj["Translation1"]?.Value<string>() ?? "";
+                string Translation = PostProcessText(inJsonObj["Translation1"]?.Value<string>() ?? "");
                 foreach (var newChar in Translation.ToCharArray())
                 {
                     CharCollection.Add(newChar);
@@ -354,7 +361,7 @@ namespace LBEE_TranslationPatch
                 newCommand.AddRange(command[..index]); //str1
 
                 int strLength = GetStrLength(command, index);
-                string Translation = inJsonObj["Translation1"]?.Value<string>() ?? "";
+                string Translation = PostProcessText(inJsonObj["Translation1"]?.Value<string>() ?? "");
                 newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
                 index += strLength + 2;  // str2
 
@@ -363,7 +370,7 @@ namespace LBEE_TranslationPatch
                 index += strLength + 2; //str3
 
                 strLength = GetStrLength(command, index);
-                string Translation2 = inJsonObj["Translation2"]?.Value<string>() ?? "";
+                string Translation2 = PostProcessText(inJsonObj["Translation2"]?.Value<string>() ?? "");
                 newCommand.AddRange(Encoding.Unicode.GetBytes(Translation2));
                 newCommand.AddRange(command.Skip(index + strLength)); //str4
                 foreach (var newChar in Translation.ToCharArray())
@@ -481,7 +488,7 @@ namespace LBEE_TranslationPatch
             {
                 index += 2; //Skip Var1
                 int Var2 = command[index] + command[index + 1] * 256;
-                string Translation = inJsonObj["Translation"]?.Value<string>() ?? "";
+                string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
                 foreach (var newChar in Translation.ToCharArray())
                 {
                     CharCollection.Add(newChar);
@@ -514,7 +521,7 @@ namespace LBEE_TranslationPatch
             }
             else if (BattleID == 102)
             {
-                string Translation = inJsonObj["Translation"]?.Value<string>() ?? "";
+                string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
                 foreach (var newChar in Translation.ToCharArray())
                 {
                     CharCollection.Add(newChar);

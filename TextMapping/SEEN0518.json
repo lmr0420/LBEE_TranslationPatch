@@ -2445,7 +2445,7 @@
     {
       "JP": "差出人は『[SML@Admin]』になっている。",
       "EN": "The sender's name is ❛[SML@Admin].❜",
-      "Translation": "`发信人上写着@『[SML@Admin]』。"
+      "Translation": "发信人上写着『[SML@Admin]』。"
     },
     {
       "JP": "それはソロリティ・メーリングリストの管理人から、という意味（らしい）。",
@@ -2615,17 +2615,17 @@
     {
       "JP": "`クド@「とぅ・びー・こんてぃにゅー・ねくすと・やすみ・たーいむっ」",
       "EN": "`Kud@❝Tu bi- kontinyu- nekusuto yasumi taimu.❞",
-      "Translation": "`库特@「休息」"
+      "Translation": "`库特@「Tu bi- kontinyu- nekusuto yasumi taimu.」"
     },
     {
       "JP": "`理樹@「続くんだ!?」",
       "EN": "`Riki@❝To be continued!?❞",
-      "Translation": "`理树@「继续！？」"
+      "Translation": "`理树@「To be continued！？」"
     },
     {
       "JP": "しかも『やすみたいむ』って何っ。",
       "EN": "And what's with that ❛yasumi taimu❜?",
-      "Translation": "`而且@『休息』到底是什么啊。"
+      "Translation": "而且『yasumi taimu』到底是什么啊。"
     },
     {
       "JP": "休み時間になった。",
@@ -5265,7 +5265,7 @@
     {
       "JP": "『せめて二種類に定食を分ければ？』と提案した。",
       "EN": "[Why don't we try serving at least two different meals?], I typed.",
-      "Translation": "`提案说@『至少应该分为两种套餐怎么样？』。"
+      "Translation": "提案说『至少应该分为两种套餐怎么样？』。"
     },
     {
       "JP": "鈴がぱたぱたと走って戻ってくる。",
@@ -5545,7 +5545,7 @@
     {
       "JP": "`クド@「というわけで、あい・うぃる・ぷれぜんと・ざ・じゅーすとぅゆ～」",
       "EN": "`Kud@❝So, ai wiru purezento za ju-su too yu～.❞",
-      "Translation": "`库特@「所以、ju-su too yu～」"
+      "Translation": "`库特@「所以、 ai wiru purezento za  ju-su too yu～」"
     },
     {
       "JP": "クドがコインを入れる。",
@@ -5695,7 +5695,7 @@
     {
       "JP": "`クド@「れっつちゃれんじ、なのです」",
       "EN": "`Kud@❝Rettsu tyarenji!❞",
-      "Translation": "`库特@「的说」"
+      "Translation": "`库特@「Rettsu tyarenji的说」"
     },
     {
       "JP": "`理樹@「…あはは。機会があったらね…」",
@@ -6655,7 +6655,7 @@
     {
       "JP": "じゃ、中庭にいくかな。",
       "EN": "Well, I think I want to check out the courtyard.",
-      "Translation": "`理树@「果然在这里」"
+      "Translation": "`理树@「好吧，我觉得需要检查一下中庭」"
     },
     {
       "JP": "昼休みもクドと一緒にルームメイト探しのため校内を歩いて回った。",

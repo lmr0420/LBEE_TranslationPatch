@@ -3,17 +3,17 @@
     {
       "JP1": "鈴は『神なるノーコン』の称号を得た！",
       "EN1": "Rin received the title ❝Legendary no-con❞!",
-      "Translation1": "Rin received the title ❝Legendary no-con❞!"
+      "Translation1": "铃得到了称号『神级高射炮』！"
     },
     {
       "JP1": "鈴は『ただのノーコン』の称号を得た！",
       "EN1": "Rin received the title ❝An ordinary no-con❞!",
-      "Translation1": "Rin received the title ❝An ordinary no-con❞!"
+      "Translation1": "铃得到了称号『普通的高射炮』！"
     },
     {
       "JP1": "真人は『クズ』の称号を手に入れた！",
       "EN1": "Masato obtained the title ❝Waste❞!",
-      "Translation1": "Masato obtained the title ❝Waste❞!"
+      "Translation1": "真人得到了『人渣』的称号！"
     }
   ],
   "MESSAGE": [
@@ -6052,32 +6052,32 @@
     {
       "JP": "貸す$d貸さない",
       "EN": "Lend it to her$dDon't lend it out",
-      "Translation": "Lend it to her$dDon't lend it out"
+      "Translation": "借给她$d不借给他"
     },
     {
       "JP": "探しに行く$d放っておく",
       "EN": "Go look for her$dLet her be",
-      "Translation": "Go look for her$dLet her be"
+      "Translation": "去找她$d放着不管"
     },
     {
       "JP": "しばらく見守る$d声をかける",
       "EN": "Watch for a while$dCall out to her",
-      "Translation": "Watch for a while$dCall out to her"
+      "Translation": "静静的看着$d和她打招呼"
     },
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "Wander$dRest"
+      "Translation": "巡游$d休息"
     },
     {
       "JP": "取りにいく$d別のノートで代用",
       "EN": "Go fetch the notebook$dUse another notebook",
-      "Translation": "Go fetch the notebook$dUse another notebook"
+      "Translation": "去拿笔记本$d用其他的笔记本"
     },
     {
       "JP": "校舎に戻る$d大人しく寮に帰る",
       "EN": "Go back inside$dGo back to the dorm",
-      "Translation": "Go back inside$dGo back to the dorm"
+      "Translation": "回到校舍里$d乖乖回宿舍"
     }
   ]
 }

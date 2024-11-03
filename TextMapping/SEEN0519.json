@@ -3,12 +3,12 @@
     {
       "JP1": "三枝が練習に加わった！",
       "EN1": "Saigusa joined the practice!",
-      "Translation1": "Saigusa joined the practice!"
+      "Translation1": "三枝加入了练习！"
     },
     {
       "JP1": "同時に三枝がバトルランキングに参戦した！",
       "EN1": "At the same time she joined the battle ranking system!",
-      "Translation1": "At the same time she joined the battle ranking system!"
+      "Translation1": "同时三枝加入了战斗排位赛！"
     }
   ],
   "MESSAGE": [
@@ -2100,7 +2100,7 @@
     {
       "JP": "さすらおう…。それが僕の生きる道だから…。",
       "EN": "Wandering... That's my way of life...",
-      "Translation": "流浪吧…。因为这是我的生存之道…。"
+      "Translation": "巡游吧…。因为这是我的生存之道…。"
     },
     {
       "JP": "…ちょっと、そんな期待が持てる休み時間だった。",
@@ -4730,12 +4730,12 @@
     {
       "JP": "`理樹@「手伝いってあげたいところなんだけど、これからさすらいたくて…」",
       "EN": "`Riki@❝I'd like to help you, but I was going to wander...❞",
-      "Translation": "`理树@「我很想帮你，但我现在正在四处挑战…」"
+      "Translation": "`理树@「我很想帮你，但我现在正在四处巡游…」"
     },
     {
       "JP": "`三枝@「さすらいは大事ですヨ。頑張ってさすらってくださいませませ」",
       "EN": "`Saigusa@❝Wandering is important. Please do your best wandering.❞",
-      "Translation": "`三枝@「啊，挑战是很重要的事情，要加油哦」"
+      "Translation": "`三枝@「啊，巡游是很重要的事情，要加油哦」"
     },
     {
       "JP": "`理樹@「ごめんね」",
@@ -4745,7 +4745,7 @@
     {
       "JP": "そうだ、さすらおう…。",
       "EN": "Alright, let's wander...",
-      "Translation": "好了，继续吧…"
+      "Translation": "好了，继续巡游吧…"
     },
     {
       "JP": "昼食の後。",
@@ -6470,7 +6470,7 @@
     {
       "JP": "さあ、さすらおう…。",
       "EN": "All right, let's wander...",
-      "Translation": "好吧，去闲逛吧…"
+      "Translation": "好吧，去巡游吧…"
     },
     {
       "JP": "ＨＲが終わり、放課後となる。",
@@ -13472,82 +13472,82 @@
     {
       "JP": "鈴を探す$d放っておく$dさすらう",
       "EN": "Look for Rin$dLeave her alone$dWander",
-      "Translation": "Look for Rin$dLeave her alone$dWander"
+      "Translation": "去找铃$d不管她$d巡游"
     },
     {
       "JP": "鈴を探す$d放っておく",
       "EN": "Look for Rin$dLeave her alone",
-      "Translation": "Look for Rin$dLeave her alone"
+      "Translation": "去找铃$d不管她"
     },
     {
       "JP": "しばらく見守る$d声をかける",
       "EN": "Watch for a while$dCall out to her",
-      "Translation": "Watch for a while$dCall out to her"
+      "Translation": "静静的看着$d和她打招呼"
     },
     {
       "JP": "しない$dする",
       "EN": "No$dOkay",
-      "Translation": "No$dOkay"
+      "Translation": "不$d好"
     },
     {
       "JP": "見ない$dやっぱり気になる",
       "EN": "Don't look$dI'm too curious",
-      "Translation": "Don't look$dI'm too curious"
+      "Translation": "不看$d我太好奇了"
     },
     {
       "JP": "表に出る$d真人と遊ぶ$dさすらう",
       "EN": "Go out$dPlay with Masato$dWander",
-      "Translation": "Go out$dPlay with Masato$dWander"
+      "Translation": "去外面$d和真人玩$d巡游"
     },
     {
       "JP": "表に出る$d真人と遊ぶ",
       "EN": "Go out$dPlay with Masato",
-      "Translation": "Go out$dPlay with Masato"
+      "Translation": "去外面$d和真人玩"
     },
     {
       "JP": "手伝う$d立ち去る$dさすらう",
       "EN": "Give her a hand$dWalk away$dWander",
-      "Translation": "Give her a hand$dWalk away$dWander"
+      "Translation": "帮忙$d离开$d巡游"
     },
     {
       "JP": "手伝う$d立ち去る",
       "EN": "Give her a hand$dWalk away",
-      "Translation": "Give her a hand$dWalk away"
+      "Translation": "帮忙$d离开"
     },
     {
       "JP": "首をつっこむ$d大人しく過ごす$dさすらう",
       "EN": "Butt in$dBehave myself$dWander",
-      "Translation": "Butt in$dBehave myself$dWander"
+      "Translation": "探头$d老实一点$d巡游"
     },
     {
       "JP": "首をつっこむ$d大人しく過ごす$d真人と遊ぶ",
       "EN": "Butt in$dBehave myself$dPlay with Masato",
-      "Translation": "Butt in$dBehave myself$dPlay with Masato"
+      "Translation": "探头$d老实一点$d和真人玩"
     },
     {
       "JP": "校舎$d中庭$d真人と遊ぶ",
       "EN": "In the school$dIn the courtyard$dPlay with Masato",
-      "Translation": "In the school$dIn the courtyard$dPlay with Masato"
+      "Translation": "校舍$d中庭$d和真人玩"
     },
     {
       "JP": "校舎$d中庭",
       "EN": "School building$dCourtyard",
-      "Translation": "School building$dCourtyard"
+      "Translation": "校舍$d中庭"
     },
     {
       "JP": "練習を続ける$d終わりにする",
       "EN": "Continue practicing$dCall it a day",
-      "Translation": "Continue practicing$dCall it a day"
+      "Translation": "继续练习$d到此为止"
     },
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "Wander$dRest"
+      "Translation": "巡游$d休息"
     },
     {
       "JP": "手伝う$d宿題が…",
       "EN": "Help her$dThere's still homework...",
-      "Translation": "Help her$dThere's still homework..."
+      "Translation": "帮她$d还有作业…"
     }
   ]
 }

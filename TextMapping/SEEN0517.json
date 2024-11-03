@@ -3,57 +3,57 @@
     {
       "JP1": "鈴の称号が『乙女まっしぐら！』になった！",
       "EN1": "Rin's title changed to ❝Maiden Full Speed!❞!",
-      "Translation1": "Rin's title changed to ❝Maiden Full Speed!❞!"
+      "Translation1": "铃的称号变为了『少女突进』！"
     },
     {
       "JP1": "鈴の称号が『猫まっしぐら！』になった！",
       "EN1": "Rin's title changed to ❝Cat Full Speed!❞!",
-      "Translation1": "Rin's title changed to ❝Cat Full Speed!❞!"
+      "Translation1": "铃的称号变为了『猫突猛进』！"
     },
     {
       "JP1": "鈴の称号が『乙女まっしぐら！』に戻った！",
       "EN1": "Rin's title reverted back to ❝Maiden Full Speed!❞!",
-      "Translation1": "Rin's title reverted back to ❝Maiden Full Speed!❞!"
+      "Translation1": "铃的称号改回了『少女突进』！"
     },
     {
       "JP1": "謙吾の称号が『真人より強いが猫より弱い』になった！",
       "EN1": "Kengo's title changed to ❝Stronger than Masato, weaker than cats❞!",
-      "Translation1": "Kengo's title changed to ❝Stronger than Masato, weaker than cats❞!"
+      "Translation1": "谦吾的称号变为了『比真人强比猫弱』！"
     },
     {
       "JP1": "鈴の称号が『よくわからない精密機械』にランクアップした！",
       "EN1": "Rin's title improved to ❝❛I don't get it❜ precision pitching machine❞!",
-      "Translation1": "Rin's title improved to ❝❛I don't get it❜ precision pitching machine❞!"
+      "Translation1": "铃的称号升级为了『让人无法理解的精密机械』！"
     },
     {
       "JP1": "鈴の称号が『よくわからない元ノーコン』にランクアップした！",
       "EN1": "Rin's title improved to ❝❛I don't get it❜ former no-con❞!",
-      "Translation1": "Rin's title improved to ❝❛I don't get it❜ former no-con❞!"
+      "Translation1": "铃的称号升级为了『让人无法理解的前高射炮』！"
     },
     {
       "JP1": "鈴の称号が『よくわからないノーコン』にランクアップした！",
       "EN1": "Rin's title improved to ❝❛I don't get it❜ no-con❞!",
-      "Translation1": "Rin's title improved to ❝❛I don't get it❜ no-con❞!"
+      "Translation1": "铃的称号升级为了『让人无法理解的高射炮』！"
     },
     {
       "JP1": "鈴はライジングニャットボールを修得した！",
       "EN1": "Rin has learned the ❛Raging Meow Ball❜!",
-      "Translation1": "Rin has learned the ❛Raging Meow Ball❜!"
+      "Translation1": "铃修得了雷神喵喵球！"
     },
     {
       "JP1": "鈴はチェンジアップを修得した！",
       "EN1": "Rin has learned the ❛Changeup❜!",
-      "Translation1": "Rin has learned the ❛Changeup❜!"
+      "Translation1": "铃修得了慢速球！"
     },
     {
       "JP1": "鈴は『%s%s』を手に入れた！",
       "EN1": "Rin got her hands on [%s%s]!",
-      "Translation1": "Rin got her hands on [%s%s]!"
+      "Translation1": "从铃手中获得了『%s%s』！"
     },
     {
       "JP1": "鈴は『%s%s』を手に入れた！",
       "EN1": "Rin got her hands on [%s%s]!",
-      "Translation1": "Rin got her hands on [%s%s]!"
+      "Translation1": "从铃手中获得了『%s%s』！"
     }
   ],
   "MESSAGE": [
@@ -1420,7 +1420,7 @@
     {
       "JP": "`理樹@「ごめん…僕は僕より強い奴と戦うために、さすらうよ…」",
       "EN": "`Riki@❝Sorry, I must go wandering around in order to fight stronger guys...❞",
-      "Translation": "`理树@「抱歉，我正在为了比我强得家伙战斗，而闲逛…」"
+      "Translation": "`理树@「抱歉，我正在为了比我强的家伙战斗，而巡游…」"
     },
     {
       "JP": "`三枝@「まー、そっかー。しょうがないね」",
@@ -4535,7 +4535,7 @@
     {
       "JP": "`謙吾@「今からおまえの称号は…乙女まっしぐら！だ」",
       "EN": "`Kengo@❝From now on your title will be... ❛Maiden Full Speed!❜❞",
-      "Translation": "`谦吾@「今后，你的称号是…横冲直撞少女！」"
+      "Translation": "`谦吾@「今后，你的称号是…少女突进！」"
     },
     {
       "JP": "`鈴@「う…」",
@@ -4555,7 +4555,7 @@
     {
       "JP": "`理樹@「まあ、なんか猫まっしぐらみたいだし…」",
       "EN": "`Riki@❝But it sounds a bit like ❛Cat Full Speed❜...❞",
-      "Translation": "`理树@「但是，听起来就像是横冲直撞的猫…」"
+      "Translation": "`理树@「但是，听起来就像是猫突猛进…」"
     },
     {
       "JP": "`鈴@「そっちのほうがいい」",
@@ -10602,62 +10602,62 @@
     {
       "JP": "取る$d取らない",
       "EN": "Take it$dLeave it be",
-      "Translation": "Take it$dLeave it be"
+      "Translation": "拿走$d不管它"
     },
     {
       "JP": "探してみる$dない$dさすらう",
       "EN": "Look for it$dDon't have it$dWander",
-      "Translation": "Look for it$dDon't have it$dWander"
+      "Translation": "找找看$d表示没有$d巡游"
     },
     {
       "JP": "探してみる$dない",
       "EN": "Look for it$dDon't have it",
-      "Translation": "Look for it$dDon't have it"
+      "Translation": "找找看$d表示没有"
     },
     {
       "JP": "黙ってみてる$dやっぱり止める",
       "EN": "Watch the battle$dStop them",
-      "Translation": "Watch the battle$dStop them"
+      "Translation": "观战$d阻止他们"
     },
     {
       "JP": "携帯サイトにアクセスする$d自習する",
       "EN": "Access the site$dContinue studying",
-      "Translation": "Access the site$dContinue studying"
+      "Translation": "打开网站$d继续学习"
     },
     {
       "JP": "次を読む$d自習に戻る",
       "EN": "Read the next one$dStart studying",
-      "Translation": "Read the next one$dStart studying"
+      "Translation": "读下一条$d开始学习"
     },
     {
       "JP": "鈴を追う$dさすらう$d真人と遊ぶ",
       "EN": "Run after Rin$dWander$dPlay with Masato",
-      "Translation": "Run after Rin$dWander$dPlay with Masato"
+      "Translation": "去追铃$d巡游$d和真人玩"
     },
     {
       "JP": "鈴を追う$d放っておく$d真人と遊ぶ",
       "EN": "Run after Rin$dStay here$dPlay with Masato",
-      "Translation": "Run after Rin$dStay here$dPlay with Masato"
+      "Translation": "去追铃$d呆在这里$d和真人玩"
     },
     {
       "JP": "しばらく見守る$d声をかける",
       "EN": "Watch for a while$dCall out to her",
-      "Translation": "Watch for a while$dCall out to her"
+      "Translation": "静静的看着$d和她打招呼"
     },
     {
       "JP": "さすらう$d休む",
       "EN": "Wander$dTake a break",
-      "Translation": "Wander$dTake a break"
+      "Translation": "巡游$d休息"
     },
     {
       "JP": "屋上にいく$d屋上にいかない",
       "EN": "Go to the rooftop$dDon't go to the rooftop",
-      "Translation": "Go to the rooftop$dDon't go to the rooftop"
+      "Translation": "上房顶$d不去房顶"
     },
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "Wander$dRest"
+      "Translation": "巡游$d休息"
     }
   ]
 }

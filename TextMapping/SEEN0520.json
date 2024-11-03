@@ -2689,7 +2689,7 @@
     {
       "JP": "`理樹@「えっと…それよりさすらいたい気分なんだけど…いいかな」",
       "EN": "`Riki@❝Um... I feel more like wandering around right now... Is that okay?❞",
-      "Translation": "`理树@「嗯…我还是更想去闲逛…这样可以吗？」"
+      "Translation": "`理树@「嗯…我还是更想去巡游…这样可以吗？」"
     },
     {
       "JP": "`恭介@「そうか…そう言われると駄目とは言えないな。今朝俺は、バトルも野球と同じく真剣に、と伝えただけにな」",
@@ -5281,57 +5281,57 @@
     {
       "JP": "いく$dいかない",
       "EN": "Go$dDon't go",
-      "Translation": "Go$dDon't go"
+      "Translation": "去$d不去"
     },
     {
       "JP": "いく$dいかない",
       "EN": "Go$dDon't go",
-      "Translation": "Go$dDon't go"
+      "Translation": "去$d不去"
     },
     {
       "JP": "本当$d好き",
       "EN": "Yes, it's true$dNo, I like him",
-      "Translation": "Yes, it's true$dNo, I like him"
+      "Translation": "是真的$d我喜欢他"
     },
     {
       "JP": "朱鷺戸さんと過ごしたい$d誰かと練習に励もう",
       "EN": "Spend time with Tokido-san$dPractice with someone",
-      "Translation": "Spend time with Tokido-san$dPractice with someone"
+      "Translation": "和朱鹭户同学一起$d和谁一起训练"
     },
     {
       "JP": "趣味を訊く$dどんな男がタイプか訊く",
       "EN": "Ask about her hobbies$dAsk what her type is",
-      "Translation": "Ask about her hobbies$dAsk what her type is"
+      "Translation": "问她的兴趣$d问她的理想型"
     },
     {
       "JP": "背は高いよ？$d包容力はあるよ？$d実は年上だよ？",
       "EN": "I'm tall.$dI'm understanding.$dI'm actually older.",
-      "Translation": "I'm tall.$dI'm understanding.$dI'm actually older."
+      "Translation": "我很高哦？$d我很有包容力哦？$d我其实年龄更大哦？"
     },
     {
       "JP": "祈る$dそろそろ帰る",
       "EN": "Pray$dIt's time to go",
-      "Translation": "Pray$dIt's time to go"
+      "Translation": "祈祷$d该走了"
     },
     {
       "JP": "探す$dさすらう",
       "EN": "Look for a partner$dWander",
-      "Translation": "Look for a partner$dWander"
+      "Translation": "寻找$d巡游"
     },
     {
       "JP": "[(#297==0),]鈴$d[(#298==0),]葉留佳$d[(#299==0),]来ヶ谷$d[(#300==0),]真人$d[(#301==0),]恭介",
       "EN": "[(#297==0),]Rin$d[(#298==0),]Haruka$d[(#299==0),]Kurugaya$d[(#300==0),]Masato$d[(#301==0),]Kyousuke",
-      "Translation": "[(#297==0),]Rin$d[(#298==0),]Haruka$d[(#299==0),]Kurugaya$d[(#300==0),]Masato$d[(#301==0),]Kyousuke"
+      "Translation": "[(#297==0),]铃$d[(#298==0),]叶留佳$d[(#299==0),]来谷$d[(#300==0),]真人$d[(#301==0),]恭介"
     },
     {
       "JP": "[(#297==0),]鈴$d[(#298==0),]葉留佳$d[(#299==0),]来ヶ谷$d[(#300==0),]真人$d[(#301==0),]恭介",
       "EN": "[(#297==0),]Rin$d[(#298==0),]Haruka$d[(#299==0),]Kurugaya$d[(#300==0),]Masato$d[(#301==0),]Kyousuke",
-      "Translation": "[(#297==0),]Rin$d[(#298==0),]Haruka$d[(#299==0),]Kurugaya$d[(#300==0),]Masato$d[(#301==0),]Kyousuke"
+      "Translation": "[(#297==0),]铃$d[(#298==0),]叶留佳$d[(#299==0),]来谷$d[(#300==0),]真人$d[(#301==0),]恭介"
     },
     {
       "JP": "ベーシックなドーナツ$dチョコストライプのドーナツ$dふわふわストロベリードーナツ",
       "EN": "Basic donut$dChocolate striped donut$dLight strawberry donut",
-      "Translation": "Basic donut$dChocolate striped donut$dLight strawberry donut"
+      "Translation": "普通的甜甜圈$d巧克力甜甜圈$d蓬松草莓甜甜圈"
     }
   ]
 }

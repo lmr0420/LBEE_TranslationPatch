@@ -3,22 +3,22 @@
     {
       "JP1": "神北が練習に加わった！",
       "EN1": "Kamikita joined the practice!",
-      "Translation1": "Kamikita joined the practice!"
+      "Translation1": "神北加入了练习！"
     },
     {
       "JP1": "同時に神北がバトルランキングに参戦した！",
       "EN1": "At the same time she joined the battle ranking system!",
-      "Translation1": "At the same time she joined the battle ranking system!"
+      "Translation1": "同时神北也加入了战斗排位赛！"
     },
     {
       "JP1": "鈴の称号が『マウンド上の精密機械』にランクアップした！",
       "EN1": "Rin's title improved to ❝Precision pitching machine on the mound❞!",
-      "Translation1": "Rin's title improved to ❝Precision pitching machine on the mound❞!"
+      "Translation1": "铃的称号升级为了『投手台上的精密机械』！"
     },
     {
       "JP1": "鈴の称号が『可能性を感じさせるノーコン』にランクアップした！",
       "EN1": "Rin's title improved to ❝No-con with potential❞!",
-      "Translation1": "Rin's title improved to ❝No-con with potential❞!"
+      "Translation1": "铃的称号升级为了『能让人感到可能性的高射炮』！"
     }
   ],
   "MESSAGE": [
@@ -14292,7 +14292,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "散步$d休息"
+      "Translation": "巡游$d休息"
     },
     {
       "JP": "ＱＲコードを携帯で読み込んでおく$d先を急ぐ",
@@ -14302,7 +14302,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "散步$d休息"
+      "Translation": "巡游$d休息"
     },
     {
       "JP": "引き受ける$d自分で行ってもらう",
@@ -14352,7 +14352,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "散步$d休息"
+      "Translation": "巡游$d休息"
     }
   ]
 }

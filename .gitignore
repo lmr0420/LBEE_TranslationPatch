@@ -23,4 +23,4 @@ bin/
 obj/
 Properties/
 packages/
-.kate-swp
+*.kate-swp

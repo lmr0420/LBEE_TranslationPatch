@@ -113,7 +113,7 @@ namespace TextMapper
                         if (TextLines[i].Contains("「") && TextLines[i].IndexOf('「') != 0 && !TextLines[i].StartsWith("`"))
                         {
                             int DialogueStart = TextLines[i].IndexOf('「');
-                            if (DialogueStart < 10)
+                            if (DialogueStart < 5)
                             {
                                 PendingReplace = "`" + PendingReplace.Insert(DialogueStart, "@");
                             }
@@ -121,7 +121,7 @@ namespace TextMapper
                         else if (TextLines[i].Contains("『") && TextLines[i].IndexOf('『') != 0 && !TextLines[i].StartsWith("`"))
                         {
                             int DialogueStart = TextLines[i].IndexOf('『');
-                            if (DialogueStart < 10)
+                            if (DialogueStart < 5)
                             {
                                 PendingReplace = "`" + PendingReplace.Insert(DialogueStart, "@");
                             }

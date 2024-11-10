@@ -13,10 +13,64 @@
     using System.Diagnostics;
     using System.Xml.Linq;
     using System.Reflection.Metadata;
+    using System.Runtime.InteropServices;
+    using System.Runtime.CompilerServices;
+
+    [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Auto)]
+    public struct OpenFileName
+    {
+        public int lStructSize;
+        public IntPtr hwndOwner;
+        public IntPtr hInstance;
+        public string lpstrFilter;
+        public string lpstrCustomFilter;
+        public int nMaxCustFilter;
+        public int nFilterIndex;
+        public string lpstrFile;
+        public int nMaxFile;
+        public string lpstrFileTitle;
+        public int nMaxFileTitle;
+        public string lpstrInitialDir;
+        public string lpstrTitle;
+        public int Flags;
+        public short nFileOffset;
+        public short nFileExtension;
+        public string lpstrDefExt;
+        public IntPtr lCustData;
+        public IntPtr lpfnHook;
+        public string lpTemplateName;
+        public IntPtr pvReserved;
+        public int dwReserved;
+        public int flagsEx;
+    }
 
     class Program
     {
+        [DllImport("comdlg32.dll", SetLastError = true, CharSet = CharSet.Auto)]
+        private static extern bool GetOpenFileName(ref OpenFileName ofn);
+
+        private static string Select_LBEEEXE()
+        {
+            var CacheWD = Directory.GetCurrentDirectory();
+            var ofn = new OpenFileName();
+            ofn.lStructSize = Marshal.SizeOf(ofn);
+            // Define Filter for your extensions (Excel, ...)
+            ofn.lpstrFilter = "LBEE EXE\0*.exe";
+            ofn.lpstrFile = new string(new char[256]);
+            ofn.nMaxFile = ofn.lpstrFile.Length;
+            ofn.lpstrFileTitle = new string(new char[64]);
+            ofn.nMaxFileTitle = ofn.lpstrFileTitle.Length;
+            ofn.lpstrTitle = "选择Little Busters English Edition的主程序(LITBUS_WIN32.exe)";
+            var Result = GetOpenFileName(ref ofn);
+            Directory.SetCurrentDirectory(CacheWD);
+            return Result?ofn.lpstrFile:string.Empty;
+        }
+
+#if RELEASE
+        static string LBEEGamePath = "";
+#else
         static string LBEEGamePath = @"E:\SteamLibrary\steamapps\common\Little Busters! English Edition";
+#endif
         static string LBEECharset = @".\Charset.txt";
         static string TMPPath = Path.GetFullPath(@".\.tmp");
         static string TextMappingPath = Path.GetFullPath(@".\TextMapping");
@@ -38,7 +92,6 @@
 
         static void Main(string[] args)
         {
-            //Directory.SetCurrentDirectory(Path.GetDirectoryName(Environment.ProcessPath!)!);
             if(args.Length>0)
             {
                 string LBEE_Exe = args[0];
@@ -47,9 +100,11 @@
             }
             if(!Path.Exists(LBEEGamePath))
             {
-                Console.WriteLine("找不到LBEE的游戏目录，请将LBEE的主程序拖动到汉化程序上");
-                Console.ReadKey();
-                return;
+                LBEEGamePath = Path.GetDirectoryName(Select_LBEEEXE()) ?? "";
+                if (!Directory.Exists(LBEEGamePath))
+                {
+                    Environment.Exit(-1);
+                }
             }
 
             Directory.CreateDirectory(TMPPath);
@@ -81,9 +136,9 @@
             }
 
             // Assuming LuckSystem is a separate executable that needs to be run
-            Process.Start("LuckSystem\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEScriptPak}\" -o {Path.Combine(TMPPath, "ScriptFileList.txt")} --all {ExtractedScriptPath}").WaitForExit();
+            Process.Start(".\\LuckSystem\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEScriptPak}\" -o {Path.Combine(TMPPath, "ScriptFileList.txt")} --all {ExtractedScriptPath}").WaitForExit();
 
-            string[] Operators = File.ReadAllText("LuckSystem\\data\\LB_EN\\OPCODE.txt").ReplaceLineEndings().Split(Environment.NewLine);
+            string[] Operators = File.ReadAllText(".\\LuckSystem\\data\\LB_EN\\OPCODE.txt").ReplaceLineEndings().Split(Environment.NewLine);
             var scriptFiles = Directory.GetFiles(ExtractedScriptPath);
             foreach (var scriptFile in scriptFiles)
             {

@@ -317,6 +317,8 @@
             Process.Start("LuckSystem\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEFontPak}\" -i \"{PendingReplacePath}\" -o \"{LBEEFontPak}\"").WaitForExit();
 
             //针对EXE的Patch，这里逐字节扫描所有的数据，直到找到文字的位置，然后替换
+            //LBEE的EXE有SteamDRM保护，任何修改都会导致游戏无法启动
+            //但是万一呢？先把代码放在这里，或许有朝一日会有办法的。
             /*var ProgramTextPath = Path.Combine(TextMappingPath, "$PROGRAM.json");
             if (File.Exists(ProgramTextPath))
             {

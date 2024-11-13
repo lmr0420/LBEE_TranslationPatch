@@ -71,6 +71,7 @@
 #else
         static string LBEEGamePath = @"E:\SteamLibrary\steamapps\common\Little Busters! English Edition";
 #endif
+        static string LBEE_EXE = "";
         static string LBEECharset = @".\Charset.txt";
         static string TMPPath = Path.GetFullPath(@".\.tmp");
         static string TextMappingPath = Path.GetFullPath(@".\TextMapping");
@@ -94,13 +95,14 @@
         {
             if(args.Length>0)
             {
-                string LBEE_Exe = args[0];
+                LBEE_EXE = args[0];
                 // 获取LBEE_Exe所在文件夹
-                LBEEGamePath = Path.GetDirectoryName(LBEE_Exe)??"";
+                LBEEGamePath = Path.GetDirectoryName(LBEE_EXE) ??"";
             }
             if(!Path.Exists(LBEEGamePath))
             {
-                LBEEGamePath = Path.GetDirectoryName(Select_LBEEEXE()) ?? "";
+                LBEE_EXE = Select_LBEEEXE();
+                LBEEGamePath = Path.GetDirectoryName(LBEE_EXE) ?? "";
                 if (!Directory.Exists(LBEEGamePath))
                 {
                     Environment.Exit(-1);
@@ -311,7 +313,96 @@
                     }
                 }
             }
+
             Process.Start("LuckSystem\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEFontPak}\" -i \"{PendingReplacePath}\" -o \"{LBEEFontPak}\"").WaitForExit();
+
+            //针对EXE的Patch，这里逐字节扫描所有的数据，直到找到文字的位置，然后替换
+            /*var ProgramTextPath = Path.Combine(TextMappingPath, "$PROGRAM.json");
+            if (File.Exists(ProgramTextPath))
+            {
+                var LBEE_Vanilla_EXE = Path.Combine(LBEEGamePath, "LITBUS_WIN32.vanilla.bak");
+                if(!File.Exists(LBEE_Vanilla_EXE))
+                {
+                    File.Copy(LBEE_EXE, LBEE_Vanilla_EXE);
+                }
+                var LBEEBinaries = File.ReadAllBytes(LBEE_Vanilla_EXE);
+                var ProgramTextJson = JArray.Parse(File.ReadAllText(ProgramTextPath));
+                foreach(var ProgramTextItem in ProgramTextJson)
+                {
+                    var Source = ProgramTextItem.Value<JObject>()?["Source"]?.Value<string>() ?? "";
+                    var Target = ProgramTextItem.Value<JObject>()?["Target"]?.Value<string>() ?? "";
+                    if(Source == "" || Target == "" || Source==Target)
+                    {
+                        continue;
+                    }
+                    // 逐字节扫描UTF16
+                    var SourceU16 = Encoding.Unicode.GetBytes(Source);
+                    var TargetU16 = Encoding.Unicode.GetBytes(Target);
+                    if(SourceU16.Count()< TargetU16.Count())
+                    {
+                        Console.WriteLine("Program Text Error: Target Text is longer than Source Text");
+                    }
+                    else
+                    {
+                        for (int SearchOffset = 0; SearchOffset <= 1; SearchOffset++)
+                        {
+                            var SearchEnd = LBEEBinaries.Length - (SourceU16.Length + 2 + SearchOffset);
+                            for (var i = SearchOffset; i < SearchEnd; i += 2)
+                            {
+                                var Matched = true;
+                                for (var j = 0; j < SourceU16.Length; j++)
+                                {
+                                    if (LBEEBinaries[i + j] != SourceU16[j])
+                                    {
+                                        Matched = false;
+                                        break;
+                                    }
+                                }
+                                if (Matched && LBEEBinaries[i + SourceU16.Length] == 0 && LBEEBinaries[i + SourceU16.Length + 1] == 0)
+                                {
+                                    Array.Copy(TargetU16, 0, LBEEBinaries, i, TargetU16.Length);
+                                    LBEEBinaries[i + TargetU16.Length] = 0;
+                                    LBEEBinaries[i + TargetU16.Length + 1] = 0;
+                                }
+                            }
+                        }
+                    }
+                    // 逐字节扫描UTF8
+                    var SourceU8 = Encoding.UTF8.GetBytes(Source);
+                    var TargetU8 = Encoding.UTF8.GetBytes(Target);
+                    if (SourceU8.Count() < TargetU8.Count())
+                    {
+                        Console.WriteLine("Program Text Error: Target Text is longer than Source Text");
+                    }
+                    else
+                    {
+                        var SearchEnd = LBEEBinaries.Length - (SourceU16.Length + 1);
+                        for (var i = 0; i < SearchEnd; i++)
+                        {
+                            var Matched = true;
+                            for (var j = 0; j < SourceU8.Length; j++)
+                            {
+                                if (LBEEBinaries[i + j] != SourceU8[j])
+                                {
+                                    Matched = false;
+                                    break;
+                                }
+                            }
+                            if (Matched && LBEEBinaries[i + SourceU8.Length] == 0)
+                            {
+                                Array.Copy(TargetU8, 0, LBEEBinaries, i, TargetU8.Length);
+                                LBEEBinaries[i + TargetU8.Length] = 0;
+                            }
+                        }
+                    }
+                }
+                if(File.Exists(LBEE_EXE))
+                {
+                    File.Delete(LBEE_EXE);
+                }
+                File.WriteAllBytes(LBEE_EXE, LBEEBinaries);
+            }*/
+
         }
     }
 

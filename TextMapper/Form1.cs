@@ -126,6 +126,14 @@ namespace TextMapper
                                 PendingReplace = "`" + PendingReplace.Insert(DialogueStart, "@");
                             }
                         }
+                        else if (TextLines[i].Contains("（") && TextLines[i].IndexOf('（') != 0 && !TextLines[i].StartsWith("`"))
+                        {
+                            int DialogueStart = TextLines[i].IndexOf('（');
+                            if (DialogueStart < 4)
+                            {
+                                PendingReplace = "`" + PendingReplace.Insert(DialogueStart, "@");
+                            }
+                        }
                     }
                     TrasnlateTextObj["Translation"] = PendingReplace;
                 }

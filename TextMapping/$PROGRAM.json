@@ -1,0 +1,4010 @@
+[
+  {
+    "Source": "This product is a work of fiction.\nThere is no relation between real people, groups, places or incidents.\n\nThis product is owned by VisualArts. Consent of the company is required to use this software or its parts in any way other than private use; reproducing, modifying, uploading to the internet and using P2P software to share and distribute it is prohibited by law.",
+    "Target": "本产品纯属虚构\n与真实的人物，组织，地点或事件之间没有关系。\n\n本产品归VisualArts所有。除私人用途外，使用本软件或其部分须征得本公司同意；禁止复制、修改、上传到互联网，以及使用P2P软件进行分享和传播。"
+  },
+  {
+    "Source": "Do you want to turn on the Battle Sequence?\n(Turning it off will not hinder the story progression.)",
+    "Target": "Do you want to turn on the Battle Sequence?\n(Turning it off will not hinder the story progression.)"
+  },
+  {
+    "Source": "Do you want to turn on the Batting Practice?\n(Turning it off will not hinder the story progression.)",
+    "Target": "Do you want to turn on the Batting Practice?\n(Turning it off will not hinder the story progression.)"
+  },
+  {
+    "Source": "Do you want to turn on the Battle Rankings?\n(Turning it off will not hinder the story progression.)",
+    "Target": "Do you want to turn on the Battle Rankings?\n(Turning it off will not hinder the story progression.)"
+  },
+  {
+    "Source": "Do you want to turn on the shooting game?\nIf turned on, you can choose normal mode or easy mode.\n(Turning it on or changing to easy will not affect the story.)",
+    "Target": "Do you want to turn on the shooting game?\nIf turned on, you can choose normal mode or easy mode.\n(Turning it on or changing to easy will not affect the story.)"
+  },
+  {
+    "Source": "Do you want to reset Saya's root?\n(If yes, you will get to start over her route.)",
+    "Target": "Do you want to reset Saya's root?\n(If yes, you will get to start over her route.)"
+  },
+  {
+    "Source": "Would you like to start the game from the selected message?",
+    "Target": "Would you like to start the game from the selected message?"
+  },
+  {
+    "Source": "Clear information (system data) was saved.",
+    "Target": "Clear information (system data) was saved."
+  },
+  {
+    "Source": "Yes",
+    "Target": "Yes"
+  },
+  {
+    "Source": "Return to the title screen?",
+    "Target": "Return to the title screen?"
+  },
+  {
+    "Source": "System data is being saved.",
+    "Target": "System data is being saved."
+  },
+  {
+    "Source": "Close",
+    "Target": "Close"
+  },
+  {
+    "Source": "Delete",
+    "Target": "Delete"
+  },
+  {
+    "Source": "Latest",
+    "Target": "Latest"
+  },
+  {
+    "Source": "Do you wish to load this?",
+    "Target": "Do you wish to load this?"
+  },
+  {
+    "Source": "The saved data is corrupted and can not be loaded.",
+    "Target": "The saved data is corrupted and can not be loaded."
+  },
+  {
+    "Source": "A reading error occurred.",
+    "Target": "A reading error occurred."
+  },
+  {
+    "Source": "The file may be corrupted.",
+    "Target": "The file may be corrupted."
+  },
+  {
+    "Source": "Do you wish to save?",
+    "Target": "Do you wish to save?"
+  },
+  {
+    "Source": "Are you sure you wish to overwrite?",
+    "Target": "Are you sure you wish to overwrite?"
+  },
+  {
+    "Source": "Are you sure you wish to delete this?",
+    "Target": "Are you sure you wish to delete this?"
+  },
+  {
+    "Source": "It can not be deleted.",
+    "Target": "It can not be deleted."
+  },
+  {
+    "Source": "Save is complete.",
+    "Target": "Save is complete."
+  },
+  {
+    "Source": "Switching fonts ...",
+    "Target": "Switching fonts ..."
+  },
+  {
+    "Source": "Do you wish to jump to the beginning of this chapter?",
+    "Target": "Do you wish to jump to the beginning of this chapter?"
+  },
+  {
+    "Source": "Do you wish to jump to the previous chapter?",
+    "Target": "Do you wish to jump to the previous chapter?"
+  },
+  {
+    "Source": "Do you wish to jump to the previous choice?",
+    "Target": "Do you wish to jump to the previous choice?"
+  },
+  {
+    "Source": "Do you wish to jump to the next choice or chapter?",
+    "Target": "Do you wish to jump to the next choice or chapter?"
+  },
+  {
+    "Source": "Do you wish to jump to the next chapter?",
+    "Target": "Do you wish to jump to the next chapter?"
+  },
+  {
+    "Source": "Do you wish to jump to the next choice?",
+    "Target": "Do you wish to jump to the next choice?"
+  },
+  {
+    "Source": "Quick save can not be used.",
+    "Target": "Quick save can not be used."
+  },
+  {
+    "Source": "Quick save is in progress.",
+    "Target": "Quick save is in progress."
+  },
+  {
+    "Source": "Voice Collection Data",
+    "Target": "Voice Collection Data"
+  },
+  {
+    "Source": "System Data",
+    "Target": "System Data"
+  },
+  {
+    "Source": "Because there is unread text,$djump stopped at that position.",
+    "Target": "Because there is unread text,$djump stopped at that position."
+  },
+  {
+    "Source": "Jumping to the next choices ...",
+    "Target": "Jumping to the next choices ..."
+  },
+  {
+    "Source": "Do you wish to jump to the next option or chapter?",
+    "Target": "Do you wish to jump to the next option or chapter?"
+  },
+  {
+    "Source": "Would you like to return this page to the default settings?",
+    "Target": "Would you like to return this page to the default settings?"
+  },
+  {
+    "Source": "$K1Text$K0 preview.",
+    "Target": "$K1Text$K0 preview."
+  },
+  {
+    "Source": "$K1Settings$K0 such as character feed speed are reflected.",
+    "Target": "$K1Settings$K0 such as character feed speed are reflected."
+  },
+  {
+    "Source": "$A1Delete all saved data",
+    "Target": "$A1Delete all saved data"
+  },
+  {
+    "Source": "$A1(debug) Delete system data",
+    "Target": "$A1(debug) Delete system data"
+  },
+  {
+    "Source": "$A1(debug) Reset All achievements",
+    "Target": "$A1(debug) Reset All achievements"
+  },
+  {
+    "Source": "$A1Exit",
+    "Target": "$A1Exit"
+  },
+  {
+    "Source": "$A1(debug) ",
+    "Target": "$A1(debug) "
+  },
+  {
+    "Source": "$A1(debug) ",
+    "Target": "$A1(debug) "
+  },
+  {
+    "Source": "$A1Delete all saved data",
+    "Target": "$A1Delete all saved data"
+  },
+  {
+    "Source": "$A1Exit",
+    "Target": "$A1Exit"
+  },
+  {
+    "Source": "Do you delete all saved data including system data from the cloud and return the game to the initial state? (Deleting it can not be undone)",
+    "Target": "Do you delete all saved data including system data from the cloud and return the game to the initial state? (Deleting it can not be undone)"
+  },
+  {
+    "Source": "Deleting save data ...",
+    "Target": "Deleting save data ..."
+  },
+  {
+    "Source": "Deletion is completed.",
+    "Target": "Deletion is completed."
+  },
+  {
+    "Source": "Delete system data?",
+    "Target": "Delete system data?"
+  },
+  {
+    "Source": "Deleting system data ...",
+    "Target": "Deleting system data ..."
+  },
+  {
+    "Source": "Reset all Achievements. Is it OK?",
+    "Target": "Reset all Achievements. Is it OK?"
+  },
+  {
+    "Source": "$A1The system data is corrupted and can not be loaded. ",
+    "Target": "$A1The system data is corrupted and can not be loaded. "
+  },
+  {
+    "Source": "$A1Do you want to try again?",
+    "Target": "$A1Do you want to try again?"
+  },
+  {
+    "Source": "　　　　Choices",
+    "Target": "　　　　Choices"
+  },
+  {
+    "Source": "Position of　　",
+    "Target": "Position of　　"
+  },
+  {
+    "Source": "Continue",
+    "Target": "Continue"
+  },
+  {
+    "Source": "Stop on New Page",
+    "Target": "Stop on New Page"
+  },
+  {
+    "Source": "Voice",
+    "Target": "Voice"
+  },
+  {
+    "Source": "Off",
+    "Target": "Off"
+  },
+  {
+    "Source": "On",
+    "Target": "On"
+  },
+  {
+    "Source": "Display date",
+    "Target": "Display date"
+  },
+  {
+    "Source": "【Voice】If you select ❝Continue❞, voice will continue to flow even if you send a page during voice playback.$S024$C[606060]（It stops if there is voice on the next page）",
+    "Target": "【Voice】If you select ❝Continue❞, voice will continue to flow even if you send a page during voice playback.$S024$C[606060]（It stops if there is voice on the next page）"
+  },
+  {
+    "Source": "Language",
+    "Target": "Language"
+  },
+  {
+    "Source": "Modern",
+    "Target": "Modern"
+  },
+  {
+    "Source": "Mincho",
+    "Target": "Mincho"
+  },
+  {
+    "Source": "Gothic 2",
+    "Target": "Gothic 2"
+  },
+  {
+    "Source": "Gothic 1",
+    "Target": "Gothic 1"
+  },
+  {
+    "Source": "Font",
+    "Target": "Font"
+  },
+  {
+    "Source": "　　Transparency",
+    "Target": "　　Transparency"
+  },
+  {
+    "Source": "Window　　　　　",
+    "Target": "Window　　　　　"
+  },
+  {
+    "Source": "Only choices",
+    "Target": "Only choices"
+  },
+  {
+    "Source": "　　　Read Text",
+    "Target": "　　　Read Text"
+  },
+  {
+    "Source": "Color of　　　",
+    "Target": "Color of　　　"
+  },
+  {
+    "Source": "Keyword",
+    "Target": "Keyword"
+  },
+  {
+    "Source": "Busterpedia",
+    "Target": "Busterpedia"
+  },
+  {
+    "Source": "Yellow",
+    "Target": "Yellow"
+  },
+  {
+    "Source": "Red",
+    "Target": "Red"
+  },
+  {
+    "Source": "Purple",
+    "Target": "Purple"
+  },
+  {
+    "Source": "Blue",
+    "Target": "Blue"
+  },
+  {
+    "Source": "Green",
+    "Target": "Green"
+  },
+  {
+    "Source": "Color",
+    "Target": "Color"
+  },
+  {
+    "Source": "【Wait Time Per Character】In auto mode, this sets the wait time until the next message is displayed based on the number of characters in text.",
+    "Target": "【Wait Time Per Character】In auto mode, this sets the wait time until the next message is displayed based on the number of characters in text."
+  },
+  {
+    "Source": "Fast",
+    "Target": "Fast"
+  },
+  {
+    "Source": "Slow",
+    "Target": "Slow"
+  },
+  {
+    "Source": "Text Speed",
+    "Target": "Text Speed"
+  },
+  {
+    "Source": "Wait Time　　",
+    "Target": "Wait Time　　"
+  },
+  {
+    "Source": "　Per Character",
+    "Target": "　Per Character"
+  },
+  {
+    "Source": "3 sec",
+    "Target": "3 sec"
+  },
+  {
+    "Source": "2 sec",
+    "Target": "2 sec"
+  },
+  {
+    "Source": "1 sec",
+    "Target": "1 sec"
+  },
+  {
+    "Source": "0 sec",
+    "Target": "0 sec"
+  },
+  {
+    "Source": "Base Wait Time",
+    "Target": "Base Wait Time"
+  },
+  {
+    "Source": "Master Volume",
+    "Target": "Master Volume"
+  },
+  {
+    "Source": "System SE",
+    "Target": "System SE"
+  },
+  {
+    "Source": "Komari",
+    "Target": "Komari"
+  },
+  {
+    "Source": "Rin",
+    "Target": "Rin"
+  },
+  {
+    "Source": "Haruka",
+    "Target": "Haruka"
+  },
+  {
+    "Source": "Kud",
+    "Target": "Kud"
+  },
+  {
+    "Source": "Kurugaya",
+    "Target": "Kurugaya"
+  },
+  {
+    "Source": "Mio",
+    "Target": "Mio"
+  },
+  {
+    "Source": "Kanata",
+    "Target": "Kanata"
+  },
+  {
+    "Source": "Sasami",
+    "Target": "Sasami"
+  },
+  {
+    "Source": "Saya",
+    "Target": "Saya"
+  },
+  {
+    "Source": "Kyousuke",
+    "Target": "Kyousuke"
+  },
+  {
+    "Source": "Masato",
+    "Target": "Masato"
+  },
+  {
+    "Source": "Kengo",
+    "Target": "Kengo"
+  },
+  {
+    "Source": "Riki",
+    "Target": "Riki"
+  },
+  {
+    "Source": "Misc(Male)",
+    "Target": "Misc(Male)"
+  },
+  {
+    "Source": "Misc(Female)",
+    "Target": "Misc(Female)"
+  },
+  {
+    "Source": "Mask the Saito",
+    "Target": "Mask the Saito"
+  },
+  {
+    "Source": "Club Member",
+    "Target": "Club Member"
+  },
+  {
+    "Source": "Unknown Lifeform",
+    "Target": "Unknown Lifeform"
+  },
+  {
+    "Source": "Start/Cancel",
+    "Target": "Start/Cancel"
+  },
+  {
+    "Source": "While pressed",
+    "Target": "While pressed"
+  },
+  {
+    "Source": "C (Skip)",
+    "Target": "C (Skip)"
+  },
+  {
+    "Source": "Z (Rewind)",
+    "Target": "Z (Rewind)"
+  },
+  {
+    "Source": "Disable",
+    "Target": "Disable"
+  },
+  {
+    "Source": "Forward Once",
+    "Target": "Forward Once"
+  },
+  {
+    "Source": "Right Arrow",
+    "Target": "Right Arrow"
+  },
+  {
+    "Source": "Rewind Once",
+    "Target": "Rewind Once"
+  },
+  {
+    "Source": "Left Arrow",
+    "Target": "Left Arrow"
+  },
+  {
+    "Source": "Backlog",
+    "Target": "Backlog"
+  },
+  {
+    "Source": "Up Arrow",
+    "Target": "Up Arrow"
+  },
+  {
+    "Source": "Hide Window",
+    "Target": "Hide Window"
+  },
+  {
+    "Source": "Page Up",
+    "Target": "Page Up"
+  },
+  {
+    "Source": "Quick Save",
+    "Target": "Quick Save"
+  },
+  {
+    "Source": "Wheel up",
+    "Target": "Wheel up"
+  },
+  {
+    "Source": "Wheel down",
+    "Target": "Wheel down"
+  },
+  {
+    "Source": "     Off     ",
+    "Target": "     Off     "
+  },
+  {
+    "Source": "Dialog and Choices",
+    "Target": "Dialog and Choices"
+  },
+  {
+    "Source": "All cursors",
+    "Target": "All cursors"
+  },
+  {
+    "Source": "Snap pointer",
+    "Target": "Snap pointer"
+  },
+  {
+    "Source": "Gesture",
+    "Target": "Gesture"
+  },
+  {
+    "Source": "【Gesture】If you set it to ❝On❞, you can use the same gesture as the touch operation such as flick with the mouse.",
+    "Target": "【Gesture】If you set it to ❝On❞, you can use the same gesture as the touch operation such as flick with the mouse."
+  },
+  {
+    "Source": "Rewind",
+    "Target": "Rewind"
+  },
+  {
+    "Source": "Jump Forward",
+    "Target": "Jump Forward"
+  },
+  {
+    "Source": "Jump Back",
+    "Target": "Jump Back"
+  },
+  {
+    "Source": "Select Language",
+    "Target": "Select Language"
+  },
+  {
+    "Source": "Two finger tap",
+    "Target": "Two finger tap"
+  },
+  {
+    "Source": "0.2 sec/char",
+    "Target": "0.2 sec/char"
+  },
+  {
+    "Source": "0 sec/char",
+    "Target": "0 sec/char"
+  },
+  {
+    "Source": "Drag in the message window to skip.\nAuto skip by swiping (unlock by tapping).",
+    "Target": "Drag in the message window to skip.\nAuto skip by swiping (unlock by tapping)."
+  },
+  {
+    "Source": "Drag in the message window to rewind.\nFlick and auto swiping (unlock by tapping).",
+    "Target": "Drag in the message window to rewind.\nFlick and auto swiping (unlock by tapping)."
+  },
+  {
+    "Source": "Swipe outside the message window jumps to next choice, or the end of previously read text.",
+    "Target": "Swipe outside the message window jumps to next choice, or the end of previously read text."
+  },
+  {
+    "Source": "Swipe outside the message window to jump to previous choice.",
+    "Target": "Swipe outside the message window to jump to previous choice."
+  },
+  {
+    "Source": "Full Screen",
+    "Target": "Full Screen"
+  },
+  {
+    "Source": "Window",
+    "Target": "Window"
+  },
+  {
+    "Source": "Screen Mode",
+    "Target": "Screen Mode"
+  },
+  {
+    "Source": "Auto",
+    "Target": "Auto"
+  },
+  {
+    "Source": "Window Size",
+    "Target": "Window Size"
+  },
+  {
+    "Source": "Low resolution",
+    "Target": "Low resolution"
+  },
+  {
+    "Source": "Standard",
+    "Target": "Standard"
+  },
+  {
+    "Source": "Movie Quality",
+    "Target": "Movie Quality"
+  },
+  {
+    "Source": "High",
+    "Target": "High"
+  },
+  {
+    "Source": "Above Normal",
+    "Target": "Above Normal"
+  },
+  {
+    "Source": "Normal",
+    "Target": "Normal"
+  },
+  {
+    "Source": "Process Priority",
+    "Target": "Process Priority"
+  },
+  {
+    "Source": "Sound API",
+    "Target": "Sound API"
+  },
+  {
+    "Source": "Changes to the sound API settings will not take effect until the game is restarted.",
+    "Target": "Changes to the sound API settings will not take effect until the game is restarted."
+  },
+  {
+    "Source": "Club Member",
+    "Target": "Club Member"
+  },
+  {
+    "Source": "Unknown Lifeform",
+    "Target": "Unknown Lifeform"
+  },
+  {
+    "Source": "Other 4",
+    "Target": "Other 4"
+  },
+  {
+    "Source": "Ping Pong Ball",
+    "Target": "Ping Pong Ball"
+  },
+  {
+    "Source": "Baseball",
+    "Target": "Baseball"
+  },
+  {
+    "Source": "Volleyball",
+    "Target": "Volleyball"
+  },
+  {
+    "Source": "Basketball",
+    "Target": "Basketball"
+  },
+  {
+    "Source": "Basket of Basketballs",
+    "Target": "Basket of Basketballs"
+  },
+  {
+    "Source": "Super Ball",
+    "Target": "Super Ball"
+  },
+  {
+    "Source": "Eraser",
+    "Target": "Eraser"
+  },
+  {
+    "Source": "Chalk",
+    "Target": "Chalk"
+  },
+  {
+    "Source": "Pillow",
+    "Target": "Pillow"
+  },
+  {
+    "Source": "Soil from Koshien",
+    "Target": "Soil from Koshien"
+  },
+  {
+    "Source": "Sea Urchin",
+    "Target": "Sea Urchin"
+  },
+  {
+    "Source": "Basket of Sea Urchins",
+    "Target": "Basket of Sea Urchins"
+  },
+  {
+    "Source": "Soccer Ball",
+    "Target": "Soccer Ball"
+  },
+  {
+    "Source": "Rugby Ball",
+    "Target": "Rugby Ball"
+  },
+  {
+    "Source": "Ping Pong Paddle",
+    "Target": "Ping Pong Paddle"
+  },
+  {
+    "Source": "Badminton Racket",
+    "Target": "Badminton Racket"
+  },
+  {
+    "Source": "Tennis Racket",
+    "Target": "Tennis Racket"
+  },
+  {
+    "Source": "Burdock",
+    "Target": "Burdock"
+  },
+  {
+    "Source": "Thick Burdock",
+    "Target": "Thick Burdock"
+  },
+  {
+    "Source": "Eel Pie",
+    "Target": "Eel Pie"
+  },
+  {
+    "Source": "Tanaka Family Seal",
+    "Target": "Tanaka Family Seal"
+  },
+  {
+    "Source": "Saito Family Seal",
+    "Target": "Saito Family Seal"
+  },
+  {
+    "Source": "Cosmetic Paper",
+    "Target": "Cosmetic Paper"
+  },
+  {
+    "Source": "Expensive Cosmetic Paper",
+    "Target": "Expensive Cosmetic Paper"
+  },
+  {
+    "Source": "Vinyl Hero Figure",
+    "Target": "Vinyl Hero Figure"
+  },
+  {
+    "Source": "Vinyl Phantom Figure",
+    "Target": "Vinyl Phantom Figure"
+  },
+  {
+    "Source": "Superalloy Robot",
+    "Target": "Superalloy Robot"
+  },
+  {
+    "Source": "Ride-on Toy Car",
+    "Target": "Ride-on Toy Car"
+  },
+  {
+    "Source": "Tricycle",
+    "Target": "Tricycle"
+  },
+  {
+    "Source": "Granny's Bike",
+    "Target": "Granny's Bike"
+  },
+  {
+    "Source": "MP3プレイヤー(mini)",
+    "Target": "MP3プレイヤー(mini)"
+  },
+  {
+    "Source": "Mini MP3 Player",
+    "Target": "Mini MP3 Player"
+  },
+  {
+    "Source": "MP3プレイヤー(60GB)",
+    "Target": "MP3プレイヤー(60GB)"
+  },
+  {
+    "Source": "60GB MP3 Player",
+    "Target": "60GB MP3 Player"
+  },
+  {
+    "Source": "Newspaper",
+    "Target": "Newspaper"
+  },
+  {
+    "Source": "Magazine",
+    "Target": "Magazine"
+  },
+  {
+    "Source": "Business card",
+    "Target": "Business card"
+  },
+  {
+    "Source": "Bon Lantern Festival Gift",
+    "Target": "Bon Lantern Festival Gift"
+  },
+  {
+    "Source": "Blanket",
+    "Target": "Blanket"
+  },
+  {
+    "Source": "Gym Net",
+    "Target": "Gym Net"
+  },
+  {
+    "Source": "Persian Tiger Carpet",
+    "Target": "Persian Tiger Carpet"
+  },
+  {
+    "Source": "Rubber Band",
+    "Target": "Rubber Band"
+  },
+  {
+    "Source": "Pellet Gun",
+    "Target": "Pellet Gun"
+  },
+  {
+    "Source": "Small-sized Balloon",
+    "Target": "Small-sized Balloon"
+  },
+  {
+    "Source": "Medium-sized Balloon",
+    "Target": "Medium-sized Balloon"
+  },
+  {
+    "Source": "Large-sized Balloon",
+    "Target": "Large-sized Balloon"
+  },
+  {
+    "Source": "Chewed Gum",
+    "Target": "Chewed Gum"
+  },
+  {
+    "Source": "Banana Peel",
+    "Target": "Banana Peel"
+  },
+  {
+    "Source": "Bucket",
+    "Target": "Bucket"
+  },
+  {
+    "Source": "Mouse Trap",
+    "Target": "Mouse Trap"
+  },
+  {
+    "Source": "Hand Soap",
+    "Target": "Hand Soap"
+  },
+  {
+    "Source": "Cleansing Soap",
+    "Target": "Cleansing Soap"
+  },
+  {
+    "Source": "Body Shampoo",
+    "Target": "Body Shampoo"
+  },
+  {
+    "Source": "Adhesive roller",
+    "Target": "Adhesive roller"
+  },
+  {
+    "Source": "Broom",
+    "Target": "Broom"
+  },
+  {
+    "Source": "Mop",
+    "Target": "Mop"
+  },
+  {
+    "Source": "Toilet Brush",
+    "Target": "Toilet Brush"
+  },
+  {
+    "Source": "Dust Cloth",
+    "Target": "Dust Cloth"
+  },
+  {
+    "Source": "Firecracker",
+    "Target": "Firecracker"
+  },
+  {
+    "Source": "Skyrocket",
+    "Target": "Skyrocket"
+  },
+  {
+    "Source": "Fireworks Launcher",
+    "Target": "Fireworks Launcher"
+  },
+  {
+    "Source": "Mini Car",
+    "Target": "Mini Car"
+  },
+  {
+    "Source": "Remote-controlled Car",
+    "Target": "Remote-controlled Car"
+  },
+  {
+    "Source": "Papercraft Plane",
+    "Target": "Papercraft Plane"
+  },
+  {
+    "Source": "Papercraft Stegosaurus",
+    "Target": "Papercraft Stegosaurus"
+  },
+  {
+    "Source": "Papercraft Himeji Castle",
+    "Target": "Papercraft Himeji Castle"
+  },
+  {
+    "Source": "Papercraft Mobile Battleship",
+    "Target": "Papercraft Mobile Battleship"
+  },
+  {
+    "Source": "Sticky Tape",
+    "Target": "Sticky Tape"
+  },
+  {
+    "Source": "Box Tape",
+    "Target": "Box Tape"
+  },
+  {
+    "Source": "Super-powerful Industrial Heat-resistant Adhesive Tape",
+    "Target": "Super-powerful Industrial Heat-resistant Adhesive Tape"
+  },
+  {
+    "Source": "Glue Stick",
+    "Target": "Glue Stick"
+  },
+  {
+    "Source": "Industrial Liquid Glue",
+    "Target": "Industrial Liquid Glue"
+  },
+  {
+    "Source": "Instant Glue",
+    "Target": "Instant Glue"
+  },
+  {
+    "Source": "Toothbrush",
+    "Target": "Toothbrush"
+  },
+  {
+    "Source": "Electric Toothbrush",
+    "Target": "Electric Toothbrush"
+  },
+  {
+    "Source": "Kitchen Mitten",
+    "Target": "Kitchen Mitten"
+  },
+  {
+    "Source": "Chopsticks",
+    "Target": "Chopsticks"
+  },
+  {
+    "Source": "Tong",
+    "Target": "Tong"
+  },
+  {
+    "Source": "Pliers",
+    "Target": "Pliers"
+  },
+  {
+    "Source": "Laundry Peg",
+    "Target": "Laundry Peg"
+  },
+  {
+    "Source": "Aluminium Peg",
+    "Target": "Aluminium Peg"
+  },
+  {
+    "Source": "Small Clip-on Fan",
+    "Target": "Small Clip-on Fan"
+  },
+  {
+    "Source": "Toy Knife",
+    "Target": "Toy Knife"
+  },
+  {
+    "Source": "Pop up Pirate",
+    "Target": "Pop up Pirate"
+  },
+  {
+    "Source": "Boxing Gloves",
+    "Target": "Boxing Gloves"
+  },
+  {
+    "Source": "Oar",
+    "Target": "Oar"
+  },
+  {
+    "Source": "Three Section Staff",
+    "Target": "Three Section Staff"
+  },
+  {
+    "Source": "Blackboard Eraser",
+    "Target": "Blackboard Eraser"
+  },
+  {
+    "Source": "Sleeping Bag",
+    "Target": "Sleeping Bag"
+  },
+  {
+    "Source": "Stag Beetle",
+    "Target": "Stag Beetle"
+  },
+  {
+    "Source": "Magic Hat",
+    "Target": "Magic Hat"
+  },
+  {
+    "Source": "Child Archer Figure",
+    "Target": "Child Archer Figure"
+  },
+  {
+    "Source": "Prism Experiment Kit",
+    "Target": "Prism Experiment Kit"
+  },
+  {
+    "Source": "3D Glasses",
+    "Target": "3D Glasses"
+  },
+  {
+    "Source": "Digital Cameras",
+    "Target": "Digital Cameras"
+  },
+  {
+    "Source": "Nail Clipper",
+    "Target": "Nail Clipper"
+  },
+  {
+    "Source": "Toilet Paper",
+    "Target": "Toilet Paper"
+  },
+  {
+    "Source": "Counting Machine",
+    "Target": "Counting Machine"
+  },
+  {
+    "Source": "Dice",
+    "Target": "Dice"
+  },
+  {
+    "Source": "Cat",
+    "Target": "Cat"
+  },
+  {
+    "Source": "1 Cat",
+    "Target": "1 Cat"
+  },
+  {
+    "Source": "2 Cats",
+    "Target": "2 Cats"
+  },
+  {
+    "Source": "3 Cats",
+    "Target": "3 Cats"
+  },
+  {
+    "Source": "4 Cats",
+    "Target": "4 Cats"
+  },
+  {
+    "Source": "5 Cats",
+    "Target": "5 Cats"
+  },
+  {
+    "Source": "6 Cats",
+    "Target": "6 Cats"
+  },
+  {
+    "Source": "7 Cats",
+    "Target": "7 Cats"
+  },
+  {
+    "Source": "8 Cats",
+    "Target": "8 Cats"
+  },
+  {
+    "Source": "9 Cats",
+    "Target": "9 Cats"
+  },
+  {
+    "Source": "10 Cats",
+    "Target": "10 Cats"
+  },
+  {
+    "Source": "11 Cats",
+    "Target": "11 Cats"
+  },
+  {
+    "Source": "12 Cats",
+    "Target": "12 Cats"
+  },
+  {
+    "Source": "Dorj",
+    "Target": "Dorj"
+  },
+  {
+    "Source": "Plush Penguin",
+    "Target": "Plush Penguin"
+  },
+  {
+    "Source": "Notebook",
+    "Target": "Notebook"
+  },
+  {
+    "Source": "Replica of Norimune",
+    "Target": "Replica of Norimune"
+  },
+  {
+    "Source": "Machine Gun",
+    "Target": "Machine Gun"
+  },
+  {
+    "Source": "Strelka",
+    "Target": "Strelka"
+  },
+  {
+    "Source": "Belka",
+    "Target": "Belka"
+  },
+  {
+    "Source": "Belka and Strelka",
+    "Target": "Belka and Strelka"
+  },
+  {
+    "Source": "Marble",
+    "Target": "Marble"
+  },
+  {
+    "Source": "Beigoma",
+    "Target": "Beigoma"
+  },
+  {
+    "Source": "parasol",
+    "Target": "parasol"
+  },
+  {
+    "Source": "Cheap Magazine",
+    "Target": "Cheap Magazine"
+  },
+  {
+    "Source": "Cyber Yoyo",
+    "Target": "Cyber Yoyo"
+  },
+  {
+    "Source": "Computer Virus",
+    "Target": "Computer Virus"
+  },
+  {
+    "Source": "Electromagneic Barrier",
+    "Target": "Electromagneic Barrier"
+  },
+  {
+    "Source": "Lightsaber",
+    "Target": "Lightsaber"
+  },
+  {
+    "Source": "Beam Rifle",
+    "Target": "Beam Rifle"
+  },
+  {
+    "Source": "Mega Bazooka",
+    "Target": "Mega Bazooka"
+  },
+  {
+    "Source": "Girls can roll it up and use it as a sword. (By Kyousuke)",
+    "Target": "Girls can roll it up and use it as a sword. (By Kyousuke)"
+  },
+  {
+    "Source": "Since some people throw pieces of eraser during classes, I give the green light. (By Kyousuke)",
+    "Target": "Since some people throw pieces of eraser during classes, I give the green light. (By Kyousuke)"
+  },
+  {
+    "Source": "Well, it's okay to throw it. Some teachers do that. (By Kyousuke)",
+    "Target": "Well, it's okay to throw it. Some teachers do that. (By Kyousuke)"
+  },
+  {
+    "Source": "It's okay to throw pillows like you would in a pillow fight. (By Kyousuke)",
+    "Target": "It's okay to throw pillows like you would in a pillow fight. (By Kyousuke)"
+  },
+  {
+    "Source": "It's okay to throw the soil from Koshien like you would be praying. (By Kyousuke)",
+    "Target": "It's okay to throw the soil from Koshien like you would be praying. (By Kyousuke)"
+  },
+  {
+    "Source": "His shape is just asking to be thrown anyway, I give the green light. (By Kyousuke)",
+    "Target": "His shape is just asking to be thrown anyway, I give the green light. (By Kyousuke)"
+  },
+  {
+    "Source": "Guys can only use the soft rubber part. (By Kyousuke)",
+    "Target": "Guys can only use the soft rubber part. (By Kyousuke)"
+  },
+  {
+    "Source": "Guys can only use the netting. (By Kyousuke)",
+    "Target": "Guys can only use the netting. (By Kyousuke)"
+  },
+  {
+    "Source": "I saw people striking each other with burdock on TV, so it's ok to just hit with it. (By Kyousuke)",
+    "Target": "I saw people striking each other with burdock on TV, so it's ok to just hit with it. (By Kyousuke)"
+  },
+  {
+    "Source": "Masato has already used it in a battle, so I give the green light. (By Kyousuke)",
+    "Target": "Masato has already used it in a battle, so I give the green light. (By Kyousuke)"
+  },
+  {
+    "Source": "You can only fight by manipulating the hero. (By Kyousuke)",
+    "Target": "You can only fight by manipulating the hero. (By Kyousuke)"
+  },
+  {
+    "Source": "You can only fight by manipulating the phantom. (By Kyousuke)",
+    "Target": "You can only fight by manipulating the phantom. (By Kyousuke)"
+  },
+  {
+    "Source": "You can only fight by manipulating the robot.(By Kyousuke)",
+    "Target": "You can only fight by manipulating the robot.(By Kyousuke)"
+  },
+  {
+    "Source": "You may attack by dancing to the rhythm, but you have to close your eyes for immersion. (By Kyousuke)",
+    "Target": "You may attack by dancing to the rhythm, but you have to close your eyes for immersion. (By Kyousuke)"
+  },
+  {
+    "Source": "Guys can use it the way they would smack flies. (By Kyousuke)",
+    "Target": "Guys can use it the way they would smack flies. (By Kyousuke)"
+  },
+  {
+    "Source": "It's okay to shoot the rubber band from your finger. Kids play like that all the time. (By Kyousuke)",
+    "Target": "It's okay to shoot the rubber band from your finger. Kids play like that all the time. (By Kyousuke)"
+  },
+  {
+    "Source": "It's actually dangerous to point fireworks at someone, don't try this at home. (By Kyousuke)",
+    "Target": "It's actually dangerous to point fireworks at someone, don't try this at home. (By Kyousuke)"
+  },
+  {
+    "Source": "Just go ahead and throw it after you're done folding it. It's just paper anyway. (By Kyousuke)",
+    "Target": "Just go ahead and throw it after you're done folding it. It's just paper anyway. (By Kyousuke)"
+  },
+  {
+    "Source": "It's a weapon of great potential against girls who hate bugs. (By Kyousuke)",
+    "Target": "It's a weapon of great potential against girls who hate bugs. (By Kyousuke)"
+  },
+  {
+    "Source": "Well, if worse comes to worst, you may throw it too. I give the green light. (By Kyousuke)",
+    "Target": "Well, if worse comes to worst, you may throw it too. I give the green light. (By Kyousuke)"
+  },
+  {
+    "Source": "If you can count up to 9999, it's your victory. (By Kyousuke)",
+    "Target": "If you can count up to 9999, it's your victory. (By Kyousuke)"
+  },
+  {
+    "Source": "Rolling the same numbers equals your opponent's death. (By Kyousuke)",
+    "Target": "Rolling the same numbers equals your opponent's death. (By Kyousuke)"
+  },
+  {
+    "Source": "I give permission to hit with the parasol. But you can only hit guys seriously. (By Kyousuke)",
+    "Target": "I give permission to hit with the parasol. But you can only hit guys seriously. (By Kyousuke)"
+  },
+  {
+    "Source": "Before you attack, you must say ❝I will not forgive the lot of you!❞. (By Kyousuke)",
+    "Target": "Before you attack, you must say ❝I will not forgive the lot of you!❞. (By Kyousuke)"
+  },
+  {
+    "Source": "Now then, what should I do...",
+    "Target": "Now then, what should I do..."
+  },
+  {
+    "Source": "Now then, what should I do... We don't have anyone to play center field so it's rather tricky...",
+    "Target": "Now then, what should I do... We don't have anyone to play center field so it's rather tricky..."
+  },
+  {
+    "Source": "This is my last chance to make changes. I should decide this carefully.",
+    "Target": "This is my last chance to make changes. I should decide this carefully."
+  },
+  {
+    "Source": "That's Kyousuke for you. He decided everything in an instant, and he certainly thought it through...",
+    "Target": "That's Kyousuke for you. He decided everything in an instant, and he certainly thought it through..."
+  },
+  {
+    "Source": "An impenetrable formation... Wait, she just wants everyone around herself!",
+    "Target": "An impenetrable formation... Wait, she just wants everyone around herself!"
+  },
+  {
+    "Source": "Wow, that's actually not bad at all... Wait, there are two Masatos!",
+    "Target": "Wow, that's actually not bad at all... Wait, there are two Masatos!"
+  },
+  {
+    "Source": "What sort of parallel world is that...",
+    "Target": "What sort of parallel world is that..."
+  },
+  {
+    "Source": "Rejected on the grounds of plain impossibility...",
+    "Target": "Rejected on the grounds of plain impossibility..."
+  },
+  {
+    "Source": "Who are they asking, and what about...?",
+    "Target": "Who are they asking, and what about...?"
+  },
+  {
+    "Source": "`Male Student@❝There's nothing on the tray!❞",
+    "Target": "`Male Student@❝There's nothing on the tray!❞"
+  },
+  {
+    "Source": "Male Student@❝Hey, there's nothing on the tray!❞",
+    "Target": "Male Student@❝Hey, there's nothing on the tray!❞"
+  },
+  {
+    "Source": "`Male Student@❝There's no rice!❞",
+    "Target": "`Male Student@❝There's no rice!❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, there's no rice!❞",
+    "Target": "`Male Student@❝Hey, there's no rice!❞"
+  },
+  {
+    "Source": "`Male Student@❝There's no miso soup!❞",
+    "Target": "`Male Student@❝There's no miso soup!❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, there's no miso soup!❞",
+    "Target": "`Male Student@❝Hey, there's no miso soup!❞"
+  },
+  {
+    "Source": "`Male Student@❝You only gave me the plate!❞",
+    "Target": "`Male Student@❝You only gave me the plate!❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, you only gave me the plate!❞",
+    "Target": "`Male Student@❝Hey, you only gave me the plate!❞"
+  },
+  {
+    "Source": "`Male Student@❝Is that a cabbage special!?❞",
+    "Target": "`Male Student@❝Is that a cabbage special!?❞"
+  },
+  {
+    "Source": "`Male Student@❝There aren't enough side dishes!❞",
+    "Target": "`Male Student@❝There aren't enough side dishes!❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, there aren't enough side dishes!❞",
+    "Target": "`Male Student@❝Hey, there aren't enough side dishes!❞"
+  },
+  {
+    "Source": "`Male Student@❝Why did you put rice on it!?❞",
+    "Target": "`Male Student@❝Why did you put rice on it!?❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, I can't drink miso soup like this!❞",
+    "Target": "`Male Student@❝Hey, I can't drink miso soup like this!❞"
+  },
+  {
+    "Source": "`Male Student@❝Why did you put rice and onigiri on it!?❞",
+    "Target": "`Male Student@❝Why did you put rice and onigiri on it!?❞"
+  },
+  {
+    "Source": "`Male Student@❝Thank you!❞",
+    "Target": "`Male Student@❝Thank you!❞"
+  },
+  {
+    "Source": "`Male Student@❝Thanks!❞",
+    "Target": "`Male Student@❝Thanks!❞"
+  },
+  {
+    "Source": "`Male Student@❝Sankyuu!❞",
+    "Target": "`Male Student@❝Sankyuu!❞"
+  },
+  {
+    "Source": "`Male Student@❝There's only jelly on it!❞",
+    "Target": "`Male Student@❝There's only jelly on it!❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, there's only jelly on it!❞",
+    "Target": "`Male Student@❝Hey, there's only jelly on it!❞"
+  },
+  {
+    "Source": "`Male Student@❝Do you expect me to eat all this jelly!?❞",
+    "Target": "`Male Student@❝Do you expect me to eat all this jelly!?❞"
+  },
+  {
+    "Source": "`Male Student@❝There's nothing but jelly on it!❞",
+    "Target": "`Male Student@❝There's nothing but jelly on it!❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, there's nothing but jelly on it!❞",
+    "Target": "`Male Student@❝Hey, there's nothing but jelly on it!❞"
+  },
+  {
+    "Source": "`Male Student@❝Why is it all covered with jelly!?❞",
+    "Target": "`Male Student@❝Why is it all covered with jelly!?❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, why is there so much jelly!?❞",
+    "Target": "`Male Student@❝Hey, why is there so much jelly!?❞"
+  },
+  {
+    "Source": "`Male Student@❝How about giving me something to eat!?❞",
+    "Target": "`Male Student@❝How about giving me something to eat!?❞"
+  },
+  {
+    "Source": "`Male Student@❝My belly will blow up if I eat all of this!❞",
+    "Target": "`Male Student@❝My belly will blow up if I eat all of this!❞"
+  },
+  {
+    "Source": "`Male Student@❝I can't eat all this...❞",
+    "Target": "`Male Student@❝I can't eat all this...❞"
+  },
+  {
+    "Source": "`Male Student@❝Do you expect me to eat all of this...?❞",
+    "Target": "`Male Student@❝Do you expect me to eat all of this...?❞"
+  },
+  {
+    "Source": "`Male Student@❝Is this really correct...?❞",
+    "Target": "`Male Student@❝Is this really correct...?❞"
+  },
+  {
+    "Source": "`Male Student@❝Isn't there something wrong with this?❞",
+    "Target": "`Male Student@❝Isn't there something wrong with this?❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, isn't there something wrong with this?❞",
+    "Target": "`Male Student@❝Hey, isn't there something wrong with this?❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey! It's totally not right!❞",
+    "Target": "`Male Student@❝Hey! It's totally not right!❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, what the hell is this!?❞",
+    "Target": "`Male Student@❝Hey, what the hell is this!?❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, what kind of joke is that!?❞",
+    "Target": "`Male Student@❝Hey, what kind of joke is that!?❞"
+  },
+  {
+    "Source": "`Female Student@❝You didn't put anything on it...❞",
+    "Target": "`Female Student@❝You didn't put anything on it...❞"
+  },
+  {
+    "Source": "`Female Student@❝You didn't put anything on it...?❞",
+    "Target": "`Female Student@❝You didn't put anything on it...?❞"
+  },
+  {
+    "Source": "`Female Student@❝There's no onigiri...❞",
+    "Target": "`Female Student@❝There's no onigiri...❞"
+  },
+  {
+    "Source": "`Female Student@❝Where's my miso soup?❞",
+    "Target": "`Female Student@❝Where's my miso soup?❞"
+  },
+  {
+    "Source": "`Female Student@❝There's no miso soup...❞",
+    "Target": "`Female Student@❝There's no miso soup...❞"
+  },
+  {
+    "Source": "`Female Student@❝There's no jelly...❞",
+    "Target": "`Female Student@❝There's no jelly...❞"
+  },
+  {
+    "Source": "`Female Student@❝Where's my jelly?❞",
+    "Target": "`Female Student@❝Where's my jelly?❞"
+  },
+  {
+    "Source": "`Female Student@❝There's no jelly... I didn't really want it, though.❞",
+    "Target": "`Female Student@❝There's no jelly... I didn't really want it, though.❞"
+  },
+  {
+    "Source": "`Female Student@❝I can't eat all this miso soup...❞",
+    "Target": "`Female Student@❝I can't eat all this miso soup...❞"
+  },
+  {
+    "Source": "`Female Student@❝Is this croquette a bonus!?❞",
+    "Target": "`Female Student@❝Is this croquette a bonus!?❞"
+  },
+  {
+    "Source": "`Female Student@❝I didn't order a cutlet...❞",
+    "Target": "`Female Student@❝I didn't order a cutlet...❞"
+  },
+  {
+    "Source": "`Female Student@❝What's that cutlet for!?❞",
+    "Target": "`Female Student@❝What's that cutlet for!?❞"
+  },
+  {
+    "Source": "`Female Student@❝Why did you give me a cutlet...?❞",
+    "Target": "`Female Student@❝Why did you give me a cutlet...?❞"
+  },
+  {
+    "Source": "`Female Student@❝When did I ask for fried prawns?❞",
+    "Target": "`Female Student@❝When did I ask for fried prawns?❞"
+  },
+  {
+    "Source": "`Female Student@❝I didn't order fries?❞",
+    "Target": "`Female Student@❝I didn't order fries?❞"
+  },
+  {
+    "Source": "`Female Student@❝Onigiri with cabbage?❞",
+    "Target": "`Female Student@❝Onigiri with cabbage?❞"
+  },
+  {
+    "Source": "`Female Student@❝Thank you.❞",
+    "Target": "`Female Student@❝Thank you.❞"
+  },
+  {
+    "Source": "`Female Student@❝There's only jelly...❞",
+    "Target": "`Female Student@❝There's only jelly...❞"
+  },
+  {
+    "Source": "`Female Student@❝Why is there nothing but jelly?❞",
+    "Target": "`Female Student@❝Why is there nothing but jelly?❞"
+  },
+  {
+    "Source": "`Female Student@❝Should the jelly really be there?❞",
+    "Target": "`Female Student@❝Should the jelly really be there?❞"
+  },
+  {
+    "Source": "`Female Student@❝Is that a jelly special...?❞",
+    "Target": "`Female Student@❝Is that a jelly special...?❞"
+  },
+  {
+    "Source": "`Female Student@❝I'd never order something so high on calories!?❞",
+    "Target": "`Female Student@❝I'd never order something so high on calories!?❞"
+  },
+  {
+    "Source": "`Female Student@❝That's not even a lunch set!❞",
+    "Target": "`Female Student@❝That's not even a lunch set!❞"
+  },
+  {
+    "Source": "`Female Student@❝This isn't even a lunch set!❞",
+    "Target": "`Female Student@❝This isn't even a lunch set!❞"
+  },
+  {
+    "Source": "`Female Student@❝What's with this weird combination!?❞",
+    "Target": "`Female Student@❝What's with this weird combination!?❞"
+  },
+  {
+    "Source": "`Female Student@❝How can you even serve this with a straight face...❞",
+    "Target": "`Female Student@❝How can you even serve this with a straight face...❞"
+  },
+  {
+    "Source": "`Female Student@❝This is a mess!❞",
+    "Target": "`Female Student@❝This is a mess!❞"
+  },
+  {
+    "Source": "`Female Student@❝Hey... I really hope it's a joke...❞",
+    "Target": "`Female Student@❝Hey... I really hope it's a joke...❞"
+  },
+  {
+    "Source": "`Male Student@❝There's only rice!❞",
+    "Target": "`Male Student@❝There's only rice!❞"
+  },
+  {
+    "Source": "`Male Student@❝Hey, there's only rice!❞",
+    "Target": "`Male Student@❝Hey, there's only rice!❞"
+  },
+  {
+    "Source": "`Male Student@❝What am I supposed to do with jelly and rice!?❞",
+    "Target": "`Male Student@❝What am I supposed to do with jelly and rice!?❞"
+  },
+  {
+    "Source": "`Male Student@❝Croquette curry, how lucky!❞",
+    "Target": "`Male Student@❝Croquette curry, how lucky!❞"
+  },
+  {
+    "Source": "`Male Student@❝Cutlet curry, how lucky!❞",
+    "Target": "`Male Student@❝Cutlet curry, how lucky!❞"
+  },
+  {
+    "Source": "`Male Student@❝Fried prawn curry, how lucky!❞",
+    "Target": "`Male Student@❝Fried prawn curry, how lucky!❞"
+  },
+  {
+    "Source": "`Male Student@❝Assorted curry, how lucky!❞",
+    "Target": "`Male Student@❝Assorted curry, how lucky!❞"
+  },
+  {
+    "Source": "`Male Student@❝Cabbage doesn't go well with curry!❞",
+    "Target": "`Male Student@❝Cabbage doesn't go well with curry!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Here we go!❞",
+    "Target": "`Kyousuke@❝Here we go!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Then, let's start!❞",
+    "Target": "`Kyousuke@❝Then, let's start!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Batting exercise, start!❞",
+    "Target": "`Kyousuke@❝Batting exercise, start!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Batting and defense practice, start!❞",
+    "Target": "`Kyousuke@❝Batting and defense practice, start!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝There's still some time until the game, but don't get careless!❞",
+    "Target": "`Kyousuke@❝There's still some time until the game, but don't get careless!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝It's almost time for the game, put your spirit into it!❞",
+    "Target": "`Kyousuke@❝It's almost time for the game, put your spirit into it!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝The game is tomorrow, Riki, let loose the dogs of war!❞",
+    "Target": "`Kyousuke@❝The game is tomorrow, Riki, let loose the dogs of war!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Resuming practice!❞",
+    "Target": "`Kyousuke@❝Resuming practice!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Aight, let's take a break.❞",
+    "Target": "`Kyousuke@❝Aight, let's take a break.❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Aight, let's take a break here.❞",
+    "Target": "`Kyousuke@❝Aight, let's take a break here.❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Aight, let's call it a day here.❞",
+    "Target": "`Kyousuke@❝Aight, let's call it a day here.❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Aight, that was a good sweat, let's end it here.❞",
+    "Target": "`Kyousuke@❝Aight, that was a good sweat, let's end it here.❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Aight, that's enough for today❞",
+    "Target": "`Kyousuke@❝Aight, that's enough for today❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Aight, let's end it here. We really have been getting better by the day.❞",
+    "Target": "`Kyousuke@❝Aight, let's end it here. We really have been getting better by the day.❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Aight, over here next!❞",
+    "Target": "`Kyousuke@❝Aight, over here next!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Riki, this way now!❞",
+    "Target": "`Kyousuke@❝Riki, this way now!❞"
+  },
+  {
+    "Source": "`Kyousuke@❝Here next, Riki!❞",
+    "Target": "`Kyousuke@❝Here next, Riki!❞"
+  },
+  {
+    "Source": "Is, isn't Rin looking different from usual!?",
+    "Target": "Is, isn't Rin looking different from usual!?"
+  },
+  {
+    "Source": "S, she...",
+    "Target": "S, she..."
+  },
+  {
+    "Source": "`Riki@❝Whoa, are you okay!?❞",
+    "Target": "`Riki@❝Whoa, are you okay!?❞"
+  },
+  {
+    "Source": "`Komari@❝It hurts, but I'm okay～.❞",
+    "Target": "`Komari@❝It hurts, but I'm okay～.❞"
+  },
+  {
+    "Source": "Fortunately she didn't seem to be hurt.",
+    "Target": "Fortunately she didn't seem to be hurt."
+  },
+  {
+    "Source": "`Riki@❝Kud, are you okay!?❞",
+    "Target": "`Riki@❝Kud, are you okay!?❞"
+  },
+  {
+    "Source": "`Kud@❝wa, wafu～ ... toraburu teriburu akushindento desu ...❞",
+    "Target": "`Kud@❝wa, wafu～ ... toraburu teriburu akushindento desu ...❞"
+  },
+  {
+    "Source": "Everyone else worriedly rushed to her, but it didn't seem like a big deal.",
+    "Target": "Everyone else worriedly rushed to her, but it didn't seem like a big deal."
+  },
+  {
+    "Source": "No principles.",
+    "Target": "No principles."
+  },
+  {
+    "Source": "Haruchin Dynamic Throwing!!",
+    "Target": "Haruchin Dynamic Throwing!!"
+  },
+  {
+    "Source": "Haruchin's stories are long!!",
+    "Target": "Haruchin's stories are long!!"
+  },
+  {
+    "Source": "Haruchin's nape looks so wistful!!",
+    "Target": "Haruchin's nape looks so wistful!!"
+  },
+  {
+    "Source": "Let me finish what I have to say～.",
+    "Target": "Let me finish what I have to say～."
+  },
+  {
+    "Source": "Are you craving for a hamburger that bad? It's clear from the way you bat.",
+    "Target": "Are you craving for a hamburger that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about hamburger again? It's clear from the way you bat.",
+    "Target": "Thinking about hamburger again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into hamburgers, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into hamburgers, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think of something other than hamburgers for once.",
+    "Target": "Give it a rest already, think of something other than hamburgers for once."
+  },
+  {
+    "Source": "Do you want to eat a Tongari Corn that bad? It's clear from the way you bat.",
+    "Target": "Do you want to eat a Tongari Corn that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about Tongari Corn again? It's clear from the way you bat.",
+    "Target": "Thinking about Tongari Corn again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into Tongari Corn, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into Tongari Corn, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think of something other than Tongari Corn too.",
+    "Target": "Give it a rest already, think of something other than Tongari Corn too."
+  },
+  {
+    "Source": "Do you want to eat Gari in a conveyor belt sushi bar that bad? It's clear from the way you bat.",
+    "Target": "Do you want to eat Gari in a conveyor belt sushi bar that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about Gari again? It's clear from the way you bat.",
+    "Target": "Thinking about Gari again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into Gari, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into Gari, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think of something other than conveyor belt sushi bars and Gari.",
+    "Target": "Give it a rest already, think of something other than conveyor belt sushi bars and Gari."
+  },
+  {
+    "Source": "You want raw yatsuhashi with no red bean paste that bad? It's clear from the way you bat.",
+    "Target": "You want raw yatsuhashi with no red bean paste that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Yatsuhashi again? It's clear from the way you bat. You really want no red bean paste?",
+    "Target": "Yatsuhashi again? It's clear from the way you bat. You really want no red bean paste?"
+  },
+  {
+    "Source": "I didn't know you were so against red bean paste in yatsuhashi. It's totally clear from how you bat.",
+    "Target": "I didn't know you were so against red bean paste in yatsuhashi. It's totally clear from how you bat."
+  },
+  {
+    "Source": "Give it a rest already, think of something other than raw yatsuhashi with no red bean jam.",
+    "Target": "Give it a rest already, think of something other than raw yatsuhashi with no red bean jam."
+  },
+  {
+    "Source": "Do you want to eat poisonous mushrooms that bad? It's clear from the way you bat.",
+    "Target": "Do you want to eat poisonous mushrooms that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about obviously poisonous mushrooms again? It's clear from the way you bat.",
+    "Target": "Thinking about obviously poisonous mushrooms again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into poisonous mushrooms, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into poisonous mushrooms, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, at least think about edible mushrooms sometimes too.",
+    "Target": "Give it a rest already, at least think about edible mushrooms sometimes too."
+  },
+  {
+    "Source": "Do you want to eat bruised bananas that bad? It's clear from the way you bat.",
+    "Target": "Do you want to eat bruised bananas that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about bruised bananas again? It's clear from the way you bat.",
+    "Target": "Thinking about bruised bananas again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into gambling with raw oysters, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into gambling with raw oysters, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think about ripe yellow bananas sometimes too.",
+    "Target": "Give it a rest already, think about ripe yellow bananas sometimes too."
+  },
+  {
+    "Source": "Do you want to eat an omelette with a ketchup heart that bad? It's clear from the way you bat.",
+    "Target": "Do you want to eat an omelette with a ketchup heart that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about a heart-marked omelette again? It's clear from the way you bat.",
+    "Target": "Thinking about a heart-marked omelette again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into heart-marked omelette, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into heart-marked omelette, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think about ordinary omelettes sometimes too.",
+    "Target": "Give it a rest already, think about ordinary omelettes sometimes too."
+  },
+  {
+    "Source": "Do you want to gamble your life eating a raw oyster that bad? It's clear from the way you bat.",
+    "Target": "Do you want to gamble your life eating a raw oyster that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about gambling your life on a raw oyster again? It's clear from the way you bat.",
+    "Target": "Thinking about gambling your life on a raw oyster again? It's clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already. You should think of how painful it'd be to get food poisoning from it sometimes.",
+    "Target": "Give it a rest already. You should think of how painful it'd be to get food poisoning from it sometimes."
+  },
+  {
+    "Source": "Do you want to eat an unknown lifeform with 15 feet that bad? It's clear from the way you bat.",
+    "Target": "Do you want to eat an unknown lifeform with 15 feet that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into 15-foot unknown lifeforms, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into 15-foot unknown lifeforms, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think about those lifeforms with 8 or 10 feet sometimes too.",
+    "Target": "Give it a rest already, think about those lifeforms with 8 or 10 feet sometimes too."
+  },
+  {
+    "Source": "Do you want yogurt that bad? It's clear from the way you bat.",
+    "Target": "Do you want yogurt that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about yogurt again? It's clear from the way you bat.",
+    "Target": "Thinking about yogurt again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into yogurt, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into yogurt, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think of something other than yogurt too.",
+    "Target": "Give it a rest already, think of something other than yogurt too."
+  },
+  {
+    "Source": "Do you want fresh milk that bad? It's clear from the way you bat.",
+    "Target": "Do you want fresh milk that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about fresh milk again? It's clear from the way you bat.",
+    "Target": "Thinking about fresh milk again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into fresh milk, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into fresh milk, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think of something other than fresh milk too.",
+    "Target": "Give it a rest already, think of something other than fresh milk too."
+  },
+  {
+    "Source": "Do you want tropical coconut milk that bad? It's clear from the way you bat.",
+    "Target": "Do you want tropical coconut milk that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about tropical coconut milk again? It's clear from the way you bat.",
+    "Target": "Thinking about tropical coconut milk again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into coconut milk, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into coconut milk, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think of something other than tropical coconut milk too.",
+    "Target": "Give it a rest already, think of something other than tropical coconut milk too."
+  },
+  {
+    "Source": "Do you want erotic juice that bad? It's clear from the way you bat.",
+    "Target": "Do you want erotic juice that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about erotic juice again? It's clear from the way you bat.",
+    "Target": "Thinking about erotic juice again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into erotic juice, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into erotic juice, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think of something other than erotic juice too.",
+    "Target": "Give it a rest already, think of something other than erotic juice too."
+  },
+  {
+    "Source": "Do you want to drink mayonnaise that bad? It's clear from the way you bat.",
+    "Target": "Do you want to drink mayonnaise that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about mayonnaise again? It's clear from the way you bat.",
+    "Target": "Thinking about mayonnaise again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into mayonnaise, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into mayonnaise, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already, think of something other than mayonnaise sometimes too.",
+    "Target": "Give it a rest already, think of something other than mayonnaise sometimes too."
+  },
+  {
+    "Source": "Do you want to drink hot coffee with a straw that bad? It's clear from the way you bat.",
+    "Target": "Do you want to drink hot coffee with a straw that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about drinking hot coffee with a straw again? It's clear from the way you bat.",
+    "Target": "Thinking about drinking hot coffee with a straw again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into hot coffee, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into hot coffee, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "Give it a rest already. You should learn you can't avoid getting burned forever.",
+    "Target": "Give it a rest already. You should learn you can't avoid getting burned forever."
+  },
+  {
+    "Source": "Do you want to drink undiluted Calpis that bad? It's clear from the way you bat.",
+    "Target": "Do you want to drink undiluted Calpis that bad? It's clear from the way you bat."
+  },
+  {
+    "Source": "Thinking about undiluted Calpis again? It's clear from the way you bat.",
+    "Target": "Thinking about undiluted Calpis again? It's clear from the way you bat."
+  },
+  {
+    "Source": "I didn't know you were so into undiluted Calpis, Riki. It's totally clear from the way you bat.",
+    "Target": "I didn't know you were so into undiluted Calpis, Riki. It's totally clear from the way you bat."
+  },
+  {
+    "Source": "\"Give it a rest already. You should mix it with some water.\"",
+    "Target": "\"Give it a rest already. You should mix it with some water.\""
+  },
+  {
+    "Source": "Awesome!",
+    "Target": "Awesome!"
+  },
+  {
+    "Source": "That's the spirit!",
+    "Target": "That's the spirit!"
+  },
+  {
+    "Source": "Leave it to me!",
+    "Target": "Leave it to me!"
+  },
+  {
+    "Source": "Nice!",
+    "Target": "Nice!"
+  },
+  {
+    "Source": "Nice, turkey!",
+    "Target": "Nice, turkey!"
+  },
+  {
+    "Source": "Isn't this great!",
+    "Target": "Isn't this great!"
+  },
+  {
+    "Source": "That's three in a row!",
+    "Target": "That's three in a row!"
+  },
+  {
+    "Source": "This guy's full of surprises!",
+    "Target": "This guy's full of surprises!"
+  },
+  {
+    "Source": "Four!",
+    "Target": "Four!"
+  },
+  {
+    "Source": "Fuyuu～.",
+    "Target": "Fuyuu～."
+  },
+  {
+    "Source": "Five!",
+    "Target": "Five!"
+  },
+  {
+    "Source": "Don't tell me that's everything!",
+    "Target": "Don't tell me that's everything!"
+  },
+  {
+    "Source": "Six. Holy crap!",
+    "Target": "Six. Holy crap!"
+  },
+  {
+    "Source": "Incredible... Never expected to find such a raw diamond here.",
+    "Target": "Incredible... Never expected to find such a raw diamond here."
+  },
+  {
+    "Source": "This makes it seven!",
+    "Target": "This makes it seven!"
+  },
+  {
+    "Source": "If you keep playing baseball, you can even aim for the pros...",
+    "Target": "If you keep playing baseball, you can even aim for the pros..."
+  },
+  {
+    "Source": "Eight! Am I witnessing a miracle!?",
+    "Target": "Eight! Am I witnessing a miracle!?"
+  },
+  {
+    "Source": "Weren't you born to play baseball!?",
+    "Target": "Weren't you born to play baseball!?"
+  },
+  {
+    "Source": "Nine! Impossible!",
+    "Target": "Nine! Impossible!"
+  },
+  {
+    "Source": "Why are you wasting your time here, you have some serious talent!",
+    "Target": "Why are you wasting your time here, you have some serious talent!"
+  },
+  {
+    "Source": "Ten... What the hell are you!?",
+    "Target": "Ten... What the hell are you!?"
+  },
+  {
+    "Source": "You can even beat the pros as you are now!",
+    "Target": "You can even beat the pros as you are now!"
+  },
+  {
+    "Source": "Eleven, o-hoo!",
+    "Target": "Eleven, o-hoo!"
+  },
+  {
+    "Source": "That's enough, I already understand well how great you are.",
+    "Target": "That's enough, I already understand well how great you are."
+  },
+  {
+    "Source": "Twelve, you're a God of Batting!",
+    "Target": "Twelve, you're a God of Batting!"
+  },
+  {
+    "Source": "Let's wrap it up.",
+    "Target": "Let's wrap it up."
+  },
+  {
+    "Source": "I'm already tired.",
+    "Target": "I'm already tired."
+  },
+  {
+    "Source": "That's enough, you are doing great.",
+    "Target": "That's enough, you are doing great."
+  },
+  {
+    "Source": "It was just a small compliment, don't get carried away!",
+    "Target": "It was just a small compliment, don't get carried away!"
+  },
+  {
+    "Source": "Or rather, you're scaring me.",
+    "Target": "Or rather, you're scaring me."
+  },
+  {
+    "Source": "Just how good are you at sports?",
+    "Target": "Just how good are you at sports?"
+  },
+  {
+    "Source": "Eii!",
+    "Target": "Eii!"
+  },
+  {
+    "Source": "How's this!",
+    "Target": "How's this!"
+  },
+  {
+    "Source": "There's more.",
+    "Target": "There's more."
+  },
+  {
+    "Source": "Go on!",
+    "Target": "Go on!"
+  },
+  {
+    "Source": "You can do it!",
+    "Target": "You can do it!"
+  },
+  {
+    "Source": "A miracle...",
+    "Target": "A miracle..."
+  },
+  {
+    "Source": "Yahhooo!",
+    "Target": "Yahhooo!"
+  },
+  {
+    "Source": "Haha, can't help it.",
+    "Target": "Haha, can't help it."
+  },
+  {
+    "Source": "Hahaha, I can only laugh.",
+    "Target": "Hahaha, I can only laugh."
+  },
+  {
+    "Source": "Wonderful teamwork!",
+    "Target": "Wonderful teamwork!"
+  },
+  {
+    "Source": "Thank you, everyone!",
+    "Target": "Thank you, everyone!"
+  },
+  {
+    "Source": "I'll never forget this!",
+    "Target": "I'll never forget this!"
+  },
+  {
+    "Source": "Ha!",
+    "Target": "Ha!"
+  },
+  {
+    "Source": "I didn't mean to aim at you, but I hope you now understand how the cats felt.",
+    "Target": "I didn't mean to aim at you, but I hope you now understand how the cats felt."
+  },
+  {
+    "Source": "That ball was from the cats.",
+    "Target": "That ball was from the cats."
+  },
+  {
+    "Source": "S, sorry!",
+    "Target": "S, sorry!"
+  },
+  {
+    "Source": "Uwa...",
+    "Target": "Uwa..."
+  },
+  {
+    "Source": "Now I've done it...",
+    "Target": "Now I've done it..."
+  },
+  {
+    "Source": "That looked like it hurt...",
+    "Target": "That looked like it hurt..."
+  },
+  {
+    "Source": "...Sorry.",
+    "Target": "...Sorry."
+  },
+  {
+    "Source": "My hand slipped...",
+    "Target": "My hand slipped..."
+  },
+  {
+    "Source": "It's not like I'm aiming at you!",
+    "Target": "It's not like I'm aiming at you!"
+  },
+  {
+    "Source": "Nh!",
+    "Target": "Nh!"
+  },
+  {
+    "Source": "Ho!",
+    "Target": "Ho!"
+  },
+  {
+    "Source": "Yo!",
+    "Target": "Yo!"
+  },
+  {
+    "Source": "Tei!",
+    "Target": "Tei!"
+  },
+  {
+    "Source": "Oh!",
+    "Target": "Oh!"
+  },
+  {
+    "Source": "Careful!",
+    "Target": "Careful!"
+  },
+  {
+    "Source": "Was it me!? Was it my fault!?",
+    "Target": "Was it me!? Was it my fault!?"
+  },
+  {
+    "Source": "Uaaa, you all right!?",
+    "Target": "Uaaa, you all right!?"
+  },
+  {
+    "Source": "Oh no!",
+    "Target": "Oh no!"
+  },
+  {
+    "Source": "Haah!?",
+    "Target": "Haah!?"
+  },
+  {
+    "Source": "I didn't mean to do that!!",
+    "Target": "I didn't mean to do that!!"
+  },
+  {
+    "Source": "Heyy!",
+    "Target": "Heyy!"
+  },
+  {
+    "Source": "Hey!",
+    "Target": "Hey!"
+  },
+  {
+    "Source": "What was that!",
+    "Target": "What was that!"
+  },
+  {
+    "Source": "That's so pitiful!",
+    "Target": "That's so pitiful!"
+  },
+  {
+    "Source": "Whaaa-!?",
+    "Target": "Whaaa-!?"
+  },
+  {
+    "Source": "You hurt it!",
+    "Target": "You hurt it!"
+  },
+  {
+    "Source": "You made it cry!",
+    "Target": "You made it cry!"
+  },
+  {
+    "Source": "They'll start avoiding me because of you!",
+    "Target": "They'll start avoiding me because of you!"
+  },
+  {
+    "Source": "Still not done!?",
+    "Target": "Still not done!?"
+  },
+  {
+    "Source": "How many times does this make!?",
+    "Target": "How many times does this make!?"
+  },
+  {
+    "Source": "Are you aiming at them!?",
+    "Target": "Are you aiming at them!?"
+  },
+  {
+    "Source": "How many times does that make!",
+    "Target": "How many times does that make!"
+  },
+  {
+    "Source": "Do you hate cats!?",
+    "Target": "Do you hate cats!?"
+  },
+  {
+    "Source": "I'm gonna hit you!",
+    "Target": "I'm gonna hit you!"
+  },
+  {
+    "Source": "Do you have unpleasant memories with cats, or what!?",
+    "Target": "Do you have unpleasant memories with cats, or what!?"
+  },
+  {
+    "Source": "Stop venting your anger on cats!",
+    "Target": "Stop venting your anger on cats!"
+  },
+  {
+    "Source": "Is that your idea of fun!?",
+    "Target": "Is that your idea of fun!?"
+  },
+  {
+    "Source": "I hate you, Riki!",
+    "Target": "I hate you, Riki!"
+  },
+  {
+    "Source": "Do you have unpleasant memories with cats, or what!",
+    "Target": "Do you have unpleasant memories with cats, or what!"
+  },
+  {
+    "Source": "Fuka――!",
+    "Target": "Fuka――!"
+  },
+  {
+    "Source": "You're gonna die!",
+    "Target": "You're gonna die!"
+  },
+  {
+    "Source": "Riki, bad!",
+    "Target": "Riki, bad!"
+  },
+  {
+    "Source": "You must not do that!",
+    "Target": "You must not do that!"
+  },
+  {
+    "Source": "Howaa-!?",
+    "Target": "Howaa-!?"
+  },
+  {
+    "Source": "U, uee-n!",
+    "Target": "U, uee-n!"
+  },
+  {
+    "Source": "Ha ra ho ro hi ree...",
+    "Target": "Ha ra ho ro hi ree..."
+  },
+  {
+    "Source": "Hauu～... it came.",
+    "Target": "Hauu～... it came."
+  },
+  {
+    "Source": "Aau～!",
+    "Target": "Aau～!"
+  },
+  {
+    "Source": "Fuee!",
+    "Target": "Fuee!"
+  },
+  {
+    "Source": "Careful～!",
+    "Target": "Careful～!"
+  },
+  {
+    "Source": "It came here～!",
+    "Target": "It came here～!"
+  },
+  {
+    "Source": "I got it～.",
+    "Target": "I got it～."
+  },
+  {
+    "Source": "We got a point～.",
+    "Target": "We got a point～."
+  },
+  {
+    "Source": "Yeah.",
+    "Target": "Yeah."
+  },
+  {
+    "Source": "It's OK～.",
+    "Target": "It's OK～."
+  },
+  {
+    "Source": "I made it.",
+    "Target": "I made it."
+  },
+  {
+    "Source": "I'll throw it back now～.",
+    "Target": "I'll throw it back now～."
+  },
+  {
+    "Source": "Back home!",
+    "Target": "Back home!"
+  },
+  {
+    "Source": "Catch!",
+    "Target": "Catch!"
+  },
+  {
+    "Source": "Wait a little.",
+    "Target": "Wait a little."
+  },
+  {
+    "Source": "I'm sending it back～.",
+    "Target": "I'm sending it back～."
+  },
+  {
+    "Source": "Ta-daah～.",
+    "Target": "Ta-daah～."
+  },
+  {
+    "Source": "Today just became my catching anniversary day.",
+    "Target": "Today just became my catching anniversary day."
+  },
+  {
+    "Source": "Okay!",
+    "Target": "Okay!"
+  },
+  {
+    "Source": "Bull's eye.",
+    "Target": "Bull's eye."
+  },
+  {
+    "Source": "Fine play～.",
+    "Target": "Fine play～."
+  },
+  {
+    "Source": "It's okay～.",
+    "Target": "It's okay～."
+  },
+  {
+    "Source": "It disappeared～.",
+    "Target": "It disappeared～."
+  },
+  {
+    "Source": "Watch out-!",
+    "Target": "Watch out-!"
+  },
+  {
+    "Source": "Ran ran ra～.",
+    "Target": "Ran ran ra～."
+  },
+  {
+    "Source": "Hun hun hu-n.",
+    "Target": "Hun hun hu-n."
+  },
+  {
+    "Source": "Fue～?",
+    "Target": "Fue～?"
+  },
+  {
+    "Source": "This is fun～.",
+    "Target": "This is fun～."
+  },
+  {
+    "Source": "My dolly has the flu.",
+    "Target": "My dolly has the flu."
+  },
+  {
+    "Source": "Ichiro-san threw a laser beam in the pasture.",
+    "Target": "Ichiro-san threw a laser beam in the pasture."
+  },
+  {
+    "Source": "The throwing method directly taught by Kyousuke-san!",
+    "Target": "The throwing method directly taught by Kyousuke-san!"
+  },
+  {
+    "Source": "Easy.",
+    "Target": "Easy."
+  },
+  {
+    "Source": "Umu.",
+    "Target": "Umu."
+  },
+  {
+    "Source": "Is that all?",
+    "Target": "Is that all?"
+  },
+  {
+    "Source": "Hit the ball properly.",
+    "Target": "Hit the ball properly."
+  },
+  {
+    "Source": "Still a ways to go.",
+    "Target": "Still a ways to go."
+  },
+  {
+    "Source": "Remove the cats!",
+    "Target": "Remove the cats!"
+  },
+  {
+    "Source": "Well, work hard.",
+    "Target": "Well, work hard."
+  },
+  {
+    "Source": "Watch closely.",
+    "Target": "Watch closely."
+  },
+  {
+    "Source": "Hu.",
+    "Target": "Hu."
+  },
+  {
+    "Source": "Naive.",
+    "Target": "Naive."
+  },
+  {
+    "Source": "I won't let it go.",
+    "Target": "I won't let it go."
+  },
+  {
+    "Source": "It's an illusion.",
+    "Target": "It's an illusion."
+  },
+  {
+    "Source": "It's an afterimage.",
+    "Target": "It's an afterimage."
+  },
+  {
+    "Source": "Out!",
+    "Target": "Out!"
+  },
+  {
+    "Source": "Bring on a challenge.",
+    "Target": "Bring on a challenge."
+  },
+  {
+    "Source": "Fufufu...",
+    "Target": "Fufufu..."
+  },
+  {
+    "Source": "Fuhahahahahahaha!",
+    "Target": "Fuhahahahahahaha!"
+  },
+  {
+    "Source": "No trouble.",
+    "Target": "No trouble."
+  },
+  {
+    "Source": "Find the balls.",
+    "Target": "Find the balls."
+  },
+  {
+    "Source": "Look out for them all.",
+    "Target": "Look out for them all."
+  },
+  {
+    "Source": "Incidentally, I'm getting tired.",
+    "Target": "Incidentally, I'm getting tired."
+  },
+  {
+    "Source": "Do you know why baseballs are white?",
+    "Target": "Do you know why baseballs are white?"
+  },
+  {
+    "Source": "Maybe you should consider switching to some other sport.",
+    "Target": "Maybe you should consider switching to some other sport."
+  },
+  {
+    "Source": "Won't you hit a ❛Terrifying: the Vanishing Ball❜ or something, sometimes?",
+    "Target": "Won't you hit a ❛Terrifying: the Vanishing Ball❜ or something, sometimes?"
+  },
+  {
+    "Source": "At least try to get it past the infield.",
+    "Target": "At least try to get it past the infield."
+  },
+  {
+    "Source": "Here.",
+    "Target": "Here."
+  },
+  {
+    "Source": "Hmm.",
+    "Target": "Hmm."
+  },
+  {
+    "Source": "Taking your time, huh?",
+    "Target": "Taking your time, huh?"
+  },
+  {
+    "Source": "Ha ha ha.",
+    "Target": "Ha ha ha."
+  },
+  {
+    "Source": "Humu.",
+    "Target": "Humu."
+  },
+  {
+    "Source": "Have it back.",
+    "Target": "Have it back."
+  },
+  {
+    "Source": "U menya bolit (It hurts)!",
+    "Target": "U menya bolit (It hurts)!"
+  },
+  {
+    "Source": "Bolit golova (My head hurts)!",
+    "Target": "Bolit golova (My head hurts)!"
+  },
+  {
+    "Source": "Bolit zhivot (My stomach hurts)!",
+    "Target": "Bolit zhivot (My stomach hurts)!"
+  },
+  {
+    "Source": "Wafu!!",
+    "Target": "Wafu!!"
+  },
+  {
+    "Source": "Bolit (Hurts)!",
+    "Target": "Bolit (Hurts)!"
+  },
+  {
+    "Source": "There is danger!",
+    "Target": "There is danger!"
+  },
+  {
+    "Source": "Ouch!",
+    "Target": "Ouch!"
+  },
+  {
+    "Source": "Uyaa!",
+    "Target": "Uyaa!"
+  },
+  {
+    "Source": "Fuyaa!",
+    "Target": "Fuyaa!"
+  },
+  {
+    "Source": "Here!",
+    "Target": "Here!"
+  },
+  {
+    "Source": "Odin!",
+    "Target": "Odin!"
+  },
+  {
+    "Source": "Dva!",
+    "Target": "Dva!"
+  },
+  {
+    "Source": "Tri!",
+    "Target": "Tri!"
+  },
+  {
+    "Source": "Chetire!",
+    "Target": "Chetire!"
+  },
+  {
+    "Source": "Pyat!",
+    "Target": "Pyat!"
+  },
+  {
+    "Source": "Shest!",
+    "Target": "Shest!"
+  },
+  {
+    "Source": "Okay, wan tsu-!",
+    "Target": "Okay, wan tsu-!"
+  },
+  {
+    "Source": "That was a breeze!",
+    "Target": "That was a breeze!"
+  },
+  {
+    "Source": "Piece of cake!",
+    "Target": "Piece of cake!"
+  },
+  {
+    "Source": "Yes, my lord!",
+    "Target": "Yes, my lord!"
+  },
+  {
+    "Source": "Yessir!",
+    "Target": "Yessir!"
+  },
+  {
+    "Source": "Okno means window!",
+    "Target": "Okno means window!"
+  },
+  {
+    "Source": "Kyacchingu! Aimu kyacchinga-!",
+    "Target": "Kyacchingu! Aimu kyacchinga-!"
+  },
+  {
+    "Source": "Ei!",
+    "Target": "Ei!"
+  },
+  {
+    "Source": "Sem!",
+    "Target": "Sem!"
+  },
+  {
+    "Source": "Vosem!",
+    "Target": "Vosem!"
+  },
+  {
+    "Source": "Devyat!",
+    "Target": "Devyat!"
+  },
+  {
+    "Source": "Odinnadtsat!",
+    "Target": "Odinnadtsat!"
+  },
+  {
+    "Source": "Nichego!",
+    "Target": "Nichego!"
+  },
+  {
+    "Source": "Horosho～.",
+    "Target": "Horosho～."
+  },
+  {
+    "Source": "Da, da!",
+    "Target": "Da, da!"
+  },
+  {
+    "Source": "Seibingu! Aimu seibinga-!",
+    "Target": "Seibingu! Aimu seibinga-!"
+  },
+  {
+    "Source": "Suro-ingu! Aimu suro-inga-... That's so hard to pronounce...",
+    "Target": "Suro-ingu! Aimu suro-inga-... That's so hard to pronounce..."
+  },
+  {
+    "Source": "Horyasa!",
+    "Target": "Horyasa!"
+  },
+  {
+    "Source": "OK, OK.",
+    "Target": "OK, OK."
+  },
+  {
+    "Source": "It's a catch!",
+    "Target": "It's a catch!"
+  },
+  {
+    "Source": "That was perfect.",
+    "Target": "That was perfect."
+  },
+  {
+    "Source": "Caught!",
+    "Target": "Caught!"
+  },
+  {
+    "Source": "Got it!",
+    "Target": "Got it!"
+  },
+  {
+    "Source": "Genius!",
+    "Target": "Genius!"
+  },
+  {
+    "Source": "Splendid, wasn't it?",
+    "Target": "Splendid, wasn't it?"
+  },
+  {
+    "Source": "Watch and be surprised～.",
+    "Target": "Watch and be surprised～."
+  },
+  {
+    "Source": "Even Ryan's surprised!",
+    "Target": "Even Ryan's surprised!"
+  },
+  {
+    "Source": "My ball!",
+    "Target": "My ball!"
+  },
+  {
+    "Source": "Getting cold feet, huh?",
+    "Target": "Getting cold feet, huh?"
+  },
+  {
+    "Source": "The cat's in the way!",
+    "Target": "The cat's in the way!"
+  },
+  {
+    "Source": "Haruchin good!",
+    "Target": "Haruchin good!"
+  },
+  {
+    "Source": "Not yet～.",
+    "Target": "Not yet～."
+  },
+  {
+    "Source": "Moshi moshi ball!",
+    "Target": "Moshi moshi ball!"
+  },
+  {
+    "Source": "Fumble!",
+    "Target": "Fumble!"
+  },
+  {
+    "Source": "That was low!",
+    "Target": "That was low!"
+  },
+  {
+    "Source": "Humph!",
+    "Target": "Humph!"
+  },
+  {
+    "Source": "And I'm not useless anymore!",
+    "Target": "And I'm not useless anymore!"
+  },
+  {
+    "Source": "Don't say I'm useless!",
+    "Target": "Don't say I'm useless!"
+  },
+  {
+    "Source": "Haruchin Ultra Throwing!!",
+    "Target": "Haruchin Ultra Throwing!!"
+  },
+  {
+    "Source": "Haruchin Unlimited Ultra Super Dynamic Miracle Hyper Ultimate Global Excellent Delicious Bombard Power Throwing!!",
+    "Target": "Haruchin Unlimited Ultra Super Dynamic Miracle Hyper Ultimate Global Excellent Delicious Bombard Power Throwing!!"
+  },
+  {
+    "Source": "Look here!",
+    "Target": "Look here!"
+  },
+  {
+    "Source": "This way, huh!?",
+    "Target": "This way, huh!?"
+  },
+  {
+    "Source": "Yeah, yeah!",
+    "Target": "Yeah, yeah!"
+  },
+  {
+    "Source": "I'm trying my best.",
+    "Target": "I'm trying my best."
+  },
+  {
+    "Source": "I'll get it, I'll get it～.",
+    "Target": "I'll get it, I'll get it～."
+  },
+  {
+    "Source": "That was weak～.",
+    "Target": "That was weak～."
+  },
+  {
+    "Source": "You are out!",
+    "Target": "You are out!"
+  },
+  {
+    "Source": "Double play!",
+    "Target": "Double play!"
+  },
+  {
+    "Source": "Fine play!",
+    "Target": "Fine play!"
+  },
+  {
+    "Source": "This isn't the majors, you know.",
+    "Target": "This isn't the majors, you know."
+  },
+  {
+    "Source": "Yahoo!",
+    "Target": "Yahoo!"
+  },
+  {
+    "Source": "Exciting!!",
+    "Target": "Exciting!!"
+  },
+  {
+    "Source": "Natural high!",
+    "Target": "Natural high!"
+  },
+  {
+    "Source": "Alright!",
+    "Target": "Alright!"
+  },
+  {
+    "Source": "Sweet!",
+    "Target": "Sweet!"
+  },
+  {
+    "Source": "Oshambe!",
+    "Target": "Oshambe!"
+  },
+  {
+    "Source": "Tan yao!",
+    "Target": "Tan yao!"
+  },
+  {
+    "Source": "Full house!",
+    "Target": "Full house!"
+  },
+  {
+    "Source": "Yamada Satou Saitou Uno!",
+    "Target": "Yamada Satou Saitou Uno!"
+  },
+  {
+    "Source": "That was the best!",
+    "Target": "That was the best!"
+  },
+  {
+    "Source": "Ho-!!",
+    "Target": "Ho-!!"
+  },
+  {
+    "Source": "Jump!",
+    "Target": "Jump!"
+  },
+  {
+    "Source": "Dive!",
+    "Target": "Dive!"
+  },
+  {
+    "Source": "Haruchin's awesome!!!",
+    "Target": "Haruchin's awesome!!!"
+  },
+  {
+    "Source": "Splendid catch!",
+    "Target": "Splendid catch!"
+  },
+  {
+    "Source": "Juump!",
+    "Target": "Juump!"
+  },
+  {
+    "Source": "My clothes are getting dirty.",
+    "Target": "My clothes are getting dirty."
+  },
+  {
+    "Source": "Haruchin Max Power!",
+    "Target": "Haruchin Max Power!"
+  },
+  {
+    "Source": "There!!",
+    "Target": "There!!"
+  },
+  {
+    "Source": "You're not getting away!",
+    "Target": "You're not getting away!"
+  },
+  {
+    "Source": "That was easy!",
+    "Target": "That was easy!"
+  },
+  {
+    "Source": "Fly, fly!",
+    "Target": "Fly, fly!"
+  },
+  {
+    "Source": "Ehehe!",
+    "Target": "Ehehe!"
+  },
+  {
+    "Source": "Eh, uh, oh?",
+    "Target": "Eh, uh, oh?"
+  },
+  {
+    "Source": "Think I messed up...",
+    "Target": "Think I messed up..."
+  },
+  {
+    "Source": "Don't mind!",
+    "Target": "Don't mind!"
+  },
+  {
+    "Source": "Well, there are days like this too.",
+    "Target": "Well, there are days like this too."
+  },
+  {
+    "Source": "Even Haruchin makes mistakes!",
+    "Target": "Even Haruchin makes mistakes!"
+  },
+  {
+    "Source": "Quiet, you!",
+    "Target": "Quiet, you!"
+  },
+  {
+    "Source": "Don't get in the way.",
+    "Target": "Don't get in the way."
+  },
+  {
+    "Source": "Wasn't that dangerous?",
+    "Target": "Wasn't that dangerous?"
+  },
+  {
+    "Source": "Why don't you aim?",
+    "Target": "Why don't you aim?"
+  },
+  {
+    "Source": "...Defense not working.",
+    "Target": "...Defense not working."
+  },
+  {
+    "Source": "The other way?",
+    "Target": "The other way?"
+  },
+  {
+    "Source": "That sucked...",
+    "Target": "That sucked..."
+  },
+  {
+    "Source": "Every dog has its day, as the saying goes...",
+    "Target": "Every dog has its day, as the saying goes..."
+  },
+  {
+    "Source": "Please be careful.",
+    "Target": "Please be careful."
+  },
+  {
+    "Source": "And you hit me again.",
+    "Target": "And you hit me again."
+  },
+  {
+    "Source": "Do you hold a grudge against me or something...",
+    "Target": "Do you hold a grudge against me or something..."
+  },
+  {
+    "Source": "Shot!",
+    "Target": "Shot!"
+  },
+  {
+    "Source": "Whoo, cool!",
+    "Target": "Whoo, cool!"
+  },
+  {
+    "Source": "Clear!",
+    "Target": "Clear!"
+  },
+  {
+    "Source": "Guu!",
+    "Target": "Guu!"
+  },
+  {
+    "Source": "Exciting!",
+    "Target": "Exciting!"
+  },
+  {
+    "Source": "It's a miracle!",
+    "Target": "It's a miracle!"
+  },
+  {
+    "Source": "So good!",
+    "Target": "So good!"
+  },
+  {
+    "Source": "Hu!",
+    "Target": "Hu!"
+  },
+  {
+    "Source": "Ya!",
+    "Target": "Ya!"
+  },
+  {
+    "Source": "Ta!",
+    "Target": "Ta!"
+  },
+  {
+    "Source": "Heere!",
+    "Target": "Heere!"
+  },
+  {
+    "Source": "There.",
+    "Target": "There."
+  },
+  {
+    "Source": "Yaa!",
+    "Target": "Yaa!"
+  },
+  {
+    "Source": "Dou!",
+    "Target": "Dou!"
+  },
+  {
+    "Source": "Fuah!",
+    "Target": "Fuah!"
+  },
+  {
+    "Source": "Hyah!",
+    "Target": "Hyah!"
+  },
+  {
+    "Source": "Taah!",
+    "Target": "Taah!"
+  },
+  {
+    "Source": "Gofu!",
+    "Target": "Gofu!"
+  },
+  {
+    "Source": "Gufu!",
+    "Target": "Gufu!"
+  },
+  {
+    "Source": "Ugh!",
+    "Target": "Ugh!"
+  },
+  {
+    "Source": "...Sorry!",
+    "Target": "...Sorry!"
+  },
+  {
+    "Source": "Uwaa...",
+    "Target": "Uwaa..."
+  },
+  {
+    "Source": "Ouchie...",
+    "Target": "Ouchie..."
+  },
+  {
+    "Source": "Now I did it...",
+    "Target": "Now I did it..."
+  },
+  {
+    "Source": "No way...",
+    "Target": "No way..."
+  },
+  {
+    "Source": "Eep, again...",
+    "Target": "Eep, again..."
+  },
+  {
+    "Source": "This time, wasn't it clearly its own fault!?",
+    "Target": "This time, wasn't it clearly its own fault!?"
+  },
+  {
+    "Source": "You could've dodged that just now...",
+    "Target": "You could've dodged that just now..."
+  },
+  {
+    "Source": "Ehh...",
+    "Target": "Ehh..."
+  },
+  {
+    "Source": "Eeh!?",
+    "Target": "Eeh!?"
+  },
+  {
+    "Source": "Ehh!",
+    "Target": "Ehh!"
+  },
+  {
+    "Source": "Eeeh!",
+    "Target": "Eeeh!"
+  },
+  {
+    "Source": "Aight",
+    "Target": "Aight"
+  },
+  {
+    "Source": "All right, here I go!!",
+    "Target": "All right, here I go!!"
+  },
+  {
+    "Source": "I've been waiting for this!",
+    "Target": "I've been waiting for this!"
+  },
+  {
+    "Source": "Fiiniishiing!",
+    "Target": "Fiiniishiing!"
+  },
+  {
+    "Source": "Oraoraaaa!",
+    "Target": "Oraoraaaa!"
+  },
+  {
+    "Source": "Uoriiaaaaaaaaa!!",
+    "Target": "Uoriiaaaaaaaaa!!"
+  },
+  {
+    "Source": "Naive! How many years have you been batting!?",
+    "Target": "Naive! How many years have you been batting!?"
+  },
+  {
+    "Source": "That can't be all you've got, can it!?",
+    "Target": "That can't be all you've got, can it!?"
+  },
+  {
+    "Source": "Return to your former glory!",
+    "Target": "Return to your former glory!"
+  },
+  {
+    "Source": "I always thought you were a lot better than that!",
+    "Target": "I always thought you were a lot better than that!"
+  },
+  {
+    "Source": "This is no time to be sitting around!",
+    "Target": "This is no time to be sitting around!"
+  },
+  {
+    "Source": "Didn't we make a promise! Though I forgot what it was already!",
+    "Target": "Didn't we make a promise! Though I forgot what it was already!"
+  },
+  {
+    "Source": "It was supposed to be a promise between just the two of us, though I already told everyone!",
+    "Target": "It was supposed to be a promise between just the two of us, though I already told everyone!"
+  },
+  {
+    "Source": "You were hungry back then. You were kinda fat though.",
+    "Target": "You were hungry back then. You were kinda fat though."
+  },
+  {
+    "Source": "You should starve some more, starve s-o-m-e more...",
+    "Target": "You should starve some more, starve s-o-m-e more..."
+  },
+  {
+    "Source": "You want to come back home as a hero, don't you?",
+    "Target": "You want to come back home as a hero, don't you?"
+  },
+  {
+    "Source": "You can't stop here... You must move forward!",
+    "Target": "You can't stop here... You must move forward!"
+  },
+  {
+    "Source": "Hmph.",
+    "Target": "Hmph."
+  },
+  {
+    "Source": "Guhu...",
+    "Target": "Guhu..."
+  },
+  {
+    "Source": "Goho!",
+    "Target": "Goho!"
+  },
+  {
+    "Source": "Uoogh...",
+    "Target": "Uoogh..."
+  },
+  {
+    "Source": "Uooooryaaa!",
+    "Target": "Uooooryaaa!"
+  },
+  {
+    "Source": "Uraaaa!",
+    "Target": "Uraaaa!"
+  },
+  {
+    "Source": "Ora ora ora!",
+    "Target": "Ora ora ora!"
+  },
+  {
+    "Source": "Soryaa!",
+    "Target": "Soryaa!"
+  },
+  {
+    "Source": "Haa!",
+    "Target": "Haa!"
+  },
+  {
+    "Source": "Sei!",
+    "Target": "Sei!"
+  },
+  {
+    "Source": "I can see it!",
+    "Target": "I can see it!"
+  },
+  {
+    "Source": "Meeen!",
+    "Target": "Meeen!"
+  },
+  {
+    "Source": "Maaan!",
+    "Target": "Maaan!"
+  },
+  {
+    "Source": "Piece of cake.",
+    "Target": "Piece of cake."
+  },
+  {
+    "Source": "Hahaha, you're getting better too, aren't you?",
+    "Target": "Hahaha, you're getting better too, aren't you?"
+  },
+  {
+    "Source": "Uh-huh.",
+    "Target": "Uh-huh."
+  },
+  {
+    "Source": "All right.",
+    "Target": "All right."
+  },
+  {
+    "Source": "How about that?",
+    "Target": "How about that?"
+  },
+  {
+    "Source": "Fine by me.",
+    "Target": "Fine by me."
+  },
+  {
+    "Source": "All right, keep it up!",
+    "Target": "All right, keep it up!"
+  },
+  {
+    "Source": "All right, it's here!",
+    "Target": "All right, it's here!"
+  },
+  {
+    "Source": "Not bad.",
+    "Target": "Not bad."
+  },
+  {
+    "Source": "Isn't it fine?",
+    "Target": "Isn't it fine?"
+  },
+  {
+    "Source": "There we go.",
+    "Target": "There we go."
+  },
+  {
+    "Source": "That was simple.",
+    "Target": "That was simple."
+  },
+  {
+    "Source": "Why don't you hit harder?",
+    "Target": "Why don't you hit harder?"
+  },
+  {
+    "Source": "That's no good, no one'll get fired up from that.",
+    "Target": "That's no good, no one'll get fired up from that."
+  },
+  {
+    "Source": "You need to heat up more.",
+    "Target": "You need to heat up more."
+  },
+  {
+    "Source": "Yahooo!",
+    "Target": "Yahooo!"
+  },
+  {
+    "Source": "I'll have that for breakfast.",
+    "Target": "I'll have that for breakfast."
+  },
+  {
+    "Source": "Weren't you allergic to pollen, Riki?",
+    "Target": "Weren't you allergic to pollen, Riki?"
+  },
+  {
+    "Source": "A weak ball comes from a weak heart.",
+    "Target": "A weak ball comes from a weak heart."
+  },
+  {
+    "Source": "Are you getting used to it yet?",
+    "Target": "Are you getting used to it yet?"
+  },
+  {
+    "Source": "Hit a better one.",
+    "Target": "Hit a better one."
+  },
+  {
+    "Source": "What are you anxious about? It's clear from the way you bat.",
+    "Target": "What are you anxious about? It's clear from the way you bat."
+  },
+  {
+    "Source": "Good!",
+    "Target": "Good!"
+  },
+  {
+    "Source": "I won't let this one go.",
+    "Target": "I won't let this one go."
+  },
+  {
+    "Source": "Not so easy!",
+    "Target": "Not so easy!"
+  },
+  {
+    "Source": "This is not bad at all.",
+    "Target": "This is not bad at all."
+  },
+  {
+    "Source": "That was no sweat at all.",
+    "Target": "That was no sweat at all."
+  },
+  {
+    "Source": "That was like the buzz of a mosquito.",
+    "Target": "That was like the buzz of a mosquito."
+  },
+  {
+    "Source": "This catch is proof of our bonds!",
+    "Target": "This catch is proof of our bonds!"
+  },
+  {
+    "Source": "What's wrong? Run out of steam already, huh?",
+    "Target": "What's wrong? Run out of steam already, huh?"
+  },
+  {
+    "Source": "Did you start worrying about hair loss? It's clear from the way you bat.",
+    "Target": "Did you start worrying about hair loss? It's clear from the way you bat."
+  },
+  {
+    "Source": "Are you worried about the millennium bug now, of all times? It's clear from the way you bat.",
+    "Target": "Are you worried about the millennium bug now, of all times? It's clear from the way you bat."
+  },
+  {
+    "Source": "Are you that hungry? It's clear from the way you bat.",
+    "Target": "Are you that hungry? It's clear from the way you bat."
+  },
+  {
+    "Source": "Are you that thirsty? It's clear from the way you bat.",
+    "Target": "Are you that thirsty? It's clear from the way you bat."
+  },
+  {
+    "Source": "Kengo!",
+    "Target": "Kengo!"
+  },
+  {
+    "Source": "First base, Kengo!",
+    "Target": "First base, Kengo!"
+  },
+  {
+    "Source": "Go, Kengo!",
+    "Target": "Go, Kengo!"
+  },
+  {
+    "Source": "All right, Kengo!",
+    "Target": "All right, Kengo!"
+  },
+  {
+    "Source": "An easy out.",
+    "Target": "An easy out."
+  },
+  {
+    "Source": "There!",
+    "Target": "There!"
+  },
+  {
+    "Source": "One outs!",
+    "Target": "One outs!"
+  },
+  {
+    "Source": "Not so fast!",
+    "Target": "Not so fast!"
+  },
+  {
+    "Source": "I'm taking this.",
+    "Target": "I'm taking this."
+  },
+  {
+    "Source": "I caught that all too easy.",
+    "Target": "I caught that all too easy."
+  },
+  {
+    "Source": "Come on, put some spirit into it...",
+    "Target": "Come on, put some spirit into it..."
+  },
+  {
+    "Source": "Haha, not bad at all. Keep at it.",
+    "Target": "Haha, not bad at all. Keep at it."
+  },
+  {
+    "Source": "That's just too easy.",
+    "Target": "That's just too easy."
+  },
+  {
+    "Source": "Did coming here launch your rebellious period? It's clear from the way you bat.",
+    "Target": "Did coming here launch your rebellious period? It's clear from the way you bat."
+  },
+  {
+    "Source": "Have you fallen in love? It's clear from the way you bat.",
+    "Target": "Have you fallen in love? It's clear from the way you bat."
+  },
+  {
+    "Source": "You sure are a handful.",
+    "Target": "You sure are a handful."
+  },
+  {
+    "Source": "You need to exercise diligence daily.",
+    "Target": "You need to exercise diligence daily."
+  },
+  {
+    "Source": "Good, hit another one, hit another one with all your might!",
+    "Target": "Good, hit another one, hit another one with all your might!"
+  },
+  {
+    "Source": "Oops, did I catch that naivety of yours?",
+    "Target": "Oops, did I catch that naivety of yours?"
+  },
+  {
+    "Source": "Are you at that age already? It's clear from the way you bat.",
+    "Target": "Are you at that age already? It's clear from the way you bat."
+  },
+  {
+    "Source": "Are you mad about something? It's clear from the way you bat.",
+    "Target": "Are you mad about something? It's clear from the way you bat."
+  },
+  {
+    "Source": "Oh, you sure are hard to handle.",
+    "Target": "Oh, you sure are hard to handle."
+  },
+  {
+    "Source": "It's exactly as you say. You stand correct.",
+    "Target": "It's exactly as you say. You stand correct."
+  },
+  {
+    "Source": "I see. That's how it is. That's only natural.",
+    "Target": "I see. That's how it is. That's only natural."
+  },
+  {
+    "Source": "Howaa!",
+    "Target": "Howaa!"
+  },
+  {
+    "Source": "Fuuee!",
+    "Target": "Fuuee!"
+  },
+  {
+    "Source": "Hyaa!?",
+    "Target": "Hyaa!?"
+  },
+  {
+    "Source": "Something came flying at me!?",
+    "Target": "Something came flying at me!?"
+  },
+  {
+    "Source": "Isn't that dangerous?",
+    "Target": "Isn't that dangerous?"
+  },
+  {
+    "Source": "I'm getting angry.",
+    "Target": "I'm getting angry."
+  },
+  {
+    "Source": "Bring it!",
+    "Target": "Bring it!"
+  },
+  {
+    "Source": "Toh!",
+    "Target": "Toh!"
+  },
+  {
+    "Source": "Teei!",
+    "Target": "Teei!"
+  },
+  {
+    "Source": "Hit this if you think you can...",
+    "Target": "Hit this if you think you can..."
+  },
+  {
+    "Source": "Unyaa!",
+    "Target": "Unyaa!"
+  },
+  {
+    "Source": "Funyaa!",
+    "Target": "Funyaa!"
+  },
+  {
+    "Source": "Nnnyaa!",
+    "Target": "Nnnyaa!"
+  },
+  {
+    "Source": "Why you...",
+    "Target": "Why you..."
+  },
+  {
+    "Source": "Mon Petit for everyone, once this is over.",
+    "Target": "Mon Petit for everyone, once this is over."
+  },
+  {
+    "Source": "I wonder if there's any Mon Petit left...",
+    "Target": "I wonder if there's any Mon Petit left..."
+  },
+  {
+    "Source": "Cats are marching, nyan nyan.",
+    "Target": "Cats are marching, nyan nyan."
+  },
+  {
+    "Source": "Nnyau.",
+    "Target": "Nnyau."
+  },
+  {
+    "Source": "I can't wait for a new flavor Mon Petit to come out.",
+    "Target": "I can't wait for a new flavor Mon Petit to come out."
+  },
+  {
+    "Source": "How can you guys be so cute?",
+    "Target": "How can you guys be so cute?"
+  },
+  {
+    "Source": "Cats are great, nyaa～nyaa～.",
+    "Target": "Cats are great, nyaa～nyaa～."
+  },
+  {
+    "Source": "I wanna be a cat just once.",
+    "Target": "I wanna be a cat just once."
+  },
+  {
+    "Source": "Riki, why don't you turn into a cat sometime too?",
+    "Target": "Riki, why don't you turn into a cat sometime too?"
+  },
+  {
+    "Source": "Riki is so hyper today.",
+    "Target": "Riki is so hyper today."
+  },
+  {
+    "Source": "Riki, did something good happen to you?",
+    "Target": "Riki, did something good happen to you?"
+  },
+  {
+    "Source": "Riki looks so gloomy today.",
+    "Target": "Riki looks so gloomy today."
+  },
+  {
+    "Source": "Riki, did something bad happen to you?",
+    "Target": "Riki, did something bad happen to you?"
+  },
+  {
+    "Source": "Get away!",
+    "Target": "Get away!"
+  },
+  {
+    "Source": "Die!",
+    "Target": "Die!"
+  },
+  {
+    "Source": "Zuzu～ Howa～...",
+    "Target": "Zuzu～ Howa～..."
+  },
+  {
+    "Source": "There's good weather today～.",
+    "Target": "There's good weather today～."
+  },
+  {
+    "Source": "Haru urara～ uraura～♪",
+    "Target": "Haru urara～ uraura～♪"
+  },
+  {
+    "Source": "The training is harsh～.",
+    "Target": "The training is harsh～."
+  },
+  {
+    "Source": "Too fast～...",
+    "Target": "Too fast～..."
+  },
+  {
+    "Source": "Aauuu～...",
+    "Target": "Aauuu～..."
+  },
+  {
+    "Source": "When a doggie barks, Komari runs away...",
+    "Target": "When a doggie barks, Komari runs away..."
+  },
+  {
+    "Source": "Riki-kun, do your best～.",
+    "Target": "Riki-kun, do your best～."
+  },
+  {
+    "Source": "Wasse, wasse!",
+    "Target": "Wasse, wasse!"
+  },
+  {
+    "Source": "I'm trying my best～.",
+    "Target": "I'm trying my best～."
+  },
+  {
+    "Source": "Oh, a butterfly～.",
+    "Target": "Oh, a butterfly～."
+  },
+  {
+    "Source": "Neko-san, nyan nyan.",
+    "Target": "Neko-san, nyan nyan."
+  },
+  {
+    "Source": "This is fuun.",
+    "Target": "This is fuun."
+  },
+  {
+    "Source": "Everyone, do your best.",
+    "Target": "Everyone, do your best."
+  },
+  {
+    "Source": "Rin-chan, fight-o!",
+    "Target": "Rin-chan, fight-o!"
+  },
+  {
+    "Source": "I wonder if I should go on a diet...",
+    "Target": "I wonder if I should go on a diet..."
+  },
+  {
+    "Source": "If you're energetic, that makes me energetic as well, fight♪",
+    "Target": "If you're energetic, that makes me energetic as well, fight♪"
+  },
+  {
+    "Source": "Ha Ka Ta salt!",
+    "Target": "Ha Ka Ta salt!"
+  },
+  {
+    "Source": "The wind is talking to me... Tasty, too tasty...",
+    "Target": "The wind is talking to me... Tasty, too tasty..."
+  },
+  {
+    "Source": "I'm getting bored.",
+    "Target": "I'm getting bored."
+  },
+  {
+    "Source": "Come on, keep at it.",
+    "Target": "Come on, keep at it."
+  },
+  {
+    "Source": "Watch it closer.",
+    "Target": "Watch it closer."
+  },
+  {
+    "Source": "...Can't you do something about the cats?",
+    "Target": "...Can't you do something about the cats?"
+  },
+  {
+    "Source": "Stay away from me.",
+    "Target": "Stay away from me."
+  },
+  {
+    "Source": "I want to poke a cat's paw pad, but... Gumuu...",
+    "Target": "I want to poke a cat's paw pad, but... Gumuu..."
+  },
+  {
+    "Source": "I'm doing my best!",
+    "Target": "I'm doing my best!"
+  },
+  {
+    "Source": "Phew... Still no good～.",
+    "Target": "Phew... Still no good～."
+  },
+  {
+    "Source": "I want to drink hot tea～.",
+    "Target": "I want to drink hot tea～."
+  },
+  {
+    "Source": "Gattsun gattsun gattsun!",
+    "Target": "Gattsun gattsun gattsun!"
+  },
+  {
+    "Source": "Come on, show me what you're made of～.",
+    "Target": "Come on, show me what you're made of～."
+  },
+  {
+    "Source": "Hit one ball here too!",
+    "Target": "Hit one ball here too!"
+  },
+  {
+    "Source": "I'm brimming with enthusiasm!",
+    "Target": "I'm brimming with enthusiasm!"
+  },
+  {
+    "Source": "To be honest, I'm not getting to move all that much!",
+    "Target": "To be honest, I'm not getting to move all that much!"
+  },
+  {
+    "Source": "Riki-kun, fight!",
+    "Target": "Riki-kun, fight!"
+  },
+  {
+    "Source": "Rin-chan, fight!",
+    "Target": "Rin-chan, fight!"
+  },
+  {
+    "Source": "Today is truly a perfect Haruchin weather. Whatever that means!",
+    "Target": "Today is truly a perfect Haruchin weather. Whatever that means!"
+  },
+  {
+    "Source": "It's going to be sunny across the nation tomorrow, with a hint of Haruchin in some areas.",
+    "Target": "It's going to be sunny across the nation tomorrow, with a hint of Haruchin in some areas."
+  },
+  {
+    "Source": "This was Haruchin. Thank you for watching Countdown TV.",
+    "Target": "This was Haruchin. Thank you for watching Countdown TV."
+  },
+  {
+    "Source": "Good evening. The time is 19:55, it's Haruchin in the night.",
+    "Target": "Good evening. The time is 19:55, it's Haruchin in the night."
+  },
+  {
+    "Source": "Everyone, please do your best.",
+    "Target": "Everyone, please do your best."
+  },
+  {
+    "Source": "Aim for the Budokan.",
+    "Target": "Aim for the Budokan."
+  },
+  {
+    "Source": "Aim for the Tokyo Dome.",
+    "Target": "Aim for the Tokyo Dome."
+  },
+  {
+    "Source": "Fight.",
+    "Target": "Fight."
+  },
+  {
+    "Source": "Please let me know right away if you get hurt.",
+    "Target": "Please let me know right away if you get hurt."
+  },
+  {
+    "Source": "If I suddenly say Japan, will that make people laugh?",
+    "Target": "If I suddenly say Japan, will that make people laugh?"
+  },
+  {
+    "Source": "If I suddenly say I used to be a total motorcycle rider, will that make people laugh?",
+    "Target": "If I suddenly say I used to be a total motorcycle rider, will that make people laugh?"
+  },
+  {
+    "Source": "I seem to have gone unnoticed...",
+    "Target": "I seem to have gone unnoticed..."
+  },
+  {
+    "Source": "I'm perfectly hidden...",
+    "Target": "I'm perfectly hidden..."
+  },
+  {
+    "Source": "Haha, just keep playing...",
+    "Target": "Haha, just keep playing..."
+  },
+  {
+    "Source": "It's so peaceful out there..",
+    "Target": "It's so peaceful out there.."
+  },
+  {
+    "Source": "They sure are taking it easy...",
+    "Target": "They sure are taking it easy..."
+  },
+  {
+    "Source": "I wonder if that's fun...",
+    "Target": "I wonder if that's fun..."
+  },
+  {
+    "Source": "Not that I'm feeling envious or anything...",
+    "Target": "Not that I'm feeling envious or anything..."
+  },
+  {
+    "Source": "Riki-kun, you're more manly than I thought...",
+    "Target": "Riki-kun, you're more manly than I thought..."
+  },
+  {
+    "Source": "Go for it, Riki-kun.",
+    "Target": "Go for it, Riki-kun."
+  },
+  {
+    "Source": "I'm rooting for you from the back, Riki-kun.",
+    "Target": "I'm rooting for you from the back, Riki-kun."
+  },
+  {
+    "Source": "Nice swing.",
+    "Target": "Nice swing."
+  },
+  {
+    "Source": "What's your relationship with that girl!?",
+    "Target": "What's your relationship with that girl!?"
+  },
+  {
+    "Source": "That girl, I'm suspecting she has her eyes on Riki-kun...",
+    "Target": "That girl, I'm suspecting she has her eyes on Riki-kun..."
+  },
+  {
+    "Source": "That girl, just because she's a little pretty...",
+    "Target": "That girl, just because she's a little pretty..."
+  },
+  {
+    "Source": "You're being such a blockhead, Riki-kun...",
+    "Target": "You're being such a blockhead, Riki-kun..."
+  },
+  {
+    "Source": "Let's get it started!",
+    "Target": "Let's get it started!"
+  },
+  {
+    "Source": "I never know where it comes flying from.",
+    "Target": "I never know where it comes flying from."
+  },
+  {
+    "Source": "That wasn't too bad, right?",
+    "Target": "That wasn't too bad, right?"
+  },
+  {
+    "Source": "Not bad!",
+    "Target": "Not bad!"
+  },
+  {
+    "Source": "I think I'm getting the hang of it.",
+    "Target": "I think I'm getting the hang of it."
+  },
+  {
+    "Source": "Still not there...",
+    "Target": "Still not there..."
+  },
+  {
+    "Source": "I don't have any energy...",
+    "Target": "I don't have any energy..."
+  },
+  {
+    "Source": "I think I'm only so skilled yet...",
+    "Target": "I think I'm only so skilled yet..."
+  },
+  {
+    "Source": "Getting the hang of it, Rin?",
+    "Target": "Getting the hang of it, Rin?"
+  },
+  {
+    "Source": "Looking good, Rin.",
+    "Target": "Looking good, Rin."
+  },
+  {
+    "Source": "It's hard to bat trying not to hit the cats...",
+    "Target": "It's hard to bat trying not to hit the cats..."
+  },
+  {
+    "Source": "So many cats around...",
+    "Target": "So many cats around..."
+  },
+  {
+    "Source": "I can't guarantee I won't hit them, you know?",
+    "Target": "I can't guarantee I won't hit them, you know?"
+  },
+  {
+    "Source": "I wish I'd played sports before...",
+    "Target": "I wish I'd played sports before..."
+  },
+  {
+    "Source": "Can I suddenly become good, I wonder...",
+    "Target": "Can I suddenly become good, I wonder..."
+  },
+  {
+    "Source": "Muscles are passing by! Bulky muscles are passing by!",
+    "Target": "Muscles are passing by! Bulky muscles are passing by!"
+  },
+  {
+    "Source": "Muscles are passing by! Quite some muscles are passing by!",
+    "Target": "Muscles are passing by! Quite some muscles are passing by!"
+  },
+  {
+    "Source": "Muscles are passing by! Thank you for your cooperation!",
+    "Target": "Muscles are passing by! Thank you for your cooperation!"
+  },
+  {
+    "Source": "Muscles are passing by! Enormous muscles are passing by!",
+    "Target": "Muscles are passing by! Enormous muscles are passing by!"
+  },
+  {
+    "Source": "The Muscle Exchange thanks you for your continued patronage.",
+    "Target": "The Muscle Exchange thanks you for your continued patronage."
+  },
+  {
+    "Source": "This is Muscles, heading out to the site now.",
+    "Target": "This is Muscles, heading out to the site now."
+  },
+  {
+    "Source": "This is Quite Some Muscles, heading out to the site now.",
+    "Target": "This is Quite Some Muscles, heading out to the site now."
+  },
+  {
+    "Source": "This is Enormous Muscles, heading out to the site now.",
+    "Target": "This is Enormous Muscles, heading out to the site now."
+  },
+  {
+    "Source": "Muscle is taking off, please mind the gap.",
+    "Target": "Muscle is taking off, please mind the gap."
+  },
+  {
+    "Source": "Fuu, fuuu... Muscles, muscles.",
+    "Target": "Fuu, fuuu... Muscles, muscles."
+  },
+  {
+    "Source": "Hu... hu... my muscles are screaming! They're screaming out!",
+    "Target": "Hu... hu... my muscles are screaming! They're screaming out!"
+  },
+  {
+    "Source": "Ohh, this is one huge scream!",
+    "Target": "Ohh, this is one huge scream!"
+  },
+  {
+    "Source": "Hu, hu...",
+    "Target": "Hu, hu..."
+  },
+  {
+    "Source": "Oh my god, this screaming is too much for me to take!",
+    "Target": "Oh my god, this screaming is too much for me to take!"
+  },
+  {
+    "Source": "Uoooo, my muscles are running wild! They're rioting!",
+    "Target": "Uoooo, my muscles are running wild! They're rioting!"
+  },
+  {
+    "Source": "This is... A muscle REVOLUUUTIOOOON!!",
+    "Target": "This is... A muscle REVOLUUUTIOOOON!!"
+  },
+  {
+    "Source": "Sultry muscles are passing by. Please make way.",
+    "Target": "Sultry muscles are passing by. Please make way."
+  },
+  {
+    "Source": "Please make way, sultry muscles are passing by.",
+    "Target": "Please make way, sultry muscles are passing by."
+  },
+  {
+    "Source": "Thank you for your cooperation!",
+    "Target": "Thank you for your cooperation!"
+  },
+  {
+    "Source": "Wait up, you muscles over there. You're too sultry, you need to stop.",
+    "Target": "Wait up, you muscles over there. You're too sultry, you need to stop."
+  },
+  {
+    "Source": "Nothing is eternal...",
+    "Target": "Nothing is eternal..."
+  },
+  {
+    "Source": "You're still inexperienced.",
+    "Target": "You're still inexperienced."
+  },
+  {
+    "Source": "The most important thing is team play.",
+    "Target": "The most important thing is team play."
+  },
+  {
+    "Source": "We must deepen our bonds!",
+    "Target": "We must deepen our bonds!"
+  },
+  {
+    "Source": "Great. Keep at it. We must deepen our bonds.",
+    "Target": "Great. Keep at it. We must deepen our bonds."
+  },
+  {
+    "Source": "Don't be afraid to ruin your clothes, there is value in that also.",
+    "Target": "Don't be afraid to ruin your clothes, there is value in that also."
+  },
+  {
+    "Source": "Don't be afraid to wear yourself out, there is value in that also.",
+    "Target": "Don't be afraid to wear yourself out, there is value in that also."
+  },
+  {
+    "Source": "Alright, we have an awesome team.",
+    "Target": "Alright, we have an awesome team."
+  },
+  {
+    "Source": "We are the Little Busters!",
+    "Target": "We are the Little Busters!"
+  },
+  {
+    "Source": "They can do it, I just know they can do it.",
+    "Target": "They can do it, I just know they can do it."
+  },
+  {
+    "Source": "Don't forget team play!",
+    "Target": "Don't forget team play!"
+  }
+]

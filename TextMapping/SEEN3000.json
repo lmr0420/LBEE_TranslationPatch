@@ -17270,57 +17270,57 @@
     {
       "JP": "学食$d中庭の自動販売機$d校門",
       "EN": "Cafeteria$dCourtyard vending machine$dSchool gates",
-      "Translation": "Cafeteria$dCourtyard vending machine$dSchool gates"
+      "Translation": "食堂$d中庭的自动贩卖机$d校门"
     },
     {
       "JP": "中庭の自動販売機$d校門",
       "EN": "Courtyard vending machine$dSchool gates",
-      "Translation": "Courtyard vending machine$dSchool gates"
+      "Translation": "中庭的自动贩卖机$d校门"
     },
     {
       "JP": "学食$d中庭の自動販売機",
       "EN": "Cafeteria$dCourtyard vending machine",
-      "Translation": "Cafeteria$dCourtyard vending machine"
+      "Translation": "食堂$d中庭的自动贩卖机"
     },
     {
       "JP": "何も訊かない$dどうしたのか訊く",
       "EN": "Don't ask anything$dAsk what happened",
-      "Translation": "Don't ask anything$dAsk what happened"
+      "Translation": "不问任何问题$d询问发生了什么"
     },
     {
       "JP": "委員会室へ向かう$dこのまま寮に帰る",
       "EN": "Head to the meeting room$dReturn to the dorms",
-      "Translation": "Head to the meeting room$dReturn to the dorms"
+      "Translation": "去委员会室$d回宿舍"
     },
     {
       "JP": "本当か訊く$d何も言わない",
       "EN": "Ask for the truth$dDon't say anything",
-      "Translation": "Ask for the truth$dDon't say anything"
+      "Translation": "询问真相$d什么也不说"
     },
     {
       "JP": "確認する$d確認するまでもない",
       "EN": "Check it out$dThere's no need",
-      "Translation": "Check it out$dThere's no need"
+      "Translation": "确认一下$d没有必要"
     },
     {
       "JP": "葉留佳さん探しを続行する$d今日は諦めることにする",
       "EN": "Continue searching for Haruka-san$dGive up for today",
-      "Translation": "Continue searching for Haruka-san$dGive up for today"
+      "Translation": "继续寻找叶留佳$d今天先放弃"
     },
     {
       "JP": "名簿で見たと答える$d二木さんから聞いたと答える",
       "EN": "Saw it in the class register$dHeard it from Futaki-san",
-      "Translation": "Saw it in the class register$dHeard it from Futaki-san"
+      "Translation": "在班级名册上看到的$d从二木那里听到的"
     },
     {
       "JP": "うん$dううん",
       "EN": "Yes$dNo",
-      "Translation": "Yes$dNo"
+      "Translation": "是的$d不是"
     },
     {
       "JP": "わかりました$dやっぱりちょっと…",
       "EN": "I understand$dI don't think so...",
-      "Translation": "I understand$dI don't think so..."
+      "Translation": "我明白了$d我不这么觉得…"
     }
   ],
   "TASK": []

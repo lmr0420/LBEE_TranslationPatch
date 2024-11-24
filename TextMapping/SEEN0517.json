@@ -1910,22 +1910,22 @@
     {
       "JP": "どすっ！",
       "EN": "*WHAM*!",
-      "Translation": "*WHAM*!"
+      "Translation": "咚！"
     },
     {
       "JP": "`真人@「うおっ!?」",
       "EN": "`Masato@❝Ooh!?❞",
-      "Translation": "咚！"
+      "Translation": "`真人@「呜哦！？」"
     },
     {
       "JP": "前のめりになり、机に倒れ込む。",
       "EN": "Masato fell onto a desk.",
-      "Translation": "`真人@「呜哦！？」"
+      "Translation": "真人就这样面朝前方倒在了桌上。"
     },
     {
       "JP": "誰かに背中を蹴られたようだった。",
       "EN": "Seemed like his back had been kicked by someone.",
-      "Translation": "真人就这样面朝前方倒在了桌上。有谁在背后踢了他一脚。"
+      "Translation": "有谁在背后踢了他一脚。"
     },
     {
       "JP": "`来ヶ谷@「全く、馬鹿どもが…時と場合を考えてじゃれ合え」",
@@ -1965,7 +1965,7 @@
     {
       "JP": "来ヶ谷さんの行く道が、モーゼの伝説のように開けていく。",
       "EN": "The onlookers opened a route for Kurugaya-san. It was like in the legend of Moses.",
-      "Translation": "来谷所行之道，就像摩西的传说一样被打开了。（摩西是打开了水）"
+      "Translation": "来谷所行之道，就像摩西的传说一样被打开了。"
     },
     {
       "JP": "`真人@「てめぇ…女が口を挟めるようなぬるい状況じゃねぇんだよ、黙ってろ」",
@@ -3695,7 +3695,7 @@
     {
       "JP": "`鈴@「これでどう…",
       "EN": "`Rin@❝Is this oka... ",
-      "Translation": "`铃@「是这样吗…呜啊！」"
+      "Translation": "`铃@「是这样吗…"
     },
     {
       "JP": "うぁっ！」",
@@ -4170,7 +4170,7 @@
     {
       "JP": "`理樹@「すとーーーっぷ！　タイムタイム！」",
       "EN": "`Riki@❝Stooop! Calm down, you guys!❞",
-      "Translation": "`理树@「ＳＴ———ＯＰ！暂停暂停！」"
+      "Translation": "`理树@「ＳＴーーーＯＰ！暂停暂停！」"
     },
     {
       "JP": "かしぃん！　かしぃん！",
@@ -7160,17 +7160,17 @@
     {
       "JP": "`真人@「ただでさえボール少ねぇんだからよぉ、とろとろしてんじゃねぇよったく」",
       "EN": "`Masato@❝We don't have that many balls, so don't waste time.❞",
-      "Translation": "`真人@「球已经不够用了，不要磨磨蹭蹭的，你这还算有干劲吗，啊啊，当然是说棒球的事，你到底是在找棒球哇噗」"
+      "Translation": "`真人@「球已经不够用了，不要磨磨蹭蹭的，你这还算有干劲吗」"
     },
     {
       "JP": "`真人@「おまえそれでもやる気あんのか、ああ、もちろん野球のことだとも、おまえは野球を一体",
       "EN": "`Masato@❝I can tell you haven't got enough passion. Of course, I mean passion for bas",
-      "Translation": "`真人@「啊啊，当然是说棒球的事，你到底是在找棒球哇」"
+      "Translation": "`真人@「啊啊，当然是说棒球的事，你到底是在找棒球"
     },
     {
       "JP": "わぶっ」",
       "EN": "oomph!❞",
-      "Translation": "噗"
+      "Translation": "哇噗」"
     },
     {
       "JP": "ぽろぽろですぎだ!!",
@@ -7350,12 +7350,12 @@
     {
       "JP": "`真人@「おまえそれでもやる気あんのか、ああ、もちろん野球のことだとも、おまえは野球を一体",
       "EN": "`Masato@❝I can tell you haven't got enough passion. Of course, I mean passion for bas",
-      "Translation": "`真人@「啊啊，当然是说棒球的事，你到底是在找棒球哇噗」"
+      "Translation": "`真人@「啊啊，当然是说棒球的事，你到底是在找棒球"
     },
     {
       "JP": "わぶっ」",
       "EN": "oomph!❞",
-      "Translation": "噗"
+      "Translation": "哇噗」"
     },
     {
       "JP": "ぽろぽろですぎだ!!",
@@ -8210,7 +8210,7 @@
     {
       "JP": "`理樹@「もちろん、こっち。クドが探してるんだ、ルームシェアの相手」",
       "EN": "`Riki@❝It's Kud who's looking for a roommate.❞",
-      "Translation": "`理树@「当然是这个。库特正在找一起住的学生」"
+      "Translation": "`理树@「是库特正在找一起住的学生」"
     },
     {
       "JP": "`理樹@「女子寮ではどうなってるかわかんなくて」",

@@ -4675,7 +4675,7 @@
     {
       "JP": "`来ヶ谷@「チャイム・ウィル・リング。中々詩的な言葉だな」",
       "EN": "`Kurugaya@❝❛Chime will ring.❜ That's rather poetic.❞",
-      "Translation": "`来谷@「hwg。嗯，很有诗意的话」"
+      "Translation": "`来谷@「铃会响(Chime will ring)。嗯，很有诗意的话」"
     },
     {
       "JP": "`来ヶ谷@「いやいや。やはり理樹君をここに招待して正解だった」",
@@ -4715,12 +4715,12 @@
     {
       "JP": "不気味な影との接触が今だに鮮明に思い出され、食欲は正直ない。でもとりあえず何か入れておこう…。",
       "EN": "I couldn't shake off the vision of the eerie shadow I encountered today and had no appetite... But I still had to have something.",
-      "Translation": "好像只有我一个人还没有吃午饭。"
+      "Translation": "至今仍能清晰地回忆起与诡异影子的接触，食欲也不好。不过还是先吃点东西吧…。"
     },
     {
       "JP": "僕ひとり昼食を食べ損ねてしまったようだ。",
       "EN": "I was the only one to miss lunch.",
-      "Translation": "于是我一个人去吃有些迟的午饭。"
+      "Translation": "好像只有我一个人还没有吃午饭。"
     },
     {
       "JP": "ひとりで遅い昼食をとることにする。",
@@ -5355,7 +5355,7 @@
     {
       "JP": "`理樹@（来ヶ谷さんがいつの間にか入れてたんだろうか…）",
       "EN": "`Riki@(When did she put it in there...)",
-      "Translation": "理树（来谷什么时候放进来的啊…）"
+      "Translation": "`理树@（来谷什么时候放进来的啊…）"
     },
     {
       "JP": "まさかあの人はこんなことまでお見通しなのか、とちょっと戦慄を覚える。",
@@ -5955,7 +5955,7 @@
     {
       "JP": "`恭介@「バトル…スタートだ!!」",
       "EN": "`Kyousuke@❝Battle... Start!❞",
-      "Translation": "`恭介@「…！！」"
+      "Translation": "`恭介@「Battle…Start！！」"
     },
     {
       "JP": "みんなどれだけ楽しみなんだ、と訊きたくなるほど無数の武器が投げ込まれる。",
@@ -7130,7 +7130,7 @@
     {
       "JP": "`理樹@（…そうだ、鈴に友達を作るいい機会じゃないか）",
       "EN": "`Riki@(...Right, this is a great opportunity for Rin to make a friend.)",
-      "Translation": "理树（…对了，这不是让铃交朋友的好机会吗）"
+      "Translation": "`理树@（…对了，这不是让铃交朋友的好机会吗）"
     },
     {
       "JP": "神北さんならきっと鈴のいい友達になってくれるだろう。",
@@ -8435,7 +8435,7 @@
     {
       "JP": "`？？@「ぐっもーにんえぶりわんはぶあないすでーっ」",
       "EN": "`???@❝Gummo-nin eburiwan habu naisu dei.❞",
-      "Translation": "`？@「God mrnigevyhac」"
+      "Translation": "`？@「God mornig evy wan habu naisu dei.」"
     },
     {
       "JP": "女の子は両の瞳で僕を見上げてきてそんなことを言った。",
@@ -8520,7 +8520,7 @@
     {
       "JP": "`？？@「…英語のミニテストで『$K112次はもっとがんばりましょう$K0グッバイガール！』と書かれたひとですそうなんですなんですですすす…すー」",
       "EN": "`???@❝...someone who received a ❛$K112Try better next time$K0 goodbye girl❜ mark on the English mini-test... that's how it is... it is... it is... is-is-is-is...❞",
-      "Translation": "`？@「…反正我就是在英语小测试里卷子上写着$K112『下次再努力一点吧b！』$K0评语的人没错就是这样的人这样的人的人…人—」"
+      "Translation": "`？@「…反正我就是在英语小测试里卷子上写着$K112『下次再努力一点吧！』$K0评语的人没错就是这样的人这样的人的人…人—」"
     },
     {
       "JP": "一人ドップラー効果!?",
@@ -13475,12 +13475,12 @@
     {
       "JP": "`鈴@『で、どうすればいい。おー…』",
       "EN": "`Rin@[So, what should I do. O-...]",
-      "Translation": "`铃@『那么，该怎么办。Ｏ—…』"
+      "Translation": "`铃@『那么，该怎么办。Ｏ…』"
     },
     {
       "JP": "`鈴@『おーさだはる』",
       "EN": "`Rin@[Ou Sadaharu.]",
-      "Translation": "`铃@『偶—知道了』"
+      "Translation": "`铃@『偶…知道了』"
     },
     {
       "JP": "`理樹@「うわ、すごいごまかし方した！」",
@@ -13555,12 +13555,12 @@
     {
       "JP": "`鈴@『了解、おー…』",
       "EN": "`Rin@[Roger, o-...]",
-      "Translation": "`铃@『了解，Ｏ—…』"
+      "Translation": "`铃@『了解，Ｏ…』"
     },
     {
       "JP": "`鈴@『おーさだはる』",
       "EN": "`Rin@[Ou Sadaharu.]",
-      "Translation": "`铃@『偶—知道了』"
+      "Translation": "`铃@『偶…知道了』"
     },
     {
       "JP": "………。",
@@ -13655,7 +13655,7 @@
     {
       "JP": "`鈴@『おーさだはる』",
       "EN": "`Rin@[Ou Sadaharu.]",
-      "Translation": "`铃@『偶—知道了』"
+      "Translation": "`铃@『偶…知道了』"
     },
     {
       "JP": "…怒りが収まった。",
@@ -13810,7 +13810,7 @@
     {
       "JP": "`真人@「次は『まあ、チャッピーが知らない人に懐くなんて…お名前を聞かせていただけませんか？』と続くのか？」",
       "EN": "`Masato@❝How about going on with ❛My, it's unusual for Chappy to get attached to a stranger... Would you tell me your name?❜❞",
-      "Translation": "`真人@「下面说『竟然和不知道Ｃｈａｐｐｙ的人碰到了一起…可否打听您的贵名？』吗？」"
+      "Translation": "`真人@「下面说『居然和不知道Ｃｈａｐｐｙ的人碰到了一起…可否打听您的贵名？』吗？」"
     },
     {
       "JP": "`恭介@「それは古典の$K96少女漫画$K0だな…」",
@@ -13820,7 +13820,7 @@
     {
       "JP": "`鈴@『まあ、チャッピーが知らない人に懐くなんて…お名前を聞かせていただけませんか？』",
       "EN": "`Rin@[My, it's unusual for Chappy to get attached to a stranger... Would you tell me your name?]",
-      "Translation": "`铃@『竟然碰到了不知道Ｃｈａｐｐｙ的人…可否打听您的贵名？』"
+      "Translation": "`铃@『居然碰到了不知道Ｃｈａｐｐｙ的人…可否打听您的贵名？』"
     },
     {
       "JP": "`理樹@「うわ、それただのこっちの会話だからっ」",
@@ -13885,7 +13885,7 @@
     {
       "JP": "`理樹@（ん、向こうの人は鈴を知ってるのか）",
       "EN": "`Riki@(Mm, that person knows Rin.)",
-      "Translation": "理树（对方好像认识铃）"
+      "Translation": "`理树@（对方好像认识铃）"
     },
     {
       "JP": "`声@『そうですか…』",
@@ -13955,7 +13955,7 @@
     {
       "JP": "`鈴@『なんでじゃーっ』",
       "EN": "`Rin@[Why do I have to!?]",
-      "Translation": "`铃@『为什喵—』"
+      "Translation": "`铃@『为什喵ー』"
     },
     {
       "JP": "`恭介@「どうしてもやばくなったら、こっちからフォロー入れるよ」",
@@ -14090,7 +14090,7 @@
     {
       "JP": "`鈴@『まあ、チャッピーが知らない人に懐くなんて』",
       "EN": "`Rin@[My, it's unusual for Chappy to get attached to a stranger...]",
-      "Translation": "`铃@『竟然碰到了不知道Ｃｈａｐｐｙ的人』"
+      "Translation": "`铃@『居然碰到了不知道Ｃｈａｐｐｙ的人』"
     },
     {
       "JP": "`佐々美@『あ、あまつさえこのわたくしをチャッピー呼ばわりするとは…』",

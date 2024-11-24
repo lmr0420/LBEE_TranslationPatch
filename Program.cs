@@ -15,6 +15,7 @@
     using System.Reflection.Metadata;
     using System.Runtime.InteropServices;
     using System.Runtime.CompilerServices;
+    using System.Runtime.ExceptionServices;
 
     [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Auto)]
     public struct OpenFileName
@@ -194,6 +195,24 @@
                     continue;
                 }
 
+                // 记下原有脚本中各指令的数量用于验证
+                var translationJsonCounts = new Dictionary<string, int>();
+                foreach (var command in allCommands)
+                {
+                    if (InstructionProcessor.InstructionGetMapping.ContainsKey(command.GetInstruction()))
+                    {
+                        var commandName = Operators[command.GetInstruction()];
+                        if (!translationJsonCounts.ContainsKey(commandName))
+                        {
+                            translationJsonCounts[commandName] = 0;
+                        }
+                        var TranslationObj = command.GetTranslationObj();
+                        if (TranslationObj != null)
+                        {
+                            translationJsonCounts[commandName] += 1;
+                        }
+                    }
+                }
                 // 如果有翻译文件的话，执行翻译
                 List<byte> NewScriptBuffer = new List<byte>();
                 var ScriptTextMappingObj = JObject.Parse(File.ReadAllText(scriptTextMapping));
@@ -229,12 +248,23 @@
                                 var CommandTranslationObj = CommandTranslationCollection[CurCmdIndex].Value<JObject>();
                                 if (CommandTranslationObj != null)
                                 {
-                                    if(!command.SetTranslationObj(CommandTranslationObj))
+                                    if (!command.SetTranslationObj(CommandTranslationObj))
                                     {
                                         // 如果指令未被接受，则往前退一步
                                         CmdIndexMap[CurInstruction]--;
                                     }
                                 }
+                                else
+                                {
+                                    Console.Error.WriteLine("Error: Invalid TextMapping Json!");
+                                    Console.Error.WriteLine(Operators[CurInstruction] + ":" + CurCmdIndex.ToString() + " is not a JsonObject!");
+                                    return;
+                                }
+                            }
+                            else
+                            {
+                                // 如果指令未被接受，则往前退一步
+                                CmdIndexMap[CurInstruction]--;
                             }
                         }
                     }
@@ -250,6 +280,15 @@
                     if (command.GetPendingLength() > 0)
                     {
                         NewScriptBuffer.Add(0);
+                    }
+                }
+                foreach(var cmdIndexKV in CmdIndexMap)
+                {
+                    if(translationJsonCounts.ContainsKey(Operators[cmdIndexKV.Key]) &&
+                        translationJsonCounts[Operators[cmdIndexKV.Key]] != cmdIndexKV.Value+1)
+                    {
+                        Console.Error.WriteLine("Error: TextMapping Instruction Count Mismatch("+ Operators[cmdIndexKV.Key] +"), Exit!");
+                        return;
                     }
                 }
                 File.WriteAllBytes(scriptFile, NewScriptBuffer.ToArray());

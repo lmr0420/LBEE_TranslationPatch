@@ -3100,7 +3100,7 @@
     {
       "JP": "差出人：来ヶ谷　唯湖$dタイトル：『無題』",
       "EN": "Sender: Yuiko Kurugaya\nSubject: [No subject]",
-      "Translation": "送信人：来谷唯湖题目：『无题』"
+      "Translation": "发信人：来谷唯湖$d题目：『无题』"
     },
     {
       "JP": "本文：『暇だから何か面白いことをしろ』",
@@ -3140,12 +3140,12 @@
     {
       "JP": "`来ヶ谷@「いや、ゆいちゃんと呼ぶのは止めてくれ…」",
       "EN": "`Kurugaya@❝No, please stop calling me Yui-chan...❞",
-      "Translation": "发信人：来谷唯湖题目：『无题』"
+      "Translation": "发信人：来谷唯湖$d题目：『无题』"
     },
     {
       "JP": "`理樹@「え、どうしたの？」",
       "EN": "`Riki@❝Eh, what's wrong?❞",
-      "Translation": "发信人：来谷唯湖题目：『无题』"
+      "Translation": "发信人：来谷唯湖$d题目：『无题』"
     },
     {
       "JP": "`小毬@「さ、さっきメールで…」",
@@ -3220,7 +3220,7 @@
     {
       "JP": "差出人：来ヶ谷　唯湖$dタイトル：『無題』",
       "EN": "Sender: Yuiko Kurugaya\nSubject: [No subject]",
-      "Translation": "送信人：来谷唯湖题目：『无题』"
+      "Translation": "发信人：来谷唯湖$d题目：『无题』"
     },
     {
       "JP": "本文：『暇だから何か面白いことをしろ』",
@@ -3260,7 +3260,7 @@
     {
       "JP": "差出人：来ヶ谷　唯湖$dタイトル：『無題』",
       "EN": "Sender: Yuiko Kurugaya\nSubject: [No subject]",
-      "Translation": "发信人：来谷唯湖题目：『无题』"
+      "Translation": "发信人：来谷唯湖$d题目：『无题』"
     },
     {
       "JP": "本文：『とりあえずスキップしながら「アッヒョー」と叫んで真人少年に$K33ペガサス百烈拳$K0をお見舞いしろ』",
@@ -4085,7 +4085,7 @@
     {
       "JP": "`三枝@「少々のことは許しましょう。えへん」",
       "EN": "`Saigusa@❝I can overlook the small stuff. Ehe.❞",
-      "Translation": "`三枝@「这点事情就原谅你把。嘿」"
+      "Translation": "`三枝@「这点事情就原谅你吧。嘿」"
     },
     {
       "JP": "三枝さんは腕組みを解いて腰に手を当てると、ちょこん、と胸を反らした。",

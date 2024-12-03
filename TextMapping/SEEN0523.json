@@ -1994,7 +1994,7 @@
     {
       "JP": "どうして、ひとりの男の子の恋患いを気にする必要があったんだ…『手紙の主』は。",
       "EN": "Why did the task sender, the author of the letter, have to worry about one boy's lovesickness...? ",
-      "Translation": "`为什么@『信的主人』…会去留意一个男人的相思病…。"
+      "Translation": "`为什么『信的主人』…会去留意一个男人的相思病…。"
     },
     {
       "JP": "その課題のおかげで、たちまち一貫性を失った。",
@@ -2024,27 +2024,27 @@
     {
       "JP": "`鈴@「出迎えご苦労」",
       "EN": "`Rin@❝Thanks for the welcome.❞",
-      "Translation": "先守着看看"
+      "Translation": "`铃@「同志们辛苦了」"
     },
     {
       "JP": "`鈴@「…たまには出迎えてくれなくてもいいぞ」",
       "EN": "`Rin@❝...You guys don't always have to welcome me, though.❞",
-      "Translation": "上前打招呼"
+      "Translation": "`铃@「…下次的话不用出来迎接也可以的」"
     },
     {
       "JP": "`鈴@「待ってるのは大変だろう…」",
       "EN": "`Rin@❝It must be tough to wait for me...❞",
-      "Translation": "`铃@「同志们辛苦了」"
+      "Translation": "`铃@「在这里等我一定很辛苦吧」"
     },
     {
       "JP": "みゃぅー。",
       "EN": "Meow.",
-      "Translation": "`铃@「…下次的话不用出来迎接也可以的」"
+      "Translation": "喵——"
     },
     {
       "JP": "かりかりかり。",
       "EN": "*Scratch*scratch*.",
-      "Translation": "喵——。咔哩咔哩咔哩。"
+      "Translation": "咔哩咔哩咔哩。"
     },
     {
       "JP": "`鈴@「なんだ？」",
@@ -2129,22 +2129,22 @@
     {
       "JP": "ごろごろ。猫が喉を鳴らす。",
       "EN": "The cat purred.",
-      "Translation": "呼噜呼噜。"
+      "Translation": "呼噜呼噜。小猫们用喉咙发出声音"
     },
     {
       "JP": "`鈴@「くすぐり方、上達したろ？」",
       "EN": "`Rin@❝Don't you think I've gotten better at titillating?❞",
-      "Translation": "小猫们用喉咙发出声音"
+      "Translation": "`铃@「搔痒的方法，进步了吧？」"
     },
     {
       "JP": "`鈴@「くすぐりますたー」",
       "EN": "`Rin@❝I'm a master of titillating.❞",
-      "Translation": "`铃@「搔痒的方法、进步了吧？」"
+      "Translation": "`铃@「我可是搔痒大师」"
     },
     {
       "JP": "みゃう。",
       "EN": "Meow.",
-      "Translation": "`铃@「帮你搔痒吧」"
+      "Translation": "喵——"
     },
     {
       "JP": "`鈴@「おまえもしてほしいか？」",
@@ -2189,7 +2189,7 @@
     {
       "JP": "僕が先にそれを見つける。",
       "EN": "I had already spotted him.",
-      "Translation": "我首先看见那列侬。"
+      "Translation": "我已经发现列侬了。"
     },
     {
       "JP": "`鈴@「うなあぁ、理樹っ、いつからここに!?」",
@@ -2309,7 +2309,7 @@
     {
       "JP": "しかも、相手はまたも特定された個人だ。",
       "EN": "Furthermore, a particular individual had been specified again.",
-      "Translation": "而且，对手还是特定了的人。"
+      "Translation": "而且，对手还是特定的人。"
     },
     {
       "JP": "僕は呆れ返る。",
@@ -8424,37 +8424,37 @@
     {
       "JP": "ふわふわのスポンジに、香ばしいくるみの歯ごたえ。",
       "EN": "The cake itself had a light, sponge-like texture, and the crunchy walnut flavor spread in my mouth.",
-      "Translation": "软软的海绵蛋糕体上，核桃的香味充斥着牙齿的每个角落。我至今还从没吃过有那么香的市场上零售的蛋糕。"
+      "Translation": "软软的海绵蛋糕体上，核桃的香味充斥着牙齿的每个角落。"
     },
     {
       "JP": "市販のものでこんなにいい香りがするのは、食べた事がない。",
       "EN": "I hadn't eaten a shop cake this good-smelling before.",
-      "Translation": "`小毬@「这个可是我特别推荐的哟－」"
+      "Translation": "我至今还从没吃过有那么香的市场上零售的蛋糕。"
     },
     {
       "JP": "`小毬@「これは特にオススメなんだよー」",
       "EN": "`Komari@❝This is my special favorite.❞",
-      "Translation": "`小毬@「哪儿有的卖我下次告诉你吧」"
+      "Translation": "`小毬@「这个可是我特别推荐的哟－」"
     },
     {
       "JP": "`小毬@「今度売ってるところ教えてあげるね」",
       "EN": "`Komari@❝I'll show you the place where they sell it, next time.❞",
-      "Translation": "`理树@「是啊，下次我自己去买好了」"
+      "Translation": "`小毬@「哪儿有的卖我下次告诉你吧」"
     },
     {
       "JP": "`理樹@「そうだね、今度買いに行ってみるよ」",
       "EN": "`Riki@❝Yeah, I want to visit that shop.❞",
-      "Translation": "吃完核桃蛋糕后，我喝起乌龙茶来。"
+      "Translation": "`理树@「是啊，下次我自己去买好了」"
     },
     {
       "JP": "パウンドケーキを食べ終わり、ウーロン茶を口に運んでいると。",
       "EN": "When I finished my cake and was drinking my oolong tea...",
-      "Translation": "`声@「…那边的两位」"
+      "Translation": "吃完核桃蛋糕后，我喝起乌龙茶来。"
     },
     {
       "JP": "`声@「…そこのお二人さん」",
       "EN": "`Voice@❝...you two over there.❞",
-      "Translation": "传来了一个威严的声音。"
+      "Translation": "`声@「…那边的两位」"
     },
     {
       "JP": "`小毬@「ふえ…？」",
@@ -10904,12 +10904,12 @@
     {
       "JP": "`クド@「れっつ・こーりんぐなのです」",
       "EN": "`Kud@❝Let's calling!❞",
-      "Translation": "`库特@「·C的说」"
+      "Translation": "`库特@「Let's calling的说」"
     },
     {
       "JP": "`葉留佳@「おけおけ、真人くんのために掛けてあげよー」",
       "EN": "`Haruka@❝Okay, okay, anything for Masato-kun.❞",
-      "Translation": "`叶留佳@「、为了真人君就打一下好了－」"
+      "Translation": "`叶留佳@「OKOK，为了真人君就打一下好了－」"
     },
     {
       "JP": "`来ヶ谷@「うむ、協力してやろう」",
@@ -11194,27 +11194,27 @@
     {
       "JP": "`西園@「すみません…風で飛んでしまいました」",
       "EN": "`Nishizono@❝I'm sorry... It was blown away by the wind.❞",
-      "Translation": "恭介为追随风飘走的便签纸而从略感欣慰的我身边跑了出去。"
+      "Translation": "`西园@「抱歉…被风吹走了」"
     },
     {
       "JP": "…真人もまだ走っていた。",
       "EN": "...Masato was still running after his.",
-      "Translation": "`西园@「抱歉…被风吹走了」"
+      "Translation": "…真人也还在追。」"
     },
     {
       "JP": "色々あったけど。",
       "EN": "Even though this and that happened.",
-      "Translation": "…真人也还在追。"
+      "Translation": "虽然发生了各种各样的事。"
     },
     {
       "JP": "無事、全員分を登録完了。",
       "EN": "She completed adding everyone to her contact list.",
-      "Translation": "虽然发生了各种各样的事。"
+      "Translation": "不过还是顺利地把全员的资料登录完了。"
     },
     {
       "JP": "みんなも西園さんの番号とアドレスを登録した。",
       "EN": "Everyone else added her to their address books as well.",
-      "Translation": "不过还是顺利地把全员的资料登录完了。大家也都登录了西园的电话和邮件地址。"
+      "Translation": "大家也都登录了西园的电话和邮件地址。"
     },
     {
       "JP": "`理樹@「よかったね。なんとかアドレス交換できて」",
@@ -14144,7 +14144,7 @@
     {
       "JP": "`男子生徒@「え…俺？　別にこむらがえってないけど…」",
       "EN": "`Male Student@❝Eh... Me? I don't have any particular cramp...❞",
-      "Translation": "`男子生徒@「哎…我吗？我没有肚子抽筋啊…」"
+      "Translation": "`男学生@「哎…我吗？我没有肚子抽筋啊…」"
     },
     {
       "JP": "見知らぬ人だった。",
@@ -14159,7 +14159,7 @@
     {
       "JP": "`男子生徒@「はぁあ!?　なんで俺いきなりわけわかんないこと言われて怒られてんのっ!?」",
       "EN": "`Male Student@❝Haaaa!? Why am I getting told off all of a sudden!?❞",
-      "Translation": "`男子生徒@「哈啊啊！？干嘛对突然我说了些莫名其妙的话后又发莫名其妙的火啊！？」"
+      "Translation": "`男学生@「哈啊啊！？干嘛对突然我说了些莫名其妙的话后又发莫名其妙的火啊！？」"
     },
     {
       "JP": "`理樹@「あ、ごめんなさい…気にしないで」",
@@ -14169,7 +14169,7 @@
     {
       "JP": "`男子生徒@「あ、ああ…」",
       "EN": "`Male Student@❝O, okay...❞",
-      "Translation": "`男子生徒@「啊，嗯…」"
+      "Translation": "`男学生@「啊，嗯…」"
     },
     {
       "JP": "そうだ、このひとは恭介のルームメイトだ。",
@@ -14184,7 +14184,7 @@
     {
       "JP": "`男子生徒@「いや、中にいるよ」",
       "EN": "`Male Student@❝No, he's here.❞",
-      "Translation": "`男子生徒@「不，他在里面」"
+      "Translation": "`男学生@「不，他在里面」"
     },
     {
       "JP": "ルームメイトの人はどこかの部屋に行くらしく、そのまま去っていった。",
@@ -15889,7 +15889,7 @@
     {
       "JP": "`恭介@「そんな俺をみて、ベテランサーファーのボブが唸ったさ。『Hummm...ナツメ・イズ・グレートスキーヤー！　マサニ・ナツノ・モウシゴデース。HEHEウマイコトイッタ～』とな」",
       "EN": "`Kyousuke@❝Bob, a veteran surfer who happened to see it, said ❛Hmm, Natsume is a great skier! He is truly a child of summer. Hehe, I said something great, didn't I?❜❞",
-      "Translation": "`恭介@「看见了这样的我后，冲浪专家鲍勃这样叫道。『m.··！简直是·真夏·之子的说。说得不错～』这样的」"
+      "Translation": "`恭介@「看见了这样的我后，冲浪专家鲍勃这样叫道。『Hummm…棗真是伟大的滑雪者！简直是·真夏·之子的说。嘿嘿，我说的不错吧？』这样的」"
     },
     {
       "JP": "…戻ってきた。",
@@ -16069,7 +16069,7 @@
     {
       "JP": "`クド@「わ、わふ～っ、ご、ごめんなさいーっ！　私だったら１なのせかんどもがまんできないのにーっ」",
       "EN": "`Kud@❝Wa, wafu～, I'm sorry-! If I were him, I wouldn't have been able to resist for even a nanosecond!❞",
-      "Translation": "`库特@「哇、哇呼～，对、对不起啦—！要是对象是我的话连１点d秒都忍不住的—」"
+      "Translation": "`库特@「哇、哇呼～，对、对不起啦—！要是对象是我的话连一毫微秒都忍不住的—」"
     },
     {
       "JP": "`真人@「で…」",
@@ -16776,17 +16776,17 @@
     {
       "JP": "クドに話しかける$d教室に入る",
       "EN": "Talk to Kud$dEnter the classroom",
-      "Translation": "Talk to Kud$dEnter the classroom"
+      "Translation": "继续帮忙$d进教室"
     },
     {
       "JP": "しばらく見守る$d話を進める",
       "EN": "Watch for a while$dLook for a new task straight away",
-      "Translation": "Watch for a while$dLook for a new task straight away"
+      "Translation": "先守着看看$d立刻寻找新课题"
     },
     {
       "JP": "やめさせる$d手伝い続ける",
       "EN": "Quit$dKeep helping her out",
-      "Translation": "Quit$dKeep helping her out"
+      "Translation": "制止她$d继续帮忙"
     },
     {
       "JP": "[(0),]おまえらはＥＸＩＬＥか！！$d邪魔だろ！！$dおまえはおじいさんか！！",

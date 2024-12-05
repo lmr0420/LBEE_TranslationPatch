@@ -564,7 +564,7 @@
     {
       "JP": "`葉留佳@「星なんですヨっ!!　イッツ・スター!!」",
       "EN": "`Haruka@❝It is... a star!!❞",
-      "Translation": "`叶留佳@「是星星唷！！·！！」"
+      "Translation": "`叶留佳@「是星星唷！！It's·star！！」"
     },
     {
       "JP": "`西園@「知ってます」",
@@ -3474,7 +3474,7 @@
     {
       "JP": "`西園@「イン・トーキョーもつけましょう」",
       "EN": "`Nishizono@❝Why don't you add ❛in Tokyo❜?❞",
-      "Translation": "`西园@「IN·TOKY也加上去吧」"
+      "Translation": "`西园@「IN·TOKYO也加上去吧」"
     },
     {
       "JP": "`理樹@「東京でもないけどさ…」",
@@ -3484,7 +3484,7 @@
     {
       "JP": "`鈴@「真人めっ、ブッ殺したかったあの日の夏・イン・トーキョーっ!!」",
       "EN": "`Rin@❝Masato, you bastard, I WANTED TO SLAY YOU ON THAT SUMMER DAY IN TOKYO!!❞",
-      "Translation": "`铃@「混蛋真人，真想在那个夏天把你给宰了··！！」"
+      "Translation": "`铃@「混蛋真人，真想在那个夏天把你给宰了·IN·TOKYO！！」"
     },
     {
       "JP": "`恭介@「こうなると真人じゃ迫力がいまいちだな」",
@@ -3499,7 +3499,7 @@
     {
       "JP": "`鈴@「ドラスティックにブッ殺したかったあの日の夏・イン・トーキョーっ!!」",
       "EN": "`Rin@❝I DRASTICALLY WANTED TO SLAY YOU ON THAT SUMMER DAY IN TOKYO!!❞",
-      "Translation": "`铃@「真想地在那个夏天把你给宰了··！！」"
+      "Translation": "`铃@「真想彻底地在那个夏天把你给宰了·IN·TOKYO！！」"
     },
     {
       "JP": "`鈴@「………」",
@@ -3554,7 +3554,7 @@
     {
       "JP": "`鈴@「ドラスティックにブッ殺したかったあの日の夏・イン・トーキョーっ!!」",
       "EN": "`Rin@❝I DRASTICALLY WANTED TO SLAY YOU ON THAT SUMMER DAY IN TOKYO!!❞",
-      "Translation": "`铃@「真想地在那个夏天把你给宰了··！！」"
+      "Translation": "`铃@「真想彻底地在那个夏天把你给宰了·IN·TOKYO！！」"
     },
     {
       "JP": "`真人@「なにひとつ、意味がわからねぇよ!!」",
@@ -16796,7 +16796,7 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "Wander$dRest"
+      "Translation": "巡游$d休息"
     },
     {
       "JP": "屋上にいく$d[,(#12010==1)]中庭にいく$d学食にいく",

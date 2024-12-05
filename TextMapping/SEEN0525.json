@@ -824,12 +824,12 @@
     {
       "JP": "差出人：神北　小毬$dタイトル：『おめでとう～』",
       "EN": "Sender: Komari Kamikita\nSubject: [Grats!]",
-      "Translation": "发送人：神北小毬标题：『恭喜了～』"
+      "Translation": "发送人：神北小毬 标题：『恭喜了～』"
     },
     {
       "JP": "本文：『きゃぷてんおめでとう！　これからもがんばってよろしくお願いします（＾▽＾）』",
       "EN": "Message: [Congratulations on becoming a captain! Let's work hard together from now on too（＾▽＾）!]",
-      "Translation": "`本文：@『恭喜你被选为队长！今后也请你继续加油（＾＾）』"
+      "Translation": "正文：『恭喜你被选为队长！今后也请你继续加油（＾＾）』"
     },
     {
       "JP": "相変らず小毬さんは怪しい日本語だけど、それが微笑ましい。",
@@ -839,12 +839,12 @@
     {
       "JP": "差出人：能美　クドリャフカ$dタイトル：『就任祝いです』",
       "EN": "Sender: Kudryavka Noumi\nSubject: [Congratulations on promotion!]",
-      "Translation": "发送人：能美库特莉亚芙卡标题：『祝贺你就任』"
+      "Translation": "发送人：能美库特莉亚芙卡 标题：『祝贺你就任』"
     },
     {
       "JP": "本文：『キャプテン就任おめでとうございます！　ふつつかものですが今後ともよろしくお願いします』",
       "EN": "Message: [Congratulations on promotion! I might be incompetent, but please look after me from now on.]",
-      "Translation": "`本文：@『祝贺你就任队长！小女不才，今后请多多指教』"
+      "Translation": "正文：『祝贺你就任队长！小女不才，今后请多多指教』"
     },
     {
       "JP": "ふつつかものじゃ嫁入りの挨拶みたいだ…。",
@@ -854,12 +854,12 @@
     {
       "JP": "差出人：三枝　葉留佳$dタイトル：『キャプテン略してキャップ』",
       "EN": "Sender: Haruka Saigusa\nSubject: [Cap is short for captain]",
-      "Translation": "发送人：三枝叶留佳标题：『“队长”缩写成“帽子”』※日语里“队长”与“帽子”发音相近。"
+      "Translation": "发送人：三枝叶留佳 标题：『“队长”缩写成“帽子”』※日语里“队长”与“帽子”发音相近。"
     },
     {
       "JP": "本文：『キャプテンおめでとう（≧▽≦）!!　キャップとギャップって似てるよね？　あ、ブリーフとかじゃないですヨ？』",
       "EN": "Message: [Grats on becoming a captain（≧▽≦）!! Cap and gap sound alike, don't they? Oh, it's not briefs, okay?]",
-      "Translation": "`本文：@『恭喜高迁队长（≧≦）！！跟“帽子”和“裂缝”是不是很相似？啊，我说的不是内裤之类的哦？』※日语里“队长”、“帽子”、“裂缝”与“男内裤”发音相近"
+      "Translation": "正文：『恭喜高迁队长（≧≦）！！跟“帽子”和“裂缝”是不是很相似？啊，我说的不是内裤之类的哦？』※日语里“队长”、“帽子”、“裂缝”与“男内裤”发音相近"
     },
     {
       "JP": "相変らず脈絡が無い。",
@@ -869,12 +869,12 @@
     {
       "JP": "差出人：来ヶ谷　唯湖$dタイトル：『無題』",
       "EN": "Sender: Yuiko Kurugaya\nSubject: [No subject]",
-      "Translation": "发送人：来谷唯湖标题：『无题』"
+      "Translation": "发送人：来谷唯湖 标题：『无题』"
     },
     {
       "JP": "本文：『(・)(・)←おっぱい』",
       "EN": "Message: [(・)(・)← tits.]",
-      "Translation": "`本文：@『(·)(·)←胸部』"
+      "Translation": "正文：『(·)(·)←胸部』"
     },
     {
       "JP": "`理樹@「………」",
@@ -889,12 +889,12 @@
     {
       "JP": "差出人：来ヶ谷　唯湖$dタイトル：『祝賀』",
       "EN": "Sender: Yuiko Kurugaya\nSubject: [Congratulations]",
-      "Translation": "发送人：来谷唯湖标题：『祝贺』"
+      "Translation": "发送人：来谷唯湖 标题：『祝贺』"
     },
     {
       "JP": "本文：『頑張れよ人生』",
       "EN": "Message: [Persevere in life.]",
-      "Translation": "`本文：@『为人生而加油吧』"
+      "Translation": "正文：『为人生而加油吧』"
     },
     {
       "JP": "異様に重い…。",
@@ -904,12 +904,12 @@
     {
       "JP": "差出人：西園　美魚$dタイトル：『おめでとうございます』",
       "EN": "Sender: Mio Nishizono\nSubject: [Accept my congratulations]",
-      "Translation": "发送人：西园美鱼标题：『恭喜了』"
+      "Translation": "发送人：西园美鱼 标题：『恭喜了』"
     },
     {
       "JP": "本文：『おめでとうございます。これからも』",
       "EN": "Message: [Congratulations. From now on]",
-      "Translation": "`本文：@『恭喜了。今后也请』"
+      "Translation": "正文：『恭喜了。今后也请』"
     },
     {
       "JP": "`理樹@「…これは…」",
@@ -1239,7 +1239,7 @@
     {
       "JP": "`理樹@「それで、デジャ・ヴュというと？」",
       "EN": "`Riki@❝So, what was that about deja vu?❞",
-      "Translation": "`理树@「那么，·是什么意思？」"
+      "Translation": "`理树@「那么，Deja·vu是什么意思？」"
     },
     {
       "JP": "`西園@「そうでした。鈴さん、井ノ原さん、よろしいですか？」",
@@ -1249,7 +1249,7 @@
     {
       "JP": "`西園@「デジャ・ヴュとは、フランス語で『既に見た』という意味です」",
       "EN": "`Nishizono@❝Deja vu means ❛Already seen before❜ in French.❞",
-      "Translation": "`西园@「·在法语里是『似曾相识』的意思」"
+      "Translation": "`西园@「Deja·vu在法语里是『似曾相识』的意思」"
     },
     {
       "JP": "`西園@「日本語だと『既視感』とも言われます」",
@@ -1654,7 +1654,7 @@
     {
       "JP": "`理樹@（何食べたんだっけ…なんかいやに胃がもたれるな…）",
       "EN": "`Riki@(What exactly did I eat again...? My stomach kinda feels heavy now...)",
-      "Translation": "理树（吃了什么来着…总觉得胃有点撑啊…）"
+      "Translation": "`理树@「（吃了什么来着…总觉得胃有点撑啊…）"
     },
     {
       "JP": "`恭介@「よ、助けはいらないのか？」",
@@ -2099,12 +2099,12 @@
     {
       "JP": "`小毬@「理樹君はホットケーキはお好きですかっ」",
       "EN": "`Komari@❝Do you like pancakes?❞",
-      "Translation": "`小毬@「理树君喜欢烤饼吗？」"
+      "Translation": "`小毬@「理树君喜欢松饼吗？」"
     },
     {
       "JP": "`理樹@「ホットケーキ？」",
       "EN": "`Riki@❝Pancakes?❞",
-      "Translation": "`理树@「烤饼？」"
+      "Translation": "`理树@「松饼？」"
     },
     {
       "JP": "またなんかよくわからない質問をされる。",
@@ -2114,7 +2114,7 @@
     {
       "JP": "`理樹@「まあ、ホットケーキ自体は好きかなぁ…付けるものにもよるけど…」",
       "EN": "`Riki@❝Well, I guess I do like them... But it depends on the topping too...❞",
-      "Translation": "`理树@「嘛，对烤饼本身是喜欢啦…不过也要看是跟什么配一起」"
+      "Translation": "`理树@「嘛，对松饼本身是喜欢啦…不过也要看是跟什么配一起」"
     },
     {
       "JP": "`小毬@「そっか～」",
@@ -2139,22 +2139,22 @@
     {
       "JP": "`小毬@「うん、ホットケーキパーティをやるんだよ～」",
       "EN": "`Komari@❝I was thinking of throwing a pancake party～.❞",
-      "Translation": "`小毬@「嗯，要开一个烤蛋糕哦～」"
+      "Translation": "`小毬@「嗯，要开一个松饼派对哦～」"
     },
     {
       "JP": "`理樹@「ホットケーキパーティ？」",
       "EN": "`Riki@❝Pancake party?❞",
-      "Translation": "`理树@「烤蛋糕？」"
+      "Translation": "`理树@「松饼派对？」"
     },
     {
       "JP": "`小毬@「みんなでホットケーキ焼きながらいろいろお話するの」",
       "EN": "`Komari@❝We'll be baking pancakes together and chatting.❞",
-      "Translation": "`小毬@「大家一起边做烤饼边聊天」"
+      "Translation": "`小毬@「大家一起边做松饼边聊天」"
     },
     {
       "JP": "`小毬@「ホットケーキも美味しいし、みんなのお話も弾んで、とっても楽しいよ」",
       "EN": "`Komari@❝Pancakes are delicious, and getting to talk with everyone will make it even more enjoyable.❞",
-      "Translation": "`小毬@「烤饼又很好吃，大家又能尽情地聊天，这样非常开心哦」"
+      "Translation": "`小毬@「松饼又很好吃，大家又能尽情地聊天，这样非常开心哦」"
     },
     {
       "JP": "`理樹@「へえー、なるほど…」",
@@ -2164,7 +2164,7 @@
     {
       "JP": "`小毬@「ちなみに今のところ、ホットケーキ嫌いな人はひとりもいませんっ」",
       "EN": "`Komari@❝On that note, there hasn't been anyone on the team who didn't like pancakes so far.❞",
-      "Translation": "`小毬@「顺便说一下，到现在为止还没有一个讨厌烤饼的人哦」"
+      "Translation": "`小毬@「顺便说一下，到现在为止还没有一个讨厌松饼的人哦」"
     },
     {
       "JP": "びし、とメモ帳を差し出してくる。",
@@ -2179,7 +2179,7 @@
     {
       "JP": "`理樹@（一体このメモに何の意味があるんだろう…）",
       "EN": "`Riki@(Is there really any point to this memo book...)",
-      "Translation": "理树（那这个笔记还有什么意义吗…）"
+      "Translation": "`理树@（那这个笔记还有什么意义吗…）"
     },
     {
       "JP": "そう思うが、とりあえずツッコまないでおくことにした。",
@@ -2204,7 +2204,7 @@
     {
       "JP": "`理樹@「ホットケーキパーティかぁ…」",
       "EN": "`Riki@❝A pancake party, huh...❞",
-      "Translation": "`理树@「烤蛋糕嘛…」"
+      "Translation": "`理树@「松饼派对嘛…」"
     },
     {
       "JP": "小毬さん主催じゃ、胸焼けしないようにしないといけない。",
@@ -2214,7 +2214,7 @@
     {
       "JP": "`理樹@（…でも、楽しそうだな）",
       "EN": "`Riki@(...But it does sound like fun.)",
-      "Translation": "理树（…但是，似乎会很有趣呢）"
+      "Translation": "`理树@（…但是，似乎会很有趣呢）"
     },
     {
       "JP": "開催日が楽しみだった。",
@@ -2234,7 +2234,7 @@
     {
       "JP": "内容は『これから２−Ｅにてミーティングを行います』。",
       "EN": "The message: [I'll be holding a meeting in 2-E.]",
-      "Translation": "`内容是@『现在去２－Ｅ班开会』。"
+      "Translation": "内容是『现在去２－Ｅ班开会』。"
     },
     {
       "JP": "`理樹@「えーと、まず…」",
@@ -2339,12 +2339,12 @@
     {
       "JP": "`理樹@「ピッチャーも、剣道部の主将か…」",
       "EN": "`Riki@❝The pitcher is the captain of the Kendo team too, huh...❞",
-      "Translation": "`理树@「第４棒是剑道部的主将吗…」"
+      "Translation": "`理树@「投手也是剑道部的主将…」"
     },
     {
       "JP": "`理樹@「４番は剣道部の主将か…」",
       "EN": "`Riki@❝Number four is the captain of Kendo team, huh...❞",
-      "Translation": "`理树@「在恭介提供的数据上十分超群，这个人需要注意…」"
+      "Translation": "`理树@「第４棒是剑道部的主将吗…」"
     },
     {
       "JP": "`理樹@「恭介がつけてる値も、ずば抜けてるし、これは要注意だ…」",

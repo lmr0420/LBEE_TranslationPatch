@@ -16801,22 +16801,22 @@
     {
       "JP": "屋上にいく$d[,(#12010==1)]中庭にいく$d学食にいく",
       "EN": "Go to the rooftop$d[,(#12010==1)]Go to the courtyard$dGo to the cafeteria",
-      "Translation": "Go to the rooftop$d[,(#12010==1)]Go to the courtyard$dGo to the cafeteria"
+      "Translation": "Go to the rooftop$d[,(#12010==1)]去中庭$d去食堂"
     },
     {
       "JP": "[,(#12010==1)]中庭にいく$d学食にいく",
       "EN": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria",
-      "Translation": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria"
+      "Translation": "[,(#12010==1)]去中庭$d去食堂"
     },
     {
       "JP": "[,(#12010==1)]中庭にいく$d学食にいく$dさすらう",
       "EN": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria$dWander",
-      "Translation": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria$dWander"
+      "Translation": "[,(#12010==1)]去中庭$d去食堂"
     },
     {
       "JP": "屋上にいく$d学食にいく",
       "EN": "Go to the rooftop$dGo to the cafeteria",
-      "Translation": "Go to the rooftop$dGo to the cafeteria"
+      "Translation": "去天台$d去食堂"
     },
     {
       "JP": "おまえは謙吾か！！$dそこまででかくなるか！！$dむしろ今引きずれ！！",

@@ -564,7 +564,7 @@
     {
       "JP": "`葉留佳@「星なんですヨっ!!　イッツ・スター!!」",
       "EN": "`Haruka@❝It is... a star!!❞",
-      "Translation": "`叶留佳@「是星星唷！！·！！」"
+      "Translation": "`叶留佳@「是星星唷！！It's·star！！」"
     },
     {
       "JP": "`西園@「知ってます」",
@@ -3474,7 +3474,7 @@
     {
       "JP": "`西園@「イン・トーキョーもつけましょう」",
       "EN": "`Nishizono@❝Why don't you add ❛in Tokyo❜?❞",
-      "Translation": "`西园@「IN·TOKY也加上去吧」"
+      "Translation": "`西园@「IN·TOKYO也加上去吧」"
     },
     {
       "JP": "`理樹@「東京でもないけどさ…」",
@@ -3484,7 +3484,7 @@
     {
       "JP": "`鈴@「真人めっ、ブッ殺したかったあの日の夏・イン・トーキョーっ!!」",
       "EN": "`Rin@❝Masato, you bastard, I WANTED TO SLAY YOU ON THAT SUMMER DAY IN TOKYO!!❞",
-      "Translation": "`铃@「混蛋真人，真想在那个夏天把你给宰了··！！」"
+      "Translation": "`铃@「混蛋真人，真想在那个夏天把你给宰了·IN·TOKYO！！」"
     },
     {
       "JP": "`恭介@「こうなると真人じゃ迫力がいまいちだな」",
@@ -3499,7 +3499,7 @@
     {
       "JP": "`鈴@「ドラスティックにブッ殺したかったあの日の夏・イン・トーキョーっ!!」",
       "EN": "`Rin@❝I DRASTICALLY WANTED TO SLAY YOU ON THAT SUMMER DAY IN TOKYO!!❞",
-      "Translation": "`铃@「真想地在那个夏天把你给宰了··！！」"
+      "Translation": "`铃@「真想彻底地在那个夏天把你给宰了·IN·TOKYO！！」"
     },
     {
       "JP": "`鈴@「………」",
@@ -3554,7 +3554,7 @@
     {
       "JP": "`鈴@「ドラスティックにブッ殺したかったあの日の夏・イン・トーキョーっ!!」",
       "EN": "`Rin@❝I DRASTICALLY WANTED TO SLAY YOU ON THAT SUMMER DAY IN TOKYO!!❞",
-      "Translation": "`铃@「真想地在那个夏天把你给宰了··！！」"
+      "Translation": "`铃@「真想彻底地在那个夏天把你给宰了·IN·TOKYO！！」"
     },
     {
       "JP": "`真人@「なにひとつ、意味がわからねぇよ!!」",
@@ -16776,132 +16776,132 @@
     {
       "JP": "クドに話しかける$d教室に入る",
       "EN": "Talk to Kud$dEnter the classroom",
-      "Translation": "Talk to Kud$dEnter the classroom"
+      "Translation": "和库特搭话$d进入教室"
     },
     {
       "JP": "しばらく見守る$d話を進める",
       "EN": "Watch for a while$dLook for a new task straight away",
-      "Translation": "Watch for a while$dLook for a new task straight away"
+      "Translation": "观望一阵$d推进对话"
     },
     {
       "JP": "やめさせる$d手伝い続ける",
       "EN": "Quit$dKeep helping her out",
-      "Translation": "Quit$dKeep helping her out"
+      "Translation": "离开$d继续帮忙"
     },
     {
       "JP": "[(0),]おまえらはＥＸＩＬＥか！！$d邪魔だろ！！$dおまえはおじいさんか！！",
       "EN": "[(0),]ARE YOU THE EXILE!!$dYOU ARE IN THEIR WAY!!$dARE YOU AN OLD MAN!!",
-      "Translation": "[(0),]ARE YOU THE EXILE!!$dYOU ARE IN THEIR WAY!!$dARE YOU AN OLD MAN!!"
+      "Translation": "[(0),]你们是EXILE吗！！$d死一边去！！$d你们是老头子啊！！"
     },
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "Wander$dRest"
+      "Translation": "巡游$d休息"
     },
     {
       "JP": "屋上にいく$d[,(#12010==1)]中庭にいく$d学食にいく",
       "EN": "Go to the rooftop$d[,(#12010==1)]Go to the courtyard$dGo to the cafeteria",
-      "Translation": "Go to the rooftop$d[,(#12010==1)]Go to the courtyard$dGo to the cafeteria"
+      "Translation": "去屋顶$d[,(#12010==1)]去中庭$d去食堂"
     },
     {
       "JP": "[,(#12010==1)]中庭にいく$d学食にいく",
       "EN": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria",
-      "Translation": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria"
+      "Translation": "[,(#12010==1)]去中庭$d去食堂"
     },
     {
       "JP": "[,(#12010==1)]中庭にいく$d学食にいく$dさすらう",
       "EN": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria$dWander",
-      "Translation": "[,(#12010==1)]Go to the courtyard$dGo to the cafeteria$dWander"
+      "Translation": "[,(#12010==1)]去中庭$d去食堂$d巡游"
     },
     {
       "JP": "屋上にいく$d学食にいく",
       "EN": "Go to the rooftop$dGo to the cafeteria",
-      "Translation": "Go to the rooftop$dGo to the cafeteria"
+      "Translation": "去屋顶$d去食堂"
     },
     {
       "JP": "おまえは謙吾か！！$dそこまででかくなるか！！$dむしろ今引きずれ！！",
       "EN": "Are you Kengo or what!!$dThere's no way you're growing that tall!!$dWhy don't you drag it there right now!!",
-      "Translation": "Are you Kengo or what!!$dThere's no way you're growing that tall!!$dWhy don't you drag it there right now!!"
+      "Translation": "你是谦吾啊！！$d可能长那么高吗！！$d现在不就能够到吗！！"
     },
     {
       "JP": "あたしとメニューかぶるだろ！$dみんなの服に飛び散っただろ！！$dむしろおまえが浴びろ！！",
       "EN": "$S024Why did you have to choose the same!!$d$S024You're dirtying everybody's clothes with that soup!!$d$S024Why don't you bathe in the soup!!",
-      "Translation": "$S024Why did you have to choose the same!!$d$S024You're dirtying everybody's clothes with that soup!!$d$S024Why don't you bathe in the soup!!"
+      "Translation": "$S024和我的菜单一样吧！！$d$S024都粘到别人衣服上啦！！$d$S024为什么淋到汤的不是你啊！"
     },
     {
       "JP": "手伝う$d断る$dさすらう",
       "EN": "Help her$dDon't help her$dWander",
-      "Translation": "Help her$dDon't help her$dWander"
+      "Translation": "帮她$d不帮她$d巡游"
     },
     {
       "JP": "手伝う$d断る",
       "EN": "Help her$dDon't help her",
-      "Translation": "Help her$dDon't help her"
+      "Translation": "帮她$d不帮她"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ",
       "EN": "Get something to drink$dPlay with Masato",
-      "Translation": "Get something to drink$dPlay with Masato"
+      "Translation": "去买点饮料$d和真人玩"
     },
     {
       "JP": "何を話しているか聞きにいく$d練習に集中",
       "EN": "Go see what they're talking about$dConcentrate on practice",
-      "Translation": "Go see what they're talking about$dConcentrate on practice"
+      "Translation": "去看看她们在聊什么$d集中精力练习"
     },
     {
       "JP": "そんな目で見続ける$d練習",
       "EN": "Keep looking at him with those eyes$dReturn to practice",
-      "Translation": "Keep looking at him with those eyes$dReturn to practice"
+      "Translation": "继续用那样的眼神看$d回去训练"
     },
     {
       "JP": "掃除する$d放っておく$dさすらう",
       "EN": "Clean up the room$dLeave it as it is$dWander",
-      "Translation": "Clean up the room$dLeave it as it is$dWander"
+      "Translation": "打扫房间$d放着不管$d巡游"
     },
     {
       "JP": "掃除する$d放っておく",
       "EN": "Clean up the room$dLeave it as it is",
-      "Translation": "Clean up the room$dLeave it as it is"
+      "Translation": "打扫房间$d放着不管"
     },
     {
       "JP": "話しかける$d学食に急ぐ",
       "EN": "Talk to her$dHurry to the cafeteria",
-      "Translation": "Talk to her$dHurry to the cafeteria"
+      "Translation": "和她说话$d赶快去食堂"
     },
     {
       "JP": "とめる$d見守る",
       "EN": "Make Masato stop$dWatch",
-      "Translation": "Make Masato stop$dWatch"
+      "Translation": "阻止真人$d看着"
     },
     {
       "JP": "話しかける$d恭介たちと食べる",
       "EN": "Talk to them$dEat with Kyousuke",
-      "Translation": "Talk to them$dEat with Kyousuke"
+      "Translation": "搭话$d和恭介一起吃"
     },
     {
       "JP": "おかわりする$dやめておく",
       "EN": "Try it$dDon't try it",
-      "Translation": "Try it$dDon't try it"
+      "Translation": "再来一碗$d算了吧"
     },
     {
       "JP": "恭介の部屋にいく$d今日は休む",
       "EN": "Visit Kyousuke$dJust rest today",
-      "Translation": "Visit Kyousuke$dJust rest today"
+      "Translation": "去恭介的房间$d今天先休息"
     },
     {
       "JP": "恭介の部屋にいく$d今日は休む",
       "EN": "Visit Kyousuke$dJust rest today",
-      "Translation": "Visit Kyousuke$dJust rest today"
+      "Translation": "去恭介的房间$d今天先休息"
     },
     {
       "JP": "みんなを呼ぶ$d今日は帰る",
       "EN": "Call the other members$dCall it a night",
-      "Translation": "Call the other members$dCall it a night"
+      "Translation": "给大家打电话$d今天先回去"
     },
     {
       "JP": "みんなを呼ぶ$d今日は帰る",
       "EN": "Call the other members$dCall it a night",
-      "Translation": "Call the other members$dCall it a night"
+      "Translation": "给大家打电话$d今天先回去"
     }
   ]
 }

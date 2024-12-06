@@ -2139,7 +2139,7 @@
     {
       "JP": "今日はホットケーキパーティの日だ。",
       "EN": "Today is the Little Busters pancake party.",
-      "Translation": "今天是LittleBusters的烤蛋糕之日。"
+      "Translation": "今天是Little Busters的松饼之日。"
     },
     {
       "JP": "僕と真人も、昼食の後から自室で待つことにしていた。",
@@ -2294,42 +2294,42 @@
     {
       "JP": "`小毬@「あ、理樹君…」",
       "EN": "`Komari@❝Ah, Riki-kun...❞",
-      "Translation": "我把小瓦斯炉放在桌子上，从库特手里接过碗。"
+      "Translation": "`小毬@「啊，理树君…」"
     },
     {
       "JP": "`クド@「はう…ごめんなさいです～」",
       "EN": "`Kud@❝Hau... I'm sorry～...❞",
-      "Translation": "`小毬@「啊，理树君…」"
+      "Translation": "`库特@「哦…对不起～」"
     },
     {
       "JP": "`真人@「んじゃ、オレは何をすればいいんだ？」",
       "EN": "`Masato@❝So, what can I do for you guys?❞",
-      "Translation": "`库特@「哦…对不起～」"
+      "Translation": "`真人@「那，老子该做什么好呢？」"
     },
     {
       "JP": "`小毬@「うん、じゃあ真人君はみんなの分のお皿用意してきて～」",
       "EN": "`Komari@❝Can you please bring plates here for everyone～?❞",
-      "Translation": "`真人@「那，老子该做什么好呢？」"
+      "Translation": "`小毬@「嗯，真人君就去准备大家用的碟子吧～」"
     },
     {
       "JP": "`真人@「おう、任しときな」",
       "EN": "`Masato@❝Okay, leave it to me.❞",
-      "Translation": "`小毬@「嗯，真人君就去准备大家用的碟子吧～」"
+      "Translation": "`真人@「哦，交给我了」"
     },
     {
       "JP": "…そんな感じで、僕らも手伝って４人で準備をすることになった。",
       "EN": "...Like that, the four of us started the preparations for the party.",
-      "Translation": "`真人@「哦，交给我了」"
+      "Translation": "…就是这样，在我们的帮助下，４个人开始做着准备。"
     },
     {
       "JP": "`小毬@「らるららるら～」",
       "EN": "`Komari@❝La lu la la lu la～.❞",
-      "Translation": "…就是这样，在我们的帮助下，４个人开始做着准备。"
+      "Translation": "`小毬@「啦噜啦啦噜啦～」"
     },
     {
       "JP": "小毬さんは鼻歌混じりにタネを作っていく。",
       "EN": "She was humming while making the pancake base.",
-      "Translation": "`小毬@「啦噜啦啦噜啦～」"
+      "Translation": "小毬哼着她新创作的曲子。从她平时的失败来看，完全想象不出她有那样好的手法"
     },
     {
       "JP": "普段のドジからは想像できないほど手際が良かった。",
@@ -2364,7 +2364,7 @@
     {
       "JP": "…クドが泣きそうな表情で、顔中にホットケーキミックスをつけていた。",
       "EN": "...Kud's face was almost covered with the base she's making, and she looked like she was about to cry.",
-      "Translation": "…库特一脸快要哭出来的表情，脸上粘着很多烤饼的原料。"
+      "Translation": "…库特一脸快要哭出来的表情，脸上粘着很多松饼的原料。"
     },
     {
       "JP": "`理樹@「クドは慣れてないんだねぇ…」",
@@ -2524,7 +2524,7 @@
     {
       "JP": "鈴に見せるように、小毬さんがリズミカルにホットケーキミックスをかき混ぜていく。",
       "EN": "She was rhythmically whipping the base in her bowl so that Rin could see.",
-      "Translation": "小毬很有节奏地搅拌着烤饼的原料给铃看。"
+      "Translation": "小毬很有节奏地搅拌着松饼的原料给铃看。"
     },
     {
       "JP": "`鈴@「こうか？」",
@@ -2664,7 +2664,7 @@
     {
       "JP": "それぞれ小毬さん、鈴、クドが前について焼き始めた。",
       "EN": "Komari-san, Rin and Kud started making the pancakes.",
-      "Translation": "小毬、铃、库特分别开始烤烤饼。"
+      "Translation": "小毬、铃、库特分别开始烤松饼。"
     },
     {
       "JP": "`葉留佳@「あははは早く焼け焼けー」",
@@ -2844,7 +2844,7 @@
     {
       "JP": "`小毬@「こ、これより、第一回みんなでホットケーキパーティを開催しますっ」",
       "EN": "`Komari@❝I... hereby pronounce our first pancake party... opened!❞",
-      "Translation": "`小毬@「这，这个，第一回烤蛋糕现在开幕了」"
+      "Translation": "`小毬@「这，这个，第一回松饼派对现在开幕了」"
     },
     {
       "JP": "`小毬@「みんなでいっぱい食べちゃってくださいっ」",
@@ -3024,12 +3024,12 @@
     {
       "JP": "`小毬@「これよりっ、第一回みんなでホットケーキパーティ…」",
       "EN": "`Komari@❝We are about to commence our first pancake party...❞",
-      "Translation": "`小毬@「接下来，第一届大家一起热闹的烤饼派对…」"
+      "Translation": "`小毬@「接下来，第一届大家一起热闹的松饼派对…」"
     },
     {
       "JP": "`小毬@「あーんどリトルバスターズ祝勝会を開催いたしますっ!!」",
       "EN": "`Komari@❝And a joint celebration for the victory of the Little Busters!!❞",
-      "Translation": "`小毬@「以及LittleBusters胜利庆祝会即将开始!!」"
+      "Translation": "`小毬@「以及Little Busters胜利庆祝会即将开始!!」"
     },
     {
       "JP": "`小毬@「みんないっぱい食べて飲んで歌っちゃってくださいっ」",
@@ -3344,7 +3344,7 @@
     {
       "JP": "謙吾は包丁を構えると、フライパンのホットケーキを翻し、華麗に空中でホットケーキを八等分にした。",
       "EN": "He took a kitchen knife, threw the pancake into the air and magnificently cut it into eight equal pieces in the air.",
-      "Translation": "谦吾拿着菜刀，把平底锅翻了起来，在空中华丽的把烤饼八等分了。"
+      "Translation": "谦吾拿着菜刀，把平底锅翻了起来，在空中华丽的把松饼八等分了。"
     },
     {
       "JP": "`謙吾@「フレンドシップ…みんな、仲良くだ」",
@@ -3374,7 +3374,7 @@
     {
       "JP": "謙吾は包丁を構えると、フライパンのホットケーキを翻し、華麗に空中でホットケーキを八等分にした。",
       "EN": "He took a kitchen knife, threw the pancake into the air and magnificently cut it into eight equal pieces in the air.",
-      "Translation": "谦吾拿着菜刀，把平底锅翻了起来，在空中华丽的把烤饼八等分了。"
+      "Translation": "谦吾拿着菜刀，把平底锅翻了起来，在空中华丽的把松饼八等分了。"
     },
     {
       "JP": "`謙吾@「これで平等だろう」",
@@ -3549,7 +3549,7 @@
     {
       "JP": "主催の小毬さんの周りでは、なにやらホットケーキに付けるもの談義が展開されているようだった。",
       "EN": "There was a lively discussion centered around Komari-san about which toppings go the best with the pancakes.",
-      "Translation": "主办者小毬的周围，好像开始讨论给烤饼加什么配料好吃的话题了。"
+      "Translation": "主办者小毬的周围，好像开始讨论给松饼加什么配料好吃的话题了。"
     },
     {
       "JP": "ちなみにジャムは全て小毬さんのお手製だ。",
@@ -3599,7 +3599,7 @@
     {
       "JP": "鈴ははちみつをたっぷり付けていた。",
       "EN": "Rin was drowning hers in honey.",
-      "Translation": "铃在烤饼上面涂满了蜂蜜。"
+      "Translation": "铃在松饼上面涂满了蜂蜜。"
     },
     {
       "JP": "`西園@「はちみつは摂り過ぎると下します」",
@@ -3719,7 +3719,7 @@
     {
       "JP": "そういう小毬さんのホットケーキの上には、ラズベリーがたっぷりとのっかっている。",
       "EN": "There was a cone-like pile of raspberry sauce on Komari-san's pancake...",
-      "Translation": "说起来，小毬的烤饼上，也是涂了一大片的山莓果酱。"
+      "Translation": "说起来，小毬的松饼上，也是涂了一大片的山莓果酱。"
     },
     {
       "JP": "`クド@「こんなに山盛りにするのですかっ」",
@@ -3774,7 +3774,7 @@
     {
       "JP": "…西園さんのホットケーキにも山盛り。",
       "EN": "...Nishizono-san's pancake was also coated with raspberry sauce.",
-      "Translation": "…西园的烤饼上果酱堆成了山。"
+      "Translation": "…西园的松饼上果酱堆成了山。"
     },
     {
       "JP": "`葉留佳@「なにぃーっ!?　私まだ食べてないのにーっ!!」",
@@ -4639,7 +4639,7 @@
     {
       "JP": "`恭介@「リトルバスターズ結成十年を祝してだな」",
       "EN": "`Kyousuke@❝It's been ten years since the founding of the Little Busters.❞",
-      "Translation": "`恭介@「庆祝LittleBusters成立十周年」"
+      "Translation": "`恭介@「庆祝Little Busters成立十周年」"
     },
     {
       "JP": "`理樹@「…十年も経ってたっけ」",

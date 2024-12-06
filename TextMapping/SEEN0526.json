@@ -1379,12 +1379,12 @@
     {
       "JP": "差出人：神北　小毬$dタイトル：『ホットケーキぱーてぃのお知らせ（＾▽＾）』",
       "EN": "Sender: Komari Kamikita\nSubject: [Pancake party announcement（＾▽＾）]",
-      "Translation": "发件人：神北小毬 标题：『关于烤蛋糕的通知哦（＾＾）』"
+      "Translation": "发信人：神北小毬$d标题：『关于松饼派对的通知哦（＾＾）』"
     },
     {
       "JP": "本文：『明日の３じからホットケーキパーティをします。学食でやります。いっぱい食べてほしいのでちょっとおなかすかせて来てね（＾▽＾）』",
       "EN": "Message: [We will be holding a pancake party at 3 PM tomorrow in the cafeteria. I want you guys to eat a lot, so come with an empty stomach（＾▽＾）]",
-      "Translation": "`本文：@『明天的３点在学校食堂来开烤蛋糕哦。我希望你能多吃一点，所以要空着肚子来哦（＾＾）』"
+      "Translation": "`正文：『明天的３点在学校食堂来开松饼派对哦。我希望你能多吃一点，所以要空着肚子来哦（＾＾）』"
     },
     {
       "JP": "`理樹@「あ、これか」",
@@ -1394,7 +1394,7 @@
     {
       "JP": "ひとまず『了解＾＾　何か必要なものはない？』と返信をする。",
       "EN": "I mailed her back: [Got it. Is there anything I need to bring with me?]",
-      "Translation": "`先回复说@『了解＾＾有什么要带的东西吗？』"
+      "Translation": "先回复说『了解＾＾有什么要带的东西吗？』"
     },
     {
       "JP": "『うん、カセットコンロとフライパンがあると助かっちゃいます（＾▽＾）』",
@@ -1424,7 +1424,7 @@
     {
       "JP": "`理樹@「あ、小毬さんからホットケーキパーティのメールが来てたよ」",
       "EN": "`Riki@❝Oh, hey, Komari-san sent us emails about the pancake party.❞",
-      "Translation": "`理树@「啊，从小毬那里收到了要开烤蛋糕的信息哦」"
+      "Translation": "`理树@「啊，从小毬那里收到了要开松饼派对的信息哦」"
     },
     {
       "JP": "`真人@「なに？　はえぇな」",

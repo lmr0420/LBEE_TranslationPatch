@@ -873,7 +873,7 @@
     {
       "JP": "`理樹@「来ヶ谷さんって、何でバスターズに入ろうと思ったの？」",
       "EN": "`Riki@❝Why did you join the Little Busters?❞",
-      "Translation": "`理树@「来谷是为什么加入的呢？」"
+      "Translation": "`理树@「来谷是为什么加入Little Busters的呢？」"
     },
     {
       "JP": "`来ヶ谷@「………」",
@@ -2693,7 +2693,7 @@
     {
       "JP": "`理樹@「…ごめんなさい」",
       "EN": "`Riki@❝...I'm sorry.❞",
-      "Translation": "`理树「…抱歉」"
+      "Translation": "`理树@「…抱歉」"
     },
     {
       "JP": "`来ヶ谷@「まあ、別にかまわんのだがな」",
@@ -2703,7 +2703,7 @@
     {
       "JP": "`理樹@「うう…」",
       "EN": "`Riki@❝Ugh...❞",
-      "Translation": "`理树「啊啊…」"
+      "Translation": "`理树@「啊啊…」"
     },
     {
       "JP": "…やっぱりこの関係は動かないのか…。",
@@ -2723,7 +2723,7 @@
     {
       "JP": "`理樹@「うう…」",
       "EN": "`Riki@❝Ugh...❞",
-      "Translation": "`理树「啊…」"
+      "Translation": "`理树@「啊…」"
     },
     {
       "JP": "…ずるいと思う。",
@@ -3593,7 +3593,7 @@
     {
       "JP": "『忘れないようにする』ための…。",
       "EN": "Things you don't want to forget...",
-      "Translation": "`为了@『不要忘记』…。"
+      "Translation": "为了『不要忘记』…。"
     },
     {
       "JP": "…それに。",
@@ -4618,7 +4618,7 @@
     {
       "JP": "…『みんな』だって、そこにいるじゃないか。",
       "EN": "...❛everyone❜ is there.",
-      "Translation": "`…@『大家』也肯定就在那里。"
+      "Translation": "…『大家』也肯定就在那里。"
     },
     {
       "JP": "…夢だったとしても、覚めることなんてないよ。",
@@ -4998,107 +4998,107 @@
     {
       "JP": "進んでいるのに、動かない。そんな不完全なんだ。",
       "EN": "It's moving along, yet standing still. That's its imperfection.",
-      "Translation": "虽然在前进，却又静止着。"
+      "Translation": "虽然在前进，却又静止着。一个不完全的世界。"
     },
     {
       "JP": "`理樹@「…放送室に」",
       "EN": "`Riki@❝...To the broadcast room.❞",
-      "Translation": "一个不完全的世界。"
+      "Translation": "`理树@「…到广播室」"
     },
     {
       "JP": "僕はそう答える。",
       "EN": "I told him.",
-      "Translation": "`理树@「…到广播室」"
+      "Translation": "我回答说。"
     },
     {
       "JP": "`真人@「放送室？」",
       "EN": "`Masato@❝Broadcast room?❞",
-      "Translation": "我回答说。"
+      "Translation": "`真人@「广播室？」"
     },
     {
       "JP": "`理樹@「来ヶ谷さんが、いるから…」",
       "EN": "`Riki@❝That's where Kurugaya-san is...❞",
-      "Translation": "`真人@「广播室？」"
+      "Translation": "`理树@「因为来谷在那里…」"
     },
     {
       "JP": "『あった事』が再現されるなら、真人の次の言葉も、僕にはわかる。",
       "EN": "If things that ❛will happen❜ are being repeated again and again,　then I know what he's going to say next.",
-      "Translation": "`理树@「因为来谷在那里…」"
+      "Translation": "『发生过的事情』被再现的时候，我已经知道了真人要说的下一句话。"
     },
     {
       "JP": "`真人@「はぁ、なんかおまえら最近仲いいな」",
       "EN": "`Masato@❝Haa, aren't you getting along well lately?❞",
-      "Translation": "『发生过的事情』被再现的时候，我已经知道了真人要说的下一句话。"
+      "Translation": "`真人@「哈啊、你们俩最近关系真好啊」"
     },
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "`真人@「哈啊、你们俩最近关系真好啊」"
+      "Translation": "………"
     },
     {
       "JP": "`真人@「なんだおまえ、来ヶ谷に気があったりすんのか？」",
       "EN": "`Masato@❝Do you have a crush on her or something?❞",
-      "Translation": "………。"
+      "Translation": "`真人@「怎么，你对来谷有意思吗？」"
     },
     {
       "JP": "`理樹@「………」",
       "EN": "`Riki@❝.........❞",
-      "Translation": "`真人@「怎么，你对来谷有意思吗？」"
+      "Translation": "`理树@「………」"
     },
     {
       "JP": "`真人@「まー、頼りねえおまえとあいつじゃ、結構上手くいくかもしんねえな。ははっ」",
       "EN": "`Masato@❝Well, someone unreliable like you and her might make a surprisingly good match I guess, so it might even go smoothly. Hahaha.❞",
-      "Translation": "`理树@「………」"
+      "Translation": "`真人@「不过，让人放心不下的你和那家伙的话，说不定真能发展下去啊。哈哈」"
     },
     {
       "JP": "………。",
       "EN": ".........",
-      "Translation": "`真人@「不过，让人放心不下的你和那家伙的话，说不定真能发展下去啊。哈哈」"
+      "Translation": "………"
     },
     {
       "JP": "`理樹@「…うん…」",
       "EN": "`Riki@❝...❞",
-      "Translation": "………。"
+      "Translation": "`理树@「…嗯…」"
     },
     {
       "JP": "`理樹@「すごく…上手くいってたんだ…」",
       "EN": "`Riki@❝It did... go smoothly...❞",
-      "Translation": "`理树@「…嗯…」"
+      "Translation": "`理树@「很顺利…地发展了…」"
     },
     {
       "JP": "`理樹@「本当に…すごく、上手く…」",
       "EN": "`Riki@❝It really did...❞",
-      "Translation": "`理树@「很顺利…地发展了…」"
+      "Translation": "`理树@「真的…很顺利地…」"
     },
     {
       "JP": "`真人@「………」",
       "EN": "`Masato@❝.........❞",
-      "Translation": "`理树@「真的…很顺利地…」"
+      "Translation": "`真人@「………」"
     },
     {
       "JP": "不思議そうな顔をする真人をその場に残して、僕は放送室に向かった。",
       "EN": "I ignored Masato, who was looking at me with a surprised expression, and headed to the broadcast room.",
-      "Translation": "`真人@「………」"
+      "Translation": "我留下一脸不可思议的真人，往广播室走去。"
     },
     {
       "JP": "窓の外。",
       "EN": "Outside...",
-      "Translation": "我留下一脸不可思议的真人，往广播室走去。"
+      "Translation": "窗户外面。"
     },
     {
       "JP": "…降り続いていた。",
       "EN": "...the snow was still falling.",
-      "Translation": "窗户外面。"
+      "Translation": "…仍然下个不停。"
     },
     {
       "JP": "ドアの前に立つ。",
       "EN": "I stood before the door.",
-      "Translation": "…仍然下个不停。"
+      "Translation": "站在门前。"
     },
     {
       "JP": "…何度目だろう。",
       "EN": "...How many times does this make?",
-      "Translation": "站在门前。…这已经是第几次了。"
+      "Translation": "…这已经是第几次了。"
     },
     {
       "JP": "このドアの前で戸惑うのは…。",
@@ -6043,7 +6043,7 @@
     {
       "JP": "…みんなは『いつもどおり』だった。",
       "EN": "...Everyone was acting ❛like always.❜",
-      "Translation": "`…大家都@『和平时一样』。"
+      "Translation": "…大家都『和平时一样』。"
     },
     {
       "JP": "僕にはみんな、思考を止めてしまった人形のように見えた。",
@@ -6113,7 +6113,7 @@
     {
       "JP": "ただ、『いつもどおり』の喧騒に包まれているだけだった。",
       "EN": "It was merely swallowed by the ❛usual❜ noise of the classroom.",
-      "Translation": "`周围被@『和平时一样』的喧闹声所包围。"
+      "Translation": "周围被『和平时一样』的喧闹声所包围。"
     },
     {
       "JP": "…空っぽな気持ちだった。",
@@ -6473,7 +6473,7 @@
     {
       "JP": "『空白』の『白』なんだ。",
       "EN": "It was blank, there was nothing inside.",
-      "Translation": "`是@『空白』的『白』。"
+      "Translation": "是『空白』的『白』。"
     },
     {
       "JP": "`理樹@「消えてしまう…」",

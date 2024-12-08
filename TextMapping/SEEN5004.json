@@ -568,12 +568,12 @@
     {
       "JP": "差出人：来ヶ谷　唯湖$dタイトル：『無題』",
       "EN": "Sender: Yuiko Kurugaya\nSubject: [No subject]",
-      "Translation": "发件人：来谷 唯湖$d题目：『无题』"
+      "Translation": "发件人：来谷唯湖$d题目：『无题』"
     },
     {
       "JP": "本文：『任務了解』",
       "EN": "Message: [Mission Accepted]",
-      "Translation": "`本文：@『任务了解』"
+      "Translation": "正文：『任务了解』"
     },
     {
       "JP": "`理樹@（…なんか画像も添付されてる）",
@@ -593,7 +593,7 @@
     {
       "JP": "横には『サダの国から’０７』と書いてある。",
       "EN": "There was 'From the country of Sada ❛07❜ written on the side.",
-      "Translation": "`旁边写着@『来至狭田之国’０７』。"
+      "Translation": "旁边写着『来至狭田之国’０７』。"
     },
     {
       "JP": "`理樹@「なんでサダなんだ…」",

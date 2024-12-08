@@ -1378,7 +1378,7 @@
     {
       "JP": "もう首を切られるよりは、なんでもマシよ…。",
       "EN": "Anything was better than having my head cut off...",
-      "Translation": "比起被砍头，这点算不了什么……。"
+      "Translation": "比起被砍头，这点算不了什么…。"
     },
     {
       "JP": "`沙耶@「理樹くん、下お願い」",
@@ -1478,7 +1478,7 @@
     {
       "JP": "まあこの先なりふりなんて構ってられないのだけど…。",
       "EN": "Anyway, I couldn't worry about putting up a facade anymore...",
-      "Translation": "不过接下来也没空管这些了……。"
+      "Translation": "不过接下来也没空管这些了…。"
     },
     {
       "JP": "こんなあたしでも、理樹くんは好きになってくれるのだろうか…。",
@@ -1494,30 +1494,30 @@
   "TASK": [
     {
       "EN1": "REPLAY\nGAME END",
-      "Translation1": "重播\n游戏结束"
+      "Translation1": "REPLAY\nGAME END"
     },
     {
       "EN1": "REPLAY\nGAME END",
-      "Translation1": "重播\n游戏结束"
+      "Translation1": "REPLAY\nGAME END"
     },
     {
       "EN1": "REPLAY\nGAME END",
-      "Translation1": "重播\n游戏结束"
+      "Translation1": "REPLAY\nGAME END"
     },
     {
       "EN1": "REPLAY\nGAME END",
-      "Translation1": "重播\n游戏结束"
+      "Translation1": "REPLAY\nGAME END"
     },
     {
       "EN1": "REPLAY\nGAME END",
-      "Translation1": "重播\n游戏结束"
+      "Translation1": "REPLAY\nGAME END"
     }
   ],
   "SELECT": [
     {
       "JP": "引っ張る$d理樹くんの意見を聞く",
       "EN": "Pull it$dListen to Riki-kun's opinion",
-      "Translation": "拉它$d听理树君的意见"
+      "Translation": "拉绳子$d听理树君的意见"
     },
     {
       "JP": "左$d真ん中$d右",
@@ -1527,7 +1527,7 @@
     {
       "JP": "引っ張る$d理樹くんの意見を聞く",
       "EN": "Pull it$dListen to Riki-kun's opinion",
-      "Translation": "拉它$d听理树君的意见"
+      "Translation": "拉绳子$d听理树君的意见"
     }
   ]
 }

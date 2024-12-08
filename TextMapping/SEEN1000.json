@@ -778,7 +778,7 @@
     {
       "JP": "`小毬@「そんなことないよー」",
       "EN": "`Komari@❝No such thing.❞",
-      "Translation": "`小毬@「没那种事啦—」"
+      "Translation": "`小毬@「没那种事啦~」"
     },
     {
       "JP": "`小毬@「私こそ、理樹君に何もしてあげられなかったよ…」",
@@ -963,7 +963,7 @@
     {
       "JP": "『も』、と言ったけど、まだ短いほうだ。",
       "EN": "Actually, an hour isn't that long for it.",
-      "Translation": "`虽然说@『已经』，但是这次是比较短的了。"
+      "Translation": "虽然说『已经』，但是这次是比较短的了。"
     },
     {
       "JP": "ひどい時には昼に倒れて、そのまま夜まで寝ていたときもある。",
@@ -1103,7 +1103,7 @@
     {
       "JP": "`理樹@（…小毬さんのお兄さん）",
       "EN": "`Riki@(...Komari-san's older brother.)",
-      "Translation": "理树（…小毬的哥哥）"
+      "Translation": "`理树@（…小毬的哥哥）"
     },
     {
       "JP": "…本当に存在しているのだろうか。",
@@ -1463,17 +1463,17 @@
     {
       "JP": "`小毬@「うん、ホットケーキパーティをやるんだよ～」",
       "EN": "`Komari@❝I was thinking of throwing a pancake party～.❞",
-      "Translation": "`小毬@「嗯，要开一个烤蛋糕哦～」"
+      "Translation": "`小毬@「嗯，要开一个烤松饼派对哦～」"
     },
     {
       "JP": "`理樹@「ホットケーキパーティ？」",
       "EN": "`Riki@❝Pancake party?❞",
-      "Translation": "`理树@「烤蛋糕？」"
+      "Translation": "`理树@「烤松饼派对？」"
     },
     {
       "JP": "`小毬@「みんなでホットケーキ焼きながらいろいろお話するの」",
       "EN": "`Komari@❝We'll be baking pancakes together and chatting.❞",
-      "Translation": "`小毬@「大家一起边做烤饼边聊天」"
+      "Translation": "`小毬@「大家一起边烤松饼边聊天」"
     },
     {
       "JP": "`小毬@「ホットケーキも美味しいし、みんなのお話も弾んで、とっても楽しいよ」",
@@ -1528,7 +1528,7 @@
     {
       "JP": "`理樹@「ホットケーキパーティかぁ…」",
       "EN": "`Riki@❝A pancake party, huh...❞",
-      "Translation": "`理树@「烤蛋糕嘛…」"
+      "Translation": "`理树@「烤松饼派对嘛…」"
     },
     {
       "JP": "小毬さん主催じゃ、胸焼けしないようにしないといけない。",
@@ -1628,12 +1628,12 @@
     {
       "JP": "差出人：神北　小毬$dタイトル：『ホットケーキぱーてぃのお知らせ（＾▽＾）』",
       "EN": "Sender: Komari Kamikita\nSubject: [Pancake party announcement（＾▽＾）]",
-      "Translation": "发件人：神北小毬$d标题：『关于烤蛋糕的通知哦（＾＾）』"
+      "Translation": "发件人：神北小毬$d标题：『关于烤松饼派对的通知哦（＾＾）』"
     },
     {
       "JP": "本文：『日曜の３じからホットケーキパーティをします。学食でやります。いっぱい食べてほしいのでちょっとおなかすかせて来てね（＾▽＾）』",
       "EN": "Subject: [We will be holding a pancake party at 3 PM on Sunday in the cafeteria. I want you guys to eat a lot, so come with an empty stomach（＾▽＾）]",
-      "Translation": "`本文：@『明天的３点在学校食堂来开烤蛋糕哦。我希望你能多吃一点，所以要空着肚子来哦（＾＾）』"
+      "Translation": "`本文：@『明天的３点在学校食堂来开烤松饼派对哦。我希望你能多吃一点，所以要空着肚子来哦（＾＾）』"
     },
     {
       "JP": "`理樹@「あ、これか」",
@@ -1673,7 +1673,7 @@
     {
       "JP": "`理樹@「あ、小毬さんからホットケーキパーティのメールが来てたよ」",
       "EN": "`Riki@❝Oh, hey, Komari-san sent us emails about the pancake party.❞",
-      "Translation": "`理树@「啊，从小毬那里收到了要开烤蛋糕的信息哦」"
+      "Translation": "`理树@「啊，从小毬那里收到了要开烤松饼派对的信息哦」"
     },
     {
       "JP": "`真人@「なに？　はえぇな」",
@@ -1718,7 +1718,7 @@
     {
       "JP": "今日はホットケーキパーティの日だ。",
       "EN": "Today is the Little Busters pancake party.",
-      "Translation": "今天是烤蛋糕Party的日子。"
+      "Translation": "今天是烤松饼派对的日子。"
     },
     {
       "JP": "僕と真人も、昼食の後から自室で待つことにしていた。",
@@ -2423,7 +2423,7 @@
     {
       "JP": "`小毬@「こ、これより、第一回みんなでホットケーキパーティを開催しますっ」",
       "EN": "`Komari@❝I... hereby pronounce our first pancake party... opened!❞",
-      "Translation": "`小毬@「这，这个，第一回烤蛋糕现在开幕了」"
+      "Translation": "`小毬@「这，这个，第一回烤松饼派对现在开幕了」"
     },
     {
       "JP": "`小毬@「みんなでいっぱい食べちゃってくださいっ」",
@@ -3813,12 +3813,12 @@
     {
       "JP": "差出人：棗　恭介$dタイトル：『無題』",
       "EN": "Sender: Kyousuke Natsume\nSubject: [No subject]",
-      "Translation": "发信人：棗 恭介%d标题：『无题』"
+      "Translation": "发信人：棗恭介$d标题：『无题』"
     },
     {
       "JP": "本文：『小毬に先日のホットケーキパーティのお礼をしてやりたいと思う。賛同者は小毬に気付かれないよう、放課後までに俺にコンタクトを取ること』",
       "EN": "Message: [I wanna do something for Komari to thank her for the party. If you agree with my idea, contact me before school is out.]",
-      "Translation": "`正文：@『想要给小毬一个烤蛋糕的回礼。赞同人在不要被小毬注意到的情况下，放学前来和我碰头』"
+      "Translation": "正文：『想要给小毬一个烤松饼派对的回礼。赞同人在不要被小毬注意到的情况下，放学前来和我碰头』"
     },
     {
       "JP": "`理樹@（へえ…）",
@@ -3848,12 +3848,12 @@
     {
       "JP": "差出人：棗　恭介$dタイトル：『Re：無題』",
       "EN": "Sender: Kyousuke Natsume\nSubject: [Re: No subject]",
-      "Translation": "发信人：棗 恭介$d标题：『Re：無題』"
+      "Translation": "发信人：棗恭介$d标题：『Re：無題』"
     },
     {
       "JP": "本文：『教室だと小毬にバレてしまう恐れがある。そっちの教室付近の廊下で各自落ち合う事にしよう。ちなみに全員賛成だった。』",
       "EN": "Message: [Chances are good that Komari will find out if we talk in our classroom. Therefore, let's meet up in the hallway near the classroom. FYI, no one disagreed.]",
-      "Translation": "`正文：@『在教室恐怕会被小毬发现。各自到教室附近的走廊上来见面。顺便一提全员都赞成了。』"
+      "Translation": "正文：『在教室恐怕会被小毬发现。各自到教室附近的走廊上来见面。顺便一提全员都赞成了。』"
     },
     {
       "JP": "やっぱりというかなんというか、小毬さんには黙っておいて、後でびっくりさせる作戦みたいだ。",
@@ -3863,7 +3863,7 @@
     {
       "JP": "…でも、何をするんだろう。",
       "EN": "...But what on earth is he going to do?",
-      "Translation": "…但是，要做些什么了呢。"
+      "Translation": "…但是，要做些什么呢。"
     },
     {
       "JP": "休み時間に入る。",
@@ -4163,7 +4163,7 @@
     {
       "JP": "`恭介@「そういうわけで、パーティのお礼にみんなで甘いものを…」",
       "EN": "`Kyousuke@❝So, I'd like to give her something sweet in return for the party...❞",
-      "Translation": "`恭介@「所以，的回礼就是大家请客吃甜点…」"
+      "Translation": "`恭介@「所以，派对的回礼就是大家请客吃甜点…」"
     },
     {
       "JP": "`恭介@「それもこじゃれた店の極上のスウィーツをご馳走してやるのさ」",
@@ -4503,7 +4503,7 @@
     {
       "JP": "`小毬@「ふえー、恭介さんはすごいねぇ～」",
       "EN": "`Komari@❝Fue, Kyousuke-san is amazing～.❞",
-      "Translation": "`小毬@「呼哎—，恭介好厉害～」"
+      "Translation": "`小毬@「呼哎～，恭介好厉害～」"
     },
     {
       "JP": "…どんな探し方をすればそれだけ見つけられるのか、多分当時の恭介しか知らない事だろう…。",
@@ -4743,7 +4743,7 @@
     {
       "JP": "`理樹@「うん、実はこないだのホットケーキパーティのお礼なんだよ」",
       "EN": "`Riki@❝This is our way of thanking you for the party you threw for us.❞",
-      "Translation": "`理树@「嗯，实际上这是之前烤蛋糕的回礼啦」"
+      "Translation": "`理树@「嗯，实际上这是之前烤松饼的回礼啦」"
     },
     {
       "JP": "`小毬@「ふ、ふええ？」",
@@ -5038,7 +5038,7 @@
     {
       "JP": "`小毬@「はい、どーぞっ」",
       "EN": "`Komari@❝Here.❞",
-      "Translation": "`小毬@「给，请用—」"
+      "Translation": "`小毬@「给，请用～」"
     },
     {
       "JP": "クリームとソースをすくって差し出してくる。",
@@ -5108,7 +5108,7 @@
     {
       "JP": "`小毬@「はーい」",
       "EN": "`Komari@❝That's right.❞",
-      "Translation": "`小毬@「来—」"
+      "Translation": "`小毬@「来～」"
     },
     {
       "JP": "………。",
@@ -5143,7 +5143,7 @@
     {
       "JP": "`真人@「そりゃなけなしの二百円をはたいた甲斐があったってもんだな」",
       "EN": "`Masato@❝It was really worth spending my last 200 yen for her.❞",
-      "Translation": "`真人@「这样的话我那仅存的２００也花的很有意义啦」"
+      "Translation": "`真人@「这样的话我那仅存的２００円也花的很有意义啦」"
     },
     {
       "JP": "`謙吾@「ああ、それが何よりだな」",
@@ -5278,7 +5278,7 @@
     {
       "JP": "`小毬@「理樹君の分もいっぱい持ってきたよー」",
       "EN": "`Komari@❝I have lots for you, too.❞",
-      "Translation": "`小毬@「理树君的那份也拿了很多过来哦—」"
+      "Translation": "`小毬@「理树君的那份也拿了很多过来哦～」"
     },
     {
       "JP": "`理樹@「はは…」",
@@ -5293,7 +5293,7 @@
     {
       "JP": "今日も小毬さんは、ホットケーキにたっぷりジャムをつけたものが昼食らしい。",
       "EN": "Today as well, her lunch was pancakes packed with jelly.",
-      "Translation": "今天小毬好像还是准备用涂满果酱的烤蛋糕来做午餐的样子。"
+      "Translation": "今天小毬好像还是准备用涂满果酱的烤松饼来做午餐的样子。"
     },
     {
       "JP": "`理樹@「小毬さんってさ」",
@@ -5308,12 +5308,12 @@
     {
       "JP": "口をもぐもぐさせながらこっちを向く。",
       "EN": "She looked at me, munching her pancake.",
-      "Translation": "一边大口嚼着烤蛋糕一边转了过来。"
+      "Translation": "一边大口嚼着烤松饼一边转了过来。"
     },
     {
       "JP": "`理樹@「毎朝ホットケーキ焼いて持ってきてるの？」",
       "EN": "`Riki@❝Do you make pancakes for lunch every morning?❞",
-      "Translation": "`理树@「每天早上都是现烤蛋糕再带过来的吗？」"
+      "Translation": "`理树@「每天早上都是现烤松饼再带过来的吗？」"
     },
     {
       "JP": "`小毬@「うん、そうだよ」",
@@ -5513,7 +5513,7 @@
     {
       "JP": "`理樹@「うーん」",
       "EN": "`Riki@❝Hmm.❞",
-      "Translation": "`理树@「嗯—」"
+      "Translation": "`理树@「嗯～」"
     },
     {
       "JP": "`小毬@「ふむう～」",
@@ -5918,7 +5918,7 @@
     {
       "JP": "`小毬@「失礼しまーすっ」",
       "EN": "`Komari@❝Excuse me!❞",
-      "Translation": "`小毬@「打搅了—」"
+      "Translation": "`小毬@「打搅了～」"
     },
     {
       "JP": "元気よく挨拶して中へ。",
@@ -6248,7 +6248,7 @@
     {
       "JP": "`理樹@「えーと」",
       "EN": "`Riki@❝Where is she?❞",
-      "Translation": "`理树@「嗯—」"
+      "Translation": "`理树@「嗯～」"
     },
     {
       "JP": "何人かの参加者の中に小毬さんの姿を見つける。",
@@ -6263,7 +6263,7 @@
     {
       "JP": "`小毬@「あ、理樹君おはよー」",
       "EN": "`Komari@❝Morning, Riki-kun.❞",
-      "Translation": "`小毬@「啊，理树君早上好—」"
+      "Translation": "`小毬@「啊，理树君早上好～」"
     },
     {
       "JP": "`小毬@「今日もニコニコいい天気って感じですねっ」",
@@ -6388,7 +6388,7 @@
     {
       "JP": "`小毬@「あと、語尾に『ようしっ』と付けてみよー」",
       "EN": "`Komari@❝And just add ❛all right❜ after everything you say.❞",
-      "Translation": "`小毬@「然后，在句末加上『好』试试看吧—」"
+      "Translation": "`小毬@「然后，在句末加上『好』试试看吧～」"
     },
     {
       "JP": "…前向きマジック。",
@@ -6648,7 +6648,7 @@
     {
       "JP": "おばあさんは、平気よ、といってにっこりと笑った。",
       "EN": "But she turned me down with an unconcerned smile.",
-      "Translation": "`老奶@『没关系的』，这样微笑了一下。"
+      "Translation": "`老人@『没关系的』，这样微笑了一下。"
     },
     {
       "JP": "`小毬@「るらら～げんきいきいきしんせんぐみ～♪」",
@@ -6818,7 +6818,7 @@
     {
       "JP": "`じいさん@「なんじゃあきさんはああああああああああああああああああああああああああああああああああああああああああああッ!!」",
       "EN": "`Old Man@❝WHO THE HELL ARE YOUUUUUUUUUU!❞",
-      "Translation": "`老爷@「你这家伙干什么啊啊！！」"
+      "Translation": "`老爷爷@「你这家伙干什么啊啊！！」"
     },
     {
       "JP": "`理樹@「うわっ!?」",
@@ -6833,7 +6833,7 @@
     {
       "JP": "`じいさん@「…ほう、男か」",
       "EN": "`Old Man@❝...Interesting, a male visitor.❞",
-      "Translation": "`老爷@「…嚯，男的么」"
+      "Translation": "`老爷爷@「…嚯，男的么」"
     },
     {
       "JP": "品定めをされるようにじろじろと眺められる。",
@@ -6848,7 +6848,7 @@
     {
       "JP": "`じいさん@「掃除じゃとおっ!?」",
       "EN": "`Old Man@❝CLEANING!?❞",
-      "Translation": "`老爷@「打扫是么！？」"
+      "Translation": "`老爷爷@「打扫是么！？」"
     },
     {
       "JP": "`理樹@「え？　あ、いや…」",
@@ -6868,12 +6868,12 @@
     {
       "JP": "`じいさん@「ふん、そんなもんは必要ないわい」",
       "EN": "`Old Man@❝Hmph, I don't require being taken care of.❞",
-      "Translation": "`老爷@「哼，那种事情没有必要」"
+      "Translation": "`老爷爷@「哼，那种事情没有必要」"
     },
     {
       "JP": "`じいさん@「わしの身辺の世話をしていいのは…わしの連れだけじゃ」",
       "EN": "`Old Man@❝My wife... is the only one who may do that.❞",
-      "Translation": "`老爷@「可以在我身边照顾我的…只有我的妻子而已」"
+      "Translation": "`老爷爷@「可以在我身边照顾我的…只有我的妻子而已」"
     },
     {
       "JP": "ずいぶん時代的なことを言う。",
@@ -6888,7 +6888,7 @@
     {
       "JP": "`じいさん@「じゃかあしいわああああああああああっ！　おどりゃしごうたるぞこんダラズがああああああああああああああああああっ!!」",
       "EN": "`Old Man@❝SHUT THE HELL UP! I WILL KICK YOUR SCRAWNY ASS, KIIIIIIID!!!❞",
-      "Translation": "`老爷@「吵死了啊啊啊啊啊啊啊啊啊啊啊啊啊啊！我就喜欢这样不行啊啊！！」"
+      "Translation": "`老爷爷@「吵死了啊啊啊啊啊啊啊啊啊啊啊啊啊啊！我就喜欢这样不行啊啊！！」"
     },
     {
       "JP": "　",
@@ -6908,7 +6908,7 @@
     {
       "JP": "`じいさん@「ふん、この小次郎…痩せても枯れても、小僧に下から物を頼むほど落ちぶれてはおらぬわッ!!」",
       "EN": "`Old Man@❝Hmp, I, Kojirou, have not yet so fallen I can't get by without relying on a kid like you!!❞",
-      "Translation": "`老爷@「哼，我小次郎…就算消瘦下去干枯下去，也不会堕落到要你这样连小鬼都不如的人来帮忙！！」"
+      "Translation": "`老爷爷@「哼，我小次郎…就算消瘦下去干枯下去，也不会堕落到要你这样连小鬼都不如的人来帮忙！！」"
     },
     {
       "JP": "`理樹@「ああもう、わかりましたよ…」",
@@ -6928,7 +6928,7 @@
     {
       "JP": "`じいさん@「なんじゃ、逃げ出さんのか」",
       "EN": "`Old Man@❝What, you're not going to leave?❞",
-      "Translation": "`老爷@「怎么，不逃出去吗」"
+      "Translation": "`老爷爷@「怎么，不逃出去吗」"
     },
     {
       "JP": "`理樹@「そりゃまあ、掃除しに来たんですから僕は」",
@@ -6938,7 +6938,7 @@
     {
       "JP": "`じいさん@「わしが必要ないと言っているのにか？」",
       "EN": "`Old Man@❝Even if I tell you you don't have to?❞",
-      "Translation": "`老爷@「就算我说过没必要也是吗？」"
+      "Translation": "`老爷爷@「就算我说过没必要也是吗？」"
     },
     {
       "JP": "`理樹@「掃除したほうがお爺さんだって気分がいいでしょ」",
@@ -6948,7 +6948,7 @@
     {
       "JP": "`じいさん@「わしゃあ小次郎じゃ」",
       "EN": "`Old Man@❝My name's Kojirou.❞",
-      "Translation": "`老爷@「我叫小次郎」"
+      "Translation": "`老爷爷@「我叫小次郎」"
     },
     {
       "JP": "`理樹@「ああうん、じゃあ小次郎さん」",
@@ -7143,7 +7143,7 @@
     {
       "JP": "`理樹@「はぁ」",
       "EN": "`Riki@❝Uh-huh.❞",
-      "Translation": "`理树@「厄」"
+      "Translation": "`理树@「呃」"
     },
     {
       "JP": "`小次郎@「名句じゃ。賞賛せい」",
@@ -7278,7 +7278,7 @@
     {
       "JP": "`小毬@「うあーん、また落ちたーっ」",
       "EN": "`Komari@❝Uahhn, I did it again.❞",
-      "Translation": "`小毬@「呜啊—，又掉下来了—」"
+      "Translation": "`小毬@「呜啊～，又掉下来了～」"
     },
     {
       "JP": "`理樹@「いや、もうね…」",
@@ -7388,7 +7388,7 @@
     {
       "JP": "`小毬@「よおーしがんばるぞー」",
       "EN": "`Komari@❝All right, I'll do my best.❞",
-      "Translation": "`小毬@「好—要加油了哦—」"
+      "Translation": "`小毬@「好～要加油了哦～」"
     },
     {
       "JP": "意気揚々とドアを開ける。",
@@ -7643,7 +7643,7 @@
     {
       "JP": "`小毬@「うわーもうものすごい怖かったよ…」",
       "EN": "`Komari@❝Uwahh, I was so scared...❞",
-      "Translation": "`小毬@「呜哇—非常的可怕啊…」"
+      "Translation": "`小毬@「呜哇～非常的可怕啊…」"
     },
     {
       "JP": "戻ってきた小毬さんと一緒に、さっきの荷物を運ぶ。",
@@ -7763,7 +7763,7 @@
     {
       "JP": "`小毬@「でも、理樹君すごいねー」",
       "EN": "`Komari@❝You're amazing, though.❞",
-      "Translation": "`小毬@「但是，理树君真厉害呢—」"
+      "Translation": "`小毬@「但是，理树君真厉害呢～」"
     },
     {
       "JP": "`理樹@「え？」",

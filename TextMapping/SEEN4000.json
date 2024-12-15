@@ -38,7 +38,7 @@
     {
       "JP": "`クド@「でぃすりとるぽけっとうおっちいずぎあーどぅとぅーあうあーすたいるー」",
       "EN": "`Kud@❝Disu ritoru poketto uocchi idzu gia-do tu aua sutairu.❞",
-      "Translation": "`库特@「戴斯利特路破科特瓦吃伊斯给阿—吐吐—奥哇—斯泰鲁—」（这里是库特的死板念法，以下同上）"
+      "Translation": "`库特@「戴斯利特路破科特瓦吃伊斯给阿—吐吐—奥哇—斯泰鲁—」"
     },
     {
       "JP": "小毬さんとクドの声が聞こえる。",
@@ -83,7 +83,7 @@
     {
       "JP": "`クド@「つまり$K110とーじんぼー$K0かられっつだいぶですっ」",
       "EN": "`Kud@❝I mean, rettsu daibu furomu $K110Tojinbo$K0!!❞",
-      "Translation": "`库特@「也就是说，从とーじんぼー（日本某断崖风景区）顶上往下跳的说」"
+      "Translation": "`库特@「也就是说，从$K110东寻坊$K0顶上往下跳的说」"
     },
     {
       "JP": "`小毬@「大不正解ーっ」",
@@ -628,8 +628,7 @@
     {
       "JP": "`教師@「教卓の上にある申し込み用紙を配っておいてくれ」",
       "EN": "`Teacher@❝Will you distribute those forms on that desk to the class?❞",
-      "Translation": "`教师@「请把讲台上的申请表发下去」
-"
+      "Translation": "`教师@「请把讲台上的申请表发下去」"
     },
     {
       "JP": "`教師@「本当なら説明をしないといけないんだが帰りのＨＲにする」",
@@ -989,8 +988,7 @@
     {
       "JP": "がらがら、と扉を開ける音。",
       "EN": "The classroom door opened.",
-      "Translation": "嘎啦嘎啦、传来了门被打开的声音。
-"
+      "Translation": "嘎啦嘎啦、传来了门被打开的声音。"
     },
     {
       "JP": "教科担任が入ってきた。",
@@ -1705,7 +1703,7 @@
     {
       "JP": "`小毬@「うーん、そーなのかー」",
       "EN": "`Komari@❝Hmm, I see.❞",
-      "Translation": "`小毬@「嗯—，这样啊—」
+      "Translation": "`小毬@「嗯—，这样啊—」"
     },
     {
       "JP": "`小毬@「じゃあ、私がやるよ。えーと、てすてすっ」",
@@ -1880,7 +1878,7 @@
     {
       "JP": "`理樹@「なるほどねぇ…って論外なひとはおいといて」",
       "EN": "`Riki@❝I see... Well, putting Ms. Lost Cause aside...❞",
-      "Translation": "`理树@「原来如此…喂话题外的人一边去」"
+      "Translation": "`理树@「原来如此…喂,话题外的人一边去」"
     },
     {
       "JP": "`葉留佳@「扱いひどっ！　おいとかないで!?」",
@@ -1900,7 +1898,7 @@
     {
       "JP": "`一同@「わかった」「了解した」「えー」「わふー」",
       "EN": "`All@❝Got it.❞ ❝All right.❞ ❝Ehh.❞ ❝Wafuu.❞",
-      "Translation": "`大家「知道了」「明白」「哎—」「哇呼—」"
+      "Translation": "`大家@「知道了」「明白」「哎—」「哇呼—」"
     },
     {
       "JP": "こうして、僕たちはテスト勉強することになったのだった。",
@@ -3060,7 +3058,7 @@
     {
       "JP": "`西園@「One for All, All for One.『ひとりはみんなのために、みんなはひとりのために』ですね」",
       "EN": "`Nishizono@❝It's ❛One for all, all for one.❜❞",
-      "Translation": "`西园@「应该是『One for all,all for one』（原意为『我为人人、人人为我』）」（吐槽：其实这句英语目前还没有个正确的中文解释，此意只不过是认同比较多而已）"
+      "Translation": "`西园@「应该是『One for all,all for one』"
     },
     {
       "JP": "`クド@「いっつ・あ・みすていくです…」",
@@ -4935,7 +4933,7 @@
     {
       "JP": "`クド@「自動合格（アフタマート）になってほしいです…」",
       "EN": "`Kud@❝And I wish they would apply avtomat here...❞",
-      "Translation": "`库特@「真想全都автомат（自动合格）的说…」（автомат 俄国等地大学的免除考试的制度）"
+      "Translation": "`库特@「真想全都автомат（自动合格）的说…」"
     },
     {
       "JP": "`理樹@「全部がレポートだと逆に大変な気もするなぁ」",
@@ -4960,7 +4958,7 @@
     {
       "JP": "`クド@「まいなす・ねがてぃぶ・しんきんぐ・かむとぅるーなわけですよっ」",
       "EN": "`Kud@❝mainasu negatibu tinkingu kamu turu-!❞",
-      "Translation": "`库特@「Mainasu·negatibu·tinkingu·kamu turu－的说哟」（听不懂不知道怎么翻译了，第三个词应该是thinking）"
+      "Translation": "`库特@「Mainasu·negatibu·tinkingu·kamu turu－的说哟」"
     },
     {
       "JP": "クドが自分を勇気づけるかのように言う。",
@@ -5140,7 +5138,7 @@
     {
       "JP": "軽く嗅いでみると、出汁の匂い。",
       "EN": "A light scent of soup wafted in the air.",
-      "Translation": "微微一闻，是出汁的香味。（出汁：日本料理中用来充分牵引出原材料的原味的调味料。是从鲣鱼干及晒干的海带中提取制作而成的。）"
+      "Translation": "微微一闻，是出汁的香味。"
     },
     {
       "JP": "`理樹@「……クド、ひょっとして水筒の中身は」",
@@ -5210,7 +5208,7 @@
     {
       "JP": "`クド@「きしめんです」",
       "EN": "`Kud@❝It's kishimen.❞",
-      "Translation": "`库特@「是棊子面的说」（棊子面：日本爱知县名古屋市的特产）"
+      "Translation": "`库特@「是棊子面的说」"
     },
     {
       "JP": "`理樹@「きしめん!?」",
@@ -6315,7 +6313,7 @@
     {
       "JP": "ぐらふこすもす？　商社の名前かな。",
       "EN": "Glavkosmos? Is that the name of a trading company?",
-      "Translation": "Главкосмос？大概是公司的名字吧（Главкосмос，俄国宇宙开发技术商业对外窗口部门）"
+      "Translation": "Главкосмос？大概是公司的名字吧"
     },
     {
       "JP": "`クド@「そうそう。おじい様の生まれたのはここですね」",
@@ -6370,7 +6368,7 @@
     {
       "JP": "`クド@「一番長かった国ですか？　多分、テヴアでしょうか」",
       "EN": "`Kud@❝Longest? That's probably Tevua.❞",
-      "Translation": "`库特@「住的最长的国家吗？大概是吧」"
+      "Translation": "`库特@「住的最长的国家吗？大概是Tevua吧」"
     },
     {
       "JP": "`クド@「長いと言っても、通算期間が長い、という意味ですけど」",
@@ -6425,7 +6423,7 @@
     {
       "JP": "`クド@「私はええと、いわゆる二重国籍保持者（でゅあるなしょなりてぃー）なのです」",
       "EN": "`Kud@❝I have, er, what's called a dual nationality.❞",
-      "Translation": "`库特@「我呀，那个怎么说呢，是叫做双重国籍持有者（D）吧」"
+      "Translation": "`库特@「我呀，那个怎么说呢，是叫做双重国籍持有者（Dual Nationality）吧」"
     },
     {
       "JP": "`クド@「ちなみに、おじい様はテヴア国籍も持ってる『るーすきぃ』となりますねぇ」",
@@ -6610,7 +6608,7 @@
     {
       "JP": "`クド@「あい・あい・さー、です」",
       "EN": "`Kud@❝Ai ai sa-!❞",
-      "Translation": "`库特@「··－，的说」"
+      "Translation": "`库特@「Ai·ai·sa－，的说」"
     },
     {
       "JP": "僕とクドは雑談を切り上げて再び教科書とノートに視線を落とした。",
@@ -6690,7 +6688,7 @@
     {
       "JP": "`クド@「はいです。しーゆー・れいたー、リキ」",
       "EN": "`Kud@❝Yes. Shi- yu- reita-, Riki.❞",
-      "Translation": "`库特@「是的说。S－－·－，理树」"
+      "Translation": "`库特@「是的说。Shi－yu－reita，理树」"
     },
     {
       "JP": "`理樹@「ばいばい、クド」",
@@ -6950,7 +6948,7 @@
     {
       "JP": "`真人@「また明日にする。おやすみ理樹………ぐー」",
       "EN": "`Masato@❝I'll do that tomorrow. Night, Riki... zZZ.❞",
-      "Translation": "`真人@「明天再说。晚安理树………Ｚ－」"
+      "Translation": "`真人@「明天再说。晚安理树………zZＺ－」"
     },
     {
       "JP": "`理樹@「って早っ!!　ベッドで寝ようよ、真人っ」",
@@ -7790,7 +7788,7 @@
     {
       "JP": "`クド@「リキも触りますか？」",
       "EN": "`Kud@❝Want to touch her, Riki?❞",
-      "Translation": "`库特@「理树也要摸摸吗？」"
+      "Translation": "`库特@「理树想摸摸她吗？」"
     },
     {
       "JP": "`理樹@「僕が触っても大丈夫なの？」",
@@ -7885,7 +7883,7 @@
     {
       "JP": "`理樹@（お腹がすいたな…）",
       "EN": "`Riki@(I'm hungry...)",
-      "Translation": "理树（肚子好饿…）"
+      "Translation": "`理树@（肚子好饿…）"
     },
     {
       "JP": "時計の針がじりじりと十二時を目指して匍匐（ほふく）前進をしている。",
@@ -8345,7 +8343,7 @@
     {
       "JP": "わぁ棒読み、ほんとだねー、と台詞が降ってくる。",
       "EN": "The three girls got excited upon discovering that her pronunciation wasn't very good.",
-      "Translation": "哇直读啊，真的呢－，听见了这样的台词。"
+      "Translation": "哇真是棒读啊，真的呢－，听见了这样的台词。"
     },
     {
       "JP": "その度にクドの箸を持つ右手が微かに震えた。",
@@ -9710,7 +9708,7 @@
     {
       "JP": "今回は少し趣向を変えてみることにしたんだけど…。",
       "EN": "We were doing something a tad different for a change today...",
-      "Translation": ""
+      "Translation": "这次我们决定稍微做点不同的事情…。"
     },
     {
       "JP": "`理樹@「ちょっと休む？　クド」",
@@ -9850,7 +9848,7 @@
     {
       "JP": "クドは極端に『本番』に弱いだけで、素材としては悪くない。",
       "EN": "She was not bad at her studies at all; she was simply not used to the Japanese exam system.",
-      "Translation": "`库特虽说在应付@『正式』的考试上极为不擅长，但是平时却相当不错。"
+      "Translation": "库特虽说在应付『正式』的考试上极为不擅长，但是平时却相当不错。"
     },
     {
       "JP": "むしろ優秀だった。",
@@ -10635,7 +10633,7 @@
     {
       "JP": "`クド@「ぐっどもーにんぐー、小毬さんー」",
       "EN": "`Kud@❝Guddo mo-ningu-, Komari-san.❞",
-      "Translation": "`库特@「－，小毬－」"
+      "Translation": "`库特@「Guddo mo-ningu－，小毬－」"
     },
     {
       "JP": "二人でもう一度声を掛ける。",
@@ -10785,7 +10783,7 @@
     {
       "JP": "`小毬@「クーちゃんべりーべるりーさんきゅーだよーっ」",
       "EN": "`Komari@❝Kuu-chan, very, very thank you!❞",
-      "Translation": "`小毬@「小库－－U－」"
+      "Translation": "`小毬@「小库，very, very thank you！」"
     },
     {
       "JP": "小毬さんはクドを胸に抱くと、そのままくるくる回りだす。",
@@ -13395,7 +13393,7 @@
     {
       "JP": "いつもの『しーゆー』が聞けなくて、僕は無性に悲しくなった。",
       "EN": "I felt an intense pang of sadness since she didn't part with the usual ❛shi- yu-❜ this time.",
-      "Translation": "听不到和往常一样的那句『－－』，我不由得感到一种莫名的悲伤。"
+      "Translation": "听不到和往常一样的那句『shi－yu－』，我不由得感到一种莫名的悲伤。"
     },
     {
       "JP": "寮へ帰ってからも僕は考え込んでいた。",
@@ -13465,7 +13463,7 @@
     {
       "JP": "`理樹@「クドのことなんだけど」",
       "EN": "`Riki@❝About Kud.❞",
-      "Translation": "`理树@「关于库特她啊」"
+      "Translation": "`理树@「关于库特的事」"
     },
     {
       "JP": "`真人@「…アレか」",
@@ -15320,7 +15318,7 @@
     {
       "JP": "`クド@「おーばー・ひーてぃんぐ・なう～」",
       "EN": "`Kud@❝O-ba- hi-tingu nau～.❞",
-      "Translation": "`库特@「－·－·～」"
+      "Translation": "`库特@「O-ba- hi-tingu nau～」"
     },
     {
       "JP": "`理樹@（うーん、大丈夫かな？　知恵熱みたいなものかな）",
@@ -16215,7 +16213,7 @@
     {
       "JP": "あれが違う、ここは同じだ、なんて会話をしているとあっという間に分かれ道だった。",
       "EN": "And before we knew it, we had already reached the parting point of the paths to the dorms.",
-      "Translation": "`一边谈着像是@『这题一样，那题不一样』之类的话，不知不觉已经来到了各自的分叉路口了。"
+      "Translation": "一边谈着像是『这题一样，那题不一样』之类的话，不知不觉已经来到了各自的分叉路口了。"
     },
     {
       "JP": "`クド@「あ」",
@@ -16557,7 +16555,7 @@
     {
       "JP": "やっぱり物理$dそれでも筋肉",
       "EN": "Physics, of course$dEven so, muscle",
-      "Translation": "Physics, of course$dEven so, muscle"
+      "Translation": "当然是物理$d即便如此也是肌肉"
     }
   ],
   "TASK": []

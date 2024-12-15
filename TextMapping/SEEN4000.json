@@ -3283,1487 +3283,1487 @@
     {
       "JP": "`クド@「はい、宜しくです」",
       "EN": "`Kud@❝Sure, why not?❞",
-      "Translation": "`Kud@❝Sure, why not?❞"
+      "Translation": "`库特@「好的，请多关照」"
     },
     {
       "JP": "`理樹@「どこでやろうかな。図書館…だと真人が静かすぎて嫌がるし」",
       "EN": "`Riki@❝Where should we go? The library...? No, that'd be too quiet for Masato.❞",
-      "Translation": "`Riki@❝Where should we go? The library...? No, that'd be too quiet for Masato.❞"
+      "Translation": "`理树@「应该在哪里做呢？图书馆的话…真人会嫌太安静了吧」"
     },
     {
       "JP": "`クド@「学食ではどうですか？　今の時間だと机はあいていると思いますです」",
       "EN": "`Kud@❝How about the cafeteria? There shouldn't be a lot of people there at this hour.❞",
-      "Translation": "`Kud@❝How about the cafeteria? There shouldn't be a lot of people there at this hour.❞"
+      "Translation": "`库特@「食堂怎么样？这个时间应该有空桌子」"
     },
     {
       "JP": "`理樹@「あ、そうだね。食べ物で釣ることも出来るし」",
       "EN": "`Riki@❝Ah, sounds great. And we can use the food to bait him.❞",
-      "Translation": "`Riki@❝Ah, sounds great. And we can use the food to bait him.❞"
+      "Translation": "`理树@「啊，是呢。还能用食物把他钓出来」"
     },
     {
       "JP": "何かおごると言えば真人も付き合ってくれるだろう。",
       "EN": "Masato would probably agree on the promise of good grub.",
-      "Translation": "Masato would probably agree on the promise of good grub."
+      "Translation": "如果说请他吃点东西，真人应该也会答应吧。"
     },
     {
       "JP": "`理樹@「メールで呼び出しておこう…これでよし、と」",
       "EN": "`Riki@❝I'll text him... Okay, done.❞",
-      "Translation": "`Riki@❝I'll text him... Okay, done.❞"
+      "Translation": "`理树@「我发个短信叫他过来…这样就好了」"
     },
     {
       "JP": "`理樹@「じゃあ行こうか」",
       "EN": "`Riki@❝Let's go.❞",
-      "Translation": "`Riki@❝Let's go.❞"
+      "Translation": "`理树@「那我们走吧」"
     },
     {
       "JP": "`クド@「はいです」",
       "EN": "`Kud@❝Sure.❞",
-      "Translation": "`Kud@❝Sure.❞"
+      "Translation": "`库特@「好的」"
     },
     {
       "JP": "僕とクドは教室を出た。",
       "EN": "We headed out for the cafeteria.",
-      "Translation": "We headed out for the cafeteria."
+      "Translation": "我和库特离开了教室。"
     },
     {
       "JP": "学食へ着くと、真人はすでに居た。",
       "EN": "When we got there, Masato was already seated at a table.",
-      "Translation": "When we got there, Masato was already seated at a table."
+      "Translation": "到了食堂，真人已经在那里了。"
     },
     {
       "JP": "`理樹@「けど、なんでご飯食べてるのさ…」",
       "EN": "`Riki@❝Wait, why are you already eating...?❞",
-      "Translation": "`Riki@❝Wait, why are you already eating...?❞"
+      "Translation": "`理树@「可是，为什么你已经在吃饭了…」"
     },
     {
       "JP": "しかもカレーライス大盛りだし。",
       "EN": "And what surprised me more was that he was eating a heap of curry rice.",
-      "Translation": "And what surprised me more was that he was eating a heap of curry rice."
+      "Translation": "而且还是一大份咖喱饭。"
     },
     {
       "JP": "`真人@「え？　理樹がおごってくれるんだろ？」",
       "EN": "`Masato@❝Eh? You texted me you'd treat me to something, didn't you?❞",
-      "Translation": "`Masato@❝Eh? You texted me you'd treat me to something, didn't you?❞"
+      "Translation": "`真人@「啊？理树不是说请我吃饭吗？」"
     },
     {
       "JP": "`理樹@「確かにそう書いたけど…そのあとにまだ文章あったでしょ」",
       "EN": "`Riki@❝Yeah, I did write that... But that's not all I wrote.❞",
-      "Translation": "`Riki@❝Yeah, I did write that... But that's not all I wrote.❞"
+      "Translation": "`理树@「确实是这么写的…但后面还有内容吧」"
     },
     {
       "JP": "意図が半分しか伝わっていない。",
       "EN": "He had only grasped half of my message.",
-      "Translation": "He had only grasped half of my message."
+      "Translation": "只理解了一半的意思。"
     },
     {
       "JP": "`真人@「さあな。それをオレはまだ読んでいない」",
       "EN": "`Masato@❝Dunno. That's as far as I read.❞",
-      "Translation": "`Masato@❝Dunno. That's as far as I read.❞"
+      "Translation": "`真人@「不知道啊。后面的我还没读呢」"
     },
     {
       "JP": "そして、皿を持ち上げると傾け一気にたいらげる。",
       "EN": "And then he lifted up the plate, tilting it to pour the rest of the food into his mouth all at once.",
-      "Translation": "And then he lifted up the plate, tilting it to pour the rest of the food into his mouth all at once."
+      "Translation": "然后他端起盘子，倾斜着一下子吃光了。"
     },
     {
       "JP": "`真人@「理樹、ごちそうさまっ」",
       "EN": "`Masato@❝Riki, thanks for the food!❞",
-      "Translation": "`Masato@❝Riki, thanks for the food!❞"
+      "Translation": "`真人@「理树，谢谢款待！」"
     },
     {
       "JP": "立って逃げようとするところ、その腰に抱きつく。",
       "EN": "I held him back by seizing the back of his shirt as he stood up to run away.",
-      "Translation": "I held him back by seizing the back of his shirt as he stood up to run away."
+      "Translation": "正准备跑掉时，我从后面抱住了他。"
     },
     {
       "JP": "`真人@「なんだよっ、ごちそうさまも言っただろっ！」",
       "EN": "`Masato@❝What's wrong with you? I said thanks!❞",
-      "Translation": "`Masato@❝What's wrong with you? I said thanks!❞"
+      "Translation": "`真人@「干嘛啊，我不是说了谢谢了吗！」"
     },
     {
       "JP": "`理樹@「違うよっ」",
       "EN": "`Riki@❝No, that's not it!❞",
-      "Translation": "`Riki@❝No, that's not it!❞"
+      "Translation": "`理树@「不是这样的！」"
     },
     {
       "JP": "`真人@「おいしかったよ！　ほら感想も言ったぜ！」",
       "EN": "`Masato@❝It was so delicious! Look, I even praised how good it was!❞",
-      "Translation": "`Masato@❝It was so delicious! Look, I even praised how good it was!❞"
+      "Translation": "`真人@「真的很美味啊！我还夸了它好吃！」"
     },
     {
       "JP": "`理樹@「違うよっ」",
       "EN": "`Riki@❝No!❞",
-      "Translation": "`Riki@❝No!❞"
+      "Translation": "`理树@「不是这样的！」"
     },
     {
       "JP": "`理樹@「メールの一番最初に書いてあったことを思い出してよっ」",
       "EN": "`Riki@❝Recall the first line of my message!❞",
-      "Translation": "`Riki@❝Recall the first line of my message!❞"
+      "Translation": "`理树@「想想邮件的第一句话吧！」"
     },
     {
       "JP": "`真人@「学食でおごるよ」",
       "EN": "`Masato@❝You're gonna treat me at the cafeteria.❞",
-      "Translation": "`Masato@❝You're gonna treat me at the cafeteria.❞"
+      "Translation": "`真人@「食堂请客？」"
     },
     {
       "JP": "`理樹@「その前だよ、メールの文面よく読んでよっ！」",
       "EN": "`Riki@❝No, the previous one! Read it closely!!❞",
-      "Translation": "`Riki@❝No, the previous one! Read it closely!!❞"
+      "Translation": "`理树@「是前面啊！好好读邮件的内容！」"
     },
     {
       "JP": "`理樹@「実力テストの勉強するからってあるでしょ！」",
       "EN": "`Riki@❝It says I'd like you to help Kud study for the test!❞",
-      "Translation": "`Riki@❝It says I'd like you to help Kud study for the test!❞"
+      "Translation": "`理树@「我说了是为了复习考试！」"
     },
     {
       "JP": "`真人@「…テ、ス…ト…",
       "EN": "`Masato@❝...Te...s...t... ",
-      "Translation": "`Masato@❝...Te...s...t... "
+      "Translation": "`真人@「…考…试…」"
     },
     {
       "JP": "ぅあああぁぁあああぁぁぁぁあーーー！」",
       "EN": "Noooooooooooooooooooooooooooo!!❞",
-      "Translation": "Noooooooooooooooooooooooooooo!!❞"
+      "Translation": "「啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊——！」"
     },
     {
       "JP": "`真人@「そんな言葉知りません。刑事さん、私はほんとに何も聞かされてなかったんです」",
       "EN": "`Masato@❝I don't know such a word. I swear I heard nothing, Mr. Detective.❞",
-      "Translation": "`Masato@❝I don't know such a word. I swear I heard nothing, Mr. Detective.❞"
+      "Translation": "`真人@「我不认识这个词。警官，我真的完全不知情啊」"
     },
     {
       "JP": "うわぁ、取り調べのようだ…。",
       "EN": "What's with this interrogation routine...",
-      "Translation": "What's with this interrogation routine..."
+      "Translation": "这简直像是在审问他一样…"
     },
     {
       "JP": "`理樹@「でも、ほら」",
       "EN": "`Riki@❝Look here.❞",
-      "Translation": "`Riki@❝Look here.❞"
+      "Translation": "`理树@「但是，你看」"
     },
     {
       "JP": "縮こまった真人のポケットから携帯を取り出す。",
       "EN": "I took his cell phone out of his jacket pocket.",
-      "Translation": "I took his cell phone out of his jacket pocket."
+      "Translation": "从真人缩成一团的口袋里拿出手机。"
     },
     {
       "JP": "ぱかっ、と開けると、そこには僕からのメールが。",
       "EN": "I opened it and browsed the menu to locate my mail.",
-      "Translation": "I opened it and browsed the menu to locate my mail."
+      "Translation": "打开后，里面有我的邮件。"
     },
     {
       "JP": "`理樹@「…どう、奥さん？　これ嘘ついてるよね」",
       "EN": "`Riki@❝...See, your honor? This is proof of the false testimony.❞",
-      "Translation": "`Riki@❝...See, your honor? This is proof of the false testimony.❞"
+      "Translation": "`理树@「…怎么样，夫人？这证明他在撒谎吧」"
     },
     {
       "JP": "それを突きつけてやる。",
       "EN": "I then shoved the phone in front of his face.",
-      "Translation": "I then shoved the phone in front of his face."
+      "Translation": "我把手机递到他面前。"
     },
     {
       "JP": "`真人@「仕方がなかったんですうぅぅーーっ！　小腹がすいてたんでっ」",
       "EN": "`Masato@❝I couldn't resiiiiiiiiiiiiiist! I was craving for a snack!❞",
-      "Translation": "`Masato@❝I couldn't resiiiiiiiiiiiiiist! I was craving for a snack!❞"
+      "Translation": "`真人@「没办法啊啊啊——！我只是有点饿了！」"
     },
     {
       "JP": "`クド@「それなら仕方ないですねぇ」",
       "EN": "`Kud@❝It couldn't be helped then.❞",
-      "Translation": "`Kud@❝It couldn't be helped then.❞"
+      "Translation": "`库特@「如果是这样，那也没办法呢」"
     },
     {
       "JP": "`理樹@「ええっ!?　こんな状況でよく許せるね…」",
       "EN": "`Riki@❝Ehh!? Why would you forgive him like that...❞",
-      "Translation": "`Riki@❝Ehh!? Why would you forgive him like that...❞"
+      "Translation": "`理树@「诶！？在这种情况下你还能原谅他啊…」"
     },
     {
       "JP": "`クド@「人は誰でも小腹がすくものですよ。ぐーぐーいっちゃうのです」",
       "EN": "`Kud@❝Anybody gets a little hungry sometimes. It makes their tummy growl.❞",
-      "Translation": "`Kud@❝Anybody gets a little hungry sometimes. It makes their tummy growl.❞"
+      "Translation": "`库特@「人都会有点饿的时候呢。肚子咕咕叫是正常的」"
     },
     {
       "JP": "`理樹@「すくけどさぁ…せめてもっと飢えてる人に食い逃げされたかったよ…小腹ってなんだよ…」",
       "EN": "`Riki@❝True... but I'd rather buy food for somebody suffering from serious starvation than someone just hungry for a snack...❞",
-      "Translation": "`Riki@❝True... but I'd rather buy food for somebody suffering from serious starvation than someone just hungry for a snack...❞"
+      "Translation": "`理树@「确实会饿…但至少让我请一个真正很饥饿的人吃饭吧…只是有点饿算什么啊…」"
     },
     {
       "JP": "`理樹@「…とにかく、捕まえたからには一緒にテスト勉強してもらうからっ」",
       "EN": "`Riki@❝...Anyways, Masato, since you already ate the food, you have to give Kud a hand!❞",
-      "Translation": "`Riki@❝...Anyways, Masato, since you already ate the food, you have to give Kud a hand!❞"
+      "Translation": "`理树@「…总之，既然抓到你了，就一起来复习考试吧！」"
     },
     {
       "JP": "`真人@「それはいーけどよ…オレにできることなんてあんのかよ」",
       "EN": "`Masato@❝All right... but I don't think there's anything I can do for her.❞",
-      "Translation": "`Masato@❝All right... but I don't think there's anything I can do for her.❞"
+      "Translation": "`真人@「倒是可以…可是我能帮上什么忙呢」"
     },
     {
       "JP": "`理樹@「それはクドが決める…というか鞄持ってきたよねクド」",
       "EN": "`Riki@❝That's for her to decide... Oh, hey, Kud, you brought your bag, right?❞",
-      "Translation": "`Riki@❝That's for her to decide... Oh, hey, Kud, you brought your bag, right?❞"
+      "Translation": "`理树@「这要由库特来决定…对了，库特，你带书包了吧？」"
     },
     {
       "JP": "`クド@「はい。持ってきてます…えーと、井ノ原さんは何が得意ですか？」",
       "EN": "`Kud@❝Yes, I did... Well, what subjects are you good at, Inohara-san?❞",
-      "Translation": "`Kud@❝Yes, I did... Well, what subjects are you good at, Inohara-san?❞"
+      "Translation": "`库特@「是的，带了…那个，井之原先生，你擅长什么科目呢？」"
     },
     {
       "JP": "`真人@「オレか？　どう言ったら伝わるかな…馬鹿と思わないでほしいが、実はすべて苦手だ」",
       "EN": "`Masato@❝Me? What can I say... I don't want you to think I'm stupid, but I, in fact, suck at all of them.❞",
-      "Translation": "`Masato@❝Me? What can I say... I don't want you to think I'm stupid, but I, in fact, suck at all of them.❞"
+      "Translation": "`真人@「我吗？怎么说呢…希望你不要觉得我笨，其实我什么都不擅长」"
     },
     {
       "JP": "`真人@「だが正確には苦手なわけではない。むしろ全教科得意だ」",
       "EN": "`Masato@❝However, that's not exactly correct. Actually, I'm great at all of them.❞",
-      "Translation": "`Masato@❝However, that's not exactly correct. Actually, I'm great at all of them.❞"
+      "Translation": "`真人@「不过严格来说，也不是不擅长。应该说所有科目我都很擅长」"
     },
     {
       "JP": "`真人@「ただ、勉強しないだけだ」",
       "EN": "`Masato@❝It's just that I don't study at all.❞",
-      "Translation": "`Masato@❝It's just that I don't study at all.❞"
+      "Translation": "`真人@「只是，我完全不学习罢了」"
     },
     {
       "JP": "馬鹿です。",
       "EN": "Idiot discovered.",
-      "Translation": "Idiot discovered."
+      "Translation": "真是个笨蛋。"
     },
     {
       "JP": "`真人@「なんだよ、理樹、その『馬鹿発見しました』的な目は…」",
       "EN": "`Masato@❝What's with your eyes, Riki? They're saying you've just discovered an idiot...❞",
-      "Translation": "`Masato@❝What's with your eyes, Riki? They're saying you've just discovered an idiot...❞"
+      "Translation": "`真人@「怎么了，理树？你那‘发现笨蛋了’的眼神是怎么回事…」"
     },
     {
       "JP": "`理樹@「それよりも、科目の話だよ真人」",
       "EN": "`Riki@❝Putting that aside, we need to study for the test now.❞",
-      "Translation": "`Riki@❝Putting that aside, we need to study for the test now.❞"
+      "Translation": "`理树@「比起这个，还是说说科目的事吧，真人」"
     },
     {
       "JP": "`真人@「ホントにやるのかよ…オレが勉強したら、すげぇ点数とっちまうぜ？」",
       "EN": "`Masato@❝Are you sure? ...If I get down to studying, I'll get incredible grades, and no mistake. Are you really okay with that?❞",
-      "Translation": "`Masato@❝Are you sure? ...If I get down to studying, I'll get incredible grades, and no mistake. Are you really okay with that?❞"
+      "Translation": "`真人@「你们真的要复习吗…如果我认真学习了，肯定会考出惊人的分数哦？」"
     },
     {
       "JP": "そこになんの問題があるだろう？",
       "EN": "I don't exactly see the problem...?",
-      "Translation": "I don't exactly see the problem...?"
+      "Translation": "这到底有什么问题吗？"
     },
     {
       "JP": "`真人@「まあ、理樹がやりたいっていうなら付き合うけどよ…」",
       "EN": "`Masato@❝Well, if you insist so strongly I guess I'll join you...❞",
-      "Translation": "`Masato@❝Well, if you insist so strongly I guess I'll join you...❞"
+      "Translation": "`真人@「好吧，既然理树你都这么说了，那我就陪你们吧…」"
     },
     {
       "JP": "`真人@「ところでなんかチップス感覚でつまむもの欲しいな」",
       "EN": "`Masato@❝By the way, I feel like eating something crispy like potato chips while we are doing this.❞",
-      "Translation": "`Masato@❝By the way, I feel like eating something crispy like potato chips while we are doing this.❞"
+      "Translation": "`真人@「不过，我想来点像薯片那样的小零食」"
     },
     {
       "JP": "`真人@「理樹、なんか頼んでいいか？」",
       "EN": "`Masato@❝Riki, is it all right if I order something?❞",
-      "Translation": "`Masato@❝Riki, is it all right if I order something?❞"
+      "Translation": "`真人@「理树，我可以点点东西吗？」"
     },
     {
       "JP": "`理樹@「いいけど」",
       "EN": "`Riki@❝Go ahead.❞",
-      "Translation": "`Riki@❝Go ahead.❞"
+      "Translation": "`理树@「可以啊」"
     },
     {
       "JP": "`真人@「おばちゃーん、カツ単品で！」",
       "EN": "`Masato@❝One pork cutlet, please!❞",
-      "Translation": "`Masato@❝One pork cutlet, please!❞"
+      "Translation": "`真人@「大妈，来份炸猪排！」"
     },
     {
       "JP": "この人はチップス感覚でカツをつまむんだ…。",
       "EN": "He actually considers pork cutlet similar to potato chips...",
-      "Translation": "He actually considers pork cutlet similar to potato chips..."
+      "Translation": "这人居然把炸猪排当成薯片来吃……"
     },
     {
       "JP": "`クド@「なんか私もお腹すいてきました」",
       "EN": "`Kud@❝I'm getting somewhat hungry too.❞",
-      "Translation": "`Kud@❝I'm getting somewhat hungry too.❞"
+      "Translation": "`库特@「这样的话，我也有点饿了」"
     },
     {
       "JP": "確かに油の匂いは食欲をそそる。",
       "EN": "The smell of the cooking oil was rousing my appetite as well.",
-      "Translation": "The smell of the cooking oil was rousing my appetite as well."
+      "Translation": "确实，油炸的香味让人食欲大开。"
     },
     {
       "JP": "`クド@「軽く食べてからにしましょうか、リキ」",
       "EN": "`Kud@❝Why don't we eat something first?❞",
-      "Translation": "`Kud@❝Why don't we eat something first?❞"
+      "Translation": "`库特@「要不我们先吃点东西吧，理树」"
     },
     {
       "JP": "`クド@「腹が減っては戦は出来ぬ、です」",
       "EN": "`Kud@❝As the proverb says, you can't fight a war on an empty stomach.❞",
-      "Translation": "`Kud@❝As the proverb says, you can't fight a war on an empty stomach.❞"
+      "Translation": "`库特@「肚子饿可是打不了仗的呢」"
     },
     {
       "JP": "`理樹@「んー、そうかもね。サンドイッチでも頼むかな」",
       "EN": "`Riki@❝Hmm, fair enough. I think I'll get a sandwich or something.❞",
-      "Translation": "`Riki@❝Hmm, fair enough. I think I'll get a sandwich or something.❞"
+      "Translation": "`理树@「嗯，也是呢。我去点个三明治吧」"
     },
     {
       "JP": "`クド@「そうしましょーなのです」",
       "EN": "`Kud@❝Let's do that.❞",
-      "Translation": "`Kud@❝Let's do that.❞"
+      "Translation": "`库特@「就这么定了！」"
     },
     {
       "JP": "`クド@「学食のチーズバーガーセットは美味しいです。おすすめですよ」",
       "EN": "`Kud@❝This cafeteria's cheeseburger set is really good. You should try that.❞",
-      "Translation": "`Kud@❝This cafeteria's cheeseburger set is really good. You should try that.❞"
+      "Translation": "`库特@「食堂的芝士汉堡套餐很好吃哦。我推荐你试试」"
     },
     {
       "JP": "`クド@「和風ピクルスが挟まっているのです。わふー」",
       "EN": "`Kud@❝The burger has slices of Japanese-style pickles inside. Wafuu.❞",
-      "Translation": "`Kud@❝The burger has slices of Japanese-style pickles inside. Wafuu.❞"
+      "Translation": "`库特@「里面还有日式腌菜呢。哇呼～」"
     },
     {
       "JP": "それはギャグなのだろうか。",
       "EN": "Was that some kind of joke?",
-      "Translation": "Was that some kind of joke?"
+      "Translation": "这算是个笑话吗？"
     },
     {
       "JP": "`理樹@「飲み物も一緒に頼んでくるね」",
       "EN": "`Riki@❝I'll go order drinks as well.❞",
-      "Translation": "`Riki@❝I'll go order drinks as well.❞"
+      "Translation": "`理树@「我顺便去点饮料吧」"
     },
     {
       "JP": "`理樹@「クドはその間、テスト範囲でも確認してて」",
       "EN": "`Riki@❝In the meantime, why don't you check what areas the test covers.❞",
-      "Translation": "`Riki@❝In the meantime, why don't you check what areas the test covers.❞"
+      "Translation": "`理树@「库特，你这段时间检查一下考试范围吧」"
     },
     {
       "JP": "`クド@「わかりましたっ」",
       "EN": "`Kud@❝I will!❞",
-      "Translation": "`Kud@❝I will!❞"
+      "Translation": "`库特@「好的！」"
     },
     {
       "JP": "`真人@「それでな、オレは思うわけだ」",
       "EN": "`Masato@❝And you know what.❞",
-      "Translation": "`Masato@❝And you know what.❞"
+      "Translation": "`真人@「然后呢，我有个想法」"
     },
     {
       "JP": "`真人@「ハンバーガーの中のピクルスをいかに上手く抜き出せるかという技術について」",
       "EN": "`Masato@❝I often think about how I might improve my skill at picking pickles out of a hamburger.❞",
-      "Translation": "`Masato@❝I often think about how I might improve my skill at picking pickles out of a hamburger.❞"
+      "Translation": "`真人@「关于如何更巧妙地从汉堡中拔出腌黄瓜的技巧」"
     },
     {
       "JP": "`クド@「確かにそれは至難の業ですっ」",
       "EN": "`Kud@❝That is certainly a tricky feat.❞",
-      "Translation": "`Kud@❝That is certainly a tricky feat.❞"
+      "Translation": "`库特@「确实，这是一个高难度的技术呢！」"
     },
     {
       "JP": "`真人@「そうだろうそうだろう。これこそタクミのワザってやつだよな」",
       "EN": "`Masato@❝Yeah, definitely. That's truly the skill level of an artisan.❞",
-      "Translation": "`Masato@❝Yeah, definitely. That's truly the skill level of an artisan.❞"
+      "Translation": "`真人@「是吧是吧。这可是匠人的技艺啊」"
     },
     {
       "JP": "`クド@「タクミ！　凄いですっ」",
       "EN": "`Kud@❝Artisan! That sounds superb!❞",
-      "Translation": "`Kud@❝Artisan! That sounds superb!❞"
+      "Translation": "`库特@「匠人！太厉害了！」"
     },
     {
       "JP": "`真人@「包み紙にケチャップが落ちないようにするのは難しいんだぜ？」",
       "EN": "`Masato@❝And do you know how difficult it is unwrapping a burger wrapper without spilling ketchup on it?❞",
-      "Translation": "`Masato@❝And do you know how difficult it is unwrapping a burger wrapper without spilling ketchup on it?❞"
+      "Translation": "`真人@「要做到不让番茄酱滴到包装纸上可是很难的哦？」"
     },
     {
       "JP": "`真人@「ちょっと見てみな…」",
       "EN": "`Masato@❝...Let me show ya...❞",
-      "Translation": "`Masato@❝...Let me show ya...❞"
+      "Translation": "`真人@「你看着点…」"
     },
     {
       "JP": "`クド@「どきどき…」",
       "EN": "`Kud@❝So excited...❞",
-      "Translation": "`Kud@❝So excited...❞"
+      "Translation": "`库特@「心跳加速…」"
     },
     {
       "JP": "`真人@「とりゃぁぁぁ！」",
       "EN": "`Masato@❝Toryahh!❞",
-      "Translation": "`Masato@❝Toryahh!❞"
+      "Translation": "`真人@「看我的，嘿呀！」"
     },
     {
       "JP": "`クド@「おぉぉぅっ！　凄いです！　井ノ原タクミさん！」",
       "EN": "`Kud@❝Ohhh! You're amazing! Inohara Arti-san!!❞",
-      "Translation": "`Kud@❝Ohhh! You're amazing! Inohara Arti-san!!❞"
+      "Translation": "`库特@「哇啊啊！太厉害了！井之原匠人先生！」"
     },
     {
       "JP": "`真人@「オレは真人だけどなっ！」",
       "EN": "`Masato@❝Just call me Masato!❞",
-      "Translation": "`Masato@❝Just call me Masato!❞"
+      "Translation": "`真人@「叫我真人就好了！」"
     },
     {
       "JP": "`理樹@「二人とも、いい加減に勉強に戻ろうよ…」",
       "EN": "`Riki@❝Hey, why don't you guys get back to studying now...❞",
-      "Translation": "`Riki@❝Hey, why don't you guys get back to studying now...❞"
+      "Translation": "`理树@「你们两个，差不多该回去复习了吧…」"
     },
     {
       "JP": "真人の『嫌いなモノをいかに食べなくてもいいようにするか』の方法について盛り上がるだけで終わってしまった…。",
       "EN": "Kud and I ended up achieving almost nothing except listening to Masato's theory on how to cleverly avoid eating stuff you disliked...",
-      "Translation": "Kud and I ended up achieving almost nothing except listening to Masato's theory on how to cleverly avoid eating stuff you disliked..."
+      "Translation": "结果我们就这样听真人讲他『避免吃讨厌的东西』的方法，啥也没复习到……"
     },
     {
       "JP": "`理樹@「クドは誰としたい？」",
       "EN": "`Riki@❝Kud, who do you want to do it with?❞",
-      "Translation": "`Riki@❝Kud, who do you want to do it with?❞"
+      "Translation": "`理树@「库特，你想和谁一起？」"
     },
     {
       "JP": "`クド@「はぇ!?」",
       "EN": "`Kud@❝Wha!?❞",
-      "Translation": "`Kud@❝Wha!?❞"
+      "Translation": "`库特@「诶!?」"
     },
     {
       "JP": "自分の意見を訊かれるとは思っていなかったのか、クドは目を丸くした。",
       "EN": "Kud's eyes widened in surprise at unexpectedly being asked for her opinion.",
-      "Translation": "Kud's eyes widened in surprise at unexpectedly being asked for her opinion."
+      "Translation": "可能没想到会被问到自己的意见，库特瞪大了眼睛。"
     },
     {
       "JP": "`クド@「えっ、わ、私が選んでいいのですかっ…だ、誰、と言われましても…」",
       "EN": "`Kud@❝Eh, I, I can pick... but w-who should I...❞",
-      "Translation": "`Kud@❝Eh, I, I can pick... but w-who should I...❞"
+      "Translation": "`库特@「哎，那个…是我可以选吗？虽、虽然问我和谁…」"
     },
     {
       "JP": "`理樹@「うん。誰がいいかな」",
       "EN": "`Riki@❝That's right, it's your choice.❞",
-      "Translation": "`Riki@❝That's right, it's your choice.❞"
+      "Translation": "`理树@「嗯。你觉得谁好呢」"
     },
     {
       "JP": "`クド@「え、そ、それはその、そんなこと訊かれても困るとゆーかっ」",
       "EN": "`Kud@❝Eh, t-that's, I mean, being asked that is a bother.❞",
-      "Translation": "`Kud@❝Eh, t-that's, I mean, being asked that is a bother.❞"
+      "Translation": "`库特@「这、这让我有点为难…」"
     },
     {
       "JP": "`クド@「いえ、困るというか別に困りはしないのですが、しかしでもその何故!?」",
       "EN": "`Kud@❝No, I shouldn't say that, it's not a bother, but... but, why me!?❞",
-      "Translation": "`Kud@❝No, I shouldn't say that, it's not a bother, but... but, why me!?❞"
+      "Translation": "`库特@「不对，不是为难，其实也不算为难，可是为什么会问这个呢？」"
     },
     {
       "JP": "`理樹@「何故って言われても…」",
       "EN": "`Riki@❝No particular reason...❞",
-      "Translation": "`Riki@❝No particular reason...❞"
+      "Translation": "`理树@「为什么嘛…」"
     },
     {
       "JP": "`理樹@「クドがしたい人としたほうがはかどるかなぁと思って」",
       "EN": "`Riki@❝I just think you'd find it more enjoyable and make more progress if you do it with whom you want to.❞",
-      "Translation": "`Riki@❝I just think you'd find it more enjoyable and make more progress if you do it with whom you want to.❞"
+      "Translation": "`理树@「我觉得如果是你想一起学习的人，效率会更高」"
     },
     {
       "JP": "`クド@「はか!?　はかどりゅ!?」",
       "EN": "`Kud@❝M-make progress?!❞",
-      "Translation": "`Kud@❝M-make progress?!❞"
+      "Translation": "`库特@「效…率…更高？」"
     },
     {
       "JP": "`クド@「墓まで!?　どぷりゃー効果!?」",
       "EN": "`Kud@❝Make progress and tie the knot?!❞",
-      "Translation": "`Kud@❝Make progress and tie the knot?!❞"
+      "Translation": "`库特@「效率到墓地！？彻底的效果！？」"
     },
     {
       "JP": "`理樹@「いやいやいやいや」",
       "EN": "`Riki@❝No, no, no, no.❞",
-      "Translation": "`Riki@❝No, no, no, no.❞"
+      "Translation": "`理树@「不是不是不是」"
     },
     {
       "JP": "`理樹@「つまりクドが一緒に勉強したい人がいいんじゃないかってことだよ」",
       "EN": "`Riki@❝I mean you should study together with whoever you want.❞",
-      "Translation": "`Riki@❝I mean you should study together with whoever you want.❞"
+      "Translation": "`理树@「就是说，和你想一起学习的人效率会更高啦」"
     },
     {
       "JP": "`クド@「わ、私が…？　いっしょに…？」",
       "EN": "`Kud@❝I, I decide...? My partner...?❞",
-      "Translation": "`Kud@❝I, I decide...? My partner...?❞"
+      "Translation": "`库特@「我…我来决定…？一起…？」"
     },
     {
       "JP": "`理樹@「そうそう」",
       "EN": "`Riki@❝That's right.❞",
-      "Translation": "`Riki@❝That's right.❞"
+      "Translation": "`理树@「对对」"
     },
     {
       "JP": "`クド@「………」",
       "EN": "`Kud@❝.........❞",
-      "Translation": "`Kud@❝.........❞"
+      "Translation": "`库特@「………」"
     },
     {
       "JP": "クドはそろそろと指を伸ばした。",
       "EN": "She finally pointed.",
-      "Translation": "She finally pointed."
+      "Translation": "库特慢慢伸出了手指。"
     },
     {
       "JP": "`理樹@「うん？」",
       "EN": "`Riki@❝Huh?❞",
-      "Translation": "`Riki@❝Huh?❞"
+      "Translation": "`理树@「嗯？」"
     },
     {
       "JP": "`クド@「えっと…その…」",
       "EN": "`Kud@❝Ummm... well...❞",
-      "Translation": "`Kud@❝Ummm... well...❞"
+      "Translation": "`库特@「那个…那个…」"
     },
     {
       "JP": "指先。僕の背後。振り返る。",
       "EN": "Her finger was pointed at me. I turned around.",
-      "Translation": "Her finger was pointed at me. I turned around."
+      "Translation": "指尖指向。我身后。我回过头。"
     },
     {
       "JP": "`理樹@「……」",
       "EN": "`Riki@❝......❞",
-      "Translation": "`Riki@❝......❞"
+      "Translation": "`理树@「……」"
     },
     {
       "JP": "教室には誰もいない。",
       "EN": "There was no one else in the classroom.",
-      "Translation": "There was no one else in the classroom."
+      "Translation": "教室里没有其他人。"
     },
     {
       "JP": "視線を戻してみた。",
       "EN": "I looked back at her.",
-      "Translation": "I looked back at her."
+      "Translation": "再次看向她。"
     },
     {
       "JP": "クドの指先がかわいらしくぷるぷる震えていた。",
       "EN": "Her finger was shaking cutely.",
-      "Translation": "Her finger was shaking cutely."
+      "Translation": "库特的小手指可爱地颤抖着。"
     },
     {
       "JP": "`理樹@「？」",
       "EN": "`Riki@❝?❞",
-      "Translation": "`Riki@❝?❞"
+      "Translation": "`理树@「？」"
     },
     {
       "JP": "片手で握ってみる。",
       "EN": "I grabbed it with one hand.",
-      "Translation": "I grabbed it with one hand."
+      "Translation": "我用一只手握住。"
     },
     {
       "JP": "`クド@「わふー」",
       "EN": "`Kud@❝Wafuu!❞",
-      "Translation": "`Kud@❝Wafuu!❞"
+      "Translation": "`库特@「哇呼～」"
     },
     {
       "JP": "ぱたぱた、と尻尾が見えそうなぐらいわんこっぽかった。",
       "EN": "She was like a dog wagging her tail.",
-      "Translation": "She was like a dog wagging her tail."
+      "Translation": "啪嗒啪嗒，她简直像条摇着尾巴的小狗。"
     },
     {
       "JP": "`理樹@「というか僕？」",
       "EN": "`Riki@❝You mean me?❞",
-      "Translation": "`Riki@❝You mean me?❞"
+      "Translation": "`理树@「所以是我吗？」"
     },
     {
       "JP": "`クド@「……」",
       "EN": "`Kud@❝......❞",
-      "Translation": "`Kud@❝......❞"
+      "Translation": "`库特@「……」"
     },
     {
       "JP": "クドはこくこくと頷いている。",
       "EN": "She nodded in the affirmative.",
-      "Translation": "She nodded in the affirmative."
+      "Translation": "库特用力地点了点头。"
     },
     {
       "JP": "`理樹@「いや僕は手伝うから大丈夫だよ」",
       "EN": "`Riki@❝I'm going to help, so that's fine.❞",
-      "Translation": "`Riki@❝I'm going to help, so that's fine.❞"
+      "Translation": "`理树@「不，我会帮忙的没关系啦」"
     },
     {
       "JP": "`理樹@「それ以外に誰かってことなんだけど…」",
       "EN": "`Riki@❝But who else besides me, I meant...❞",
-      "Translation": "`Riki@❝But who else besides me, I meant...❞"
+      "Translation": "`理树@「我是问除了我之外还有谁…」"
     },
     {
       "JP": "`クド@「え！」",
       "EN": "`Kud@❝Eh!❞",
-      "Translation": "`Kud@❝Eh!❞"
+      "Translation": "`库特@「诶！」"
     },
     {
       "JP": "`クド@「わ、わわ、わわわっ」",
       "EN": "`Kud@❝Wa, w-wa, w-w-wa...❞",
-      "Translation": "`Kud@❝Wa, w-wa, w-w-wa...❞"
+      "Translation": "`库特@「哇、哇哇、哇哇哇！」"
     },
     {
       "JP": "`クド@「そそそ、そういう意味でしたかっ」",
       "EN": "`Kud@❝T-t-that's what you meant?❞",
-      "Translation": "`Kud@❝T-t-that's what you meant?❞"
+      "Translation": "`库特@「原、原来是这个意思啊！」"
     },
     {
       "JP": "`理樹@「……？」",
       "EN": "`Riki@❝......?❞",
-      "Translation": "`Riki@❝......?❞"
+      "Translation": "`理树@「……？」"
     },
     {
       "JP": "`クド@「す、すみません、また勘違いです、ごめんなさいーっ」",
       "EN": "`Kud@❝S-sorry, I misunderstood again. I'm sorry.❞",
-      "Translation": "`Kud@❝S-sorry, I misunderstood again. I'm sorry.❞"
+      "Translation": "`库特@「对、对不起，我又误会了！对不起——！」"
     },
     {
       "JP": "`クド@「…すぅー…はぁー」",
       "EN": "`Kud@❝...su... haa...❞",
-      "Translation": "`Kud@❝...su... haa...❞"
+      "Translation": "`库特@「…呼——…哈——」"
     },
     {
       "JP": "`クド@「……ふぅ」",
       "EN": "`Kud@❝......fuu.❞",
-      "Translation": "`Kud@❝......fuu.❞"
+      "Translation": "`库特@「……呼」"
     },
     {
       "JP": "`クド@「…落ち着きました」",
       "EN": "`Kud@❝...I'm calm.❞",
-      "Translation": "`Kud@❝...I'm calm.❞"
+      "Translation": "`库特@「…冷静下来了」"
     },
     {
       "JP": "`理樹@「うん、で、誰にしようか」",
       "EN": "`Riki@❝Okay, well, who will it be?❞",
-      "Translation": "`Riki@❝Okay, well, who will it be?❞"
+      "Translation": "`理树@「嗯，那决定一下要和谁吧」"
     },
     {
       "JP": "`クド@「佳奈多さんにお願いしてみましょう」",
       "EN": "`Kud@❝Let's ask Kanata-san.❞",
-      "Translation": "`Kud@❝Let's ask Kanata-san.❞"
+      "Translation": "`库特@「佳奈多同学，我们去问问她吧。」"
     },
     {
       "JP": "`理樹@「二木さん…か」",
       "EN": "`Riki@❝Futaki-san...?❞",
-      "Translation": "`Riki@❝Futaki-san...?❞"
+      "Translation": "`理树@「二木同学……吗？」"
     },
     {
       "JP": "`クド@「昨日も問題集開いてたら、教えてくれましたし」",
       "EN": "`Kud@❝She helped me with my workbook yesterday.❞",
-      "Translation": "`Kud@❝She helped me with my workbook yesterday.❞"
+      "Translation": "`库特@「昨天我打开习题集的时候，她还教了我一些东西呢。」"
     },
     {
       "JP": "`理樹@「へぇ、そうなんだ…」",
       "EN": "`Riki@❝Wow, really...?❞",
-      "Translation": "`Riki@❝Wow, really...?❞"
+      "Translation": "`理树@「诶，是吗……？」"
     },
     {
       "JP": "ちょっと意外。",
       "EN": "That's a little unexpected.",
-      "Translation": "That's a little unexpected."
+      "Translation": "有点意外。"
     },
     {
       "JP": "`理樹@「ま、クドがいいならそれでいいよ」",
       "EN": "`Riki@❝Well if it's okay with you, than it's okay with me.❞",
-      "Translation": "`Riki@❝Well if it's okay with you, than it's okay with me.❞"
+      "Translation": "`理树@「嘛，如果库特觉得可以，那就没问题啦。」"
     },
     {
       "JP": "`理樹@「でも僕は二木さんの携帯アドレスとか知らないなぁ」",
       "EN": "`Riki@❝But I don't have Futaki-san's mail address.❞",
-      "Translation": "`Riki@❝But I don't have Futaki-san's mail address.❞"
+      "Translation": "`理树@「不过我可不知道二木的手机邮箱地址呢。」"
     },
     {
       "JP": "`クド@「では私が連絡しますね。えーと、教えてくれませんか、っと」",
       "EN": "`Kud@❝I'll contact her. Umm, ❛Will you teach me?❜❞",
-      "Translation": "`Kud@❝I'll contact her. Umm, ❛Will you teach me?❜❞"
+      "Translation": "`库特@「那我来联系吧。嗯……‘可以教教我吗’，这样发过去就好了。」"
     },
     {
       "JP": "`クド@「送信送信」",
       "EN": "`Kud@❝Sent, sent.❞",
-      "Translation": "`Kud@❝Sent, sent.❞"
+      "Translation": "`库特@「发送，发送。」"
     },
     {
       "JP": "ぴこーぴこー。",
       "EN": "*Piko- piko-*.",
-      "Translation": "*Piko- piko-*."
+      "Translation": "哔啵ー哔啵ー。"
     },
     {
       "JP": "`理樹@「なっ、何!?」",
       "EN": "`Riki@❝W-what the!?❞",
-      "Translation": "`Riki@❝W-what the!?❞"
+      "Translation": "`理树@「什、什么！？」"
     },
     {
       "JP": "`クド@「着信着信ー」",
       "EN": "`Kud@❝Received, received.❞",
-      "Translation": "`Kud@❝Received, received.❞"
+      "Translation": "`库特@「收到，收到咯～」"
     },
     {
       "JP": "…変な着信音だ…。",
       "EN": "...that was a weird notification sound...",
-      "Translation": "...that was a weird notification sound..."
+      "Translation": "……好奇怪的铃声……。"
     },
     {
       "JP": "`クド@「『おーけー・ほえあー』だそうです」",
       "EN": "`Kud@❝It says ❛Oke, hwere?❜❞",
-      "Translation": "`Kud@❝It says ❛Oke, hwere?❜❞"
+      "Translation": "`库特@「‘OK・哪里都可以’，是这么回的哦。」"
     },
     {
       "JP": "`理樹@「二木さんの都合のいい場所でいいんじゃない？」",
       "EN": "`Riki@❝How about wherever is convenient for her?❞",
-      "Translation": "`Riki@❝How about wherever is convenient for her?❞"
+      "Translation": "`理树@「那就二木同学觉得方便的地方吧？」"
     },
     {
       "JP": "`クド@「らじゃーです。返信、っと……」",
       "EN": "`Kud@❝Raja-. Reply sent.....❞",
-      "Translation": "`Kud@❝Raja-. Reply sent.....❞"
+      "Translation": "`库特@「了解！我回复一下……」"
     },
     {
       "JP": "ぴこー。",
       "EN": "*Piko-*.",
-      "Translation": "*Piko-*."
+      "Translation": "哔啵ー。"
     },
     {
       "JP": "`理樹@「早っ！」",
       "EN": "`Riki@❝Quick!❞",
-      "Translation": "`Riki@❝Quick!❞"
+      "Translation": "`理树@「好快啊！」"
     },
     {
       "JP": "`クド@「寮長室にいるらしいです」",
       "EN": "`Kud@❝She's in the dorm heads' room.❞",
-      "Translation": "`Kud@❝She's in the dorm heads' room.❞"
+      "Translation": "`库特@「她说她在宿管室。」"
     },
     {
       "JP": "`理樹@「そっか。じゃ行こうか」",
       "EN": "`Riki@❝Okay, let's go.❞",
-      "Translation": "`Riki@❝Okay, let's go.❞"
+      "Translation": "`理树@「这样啊，那就去吧。」"
     },
     {
       "JP": "`クド@「はいです」",
       "EN": "`Kud@❝Okay.❞",
-      "Translation": "`Kud@❝Okay.❞"
+      "Translation": "`库特@「好的。」"
     },
     {
       "JP": "というわけで寮長室に来た。",
       "EN": "And thus we came to the dorm heads' room.",
-      "Translation": "And thus we came to the dorm heads' room."
+      "Translation": "于是我们来到了宿管室。"
     },
     {
       "JP": "`クド@「失礼しますー」",
       "EN": "`Kud@❝Excuse us.❞",
-      "Translation": "`Kud@❝Excuse us.❞"
+      "Translation": "`库特@「打扰了～」"
     },
     {
       "JP": "`二木@「私しかいないから気にしないでいいわよ、クドリャフカ」",
       "EN": "`Futaki@❝I'm the only one here, so you can relax, Kudryavka.❞",
-      "Translation": "`Futaki@❝I'm the only one here, so you can relax, Kudryavka.❞"
+      "Translation": "`二木@「这里只有我，别在意，库特莉亚芙卡。」"
     },
     {
       "JP": "窓際にいた二木さんは、クドと僕たちに気がつくと振り返った。",
       "EN": "Futaki-san was sitting near the window and turned around when she noticed I was with Kud.",
-      "Translation": "Futaki-san was sitting near the window and turned around when she noticed I was with Kud."
+      "Translation": "坐在窗边的二木注意到我和库特后，回过了头。"
     },
     {
       "JP": "`クド@「寮長さんはどうされましたか？」",
       "EN": "`Kud@❝Where's the dorm head?❞",
-      "Translation": "`Kud@❝Where's the dorm head?❞"
+      "Translation": "`库特@「宿管怎么了吗？」"
     },
     {
       "JP": "`二木@「男子寮長と倉庫整理。私は留守番」",
       "EN": "`Futaki@❝She's organizing the storehouse with the male dorm head. I'm filling in.❞",
-      "Translation": "`Futaki@❝She's organizing the storehouse with the male dorm head. I'm filling in.❞"
+      "Translation": "`二木@「和男生宿管一起整理仓库。我在这里看家。」"
     },
     {
       "JP": "`クド@「わふ、お仕事中でしたか。それなら申し訳ないことを…」",
       "EN": "`Kud@❝Wafu, so you're working. I'm sorry, we'll be going...❞",
-      "Translation": "`Kud@❝Wafu, so you're working. I'm sorry, we'll be going...❞"
+      "Translation": "`库特@「哇呼，原来您在工作啊。那真是不好意思…」"
     },
     {
       "JP": "`二木@「ＯＫって書いたでしょクドリャフカ？」",
       "EN": "`Futaki@❝I said it was okay in the text, didn't I, Kudryavka?❞",
-      "Translation": "`Futaki@❝I said it was okay in the text, didn't I, Kudryavka?❞"
+      "Translation": "`二木@「我不是在短信里说‘可以’了吗，库特莉亚芙卡？」"
     },
     {
       "JP": "`二木@「つまらないことを気にするのはやめなさい」",
       "EN": "`Futaki@❝Stop worrying about trivial things.❞",
-      "Translation": "`Futaki@❝Stop worrying about trivial things.❞"
+      "Translation": "`二木@「别为无聊的事情操心。」"
     },
     {
       "JP": "二木さんの機嫌は良くも悪くもないようだ。",
       "EN": "Futaki-san didn't seem to be in either a good or bad mood.",
-      "Translation": "Futaki-san didn't seem to be in either a good or bad mood."
+      "Translation": "二木的心情似乎既不算好，也不算坏。"
     },
     {
       "JP": "`クド@「す、すみません」",
       "EN": "`Kud@❝I, I'm sorry.❞",
-      "Translation": "`Kud@❝I, I'm sorry.❞"
+      "Translation": "`库特@「真、真是对不起。」"
     },
     {
       "JP": "`二木@「はじめるわよ。さっさと座りなさい」",
       "EN": "`Futaki@❝Let's begin. Sit down.❞",
-      "Translation": "`Futaki@❝Let's begin. Sit down.❞"
+      "Translation": "`二木@「开始吧，赶紧坐下。」"
     },
     {
       "JP": "素っ気ないけれど、クドとの勉強には随分前向きっぽい。",
       "EN": "Her manners were curt, but she seemed rather proactive about Kud's studying.",
-      "Translation": "Her manners were curt, but she seemed rather proactive about Kud's studying."
+      "Translation": "虽然语气冷淡，但看起来她对和库特一起学习还是挺积极的。"
     },
     {
       "JP": "`クド@「はいです。机お借りしますねー」",
       "EN": "`Kud@❝Okay. I'll borrow this desk.❞",
-      "Translation": "`Kud@❝Okay. I'll borrow this desk.❞"
+      "Translation": "`库特@「好的，我借用一下桌子哦～」"
     },
     {
       "JP": "`クド@「リキ、机を寄せてください」",
       "EN": "`Kud@❝Riki, come over here.❞",
-      "Translation": "`Kud@❝Riki, come over here.❞"
+      "Translation": "`库特@「理树，帮我把桌子挪过来吧。」"
     },
     {
       "JP": "`理樹@「うん、了解」",
       "EN": "`Riki@❝Right, understood.❞",
-      "Translation": "`Riki@❝Right, understood.❞"
+      "Translation": "`理树@「嗯，明白了。」"
     },
     {
       "JP": "ずりずり。机を二木さんのそれとくっつける。",
       "EN": "I dragged my desk over next to Futaki-san's.",
-      "Translation": "I dragged my desk over next to Futaki-san's."
+      "Translation": "咯吱咯吱。我把桌子挪到了二木的桌子旁边。"
     },
     {
       "JP": "`二木@「で」",
       "EN": "`Futaki@❝So.❞",
-      "Translation": "`Futaki@❝So.❞"
+      "Translation": "`二木@「那么。」"
     },
     {
       "JP": "`クド@「？」",
       "EN": "`Kud@❝?❞",
-      "Translation": "`Kud@❝?❞"
+      "Translation": "`库特@「？」"
     },
     {
       "JP": "`二木@「どの教科をやるの？」",
       "EN": "`Futaki@❝Which subject do you want to go over?❞",
-      "Translation": "`Futaki@❝Which subject do you want to go over?❞"
+      "Translation": "`二木@「你想学哪一科？」"
     },
     {
       "JP": "`クド@「昨日の続きからやりたいので、化学にします」",
       "EN": "`Kud@❝Let's pick up where we left off yesterday, so chemistry.❞",
-      "Translation": "`Kud@❝Let's pick up where we left off yesterday, so chemistry.❞"
+      "Translation": "`库特@「我想从昨天学到的地方继续，所以选化学吧。」"
     },
     {
       "JP": "`二木@「化学ね…」",
       "EN": "`Futaki@❝Chemistry, huh...❞",
-      "Translation": "`Futaki@❝Chemistry, huh...❞"
+      "Translation": "`二木@「化学啊…」"
     },
     {
       "JP": "鞄を開く二木さん。参考書と教科書を取りだした。",
       "EN": "Futaki-san opened her bag and took out some reference materials and a textbook.",
-      "Translation": "Futaki-san opened her bag and took out some reference materials and a textbook."
+      "Translation": "二木打开包，取出了参考书和教科书。"
     },
     {
       "JP": "`二木@「…なに？」",
       "EN": "`Futaki@❝...what?❞",
-      "Translation": "`Futaki@❝...what?❞"
+      "Translation": "`二木@「…怎么了？」"
     },
     {
       "JP": "`理樹@「べ、別になんでもないよ…」",
       "EN": "`Riki@❝I-it's nothing...❞",
-      "Translation": "`Riki@❝I-it's nothing...❞"
+      "Translation": "`理树@「没、没什么…」"
     },
     {
       "JP": "`理樹@「二木さんもテスト受けるの？」",
       "EN": "`Riki@❝Are you taking the test too?❞",
-      "Translation": "`Riki@❝Are you taking the test too?❞"
+      "Translation": "`理树@「二木也要参加考试吗？」"
     },
     {
       "JP": "`二木@「……」",
       "EN": "`Futaki@❝......❞",
-      "Translation": "`Futaki@❝......❞"
+      "Translation": "`二木@「……」"
     },
     {
       "JP": "`理樹@「二木さん？」",
       "EN": "`Riki@❝Futaki-san?❞",
-      "Translation": "`Riki@❝Futaki-san?❞"
+      "Translation": "`理树@「二木同学？」"
     },
     {
       "JP": "ルーズリーフを数枚クドに渡しながら二木さんは首を振った。",
       "EN": "She shook her head while handing some loose leaf papers to Kud.",
-      "Translation": "She shook her head while handing some loose leaf papers to Kud."
+      "Translation": "二木一边递给库特几张活页纸，一边摇了摇头。"
     },
     {
       "JP": "`二木@「受けないわよ。こんなテストは何回受けても無意味だもの」",
       "EN": "`Futaki@❝I'm not. These tests are pointless.❞",
-      "Translation": "`Futaki@❝I'm not. These tests are pointless.❞"
+      "Translation": "`二木@「我不考。这种考试考多少次都没有意义。」"
     },
     {
       "JP": "`理樹@「そ、そうなんだ」",
       "EN": "`Riki@❝Y-yeah.❞",
-      "Translation": "`Riki@❝Y-yeah.❞"
+      "Translation": "`理树@「是、是这样啊。」"
     },
     {
       "JP": "`クド@「佳奈多さんは普段から予習復習ばっちりですからねぇ」",
       "EN": "`Kud@❝Kanata-san always prepares and reviews for class.❞",
-      "Translation": "`Kud@❝Kanata-san always prepares and reviews for class.❞"
+      "Translation": "`库特@「佳奈多同学平时复习和预习都做得很到位呢。」"
     },
     {
       "JP": "`クド@「こう見えて努力家なんですよ」",
       "EN": "`Kud@❝She doesn't look it, but she's a hard worker.❞",
-      "Translation": "`Kud@❝She doesn't look it, but she's a hard worker.❞"
+      "Translation": "`库特@「别看她这样，其实很努力的。」"
     },
     {
       "JP": "`二木@「こう見えてって何よ。どう見えるのよ」",
       "EN": "`Futaki@❝What do you mean ❛she doesn't look it❜? What do I look like to you?❞",
-      "Translation": "`Futaki@❝What do you mean ❛she doesn't look it❜? What do I look like to you?❞"
+      "Translation": "`二木@「别看这样是什么意思？我看起来怎么样？」"
     },
     {
       "JP": "`クド@「あはは」",
       "EN": "`Kud@❝Ahaha.❞",
-      "Translation": "`Kud@❝Ahaha.❞"
+      "Translation": "`库特@「啊哈哈。」"
     },
     {
       "JP": "`二木@「笑って誤魔化さないの」",
       "EN": "`Futaki@❝Don't just laugh it off.❞",
-      "Translation": "`Futaki@❝Don't just laugh it off.❞"
+      "Translation": "`二木@「别用笑来敷衍我。」"
     },
     {
       "JP": "`二木@「予習復習は最低限度の努力でしょう」",
       "EN": "`Futaki@❝Preparation and review are the very basics of studying.❞",
-      "Translation": "`Futaki@❝Preparation and review are the very basics of studying.❞"
+      "Translation": "`二木@「预习和复习是最基本的努力。」"
     },
     {
       "JP": "`二木@「当たり前のことよ」",
       "EN": "`Futaki@❝It's only natural to be able to do them.❞",
-      "Translation": "`Futaki@❝It's only natural to be able to do them.❞"
+      "Translation": "`二木@「是理所当然的事情。」"
     },
     {
       "JP": "`クド@「当たり前のことを当たり前のように出来るということはすごいことなのですよ」",
       "EN": "`Kud@❝Being able to do those basic things is no small feat.❞",
-      "Translation": "`Kud@❝Being able to do those basic things is no small feat.❞"
+      "Translation": "`库特@「能把理所当然的事情做到理所当然，这本身就是很了不起的事情哦。」"
     },
     {
       "JP": "`クド@「当たり前のことが当たり前ではないこと、というのは」",
       "EN": "`Kud@❝Sometimes, something that seems basic in fact isn't.❞",
-      "Translation": "`Kud@❝Sometimes, something that seems basic in fact isn't.❞"
+      "Translation": "`库特@「所谓理所当然的事情并不一定是理所当然的。」"
     },
     {
       "JP": "`クド@「案外どこにでもあるものですから」",
       "EN": "`Kud@❝It happens a lot more often than you'd think.❞",
-      "Translation": "`Kud@❝It happens a lot more often than you'd think.❞"
+      "Translation": "`库特@「这种事情其实在很多地方都存在。」"
     },
     {
       "JP": "`クド@「自分では気がつかないものです」",
       "EN": "`Kud@❝It's just that we don't usually give it much thought.❞",
-      "Translation": "`Kud@❝It's just that we don't usually give it much thought.❞"
+      "Translation": "`库特@「只是自己没有注意到罢了。」"
     },
     {
       "JP": "`二木@「…そういうものかしら？」",
       "EN": "`Futaki@❝...is that how it is?❞",
-      "Translation": "`Futaki@❝...is that how it is?❞"
+      "Translation": "`二木@「…是这样的吗？」"
     },
     {
       "JP": "`クド@「そういうものです。だから佳奈多さんはすごいのですよ」",
       "EN": "`Kud@❝It is. That's why you're incredible, Kanata-san.❞",
-      "Translation": "`Kud@❝It is. That's why you're incredible, Kanata-san.❞"
+      "Translation": "`库特@「就是这样的。所以佳奈多同学很厉害哦。」"
     },
     {
       "JP": "二木さんは無言で肩をすくめた。",
       "EN": "Futaki-san said nothing and shrugged her shoulders.",
-      "Translation": "Futaki-san said nothing and shrugged her shoulders."
+      "Translation": "二木无言地耸了耸肩。"
     },
     {
       "JP": "`クド@「…？　何かおかしいこと、言いましたか？」",
       "EN": "`Kud@❝...? Did I say something weird?❞",
-      "Translation": "`Kud@❝...? Did I say something weird?❞"
+      "Translation": "`库特@「……？我说了什么奇怪的话吗？」"
     },
     {
       "JP": "`二木@「別に。…あなたも化学でいいの？」",
       "EN": "`Futaki@❝You didn't... are you okay with chemistry too?❞",
-      "Translation": "`Futaki@❝You didn't... are you okay with chemistry too?❞"
+      "Translation": "`二木@「没有。…你也选化学吗？」"
     },
     {
       "JP": "二木さんは僕に訊ねる。",
       "EN": "Futaki-san was asking me.",
-      "Translation": "Futaki-san was asking me."
+      "Translation": "二木问了我。"
     },
     {
       "JP": "`理樹@「うん。クドがしたい科目でいいよ」",
       "EN": "`Riki@❝Sure. Whatever Kud wants to do is fine.❞",
-      "Translation": "`Riki@❝Sure. Whatever Kud wants to do is fine.❞"
+      "Translation": "`理树@「嗯。库特想学什么都可以。」"
     },
     {
       "JP": "`二木@「別に。…直枝も化学でいいの？」",
       "EN": "`Futaki@❝You didn't... are you okay with chemistry too, Naoe?❞",
-      "Translation": "`Futaki@❝You didn't... are you okay with chemistry too, Naoe?❞"
+      "Translation": "`二木@「不是。…直枝你也选化学吗？」"
     },
     {
       "JP": "二木さんは僕に訊ねる。",
       "EN": "Futaki-san was asking me.",
-      "Translation": "Futaki-san was asking me."
+      "Translation": "二木问了我。"
     },
     {
       "JP": "`理樹@「うん。クドがしたい科目でいいよ」",
       "EN": "`Riki@❝Sure. Whatever Kud wants to do is fine.❞",
-      "Translation": "`Riki@❝Sure. Whatever Kud wants to do is fine.❞"
+      "Translation": "`理树@「嗯。库特想学什么都可以。」"
     },
     {
       "JP": "あれ？　苗字呼び捨てにされた…？",
       "EN": "What? She's calling me by just my family name with no honorific now?",
-      "Translation": "What? She's calling me by just my family name with no honorific now?"
+      "Translation": "咦？她直接叫我的姓了……？"
     },
     {
       "JP": "`二木@「主体性がないのね」",
       "EN": "`Futaki@❝You lack individuality.❞",
-      "Translation": "`Futaki@❝You lack individuality.❞"
+      "Translation": "`二木@「你真是没有主见啊。」"
     },
     {
       "JP": "`理樹@「……」",
       "EN": "`Riki@❝......❞",
-      "Translation": "`Riki@❝......❞"
+      "Translation": "`理树@「……」"
     },
     {
       "JP": "…ばっさりと斬られた。",
       "EN": "...She cut me down to size with a single stroke.",
-      "Translation": "...She cut me down to size with a single stroke."
+      "Translation": "…被毫不留情地批评了。"
     },
     {
       "JP": "`クド@「リキは私に付き合ってくれてるのですよ、佳奈多さん」",
       "EN": "`Kud@❝Riki is here to help me, Kanata-san.❞",
-      "Translation": "`Kud@❝Riki is here to help me, Kanata-san.❞"
+      "Translation": "`库特@「理树是陪我来的哦，佳奈多同学。」"
     },
     {
       "JP": "`二木@「おひとよしよね、ほんと。知ってるから、まぁいいけど」",
       "EN": "`Futaki@❝You're such a good Samaritan. Not like this is news to me, though.❞",
-      "Translation": "`Futaki@❝You're such a good Samaritan. Not like this is news to me, though.❞"
+      "Translation": "`二木@「你真是个老好人啊，真的。不过我早就知道了，所以没关系。」"
     },
     {
       "JP": "`二木@「じゃ、はじめましょうか」",
       "EN": "`Futaki@❝So, shall we begin?❞",
-      "Translation": "`Futaki@❝So, shall we begin?❞"
+      "Translation": "`二木@「那，开始吧。」"
     },
     {
       "JP": "三人で問題集を解きはじめた。",
       "EN": "The three of us started working on the workbook together.",
-      "Translation": "The three of us started working on the workbook together."
+      "Translation": "我们三个人开始解习题集。"
     },
     {
       "JP": "ひととおり問題を解き終わった。",
       "EN": "We went through and solved every problem.",
-      "Translation": "We went through and solved every problem."
+      "Translation": "我们解完了一轮习题。"
     },
     {
       "JP": "`クド@「とぅーわな・おぅわ・てぬわ・あうわ・にまうわ（いち・にぃ・さん・しぃ・ご）」",
       "EN": "`Kud@❝Teuana, uoua, tenua, aua, nimaua. (One, two, three, four, five.)❞ ",
-      "Translation": "`Kud@❝Teuana, uoua, tenua, aua, nimaua. (One, two, three, four, five.)❞ "
+      "Translation": "`库特@「Teuana, uoua, tenua, aua, nimaua（一・二・三・四・五）」"
     },
     {
       "JP": "クドが変な拍子をつけて正解を数えている。",
       "EN": "Kud was counting the correct answers at a strange tempo.",
-      "Translation": "Kud was counting the correct answers at a strange tempo."
+      "Translation": "库特用奇怪的节奏数着正确答案。"
     },
     {
       "JP": "`クド@「おのうわ・いすわ・わぬーわ・るあいわ・てう゛ぃーな（ろく・しち・はち・きゅう・じゅう）」",
       "EN": "`Kud@❝Onoua, itua, wanua, ruaiwa, tebwina. (Six, seven, eight, nine, ten.)❞",
-      "Translation": "`Kud@❝Onoua, itua, wanua, ruaiwa, tebwina. (Six, seven, eight, nine, ten.)❞"
+      "Translation": "`库特@「Onoua, itua, wanua, ruaiwa, tebwina（六・七・八・九・十）」"
     },
     {
       "JP": "どこか外国の数え歌なのだろうか。",
       "EN": "Maybe it was a counting song from some foreign country.",
-      "Translation": "Maybe it was a counting song from some foreign country."
+      "Translation": "这大概是某个国家的儿歌吧。"
     },
     {
       "JP": "謎だ。",
       "EN": "I had no idea.",
-      "Translation": "I had no idea."
+      "Translation": "真是让人摸不着头脑。"
     },
     {
       "JP": "`クド@「てう゛ぃーまとぅーわな、てう゛ぃーまおぅーわ、てう゛ぃーまてぬわ（じゅういち、じゅうに、じゅうさん）！」",
       "EN": "`Kud@❝Tebwi ma teuana, tebwi ma uoua, tebwi ma tenua! (Eleven, twelve, thirteen!)❞",
-      "Translation": "`Kud@❝Tebwi ma teuana, tebwi ma uoua, tebwi ma tenua! (Eleven, twelve, thirteen!)❞"
+      "Translation": "`库特@「Tebwi ma teuana, tebwi ma uoua, tebwi ma tenua（十一、十二、十三）！」"
     },
     {
       "JP": "`二木@「んー…大体いいんじゃない？」",
       "EN": "`Futaki@❝Hmm... this is pretty good, isn't it?❞",
-      "Translation": "`Futaki@❝Hmm... this is pretty good, isn't it?❞"
+      "Translation": "`二木@「嗯…大致可以了吧？」"
     },
     {
       "JP": "クドの解答欄をチェックしながら二木さんが言う。",
       "EN": "Futaki-san spoke as she checked Kud's answer sheet.",
-      "Translation": "Futaki-san spoke as she checked Kud's answer sheet."
+      "Translation": "二木一边检查着库特的答案栏，一边说道。"
     },
     {
       "JP": "`クド@「佳奈多さんとリキは全問正解ですね」",
       "EN": "`Kud@❝Kanata-san and Riki got perfect scores.❞",
-      "Translation": "`Kud@❝Kanata-san and Riki got perfect scores.❞"
+      "Translation": "`库特@「佳奈多同学和理树都全答对了呢。」"
     },
     {
       "JP": "`理樹@「難易度的には全部正解しないとね。単元必須問題だったし」",
       "EN": "`Riki@❝Considering the difficulty level, we had to get them all right. They're all required questions from class.❞",
-      "Translation": "`Riki@❝Considering the difficulty level, we had to get them all right. They're all required questions from class.❞"
+      "Translation": "`理树@「从难度上来说，确实得全对。毕竟是课程的必修题嘛。」"
     },
     {
       "JP": "`二木@「それとクドリャフカ、余白に要らないこと書くのやめなさい」",
       "EN": "`Futaki@❝Also Kudryavka, don't write unnecessary things in the margins.❞",
-      "Translation": "`Futaki@❝Also Kudryavka, don't write unnecessary things in the margins.❞"
+      "Translation": "`二木@「还有，库特莉亚芙卡，不要在空白处写一些没用的东西。」"
     },
     {
       "JP": "`二木@「テスト中に余計な事思いつかなくてもいいでしょ。メモは別のとこ書くとかしなさい」",
       "EN": "`Futaki@❝It's better not to think about other things during a test. Write notes to yourself elsewhere.❞",
-      "Translation": "`Futaki@❝It's better not to think about other things during a test. Write notes to yourself elsewhere.❞"
+      "Translation": "`二木@「考试的时候不要想些多余的事情。记笔记的话，写在别的地方。」"
     },
     {
       "JP": "`クド@「でも書かないと忘れちゃうのです」",
       "EN": "`Kud@❝But if I don't write them down, I'll forget.❞",
-      "Translation": "`Kud@❝But if I don't write them down, I'll forget.❞"
+      "Translation": "`库特@「可是，不写下来的话我会忘记的。」"
     },
     {
       "JP": "`二木@「だからといって」",
       "EN": "`Futaki@❝Nevertheless.❞",
-      "Translation": "`Futaki@❝Nevertheless.❞"
+      "Translation": "`二木@「即便如此。」"
     },
     {
       "JP": "クドの額を小突く。",
       "EN": "She poked Kud in the forehead.",
-      "Translation": "She poked Kud in the forehead."
+      "Translation": "她轻轻戳了戳库特的额头。"
     },
     {
       "JP": "`クド@「わふっ」",
       "EN": "`Kud@❝Wafuu!❞",
-      "Translation": "`Kud@❝Wafuu!❞"
+      "Translation": "`库特@「哇呼～」"
     },
     {
       "JP": "`二木@「解答欄がずれていることもチェックできてないのに時間の無駄でしょ」",
       "EN": "`Futaki@❝It's pointless if you don't have time to even check whether you marked the right lines on the answer sheet.❞",
-      "Translation": "`Futaki@❝It's pointless if you don't have time to even check whether you marked the right lines on the answer sheet.❞"
+      "Translation": "`二木@「连答案栏有偏差都没注意到，这就是在浪费时间吧。」"
     },
     {
       "JP": "`クド@「え、ずれてましたか…わっ！　ほ、ホントですーっ」",
       "EN": "`Kud@❝Eh, I was off a line...? Wah! I really was!❞",
-      "Translation": "`Kud@❝Eh, I was off a line...? Wah! I really was!❞"
+      "Translation": "`库特@「诶，偏了吗…哇！真、真的偏了！」"
     },
     {
       "JP": "`二木@「やれやれ…」",
       "EN": "`Futaki@❝Geez...❞",
-      "Translation": "`Futaki@❝Geez...❞"
+      "Translation": "`二木@「真是的…」"
     },
     {
       "JP": "`クド@「すみません…」",
       "EN": "`Kud@❝Sorry...❞",
-      "Translation": "`Kud@❝Sorry...❞"
+      "Translation": "`库特@「对不起…」"
     },
     {
       "JP": "`二木@「解答はあってるからいいんだけど、もっと注意しないとだめでしょ」",
       "EN": "`Futaki@❝It's okay since you got the answers right, but you need to be more careful.❞",
-      "Translation": "`Futaki@❝It's okay since you got the answers right, but you need to be more careful.❞"
+      "Translation": "`二木@「虽然答案没错还好，但是以后要更加注意哦。」"
     },
     {
       "JP": "`クド@「わふー…」",
       "EN": "`Kud@❝Wafuu...❞",
-      "Translation": "`Kud@❝Wafuu...❞"
+      "Translation": "`库特@「哇呼～…」"
     },
     {
       "JP": "クドはしょげている。",
       "EN": "Kud was disheartened.",
-      "Translation": "Kud was disheartened."
+      "Translation": "库特有些沮丧。"
     },
     {
       "JP": "`クド@「お茶、淹れてきます…」",
       "EN": "`Kud@❝I'll make some tea...❞",
-      "Translation": "`Kud@❝I'll make some tea...❞"
+      "Translation": "`库特@「我去泡茶…」"
     },
     {
       "JP": "しょんぼりしたままクドは立ち上がった。",
       "EN": "Still feeling down, she stood up.",
-      "Translation": "Still feeling down, she stood up."
+      "Translation": "库特一边垂头丧气地站了起来。"
     },
     {
       "JP": "部屋の角にある電気ポットに向かう。",
       "EN": "She headed to the electric kettle in the corner of the room.",
-      "Translation": "She headed to the electric kettle in the corner of the room."
+      "Translation": "她走向房间角落的电热水壶。"
     },
     {
       "JP": "それを見ながら二木さんは小さなため息を吐いた。",
       "EN": "Futaki-san watched her and let out a small sigh.",
-      "Translation": "Futaki-san watched her and let out a small sigh."
+      "Translation": "二木看着她，轻轻叹了一口气。"
     },
     {
       "JP": "問題解答集と比べてみる。",
       "EN": "I decided to compare the answer sheets.",
-      "Translation": "I decided to compare the answer sheets."
+      "Translation": "我决定对比一下答案集。"
     },
     {
       "JP": "クドのマークシートの並びは、５、２、１、４…。",
       "EN": "Kud's sheet had 5, 2, 1, 4...",
-      "Translation": "Kud's sheet had 5, 2, 1, 4..."
+      "Translation": "库特的答题卡上，排列是5、2、1、4…。"
     },
     {
       "JP": "正解は、２、１、４…あ、ほんとだ。",
       "EN": "The correct answers were 2, 1, 4.",
-      "Translation": "The correct answers were 2, 1, 4."
+      "Translation": "正确答案是2、1、4…啊，真的偏了。"
     },
     {
       "JP": "`理樹@「確かにずれてるね…」",
       "EN": "`Riki@❝She definitely was off a line...❞",
-      "Translation": "`Riki@❝She definitely was off a line...❞"
+      "Translation": "`理树@「确实是偏了啊…」"
     },
     {
       "JP": "`二木@「思考が時々明後日の方向へ飛んじゃうのが問題なのよ、あの子は」",
       "EN": "`Futaki@❝Her problem is that her mind often wanders.❞",
-      "Translation": "`Futaki@❝Her problem is that her mind often wanders.❞"
+      "Translation": "`二木@「问题是，她的思维有时候会飞到完全不相关的方向去。」"
     },
     {
       "JP": "呟きに視線を向けると、二木さんはそっぽを向いた。",
       "EN": "When I looked toward her muttering, Futaki-san was turned the other way.",
-      "Translation": "When I looked toward her muttering, Futaki-san was turned the other way."
+      "Translation": "听到她低声嘟囔，我看向她时，二木已经转过了头。"
     },
     {
       "JP": "独り言だったらしい。僕は聞こえなかったふりをして、紙を眺めた。",
       "EN": "Guess she was talking to herself. I pretended I hadn't heard her and stared at the paper.",
-      "Translation": "Guess she was talking to herself. I pretended I hadn't heard her and stared at the paper."
+      "Translation": "大概是在自言自语吧。我装作没听到，继续盯着纸张。"
     },
     {
       "JP": "`理樹@（クドは何を思いついたんだろ？）",
       "EN": "`Riki@(I wonder what Kud was thinking about?)",
-      "Translation": "`Riki@(I wonder what Kud was thinking about?)"
+      "Translation": "`理树@（库特到底在想些什么呢？）"
     },
     {
       "JP": "余白には化学式が大量に並んでいる。",
       "EN": "There were a lot of chemistry formulas in the margin.",
-      "Translation": "There were a lot of chemistry formulas in the margin."
+      "Translation": "空白处写满了化学式。"
     },
     {
       "JP": "`理樹@「ＮＨ４ＣｌＯ４……Ｎ２Ｈ４……」",
       "EN": "`Riki@❝NH4CI04...... N2H4......❞",
-      "Translation": "`Riki@❝NH4CI04...... N2H4......❞"
+      "Translation": "`理树@「NH4ClO4……N2H4……」"
     },
     {
       "JP": "`二木@「過塩素酸アンモニウムとヒドラジンね」",
       "EN": "`Futaki@❝Ammonium perchlorate and hydrazine.❞",
-      "Translation": "`Futaki@❝Ammonium perchlorate and hydrazine.❞"
+      "Translation": "`二木@「高氯酸铵和联氨。」"
     },
     {
       "JP": "僕の呟きに二木さんがぼそっと答えた。",
       "EN": "Futaki-san absent-mindedly responded to my mumbling.",
-      "Translation": "Futaki-san absent-mindedly responded to my mumbling."
+      "Translation": "我的喃喃自语被二木轻声接了下去。"
     },
     {
       "JP": "`二木@「ちなみに猛毒」",
       "EN": "`Futaki@❝In other words, deadly poisons.❞",
-      "Translation": "`Futaki@❝In other words, deadly poisons.❞"
+      "Translation": "`二木@「顺便一提，这些是剧毒物质。」"
     },
     {
       "JP": "`二木@「ロケットの燃料とかに使われるんだけど腐食性を持つ毒物よ」",
       "EN": "`Futaki@❝They can be used in rocket fuel, but they're corrosive poisons.❞",
-      "Translation": "`Futaki@❝They can be used in rocket fuel, but they're corrosive poisons.❞"
+      "Translation": "`二木@「虽然能用作火箭燃料，但它们是具有腐蚀性的毒物哦。」"
     },
     {
       "JP": "`理樹@「えぇー…なんでそんな物騒なものを」",
       "EN": "`Riki@❝Huh... why would she write down such dangerous things.❞",
-      "Translation": "`Riki@❝Huh... why would she write down such dangerous things.❞"
+      "Translation": "`理树@「诶——为什么会写下这么危险的东西呢。」"
     },
     {
       "JP": "化学式の下には数式の群れ。",
       "EN": "Under the chemistry formulas were a number of mathematical formulas.",
-      "Translation": "Under the chemistry formulas were a number of mathematical formulas."
+      "Translation": "化学式下方是一堆数学公式。"
     },
     {
       "JP": "『ΔＶ＝』から始まる式やら難しい記号が並んでいるものなどもある。",
       "EN": "There were a bunch of formulas with difficult symbols like ❝ΔV＝❞.",
-      "Translation": "There were a bunch of formulas with difficult symbols like ❝ΔV＝❞."
+      "Translation": "从『ΔV＝』开始，还有许多复杂的符号。"
     },
     {
       "JP": "`理樹@（さんかくぶい？　…違うか。これはデルタブイ？）",
       "EN": "`Riki@(Triangle V? ...no. Delta V?)",
-      "Translation": "`Riki@(Triangle V? ...no. Delta V?)"
+      "Translation": "`理树@（三角V？……不对。这是ΔV？）"
     },
     {
       "JP": "『Новый Спутник План（新スプートニク計画）』",
       "EN": "❝Новый Спутник План (New Sputnik mission.)❞",
-      "Translation": "❝Новый Спутник План (New Sputnik mission.)❞"
+      "Translation": "『Новый Спутник План（新斯普特尼克计划）』"
     },
     {
       "JP": "他にも読めない文字で走り書きがしてあったりする。",
       "EN": "There were also other characters I couldn't read scribbled there.",
-      "Translation": "There were also other characters I couldn't read scribbled there."
+      "Translation": "还有一些用我看不懂的文字潦草写下的东西。"
     },
     {
       "JP": "いずれにしろよくわからない。",
       "EN": "At any rate, I had no idea what they meant.",
-      "Translation": "At any rate, I had no idea what they meant."
+      "Translation": "总之看不太懂。"
     },
     {
       "JP": "どうやらテスト問題と全然関係ないことを思いついたので計算していたらしい。",
       "EN": "She seemed to have been doing calculations for things that had nothing to do with the test.",
-      "Translation": "She seemed to have been doing calculations for things that had nothing to do with the test."
+      "Translation": "她似乎是在思考一些和考试完全无关的事情，还做了计算。"
     },
     {
       "JP": "`二木@「…危険物取扱者試験のことでも考えていたんじゃないの？」",
       "EN": "`Futaki@❝She was probably thinking about the hazardous materials engineering test.❞",
-      "Translation": "`Futaki@❝She was probably thinking about the hazardous materials engineering test.❞"
+      "Translation": "`二木@「…可能是在想着危险物品处理考试的事情吧。」"
     },
     {
       "JP": "`二木@「暇なときはいろんな資格試験の本、見てるし、あの子」",
       "EN": "`Futaki@❝She looks over all kinds of certification test books in her free time.❞",
-      "Translation": "`Futaki@❝She looks over all kinds of certification test books in her free time.❞"
+      "Translation": "`二木@「她平时有空的时候，经常看各种资格考试的书。」"
     },
     {
       "JP": "`二木@「ねぇクドリャフカ？」",
       "EN": "`Futaki@❝Right, Kudryavka?❞",
-      "Translation": "`Futaki@❝Right, Kudryavka?❞"
+      "Translation": "`二木@「对吧，库特莉亚芙卡？」"
     },
     {
       "JP": "クドがお盆にマグカップをみっつ載せて戻ってきた。",
       "EN": "Kud put three mugs on a tray and brought them over.",
-      "Translation": "Kud put three mugs on a tray and brought them over."
+      "Translation": "库特端着托盘，上面放着三只马克杯回来了。"
     },
     {
       "JP": "`クド@「はい？　なんですか、佳奈多さん。あ、リキ、お茶どうぞ」",
       "EN": "`Kud@❝Yes? What is it, Kanata-san? Here's your tea, Riki.❞",
-      "Translation": "`Kud@❝Yes? What is it, Kanata-san? Here's your tea, Riki.❞"
+      "Translation": "`库特@「嗯？怎么了，佳奈多同学。啊，理树，给你茶哦。」"
     },
     {
       "JP": "`理樹@「ありがと、クド」",
       "EN": "`Riki@❝Thank you, Kud.❞",
-      "Translation": "`Riki@❝Thank you, Kud.❞"
+      "Translation": "`理树@「谢谢，库特。」"
     },
     {
       "JP": "`クド@「寮長室はすごいですねぇ。お茶がいっぱいです」",
       "EN": "`Kud@❝The dorm heads' room is amazing. There's all kinds of tea.❞",
-      "Translation": "`Kud@❝The dorm heads' room is amazing. There's all kinds of tea.❞"
+      "Translation": "`库特@「宿管室真厉害啊。茶叶种类好丰富。」"
     },
     {
       "JP": "`クド@「$K8玄米茶$K0に$K83梅こぶ茶$K0、抹茶にほうじ茶。どなたの趣味ですか？」",
       "EN": "`Kud@❝$K8Brown rice tea$K0, $K83plum kelp tea$K0, ceremonial green tea, roasted green tea. Whose collection is that?❞",
-      "Translation": "`Kud@❝$K8Brown rice tea$K0, $K83plum kelp tea$K0, ceremonial green tea, roasted green tea. Whose collection is that?❞"
+      "Translation": "`库特@「$K8玄米茶$K0、$K83梅昆布茶$K0、抹茶、焙茶。是谁的兴趣呢？」"
     },
     {
       "JP": "`二木@「寮長じゃないの？　あとは時々来ヶ谷さんも持ち込んでるみたいね」",
       "EN": "`Futaki@❝Aren't they the dorm head's? Kurugaya-san also occasionally brings some.❞",
-      "Translation": "`Futaki@❝Aren't they the dorm head's? Kurugaya-san also occasionally brings some.❞"
+      "Translation": "`二木@「应该是宿管的吧？还有时不时来谷同学也会带一些过来。」"
     },
     {
       "JP": "`クド@「寮長さんもお茶好きだったのですねぇ」",
       "EN": "`Kud@❝So the dorm head also likes tea.❞",
-      "Translation": "`Kud@❝So the dorm head also likes tea.❞"
+      "Translation": "`库特@「宿管也喜欢喝茶呀。」"
     },
     {
       "JP": "`クド@「今度、おすすめの茶葉を持ってきますね。お礼も兼ねてですけど」",
       "EN": "`Kud@❝I'll bring her some that I like next time. As a token of gratitude as well.❞",
-      "Translation": "`Kud@❝I'll bring her some that I like next time. As a token of gratitude as well.❞"
+      "Translation": "`库特@「下次我带些我喜欢的茶叶过来吧，也算是表达谢意。」"
     },
     {
       "JP": "`二木@「持ってくるなら多めに持ってきてくれないかしら、クドリャフカ。一袋じゃなくって」",
       "EN": "`Futaki@❝If you do bring some, can I ask you to bring more than one bag, Kudryavka?❞",
-      "Translation": "`Futaki@❝If you do bring some, can I ask you to bring more than one bag, Kudryavka?❞"
+      "Translation": "`二木@「如果要带的话，能不能多带一些，库特莉亚芙卡？不要只带一袋。」"
     },
     {
       "JP": "`クド@「はい、それは構いませんよ…」",
       "EN": "`Kud@❝Okay, I don't mind...❞",
-      "Translation": "`Kud@❝Okay, I don't mind...❞"
+      "Translation": "`库特@「好，没问题…」"
     },
     {
       "JP": "`クド@「…それでなんでしたか？　試験の話です？」",
       "EN": "`Kud@❝...So what was it? About the test?❞",
-      "Translation": "`Kud@❝...So what was it? About the test?❞"
+      "Translation": "`库特@「…所以，刚才说的是什么？考试的事情吗？」"
     },
     {
       "JP": "`二木@「資格試験の話よ。最近どの試験の参考書見てるんだっけ？」",
       "EN": "`Futaki@❝We're talking about the certification exams. What kind of tests were the reference books you've been looking at recently for?❞",
-      "Translation": "`Futaki@❝We're talking about the certification exams. What kind of tests were the reference books you've been looking at recently for?❞"
+      "Translation": "`二木@「是资格考试的事情。最近你都在看哪方面的考试参考书来着？」"
     },
     {
       "JP": "`クド@「最近ですか？　えーと、火薬物や危険薬物取扱のと漢字能力試験です」",
       "EN": "`Kud@❝Recently? Ummm, the test for being an Explosive and Hazardous Materials Engineer, and the Kanji Proficiency Test.❞",
-      "Translation": "`Kud@❝Recently? Ummm, the test for being an Explosive and Hazardous Materials Engineer, and the Kanji Proficiency Test.❞"
+      "Translation": "`库特@「最近吗？嗯…是火药物品和危险药物处理的，还有汉字能力考试。」"
     },
     {
       "JP": "なんだか違和感のある組み合わせだ…そうでもないのか？",
       "EN": "Now, that sure is a strange combination... Isn't it?",
-      "Translation": "Now, that sure is a strange combination... Isn't it?"
+      "Translation": "这真是个奇怪的组合…或者也不算奇怪？"
     },
     {
       "JP": "`理樹@「難しそうだね、それ。国家試験じゃないの？」",
       "EN": "`Riki@❝Sounds difficult. Aren't they national exams?❞",
-      "Translation": "`Riki@❝Sounds difficult. Aren't they national exams?❞"
+      "Translation": "`理树@「听起来很难啊，那不是国家考试吗？」"
     },
     {
       "JP": "`クド@「私の暇つぶしなのです、資格試験参考書の流し読み」",
       "EN": "`Kud@❝It's how I kill time. Skimming certification test reference books.❞",
-      "Translation": "`Kud@❝It's how I kill time. Skimming certification test reference books.❞"
+      "Translation": "`库特@「这是我的消遣方式哦，随便翻阅一下资格考试的参考书。」"
     },
     {
       "JP": "`クド@「知識を増やしていく趣味、のようなものでしょうか」",
       "EN": "`Kud@❝Learning new things is something of a hobby of mine.❞",
-      "Translation": "`Kud@❝Learning new things is something of a hobby of mine.❞"
+      "Translation": "`库特@「扩展知识算是一种兴趣吧。」"
     },
     {
       "JP": "`クド@「料理のレシピを増やしていくのと同じ感じなんですけど…」",
       "EN": "`Kud@❝For me, it's similar to learning new cooking recipes...❞",
-      "Translation": "`Kud@❝For me, it's similar to learning new cooking recipes...❞"
+      "Translation": "`库特@「就像是增加料理的食谱一样的感觉…」"
     },
     {
       "JP": "`クド@「変ですか？」",
       "EN": "`Kud@❝Is that weird?❞",
-      "Translation": "`Kud@❝Is that weird?❞"
+      "Translation": "`库特@「很奇怪吗？」"
     },
     {
       "JP": "`理樹@「あー、うん。まぁ、そういう趣味もありかもね」",
       "EN": "`Riki@❝Umm, nope, I guess there's nothing wrong about having a hobby like this.❞",
-      "Translation": "`Riki@❝Umm, nope, I guess there's nothing wrong about having a hobby like this.❞"
+      "Translation": "`理树@「啊——嗯，嘛，这样的兴趣也不错吧。」"
     },
     {
       "JP": "実用的だし。",
       "EN": "It was very practical.",
-      "Translation": "It was very practical."
+      "Translation": "很实用。"
     },
     {
       "JP": "クドの頭の中では、実力テストみたいな学科試験とは別腹扱いらしい。",
       "EN": "I guess for Kud, certification exams and school tests weren't quite the same thing.",
-      "Translation": "I guess for Kud, certification exams and school tests weren't quite the same thing."
+      "Translation": "在库特的脑海中，似乎把资格考试和类似能力测试的学科考试分开来对待了。"
     },
     {
       "JP": "`クド@「資格試験はマークシートばかりで大変そうですよね」",
       "EN": "`Kud@❝Certification tests only use bubble sheets, so I have trouble with them.❞",
-      "Translation": "`Kud@❝Certification tests only use bubble sheets, so I have trouble with them.❞"
+      "Translation": "`库特@「资格考试大多是选择题，看起来很麻烦呢。」"
     },
     {
       "JP": "`二木@「だから、解答欄ずれちゃうっていう癖はなんとかしなさいよ、クドリャフカ？」",
       "EN": "`Futaki@❝That's why you need to do something about your tendency to miss lines, Kudryavka.❞",
-      "Translation": "`Futaki@❝That's why you need to do something about your tendency to miss lines, Kudryavka.❞"
+      "Translation": "`二木@「所以啊，库特莉亚芙卡，你得改掉答题卡对不齐的毛病！」"
     },
     {
       "JP": "`二木@「資格試験のとき、困るわよ」",
       "EN": "`Futaki@❝It'll be a problem during certification exams.❞",
-      "Translation": "`Futaki@❝It'll be a problem during certification exams.❞"
+      "Translation": "`二木@「不然资格考试的时候会有麻烦的哦。」"
     },
     {
       "JP": "`二木@「あと問題以外のことは考えないこと。わかった？」",
       "EN": "`Futaki@❝Also, don't think about things other than the questions. Do you understand?❞",
-      "Translation": "`Futaki@❝Also, don't think about things other than the questions. Do you understand?❞"
+      "Translation": "`二木@「还有，考试时不要想题目以外的事情。明白了吗？」"
     },
     {
       "JP": "`クド@「はぁい…すみません」",
       "EN": "`Kud@❝Yes... I'm sorry.❞",
-      "Translation": "`Kud@❝Yes... I'm sorry.❞"
+      "Translation": "`库特@「好…对不起。」"
     },
     {
       "JP": "ずずー。クドはお茶を飲んでいる。",
       "EN": "*Sip*. Kud drank her tea.",
-      "Translation": "*Sip*. Kud drank her tea."
+      "Translation": "嘶——。库特正在喝茶。"
     },
     {
       "JP": "`クド@「はぁ。お茶はいいですねぇお茶は」",
       "EN": "`Kud@❝Ah, nothing like some tea.❞",
-      "Translation": "`Kud@❝Ah, nothing like some tea.❞"
+      "Translation": "`库特@「啊～。茶真是好东西啊～。」"
     },
     {
       "JP": "二木さんはため息を吐いた。呆れているようだ。",
       "EN": "Futaki-san let out a sigh. She seemed astounded.",
-      "Translation": "Futaki-san let out a sigh. She seemed astounded."
+      "Translation": "二木叹了口气，似乎有些无奈。"
     },
     {
       "JP": "そういえば二木さんの雰囲気は少し違ったように感じられる。",
       "EN": "Come to think of it, Futaki-san seemed a little different today.",
-      "Translation": "Come to think of it, Futaki-san seemed a little different today."
+      "Translation": "说起来，总觉得二木的气场有些不一样。"
     },
     {
       "JP": "きっとクドの影響なのだろう。",
       "EN": "It was definitely Kud's influence.",
-      "Translation": "It was definitely Kud's influence."
+      "Translation": "一定是受了库特的影响吧。"
     },
     {
       "JP": "`クド@「では続きを再開しましょう」",
       "EN": "`Kud@❝Let's get back to it.❞",
-      "Translation": "`Kud@❝Let's get back to it.❞"
+      "Translation": "`库特@「那么继续开始吧。」"
     },
     {
       "JP": "飲み終わったマグカップを置くと、クドは宣言する。",
       "EN": "Kud made this declaration as she finished her drink and put her mug down.",
-      "Translation": "Kud made this declaration as she finished her drink and put her mug down."
+      "Translation": "放下喝完的马克杯后，库特这样说道。"
     },
     {
       "JP": "`理樹@「あと数ページだね。片付けちゃおう」",
       "EN": "`Riki@❝There are still a few pages left. Let's finish up.❞",
-      "Translation": "`Riki@❝There are still a few pages left. Let's finish up.❞"
+      "Translation": "`理树@「还剩几页呢，快解决掉吧。」"
     },
     {
       "JP": "`クド@「ラジャー」",
       "EN": "`Kud@❝Roja-.❞",
-      "Translation": "`Kud@❝Roja-.❞"
+      "Translation": "`库特@「收到！」"
     },
     {
       "JP": "そうして化学の勉強を続けた。",
       "EN": "We continued studying chemistry.",
-      "Translation": "We continued studying chemistry."
+      "Translation": "于是我们继续学习化学。"
     },
     {
       "JP": "`クド@「では、あとは女子寮で皆さんと勉強会をすることにします」",
@@ -6128,7 +6128,7 @@
     {
       "JP": "`理樹@（器用だな…）",
       "EN": "`Riki@(She's doing that so well...)",
-      "Translation": "理树（还挺行的么…）"
+      "Translation": "`理树@（还挺行的么…）"
     },
     {
       "JP": "というより、テレビで見たことのある光景そっくりだった。",
@@ -7053,487 +7053,487 @@
     {
       "JP": "昨日の疑問が気になる…。",
       "EN": "I'm worried about the question from yesterday...",
-      "Translation": "I'm worried about the question from yesterday..."
+      "Translation": "我很在意昨天的问题…。"
     },
     {
       "JP": "調べに図書館へ行ってみよう。",
       "EN": "I'm gonna go to the library and check.",
-      "Translation": "I'm gonna go to the library and check."
+      "Translation": "去图书馆查一下吧。"
     },
     {
       "JP": "`理樹@「クド、ちょっと図書館行ってくるね」",
       "EN": "`Riki@❝Kud, I'm gonna go to the library for a bit.❞",
-      "Translation": "`Riki@❝Kud, I'm gonna go to the library for a bit.❞"
+      "Translation": "`理树@「库特，我去一趟图书馆」"
     },
     {
       "JP": "`クド@「いってらっしゃいですー」",
       "EN": "`Kud@❝See ya.❞",
-      "Translation": "`Kud@❝See ya.❞"
+      "Translation": "`库特@「一路小心～」"
     },
     {
       "JP": "`クド@「けふけふっ」",
       "EN": "`Kud@❝*Cough*cough*.❞",
-      "Translation": "`Kud@❝*Cough*cough*.❞"
+      "Translation": "`库特@「咳咳」"
     },
     {
       "JP": "僕は教室を出た。",
       "EN": "I left the classroom.",
-      "Translation": "I left the classroom."
+      "Translation": "我离开了教室。"
     },
     {
       "JP": "図書室は静かだった。",
       "EN": "The library was quiet.",
-      "Translation": "The library was quiet."
+      "Translation": "图书馆里很安静。"
     },
     {
       "JP": "そっと入ると、３年生たちが勉強をしているのが見えた。",
       "EN": "As I silently entered, I saw some 3rd years studying.",
-      "Translation": "As I silently entered, I saw some 3rd years studying."
+      "Translation": "轻轻走进去，可以看到三年级的学生们在学习。"
     },
     {
       "JP": "そのせいか、少し重たい空気を感じる。",
       "EN": "Their presence gave the place a somehow oppressive air.",
-      "Translation": "Their presence gave the place a somehow oppressive air."
+      "Translation": "可能是因为这个原因，气氛有些沉重。"
     },
     {
       "JP": "パソコンは電源が落とされていて使えそうになかった。",
       "EN": "The computers were off and didn't look usable.",
-      "Translation": "The computers were off and didn't look usable."
+      "Translation": "电脑都关机了，似乎用不了。"
     },
     {
       "JP": "`理樹@（本にしよう…地理歴史分類は２００番台か…）",
       "EN": "`Riki@(I'll check the books... geography and history are in section 200.)",
-      "Translation": "`Riki@(I'll check the books... geography and history are in section 200.)"
+      "Translation": "`理树@（找书吧…地理历史分类应该在200号段…）"
     },
     {
       "JP": "地理分類の棚に向かう。",
       "EN": "I headed for the geography section.",
-      "Translation": "I headed for the geography section."
+      "Translation": "我走向地理分类的书架。"
     },
     {
       "JP": "確かキリバスとかは南洋の国だから…オセアニア関連にあるのかな？",
       "EN": "Kiribati is definitely a country in the South Sea... is it part of Oceania?",
-      "Translation": "Kiribati is definitely a country in the South Sea... is it part of Oceania?"
+      "Translation": "比如基里巴斯这种南洋的国家…大概在跟大洋洲相关的分类里吧？"
     },
     {
       "JP": "滅多に来ないような分類の書棚。",
       "EN": "This section didn't seem to get much traffic.",
-      "Translation": "This section didn't seem to get much traffic."
+      "Translation": "书架的分类很少有人来。"
     },
     {
       "JP": "当然僕以外誰もいなかった。",
       "EN": "So naturally there was no else there.",
-      "Translation": "So naturally there was no else there."
+      "Translation": "自然也没有其他人在这里。"
     },
     {
       "JP": "ただ埃っぽい本たちが目の前を塞いでいる。",
       "EN": "It was just me and the dusty books.",
-      "Translation": "It was just me and the dusty books."
+      "Translation": "只有一些布满灰尘的书挡住了我的视线。"
     },
     {
       "JP": "`理樹@「うーん…」",
       "EN": "`Riki@❝Ummm...❞",
-      "Translation": "`Riki@❝Ummm...❞"
+      "Translation": "`理树@「嗯…」"
     },
     {
       "JP": "二十年以上前の本には載っていないっぽい。",
       "EN": "It didn't seem it'd be in any books older than 20 years.",
-      "Translation": "It didn't seem it'd be in any books older than 20 years."
+      "Translation": "二十年以上前的书里似乎没有相关内容。"
     },
     {
       "JP": "`理樹@「これかな」",
       "EN": "`Riki@❝Maybe this one.❞",
-      "Translation": "`Riki@❝Maybe this one.❞"
+      "Translation": "`理树@「会是这本吗」"
     },
     {
       "JP": "いくつかの本の中から、地域解説本を見つけた。",
       "EN": "From among the books I decided to check a guide to geographical regions.",
-      "Translation": "From among the books I decided to check a guide to geographical regions."
+      "Translation": "从几本书中找到了一本区域介绍的书。"
     },
     {
       "JP": "周りの本に比べれば発刊年が新しいようだ。",
       "EN": "This one looked like the most recent one available.",
-      "Translation": "This one looked like the most recent one available."
+      "Translation": "这本书的出版年份比周围的书要新一些。"
     },
     {
       "JP": "『Republic of N.T.M.T.』",
       "EN": "[Republic of N.T.M.T.]",
-      "Translation": "[Republic of N.T.M.T.]"
+      "Translation": "『Republic of N.T.M.T.』"
     },
     {
       "JP": "通称テヴア共和国、またはテヴア。",
       "EN": "Commonly called the Republic of Tevua. Or just Tevua.",
-      "Translation": "Commonly called the Republic of Tevua. Or just Tevua."
+      "Translation": "通称特瓦共和国，或者叫特瓦。"
     },
     {
       "JP": "旧ソ連領。諸事情で領有が放棄され、その後独立した赤道直下の島国。",
       "EN": "Formerly of the Soviet Republic. An island nation that gained independence after the dissolution.",
-      "Translation": "Formerly of the Soviet Republic. An island nation that gained independence after the dissolution."
+      "Translation": "前苏联领土。因为某些原因，放弃了领有权，之后独立，成为位于赤道下的岛国。"
     },
     {
       "JP": "国土は火山島、珊瑚島、隆起した珊瑚礁、岩礁で占められる。",
       "EN": "The nation's territory includes volcanic islands, coral islands, exposed coral reefs, and rocky reefs.",
-      "Translation": "The nation's territory includes volcanic islands, coral islands, exposed coral reefs, and rocky reefs."
+      "Translation": "国土由火山岛、珊瑚岛、隆起的珊瑚礁和岩礁构成。"
     },
     {
       "JP": "十三の諸島群からなり、テヴア島（約８００平方キロメートル）など。",
       "EN": "The Tevua Islands are made up of 13 archipelagos (about 800 square kilometers).",
-      "Translation": "The Tevua Islands are made up of 13 archipelagos (about 800 square kilometers)."
+      "Translation": "由十三个群岛组成，包括特瓦岛（约800平方公里）等。"
     },
     {
       "JP": "諸島のひとつは冷戦時代、水爆実験場として使用された。",
       "EN": "One of the archipelagos was used as a testing site for the hydrogen bomb in the Cold War era.",
-      "Translation": "One of the archipelagos was used as a testing site for the hydrogen bomb in the Cold War era."
+      "Translation": "其中一个群岛在冷战时期被用作氢弹试验场。"
     },
     {
       "JP": "首都、『Город Звезды（ゴーラト・ズヴィズダ）』。",
       "EN": "Capital: [Город Звезды (Gorod Zvezdi)].",
-      "Translation": "Capital: [Город Звезды (Gorod Zvezdi)]."
+      "Translation": "首都为『Город Звезды（戈拉特·兹维兹达）』。"
     },
     {
       "JP": "`理樹@「東京都２３区より少し広いのかな…」",
       "EN": "`Riki@❝It's a little bigger than Tokyo's 23 wards...❞",
-      "Translation": "`Riki@❝It's a little bigger than Tokyo's 23 wards...❞"
+      "Translation": "`理树@「比东京23区稍微大一点吧…」"
     },
     {
       "JP": "大きめの島はそれぐらいのようだ。",
       "EN": "The biggest island was about that size.",
-      "Translation": "The biggest island was about that size."
+      "Translation": "最大的岛大概就是这个大小。"
     },
     {
       "JP": "あとは英語と見慣れぬ文字が併記されている説明があった。",
       "EN": "There was also some information in English and a language I wasn't familiar with.",
-      "Translation": "There was also some information in English and a language I wasn't familiar with."
+      "Translation": "还有一些用英语和不熟悉的文字并列的说明。"
     },
     {
       "JP": "`理樹@「レアメタル…海底…調査中？」",
       "EN": "`Riki@❝Rare metals... ocean depths... under investigation?❞",
-      "Translation": "`Riki@❝Rare metals... ocean depths... under investigation?❞"
+      "Translation": "`理树@「稀有金属…海底…正在调查中？」"
     },
     {
       "JP": "`理樹@「オーシャン・ランチ…？」",
       "EN": "`Riki@❝Ocean ranch...?❞",
-      "Translation": "`Riki@❝Ocean ranch...?❞"
+      "Translation": "`理树@「海洋牧场…？」"
     },
     {
       "JP": "海上レストランのことだろうか？",
       "EN": "Is that some kind of restaurant on the sea?",
-      "Translation": "Is that some kind of restaurant on the sea?"
+      "Translation": "是指海上的餐厅吗？"
     },
     {
       "JP": "なんとかわかる英単語を追うと、何かの商業サービスで国が成り立っているらしい。",
       "EN": "Following the English words, I kind of understood it was information on the country's economy.",
-      "Translation": "Following the English words, I kind of understood it was information on the country's economy."
+      "Translation": "顺着能看懂的英文单词，似乎是关于该国商业服务的说明。"
     },
     {
       "JP": "観光業や漁業・農業も行われているが主産業とまではいかないようだ。",
       "EN": "They had tourism, fishing, and agriculture, but those were not the primary industry.",
-      "Translation": "They had tourism, fishing, and agriculture, but those were not the primary industry."
+      "Translation": "虽然也有旅游业、渔业和农业，但似乎并不是主要产业。"
     },
     {
       "JP": "人口はイメージしていたよりずっと多かった。",
       "EN": "The population was a lot bigger than I imagined.",
-      "Translation": "The population was a lot bigger than I imagined."
+      "Translation": "人口比我想象的多得多。"
     },
     {
       "JP": "人口比率は欧露米系が半分、残りが元々からの住民とアジア系。",
       "EN": "About half the population is Caucasian, the rest are either indigenous or Asian.",
-      "Translation": "About half the population is Caucasian, the rest are either indigenous or Asian."
+      "Translation": "人口比例中，欧美系占一半，其余是原住民和亚裔。"
     },
     {
       "JP": "１９世紀以降の入植者、外島人と元からの住民、内島人との経済格差が激しいらしい。",
       "EN": "There seemed to be a large economic disparity between the colonials who started coming in the 19th century and the indigenous peoples.",
-      "Translation": "There seemed to be a large economic disparity between the colonials who started coming in the 19th century and the indigenous peoples."
+      "Translation": "十九世纪以后的殖民者（外岛人）和原住民（内岛人）之间的经济差距似乎很大。"
     },
     {
       "JP": "政情は不安定。",
       "EN": "The political situation was unstable.",
-      "Translation": "The political situation was unstable."
+      "Translation": "政局不稳定。"
     },
     {
       "JP": "経済や宗教に絡む問題で、何度か地域機構が介入をしている。",
       "EN": "Regional organizations had intervened a number of times in economic and religious issues.",
-      "Translation": "Regional organizations had intervened a number of times in economic and religious issues."
+      "Translation": "因为经济和宗教问题，地区组织曾多次介入。"
     },
     {
       "JP": "`理樹@「公用語はロシア語・英語・キリバス系テヴア語」",
       "EN": "`Riki@❝The primary languages are Russian, English, and a Tevuan dialect of Kiribati.❞",
-      "Translation": "`Riki@❝The primary languages are Russian, English, and a Tevuan dialect of Kiribati.❞"
+      "Translation": "`理树@「官方语言是俄语、英语、基里巴斯语系的特瓦语」"
     },
     {
       "JP": "どれもクドは流ちょうに喋れそうにない。",
       "EN": "Kud can't seem to speak any of them fluently.",
-      "Translation": "Kud can't seem to speak any of them fluently."
+      "Translation": "库特好像没有流利地说过任何一种语言。"
     },
     {
       "JP": "故郷の国でクドはどうしていたのだろう？",
       "EN": "What was Kud doing while she was there?",
-      "Translation": "What was Kud doing while she was there?"
+      "Translation": "在故乡的国家，库特是怎么生活的呢？"
     },
     {
       "JP": "そんなことを思った。",
       "EN": "I was curious.",
-      "Translation": "I was curious."
+      "Translation": "我不禁这么想。"
     },
     {
       "JP": "昼休み。今日はいい天気だった。",
       "EN": "Lunchtime. The weather was nice.",
-      "Translation": "Lunchtime. The weather was nice."
+      "Translation": "午休时间。今天的天气很好。"
     },
     {
       "JP": "食堂脇の芝生に座っているクドは単語帳をめくっている。",
       "EN": "Kud was flipping through her flashcards on the grass beside the cafeteria.",
-      "Translation": "Kud was flipping through her flashcards on the grass beside the cafeteria."
+      "Translation": "坐在食堂旁边草地上的库特正在翻阅单词卡片。"
     },
     {
       "JP": "僕はクドの隣に寝ころんで空を見上げていた。",
       "EN": "I was lying next to her, gazing up to the sky.",
-      "Translation": "I was lying next to her, gazing up to the sky."
+      "Translation": "我躺在库特旁边，仰望着天空。"
     },
     {
       "JP": "`クド@「あ・ふれんど・いん・にーど・いず・あ・ふれんど・いんでぃーど」",
       "EN": "`Kud@❝A furendo in ni-do idzu a furendo indi-do.❞",
-      "Translation": "`Kud@❝A furendo in ni-do idzu a furendo indi-do.❞"
+      "Translation": "`库特@「A furendo in ni-do idzu a furendo indi-do」"
     },
     {
       "JP": "`理樹@「まさかの時の真の友」",
       "EN": "`Riki@❝A friend in need is a friend indeed.❞",
-      "Translation": "`Riki@❝A friend in need is a friend indeed.❞"
+      "Translation": "`理树@「患难见真情」"
     },
     {
       "JP": "`クド@「いん・しーず・あうあー・おぶ・にーど」",
       "EN": "`Kud@❝In shi-dzu aua- obu ni-do.❞",
-      "Translation": "`Kud@❝In shi-dzu aua- obu ni-do.❞"
+      "Translation": "`库特@「In shi-dzu aua- obu ni-do」"
     },
     {
       "JP": "`理樹@「彼女のまさかのときに」",
       "EN": "`Riki@❝In her hour of need.❞",
-      "Translation": "`Riki@❝In her hour of need.❞"
+      "Translation": "`理树@「她的危急时刻」"
     },
     {
       "JP": "僕は体を起こした。",
       "EN": "I sat up.",
-      "Translation": "I sat up."
+      "Translation": "我坐起了身。"
     },
     {
       "JP": "`理樹@「そういえばクド、小毬さんとの単語帳作り、まだ続いてるの？」",
       "EN": "`Riki@❝That reminds me, Kud. Are you and Komari-san still making vocabulary flashcards?❞",
-      "Translation": "`Riki@❝That reminds me, Kud. Are you and Komari-san still making vocabulary flashcards?❞"
+      "Translation": "`理树@「对了，库特，你和小毬还在做单词卡吗？」"
     },
     {
       "JP": "`クド@「はい。続いてますよ。この単語帳で、五冊目でしょうか」",
       "EN": "`Kud@❝Yes, we are. This is the fifth set already.❞",
-      "Translation": "`Kud@❝Yes, we are. This is the fifth set already.❞"
+      "Translation": "`库特@「是的，还在做。这应该是第五本了吧。」"
     },
     {
       "JP": "`クド@「来ヶ谷さんも時々手伝ってくれます」",
       "EN": "`Kud@❝Kurugaya-san also helps from time to time.❞",
-      "Translation": "`Kud@❝Kurugaya-san also helps from time to time.❞"
+      "Translation": "`库特@「来谷同学有时也会帮忙哦」"
     },
     {
       "JP": "`クド@「…はっ！　これこそまさしく『まさかの時の真の友』ってやつですね」",
       "EN": "`Kud@❝...Aha! That truly embodies the essence of ❛a friend in need is a friend indeed❜!❞",
-      "Translation": "`Kud@❝...Aha! That truly embodies the essence of ❛a friend in need is a friend indeed❜!❞"
+      "Translation": "`库特@「…啊！这不正是所谓的『患难见真情』啊！」"
     },
     {
       "JP": "僕が苦笑しながら頷こうとしたとき、",
       "EN": "Just as I tried to nod to her with a smile, ",
-      "Translation": "Just as I tried to nod to her with a smile, "
+      "Translation": "就在我苦笑着点头的时候，"
     },
     {
       "JP": "オン！　と犬の鳴き声がした。",
       "EN": "we heard a dog bark.",
-      "Translation": "we heard a dog bark."
+      "Translation": "汪！有狗叫了一声。"
     },
     {
       "JP": "`二木@「そこの二人。芝生は立ち入り禁止よ」",
       "EN": "`Futaki@❝You two there, get off the grass right now.❞",
-      "Translation": "`Futaki@❝You two there, get off the grass right now.❞"
+      "Translation": "`二木@「你们两个。草地禁止进入。」"
     },
     {
       "JP": "冷たい声が僕たちに注意をする。",
       "EN": "A cold voice ordered us.",
-      "Translation": "A cold voice ordered us."
+      "Translation": "一个冷冰冰的声音提醒了我们。"
     },
     {
       "JP": "ストレルカを従えた風紀委員が僕たちを見下ろしていた。",
       "EN": "There were Strelka and a prefect standing above us and looking down hard on us.",
-      "Translation": "There were Strelka and a prefect standing above us and looking down hard on us."
+      "Translation": "带着斯特勒鲁卡的风纪委员正俯视着我们。"
     },
     {
       "JP": "`クド@「わふっ、すみません、今すぐどきますっ」",
       "EN": "`Kud@❝Wafu!? We're sorry. We'll move off now!❞",
-      "Translation": "`Kud@❝Wafu!? We're sorry. We'll move off now!❞"
+      "Translation": "`库特@「哇呜，对不起，我们马上离开！」"
     },
     {
       "JP": "`理樹@「待って、クド。どかなくていいよ」",
       "EN": "`Riki@❝Hold it, Kud. We don't have to.❞",
-      "Translation": "`Riki@❝Hold it, Kud. We don't have to.❞"
+      "Translation": "`理树@「等等，库特。不用离开。」"
     },
     {
       "JP": "`理樹@「食堂脇の芝生は食事の時使っていい、って言われてる気がするよ」",
       "EN": "`Riki@❝I'm sure students are allowed to stay on the grass beside the cafeteria during lunch break.❞",
-      "Translation": "`Riki@❝I'm sure students are allowed to stay on the grass beside the cafeteria during lunch break.❞"
+      "Translation": "`理树@「我记得食堂旁边的草地在用餐时间是可以使用的。」"
     },
     {
       "JP": "`理樹@「規則、変わったんだったら、別だけど」",
       "EN": "`Riki@❝Unless the rules have changed, that is.❞",
-      "Translation": "`Riki@❝Unless the rules have changed, that is.❞"
+      "Translation": "`理树@「除非规矩改了，那另当别论。」"
     },
     {
       "JP": "僕は購買ワゴンで買ったパンの袋を示しながら言う。",
       "EN": "I pointed at the wrappings of the bread I had bought at the school store.",
-      "Translation": "I pointed at the wrappings of the bread I had bought at the school store."
+      "Translation": "我指着从小卖部买来的面包袋说道。"
     },
     {
       "JP": "風紀委員の人はパンを一瞥する。",
       "EN": "The prefect glanced at it.",
-      "Translation": "The prefect glanced at it."
+      "Translation": "风纪委员瞥了一眼那个面包。"
     },
     {
       "JP": "`二木@「…ふん」",
       "EN": "`Futaki@❝...Hmph.❞",
-      "Translation": "`Futaki@❝...Hmph.❞"
+      "Translation": "`二木@「…哼。」"
     },
     {
       "JP": "それから鼻を鳴らして去っていった。",
       "EN": "She gave a disapproving snort and left.",
-      "Translation": "She gave a disapproving snort and left."
+      "Translation": "然后她冷哼了一声，离开了。"
     },
     {
       "JP": "`クド@「怖いひとでしたね…」",
       "EN": "`Kud@❝She was scary...❞",
-      "Translation": "`Kud@❝She was scary...❞"
+      "Translation": "`库特@「真是个可怕的人呢…」"
     },
     {
       "JP": "`理樹@「確かに常時入っていい芝生じゃないけどね」",
       "EN": "`Riki@❝She was partially right though; we can't always stay on the grass here.❞",
-      "Translation": "`Riki@❝She was partially right though; we can't always stay on the grass here.❞"
+      "Translation": "`理树@「确实，平时不能随便进这片草地。」"
     },
     {
       "JP": "融通の利かない人間なのだろう。",
       "EN": "She seemed like someone who played everything completely by the book.",
-      "Translation": "She seemed like someone who played everything completely by the book."
+      "Translation": "她大概是个非常死板的人吧。"
     },
     {
       "JP": "まぁ、風紀委員なんてそんなものだと思うけど。",
       "EN": "Well, I guess that's how prefects are supposed to be, though.",
-      "Translation": "Well, I guess that's how prefects are supposed to be, though."
+      "Translation": "不过，风纪委员本来就是这样的吧。"
     },
     {
       "JP": "`二木@「クドリャフカ。芝生は立ち入り禁止だって言ったでしょう」",
       "EN": "`Futaki@❝Kudryavka, I told you to stay off the grass.❞",
-      "Translation": "`Futaki@❝Kudryavka, I told you to stay off the grass.❞"
+      "Translation": "`二木@「库特利亚芙卡。我不是说过草地禁止进入吗？」"
     },
     {
       "JP": "`クド@「わふっ！　か、佳奈多さん、すみません、今すぐどきますっ」",
       "EN": "`Kud@❝Wafu!? Ka-Kanata-san, we're sorry. We'll move off now!❞",
-      "Translation": "`Kud@❝Wafu!? Ka-Kanata-san, we're sorry. We'll move off now!❞"
+      "Translation": "`库特@「哇呜！佳奈多同学，对不起，我们马上离开！」"
     },
     {
       "JP": "`理樹@「待って、クド。どかなくていいよ」",
       "EN": "`Riki@❝Hold it, Kud. We don't have to.❞",
-      "Translation": "`Riki@❝Hold it, Kud. We don't have to.❞"
+      "Translation": "`理树@「等等，库特。不用离开。」"
     },
     {
       "JP": "`理樹@「食堂脇の芝生は食事の時使っていい、って言われてる気がするよ」",
       "EN": "`Riki@❝I'm sure students are allowed to stay on the grass beside the cafeteria during lunch break.❞",
-      "Translation": "`Riki@❝I'm sure students are allowed to stay on the grass beside the cafeteria during lunch break.❞"
+      "Translation": "`理树@「我记得食堂旁边的草地在用餐时间是可以使用的。」"
     },
     {
       "JP": "`理樹@「規則、変わったんだったら、別だけど」",
       "EN": "`Riki@❝Unless the rules have changed, that is.❞",
-      "Translation": "`Riki@❝Unless the rules have changed, that is.❞"
+      "Translation": "`理树@「除非规矩改了，那另当别论。」"
     },
     {
       "JP": "僕は購買ワゴンで買ったパンの袋を示しながら言う。",
       "EN": "I pointed at the wrappings of the bread I had bought at the school store.",
-      "Translation": "I pointed at the wrappings of the bread I had bought at the school store."
+      "Translation": "我指着从小卖部买来的面包袋说道。"
     },
     {
       "JP": "ストレルカを従えた二木さんはパンを一瞥する。",
       "EN": "Futaki-san, accompanied by Strelka, gave it a glance.",
-      "Translation": "Futaki-san, accompanied by Strelka, gave it a glance."
+      "Translation": "带着斯特勒鲁卡的二木瞥了一眼那个面包。"
     },
     {
       "JP": "それからふん、と鼻を鳴らした。",
       "EN": "She then snorted.",
-      "Translation": "She then snorted."
+      "Translation": "然后她冷哼了一声。"
     },
     {
       "JP": "`二木@「もう食べ終わってるように見えるけれど？」",
       "EN": "`Futaki@❝You seem to have already finished your lunch, though.❞",
-      "Translation": "`Futaki@❝You seem to have already finished your lunch, though.❞"
+      "Translation": "`二木@「看起来你们已经吃完了吧？」"
     },
     {
       "JP": "`理樹@「…まだカフェオレ飲んでないんだ」",
       "EN": "`Riki@❝...I'm still drinking my cafe au lait.❞",
-      "Translation": "`Riki@❝...I'm still drinking my cafe au lait.❞"
+      "Translation": "`理树@「…还没有喝完咖啡牛奶呢。」"
     },
     {
       "JP": "僕は置いてあったカフェオレを手に取る。",
       "EN": "I picked up my drink carton.",
-      "Translation": "I picked up my drink carton."
+      "Translation": "我拿起了放在旁边的咖啡牛奶。"
     },
     {
       "JP": "`二木@「そう。じゃ、飲み終わるまで待ってるから」",
       "EN": "`Futaki@❝All right. Then I'll wait until you finish drinking it.❞",
-      "Translation": "`Futaki@❝All right. Then I'll wait until you finish drinking it.❞"
+      "Translation": "`二木@「是吗。那么我会等到你喝完。」"
     },
     {
       "JP": "`二木@「その後、出なさい」",
       "EN": "`Futaki@❝After that, you'll remove yourselves.❞",
-      "Translation": "`Futaki@❝After that, you'll remove yourselves.❞"
+      "Translation": "`二木@「之后，离开这里吧。」"
     },
     {
       "JP": "`理樹@「………」",
       "EN": "`Riki@❝.........❞",
-      "Translation": "`Riki@❝.........❞"
+      "Translation": "`理树@「………」"
     },
     {
       "JP": "`二木@「何か文句でも？」",
       "EN": "`Futaki@❝Any complaints?❞",
-      "Translation": "`Futaki@❝Any complaints?❞"
+      "Translation": "`二木@「有什么不满吗？」"
     },
     {
       "JP": "`クド@「す、すぐ出ますから。ごめんなさい」",
       "EN": "`Kud@❝W-we're leaving now. I'm sorry.❞",
-      "Translation": "`Kud@❝W-we're leaving now. I'm sorry.❞"
+      "Translation": "`库特@「我、我们马上离开。对不起！」"
     },
     {
       "JP": "`二木@「芝生の育成時期はなるべく止めなさいと掲示板に書いてあったでしょう」",
       "EN": "`Futaki@❝Haven't you seen the notice on the bulletin board telling students to stay off the growing grass?❞",
-      "Translation": "`Futaki@❝Haven't you seen the notice on the bulletin board telling students to stay off the growing grass?❞"
+      "Translation": "`二木@「公告板上不是写着草地养护期间尽量不要进入吗？」"
     },
     {
       "JP": "`二木@「きちんと掲示板ぐらい読んでもらわないと困るわね」",
       "EN": "`Futaki@❝What do you think we have the board for?❞",
-      "Translation": "`Futaki@❝What do you think we have the board for?❞"
+      "Translation": "`二木@「至少看看公告板，这样会让我省心点。」"
     },
     {
       "JP": "`クド@「わ、わふーっ」",
       "EN": "`Kud@❝Wa, wafuu!❞",
-      "Translation": "`Kud@❝Wa, wafuu!❞"
+      "Translation": "`库特@「哇、哇呜～！」"
     },
     {
       "JP": "`二木@「今度から気をつけなさい」",
       "EN": "`Futaki@❝Please be more careful.❞",
-      "Translation": "`Futaki@❝Please be more careful.❞"
+      "Translation": "`二木@「以后注意点。」"
     },
     {
       "JP": "再び鼻を鳴らして、二木さんは去っていった。",
       "EN": "She gave a disapproving sniff again and left.",
-      "Translation": "She gave a disapproving sniff again and left."
+      "Translation": "再次冷哼了一声，二木离开了。"
     },
     {
       "JP": "`理樹@「確かに常時入っていい芝生じゃないけどね…」",
       "EN": "`Riki@❝It's true we can't always stay on the grass here...❞",
-      "Translation": "`Riki@❝It's true we can't always stay on the grass here...❞"
+      "Translation": "`理树@「确实，平时不能随便进这片草地…」"
     },
     {
       "JP": "それにしたって融通が利かなさすぎるのじゃないだろうか？",
       "EN": "But still, she sure is a stickler for the rules, isn't she?",
-      "Translation": "But still, she sure is a stickler for the rules, isn't she?"
+      "Translation": "不过，她也太不通融了吧？"
     },
     {
       "JP": "`風紀委員@「そこの二人。芝生は立ち入り禁止よ」",
@@ -7548,12 +7548,12 @@
     {
       "JP": "`クド@「わふっ、すみません、今すぐどきますっ」",
       "EN": "`Kud@❝Wafu!? We're sorry. We'll move off now!❞",
-      "Translation": "`库特@「哇呼、对不起，现在马上出去」"
+      "Translation": "`库特@「哇呼、对不起，现在马上出来」"
     },
     {
       "JP": "`理樹@「待って、クド。どかなくていいよ」",
       "EN": "`Riki@❝Hold it, Kud. We don't have to.❞",
-      "Translation": "`理树@「等等，库特。不用走出去」"
+      "Translation": "`理树@「等等，库特。不用出去」"
     },
     {
       "JP": "`理樹@「食堂脇の芝生は食事の時使っていい、って言われてる気がするんだけど」",
@@ -7578,7 +7578,7 @@
     {
       "JP": "`風紀委員@「…食事が終わったらすぐ出て行くように」",
       "EN": "`Prefect@❝...Leave here immediately after you finish.❞",
-      "Translation": "`风纪委员@「…吃完的话马上就走出来」"
+      "Translation": "`风纪委员@「…吃完的话就马上出来」"
     },
     {
       "JP": "それだけ言って去っていった。",

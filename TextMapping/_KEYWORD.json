@@ -84,33 +84,33 @@
       "JP1": "カステラ",
       "JP2": "【カステラ】$d16世紀にポルトガルより日本の長崎に伝来した洋菓子を、日本独自に発展させた和菓子。スポンジ状の焼き菓子である。",
       "EN1": "Castella",
-      "Translation1": "Castella",
+      "Translation1": "长崎蛋糕",
       "EN2": "Castella$dA Japanese sponge cake influenced by the cakes that were first brought to the country by Portuguese merchants in the 16th century. The cake is speciality of Nagasaki.",
-      "Translation2": "Castella$dA Japanese sponge cake influenced by the cakes that were first brought to the country by Portuguese merchants in the 16th century. The cake is speciality of Nagasaki."
+      "Translation2": "长崎蛋糕$d长崎蛋糕是一种海绵状的烤点心。原型是16世纪由葡萄牙传入日本长崎的西式点心，之后在日本独立发展成日式点心。"
     },
     {
       "JP1": "チャーシュー",
       "JP2": "【チャーシュー】$d中国料理としては、豚肉に下ごしらえをしオーブンなどで焼いたもの。しかし日本のラーメンなどの具は、豚肉を醤油などのスープで煮込んだものが主になっている。",
       "EN1": "Char siu",
-      "Translation1": "Char siu",
+      "Translation1": "叉烧",
       "EN2": "Char siu$dA Chinese pork dish where the pork is roasted in an oven. However, the char siu used in ramen is generally simmered in soy sauce soup instead of roasted.",
-      "Translation2": "Char siu$dA Chinese pork dish where the pork is roasted in an oven. However, the char siu used in ramen is generally simmered in soy sauce soup instead of roasted."
+      "Translation2": "叉烧$d中国料理中叉烧的做法是先腌制猪肉再用烤箱等工具烤熟，而日本拉面中作为配菜的叉烧通常是用酱油汤煮制而成的。"
     },
     {
       "JP1": "ちーかま",
       "JP2": "【ちーかま】$dソーセージの様な見た目をしている魚肉を練った食べ物の「かまぼこ」の一種。なかにチーズが入っている。",
       "EN1": "Chikama",
-      "Translation1": "Chikama",
+      "Translation1": "奶酪鱼糕",
       "EN2": "Chikama$dA variant of a type of Japanese fish cake known as Kamaboko, chikama contains cheese and is shaped to resemble a sausage. Frequently eaten as a snack.",
-      "Translation2": "Chikama$dA variant of a type of Japanese fish cake known as Kamaboko, chikama contains cheese and is shaped to resemble a sausage. Frequently eaten as a snack."
+      "Translation2": "奶酪鱼糕$d用鱼肉做成的外观类似香肠的鱼糕，里面添加了奶酪。"
     },
     {
       "JP1": "元服",
       "JP2": "【元服】$d日本における成人を示す儀式。一般的には1900年に入る前に、法律で成人は20歳と決められ、行わなくなった。しかし一部の地域や職業では現在でも行われている。",
       "EN1": "Coming of age ceremony",
-      "Translation1": "Coming of age ceremony",
+      "Translation1": "元服",
       "EN2": "Coming of age ceremony$dThe genpuku is a coming of age ceremony that marks the cultural transition of a person from child to adult. The practice has mostly been abandoned after the age of majority was set at 20 in the late 19th century, but it is still celebrated in certain locales or occupations.",
-      "Translation2": "Coming of age ceremony$dThe genpuku is a coming of age ceremony that marks the cultural transition of a person from child to adult. The practice has mostly been abandoned after the age of majority was set at 20 in the late 19th century, but it is still celebrated in certain locales or occupations."
+      "Translation2": "元服$d日本的成人仪式，参与人年龄范围大概为12岁到16岁。一般认为20世纪之前，在法定成人年龄改为了20岁后，人们便不再进行元服了。但是日本的一些地区和职业现在仍然在进行这种仪式。"
     },
     {
       "JP1": "コロッケそば",

@@ -12988,7 +12988,7 @@
     {
       "JP": "`理樹@「なんで次が$K21演歌$K0？」",
       "EN": "`Riki@❝Why is the next song an $K21enka$K0?❞",
-      "Translation": "`理树@「为什么接下来是演歌？」"
+      "Translation": "`理树@「为什么接下来是$K21演歌$K0？」"
     },
     {
       "JP": "全然趣味があってなかった。",
@@ -13098,12 +13098,12 @@
     {
       "JP": "`葉留佳@「…特にスザンヌのこの歌は好き」",
       "EN": "`Haruka@❝...I especially like this song by Suzanne.❞",
-      "Translation": "`叶留佳@「…特别喜欢z的这首歌」"
+      "Translation": "`叶留佳@「…特别喜欢Suzanne的这首歌」"
     },
     {
       "JP": "`葉留佳@「出だしに『ハルカ』って単語が混じった歌みたいに聞こえない？」",
       "EN": "`Haruka@❝Doesn't it sound like the word ❛Haruka❜ is mixed in at the beginning?❞",
-      "Translation": "`叶留佳@「你不觉得高潮部分里好像混有『（叶留佳）』这个单词？」"
+      "Translation": "`叶留佳@「你不觉得高潮部分里好像混有『叶留佳』这个单词？」"
     },
     {
       "JP": "`理樹@「そう…？」",
@@ -13748,7 +13748,7 @@
     {
       "JP": "`二木@「だから三枝葉留佳、あなたがやっていることは無駄なの」",
       "EN": "`Futaki@❝Therefore, Haruka Saigusa, what you've done here is meaningless.❞",
-      "Translation": "`二木@「所以三枝叶留佳，你所作的事情是白费功夫」"
+      "Translation": "`二木@「所以三枝叶留佳，你所做的事情是白费功夫」"
     },
     {
       "JP": "`二木@「あなたにはこの間も注意したのに」",
@@ -15223,7 +15223,7 @@
     {
       "JP": "`理樹@「いえ、やっぱりちょっと…」",
       "EN": "`Riki@❝Um, I'd rather not...❞",
-      "Translation": "我明白了果然还是有点…"
+      "Translation": "`理树@「果然还是有点…」"
     },
     {
       "JP": "葉留佳さんは気になるけど、やっぱりあそこに近づく気にはなれなかった。",
@@ -15528,7 +15528,7 @@
     {
       "JP": "`葉留佳@「…っ。と、とにかく！」",
       "EN": "`Haruka@❝...A, anyway!❞",
-      "Translation": "`叶留佳@「…。总，总之！」"
+      "Translation": "`叶留佳@「…总，总之！」"
     },
     {
       "JP": "葉留佳さんは机をばんばん、と叩いた。",

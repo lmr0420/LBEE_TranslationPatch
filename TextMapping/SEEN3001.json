@@ -593,7 +593,7 @@
     {
       "JP": "――『佳奈多はもう沢山言葉を知っているんだなぁ』",
       "EN": "――❛Kanata already knows a whole bushel of words, doesn't she.❜",
-      "Translation": "`—@『佳奈多已经学会了好多的话了啊』"
+      "Translation": "『佳奈多已经学会了好多的话了啊』"
     },
     {
       "JP": "どちらが先に歩いたか。",
@@ -603,7 +603,7 @@
     {
       "JP": "――『佳奈多、そんなに歩き回って…しょうがない子』",
       "EN": "――❛Oh Kanata, you're already walking everywhere, aren't you... Such an energetic child.❜",
-      "Translation": "`—@『佳奈多那样跑来跑去…真是没办法的孩子』"
+      "Translation": "『佳奈多那样跑来跑去…真是没办法的孩子』"
     },
     {
       "JP": "どちらがしつけやすかったか。",
@@ -613,7 +613,7 @@
     {
       "JP": "――『正座我慢できるなんて偉いなぁ、佳奈多』",
       "EN": "――❛Your sitting posture is just perfect, isn't it, Kanata.❜",
-      "Translation": "`—@『能忍住正坐真是了不起啊，佳奈多』"
+      "Translation": "『能忍住正坐真是了不起啊，佳奈多』"
     },
     {
       "JP": "どちらがかしこいか。",
@@ -623,7 +623,7 @@
     {
       "JP": "――『もう本が読めるのか？　すごいなぁ、佳奈多』",
       "EN": "――❛You can already read books? You're such a smart child, Kanata.❜",
-      "Translation": "`—@『已经会看书了吗？好厉害啊，佳奈多』"
+      "Translation": "『已经会看书了吗？好厉害啊，佳奈多』"
     },
     {
       "JP": "どちらがじょうぶなのか。",
@@ -633,7 +633,7 @@
     {
       "JP": "――『佳奈多、微熱があったのに園内マラソンで一位だったのよ』",
       "EN": "――❛Little Kanata, even though the darling had a little fever, she still placed first in the park footrace.❜",
-      "Translation": "`—@『佳奈多，发着低烧还能跑到幼儿园内马拉松第一名哦』"
+      "Translation": "『佳奈多，发着低烧还能跑到幼儿园内马拉松第一名哦』"
     },
     {
       "JP": "`葉留佳@「…中学にあがるぐらいには、評価が決まりつつあったの」",
@@ -1358,7 +1358,7 @@
     {
       "JP": "…そうだ、『どうして』？",
       "EN": "...Ah, right, ❛why❜?",
-      "Translation": "`…是啊，@『为什么』？"
+      "Translation": "…是啊，『为什么』？"
     },
     {
       "JP": "どうしてそんな約束が出来るのか？",
@@ -1713,7 +1713,7 @@
     {
       "JP": "`生徒@「…組のあの子でしょ？　お父さんがね……だって」",
       "EN": "`Student@❝...That girl from the other class? They say her dad was...❞",
-      "Translation": "`学生@「…班的那个女生？父亲听说是……」"
+      "Translation": "`学生@「…那个班的那个女生？父亲听说是……」"
     },
     {
       "JP": "`生徒@「…やっぱり、ねぇ」",
@@ -2323,12 +2323,12 @@
     {
       "JP": "`葉留佳の母@「またお会いできて嬉しいわ、直枝さん」",
       "EN": "`Haruka's Mom@❝I'm so glad you could stop by again, Naoe-san.❞",
-      "Translation": "叶留佳的母亲「能再见到你真是高兴，直枝同学」"
+      "Translation": "`叶留佳的母亲@「能再见到你真是高兴，直枝同学」"
     },
     {
       "JP": "`葉留佳の母@「ねぇ、葉留佳？　今晩もつきあってくれてありがとう」",
       "EN": "`Haruka's Mom@❝Right, Haruka? Thanks for coming by tonight.❞",
-      "Translation": "叶留佳的母亲「吶、叶留佳？今晚能来陪我真是谢谢你了」"
+      "Translation": "`叶留佳的母亲@「吶、叶留佳？今晚能来陪我真是谢谢你了」"
     },
     {
       "JP": "`葉留佳@「………」",
@@ -2738,7 +2738,7 @@
     {
       "JP": "『楽しい』からこうしている、という言葉は、蜘蛛の糸。",
       "EN": "This kind of ❝fun❞ is a spider's thread to her.",
-      "Translation": "`因为@『很开心』所以这么做，这种话是蜘蛛丝。"
+      "Translation": "因为『很开心』所以这么做，这种话是蜘蛛丝。"
     },
     {
       "JP": "細い今にもちぎれそうな糸なのかもしれない。",
@@ -2823,7 +2823,7 @@
     {
       "JP": "`葉留佳の父@「君に、それを話すことは、出来ない」",
       "EN": "`Haruka's Dad@❝I can't explain that, not to you.❞",
-      "Translation": "叶留佳的父亲「这种事情是没法跟你说的」"
+      "Translation": "`叶留佳的父亲@「这种事情是没法跟你说的」"
     },
     {
       "JP": "`理樹@「なぜです」",
@@ -5533,7 +5533,7 @@
     {
       "JP": "少し長めのキス。",
       "EN": "It was a somewhat long kiss.",
-      "Translation": "稍长的一吻"
+      "Translation": "稍长的一吻。"
     },
     {
       "JP": "`葉留佳@「…どうかな？」",
@@ -6223,7 +6223,7 @@
     {
       "JP": "素っ気なく聞こえるように言う。",
       "EN": "I made myself sound as blunt as I could.",
-      "Translation": "我用听起来像是不带感情的声音说道"
+      "Translation": "我用听起来像是不带感情的声音说道。"
     },
     {
       "JP": "`クド@「…あの、その…」",
@@ -6453,7 +6453,7 @@
     {
       "JP": "私に向けられない、笑顔、",
       "EN": "Of the smile that she never shows to me.",
-      "Translation": "不会看向我的笑脸、"
+      "Translation": "不会看向我的笑脸。"
     },
     {
       "JP": "優しい笑顔。",
@@ -7093,7 +7093,7 @@
     {
       "JP": "`お婆さん@「そ、そんなこと言われても…困るのじゃが…」",
       "EN": "`Old Woman@❝E, even if you say that... it's something I can't...❞",
-      "Translation": "`老婆@「就，就算你这样说…我会为难的…」"
+      "Translation": "`老婆婆@「就，就算你这样说…我会为难的…」"
     },
     {
       "JP": "`理樹@「どうかしましたか」",
@@ -7103,7 +7103,7 @@
     {
       "JP": "`お婆さん@「いや、この人がワシの鞄を持ってくれるらし…」",
       "EN": "`Old Woman@❝No, this man is just holding my bag for me...❞",
-      "Translation": "`老婆@「不，这个人好像拿了我的包…」"
+      "Translation": "`老婆婆@「不，这个人好像拿了我的包…」"
     },
     {
       "JP": "`男@「チっ…行けよ婆さん」",
@@ -7118,7 +7118,7 @@
     {
       "JP": "`お婆さん@「!?」",
       "EN": "`Old Woman@❝!?❞",
-      "Translation": "`老婆@「！？」"
+      "Translation": "`老婆婆@「！？」"
     },
     {
       "JP": "`理樹@「だ、だいじょうぶですか？」",
@@ -7133,12 +7133,12 @@
     {
       "JP": "`お婆さん@「いたた…すみませんの…はぁ、どうしたもんかのぅ」",
       "EN": "`Old Woman@❝Oww... sorry about this... Haa, why do such things have to happen.❞",
-      "Translation": "`老婆@「好痛…对不起啊…哈，怎么会这样啊」"
+      "Translation": "`老婆婆@「好痛…对不起啊…哈，怎么会这样啊」"
     },
     {
       "JP": "`お婆さん@「どうも、どうも。ご面倒おかけしましたのぅ」",
       "EN": "`Old Woman@❝Thank you, thank you. I'm sorry for the trouble.❞",
-      "Translation": "`老婆@「谢谢，谢谢。给您添麻烦了」"
+      "Translation": "`老婆婆@「谢谢，谢谢。给您添麻烦了」"
     },
     {
       "JP": "`理樹@「いえいえ、気をつけて帰ってください…」",
@@ -13088,7 +13088,7 @@
     {
       "JP": "深々と…葉留佳さんのお母さんは頭を下げた。",
       "EN": "More deeply still... Haruka-san's mother bowed her head.",
-      "Translation": "叶留佳的母亲…深深的低下了头。"
+      "Translation": "`叶留佳的母亲@…深深的低下了头。"
     },
     {
       "JP": "`葉留佳@「…謝ってもらいたくなんかない…謝ってもらっても…何の役にも立たない…」",

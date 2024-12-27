@@ -182,15 +182,15 @@
       "EN1": "Flower cards [hanafuda]",
       "Translation1": "花札",
       "EN2": "Flower cards [hanafuda]$dA Japanese card game known as hanafuda that features cards with illustrations of each month of the year, flowers, and animals. Generally played with two or three players.",
-      "Translation2": "花札$d一种日本纸牌游戏，是两到三名玩家使用画着12个月份中的各种花朵、动物等图案的卡片进行的游戏。"
+      "Translation2": "花札$d一种日本纸牌游戏，是2到3名玩家使用画着12个月份中的各种花朵、动物等图案的卡片进行的游戏。"
     },
     {
       "JP1": "布団",
       "JP2": "【布団】$d日本では広く使われる寝具のひとつ。部屋の床などの上に直接敷き、不要な時はたたんでしまうこともできる。いつでも寝られるように、敷きっぱなしにしている人もいる。",
       "EN1": "Futon",
-      "Translation1": "Futon",
+      "Translation1": "被褥",
       "EN2": "Futon$dA piece of Japanese furniture used for sleeping. A futon is comprised of a thin cotton or wool mattress and a blanket. In Japan, the futon is usually laid directly on the floor and stowed away during the day. There are also people who don't put the futon away so they can sleep at any time.",
-      "Translation2": "Futon$dA piece of Japanese furniture used for sleeping. A futon is comprised of a thin cotton or wool mattress and a blanket. In Japan, the futon is usually laid directly on the floor and stowed away during the day. There are also people who don't put the futon away so they can sleep at any time."
+      "Translation2": "被褥$d日本使用最广泛的寝具之一，通常由薄棉或羊毛的床垫以及毯子构成。它可以直接放在房间的地板上，不用时可以折叠后收纳起来。有些人把它放在外面是为了能随时睡觉。"
     },
     {
       "JP1": "ゴゴティー",
@@ -198,47 +198,47 @@
       "EN1": "Go-Go tea",
       "Translation1": "Go-Go tea",
       "EN2": "Go-Go tea$dA nickname given to a popular Japanese bottled tea brand.",
-      "Translation2": "Go-Go tea$dA nickname given to a popular Japanese bottled tea brand."
+      "Translation2": "Go-Go tea$d对日本的一种瓶装红茶的爱称。"
     },
     {
       "JP1": "囲碁",
       "JP2": "【囲碁】$d中国伝来のボードゲームで、2人で勝負を行う。白と黒の石を交互に配置し、より広い範囲を確保した方が勝ち。",
       "EN1": "Go",
-      "Translation1": "Go",
+      "Translation1": "围棋",
       "EN2": "Go$dA board game that originated from China. In go, two players, playing the black or white pieces, take turns to place stones to surround a larger total area of the board.",
-      "Translation2": "Go$dA board game that originated from China. In go, two players, playing the black or white pieces, take turns to place stones to surround a larger total area of the board."
+      "Translation2": "围棋$d一种起源于中国的双人棋类游戏，两个人分别往棋盘上放置白子和黑子，最终占据最大面积的玩家获胜。"
     },
     {
       "JP1": "鶴の恩返し",
       "JP2": "【鶴の恩返し】$d日本の民話。罠にかかった鶴を助けた老人にもとに、その鶴が女性の姿に変えて、恩を返すという物語。",
       "EN1": "Grateful Crane",
-      "Translation1": "Grateful Crane",
+      "Translation1": "鹤的报恩",
       "EN2": "Grateful Crane$dA Japanese folk tale of an elderly man who rescued a crane from a hunter's trap. The crane later transformed into a young woman to return the favor to the man and his wife.",
-      "Translation2": "Grateful Crane$dA Japanese folk tale of an elderly man who rescued a crane from a hunter's trap. The crane later transformed into a young woman to return the favor to the man and his wife."
+      "Translation2": "鹤的报恩$d一个日本民间故事。是一只落入陷阱的鹤因为被老人救起而化身为一名女子报答老人的故事。"
     },
     {
       "JP1": "青汁",
       "JP2": "【青汁】$d緑葉野菜などを絞った健康飲料。名前に「青」と付いているが、実際は緑色である。",
       "EN1": "Green juice [aojiru]",
-      "Translation1": "Green juice [aojiru]",
+      "Translation1": "青汁（あおじる）",
       "EN2": "Green juice [aojiru]$dA vegetable-based juice often drunk as a health beverage. The literal meaning of the Japanese name, aojiru, is actually blue juice, but it's very, very green.",
-      "Translation2": "Green juice [aojiru]$dA vegetable-based juice often drunk as a health beverage. The literal meaning of the Japanese name, aojiru, is actually blue juice, but it's very, very green."
+      "Translation2": "青汁（あおじる）$d用绿叶蔬菜榨的汁制成的健康饮料。虽然名字里有「蓝」（あお的意思是蓝色的），但其实它是绿色的。"
     },
     {
       "JP1": "餃子",
       "JP2": "【餃子】$d小麦粉を原料にした皮で、肉やエビ、野菜で作った具を包、焼いたりした食べ物。",
       "EN1": "Gyoza",
-      "Translation1": "Gyoza",
+      "Translation1": "饺子",
       "EN2": "Gyoza$dA pan-fried dumpling that contains ingredients such as meat, shrimp, or vegetables wrapped in a flour dough skin.",
-      "Translation2": "Gyoza$dA pan-fried dumpling that contains ingredients such as meat, shrimp, or vegetables wrapped in a flour dough skin."
+      "Translation2": "饺子$d用面皮和肉、菜、虾等馅料包成的食物。日本的饺子一般指煎饺。"
     },
     {
       "JP1": "袴",
       "JP2": "【袴】$d日本古来の衣服の一種。主に礼装や、剣道などの日本武術などで着用される。また巫女装束の緋袴はとくに有名。いろいろな種類や色がある。",
       "EN1": "Hakama",
-      "Translation1": "Hakama",
+      "Translation1": "袴",
       "EN2": "Hakama$dA traditional Japanese pants tied at the waist and worn over a kimono. It is a ceremonial dress often worn in martial art settings. Hakama come in many varieties and colors; the red hakama worn by shrine maidens are particularly well-known.",
-      "Translation2": "Hakama$dA traditional Japanese pants tied at the waist and worn over a kimono. It is a ceremonial dress often worn in martial art settings. Hakama come in many varieties and colors; the red hakama worn by shrine maidens are particularly well-known."
+      "Translation2": "袴$d一种日本传统服装。主要用作正式场合的礼服和剑道等日本武术的演出服，有许多不同类型和颜色。日本的巫女所穿的朱红色袴尤为有名。"
     },
     {
       "JP1": "ハラキリ",

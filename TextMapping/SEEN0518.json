@@ -1350,17 +1350,17 @@
     {
       "JP": "`朱鷺戸@「例えば友好国のスパイがいたとして、あたしの上司から『協力しろ』と命令が来てる」",
       "EN": "`Tokido@❝For example, my boss may order me to ❛cooperate❜ with a spy from a friendly country.❞",
-      "Translation": "`朱鹭户@「比方说，上司可能命令我与友好国家的间谍『合作』。」"
+      "Translation": "`朱鹭户@「比方说，上司可能命令我与友好国家的间谍『合作』」"
     },
     {
       "JP": "`朱鷺戸@「そんな状況ですら、信用するのは嫌なものなの」",
       "EN": "`Tokido@❝Even in that situation I shouldn't trust them.❞",
-      "Translation": "`朱鹭户@「即使在那种情况下，也不应该信任对方。」"
+      "Translation": "`朱鹭户@「即使在那种情况下，也不应该信任对方」"
     },
     {
       "JP": "`朱鷺戸@「おそらく相手も変わらないでしょうから、お互いが信用しつつも警戒するってわけ」",
       "EN": "`Tokido@❝They're likely to feel the same way about you, so you trust them while staying cautious.❞",
-      "Translation": "`朱鹭户@「他们和你的感觉是一样的，所以彼此既信任又警惕。」"
+      "Translation": "`朱鹭户@「他们和你的感觉是一样的，所以彼此既信任又警惕」"
     },
     {
       "JP": "`朱鷺戸@「上司の命令は本当だろうか？　相手が敵国に取り込まれてないか？　第三者の関与がありえないか？」",
@@ -1430,12 +1430,12 @@
     {
       "JP": "`朱鷺戸@「あなたが覗き込んだのは不完全でいびつな世界よ」",
       "EN": "`Tokido@❝The world you're dabbling in is an imperfect, messed up one.❞",
-      "Translation": "`朱鹭户@「你所窥探的世界是不完整且混乱的。」"
+      "Translation": "`朱鹭户@「你所窥探的世界是不完整且混乱的」"
     },
     {
       "JP": "`朱鷺戸@「場合によっては親の仇すら無二の親友として扱い、誠意ある人々を死地に追いやることもある」",
       "EN": "`Tokido@❝Depending on the situation, you may have to treat your worst enemy like your best friend or chase honest people to the point of death.❞",
-      "Translation": "`朱鹭户@「根据情况，你可能不得不把仇敌当作最好的朋友，或者将诚意满满的人逼入绝境。」"
+      "Translation": "`朱鹭户@「根据情况，你可能不得不把仇敌当作最好的朋友，或者将诚意满满的人逼入绝境」"
     },
     {
       "JP": "淡々と自分に言い聞かせるかのように。",
@@ -1450,7 +1450,7 @@
     {
       "JP": "`朱鷺戸@「…ごめんなさい。脅かしすぎたかしら」",
       "EN": "`Tokido@❝...Sorry. I didn't mean to scare you.❞",
-      "Translation": "`朱鹭户@「…对不起。我不是故意吓你的。」"
+      "Translation": "`朱鹭户@「…对不起。我不是故意吓你的」"
     },
     {
       "JP": "`理樹@「え？」",
@@ -1460,7 +1460,7 @@
     {
       "JP": "`朱鷺戸@「あくまでも最悪の話だから。無論、軽く考えてもらったらやっぱり死ぬんだけど」",
       "EN": "`Tokido@❝I'm just speaking of the worst-case scenario. Of course, if you take it lightly, you're going to die.❞",
-      "Translation": "`朱鹭户@「我只是说最坏的情况。当然，如果你轻视它，你会死的。」"
+      "Translation": "`朱鹭户@「我只是说最坏的情况。当然，如果你轻视它，你会死的」"
     },
     {
       "JP": "どっちなんだろう…。",
@@ -1470,7 +1470,7 @@
     {
       "JP": "`朱鷺戸@「そろそろ時間ね。気をつけながらもう少しだけ寝てなさい」",
       "EN": "`Tokido@❝It's almost time. Be careful and get a little more sleep.❞",
-      "Translation": "`朱鹭户@「差不多时间了。小心点，再睡一会儿吧。」"
+      "Translation": "`朱鹭户@「差不多时间了。小心点，再睡一会儿吧」"
     },
     {
       "JP": "ふわり。いい匂い。",
@@ -1505,7 +1505,7 @@
     {
       "JP": "今日も騒がしい一日になりそうだ…。",
       "EN": "It's going to be another busy day, I thought.",
-      "Translation": "今天看来又是忙碌的一天…。"
+      "Translation": "今天看来又是忙碌的一天…"
     },
     {
       "JP": "…りきっ",
@@ -7505,7 +7505,7 @@
     {
       "JP": "`理樹@「いや、大丈夫。喉が渇いただけだから」",
       "EN": "`Riki@❝Nothing, I'm fine. I'm just thirsty.❞",
-      "Translation": "`理树@「不，美食，我只是有些口渴」"
+      "Translation": "`理树@「不，没事，我只是有些口渴」"
     },
     {
       "JP": "`理樹@「喉かわいたなぁ」",
@@ -7585,17 +7585,17 @@
     {
       "JP": "なんかわけのわからない結束が生まれてる…。",
       "EN": "Somehow, it seems like they have some unfathomable understanding of each other...",
-      "Translation": "总觉得好像诞生了一对莫名其妙的组合…。"
+      "Translation": "总觉得好像诞生了一对莫名其妙的组合…"
     },
     {
       "JP": "ジュースを買いに行きたいところだけど…",
       "EN": "I wanted to go and buy some juice, but...",
-      "Translation": "去买果汁"
+      "Translation": "我想去买果汁，但是…"
     },
     {
       "JP": "今朝の拷問が思い出されて、目眩がした…。",
       "EN": "When I remembered the torture this morning, I got dizzy...",
-      "Translation": "一想起今早被拷问那件事就觉得头晕…。"
+      "Translation": "一想起今早被拷问那件事就觉得头晕…"
     },
     {
       "JP": "`理樹@「あの、真人…」",
@@ -12995,7 +12995,7 @@
     {
       "JP": "みろ…。カツのことしか頭にない。",
       "EN": "Yup... cutlet is the only thing on his mind.",
-      "Translation": "看吧…。他的脑子里就只有肉饼。"
+      "Translation": "看吧…他的脑子里就只有肉饼。"
     },
     {
       "JP": "`理樹@「真人、カツって言ってみて…」",

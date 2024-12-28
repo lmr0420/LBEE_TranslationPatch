@@ -3,27 +3,27 @@
     {
       "JP": "の攻撃！",
       "EN": " attacks! ",
-      "Translation": " attacks! "
+      "Translation": "攻击！"
     },
     {
       "JP": "の勝利！",
       "EN": " is victorious! ",
-      "Translation": " is victorious! "
+      "Translation": "胜利了！"
     },
     {
       "JP": "の勝利！",
       "EN": " is victorious! ",
-      "Translation": " is victorious! "
+      "Translation": "胜利了！ "
     },
     {
       "JP": "タイムアップ！",
       "EN": "Time's up! ",
-      "Translation": "Time's up! "
+      "Translation": "时间到！"
     },
     {
       "JP": "ギブアップ！",
       "EN": "Gave up! ",
-      "Translation": "Gave up! "
+      "Translation": "放弃了！"
     }
   ]
 }

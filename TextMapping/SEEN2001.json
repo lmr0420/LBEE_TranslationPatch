@@ -1608,7 +1608,7 @@
     {
       "JP": "集団から一匹の猫が離れた。",
       "EN": "One cat stood apart from the rest of the group.",
-      "Translation": "从集团里，一只猫离   开了。"
+      "Translation": "从集团里，一只猫离开了。"
     },
     {
       "JP": "僕を振り返り、しばらく歩いてから、また振り返る。",
@@ -1743,7 +1743,7 @@
     {
       "JP": "がさ、と音がした。",
       "EN": "Suddenly, a rustling sound broke the silence.",
-      "Translation": "`听到了@『喀嚓』的声音。"
+      "Translation": "听到了『喀嚓』的声音。"
     },
     {
       "JP": "電灯の光が僕の足下に差した。",
@@ -2853,7 +2853,7 @@
     {
       "JP": "`理樹@「リトルバスターズを終わらせるための計画が」",
       "EN": "`Riki@❝...and put an end to the Little Busters.❞",
-      "Translation": "`理树@「让走向终结的计划」"
+      "Translation": "`理树@「让Little Busters走向终结的计划」"
     },
     {
       "JP": "`謙吾@「………」",
@@ -2873,7 +2873,7 @@
     {
       "JP": "`理樹@「リトルバスターズって、なんなのさ…」",
       "EN": "`Riki@❝What is the Little Busters anyway...❞",
-      "Translation": "`理树@「那，，到底算什么啊…」"
+      "Translation": "`理树@「那Little Busters到底算什么啊…」"
     },
     {
       "JP": "`謙吾@「理樹はなんだと思う」",
@@ -2913,7 +2913,7 @@
     {
       "JP": "`謙吾@「リトルバスターズが終わるとは思っていない」",
       "EN": "`Kengo@❝The Little Busters will still exist.❞",
-      "Translation": "`谦吾@「也不会终结的」"
+      "Translation": "`谦吾@「Little Busters也不会终结的」"
     },
     {
       "JP": "`謙吾@「もし誰もいなくなったとしても…」",
@@ -4228,7 +4228,7 @@
     {
       "JP": "ちりんと鈴も鳴っているのだろう。",
       "EN": "I could almost hear the sound of her bell ornament as she nodded.",
-      "Translation": "`铃应该@『叮』地点了点头吧。"
+      "Translation": "铃应该『叮』地点了点头吧。"
     },
     {
       "JP": "よかった。",
@@ -4253,7 +4253,7 @@
     {
       "JP": "『(TT)』",
       "EN": "[(T.T)]",
-      "Translation": "『T.T)』"
+      "Translation": "『(T.T)』"
     },
     {
       "JP": "今度は泣き顔だけだった。",
@@ -5738,7 +5738,7 @@
     {
       "JP": "にゃーにゃー言ったのは鈴だった。",
       "EN": "She was meowing too.",
-      "Translation": "`说着@『喵－喵－』的铃才像铃。"
+      "Translation": "说着『喵－喵－』的铃才像铃。"
     },
     {
       "JP": "にゃ？",
@@ -8968,7 +8968,7 @@
     {
       "JP": "ちゃぱ、と湯が跳ねる音とともに鈴の声が響いた。",
       "EN": "Her voice was accompanied with a splashing sound.",
-      "Translation": "`随着热水@『哗啦』溅起的声音，铃的声音也响起来了。"
+      "Translation": "随着热水『哗啦』溅起的声音，铃的声音也响起来了。"
     },
     {
       "JP": "湯上がりの鈴を見て、僕は胸を高鳴らせてしまう。",
@@ -10198,7 +10198,7 @@
     {
       "JP": "`おばあさん@「はいはい、なんでしょ」",
       "EN": "`Old Woman@❝Yes? What can I do for you?❞",
-      "Translation": "`老奶@「是是，有什么事」"
+      "Translation": "`老奶奶@「是是，有什么事」"
     },
     {
       "JP": "思い切って話しかけてみたが、優しそうな雰囲気だ。",
@@ -10213,7 +10213,7 @@
     {
       "JP": "`おばあさん@「はあ」",
       "EN": "`Old Woman@❝Well.❞",
-      "Translation": "`老奶@「哈？」"
+      "Translation": "`老奶奶@「哈？」"
     },
     {
       "JP": "さすがに面食らったのか、黙ってしまったおばあさんに僕は必死に説得を続けた。",
@@ -10228,7 +10228,7 @@
     {
       "JP": "`おばあさん@「これと同じくらい熟れたのをもいでおくれ」",
       "EN": "`Old Woman@❝Pick up ones as ripe as this one.❞",
-      "Translation": "`老奶@「摘下与这个差不多熟的，放进筐里」"
+      "Translation": "`老奶奶@「摘下与这个差不多熟的，放进筐里」"
     },
     {
       "JP": "そう言われた。",
@@ -10268,7 +10268,7 @@
     {
       "JP": "`おばあさん@「おわりますよ」",
       "EN": "`Old Woman@❝We are done.❞",
-      "Translation": "`老奶@「今天到此为止了哦」"
+      "Translation": "`老奶奶@「今天到此为止了哦」"
     },
     {
       "JP": "満面の笑みと泥だらけの両手。",
@@ -10633,7 +10633,7 @@
     {
       "JP": "`おばあさん@「大丈夫かえ？」",
       "EN": "`Old Woman@❝Are you all right?❞",
-      "Translation": "`老奶@「没事吧？」"
+      "Translation": "`老奶奶@「没事吧？」"
     },
     {
       "JP": "`理樹@「あ、えと、大丈夫です。なんでもないですから」",
@@ -10663,7 +10663,7 @@
     {
       "JP": "これを食べて、はやくよくなるんだよ、と。",
       "EN": "❛Eat them and get better soon,❜ she said.",
-      "Translation": "`说是@『吃了这个，快点好起来吧』。"
+      "Translation": "说是『吃了这个，快点好起来吧』。"
     },
     {
       "JP": "こういうときは怒られた方が気が楽だと思う。たぶん。",
@@ -10873,7 +10873,7 @@
     {
       "JP": "`後見人@『今なら一時の迷い、ということで済ませられるから、早く戻ってきなさい』",
       "EN": "`Guardian@[If you just ran away on impulse, we can work it out, so come back soon.]",
-      "Translation": "监护人『现在只要说声「只是一时糊涂」就没事了，快点回来吧』"
+      "Translation": "`监护人@『现在只要说声「只是一时糊涂」就没事了，快点回来吧』"
     },
     {
       "JP": "`理樹@「………っ！」",

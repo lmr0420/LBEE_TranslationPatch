@@ -2055,7 +2055,7 @@
     {
       "JP": "立ち入り禁止を無視して入り込んだ罰か…。",
       "EN": "Was it punishment for ignoring the no entry sign...?",
-      "Translation": "`无视@『禁止进入』的惩罚吗…。"
+      "Translation": "无视『禁止进入』的惩罚吗…。"
     },
     {
       "JP": "ほぼ初対面に近い女の子と靴下のまま会うなんて、ひどく惨めな気がした。",
@@ -2520,7 +2520,7 @@
     {
       "JP": "そこには完全な『殺意』だけがあった。",
       "EN": "I felt her malevolent gaze.",
-      "Translation": "`那里只有完全的@『杀意』。"
+      "Translation": "那里只有完全的『杀意』。"
     },
     {
       "JP": "僕はこのまま落ちるはずだったんだ…。",
@@ -2780,7 +2780,7 @@
     {
       "JP": "`朱鷺戸@『ゲーム…スタート』",
       "EN": "`Tokido@❛Game... start.❜",
-      "Translation": "`朱鹭户@『ame…Str』"
+      "Translation": "`朱鹭户@『Game…Start』"
     },
     {
       "JP": "そう告げた彼女の姿を思い出す。",
@@ -8520,7 +8520,7 @@
     {
       "JP": "`？？@「…英語のミニテストで『$K112次はもっとがんばりましょう$K0グッバイガール！』と書かれたひとですそうなんですなんですですすす…すー」",
       "EN": "`???@❝...someone who received a ❛$K112Try better next time$K0 goodbye girl❜ mark on the English mini-test... that's how it is... it is... it is... is-is-is-is...❞",
-      "Translation": "`？@「…反正我就是在英语小测试里卷子上写着$K112『下次再努力一点吧！』$K0评语的人没错就是这样的人这样的人的人…人—」"
+      "Translation": "`？@「…反正我就是在英语小测试里卷子上写着$K112『下次再努力一点吧！』$K0评语的人没错就是这样的人这样的人的人…人ー」"
     },
     {
       "JP": "一人ドップラー効果!?",
@@ -11330,7 +11330,7 @@
     {
       "JP": "`理樹@「ファミリーマートの略。こちらもコンビニ」",
       "EN": "`Riki@❝Short for FamilyMart. This, too, is a convenience store.❞",
-      "Translation": "理树「FamilyMart，全家便利店，和罗森差不多的。」"
+      "Translation": "`理树@「FamilyMart，全家便利店，和罗森差不多的。」"
     },
     {
       "JP": "`朱鷺戸@「それも、単なる直方体よね？」",
@@ -11555,12 +11555,12 @@
     {
       "JP": "急に朱鷺戸さんが止まり、僕はそれに激突した。",
       "EN": "All of a sudden she stopped and I bumped into that.",
-      "Translation": "朱鹭户同学突然停了下来。我也撞上了她"
+      "Translation": "朱鹭户同学突然停了下来。我也撞上了她。"
     },
     {
       "JP": "それ、とはもちろんお尻だ…。",
       "EN": "That, as one would guess, being her butt...",
-      "Translation": "然后，撞上的当然是屁股…。"
+      "Translation": "然后，撞上的当然是屁股…"
     },
     {
       "JP": "`朱鷺戸@「バッカっ、なにするのよっ」",
@@ -11625,7 +11625,7 @@
     {
       "JP": "もちろん彼女のスカートだ…。",
       "EN": "❛That❜ obviously being her skirt...",
-      "Translation": "当然是她的裙子…。"
+      "Translation": "当然是她的裙子…"
     },
     {
       "JP": "`朱鷺戸@「理樹くん、あなたわざとやってるのっ？」",

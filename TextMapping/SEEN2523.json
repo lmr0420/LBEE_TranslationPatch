@@ -1028,7 +1028,7 @@
     {
       "JP": "みんながいない。",
       "EN": "Everyone else is not here.",
-      "Translation": "好不好大家都不在。"
+      "Translation": "好大家都不在。"
     },
     {
       "JP": "僕たちしかいない。",
@@ -1048,7 +1048,7 @@
     {
       "JP": "あたしも強くなる。",
       "EN": "I'll make myself stronger too.",
-      "Translation": "铃：我也会坚强起来的。"
+      "Translation": "我也会坚强起来的。"
     },
     {
       "JP": "僕たちの心はもう結束してるんだよ、恭介。",
@@ -3115,47 +3115,47 @@
     {
       "JP": "みんなを助ける$d鈴を連れて逃げる",
       "EN": "Rescue everyone$dEscape with Rin",
-      "Translation": "Rescue everyone$dEscape with Rin"
+      "Translation": "解救大家$d和铃一起逃跑"
     },
     {
       "JP": "うん$dいや",
       "EN": "Yes$dNo",
-      "Translation": "Yes$dNo"
+      "Translation": "是$d不是"
     },
     {
       "JP": "いい$dよくない",
       "EN": "It's enough$dIt's not enough",
-      "Translation": "It's enough$dIt's not enough"
+      "Translation": "足够了$d还不够"
     },
     {
       "JP": "冷静になる$dバスの中へ様子を見に行く$d鈴を連れて逃げる",
       "EN": "Calm myself down$dSurvey the inside of the bus$dEscape with Rin",
-      "Translation": "Calm myself down$dSurvey the inside of the bus$dEscape with Rin"
+      "Translation": "冷静下来$d去车里看看情况$d和铃一起逃跑"
     },
     {
       "JP": "枝を折る$d救出に向かう",
       "EN": "Break off branches$dStart rescuing the classmates",
-      "Translation": "Break off branches$dStart rescuing the classmates"
+      "Translation": "折断树枝$d开始救出同学们"
     },
     {
       "JP": "後回しにする$dすぐ助ける",
       "EN": "Postpone his rescue$dRescue him without delay",
-      "Translation": "Postpone his rescue$dRescue him without delay"
+      "Translation": "之后再救他$d立刻救他"
     },
     {
       "JP": "荷物を調べてもらう$dシートを取り外してもらう",
       "EN": "Tell her to check the luggage$dTell her to remove some seats",
-      "Translation": "Tell her to check the luggage$dTell her to remove some seats"
+      "Translation": "让她检查行李$d让她拆掉一些座位"
     },
     {
       "JP": "恭介を助ける$d何かを考える",
       "EN": "Rescue Kyousuke$dThink it through",
-      "Translation": "Rescue Kyousuke$dThink it through"
+      "Translation": "救恭介$d好好考虑一下"
     },
     {
       "JP": "恭介を助ける$dさらに考える",
       "EN": "Rescue Kyousuke$dThink more",
-      "Translation": "Rescue Kyousuke$dThink more"
+      "Translation": "救恭介$d再好好考虑一下"
     }
   ],
   "TASK": []

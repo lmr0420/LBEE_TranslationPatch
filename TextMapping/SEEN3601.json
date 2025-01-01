@@ -1538,7 +1538,7 @@
     {
       "JP": "わたしは『いつもみたいに』いじわるないいかたをする。",
       "EN": "I teased her ❛as usual.❜",
-      "Translation": "`我换成了@『像平时那样的』欺负人类型的语气。"
+      "Translation": "我换成了『像平时那样的』欺负人类型的语气。"
     },
     {
       "JP": "そうすると、はるかは、もっとかなしそうになる。",
@@ -2998,7 +2998,7 @@
     {
       "JP": "でも、それは逆に考えれば…。",
       "EN": "However, if you think of that another way....",
-      "Translation": "但是，反过来思考的话…。"
+      "Translation": "但是，反过来思考的话…"
     },
     {
       "JP": "予習復習を必死にやってようやくレベルを維持しているってことじゃないのだろうか。",
@@ -3613,7 +3613,7 @@
     {
       "JP": "だらしないね、と『いつものように』言おうとした。",
       "EN": "I was going to say 'you are so untidy' as usual.",
-      "Translation": "`本想像@『平时那样』说出，真是邋遢啊。"
+      "Translation": "本想像『平时那样』说出，真是邋遢啊。"
     },
     {
       "JP": "そんなんだから私に負けるんだよ、と口にしようとした。",
@@ -3988,7 +3988,7 @@
     {
       "JP": "『いいもの』…らしい。",
       "EN": "It seems that 'fathers' and ❛mothers❜ are good things.",
-      "Translation": "`看起来是@『好东西』…。"
+      "Translation": "看起来是『好东西』…"
     },
     {
       "JP": "かぞくっていうのは、あたりまえにいいもの、らしい。",
@@ -4028,7 +4028,7 @@
     {
       "JP": "小さいころからの夢…。",
       "EN": "The dream we've had for as long as I can remember.",
-      "Translation": "很小时候的梦…。"
+      "Translation": "很小时候的梦…"
     },
     {
       "JP": "その夢はおとうさんたちが私たちをおぼえていなければ意味がない。",
@@ -4173,7 +4173,7 @@
     {
       "JP": "『いじわる』し続けるのは、いやだった。",
       "EN": "I'm tired of continuing this ❛bullying.❜",
-      "Translation": "`一直这样@『刁难』下去的事情，我已经厌烦了。"
+      "Translation": "一直这样『刁难』下去的事情，我已经厌烦了。"
     },
     {
       "JP": "いもうとをいじめるなんて…『悪い』ことだ。",
@@ -4208,12 +4208,12 @@
     {
       "JP": "『私たちが生まれた日』に何をやっているのだろう。",
       "EN": "Just what is she doing? Today's the day we were born.",
-      "Translation": "`在这个@『我们的诞生之日』里，在做什么呢。"
+      "Translation": "在这个『我们的诞生之日』里，在做什么呢。"
     },
     {
       "JP": "誰だっておめでとう、って言ってくれる日に、がまんしなくちゃいけないなんて、かなしい。",
       "EN": "It's sad we were going through this on the day people should be wishing us ❛happy birthday❜.",
-      "Translation": "在这个本应有人说句，生日快乐的一天里，不得不这样忍耐着什么的，这样太可悲了。"
+      "Translation": "在这个本应有人说一句生日快乐的一天里，不得不这样忍耐着什么的，这样太可悲了。"
     },
     {
       "JP": "いもうとに、がまんさせちゃ『よいおねえさん』ではないじゃないか。",
@@ -4888,12 +4888,12 @@
     {
       "JP": "`風紀委員１@「…委員長、だいじょうぶですか？」",
       "EN": "`Prefect 1@❝...Are you alright, chairman?❞",
-      "Translation": "风纪委员１「…委员长，没事吧？」"
+      "Translation": "`风纪委员１@「…委员长，没事吧？」"
     },
     {
       "JP": "`風紀委員２@「だいぶお疲れのようですし、休まれても…」",
       "EN": "`Prefect 2@❝You seems quite tired, maybe you should rest...❞",
-      "Translation": "风纪委员２「看起来似乎很累了，要不休息下…」"
+      "Translation": "`风纪委员２@「看起来似乎很累了，要不休息下…」"
     },
     {
       "JP": "`二木@「問題ないわ」",
@@ -4903,22 +4903,22 @@
     {
       "JP": "`風紀委員１@「しかし、ですね」",
       "EN": "`Prefect 1@❝Still...❞",
-      "Translation": "风纪委员１「但是，那个」"
+      "Translation": "`风纪委员１@「但是，那个」"
     },
     {
       "JP": "`風紀委員１@「…あちこちから反発の声があがっています」",
       "EN": "`Prefect 1@❝...We have opposition from various places.❞",
-      "Translation": "风纪委员１「…到处都是反对的呼声啊」"
+      "Translation": "`风纪委员１@「…到处都是反对的呼声啊」"
     },
     {
       "JP": "`風紀委員２@「せっかく利用方法を緩めたのに…何故活動時間の締め付けを？」",
       "EN": "`Prefect 2@❝We just made it easier to get permission... why are we restricting the usage hours?❞",
-      "Translation": "风纪委员２「难得在利用方法的问题上得到了缓解…为什么又要定下活动时间的管制呢」"
+      "Translation": "`风纪委员２@「难得在利用方法的问题上得到了缓解…为什么又要定下活动时间的管制呢」"
     },
     {
       "JP": "`風紀委員２@「運動部会から不満があがってます」",
       "EN": "`Prefect 2@❝The sports clubs are raising complaints like there's no tomorrow.❞",
-      "Translation": "风纪委员２「体育部协会那边似乎是很不满啊」"
+      "Translation": "`风纪委员２@「体育部协会那边似乎是很不满啊」"
     },
     {
       "JP": "新人戦も、学祭準備もあるのに、と声が上がる。",
@@ -4938,12 +4938,12 @@
     {
       "JP": "`風紀委員３@「…一握りの部が予約押えまくってしまったんですよ？」",
       "EN": "`Prefect 3@❝...A handful of clubs is hogging all of the field time.❞",
-      "Translation": "风纪委员３「…那也只是因为，有一小部分的社团强制性提前预约了而已啊？」"
+      "Translation": "`风纪委员３@「…那也只是因为，有一小部分的社团强制性提前预约了而已啊？」"
     },
     {
       "JP": "`風紀委員４@「そんなの不公平すぎるから抗議するのは当たり前です」",
       "EN": "`Prefect 4@❝It's obvious there'd be resistance to such unfairness.❞",
-      "Translation": "风纪委员４「正因为这样太不公平了，所以他们才会提出抗议的啊」"
+      "Translation": "`风纪委员４@「正因为这样太不公平了，所以他们才会提出抗议的啊」"
     },
     {
       "JP": "`二木@「…じゃその予約を全部なしにして」",
@@ -4953,7 +4953,7 @@
     {
       "JP": "`風紀委員３@「そんな行き当たりばったりな！」",
       "EN": "`Prefect 3@❝We can't do that!❞",
-      "Translation": "风纪委员３「怎么能做出那么漫无计划的事情！」"
+      "Translation": "`风纪委员３@「怎么能做出那么漫无计划的事情！」"
     },
     {
       "JP": "傍目からみても、二木さんの言い方は理屈にあっていなかった。",
@@ -4983,7 +4983,7 @@
     {
       "JP": "`風紀委員１@「…では決を採りましょう」",
       "EN": "`Prefect 1@❝...Then let's vote.❞",
-      "Translation": "风纪委员１「…那么投票决定吧」"
+      "Translation": "`风纪委员１@「…那么投票决定吧」"
     },
     {
       "JP": "とうとう焦れたひとりがそう言った。",
@@ -4993,7 +4993,7 @@
     {
       "JP": "`風紀委員１@「利用申請方法を変える必要はないと思われますがどうでしょうか？」",
       "EN": "`Prefect 1@❝Who thinks we don't have to change the way clubs register for the use of the field?❞",
-      "Translation": "风纪委员１「觉得没有必要改变利用申请方式的，有没有人？」"
+      "Translation": "`风纪委员１@「觉得没有必要改变利用申请方式的，有没有人？」"
     },
     {
       "JP": "賛成、と委員達が手を挙げる。",
@@ -5523,7 +5523,7 @@
     {
       "JP": "`葉留佳@「あぁ…うん…。まだ……行きたくないよ」",
       "EN": "`Haruka@❝Ah... yeah.... I still...... don't want to go.❞",
-      "Translation": "`叶留佳@「啊……嗯…。我还……不想去」"
+      "Translation": "`叶留佳@「啊……嗯…我还……不想去」"
     },
     {
       "JP": "`佳奈多@「……そう」",
@@ -5668,7 +5668,7 @@
     {
       "JP": "空腹の状態で、あんなに走らされていたとしたら…。",
       "EN": "If she was made to run like that on an empty stomach...",
-      "Translation": "若真是在空腹的状态，让她去跑的话…。"
+      "Translation": "若真是在空腹的状态，让她去跑的话…"
     },
     {
       "JP": "`葉留佳@「そんなんでも途中までは勝っていたからね」",
@@ -5848,7 +5848,7 @@
     {
       "JP": "『仲の悪いきょうだい』のふりを続けなければならない。",
       "EN": "We must continue this ❛quarreling siblings❜ act.",
-      "Translation": "我们不得不继续扮演『关系恶劣的姐妹』的这个角色"
+      "Translation": "我们不得不继续扮演『关系恶劣的姐妹』的这个角色。"
     },
     {
       "JP": "それなのに…ずっと続けていると、ほんとうに私たちは仲が悪いのではないか、と。",

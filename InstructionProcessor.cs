@@ -12,6 +12,7 @@ namespace LBEE_TranslationPatch
     {
 
         public static HashSet<char> CharCollection = new HashSet<char>();
+        public static Dictionary<string, Dictionary<int, int>> ScriptCommandRedirectors = new();
 
         public static int GetCmdHeaderLength(byte[] command)
         {
@@ -69,7 +70,9 @@ namespace LBEE_TranslationPatch
             { 14, TAIL4Ptr_ASSIGN_CMD },    // GOTO
             { 16, TAIL4Ptr_ASSIGN_CMD },    // GOSUB
             { 17, TAIL4Ptr_ASSIGN_CMD },    // IFY
-            { 18, TAIL4Ptr_ASSIGN_CMD }     // IFN
+            { 18, TAIL4Ptr_ASSIGN_CMD },    // IFN
+            { 20, JUMP_ASSIGN_CMD },      // JUMP
+            { 21, FARCALL_ASSIGN_CMD }      // FARCALL
         };
 
         public static Dictionary<byte, Action<LucaCommand,LucaCommand[]>> FixPtrMapping = new()
@@ -77,7 +80,9 @@ namespace LBEE_TranslationPatch
             { 14, TAIL4Ptr_FIX_PTR },
             { 16, TAIL4Ptr_FIX_PTR },
             { 17, TAIL4Ptr_FIX_PTR },
-            { 18, TAIL4Ptr_FIX_PTR } 
+            { 18, TAIL4Ptr_FIX_PTR },
+            { 20, JUMP_FIX_PTR },
+            { 21, FARCALL_FIX_PTR }
         };
 
         public static JObject? MESSAGE_GET(byte[] command)
@@ -574,6 +579,9 @@ namespace LBEE_TranslationPatch
             }
         }
 
+        // 用于修正指令中的指针
+        // 感觉在有了CommandRedirectors之后是不需要Assign的步骤了，但是为了避免出Bug，旧代码就不动了
+        // 感觉屎山正在慢慢堆积。。
         public static LucaCommand[]? TAIL4Ptr_ASSIGN_CMD(List<LucaCommand> InAllCommands,int CmdIndex)
         {
             var CurCmd = InAllCommands[CmdIndex];
@@ -598,6 +606,71 @@ namespace LBEE_TranslationPatch
             {
                 Int2LittleEndian(CurCmd.Command, CurCmd.Command.Length - 4, InCommands[0].CmdPtr);
             }
+        }
+
+        public static LucaCommand[]? FARCALL_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
+        {
+            var CurCmd = InAllCommands[CmdIndex];
+            return new LucaCommand[] { CurCmd };
+        }
+
+        public static void FARCALL_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
+        {
+            if (CurCmd.Command == null)
+            {
+                return;
+            }
+            int index = GetCmdHeaderLength(CurCmd.Command);
+            int ExpLength = GetSingleByteStrLength(CurCmd.Command, index + 2);
+            string TargetScript = Encoding.ASCII.GetString(CurCmd.Command[(index + 2)..(index + 2 + ExpLength)]).ToLower();
+            int SourceCmdPtr = LittleEndian2Int(CurCmd.Command[(index + 2 + ExpLength + 1)..(index + 2 + ExpLength + 1 + 4)]);
+            if (!ScriptCommandRedirectors.ContainsKey(TargetScript))
+            {
+                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript);
+                Environment.Exit(-1);
+            }
+            var TargetRedirectors = ScriptCommandRedirectors[TargetScript];
+            if(!TargetRedirectors.ContainsKey(SourceCmdPtr))
+            {
+                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript + " SourcePtr " + SourceCmdPtr);
+                Environment.Exit(-1);
+            }
+            Int2LittleEndian(CurCmd.Command, index + 2 + ExpLength + 1, TargetRedirectors[SourceCmdPtr]);
+        }
+
+        public static LucaCommand[]? JUMP_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
+        {
+            return FARCALL_ASSIGN_CMD(InAllCommands, CmdIndex);
+        }
+
+        // 与FARCALL_FIX_PTR相同，但Header和脚本名之间少了2个字节的变量。
+        public static void JUMP_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
+        {
+            if (CurCmd.Command == null)
+            {
+                return;
+            }
+            int index = GetCmdHeaderLength(CurCmd.Command);
+            int ExpLength = GetSingleByteStrLength(CurCmd.Command, index);
+            if (index + ExpLength + 1 >= CurCmd.GetCmdLength())
+            {
+                // 这个JUMP可能不带参数，直接返回
+                return;
+            }
+            string TargetScript = Encoding.ASCII.GetString(CurCmd.Command[index..(index + ExpLength)]).ToLower();
+            int SourceCmdPtr = LittleEndian2Int(CurCmd.Command[(index + ExpLength + 1)..(index + ExpLength + 1 + 4)]);
+            if (!ScriptCommandRedirectors.ContainsKey(TargetScript))
+            {
+                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript);
+                Environment.Exit(-1);
+            }
+            var TargetRedirectors = ScriptCommandRedirectors[TargetScript];
+            if (!TargetRedirectors.ContainsKey(SourceCmdPtr))
+            {
+                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript + " SourcePtr " + SourceCmdPtr);
+                Environment.Exit(-1);
+            }
+            Int2LittleEndian(CurCmd.Command, index + ExpLength + 1, TargetRedirectors[SourceCmdPtr]);
         }
     }
 

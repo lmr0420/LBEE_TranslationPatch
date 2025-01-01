@@ -6103,12 +6103,12 @@
     {
       "JP": "`声@「それを知らない人間は、手を抜くことすら、学べない」",
       "EN": "`Voice@❝...they wouldn't know what to let go of...❞",
-      "Translation": "`声@「若不了解的人，是学不来该在什么地方收手」"
+      "Translation": "`声@「如果不了解的话，是学不来该在什么地方收手的」"
     },
     {
       "JP": "`声@「力を入れるべき場所すら、わからない」",
       "EN": "`Voice@❝...and what to focus on.❞",
-      "Translation": "`声@「要在哪里使劲，也不会了解」"
+      "Translation": "`声@「要在哪里使劲，也是学不来的」"
     },
     {
       "JP": "`声@「そういうものだからな」",
@@ -6123,7 +6123,7 @@
     {
       "JP": "`寮長@「あら、棗くん」",
       "EN": "`Dorm Head@❝Ah, Natsume-kun.❞",
-      "Translation": "`宿管@「阿拉，棗君」"
+      "Translation": "`宿管@「阿啦，棗君」"
     },
     {
       "JP": "`寮長@「ここではおひさしぶりね」",
@@ -6638,7 +6638,7 @@
     {
       "JP": "`佳奈多@（こうして『外』に触れさせてもらうだけで、恵まれているんだ…）",
       "EN": "`Kanata@(I consider myself lucky just being able to experience the ❛outside❜ world...)",
-      "Translation": "佳奈多（像这样可以和『外面』接触，就已经是对我的恩惠了…）"
+      "Translation": "`佳奈多@（像这样可以和『外面』接触，就已经是对我的恩惠了…）"
     },
     {
       "JP": "そう思いこもうとする。",
@@ -7718,7 +7718,7 @@
     {
       "JP": "ここでいもうとに本当のことを言ってしまったら…。",
       "EN": "If I tell my little sister the truth here...",
-      "Translation": "若在这里和妹妹说明了真相的话…。"
+      "Translation": "若在这里和妹妹说明了真相的话…"
     },
     {
       "JP": "…いもうとはもっとひどいめにあうんじゃないのか？",
@@ -7788,7 +7788,7 @@
     {
       "JP": "『仲が悪い振りをしよう』、と。",
       "EN": "❛Let's pretend to be on bad terms.❜",
-      "Translation": "『假装关系恶劣』。"
+      "Translation": "『假装关系恶劣』"
     },
     {
       "JP": "大きくなるまで。",
@@ -8208,7 +8208,7 @@
     {
       "JP": "『どれ』が嘘なのだろう。",
       "EN": "Just ❛which❜ was the lie?",
-      "Translation": "`到底@『哪句』才是谎言。"
+      "Translation": "到底『哪句』才是谎言。"
     },
     {
       "JP": "演じていると思っていたけれど、あれは私の本心だったのかもしれない。",
@@ -8683,7 +8683,7 @@
     {
       "JP": "――『私たち』の評判はよくない。",
       "EN": "――❛We❜ don't have a good reputation.",
-      "Translation": "—『我们』在世间的评价并不好。"
+      "Translation": "ーー『我们』在世间的评价并不好。"
     },
     {
       "JP": "昔は地主だっただけだ。偉くもなんともない。",
@@ -8858,7 +8858,7 @@
     {
       "JP": "どれだけ時間が掛かっても、わかってくれるまで、理由を話して…。",
       "EN": "No matter how long it takes, I will keep explaining until she understands...",
-      "Translation": "无论是要花费上多少时间，直到她理解这一切之前，我都会一直向她说明…。"
+      "Translation": "无论是要花费上多少时间，直到她理解这一切之前，我都会一直向她说明…"
     },
     {
       "JP": "許して貰おう。",
@@ -9308,7 +9308,7 @@
     {
       "JP": "『しかし、妹のほうは何をされても従順だったらしいぞ』",
       "EN": "❛I hear your sister not even once complained about her treatment.❜",
-      "Translation": "『但是，你的妹妹可以无论被怎么样都会顺从的哦』"
+      "Translation": "『但是，你的妹妹可是无论被怎么样都会顺从的哦』"
     },
     {
       "JP": "『何も出来ず逃げるだけしかできなかった母親と父親に似たのかな？』",
@@ -9388,7 +9388,7 @@
     {
       "JP": "回り道でも、小さなことから変えていって、いつか、あの子と…。",
       "EN": "Even though it's roundabout, even if I start from small things, someday, she will....",
-      "Translation": "即使是绕远路，从一点点的小事开始改变，总有一天，会和这个孩子一起…。"
+      "Translation": "即使是绕远路，从一点点的小事开始改变，总有一天，会和这个孩子一起…"
     },
     {
       "JP": "思考がぐるぐる回って、出口が見つからない。",
@@ -9783,7 +9783,7 @@
     {
       "JP": "ただ、それだけだ…。",
       "EN": "Just that...",
-      "Translation": "只是，这样而已…。"
+      "Translation": "只是，这样而已…"
     },
     {
       "JP": "『そうか。物わかりの良い子だな。助かるよ』",
@@ -10738,7 +10738,7 @@
     {
       "JP": "…そう、『どうして』？",
       "EN": "...Yes, ❛why❜?",
-      "Translation": "`…是的，@『为什么』？"
+      "Translation": "…是的，『为什么』？"
     },
     {
       "JP": "どこかで『どうして』と、訊かれたなと思った。",
@@ -10748,7 +10748,7 @@
     {
       "JP": "その『どうして』に、なんて僕は答えただろうか。",
       "EN": "To that ❛why,❜ what did I answer?",
-      "Translation": "`对于那个@『为什么』，我为什么就能回答出来呢。"
+      "Translation": "对于那个『为什么』，我为什么就能回答出来呢。"
     },
     {
       "JP": "わからなかった。",
@@ -11528,7 +11528,7 @@
     {
       "JP": "`父@「…すまないな。年端もいかぬおまえにそこまでして貰って…」",
       "EN": "`Father@❝...I'm sorry. For someone as young as you to do so much...❞",
-      "Translation": "`父@「…真是对不起。让只有十来岁的你为我们做了这么多…」"
+      "Translation": "`父亲@「…真是对不起。让只有十来岁的你为我们做了这么多…」"
     },
     {
       "JP": "`佳奈多@「お二人には、葉留佳と住んでもらいます」",
@@ -11538,7 +11538,7 @@
     {
       "JP": "`父@「葉留佳と？　いいのか」",
       "EN": "`Father@❝Haruka? Is that alright?❞",
-      "Translation": "`父@「和叶留佳？可以吗」"
+      "Translation": "`父亲@「和叶留佳？可以吗」"
     },
     {
       "JP": "`佳奈多@「はい。よろしくお願いします」",
@@ -11548,7 +11548,7 @@
     {
       "JP": "`父@「あの子は…」",
       "EN": "`Father@❝That girl...❞",
-      "Translation": "`父@「那孩子她…」"
+      "Translation": "`父亲@「那孩子她…」"
     },
     {
       "JP": "`佳奈多@「…とても、ひどい、状況です」",
@@ -11558,7 +11558,7 @@
     {
       "JP": "`父@「…そうか」",
       "EN": "`Father@❝...I see.❞",
-      "Translation": "`父@「…是吗」"
+      "Translation": "`父亲@「…是吗」"
     },
     {
       "JP": "`佳奈多@「三枝の家で、ひどい扱いを受けて…」",
@@ -11608,7 +11608,7 @@
     {
       "JP": "`父@「私たちは当然だが…何故おまえも？」",
       "EN": "`Father@❝We are a given, but why you too?❞",
-      "Translation": "`父@「我们会这样是正常的…为什么你也？」"
+      "Translation": "`父亲@「我们会这样是正常的…为什么你也？」"
     },
     {
       "JP": "`佳奈多@「………」",
@@ -11618,12 +11618,12 @@
     {
       "JP": "`父@「…話したくないのなら、いい」",
       "EN": "`Father@❝...It's alright if you don't want to talk about it.❞",
-      "Translation": "`父@「…不想说的话，就算了」"
+      "Translation": "`父亲@「…不想说的话，就算了」"
     },
     {
       "JP": "`父@「すまなかった」",
       "EN": "`Father@❝I'm sorry.❞",
-      "Translation": "`父@「对不起」"
+      "Translation": "`父亲@「对不起」"
     },
     {
       "JP": "父は深く頭を下げた。",
@@ -11633,12 +11633,12 @@
     {
       "JP": "`父@「何を言っても許してもらえるはずもない…」",
       "EN": "`Father@❝I shouldn't be expecting forgiveness from you...❞",
-      "Translation": "`父@「虽然知道说什么你也不会原谅我们的…」"
+      "Translation": "`父亲@「虽然知道说什么你也不会原谅我们的…」"
     },
     {
       "JP": "`父@「けれど、謝りたい。すまなかった」",
       "EN": "`Father@❝But I want to apologize. I'm sorry.❞",
-      "Translation": "`父@「但我还是想要道歉。对不起」"
+      "Translation": "`父亲@「但我还是想要道歉。对不起」"
     },
     {
       "JP": "父と母が語ったこと。",
@@ -11668,7 +11668,7 @@
     {
       "JP": "`父@「…晶のことだが…」",
       "EN": "`Father@❝...About Shou...❞",
-      "Translation": "`父@「…是关于晶的事情…」"
+      "Translation": "`父亲@「…是关于晶的事情…」"
     },
     {
       "JP": "`佳奈多@「面会はもうしました」",
@@ -11683,7 +11683,7 @@
     {
       "JP": "`父@「…佳奈多…」",
       "EN": "`Father@❝...Kanata...❞",
-      "Translation": "`父@「…佳奈多…」"
+      "Translation": "`父亲@「…佳奈多…」"
     },
     {
       "JP": "最初は突き放されたが、本来は聡いひとだった。",
@@ -11738,7 +11738,7 @@
     {
       "JP": "`父@「すまない、佳奈多…」",
       "EN": "`Father@❝I'm sorry, Kanata...❞",
-      "Translation": "`父@「对不起，佳奈多…」"
+      "Translation": "`父亲@「对不起，佳奈多…」"
     },
     {
       "JP": "`佳奈多@「私は…憎んでいません」",
@@ -11863,7 +11863,7 @@
     {
       "JP": "`父@「佳奈多、おまえは？」",
       "EN": "`Father@❝What about you, Kanata?❞",
-      "Translation": "`父@「佳奈多，你呢？」"
+      "Translation": "`父亲@「佳奈多，你呢？」"
     },
     {
       "JP": "`佳奈多@「もう二度と会うことはないでしょう」",
@@ -11938,7 +11938,7 @@
     {
       "JP": "`父@「…わかった。そうしよう」",
       "EN": "`Father@❝...I understood. I'll do that.❞",
-      "Translation": "`父@「…我知道了。我会那么做的」"
+      "Translation": "`父亲@「…我知道了。我会那么做的」"
     },
     {
       "JP": "こっけいな依頼だと思う。",
@@ -12398,7 +12398,7 @@
     {
       "JP": "`生徒会役員@「…辞めたい？　いきなりだね。理由は？」",
       "EN": "`Council Officer@❝...She wants to quit?　That's so sudden. What's the reason?❞",
-      "Translation": "学生会委员「…不做了？好突然啊。理由是什么？」"
+      "Translation": "`学生会委员@「…不做了？好突然啊。理由是什么？」"
     },
     {
       "JP": "`葉留佳@「寮会の仕事に専念したいから、だそうです」",
@@ -12408,7 +12408,7 @@
     {
       "JP": "`生徒会役員@「む、なるほどね」",
       "EN": "`Council Officer@❝Hmm, I see.❞",
-      "Translation": "学生会委员「哦，是这样啊」"
+      "Translation": "`学生会委员@「哦，是这样啊」"
     },
     {
       "JP": "委員会辞任届出書はあっさり受理された。",
@@ -12418,17 +12418,17 @@
     {
       "JP": "`生徒会役員@「前から二木さんはがんばりすぎてたと思うから。いいんじゃないかな」",
       "EN": "`Council Officer@❝Futaki-san, I always thought you had a tendency to overwork yourself. I'm sure this is for the best.❞",
-      "Translation": "学生会委员「之前也有觉得二木似乎是有点努力过头了。这样也好啊」"
+      "Translation": "`学生会委员@「之前也有觉得二木似乎是有点努力过头了。这样也好啊」"
     },
     {
       "JP": "`生徒会役員@「引き継ぎだけはしっかり確認するから」",
       "EN": "`Council Officer@❝I will make sure the transition goes smoothly.❞",
-      "Translation": "学生会委员「我们也会好好努力，找人接她班的」"
+      "Translation": "`学生会委员@「我们也会好好努力，找人接她班的」"
     },
     {
       "JP": "`生徒会役員@「そのあとで腕章を返還してください」",
       "EN": "`Council Officer@❝Please return the arm band.❞",
-      "Translation": "学生会委员「之后只要把臂章还回来就可以了」"
+      "Translation": "`学生会委员@「之后只要把臂章还回来就可以了」"
     },
     {
       "JP": "そう言われて生徒会室を出た。",
@@ -12453,7 +12453,7 @@
     {
       "JP": "`風紀委員１@「………」",
       "EN": "`Prefect 1@❝.........❞",
-      "Translation": "风纪委员１「………」"
+      "Translation": "`风纪委员１@「………」"
     },
     {
       "JP": "副委員長が黙っているのを見かねたのか、脇から委員たちが言う。",
@@ -12463,7 +12463,7 @@
     {
       "JP": "`風紀委員２@「いいですよ」",
       "EN": "`Prefect 2@❝That's alright.❞",
-      "Translation": "风纪委员２「挺好啊」"
+      "Translation": "`风纪委员２@「挺好啊」"
     },
     {
       "JP": "`佳奈多@「え？」",
@@ -12473,12 +12473,12 @@
     {
       "JP": "`風紀委員２@「どのみち、二年の夏過ぎたら、どこの委員長も引退です」",
       "EN": "`Prefect 2@❝No matter what, all committee chairmen will retire after the summer of the second year.❞",
-      "Translation": "风纪委员２「不管怎么说，过了这二年级的夏天之后，所有的委员长也都要退位了」"
+      "Translation": "`风纪委员２@「不管怎么说，过了这二年级的夏天之后，所有的委员长也都要退位了」"
     },
     {
       "JP": "`風紀委員２@「少し早いだけですからね」",
       "EN": "`Prefect 2@❝This is a bit ahead of schedule, but...❞",
-      "Translation": "风纪委员２「只是早点晚点的事而已」"
+      "Translation": "`风纪委员２@「只是早点晚点的事而已」"
     },
     {
       "JP": "`佳奈多@「………」",
@@ -12488,22 +12488,22 @@
     {
       "JP": "`風紀委員３@「あとはお任せくださいっ」",
       "EN": "`Prefect 3@❝Please leave the rest to us.❞",
-      "Translation": "风纪委员３「下面的就全交给我们吧」"
+      "Translation": "`风纪委员３@「下面的就全交给我们吧」"
     },
     {
       "JP": "`風紀委員４@「寮会のほうでは引き続きがんばってくださいねーっ」",
       "EN": "`Prefect 4@❝Do your best with the dorm committee's work.❞",
-      "Translation": "风纪委员４「宿舍会那边的接班工作，还请加油啊－」"
+      "Translation": "`风纪委员４@「宿舍会那边的接班工作，还请加油啊－」"
     },
     {
       "JP": "`風紀委員１@「…今までおつかれさまでした」",
       "EN": "`Prefect 1@❝...Thank you for all your hard work until now.❞",
-      "Translation": "风纪委员１「…至今为止，您真是辛苦了」"
+      "Translation": "`风纪委员１@「…至今为止，您真是辛苦了」"
     },
     {
       "JP": "`風紀委員１@「この間はすみませんでした」",
       "EN": "`Prefect 1@❝I'm sorry for the other day.❞",
-      "Translation": "风纪委员１「之前的那件事，对不起了」"
+      "Translation": "`风纪委员１@「之前的那件事，对不起了」"
     },
     {
       "JP": "`佳奈多@「…ううん。あなたは悪くない」",
@@ -12833,7 +12833,7 @@
     {
       "JP": "風呂敷に荷物を包んでにこやかに校門を出て行く寮長をさっき見送ったんだけど…。",
       "EN": "I saw the dorm head off at the school gates earlier, as she was holding her belongings wrapped in a piece of cloth...",
-      "Translation": "我们将宿管送行送至了校门处后，她背着她用包袱裹着的行李，笑嘻嘻地离开了…。"
+      "Translation": "我们将宿管送行送至了校门处后，她背着她用包袱裹着的行李，笑嘻嘻地离开了…"
     },
     {
       "JP": "だいじょうぶだろうか、あのひと。",
@@ -13538,7 +13538,7 @@
     {
       "JP": "二木さんの後ろ姿に、僕はお礼を言った。",
       "EN": "I thanked Futaki-san's turned back.",
-      "Translation": "对着二木的背影，我致谢说道。"
+      "Translation": "对着二木的背影，我致谢道。"
     },
     {
       "JP": "休みの日、買い出しを兼ねて商店街へ行くことにしていた。",
@@ -14653,7 +14653,7 @@
     {
       "JP": "ケチャップが大増量されている…。",
       "EN": "The thing was brimming with ketchup...",
-      "Translation": "番茄酱大幅增加…。"
+      "Translation": "番茄酱大幅增加…"
     },
     {
       "JP": "`理樹@（ピクルス抜きの注文はいいんだけど…さすがにこれは変だよね…）",
@@ -14668,17 +14668,17 @@
     {
       "JP": "僕も食べよう…。",
       "EN": "I should eat too...",
-      "Translation": "我也开吃吧…。"
+      "Translation": "我也开吃吧…"
     },
     {
       "JP": "…。",
       "EN": "...",
-      "Translation": "…。"
+      "Translation": "…"
     },
     {
       "JP": "……。",
       "EN": "......",
-      "Translation": "……。"
+      "Translation": "……"
     },
     {
       "JP": "ふと顔を上げると。",
@@ -14763,7 +14763,7 @@
     {
       "JP": "うわぁ、すごい睨んでる…。",
       "EN": "Ouch, she was still glaring at me....",
-      "Translation": "唔哇，好凶恶的眼神…。"
+      "Translation": "唔哇，好凶恶的眼神…"
     },
     {
       "JP": "顔真っ赤だし。",
@@ -14773,7 +14773,7 @@
     {
       "JP": "相当怒っているっぽい…。",
       "EN": "She really looks angry...",
-      "Translation": "看起来相当生气啊…。"
+      "Translation": "看起来相当生气啊…"
     },
     {
       "JP": "拭く？",
@@ -14873,7 +14873,7 @@
     {
       "JP": "でも恥ずかしがる二木さんは新鮮かもしれないな…。",
       "EN": "Still, the embarrassed Futaki-san was a refreshing sight...",
-      "Translation": "但是像这样害羞的二木，还真是挺新鲜啊…。"
+      "Translation": "但是像这样害羞的二木，还真是挺新鲜啊…"
     },
     {
       "JP": "ウーロン茶を飲みながらそんなことを思った。",
@@ -14938,7 +14938,7 @@
     {
       "JP": "僕は路上の敷物に置かれた品物を見るためにかがむ。",
       "EN": "I leaned over to look at the items for sale.",
-      "Translation": "我蹲下身去看那些放在地摊上的物品"
+      "Translation": "我蹲下身去看那些放在地摊上的物品。"
     },
     {
       "JP": "`二木@「なんでもないってば」",
@@ -15003,7 +15003,7 @@
     {
       "JP": "ふたつで５００円。",
       "EN": "Two for 500 yen.",
-      "Translation": "两个一共５００。"
+      "Translation": "两个一共５００元。"
     },
     {
       "JP": "`理樹@「すみません、これください」",
@@ -15033,7 +15033,7 @@
     {
       "JP": "僕は五百円玉を露店のひとに渡した。",
       "EN": "I gave the shopkeeper a 500 yen coin.",
-      "Translation": "我递给小贩一枚５００硬币。"
+      "Translation": "我递给小贩一枚５００元硬币。"
     },
     {
       "JP": "`理樹@「はい」",
@@ -15073,7 +15073,7 @@
     {
       "JP": "前髪を片手で弄りながら何か苦悩しているようだ…。",
       "EN": "She seemed to be deep in thought, playing with her forelocks...",
-      "Translation": "二木单手拨弄着刘海，似乎在苦恼着什么…。"
+      "Translation": "二木单手拨弄着刘海，似乎在苦恼着什么…"
     },
     {
       "JP": "すごくわかりやすい反応で、見ていて面白いなぁ。",
@@ -15118,7 +15118,7 @@
     {
       "JP": "髪留めをぎゅっと握ると、二木さんは苦笑した。",
       "EN": "While holding the hair tie tightly, Futaki-san smile bitterly.",
-      "Translation": "紧握着发饰的二木，苦笑着说"
+      "Translation": "紧握着发饰的二木，苦笑着说。"
     },
     {
       "JP": "`二木@「そうよ」",
@@ -15143,7 +15143,7 @@
     {
       "JP": "やっぱりといえばやっぱりだけど、おとなしいものでまだ良かったという気が…。",
       "EN": "Just as I thought. Good thing it wasn't something more outrageous...",
-      "Translation": "虽然说是已经猜到一半了，但总觉得还是用稍微平常一点的要好…。"
+      "Translation": "虽然说是已经猜到一半了，但总觉得还是用稍微平常一点的要好…"
     },
     {
       "JP": "`二木@「あのひとなりの嫌がらせよ」",
@@ -15178,7 +15178,7 @@
     {
       "JP": "あぁ、そうか…。",
       "EN": "Ah, I see....",
-      "Translation": "啊，这样啊…。"
+      "Translation": "啊，这样啊…"
     },
     {
       "JP": "来ヶ谷さんの意図が読めた。",
@@ -15728,7 +15728,7 @@
     {
       "JP": "ぱたぱた。",
       "EN": "*Tap*tap*.",
-      "Translation": "啪嗒啪嗒"
+      "Translation": "啪嗒啪嗒。"
     },
     {
       "JP": "ストレルカは心なしか嬉しそうに尻尾を振っている。",
@@ -16408,12 +16408,12 @@
     {
       "JP": "…。",
       "EN": "...",
-      "Translation": "…。"
+      "Translation": "…"
     },
     {
       "JP": "……。",
       "EN": "......",
-      "Translation": "……。"
+      "Translation": "……"
     },
     {
       "JP": "そろそろいいだろうか…？",
@@ -17743,7 +17743,7 @@
     {
       "JP": "`理樹@「それはそうかもしれないですけど…うーん、僕が恭介みたいにできるかな…」",
       "EN": "`Riki@❝That's probably right, but... hmm, I wonder if I can do it like Kyousuke...❞",
-      "Translation": "`理树@「说是这么说拉…只是，我能做的像恭介那么好吗…」"
+      "Translation": "`理树@「说是这么说啦…只是，我能做的像恭介那么好吗…」"
     },
     {
       "JP": "`二木@「………」",
@@ -17893,7 +17893,7 @@
     {
       "JP": "嫌いな雨が降る前に…。",
       "EN": "The unease before the rain...",
-      "Translation": "在那讨厌的雨下下来之前…。"
+      "Translation": "在那讨厌的雨下下来之前…"
     },
     {
       "JP": "帰ろう。",
@@ -17993,12 +17993,12 @@
     {
       "JP": "`理樹@「いきなり大掃除？」",
       "EN": "`Riki@❝Why the sudden cleaning?❞",
-      "Translation": "`理树@「怎么忽然大扫除了遍？」"
+      "Translation": "`理树@「怎么忽然大扫除了一遍？」"
     },
     {
       "JP": "`二木@「…そうね。そんな感じ」",
       "EN": "`Futaki@❝Yeah... something like that.❞",
-      "Translation": "`二木@「…是吧。那就那种感觉」"
+      "Translation": "`二木@「…是吧。就是那种感觉」"
     },
     {
       "JP": "`理樹@「時間かかったんじゃないの？」",
@@ -18293,7 +18293,7 @@
     {
       "JP": "降りるのは…。",
       "EN": "The one going down was...",
-      "Translation": "要跳下去的…。"
+      "Translation": "要跳下去的…"
     },
     {
       "JP": "当然、僕だ。",
@@ -18418,7 +18418,7 @@
     {
       "JP": "`男@「佳奈多。誰だね？」",
       "EN": "`Man@❝Kanata, who is this?❞",
-      "Translation": "`男@「佳奈多。他是谁？」"
+      "Translation": "`男人@「佳奈多。他是谁？」"
     },
     {
       "JP": "おとなたちが僕を囲んでくる。",
@@ -18433,7 +18433,7 @@
     {
       "JP": "おとな五人に僕ひとりじゃ荷が重たい…。",
       "EN": "Going against five adults would be hard....",
-      "Translation": "五个人对我来说实在太勉强了…。"
+      "Translation": "五个人对我来说实在太勉强了…"
     },
     {
       "JP": "`二木@「…知らないひとです」",
@@ -18548,7 +18548,7 @@
     {
       "JP": "`男@「…三枝の娘か…邪魔をするな、と両親から言われてないのか？」",
       "EN": "`Man@❝...The Saigusa's daughter... don't interfere, didn't your parents tell you that?❞",
-      "Translation": "`男@「…三枝家的丫头…别来妨碍我们，你父母没有这么告诉你吗？」"
+      "Translation": "`男人@「…三枝家的丫头…别来妨碍我们，你父母没有这么告诉你吗？」"
     },
     {
       "JP": "`葉留佳@「言われてないね！」",
@@ -18603,7 +18603,7 @@
     {
       "JP": "`男@「なっ、何だ、この犬はっ！」",
       "EN": "`Man@❝Wh-what's with these dogs!❞",
-      "Translation": "`男@「这，怎么回事，这狗！」"
+      "Translation": "`男人@「这，怎么回事，这狗！」"
     },
     {
       "JP": "ヴルゥ！",
@@ -18713,7 +18713,7 @@
     {
       "JP": "`男@「……！」",
       "EN": "`Man@❝......!❞",
-      "Translation": "`男@「……！」"
+      "Translation": "`男人@「……！」"
     },
     {
       "JP": "`西園@「昨今のご時世、校内の関係者以外の立ち入りは禁止なのですよ」",
@@ -18733,7 +18733,7 @@
     {
       "JP": "`男@「佳奈多！　これはどういうことだ！」",
       "EN": "`Man@❝Kanata! What's the meaning of this?!❞",
-      "Translation": "`男@「佳奈多！这是怎么回事！」"
+      "Translation": "`男人@「佳奈多！这是怎么回事！」"
     },
     {
       "JP": "`葉留佳@「はるちんアタック！」",
@@ -18848,7 +18848,7 @@
     {
       "JP": "`男@「…おまえの意志はどうなんだ、佳奈多」",
       "EN": "`Man@❝...And what is your will, Kanata?❞",
-      "Translation": "`男@「…你到底是怎么想的，佳奈多」"
+      "Translation": "`男人@「…你到底是怎么想的，佳奈多」"
     },
     {
       "JP": "`二木@「………」",
@@ -18968,7 +18968,7 @@
     {
       "JP": "`男@「…佳奈多。おまえも役立たずになりたいのか」",
       "EN": "`Man@❝...Kanata, do you want to become useless as well?❞",
-      "Translation": "`男@「…佳奈多。你想变成一个没用的家伙吗」"
+      "Translation": "`男人@「…佳奈多。你想变成一个没用的家伙吗」"
     },
     {
       "JP": "`二木@「…それも、いいかもしれない」",
@@ -18993,7 +18993,7 @@
     {
       "JP": "`男@「後からわびを入れたくなっても後悔するなよ」",
       "EN": "`Man@❝Don't regret this and come begging for forgiveness later.❞",
-      "Translation": "`男@「你今后可不要后悔了再来道歉啊」"
+      "Translation": "`男人@「你今后可不要后悔了再来道歉啊」"
     },
     {
       "JP": "捨て台詞だけ残して、車は去っていった。",
@@ -19398,7 +19398,7 @@
     {
       "JP": "ゆっくりと視界が白濁していく。",
       "EN": "My vision slowly grows blurred.",
-      "Translation": "渐渐得，视线变得浑浊起来。"
+      "Translation": "渐渐地，视线变得浑浊起来。"
     },
     {
       "JP": "どこへゆくのだろう。",
@@ -19643,7 +19643,7 @@
     {
       "JP": "終わらせないと進めないのなら…。",
       "EN": "If I can't move on unless they come to an end....",
-      "Translation": "不结束这些，一切都不会有进展的话…。"
+      "Translation": "不结束这些，一切都不会有进展的话…"
     },
     {
       "JP": "…進めようと思った。",
@@ -19673,7 +19673,7 @@
     {
       "JP": "自分で決めたことだから…。",
       "EN": "Since I made this decision myself...",
-      "Translation": "因为是自己决定了的事情…。"
+      "Translation": "因为是自己决定了的事情…"
     },
     {
       "JP": "…悲しくなんかない。",
@@ -20148,7 +20148,7 @@
     {
       "JP": "`葉留佳@（それが…『誰も悪くない』世界だってことだと、思う）",
       "EN": "`Haruka@(I'd like to believe in a world where no one acts with malice.)",
-      "Translation": "叶留佳（我会想象成…这是个『谁都没有错』的世界）"
+      "Translation": "`叶留佳@（我会想象成…这是个『谁都没有错』的世界）"
     },
     {
       "JP": "生まれてきてしまったんだもの、俯いたままじゃ、つまんない。",
@@ -20598,12 +20598,12 @@
     {
       "JP": "……。",
       "EN": "......",
-      "Translation": "……。"
+      "Translation": "……"
     },
     {
       "JP": "………。",
       "EN": "..........",
-      "Translation": "………。"
+      "Translation": "………"
     },
     {
       "JP": "そして、僕たちがしようとしていること。",
@@ -20918,7 +20918,7 @@
     {
       "JP": "返事は、ひゅん、という風切り音。",
       "EN": "The reply was the whoosh of cutting air. ",
-      "Translation": "回应我的，只有那被切开了的空气声音。"
+      "Translation": "回应我的，只有那被切开了的空气的声音"
     },
     {
       "JP": "そして、打撃音。",
@@ -21323,7 +21323,7 @@
     {
       "JP": "`葉留佳@「ま、私たちをいじめてたやつらは、あとで告発してやるから」",
       "EN": "`Haruka@❝As for the people who bullied us, I'll report them to police later.❞",
-      "Translation": "`叶留佳@「总之，那些欺负我们的人，今后告发他们便可以了」"
+      "Translation": "`叶留佳@「总之，那些欺负我们的人，今后告发他们就可以了」"
     },
     {
       "JP": "`葉留佳@「父上が入ったのと、同じ場所で頭冷やしてくればいいのですヨ」",
@@ -21521,7 +21521,7 @@
     {
       "JP": "好きだから$d答えられない",
       "EN": "Because I like you$dI can't answer",
-      "Translation": "Because I like you$dI can't answer"
+      "Translation": "因为喜欢你$d我答不上来"
     },
     {
       "JP": "キスをする$dキスをしない",

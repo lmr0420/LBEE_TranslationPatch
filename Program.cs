@@ -79,7 +79,7 @@
         static string LBEEGamePath = @"E:\SteamLibrary\steamapps\common\Little Busters! English Edition";
 #endif
         static string LBEE_EXE = "";
-        static string LBEECharset = @".\Charset.txt";
+        static string LBEECharset = @".\Files\Charset.txt";
         static string TMPPath = Path.GetFullPath(@".\.tmp");
         static string TextMappingPath = Path.GetFullPath(@".\TextMapping");
         static string ExtractedScriptPath = Path.Combine(TMPPath, "Scripts");
@@ -323,9 +323,9 @@
             }
 
             // Assuming LuckSystem is a separate executable that needs to be run
-            Process.Start(".\\LuckSystem\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEScriptPak}\" -o {Path.Combine(TMPPath, "ScriptFileList.txt")} --all {ExtractedScriptPath}").WaitForExit();
+            Process.Start(".\\Files\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEScriptPak}\" -o {Path.Combine(TMPPath, "ScriptFileList.txt")} --all {ExtractedScriptPath}").WaitForExit();
 
-            Operators = File.ReadAllText(".\\LuckSystem\\data\\LB_EN\\OPCODE.txt").ReplaceLineEndings().Split(Environment.NewLine);
+            Operators = File.ReadAllText(".\\Files\\OPCODE.txt").ReplaceLineEndings().Split(Environment.NewLine);
             var scriptFiles = Directory.GetFiles(ExtractedScriptPath);
 
             if (DEBUG_DumpInstructionLayout)
@@ -374,10 +374,10 @@
                 File.WriteAllBytes(ExtractedScriptPath + "\\SEEN0513", JumpCommands.ToArray());
             }
 
-            Process.Start("LuckSystem\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEScriptPak}\" -i \"{ExtractedScriptPath}\" -o \"{LBEEScriptPak}\"").WaitForExit();
+            Process.Start("Files\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEScriptPak}\" -i \"{ExtractedScriptPath}\" -o \"{LBEEScriptPak}\"").WaitForExit();
 
             // 解开字体
-            Process.Start("LuckSystem\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEFontPak}\" -o {Path.Combine(TMPPath, "FontFileList.txt")} --all {ExtractedFontPath}").WaitForExit();
+            Process.Start("Files\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEFontPak}\" -o {Path.Combine(TMPPath, "FontFileList.txt")} --all {ExtractedFontPath}").WaitForExit();
 
             // 重绘字体
             var FontSize = new int[]
@@ -421,8 +421,8 @@
                 // 针对Template进行重绘，然后复制到各个字体
                 // 如果每个字体都进行重绘，那么重绘后的游戏会崩溃，但只用一份的话就正常，很奇怪，不清楚原因
                 // 看起来很像是字体过大了，这里指定一下ReplaceIndex，把一部分原有字体替换掉
-                Process.Start("LuckSystem\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex} -S \"{ExtractedFontPath}\\info{fSize}\" -f {TargetFontPath} -c {AllNewCharFile} -o {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} -O {Path.Combine(PendingReplacePath, $"info{fSize}")}").WaitForExit();
-                Process.Start("czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}").WaitForExit();
+                Process.Start("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex} -S \"{ExtractedFontPath}\\info{fSize}\" -f {TargetFontPath} -c {AllNewCharFile} -o {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} -O {Path.Combine(PendingReplacePath, $"info{fSize}")}").WaitForExit();
+                Process.Start("Files\\czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}").WaitForExit();
                 File.Delete(Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png"));
                 foreach (var fName in FontName)
                 {
@@ -433,7 +433,7 @@
                 }
             }
 
-            Process.Start("LuckSystem\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEFontPak}\" -i \"{PendingReplacePath}\" -o \"{LBEEFontPak}\"").WaitForExit();
+            Process.Start("Files\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEFontPak}\" -i \"{PendingReplacePath}\" -o \"{LBEEFontPak}\"").WaitForExit();
 
             //针对EXE的Patch，这里逐字节扫描所有的数据，直到找到文字的位置，然后替换
             //LBEE的EXE有SteamDRM保护，任何修改都会导致游戏无法启动

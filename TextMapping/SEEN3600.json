@@ -398,7 +398,7 @@
     {
       "JP": "`葉留佳@「やほー、こまりん」",
       "EN": "`Haruka@❝Yaho-, Komarin.❞",
-      "Translation": "`叶留佳@「呀活ー，小毬」"
+      "Translation": "`叶留佳@「呀嚯ー，小毬」"
     },
     {
       "JP": "`小毬@「はるちゃん、やほー」",
@@ -523,7 +523,7 @@
     {
       "JP": "`クド@「はろー、えぶりわん！」",
       "EN": "`Kud@❝Haro-, eburiwan!❞",
-      "Translation": "`库特@「哈罗，！」"
+      "Translation": "`库特@「哈罗，eburiwan！」"
     },
     {
       "JP": "`クド@「皆さんもお買い物のようですね？」",
@@ -793,17 +793,17 @@
     {
       "JP": "`葉留佳@「ねー、小毬ちゃん、グリル風味のグリルってなに？」",
       "EN": "`Haruka@❝Hey, Komari-chan, what's the ❛guriru❜ in ❛Guriru Flavor❜ mean?❞",
-      "Translation": "`叶留佳@「喂ー小毬啊，这个什么烧烤风味的烧烤是什么东西？」"
+      "Translation": "`叶留佳@「喂ー小毬啊，这个什么Guriru风味的guriru是什么东西？」"
     },
     {
       "JP": "`小毬@「えーっと、グリルっていうのはねぇ」",
       "EN": "`Komari@❝Well, ❛guriru❜ is...❞",
-      "Translation": "`小毬@「这个被叫做烧烤的啊」"
+      "Translation": "`小毬@「这个被叫做guriru的啊」"
     },
     {
       "JP": "`小毬@「Grilling、つまり焼く調理法のことだよー」",
       "EN": "`Komari@❝❛Grilling,❜ It's English for things cooked on a grill.❞",
-      "Translation": "`小毬@「，也就是烧烤料理方法的一种ー」"
+      "Translation": "`小毬@「Grilling，也就是烧烤料理方法的一种ー」"
     },
     {
       "JP": "`葉留佳@「ふーん、そうなんだ。おいしいのかなー」",
@@ -1008,12 +1008,12 @@
     {
       "JP": "痛い、苦しい、辛い、苦い、誰か…。",
       "EN": "It hurts. I can't breathe. It hurts. This is torture. Someone...",
-      "Translation": "痛苦，难受，辛酸，难过，有谁来…。"
+      "Translation": "痛苦，难受，辛酸，难过，有谁来…"
     },
     {
       "JP": "誰か、誰か、誰か……。",
       "EN": "Someone, someone, someone.......",
-      "Translation": "谁能，谁能，有谁能……。"
+      "Translation": "谁能，谁能，有谁能……"
     },
     {
       "JP": "`理樹@「っ!?」",
@@ -1058,7 +1058,7 @@
     {
       "JP": "`理樹@（…なんだったんだろう？　まるで『夢』でも見ているみたいだった…）",
       "EN": "`Riki@(...What the heck was that? It was like I had seen some kind of ❛dream❜...)",
-      "Translation": "理树（…那到底是什么？就好像是在做着『梦』一样…）"
+      "Translation": "`理树@（…那到底是什么？就好像是在做着『梦』一样…）"
     },
     {
       "JP": "首の後ろのあたりがちりちりと痺れているような感覚だった。",
@@ -1353,12 +1353,12 @@
     {
       "JP": "`恭介@「ノリノリだな理樹。嬉しいぜ」",
       "EN": "`Kyousuke@❝You're full of spirit, Riki. It makes me happy.❞",
-      "Translation": "`恭介@「你真上路啊理树。我太开心了」"
+      "Translation": "`恭介@「你真上道啊理树。我太开心了」"
     },
     {
       "JP": "`恭介@「では早速行ってきてくれ。ミッションスタートだ」",
       "EN": "`Kyousuke@❝Well then, hurry and get a jump on it. Mission Start!❞",
-      "Translation": "`恭介@「那就请你尽快过去吧。！」"
+      "Translation": "`恭介@「那就请你尽快过去吧！」"
     },
     {
       "JP": "`理樹@「うん、わかったよ」",
@@ -1478,7 +1478,7 @@
     {
       "JP": "重たい。書棚に入っているもの全部下ろさないとダメなのでは…っ。",
       "EN": "So heavy. We were probably going to need to take everything down off the shelves...",
-      "Translation": "好重。不过看起来能把书架上的这些书全部拿下来的话…。"
+      "Translation": "好重。不过看起来能把书架上的这些书全部拿下来的话…"
     },
     {
       "JP": "`男子寮長@「うおおお！　とおおお！　ぐおおお！」",
@@ -1503,17 +1503,17 @@
     {
       "JP": "…。",
       "EN": "....",
-      "Translation": "…。"
+      "Translation": "…"
     },
     {
       "JP": "……。",
       "EN": ".......",
-      "Translation": "……。"
+      "Translation": "……"
     },
     {
       "JP": "………。",
       "EN": "..........",
-      "Translation": "………。"
+      "Translation": "………"
     },
     {
       "JP": "`男子寮長@「はぁ、はぁ」",
@@ -1588,7 +1588,7 @@
     {
       "JP": "もうお役ご免らしい…。",
       "EN": "I guess I was being dismissed....",
-      "Translation": "看来没我的事了…。"
+      "Translation": "看来没我的事了…"
     },
     {
       "JP": "`女子寮長@「お、空いた？　直枝くん借りていい？」",
@@ -1598,12 +1598,12 @@
     {
       "JP": "`男子寮長@「あぁ、いいよ。オッケー。棗からは許可済みだから」",
       "EN": "`Male Dorm Head@❝Ah, yeah. Okay. We've already got permission from Natsume, after all.❞",
-      "Translation": "`男生宿管@「啊，可以啊。ー。已经从棗那得到允许了」"
+      "Translation": "`男生宿管@「啊，可以啊。OKー。已经从棗那得到允许了」"
     },
     {
       "JP": "`女子寮長@「ホント？　ラッキー。さすがだね、棗くん。愛してるよー、ひゅーひゅー」",
       "EN": "`Female Dorm Head@❝Really? Lucky. That's my Natsume-kun. Luv ya, hyuu hyuu.❞",
-      "Translation": "`女生宿管@「真的？ー。真好啊，棗君。爱死你了ー啾ー啾ー」"
+      "Translation": "`女生宿管@「真的？Luckyー。真好啊，棗君。爱死你了ー啾ー啾ー」"
     },
     {
       "JP": "女子寮長は明後日の方向に声を掛けている。",
@@ -2053,7 +2053,7 @@
     {
       "JP": "剣道部ではどれだけ運動してたんだろう…。",
       "EN": "Just how much exercise was he used to in the kendo club...",
-      "Translation": "他在剑道部的都做到了什么程度的运动啊…。"
+      "Translation": "他在剑道部的都做到了什么程度的运动啊…"
     },
     {
       "JP": "`謙吾@「今日は朝練は休みだからな」",
@@ -2203,7 +2203,7 @@
     {
       "JP": "`葉留佳@「やほーい、放課後だよー」",
       "EN": "`Haruka@❝Yaho-i, school's done!❞",
-      "Translation": "`叶留佳@「呀呵ー，放学咯ー」"
+      "Translation": "`叶留佳@「呀嚯ー，放学咯ー」"
     },
     {
       "JP": "`葉留佳@「こまりん、鈴ちゃん、遊びにいこーっ」",
@@ -2248,7 +2248,7 @@
     {
       "JP": "１０円で買えるんだけど、値段以上にとっても美味しい、リーズナブルな駄菓子。",
       "EN": "You could get them for 10 yen, yet they're pretty tasty for their price. A very reasonable cheap sweet.",
-      "Translation": "只要１０就能买到了，而且十分好吃，是绝对物超所值的点心。"
+      "Translation": "只要１０元就能买到了，而且十分好吃，是绝对物超所值的点心。"
     },
     {
       "JP": "…僕らはよく買って食べたりもしてたけど、女の子には逆に新鮮なのかもしれない。",
@@ -2273,7 +2273,7 @@
     {
       "JP": "`葉留佳@「ねー、行こうよ早くー」",
       "EN": "`Haruka@❝Hey-, c'mon let's go!❞",
-      "Translation": "`叶留佳@「喂ー，走吧，早点去拉ー」"
+      "Translation": "`叶留佳@「喂ー，走吧，早点去啦ー」"
     },
     {
       "JP": "`鈴@「はるか、うるさい」",
@@ -2703,7 +2703,7 @@
     {
       "JP": "返事はないと思ったのに答えは返ってきた。",
       "EN": "I didn't expect her to respond, but she did.",
-      "Translation": "本来还以为她不会回答自己的。"
+      "Translation": "本来还以为她不会回答我的。"
     },
     {
       "JP": "`理樹@「そうなんだ」",
@@ -3068,7 +3068,7 @@
     {
       "JP": "『（Ｃ）いよかんせいじん』…らしい。",
       "EN": "❛(C)Iyokan Starmen❜... I guess.",
-      "Translation": "`好像写着@『（Ｃ）ＩＹＯＫＡＮＳＥＩＪＩＮ』…"
+      "Translation": "好像写着『（Ｃ）ＩＹＯＫＡＮ ＳＥＩＪＩＮ』…"
     },
     {
       "JP": "伊予柑星人？　変なセンスだな。",
@@ -3333,7 +3333,7 @@
     {
       "JP": "`理樹@「いや特にはないよ。ほんとうに手伝いたいだけ」",
       "EN": "`Riki@❝No, there's nothing like that. I really just want to help out.❞",
-      "Translation": "`理树@「不，没有那种事。只是真的想帮你把而已」"
+      "Translation": "`理树@「不，没有那种事。只是真的想帮你一把而已」"
     },
     {
       "JP": "`二木@「…おひとよしね」",
@@ -3418,7 +3418,7 @@
     {
       "JP": "当然名前も知らないひとばかりだ。",
       "EN": "Of course I didn't know any of the names.",
-      "Translation": "当然了，这些人没一个是认识的。"
+      "Translation": "当然了，这些人没一个是我认识的。"
     },
     {
       "JP": "`二木@「経済的な事情がほとんどじゃないの」",
@@ -3848,7 +3848,7 @@
     {
       "JP": "僕はお礼を言って、寮長室を出た。",
       "EN": "I said my thanks and left the room.",
-      "Translation": "我道了个谢后，走出了宿管室"
+      "Translation": "我道了个谢后，走出了宿管室。"
     },
     {
       "JP": "`理樹@「ふぁ～」",
@@ -4193,7 +4193,7 @@
     {
       "JP": "`葉留佳@「ヘイ、ガールズ。今日も元気かい？」",
       "EN": "`Haruka@❝Hey girls. Feeling good today?❞",
-      "Translation": "`叶留佳@「嗨，il。今天一天过得好吗？」"
+      "Translation": "`叶留佳@「嗨，girls。今天一天过得好吗？」"
     },
     {
       "JP": "`西園@「鈴さん、髪の毛に糸くずが」",
@@ -4708,7 +4708,7 @@
     {
       "JP": "マッスルカーニバルというのはどうだろう？",
       "EN": "Maybe something like a Muscle Carnival?",
-      "Translation": "就叫做Muscle Carnival吧"
+      "Translation": "就叫做Muscle Carnival吧。"
     },
     {
       "JP": "`クド@「きんにく、きんにく！」",
@@ -5298,7 +5298,7 @@
     {
       "JP": "`小毬@「それで、昨日空からお茶が降ってきたんだよー」",
       "EN": "`Komari@❝Anyway, yesterday some tea fell from the sky!❞",
-      "Translation": "`小毬@「然后啊，昨天忽然从天上有茶水掉了下来」"
+      "Translation": "`小毬@「然后啊，昨天天上忽然有茶水掉了下来」"
     },
     {
       "JP": "`クド@「それは不思議なこともあるのですねぇ」",
@@ -9153,7 +9153,7 @@
     {
       "JP": "`寮長@「ふたりとも帰って良し。解散」",
       "EN": "`Dorm Head@❝You two can head home now. Dismissed.❞",
-      "Translation": "`宿管@「你们两也可以回去了。解散」"
+      "Translation": "`宿管@「你们俩也可以回去了。解散！」"
     },
     {
       "JP": "寮長は笑うと、寮長室を出て行った。",
@@ -9358,7 +9358,7 @@
     {
       "JP": "どうしてひとりなんだろう…。",
       "EN": "Why was I alone...",
-      "Translation": "但为什么我是独自一人呢…。"
+      "Translation": "但为什么我是独自一人呢…"
     },
     {
       "JP": "みんなもってるものを、もっていないこと。",
@@ -9873,7 +9873,7 @@
     {
       "JP": "真人がふたつの盆を置き、座る。",
       "EN": "Masato set down the trays and took a seat.",
-      "Translation": "真人放下了两个盘子，坐了下来"
+      "Translation": "真人放下了两个盘子，坐了下来。"
     },
     {
       "JP": "`理樹@「ありがとう真人…ってすごい量だね」",
@@ -10133,7 +10133,7 @@
     {
       "JP": "クドの小鉢から移されたほうれんそう。",
       "EN": "Kud pulled some spinach from her bowl.",
-      "Translation": "库特将空心菜从自己的碗里盛到了真人那。"
+      "Translation": "库特将空心菜从自己的碗里盛到了真人那里。"
     },
     {
       "JP": "真人はいやいや食べている。",
@@ -10968,7 +10968,7 @@
     {
       "JP": "`理樹@「っていうか、あんまり入らないの？　ファーストフードとか」",
       "EN": "`Riki@❝Now that I think about it, do you not go to these places very often?❞",
-      "Translation": "`理树@「倒是说，你不太来的吗？这种快餐店」"
+      "Translation": "`理树@「倒是说，你不常来的吗？这种快餐店」"
     },
     {
       "JP": "`二木@「慣れていなくて悪かったわね」",
@@ -11358,17 +11358,17 @@
     {
       "JP": "`二木@「女子寮のリフォーム後の鍵とか、男子寮の鍵とか色々あるからよ」",
       "EN": "`Futaki@❝There were a lot of keys from the renovation of both the girls' dorm, and the boys' dorm.❞",
-      "Translation": "`二木@「因为有女生宿舍改造后的钥匙，男生宿舍的钥匙，还有各种各样的钥匙啊。」"
+      "Translation": "`二木@「因为有女生宿舍改造后的钥匙，男生宿舍的钥匙，还有各种各样的钥匙啊」"
     },
     {
       "JP": "`理樹@「部室の鍵とかもありそうだね」",
       "EN": "`Riki@❝It seems there were some clubroom keys too.❞",
-      "Translation": "`理树@「看起来好像还有活动室的钥匙呢。」"
+      "Translation": "`理树@「看起来好像还有活动室的钥匙呢」"
     },
     {
       "JP": "`二木@「鍵を無くす子も多いから」",
       "EN": "`Futaki@❝A lot of people lose their keys.❞",
-      "Translation": "`二木@「丢钥匙的人也很多啊。」"
+      "Translation": "`二木@「丢钥匙的人也很多啊」"
     },
     {
       "JP": "`理樹@「無くしたら取り替えるわけ？」",
@@ -11378,7 +11378,7 @@
     {
       "JP": "`二木@「防犯上有効でしょ。物騒なご時世だし」",
       "EN": "`Futaki@❝It's to prevent crime. We live in dangerous times.❞",
-      "Translation": "`二木@「这在防盗上是有用的嘛。现在可是危险的时代。」"
+      "Translation": "`二木@「这在防盗上是有用的嘛。现在可是危险的时代」"
     },
     {
       "JP": "二木さんは紙ナプキンで手を拭くと、ポケットを押えた。",
@@ -11413,7 +11413,7 @@
     {
       "JP": "`二木@「１学年が卒業しても取り替えてるから、問題はあまりない気もするけど」",
       "EN": "`Futaki@❝The keys are changed after you graduate, so I don't think there's much of a problem.❞",
-      "Translation": "`二木@「即使一个年级毕业了也会换钥匙，所以应该没什么问题吧。」"
+      "Translation": "`二木@「即使一个年级毕业了也会换钥匙，所以应该没什么问题吧」"
     },
     {
       "JP": "`理樹@「今の鍵は卒業後も持ってていいわけ？」",
@@ -11423,17 +11423,17 @@
     {
       "JP": "`二木@「そうなるわね」",
       "EN": "`Futaki@❝That seems to be the case.❞",
-      "Translation": "`二木@「是啊，好像是这样呢。」"
+      "Translation": "`二木@「是啊，好像是这样呢」"
     },
     {
       "JP": "`二木@「自分の名前を書いてルームメイトと交換するというおまじないもあるみたい」",
       "EN": "`Futaki@❝It seems there's a charm where you write your name on the key and exchange it with your roommate.❞",
-      "Translation": "`二木@「好像还有一种写上自己的名字然后和室友交换的咒语。」"
+      "Translation": "`二木@「好像还有一种写上自己的名字然后和室友交换的咒语」"
     },
     {
       "JP": "`理樹@「うん、聞いたことがあるよ」",
       "EN": "`Riki@❝Yeah, I've heard about that.❞",
-      "Translation": "`理树@「嗯，我听说过这种说法。」"
+      "Translation": "`理树@「嗯，我听说过这种说法」"
     },
     {
       "JP": "僕は真人とすることになるんだろうな。",
@@ -11463,7 +11463,7 @@
     {
       "JP": "`二木@「…ルームメイトは大切にしなさい、か」",
       "EN": "`Futaki@❝...Take good care of your roommate, huh?❞",
-      "Translation": "`二木@「…好好珍惜你的室友啊，是吧。」"
+      "Translation": "`二木@「…好好珍惜你的室友啊，是吧」"
     },
     {
       "JP": "不意に二木さんが呟いた。",
@@ -11478,7 +11478,7 @@
     {
       "JP": "`二木@「入寮式に言われなかった？　寮長に」",
       "EN": "`Futaki@❝Didn't the dorm say that? At the welcoming ceremony?❞",
-      "Translation": "`二木@「入宿舍欢迎会的时候没听到吗？宿管说的。」"
+      "Translation": "`二木@「入宿舍欢迎会的时候没听到吗？宿管说的」"
     },
     {
       "JP": "そんなこと言われたような気もする。",
@@ -11503,17 +11503,17 @@
     {
       "JP": "`理樹@「できているよ。きっとそうだと思う」",
       "EN": "`Riki@❝It's possible. I'm sure of it.❞",
-      "Translation": "`理树@「一定可以的。我相信是这样的。」"
+      "Translation": "`理树@「一定可以的。我相信是这样的」"
     },
     {
       "JP": "`二木@「…簡単に言わないで」",
       "EN": "`Futaki@❝...Don't say it so lightly.❞",
-      "Translation": "`二木@「…不要说得那么轻易。」"
+      "Translation": "`二木@「…不要说得那么轻易」"
     },
     {
       "JP": "`理樹@「僕の話だよ。二木さんの話じゃない」",
       "EN": "`Riki@❝Oh, I'm talking about myself, not you, Futaki-san.❞",
-      "Translation": "`理树@「我是说我自己啦。不是在说你，二木。」"
+      "Translation": "`理树@「我是说我自己啦。不是在说你，二木」"
     },
     {
       "JP": "`二木@「…私は自分が上手くやっているとは…信じられない」",
@@ -11523,7 +11523,7 @@
     {
       "JP": "`二木@「でも、そんなことも信じられない私は、やっぱり馬鹿なのかもしれないわね」",
       "EN": "`Futaki@❝I must be a fool for not believing in myself.❞",
-      "Translation": "`二木@「不过，连这种事都无法相信的我，可能真的是个笨蛋吧。」"
+      "Translation": "`二木@「不过，连这种事都无法相信的我，可能真的是个笨蛋。」"
     },
     {
       "JP": "信じることに理由は要らない。だから二木さんも信じればいい。",
@@ -11733,7 +11733,7 @@
     {
       "JP": "くりかえし、くりかえし…。",
       "EN": "Again, again...",
-      "Translation": "重复地，重复呼喊着…。"
+      "Translation": "重复地，重复呼喊着…"
     },
     {
       "JP": "ゆっくりと目を開けた。",
@@ -12888,7 +12888,7 @@
     {
       "JP": "『きょうだい』がいたら。",
       "EN": "If I had ❛siblings❜...",
-      "Translation": "`我若有@『兄弟姐妹』的话。"
+      "Translation": "我若有『兄弟姐妹』的话。"
     },
     {
       "JP": "その『きょうだい』のために、僕は強くなれただろうか？",
@@ -13098,7 +13098,7 @@
     {
       "JP": "他愛なさ過ぎる…。",
       "EN": "That's too silly...",
-      "Translation": "真是太胡闹了…。"
+      "Translation": "真是太胡闹了…"
     },
     {
       "JP": "そのときだった。",
@@ -13148,7 +13148,7 @@
     {
       "JP": "今の謙吾を軽く流す寮長さんは意外と大物かもしれない…。",
       "EN": "Amazingly enough, Dorm Head remained unfazed by Kengo's appearance...",
-      "Translation": "能这么轻易地应对谦吾的宿管，意外地是个厉害角色也说不定啊…。"
+      "Translation": "能这么轻易地应对谦吾的宿管，意外地是个厉害角色也说不定啊…"
     },
     {
       "JP": "`寮長@「ごめんなさい、男子寮長は外出中です」",
@@ -13253,7 +13253,7 @@
     {
       "JP": "さっき遊び道具の申請を出しにきた人間が、真顔で言い切った…。",
       "EN": "Said the person who just handed in a request for toys with a straight face...",
-      "Translation": "刚才还在递交游戏道具申请书的人，还真能这样严肃地说出口呢…。"
+      "Translation": "刚才还在递交游戏道具申请书的人，还真能这样严肃地说出口呢…"
     },
     {
       "JP": "`二木@「私は『元』副主将でしょう？」",
@@ -13503,7 +13503,7 @@
     {
       "JP": "`寮長@「直枝くんが役立ってるって事実を否定したいのなら別だけどね」",
       "EN": "`Dorm Head@❝If you don't think he's being helpful, then that's fine.❞",
-      "Translation": "`宿管@「若你想否认直枝君确实帮了我们不少忙的这个事实的话，那就是另外回事了」"
+      "Translation": "`宿管@「若你想否认直枝君确实帮了我们不少忙的这个事实的话，那就是另外一回事了」"
     },
     {
       "JP": "`寮長@「でも現実は非情よ？　評価されているという事実は覆すことは難しいもの。でしょ？」",
@@ -14248,7 +14248,7 @@
     {
       "JP": "知らないのか…。",
       "EN": "So she doesn't know either...",
-      "Translation": "她也不知道啊…。"
+      "Translation": "她也不知道啊…"
     },
     {
       "JP": "`二木@「…あまり深い話はしないから」",
@@ -15503,7 +15503,7 @@
     {
       "JP": "『こわいなにか』を憎みながら、怯えている。",
       "EN": "She was scared witless, while cursing that ❛something.❜",
-      "Translation": "`一边对那@『恐怖的什么』憎恶着，一边害怕着。"
+      "Translation": "一边对那『恐怖的什么』憎恶着，一边害怕着。"
     },
     {
       "JP": "`二木@「……？」",
@@ -16018,7 +16018,7 @@
     {
       "JP": "遅い昼食になってしまった。",
       "EN": "I ended up having a late lunch.",
-      "Translation": "这顿午饭实在是吃的够晚的。"
+      "Translation": "这顿午饭实在是吃得够晚的。"
     },
     {
       "JP": "トレイを持って空いた席を見つけ座る。",
@@ -16515,32 +16515,32 @@
     {
       "JP": "寮会の手伝いをする$d他のことをする",
       "EN": "Help the dorm committee out$dDo something else",
-      "Translation": "Help the dorm committee out$dDo something else"
+      "Translation": "去宿舍会帮忙$d干点别的"
     },
     {
       "JP": "出て行く$d出て行かない",
       "EN": "Leave$dDon't leave",
-      "Translation": "Leave$dDon't leave"
+      "Translation": "出去$d不出去"
     },
     {
       "JP": "出て行く$d出て行かない",
       "EN": "Leave$dDon't leave",
-      "Translation": "Leave$dDon't leave"
+      "Translation": "走$d不走"
     },
     {
       "JP": "呼ばない$d鈴とクドを呼ぶ$d小毬さんと西園さんを呼ぶ$d来ヶ谷さんと葉留佳さんを呼ぶ",
       "EN": "I won't call anyone$dCall Rin and Kud$dCall Komari-san and Nishizono-san$dCall Kurugaya-san and Haruka-san",
-      "Translation": "I won't call anyone$dCall Rin and Kud$dCall Komari-san and Nishizono-san$dCall Kurugaya-san and Haruka-san"
+      "Translation": "不叫别人$d叫铃和库特$d叫小毬和西园$d叫来谷和叶留佳"
     },
     {
       "JP": "食券$d映画チケット",
       "EN": "Meal ticket$dMovie ticket",
-      "Translation": "Meal ticket$dMovie ticket"
+      "Translation": "饭票$d电影赠票"
     },
     {
       "JP": "寮会について訊く$dピクルスについて訊く$d１時間待ちについて訊く",
       "EN": "Talk about the dorm committee$dTalk about the pickles$dTalk about the one hour wait",
-      "Translation": "Talk about the dorm committee$dTalk about the pickles$dTalk about the one hour wait"
+      "Translation": "问关于宿管会的事$d问泡菜的事$d问一小时等待时间的事"
     }
   ],
   "TASK": []

@@ -570,7 +570,7 @@
     {
       "JP": "`理樹@（…ん？）",
       "EN": "`Riki@(...huh?)",
-      "Translation": "理树（…嗯？）"
+      "Translation": "`理树@（…嗯？）"
     },
     {
       "JP": "寮の前にある掲示板。",
@@ -590,7 +590,7 @@
     {
       "JP": "『剣道部新人戦のお知らせ』の下から緋色の紙を抜き取る。",
       "EN": "I took the scarlet paper that was under the ❛Notice of New Kendo Members Bouts❜ poster.",
-      "Translation": "`从@『剑道部新人战通知』我从下面把绯红色纸抽了出来。"
+      "Translation": "从『剑道部新人战通知』我从下面把绯红色纸抽了出来。"
     },
     {
       "JP": "`理樹@「んー…」",
@@ -610,12 +610,12 @@
     {
       "JP": "『休み時間、裏庭で待つ　Ｔ』とだけあった。",
       "EN": "...the paper in my hand simply read ❛I'll be waiting in the backyard during break. - T❜",
-      "Translation": "『休息时间，我在后院等着Ｔ』这么一句。"
+      "Translation": "『休息时间，我在后院等着 Ｔ』这么一句。"
     },
     {
       "JP": "`理樹@（朱鷺戸さん…かな？）",
       "EN": "`Riki@(Is it from Tokido-san...?)",
-      "Translation": "理树（是朱鹭户同学…吗？）"
+      "Translation": "`理树@（是朱鹭户同学…吗？）"
     },
     {
       "JP": "`真人@「なんだ、理樹？」",
@@ -3095,7 +3095,7 @@
     {
       "JP": "恭介と来ヶ谷さん、ふたりいれば鬼に金棒だよ！",
       "EN": "With both Kyousuke and Kurugaya-san it'd be an unstoppable team!",
-      "Translation": "如果恭介欸和来谷一起的话那就算是如虎添翼了！"
+      "Translation": "如果恭介和来谷一起的话那就算是如虎添翼了！"
     },
     {
       "JP": "あああーっ！　やきもきやきもき！",
@@ -3135,7 +3135,7 @@
     {
       "JP": "来ヶ谷さんが制服の胸元に風を扇ぎ入れる。",
       "EN": "She was using her hand to fan air into her cleavage to cool herself down.",
-      "Translation": "来谷往制服领口扇着风。…"
+      "Translation": "来谷往制服领口扇着风。"
     },
     {
       "JP": "…余裕そうに見えていたが、実際は結構ハードだったらしく、額にも汗が浮いていた。",

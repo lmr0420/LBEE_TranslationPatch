@@ -48,7 +48,7 @@
 
     class Program
     {
-        static bool DEBUG_DumpInstructionLayout = false;
+        static bool DEBUG_DumpInstructionLayout = true;
         static bool DEBUG_EnableDebugJump = false;
         static string DEBUG_DebugJumpScript = "SEEN2803";
         static uint DEBUG_DebugJumpPtr = 0x14d0;
@@ -91,11 +91,6 @@
         static List<string> IgnoredScriptList = new List<string> 
         { 
             "SEEN8500", "SEEN8501",
-
-            // 这两个脚本里有两个未知的复杂指令ONGOTO，不清楚是做什么的
-            // 目前看起来应该是一个多合一的跳转指令，根据表达式的值跳转到不同的位置
-            // 由于指令比较复杂，之后再处理吧
-            // "SEEN8590", "SEEN8610",
 
             // 这些脚本应该是一些数值变量或者控制逻辑，看起来没有翻译的必要
             "_ARFLAG","_BUILD_COUNT","_CGMODE","_QUAKE",

@@ -71,8 +71,9 @@ namespace LBEE_TranslationPatch
             { 16, TAIL4Ptr_ASSIGN_CMD },    // GOSUB
             { 17, TAIL4Ptr_ASSIGN_CMD },    // IFY
             { 18, TAIL4Ptr_ASSIGN_CMD },    // IFN
-            { 20, JUMP_ASSIGN_CMD },      // JUMP
-            { 21, FARCALL_ASSIGN_CMD }      // FARCALL
+            { 20, JUMP_ASSIGN_CMD },        // JUMP
+            { 21, FARCALL_ASSIGN_CMD },     // FARCALL
+            { 15, ONGOTO_ASSIGN_CMD }       // ONGOTO
         };
 
         public static Dictionary<byte, Action<LucaCommand,LucaCommand[]>> FixPtrMapping = new()
@@ -82,7 +83,8 @@ namespace LBEE_TranslationPatch
             { 17, TAIL4Ptr_FIX_PTR },
             { 18, TAIL4Ptr_FIX_PTR },
             { 20, JUMP_FIX_PTR },
-            { 21, FARCALL_FIX_PTR }
+            { 21, FARCALL_FIX_PTR },
+            { 15, ONGOTO_FIX_PTR }
         };
 
         public static JObject? MESSAGE_GET(byte[] command)
@@ -610,8 +612,8 @@ namespace LBEE_TranslationPatch
 
         public static LucaCommand[]? FARCALL_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
         {
-            var CurCmd = InAllCommands[CmdIndex];
-            return new LucaCommand[] { CurCmd };
+            // 这里只是一个占位符，即使不再需要ASSIGN_CMD，但还是传回一个非null值，确保接下来能正常执行FIX_PTR
+            return new LucaCommand[0];
         }
 
         public static void FARCALL_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
@@ -640,7 +642,7 @@ namespace LBEE_TranslationPatch
 
         public static LucaCommand[]? JUMP_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
         {
-            return FARCALL_ASSIGN_CMD(InAllCommands, CmdIndex);
+            return new LucaCommand[0];
         }
 
         // 与FARCALL_FIX_PTR相同，但Header和脚本名之间少了2个字节的变量。
@@ -671,6 +673,46 @@ namespace LBEE_TranslationPatch
                 Environment.Exit(-1);
             }
             Int2LittleEndian(CurCmd.Command, index + ExpLength + 1, TargetRedirectors[SourceCmdPtr]);
+        }
+
+        public static LucaCommand[]? ONGOTO_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
+        {
+            return new LucaCommand[0];
+        }
+
+        // 原来ONGOTO的含义不是当跳转结束后XXX，而是当XXX时跳转
+        // 感觉当初的思路完全错误了。
+        public static void ONGOTO_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
+        {
+            if (CurCmd.Command == null)
+            {
+                return;
+            }
+            int index = GetCmdHeaderLength(CurCmd.Command);
+            int ExpLength = GetSingleByteStrLength(CurCmd.Command, index);
+            byte[] PtrArray = CurCmd.Command.Skip(index + ExpLength + 1).ToArray();
+            if(PtrArray.Length % 4!=0)
+            {
+                // 怎么会不能被整除呢？
+                Console.Error.WriteLine("Error: ONGOTO PtrArray length is not multiple of 4,Script may contains error,Exit!");
+                Environment.Exit(-1);
+            }
+            var CurScript = Program.ScriptNameContext.Peek();
+            var TargetRedirectors = ScriptCommandRedirectors[CurScript];
+            for (int i = 0; i < PtrArray.Length; i += 4)
+            {
+                byte[] PtrByteArray = PtrArray[i..(i + 4)];
+                // 这里其实应该是uint的，但鉴于脚本里不可能出现大于2G的指针，所以用int还是uint都无所谓了
+                int SourceCmdPtr = BitConverter.IsLittleEndian ?
+                    BitConverter.ToInt32(PtrArray, i) :
+                    BitConverter.ToInt32(PtrArray.Reverse().ToArray(), i);
+                if (!TargetRedirectors.ContainsKey(SourceCmdPtr))
+                {
+                    Console.Error.WriteLine("Error: Failed to find redirectors for script " + CurScript + " SourcePtr " + SourceCmdPtr);
+                    Environment.Exit(-1);
+                }
+                Int2LittleEndian(CurCmd.Command, index + ExpLength + 1 + i, TargetRedirectors[SourceCmdPtr]);
+            }
         }
     }
 

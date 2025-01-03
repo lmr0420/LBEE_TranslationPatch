@@ -54,6 +54,7 @@ namespace LBEE_TranslationPatch
             { 0x19, VARSTR_SET_GET },
             { 0x5A, TASK_GET },
             { 0x5C, BATTLE_GET },
+            { 0x69, SAYAVOICETEXT_GET }
         };
 
         public static Dictionary<byte, Func<byte[], JObject, byte[]?>> InstructionSetMapping = new ()
@@ -62,7 +63,8 @@ namespace LBEE_TranslationPatch
             { 0x21, SELECT_SET },
             { 0x19, VARSTR_SET_SET },
             { 0x5A, TASK_SET },
-            { 0x5C, BATTLE_SET }
+            { 0x5C, BATTLE_SET },
+            { 0x69, SAYAVOICETEXT_SET }
         };
 
         public static Dictionary<byte, Func<List<LucaCommand>, int, LucaCommand[]?>> AssignCmdMapping = new ()
@@ -561,6 +563,37 @@ namespace LBEE_TranslationPatch
                 return newCommand.ToArray();
             }
             return null;
+        }
+
+        public static JObject? SAYAVOICETEXT_GET(byte[] command)
+        {
+            JObject TrasnlationObj = new JObject();
+            int index = GetCmdHeaderLength(command) + 2; // Header+ID
+            int StrLength = GetStrLength(command, index);
+            TrasnlationObj["JP"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
+            index += StrLength + 2;
+            StrLength = GetStrLength(command, index);
+            TrasnlationObj["EN"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
+            TrasnlationObj["Translation"] = TrasnlationObj["EN"];
+            return TrasnlationObj;
+        }
+
+        public static byte[]? SAYAVOICETEXT_SET(byte[] command, JObject inJsonObj)
+        {
+            int index = GetCmdHeaderLength(command) + 2; // Header+ID
+            int StrLength = GetStrLength(command, index); // Jp
+            index += StrLength + 2;
+            StrLength = GetStrLength(command, index);
+            string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
+            List<byte> newCommand = new List<byte>();
+            newCommand.AddRange(command[..index]);
+            newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
+            newCommand.AddRange(command.Skip(index + StrLength));
+            foreach (var newChar in Translation.ToCharArray())
+            {
+                CharCollection.Add(newChar);
+            }
+            return newCommand.ToArray();
         }
 
         public static int LittleEndian2Int(byte[] InBytes)

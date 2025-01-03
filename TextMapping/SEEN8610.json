@@ -1,0 +1,829 @@
+{
+  "BATTLE": [
+    {
+      "JP": "は『＃Ａ０４カップゼリー』を食べた！",
+      "EN": " uses the ＃Ａ０４ Cup Jelly!",
+      "Translation": " uses the ＃Ａ０４ Cup Jelly!"
+    },
+    {
+      "JP": "は『＃Ａ０８猫じゃらし』を使った！",
+      "EN": " uses the ＃Ａ０８ Bristlegrass!",
+      "Translation": " uses the ＃Ａ０８ Bristlegrass!"
+    },
+    {
+      "JP": "猫じゃらしに釣られて猫が寄ってきた！",
+      "EN": "Attracted by the bristlegrass, cats begin to gather!",
+      "Translation": "Attracted by the bristlegrass, cats begin to gather!"
+    },
+    {
+      "JP": "は『＃Ａ０８猫じゃらし』を使った！",
+      "EN": " uses the ＃Ａ０８ Bristlegrass!",
+      "Translation": " uses the ＃Ａ０８ Bristlegrass!"
+    },
+    {
+      "JP": "しかし猫は寄ってこなかった",
+      "EN": "But no cats gather.",
+      "Translation": "But no cats gather."
+    },
+    {
+      "JP": "は『＃Ａ０８フリスキ』を使った！",
+      "EN": " uses the ＃Ａ０８ Friskies!",
+      "Translation": " uses the ＃Ａ０８ Friskies!"
+    },
+    {
+      "JP": "においに誘われて猫が寄ってきた！",
+      "EN": "Attracted by the smell, cats begin to gather!",
+      "Translation": "Attracted by the smell, cats begin to gather!"
+    },
+    {
+      "JP": "しかも猫はやや興奮気味だ！",
+      "EN": "And they look excited!",
+      "Translation": "And they look excited!"
+    },
+    {
+      "JP": "は『＃Ａ０８フリスキ』を使った！",
+      "EN": " uses the ＃Ａ０８ Friskies!",
+      "Translation": " uses the ＃Ａ０８ Friskies!"
+    },
+    {
+      "JP": "しかし猫は寄ってこなかった",
+      "EN": "But no cats gather.",
+      "Translation": "But no cats gather."
+    },
+    {
+      "JP": "は『＃Ａ０８ツナ缶』を使った！",
+      "EN": " opens the ＃Ａ０８ Can of Tuna!",
+      "Translation": " opens the ＃Ａ０８ Can of Tuna!"
+    },
+    {
+      "JP": "においに誘われて猫が寄ってきた！",
+      "EN": "Attracted by the smell, cats begin to gather!",
+      "Translation": "Attracted by the smell, cats begin to gather!"
+    },
+    {
+      "JP": "しかも猫は興奮気味だ！",
+      "EN": "And they look excited!",
+      "Translation": "And they look excited!"
+    },
+    {
+      "JP": "は『＃Ａ０８ツナ缶』を使った！",
+      "EN": " opens the ＃Ａ０８ Can of Tuna!",
+      "Translation": " opens the ＃Ａ０８ Can of Tuna!"
+    },
+    {
+      "JP": "しかし猫は寄ってこなかった",
+      "EN": "But no cats gather.",
+      "Translation": "But no cats gather."
+    },
+    {
+      "JP": "は『＃Ａ０８モンペチ』を使った！",
+      "EN": " opens the ＃Ａ０８ Mon Petit!",
+      "Translation": " opens the ＃Ａ０８ Mon Petit!"
+    },
+    {
+      "JP": "においに誘われて猫がたくさん寄ってきた！",
+      "EN": "Attracted by the smell, a lot of cats gather up!",
+      "Translation": "Attracted by the smell, a lot of cats gather up!"
+    },
+    {
+      "JP": "しかも猫は興奮気味だ！",
+      "EN": "And they look excited!",
+      "Translation": "And they look excited!"
+    },
+    {
+      "JP": "は『＃Ａ０８モンペチ』を使った！",
+      "EN": " opens the ＃Ａ０８ Mon Petit!",
+      "Translation": " opens the ＃Ａ０８ Mon Petit!"
+    },
+    {
+      "JP": "しかし猫は寄ってこなかった",
+      "EN": "But no cats gather.",
+      "Translation": "But no cats gather."
+    },
+    {
+      "JP": "は『＃Ａ０８またたび』を使った！",
+      "EN": " uses the ＃Ａ０８ Catnip!",
+      "Translation": " uses the ＃Ａ０８ Catnip!"
+    },
+    {
+      "JP": "またたびに釣られて猫が大量に寄ってきた！",
+      "EN": "Attracted by the catnip, an insane number of cats gather up!",
+      "Translation": "Attracted by the catnip, an insane number of cats gather up!"
+    },
+    {
+      "JP": "しかし猫は錯乱気味だ！",
+      "EN": "However, they look confused!",
+      "Translation": "However, they look confused!"
+    },
+    {
+      "JP": "は『＃Ａ０８またたび』を使った！",
+      "EN": " uses the ＃Ａ０８ Catnip!",
+      "Translation": " uses the ＃Ａ０８ Catnip!"
+    },
+    {
+      "JP": "しかし猫は寄ってこなかった",
+      "EN": "But no cats gather.",
+      "Translation": "But no cats gather."
+    },
+    {
+      "JP": "は『＃Ａ０８禁断のまたたび』を使った！",
+      "EN": " uses the ＃Ａ０８ Forbidden Catnip!",
+      "Translation": " uses the ＃Ａ０８ Forbidden Catnip!"
+    },
+    {
+      "JP": "禁断のまたたびに釣られて猫が大量に寄ってきた！",
+      "EN": "Attracted by the forbidden catnip, an insane number of cats gather up!",
+      "Translation": "Attracted by the forbidden catnip, an insane number of cats gather up!"
+    },
+    {
+      "JP": "しかも猫はかなり興奮気味だ！",
+      "EN": "And they look extremely excited!",
+      "Translation": "And they look extremely excited!"
+    },
+    {
+      "JP": "は『＃Ａ０８禁断のまたたび』を使った！",
+      "EN": " uses the ＃Ａ０８ Forbidden Catnip!",
+      "Translation": " uses the ＃Ａ０８ Forbidden Catnip!"
+    },
+    {
+      "JP": "しかし猫は寄ってこなかった",
+      "EN": "But no cats gather.",
+      "Translation": "But no cats gather."
+    },
+    {
+      "JP": "は『＃Ａ０４ぱっきー』を食べた！",
+      "EN": " eats the ＃Ａ０４ Pocky!",
+      "Translation": " eats the ＃Ａ０４ Pocky!"
+    },
+    {
+      "JP": "は『＃Ａ０４どーなつ』を食べた！",
+      "EN": " eats the ＃Ａ０４ Donut!",
+      "Translation": " eats the ＃Ａ０４ Donut!"
+    },
+    {
+      "JP": "は『＃Ａ０４わっふる』を食べた！",
+      "EN": " eats the ＃Ａ０４ Waffle!",
+      "Translation": " eats the ＃Ａ０４ Waffle!"
+    },
+    {
+      "JP": "は『＃Ａ０４カチカチになったどーなつ』を食べた！",
+      "EN": " eats the ＃Ａ０４ Stale Donut!",
+      "Translation": " eats the ＃Ａ０４ Stale Donut!"
+    },
+    {
+      "JP": "は『＃Ａ０５カビカビになったどーなつ』を食べた！",
+      "EN": " eats the ＃Ａ０５ Mouldy Donut!",
+      "Translation": " eats the ＃Ａ０５ Mouldy Donut!"
+    },
+    {
+      "JP": "は『＃Ａ０４キムチ』を食べた！",
+      "EN": " eats the ＃Ａ０４ Kimchi!",
+      "Translation": " eats the ＃Ａ０４ Kimchi!"
+    },
+    {
+      "JP": "は『＃Ａ０４もずく』を食べた！",
+      "EN": " eats the ＃Ａ０４ Seaweed!",
+      "Translation": " eats the ＃Ａ０４ Seaweed!"
+    },
+    {
+      "JP": "は『＃Ａ００ティーセット』を使った！",
+      "EN": " uses the ＃Ａ００ Tea Set!",
+      "Translation": " uses the ＃Ａ００ Tea Set!"
+    },
+    {
+      "JP": "は『＃Ａ００???のブラジャー』を使った！",
+      "EN": " uses ＃Ａ００ Someone's Bra!",
+      "Translation": " uses ＃Ａ００ Someone's Bra!"
+    },
+    {
+      "JP": "は『＃Ａ００???のぱんつ』を使った！",
+      "EN": " uses ＃Ａ００ Someone's Panties!",
+      "Translation": " uses ＃Ａ００ Someone's Panties!"
+    },
+    {
+      "JP": "は『＃Ａ０１変な絵』を使った！",
+      "EN": " uses the ＃Ａ０１ Weird Picture!",
+      "Translation": " uses the ＃Ａ０１ Weird Picture!"
+    },
+    {
+      "JP": "は『＃Ａ０１ものすごく変な絵』を使った！",
+      "EN": " uses the ＃Ａ０１ Really Weird Picture!",
+      "Translation": " uses the ＃Ａ０１ Really Weird Picture!"
+    },
+    {
+      "JP": "は『＃Ａ００芸術に達した変な絵』を使った！",
+      "EN": " uses the ＃Ａ００ Famous Weird Picture!",
+      "Translation": " uses the ＃Ａ００ Famous Weird Picture!"
+    },
+    {
+      "JP": "は『＃Ａ００鉄板』を使った！",
+      "EN": " uses the ＃Ａ００ Iron Plate!",
+      "Translation": " uses the ＃Ａ００ Iron Plate!"
+    },
+    {
+      "JP": "は『＃Ａ００浮世絵の掛け軸』を使った！",
+      "EN": " uses the ＃Ａ００ Scroll Painting!",
+      "Translation": " uses the ＃Ａ００ Scroll Painting!"
+    },
+    {
+      "JP": "は『＃Ａ００古銭』を使った！",
+      "EN": " uses the ＃Ａ００ Old Coin!",
+      "Translation": " uses the ＃Ａ００ Old Coin!"
+    },
+    {
+      "JP": "は『＃Ａ０９わんわん元気』を使った！",
+      "EN": " uses the ＃Ａ０９ Anise!",
+      "Translation": " uses the ＃Ａ０９ Anise!"
+    },
+    {
+      "JP": "においを嗅ぎ付けてヴェルカとストレルカが姿を現した！",
+      "EN": "Attracted by the smell of Anise, Belka and Strelka show up!",
+      "Translation": "Attracted by the smell of Anise, Belka and Strelka show up!"
+    },
+    {
+      "JP": "は『＃Ａ０９わんわん元気』を使った！",
+      "EN": " uses the ＃Ａ０９ Anise!",
+      "Translation": " uses the ＃Ａ０９ Anise!"
+    },
+    {
+      "JP": "しかしヴェルカとストレルカは現れなかった",
+      "EN": "But Belka and Strelka didn't show up.",
+      "Translation": "But Belka and Strelka didn't show up."
+    },
+    {
+      "JP": "は『＃Ａ００英単語帳』を使った！",
+      "EN": " uses the ＃Ａ００ English Dictionary!",
+      "Translation": " uses the ＃Ａ００ English Dictionary!"
+    },
+    {
+      "JP": "は『＃Ａ００英語が得意な後藤さん』を使った！",
+      "EN": " uses ＃Ａ００ Proud English with Gotou!",
+      "Translation": " uses ＃Ａ００ Proud English with Gotou!"
+    },
+    {
+      "JP": "は『＃Ａ０９わんわん元気ゴールド』を使った！",
+      "EN": " uses the ＃Ａ０９ Golden Anise!",
+      "Translation": " uses the ＃Ａ０９ Golden Anise!"
+    },
+    {
+      "JP": "ゴールドなにおいを嗅ぎ付けてヴェルカとストレルカが姿を現した！",
+      "EN": "Attracted by the smell of Golden Anise, Belka and Strelka show up!",
+      "Translation": "Attracted by the smell of Golden Anise, Belka and Strelka show up!"
+    },
+    {
+      "JP": "は『＃Ａ０９わんわん元気ゴールド』を使った！",
+      "EN": " uses the ＃Ａ０９ Golden Anise!",
+      "Translation": " uses the ＃Ａ０９ Golden Anise!"
+    },
+    {
+      "JP": "しかしヴェルカとストレルカは現れなかった",
+      "EN": "But Belka and Strelka didn't show up.",
+      "Translation": "But Belka and Strelka didn't show up."
+    },
+    {
+      "JP": "は『＃Ａ００グッジョブ小僧』を使った！",
+      "EN": " uses the ＃Ａ００ Good Job Boy!",
+      "Translation": " uses the ＃Ａ００ Good Job Boy!"
+    },
+    {
+      "JP": "は『＃Ａ００ノリノリタンバリン』を使った！",
+      "EN": " uses the ＃Ａ００ Cheerful Tambourine!",
+      "Translation": " uses the ＃Ａ００ Cheerful Tambourine!"
+    },
+    {
+      "JP": "は『＃Ａ００ブラックタンバリン』を使った！",
+      "EN": " uses the ＃Ａ００ Black Tambourine!",
+      "Translation": " uses the ＃Ａ００ Black Tambourine!"
+    },
+    {
+      "JP": "は『＃Ａ００突撃トランペット』を使った！",
+      "EN": " uses the ＃Ａ００ Assault Trumpet!",
+      "Translation": " uses the ＃Ａ００ Assault Trumpet!"
+    },
+    {
+      "JP": "は『＃Ａ００お気に入り髪飾り』を使った！",
+      "EN": " uses the ＃Ａ００ Favorite Hair Ornaments!",
+      "Translation": " uses the ＃Ａ００ Favorite Hair Ornaments!"
+    },
+    {
+      "JP": "は『＃Ａ０１罰則のプリント』を使った！",
+      "EN": " uses the ＃Ａ０１ Regulation Printout!",
+      "Translation": " uses the ＃Ａ０１ Regulation Printout!"
+    },
+    {
+      "JP": "は『＃Ａ０１さっき拾ってきたあきカン』を使った！",
+      "EN": " uses the ＃Ａ０１ Old picked up Can!",
+      "Translation": " uses the ＃Ａ０１ Old picked up Can!"
+    },
+    {
+      "JP": "は『＃Ａ０１さっき拾ってきたゴミ』を使った！",
+      "EN": " uses the ＃Ａ０１ Old picked up Trash!",
+      "Translation": " uses the ＃Ａ０１ Old picked up Trash!"
+    },
+    {
+      "JP": "は『＃Ａ０３さっき拾ってきた謎の小袋』を使った！",
+      "EN": " uses the ＃Ａ０３ Old picked up Mystery Bag!",
+      "Translation": " uses the ＃Ａ０３ Old picked up Mystery Bag!"
+    },
+    {
+      "JP": "は『＃Ａ０３さっき拾ってきた謎の小袋』を使った！",
+      "EN": " uses the ＃Ａ０３ Old picked up Mystery Bag!",
+      "Translation": " uses the ＃Ａ０３ Old picked up Mystery Bag!"
+    },
+    {
+      "JP": "は『＃Ａ００伊達メガネ』を使った！",
+      "EN": " uses the ＃Ａ００ Elegant Glasses!",
+      "Translation": " uses the ＃Ａ００ Elegant Glasses!"
+    },
+    {
+      "JP": "は『＃Ａ０１メガネ』を使った！",
+      "EN": " uses the ＃Ａ０１ Glasses!",
+      "Translation": " uses the ＃Ａ０１ Glasses!"
+    },
+    {
+      "JP": "は『＃Ａ００伊達じゃないメガネ』を使った！",
+      "EN": " uses the ＃Ａ００ Inelegant Specs!",
+      "Translation": " uses the ＃Ａ００ Inelegant Specs!"
+    },
+    {
+      "JP": "は『＃Ａ０４おにぎり』を食べた！",
+      "EN": " eats the ＃Ａ０４ Onigiri!",
+      "Translation": " eats the ＃Ａ０４ Onigiri!"
+    },
+    {
+      "JP": "は『＃Ａ０４サンドイッチ』を食べた！",
+      "EN": " eats the ＃Ａ０４ Sandwich!",
+      "Translation": " eats the ＃Ａ０４ Sandwich!"
+    },
+    {
+      "JP": "は『＃Ａ００めぐすり』を使った！",
+      "EN": " uses the ＃Ａ００ Eye Drops!",
+      "Translation": " uses the ＃Ａ００ Eye Drops!"
+    },
+    {
+      "JP": "は『＃Ａ０４プロテイン』を飲んだ！",
+      "EN": " uses the ＃Ａ０４ Protein!",
+      "Translation": " uses the ＃Ａ０４ Protein!"
+    },
+    {
+      "JP": "は『＃Ａ００リストウェイト』を使った！",
+      "EN": " uses the ＃Ａ００ Wrist Weight!",
+      "Translation": " uses the ＃Ａ００ Wrist Weight!"
+    },
+    {
+      "JP": "は『＃Ａ００理樹のノート』を使った！",
+      "EN": " uses ＃Ａ００ Riki's Notes!",
+      "Translation": " uses ＃Ａ００ Riki's Notes!"
+    },
+    {
+      "JP": "は『＃Ａ００ウェイトジャケット』を使った！",
+      "EN": " uses the ＃Ａ００ Weight Jacket!",
+      "Translation": " uses the ＃Ａ００ Weight Jacket!"
+    },
+    {
+      "JP": "は『＃Ａ００籠手』を使った！",
+      "EN": " uses the ＃Ａ００ Kendo Gauntlet!",
+      "Translation": " uses the ＃Ａ００ Kendo Gauntlet!"
+    },
+    {
+      "JP": "は『＃Ａ００《心頭滅却》刺繍入りキャップ』を使った！",
+      "EN": " uses the ＃Ａ００ ❝Clear your mind❞ Embroidered Cap!",
+      "Translation": " uses the ＃Ａ００ ❝Clear your mind❞ Embroidered Cap!"
+    },
+    {
+      "JP": "は『＃Ａ００面』を使った！",
+      "EN": " uses the ＃Ａ００ Kendo Mask!",
+      "Translation": " uses the ＃Ａ００ Kendo Mask!"
+    },
+    {
+      "JP": "は『＃Ａ００《百戦錬磨》刺繍入りストラップ』を使った！",
+      "EN": " uses the ＃Ａ００ ❝Veteran❞ Embroidered Strap!",
+      "Translation": " uses the ＃Ａ００ ❝Veteran❞ Embroidered Strap!"
+    },
+    {
+      "JP": "は『＃Ａ００剣道防具一式』を使った！",
+      "EN": " uses the ＃Ａ００ Set of Kendo Protectors!",
+      "Translation": " uses the ＃Ａ００ Set of Kendo Protectors!"
+    },
+    {
+      "JP": "は『＃Ａ００《正々堂々》刺繍入りフラッグ』を使った！",
+      "EN": " uses the ＃Ａ００ ❝Fair and Square❞ Embroidered Flag!",
+      "Translation": " uses the ＃Ａ００ ❝Fair and Square❞ Embroidered Flag!"
+    },
+    {
+      "JP": "は『＃Ａ００《勇猛果敢》刺繍入りペナント』を使った！",
+      "EN": " uses the ＃Ａ００ ❝Courageous❞ Embroidered Pennant!",
+      "Translation": " uses the ＃Ａ００ ❝Courageous❞ Embroidered Pennant!"
+    },
+    {
+      "JP": "は『＃Ａ０３ラブレター』を使った！",
+      "EN": " uses the ＃Ａ０３ Love Letter!",
+      "Translation": " uses the ＃Ａ０３ Love Letter!"
+    },
+    {
+      "JP": "は『＃Ａ００《風林火山》刺繍入りポーチ』を使った！",
+      "EN": " uses the ＃Ａ００ ❝Furinkazan❞ Embroidered Pouch!",
+      "Translation": " uses the ＃Ａ００ ❝Furinkazan❞ Embroidered Pouch!"
+    },
+    {
+      "JP": "は『＃Ａ００《学園革命スクレボ》第１巻』を使った！",
+      "EN": " uses ＃Ａ００ ❝School Revolution❞ Volume 1!",
+      "Translation": " uses ＃Ａ００ ❝School Revolution❞ Volume 1!"
+    },
+    {
+      "JP": "は『＃Ａ００《学園革命スクレボ》第２巻』を使った！",
+      "EN": " uses ＃Ａ００ ❝School Revolution❞ Volume 2!",
+      "Translation": " uses ＃Ａ００ ❝School Revolution❞ Volume 2!"
+    },
+    {
+      "JP": "は『＃Ａ００《学園革命スクレボ》第３巻』を使った！",
+      "EN": " uses ＃Ａ００ ❝School Revolution❞ Volume 3!",
+      "Translation": " uses ＃Ａ００ ❝School Revolution❞ Volume 3!"
+    },
+    {
+      "JP": "は『＃Ａ００《学園革命スクレボ》第４巻』を使った！",
+      "EN": " uses ＃Ａ００ ❝School Revolution❞ Volume 4!",
+      "Translation": " uses ＃Ａ００ ❝School Revolution❞ Volume 4!"
+    },
+    {
+      "JP": "は『＃Ａ００《学園革命スクレボ》第５巻』を使った！",
+      "EN": " uses ＃Ａ００ ❝School Revolution❞ Volume 5!",
+      "Translation": " uses ＃Ａ００ ❝School Revolution❞ Volume 5!"
+    },
+    {
+      "JP": "は『＃Ａ００《学園革命スクレボ》第６巻』を使った！",
+      "EN": " uses ＃Ａ００ ❝School Revolution❞ Volume 6!",
+      "Translation": " uses ＃Ａ００ ❝School Revolution❞ Volume 6!"
+    },
+    {
+      "JP": "は『＃Ａ００《学園革命スクレボ》第７巻』を使った！",
+      "EN": " uses ＃Ａ００ ❝School Revolution❞ Volume 7!",
+      "Translation": " uses ＃Ａ００ ❝School Revolution❞ Volume 7!"
+    },
+    {
+      "JP": "は『＃Ａ００《学園革命スクレボ》第８巻』を使った！",
+      "EN": " uses ＃Ａ００ ❝School Revolution❞ Volume 8!",
+      "Translation": " uses ＃Ａ００ ❝School Revolution❞ Volume 8!"
+    },
+    {
+      "JP": "は『＃Ａ００《学園革命スクレボ》第９巻』を使った！",
+      "EN": " uses ＃Ａ００ ❝School Revolution❞ Volume 9!",
+      "Translation": " uses ＃Ａ００ ❝School Revolution❞ Volume 9!"
+    },
+    {
+      "JP": "は『＃Ａ００《学園革命スクレボ》第１０巻』を使った！",
+      "EN": " uses ＃Ａ００ ❝School Revolution❞ Volume 10!",
+      "Translation": " uses ＃Ａ００ ❝School Revolution❞ Volume 10!"
+    },
+    {
+      "JP": "は『＃Ａ００キャストパズル・難易度１』を使った！",
+      "EN": " uses the ＃Ａ００ Cast Puzzle: Difficulty 1!",
+      "Translation": " uses the ＃Ａ００ Cast Puzzle: Difficulty 1!"
+    },
+    {
+      "JP": "は『＃Ａ００キャストパズル・難易度２』を使った！",
+      "EN": " uses the ＃Ａ００ Cast Puzzle: Difficulty 2!",
+      "Translation": " uses the ＃Ａ００ Cast Puzzle: Difficulty 2!"
+    },
+    {
+      "JP": "は『＃Ａ００キャストパズル・難易度３』を使った！",
+      "EN": " uses the ＃Ａ００ Cast Puzzle: Difficulty 3!",
+      "Translation": " uses the ＃Ａ００ Cast Puzzle: Difficulty 3!"
+    },
+    {
+      "JP": "は『＃Ａ００キャストパズル・難易度４』を使った！",
+      "EN": " uses the ＃Ａ００ Cast Puzzle: Difficulty 4!",
+      "Translation": " uses the ＃Ａ００ Cast Puzzle: Difficulty 4!"
+    },
+    {
+      "JP": "は『＃Ａ００キャストパズル・難易度５』を使った！",
+      "EN": " uses the ＃Ａ００ Cast Puzzle: Difficulty 5!",
+      "Translation": " uses the ＃Ａ００ Cast Puzzle: Difficulty 5!"
+    },
+    {
+      "JP": "は『＃Ａ００ミニ車』を使った！",
+      "EN": " uses the ＃Ａ００ Mini Car!",
+      "Translation": " uses the ＃Ａ００ Mini Car!"
+    },
+    {
+      "JP": "は『＃Ａ００コントローラー』を使った！",
+      "EN": " uses the ＃Ａ００ Controller!",
+      "Translation": " uses the ＃Ａ００ Controller!"
+    },
+    {
+      "JP": "は『＃Ａ００名作劇場シリーズ DVD-BOX』を使った！",
+      "EN": " uses the ＃Ａ００ ❝Masterpiece Theater❞ Series DVD-BOX!",
+      "Translation": " uses the ＃Ａ００ ❝Masterpiece Theater❞ Series DVD-BOX!"
+    },
+    {
+      "JP": "は『＃Ａ００日本昔話ボックスセット』を使った！",
+      "EN": " uses the ＃Ａ００ Japanese Legends Box Set!",
+      "Translation": " uses the ＃Ａ００ Japanese Legends Box Set!"
+    },
+    {
+      "JP": "は『＃Ａ００粘土質の何か』を使った！",
+      "EN": " uses ＃Ａ００ Something Slimy!",
+      "Translation": " uses ＃Ａ００ Something Slimy!"
+    },
+    {
+      "JP": "は『＃Ａ００埴輪』を使った！",
+      "EN": " uses the ＃Ａ００ Haniwa!",
+      "Translation": " uses the ＃Ａ００ Haniwa!"
+    },
+    {
+      "JP": "は『＃Ａ００土偶』を使った！",
+      "EN": " uses the ＃Ａ００ Clay Figure!",
+      "Translation": " uses the ＃Ａ００ Clay Figure!"
+    },
+    {
+      "JP": "は『＃Ａ００鉾』を使った！",
+      "EN": " uses the ＃Ａ００ Spear!",
+      "Translation": " uses the ＃Ａ００ Spear!"
+    },
+    {
+      "JP": "は『＃Ａ００シタール』を使った！",
+      "EN": " uses the ＃Ａ００ Sitar!",
+      "Translation": " uses the ＃Ａ００ Sitar!"
+    },
+    {
+      "JP": "は『＃Ａ００リップクリーム』を使った！",
+      "EN": " uses the ＃Ａ００ Lip Balm!",
+      "Translation": " uses the ＃Ａ００ Lip Balm!"
+    },
+    {
+      "JP": "は『＃Ａ００靴下』を使った！",
+      "EN": " uses the ＃Ａ００ Socks!",
+      "Translation": " uses the ＃Ａ００ Socks!"
+    },
+    {
+      "JP": "は『＃Ａ００オーデコロン』を使った！",
+      "EN": " uses the ＃Ａ００ Eau de Cologne!",
+      "Translation": " uses the ＃Ａ００ Eau de Cologne!"
+    },
+    {
+      "JP": "は『＃Ａ００靴』を使った！",
+      "EN": " uses the ＃Ａ００ Shoes!",
+      "Translation": " uses the ＃Ａ００ Shoes!"
+    },
+    {
+      "JP": "は『＃Ａ００グローブ』を使った！",
+      "EN": " uses the ＃Ａ００ Glove!",
+      "Translation": " uses the ＃Ａ００ Glove!"
+    },
+    {
+      "JP": "は『＃Ａ００書きかけ答案用紙』を使った！",
+      "EN": " uses the ＃Ａ００ Unfinished Exam Sheet!",
+      "Translation": " uses the ＃Ａ００ Unfinished Exam Sheet!"
+    },
+    {
+      "JP": "は『＃Ａ００体操着』を使った！",
+      "EN": " uses the ＃Ａ００ Gym Clothes!",
+      "Translation": " uses the ＃Ａ００ Gym Clothes!"
+    },
+    {
+      "JP": "は『＃Ａ００書きかけラブレター』を使った！",
+      "EN": " uses the ＃Ａ００ Unfinished Love Letter!",
+      "Translation": " uses the ＃Ａ００ Unfinished Love Letter!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美のリップクリーム』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's Lip Balm!",
+      "Translation": " uses ＃Ａ００ Sasami's Lip Balm!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美の靴下』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's Socks!",
+      "Translation": " uses ＃Ａ００ Sasami's Socks!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美のオーデコロン』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's Perfume!",
+      "Translation": " uses ＃Ａ００ Sasami's Perfume!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美の靴』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's Shoes!",
+      "Translation": " uses ＃Ａ００ Sasami's Shoes!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美のグローブ』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's Glove!",
+      "Translation": " uses ＃Ａ００ Sasami's Glove!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美の書きかけ答案用紙』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's Unfinished Exam Sheet!",
+      "Translation": " uses ＃Ａ００ Sasami's Unfinished Exam Sheet!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美の体操着』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's Gym Clothes!",
+      "Translation": " uses ＃Ａ００ Sasami's Gym Clothes!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美の書きかけラブレター』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's Unfinished Love Letter!",
+      "Translation": " uses ＃Ａ００ Sasami's Unfinished Love Letter!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美のブロマイド』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's Bromide!",
+      "Translation": " uses ＃Ａ００ Sasami's Bromide!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美の寝た布団』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's Sleeping Mat!",
+      "Translation": " uses ＃Ａ００ Sasami's Sleeping Mat!"
+    },
+    {
+      "JP": "は『＃Ａ００佐々美の使い古しジャージ』を使った！",
+      "EN": " uses ＃Ａ００ Sasami's used Jersey!",
+      "Translation": " uses ＃Ａ００ Sasami's used Jersey!"
+    },
+    {
+      "JP": "は『＃Ａ１０スクレボウォッチ』を使った！",
+      "EN": " uses the ＃Ａ１０ ❝School Revolution❞ Watch!",
+      "Translation": " uses the ＃Ａ１０ ❝School Revolution❞ Watch!"
+    },
+    {
+      "JP": "は『＃Ａ１０スクレボウォッチ』を使った！",
+      "EN": " uses the ＃Ａ１０ ❝School Revolution❞ Watch!",
+      "Translation": " uses the ＃Ａ１０ ❝School Revolution❞ Watch!"
+    },
+    {
+      "JP": "は『＃Ａ００五穀豊穣のお守り』を使った！",
+      "EN": " uses the ＃Ａ００ Good Harvest Charm!",
+      "Translation": " uses the ＃Ａ００ Good Harvest Charm!"
+    },
+    {
+      "JP": "は『＃Ａ１０マスクザ斉藤のマスク』を使った！",
+      "EN": " uses ＃Ａ１０ Mask the Saito's Mask!",
+      "Translation": " uses ＃Ａ１０ Mask the Saito's Mask!"
+    },
+    {
+      "JP": "は『＃Ａ０６ぺろぺろキャンディ』を食べた！",
+      "EN": " eats the ＃Ａ０６ Lollipop!",
+      "Translation": " eats the ＃Ａ０６ Lollipop!"
+    },
+    {
+      "JP": "は『＃Ａ０６アップルシュトゥルーデル』を食べた！",
+      "EN": " eats the ＃Ａ０６ Apple Strudel!",
+      "Translation": " eats the ＃Ａ０６ Apple Strudel!"
+    },
+    {
+      "JP": "は『＃Ａ０６たまごごはん』を食べた！",
+      "EN": " eats the ＃Ａ０６ Egg Rice!",
+      "Translation": " eats the ＃Ａ０６ Egg Rice!"
+    },
+    {
+      "JP": "は『＃Ａ０６鳥の唐揚げ』を食べた！",
+      "EN": " eats the ＃Ａ０６ Fried Bird!",
+      "Translation": " eats the ＃Ａ０６ Fried Bird!"
+    },
+    {
+      "JP": "は『＃Ａ０６おむすび』を食べた！",
+      "EN": " eats the ＃Ａ０６ Rice Ball!",
+      "Translation": " eats the ＃Ａ０６ Rice Ball!"
+    },
+    {
+      "JP": "は『＃Ａ０６オムレツ』を食べた！",
+      "EN": " eats the ＃Ａ０６ Omelette!",
+      "Translation": " eats the ＃Ａ０６ Omelette!"
+    },
+    {
+      "JP": "は『＃Ａ０６カツカレー』を食べた！",
+      "EN": " eats the ＃Ａ０６ Cutlet Curry!",
+      "Translation": " eats the ＃Ａ０６ Cutlet Curry!"
+    },
+    {
+      "JP": "は『＃Ａ０６のり弁当』を食べた！",
+      "EN": " eats the ＃Ａ０６ Seaweed Bento!",
+      "Translation": " eats the ＃Ａ０６ Seaweed Bento!"
+    },
+    {
+      "JP": "は『＃Ａ０６弁当』を食べた！",
+      "EN": " eats the ＃Ａ０６ Bento!",
+      "Translation": " eats the ＃Ａ０６ Bento!"
+    },
+    {
+      "JP": "は『＃Ａ００《起死回生》刺繍入りミサンガ』を使った！",
+      "EN": " uses the ＃Ａ００ ❝Resuscitation❞ Embroidered Charm!",
+      "Translation": " uses the ＃Ａ００ ❝Resuscitation❞ Embroidered Charm!"
+    },
+    {
+      "JP": "は『＃Ａ０６幕の内弁当』を食べた！",
+      "EN": " eats the ＃Ａ０６ Makunouchi Bento!",
+      "Translation": " eats the ＃Ａ０６ Makunouchi Bento!"
+    },
+    {
+      "JP": "は『＃Ａ０６つまみかけ柿の種』を食べた！",
+      "EN": " uses ＃Ａ０６ Half-eaten Rice Crackers!",
+      "Translation": " uses ＃Ａ０６ Half-eaten Rice Crackers!"
+    },
+    {
+      "JP": "は『＃Ａ０６飲みかけ牛乳』を飲んだ！",
+      "EN": " drinks the ＃Ａ０６ Leftover Milk!",
+      "Translation": " drinks the ＃Ａ０６ Leftover Milk!"
+    },
+    {
+      "JP": "は『＃Ａ０６つまみかけナッツ』を食べた！",
+      "EN": " eats ＃Ａ０６ A Pinch of Nuts!",
+      "Translation": " eats ＃Ａ０６ A Pinch of Nuts!"
+    },
+    {
+      "JP": "は『＃Ａ０６飲みかけココア』を飲んだ！",
+      "EN": " drinks the ＃Ａ０６ Leftover Cocoa!",
+      "Translation": " drinks the ＃Ａ０６ Leftover Cocoa!"
+    },
+    {
+      "JP": "は『＃Ａ０６食べかけクロワッサン』を食べた！",
+      "EN": " finishes the ＃Ａ０６ Half-eaten Croissant!",
+      "Translation": " finishes the ＃Ａ０６ Half-eaten Croissant!"
+    },
+    {
+      "JP": "は『＃Ａ０６食べかけチーズケーキ』を食べた！",
+      "EN": " finishes the ＃Ａ０６ Half-eaten Cheesecake!",
+      "Translation": " finishes the ＃Ａ０６ Half-eaten Cheesecake!"
+    },
+    {
+      "JP": "は『＃Ａ０６佐々美のつまみかけ柿の種』を食べた！",
+      "EN": " eats ＃Ａ０６ Sasami's Half-eaten Rice Crackers!",
+      "Translation": " eats ＃Ａ０６ Sasami's Half-eaten Rice Crackers!"
+    },
+    {
+      "JP": "は『＃Ａ０６佐々美の飲みかけ牛乳』を飲んだ！",
+      "EN": " drinks ＃Ａ０６ Sasami's Leftover Milk!",
+      "Translation": " drinks ＃Ａ０６ Sasami's Leftover Milk!"
+    },
+    {
+      "JP": "は『＃Ａ０６佐々美のつまみかけナッツ』を食べた！",
+      "EN": " eats ＃Ａ０６ Sasami's Pinch of Nuts!",
+      "Translation": " eats ＃Ａ０６ Sasami's Pinch of Nuts!"
+    },
+    {
+      "JP": "は『＃Ａ０６佐々美の飲みかけココア』を飲んだ！",
+      "EN": " drinks ＃Ａ０６ Sasami's Leftover Cocoa!",
+      "Translation": " drinks ＃Ａ０６ Sasami's Leftover Cocoa!"
+    },
+    {
+      "JP": "は『＃Ａ０６佐々美の食べかけクロワッサン』を食べた！",
+      "EN": " finishes ＃Ａ０６ Sasami's Half-eaten Croissant!",
+      "Translation": " finishes ＃Ａ０６ Sasami's Half-eaten Croissant!"
+    },
+    {
+      "JP": "は『＃Ａ０６佐々美の食べかけチーズケーキ』を食べた！",
+      "EN": " finishes ＃Ａ０６ Sasami's Half-eaten Cheesecake!",
+      "Translation": " finishes ＃Ａ０６ Sasami's Half-eaten Cheesecake!"
+    },
+    {
+      "JP": "は『＃Ａ０６佐々美の食べ捨てたガム』を食べた！",
+      "EN": " uses ＃Ａ０６ Sasami's Wad of Chewed Gum!",
+      "Translation": " uses ＃Ａ０６ Sasami's Wad of Chewed Gum!"
+    },
+    {
+      "JP": "は『＃Ａ０６佐々美の食べ捨てたハンバーガー』を食べた！",
+      "EN": " finishes ＃Ａ０６ Sasami's Half-eaten Hamburger!",
+      "Translation": " finishes ＃Ａ０６ Sasami's Half-eaten Hamburger!"
+    },
+    {
+      "JP": "は『＃Ａ０６佐々美の食べ捨てたお弁当』を食べた！",
+      "EN": " finishes ＃Ａ０６ Sasami's Half-eaten Bento!",
+      "Translation": " finishes ＃Ａ０６ Sasami's Half-eaten Bento!"
+    },
+    {
+      "JP": "は『＃Ａ０６シャケ缶』を食べた！",
+      "EN": " uses the ＃Ａ０６ Canned Salmon!",
+      "Translation": " uses the ＃Ａ０６ Canned Salmon!"
+    },
+    {
+      "JP": "は『＃Ａ０６食パン一斤』を食べた！",
+      "EN": " eats the ＃Ａ０６ Loaf of Bread!",
+      "Translation": " eats the ＃Ａ０６ Loaf of Bread!"
+    },
+    {
+      "JP": "は『＃Ａ０６ヤクルト』を飲んだ！",
+      "EN": " uses the ＃Ａ０６ Yakult!",
+      "Translation": " uses the ＃Ａ０６ Yakult!"
+    },
+    {
+      "JP": "は『＃Ａ０６松阪牛』を食べた！",
+      "EN": " eats the ＃Ａ０６ Matsusaka Beef!",
+      "Translation": " eats the ＃Ａ０６ Matsusaka Beef!"
+    },
+    {
+      "JP": "は『＃Ａ０６伊勢エビ』を食べた！",
+      "EN": " eats the ＃Ａ０６ Ise Shrimp!",
+      "Translation": " eats the ＃Ａ０６ Ise Shrimp!"
+    },
+    {
+      "JP": "は『＃Ａ０６バリウム』を飲んだ！",
+      "EN": " uses the ＃Ａ０６ Barium!",
+      "Translation": " uses the ＃Ａ０６ Barium!"
+    },
+    {
+      "JP": "は『＃Ａ０６カツサンド』を食べた！",
+      "EN": " eats the ＃Ａ０６ Cutlet Sandwich!",
+      "Translation": " eats the ＃Ａ０６ Cutlet Sandwich!"
+    }
+  ]
+}

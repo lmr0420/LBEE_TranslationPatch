@@ -1,0 +1,2634 @@
+{
+  "BATTLE": [
+    {
+      "JP": "はピンポン球を投げつけた！",
+      "EN": " picks up a ping pong ball, winds up and throws! ",
+      "Translation": " picks up a ping pong ball, winds up and throws! "
+    },
+    {
+      "JP": "は軟球を投げつけた！",
+      "EN": " throws a baseball! ",
+      "Translation": " throws a baseball! "
+    },
+    {
+      "JP": "はバレーボールを投げつけた！",
+      "EN": " throws a volleyball! ",
+      "Translation": " throws a volleyball! "
+    },
+    {
+      "JP": "はバスケットボールを投げつけた！",
+      "EN": " throws a basketball! ",
+      "Translation": " throws a basketball! "
+    },
+    {
+      "JP": "はバスケットボールをかごごと投げつけた！",
+      "EN": " throws the basketballs! ",
+      "Translation": " throws the basketballs! "
+    },
+    {
+      "JP": "はスーパーボールを投げつけた！",
+      "EN": " throws a super ball! ",
+      "Translation": " throws a super ball! "
+    },
+    {
+      "JP": "は消しゴムをちぎって投げつけた！",
+      "EN": " tears off a piece of the eraser and throws it! ",
+      "Translation": " tears off a piece of the eraser and throws it! "
+    },
+    {
+      "JP": "すでに消しゴムは尽きている！",
+      "EN": "The eraser has already been used up! ",
+      "Translation": "The eraser has already been used up! "
+    },
+    {
+      "JP": "はチョークを投げつけた！",
+      "EN": " throws the chalk! ",
+      "Translation": " throws the chalk! "
+    },
+    {
+      "JP": "は枕を投げつけた！",
+      "EN": " throws a pillow! ",
+      "Translation": " throws a pillow! "
+    },
+    {
+      "JP": "は甲子園の土を投げつけた！",
+      "EN": " throws soil from Koshien! ",
+      "Translation": " throws soil from Koshien! "
+    },
+    {
+      "JP": "はうにを投げつけた！",
+      "EN": " throws a sea urchin! ",
+      "Translation": " throws a sea urchin! "
+    },
+    {
+      "JP": "はうにをかごごと投げつけた！",
+      "EN": " throws the sea urchins! ",
+      "Translation": " throws the sea urchins! "
+    },
+    {
+      "JP": "はサッカーボールを蹴りつけた！",
+      "EN": " kicks a soccer ball! ",
+      "Translation": " kicks a soccer ball! "
+    },
+    {
+      "JP": "はラグビーボールを蹴りつけた！",
+      "EN": " kicks the rugby ball! ",
+      "Translation": " kicks the rugby ball! "
+    },
+    {
+      "JP": "は卓球ラケットのラバー部分で叩いた！",
+      "EN": " attacks with the rubber part of a ping pong paddle! ",
+      "Translation": " attacks with the rubber part of a ping pong paddle! "
+    },
+    {
+      "JP": "は卓球ラケットで叩いた！",
+      "EN": " attacks with a ping pong paddle! ",
+      "Translation": " attacks with a ping pong paddle! "
+    },
+    {
+      "JP": "はバドミントンラケットの網の部分で叩いた！",
+      "EN": " attacks with a badminton racket netting!",
+      "Translation": " attacks with a badminton racket netting!"
+    },
+    {
+      "JP": "はバドミントンラケットで叩いた！",
+      "EN": " attacks with a badminton racket! ",
+      "Translation": " attacks with a badminton racket! "
+    },
+    {
+      "JP": "はテニスラケットの網の部分で叩いた！",
+      "EN": " attacks with the tennis racket netting!",
+      "Translation": " attacks with the tennis racket netting!"
+    },
+    {
+      "JP": "はテニスラケットで叩いた！",
+      "EN": " attacks with a tennis racket! ",
+      "Translation": " attacks with a tennis racket! "
+    },
+    {
+      "JP": "はごぼうで叩いた！",
+      "EN": " hits with a burdock! ",
+      "Translation": " hits with a burdock! "
+    },
+    {
+      "JP": "は折れたごぼうで叩いた！",
+      "EN": " hits with the bent burdock! ",
+      "Translation": " hits with the bent burdock! "
+    },
+    {
+      "JP": "は太いごぼうで叩いた！",
+      "EN": " hits with the thick burdock! ",
+      "Translation": " hits with the thick burdock! "
+    },
+    {
+      "JP": "は折れた太いごぼうで叩いた！",
+      "EN": " hits with the thick bent burdock! ",
+      "Translation": " hits with the thick bent burdock! "
+    },
+    {
+      "JP": "はうなぎパイで叩いた！",
+      "EN": " attacks with an eel pie! ",
+      "Translation": " attacks with an eel pie! "
+    },
+    {
+      "JP": "は折れたうなぎパイで叩いた！",
+      "EN": " attacks with the bent eel pie! ",
+      "Translation": " attacks with the bent eel pie! "
+    },
+    {
+      "JP": "は田中さんの判子を押しつけた！",
+      "EN": " applies the Tanaka Family Seal! ",
+      "Translation": " applies the Tanaka Family Seal! "
+    },
+    {
+      "JP": "は斉藤さんの判子を押しつけた！",
+      "EN": " applies the Saito Family Seal! ",
+      "Translation": " applies the Saito Family Seal! "
+    },
+    {
+      "JP": "はあぶらとり紙を",
+      "EN": " applies the cosmetic paper to ",
+      "Translation": " applies the cosmetic paper to "
+    },
+    {
+      "JP": "は高級あぶらとり紙を",
+      "EN": " applies the expensive cosmetic paper to ",
+      "Translation": " applies the expensive cosmetic paper to "
+    },
+    {
+      "JP": "はソフビ製のヒーローを手で戦わせた！",
+      "EN": " attacks by manipulating the hero!",
+      "Translation": " attacks by manipulating the hero!"
+    },
+    {
+      "JP": "はソフビ製の怪人を手で戦わせた！",
+      "EN": " attacks by manipulating the phantom!",
+      "Translation": " attacks by manipulating the phantom!"
+    },
+    {
+      "JP": "は超合金のロボットを手で戦わせた！",
+      "EN": " attacks by manipulating the robot!",
+      "Translation": " attacks by manipulating the robot!"
+    },
+    {
+      "JP": "は車のおもちゃに乗って突進した！",
+      "EN": " charges in on a ride-on toy car! ",
+      "Translation": " charges in on a ride-on toy car! "
+    },
+    {
+      "JP": "は三輪車に乗って突進した！",
+      "EN": " charges in on a tricycle! ",
+      "Translation": " charges in on a tricycle! "
+    },
+    {
+      "JP": "はママチャリに乗って突進した！",
+      "EN": " charges in on a granny's bike! ",
+      "Translation": " charges in on a granny's bike! "
+    },
+    {
+      "JP": "は音楽に合わせて踊りだした！",
+      "EN": " starts dancing to the rhythm! ",
+      "Translation": " starts dancing to the rhythm! "
+    },
+    {
+      "JP": "は音楽に合わせて踊りだした！",
+      "EN": " starts dancing to the rhythm! ",
+      "Translation": " starts dancing to the rhythm! "
+    },
+    {
+      "JP": "は新聞紙ではたいた！",
+      "EN": " hits with a newspaper! ",
+      "Translation": " hits with a newspaper! "
+    },
+    {
+      "JP": "は丸めた新聞紙で斬りつけた！",
+      "EN": " slashes with a paper sword! ",
+      "Translation": " slashes with a paper sword! "
+    },
+    {
+      "JP": "は週刊誌ではたいた！",
+      "EN": " hits with a magazine! ",
+      "Translation": " hits with a magazine! "
+    },
+    {
+      "JP": "は丸めた週刊誌で斬りつけた！",
+      "EN": " slashes with a paper sword! ",
+      "Translation": " slashes with a paper sword! "
+    },
+    {
+      "JP": "は名刺を差し出した！",
+      "EN": " presents business card! ",
+      "Translation": " presents business card! "
+    },
+    {
+      "JP": "はお中元を差し出した！",
+      "EN": " presents a Bon Lantern Festival gift! ",
+      "Translation": " presents a Bon Lantern Festival gift! "
+    },
+    {
+      "JP": "は毛布を",
+      "EN": " attempts to cover ",
+      "Translation": " attempts to cover "
+    },
+    {
+      "JP": "は",
+      "EN": " is watching ",
+      "Translation": " is watching "
+    },
+    {
+      "JP": "は体育館のネットを",
+      "EN": " attempts to cover ",
+      "Translation": " attempts to cover "
+    },
+    {
+      "JP": "は",
+      "EN": " is watching ",
+      "Translation": " is watching "
+    },
+    {
+      "JP": "は虎模様のペルシャじゅうたんを",
+      "EN": " attempts to cover ",
+      "Translation": " attempts to cover "
+    },
+    {
+      "JP": "は",
+      "EN": " is watching ",
+      "Translation": " is watching "
+    },
+    {
+      "JP": "は指でっぽうで輪ゴムを飛ばした！",
+      "EN": " readies the rubber band, stretches and shoots! ",
+      "Translation": " readies the rubber band, stretches and shoots! "
+    },
+    {
+      "JP": "は銀玉鉄砲を撃った！",
+      "EN": " shoots pellets! ",
+      "Translation": " shoots pellets! "
+    },
+    {
+      "JP": "はゴム風船・小を膨らませて地面に置いた！",
+      "EN": " inflates a small-sized balloon and leaves it on the ground! ",
+      "Translation": " inflates a small-sized balloon and leaves it on the ground! "
+    },
+    {
+      "JP": "はゴム風船・中を膨らませて地面に置いた！",
+      "EN": " inflates a medium-sized balloon and leaves it on the ground! ",
+      "Translation": " inflates a medium-sized balloon and leaves it on the ground! "
+    },
+    {
+      "JP": "はゴム風船・大を膨らませて地面に置いた！",
+      "EN": " inflates a large-sized balloon and leaves it on the ground! ",
+      "Translation": " inflates a large-sized balloon and leaves it on the ground! "
+    },
+    {
+      "JP": "は噛み捨てたガムを地面に投げた！",
+      "EN": " throws chewed gum on the ground!",
+      "Translation": " throws chewed gum on the ground!"
+    },
+    {
+      "JP": "はバナナの皮を地面に投げ捨てた！",
+      "EN": " throws a banana peel on the ground!",
+      "Translation": " throws a banana peel on the ground!"
+    },
+    {
+      "JP": "は汚水の入ったバケツを地面に置いた！",
+      "EN": " leaves a bucket full of dirty water on the ground! ",
+      "Translation": " leaves a bucket full of dirty water on the ground! "
+    },
+    {
+      "JP": "はねずみ捕りを地面に設置した！",
+      "EN": " sets a mouse trap on the ground! ",
+      "Translation": " sets a mouse trap on the ground! "
+    },
+    {
+      "JP": "は自分が立てた泡で足が滑った！",
+      "EN": " slips on the suds! ",
+      "Translation": " slips on the suds! "
+    },
+    {
+      "JP": "はハンドソープで手を泡立てている！",
+      "EN": " suds up hands with soap! ",
+      "Translation": " suds up hands with soap! "
+    },
+    {
+      "JP": "は自分が立てた泡で足が滑った！",
+      "EN": " slips on the suds! ",
+      "Translation": " slips on the suds! "
+    },
+    {
+      "JP": "は洗顔用石けんで顔面を泡立てている！",
+      "EN": " suds up face with cleansing soap! ",
+      "Translation": " suds up face with cleansing soap! "
+    },
+    {
+      "JP": "は自分が立てた泡で足が滑った！",
+      "EN": " slips on the suds! ",
+      "Translation": " slips on the suds! "
+    },
+    {
+      "JP": "はボディーシャンプーで全身を泡立たせている！",
+      "EN": " suds up body with body shampoo! ",
+      "Translation": " suds up body with body shampoo! "
+    },
+    {
+      "JP": "はコロコロを転がしながら",
+      "EN": ", while pushing a paint roller, sweeps ",
+      "Translation": ", while pushing a paint roller, sweeps "
+    },
+    {
+      "JP": "はほうきで掃きながら",
+      "EN": " sweeps ",
+      "Translation": " sweeps "
+    },
+    {
+      "JP": "はモップを掛けながら",
+      "EN": " sweeps ",
+      "Translation": " sweeps "
+    },
+    {
+      "JP": "はトイレブラシでゴシゴシ磨きながら",
+      "EN": ", while scrubbing with a toilet brush, makes a sweep at ",
+      "Translation": ", while scrubbing with a toilet brush, makes a sweep at "
+    },
+    {
+      "JP": "はぞうきん掛けで",
+      "EN": " uses a dirty rag to ram into ",
+      "Translation": " uses a dirty rag to ram into "
+    },
+    {
+      "JP": "はねずみ花火を地面に投げ放った！",
+      "EN": " throws firecrackers on the ground!",
+      "Translation": " throws firecrackers on the ground!"
+    },
+    {
+      "JP": "はロケット花火をセットしている！",
+      "EN": " prepares a skyrocket for launch! ",
+      "Translation": " prepares a skyrocket for launch! "
+    },
+    {
+      "JP": "はロケット花火に火をつけた！",
+      "EN": " lights the fuse of the skyrocket! ",
+      "Translation": " lights the fuse of the skyrocket! "
+    },
+    {
+      "JP": "に向かってロケット花火が発射される！",
+      "EN": " sees the skyrocket shoot their way! ",
+      "Translation": " sees the skyrocket shoot their way! "
+    },
+    {
+      "JP": "は打ち上げ花火をセットしている！",
+      "EN": " prepares fireworks! ",
+      "Translation": " prepares fireworks! "
+    },
+    {
+      "JP": "は打ち上げ花火に火をつけた！",
+      "EN": " lights the fuse of the fireworks! ",
+      "Translation": " lights the fuse of the fireworks! "
+    },
+    {
+      "JP": "に向かって打ち上げ花火が発射される！",
+      "EN": " sees the fireworks shoot their way! ",
+      "Translation": " sees the fireworks shoot their way! "
+    },
+    {
+      "JP": "はミニカーを走らせてぶつけた！",
+      "EN": " drives the mini car into the opponent!",
+      "Translation": " drives the mini car into the opponent!"
+    },
+    {
+      "JP": "はラジコンを走らせてぶつけた！",
+      "EN": " drives the remote-controlled car into the opponent! ",
+      "Translation": " drives the remote-controlled car into the opponent! "
+    },
+    {
+      "JP": "はペーパークラフト（飛行機）を組み立てている！",
+      "EN": " is folding a papercraft plane! ",
+      "Translation": " is folding a papercraft plane! "
+    },
+    {
+      "JP": "はペーパークラフト（飛行機）を組み立てている！",
+      "EN": " is folding a papercraft plane! ",
+      "Translation": " is folding a papercraft plane! "
+    },
+    {
+      "JP": "はペーパークラフト（飛行機）を完成させた！",
+      "EN": " finished folding the papercraft plane!",
+      "Translation": " finished folding the papercraft plane!"
+    },
+    {
+      "JP": "はペーパークラフト（飛行機）を飛ばした！",
+      "EN": " throws the papercraft plane! ",
+      "Translation": " throws the papercraft plane! "
+    },
+    {
+      "JP": "はペーパークラフト（ステゴザウルス）を組み立てている！",
+      "EN": " is folding a papercraft stegosaurus!",
+      "Translation": " is folding a papercraft stegosaurus!"
+    },
+    {
+      "JP": "はペーパークラフト（ステゴザウルス）を組み立てている！",
+      "EN": " is folding a papercraft stegosaurus!",
+      "Translation": " is folding a papercraft stegosaurus!"
+    },
+    {
+      "JP": "はペーパークラフト（ステゴザウルス）を組み立てている！",
+      "EN": " is folding a papercraft stegosaurus!",
+      "Translation": " is folding a papercraft stegosaurus!"
+    },
+    {
+      "JP": "はペーパークラフト（ステゴザウルス）を完成させた！",
+      "EN": " finished folding the papercraft stegosaurus! ",
+      "Translation": " finished folding the papercraft stegosaurus! "
+    },
+    {
+      "JP": "はペーパークラフト（ステゴザウルス）をぶつけた！",
+      "EN": " throws the papercraft stegosaurus!",
+      "Translation": " throws the papercraft stegosaurus!"
+    },
+    {
+      "JP": "はペーパークラフト（姫路城）を組み立てている！",
+      "EN": " is folding a papercraft Himeji Castle!",
+      "Translation": " is folding a papercraft Himeji Castle!"
+    },
+    {
+      "JP": "はペーパークラフト（姫路城）を組み立てている！",
+      "EN": " is folding a papercraft Himeji Castle!",
+      "Translation": " is folding a papercraft Himeji Castle!"
+    },
+    {
+      "JP": "はペーパークラフト（姫路城）を組み立てている！",
+      "EN": " is folding a papercraft Himeji Castle!",
+      "Translation": " is folding a papercraft Himeji Castle!"
+    },
+    {
+      "JP": "はペーパークラフト（姫路城）を組み立てている！",
+      "EN": " is folding a papercraft Himeji Castle!",
+      "Translation": " is folding a papercraft Himeji Castle!"
+    },
+    {
+      "JP": "はペーパークラフト（姫路城）を完成させた！",
+      "EN": " finished folding the papercraft Himeji Castle!",
+      "Translation": " finished folding the papercraft Himeji Castle!"
+    },
+    {
+      "JP": "はペーパークラフト（姫路城）をぶつけた！",
+      "EN": " throws the papercraft Himeji Castle!",
+      "Translation": " throws the papercraft Himeji Castle!"
+    },
+    {
+      "JP": "はペーパークラフト（機動戦艦）を組み立てている！",
+      "EN": " is folding a papercraft mobile battleship!",
+      "Translation": " is folding a papercraft mobile battleship!"
+    },
+    {
+      "JP": "はペーパークラフト（機動戦艦）を組み立てている！",
+      "EN": " is folding a papercraft mobile battleship!",
+      "Translation": " is folding a papercraft mobile battleship!"
+    },
+    {
+      "JP": "はペーパークラフト（機動戦艦）を組み立てている！",
+      "EN": " is folding a papercraft mobile battleship!",
+      "Translation": " is folding a papercraft mobile battleship!"
+    },
+    {
+      "JP": "はペーパークラフト（機動戦艦）を組み立てている！",
+      "EN": " is folding a papercraft mobile battleship!",
+      "Translation": " is folding a papercraft mobile battleship!"
+    },
+    {
+      "JP": "はペーパークラフト（機動戦艦）を組み立てている！",
+      "EN": " is folding a papercraft mobile battleship!",
+      "Translation": " is folding a papercraft mobile battleship!"
+    },
+    {
+      "JP": "はペーパークラフト（機動戦艦）を完成させた！",
+      "EN": " finished folding the papercraft mobile battleship!",
+      "Translation": " finished folding the papercraft mobile battleship!"
+    },
+    {
+      "JP": "はペーパークラフト（機動戦艦）をぶつけた！",
+      "EN": " throws the papercraft mobile battleship!",
+      "Translation": " throws the papercraft mobile battleship!"
+    },
+    {
+      "JP": "は粘着テープを勢いよく貼り付けた！",
+      "EN": " vigorously sticks the sticky tape all over the opponent!",
+      "Translation": " vigorously sticks the sticky tape all over the opponent!"
+    },
+    {
+      "JP": "はガムテープを勢いよく貼り付けた！",
+      "EN": " vigorously sticks the box tape all over the opponent! ",
+      "Translation": " vigorously sticks the box tape all over the opponent! "
+    },
+    {
+      "JP": "は工業用耐熱超強力粘着テープを勢いよく貼り付けた！",
+      "EN": " vigorously sticks the super-powerful industrial heat-resistant adhesive tape all over the opponent!",
+      "Translation": " vigorously sticks the super-powerful industrial heat-resistant adhesive tape all over the opponent!"
+    },
+    {
+      "JP": "はスティックのりを勢いよく塗り付けた！",
+      "EN": " vigorously smears the glue stick all over the opponent! ",
+      "Translation": " vigorously smears the glue stick all over the opponent! "
+    },
+    {
+      "JP": "は業務用液状のりを勢いよく塗り付けた！",
+      "EN": " vigorously spreads the industrial liquid glue all over the opponent! ",
+      "Translation": " vigorously spreads the industrial liquid glue all over the opponent! "
+    },
+    {
+      "JP": "は瞬間接着剤を勢いよく塗り付けた！",
+      "EN": " vigorously spreads the instant glue all over the opponent! ",
+      "Translation": " vigorously spreads the instant glue all over the opponent! "
+    },
+    {
+      "JP": "は歯ブラシで",
+      "EN": " vigorously brushes ",
+      "Translation": " vigorously brushes "
+    },
+    {
+      "JP": "は電動歯ブラシで",
+      "EN": " vigorously brushes ",
+      "Translation": " vigorously brushes "
+    },
+    {
+      "JP": "は",
+      "EN": " pinches ",
+      "Translation": " pinches "
+    },
+    {
+      "JP": "は",
+      "EN": " pinches ",
+      "Translation": " pinches "
+    },
+    {
+      "JP": "は",
+      "EN": " pinches ",
+      "Translation": " pinches "
+    },
+    {
+      "JP": "は",
+      "EN": " pinches ",
+      "Translation": " pinches "
+    },
+    {
+      "JP": "は洗濯バサミを",
+      "EN": " attaches a laundry peg to ",
+      "Translation": " attaches a laundry peg to "
+    },
+    {
+      "JP": "はアルミピンチを",
+      "EN": " attaches an aluminium peg to ",
+      "Translation": " attaches an aluminium peg to "
+    },
+    {
+      "JP": "はクリップ式小型扇風機を",
+      "EN": " attaches a small clip-on fan to ",
+      "Translation": " attaches a small clip-on fan to "
+    },
+    {
+      "JP": "はおもちゃのナイフで刺した！",
+      "EN": " stabs with a toy knife! ",
+      "Translation": " stabs with a toy knife! "
+    },
+    {
+      "JP": "はあおひげの樽にナイフを刺した！",
+      "EN": " stabs the knives into the barrel! ",
+      "Translation": " stabs the knives into the barrel! "
+    },
+    {
+      "JP": "はボクシンググローブをはめて殴った！",
+      "EN": " puts on boxing gloves and throws a punch!",
+      "Translation": " puts on boxing gloves and throws a punch!"
+    },
+    {
+      "JP": "は船を漕ぐようにパドルを回した！",
+      "EN": " furiously rows as though on a boat!",
+      "Translation": " furiously rows as though on a boat!"
+    },
+    {
+      "JP": "は三節棍を振り回した！",
+      "EN": " brandishes a three-section staff! ",
+      "Translation": " brandishes a three-section staff! "
+    },
+    {
+      "JP": "は黒板消しの粉を",
+      "EN": " sprinkles chalk powder from the blackboard eraser on ",
+      "Translation": " sprinkles chalk powder from the blackboard eraser on "
+    },
+    {
+      "JP": "は寝袋に入って寝返りを打った！",
+      "EN": " enters the sleeping bag and rolls over!",
+      "Translation": " enters the sleeping bag and rolls over!"
+    },
+    {
+      "JP": "はかなぶんを",
+      "EN": " points the stag beetle at ",
+      "Translation": " points the stag beetle at "
+    },
+    {
+      "JP": "は耳を大きくしようとした！",
+      "EN": "'s ears grow!",
+      "Translation": "'s ears grow!"
+    },
+    {
+      "JP": "はハサミで切ったはずのロープが元に戻るマジックを見せようとした！",
+      "EN": " does the cut and reattach rope trick!",
+      "Translation": " does the cut and reattach rope trick!"
+    },
+    {
+      "JP": "は",
+      "EN": " pulls a card that ",
+      "Translation": " pulls a card that "
+    },
+    {
+      "JP": "は",
+      "EN": " writes ",
+      "Translation": " writes "
+    },
+    {
+      "JP": "はガラスのテーブルの上に置いた５００円玉をすり抜けさせて",
+      "EN": " makes a 500 yen coin come out of a glass and drops it on ",
+      "Translation": " makes a 500 yen coin come out of a glass and drops it on "
+    },
+    {
+      "JP": "弓曳童子は弓に矢をつがえて射った！",
+      "EN": "Child archer figure releases an arrow! ",
+      "Translation": "Child archer figure releases an arrow! "
+    },
+    {
+      "JP": "は実験プリズムキットをかざした！",
+      "EN": " holds out a prism experiment kit! ",
+      "Translation": " holds out a prism experiment kit! "
+    },
+    {
+      "JP": "は３Ｄ眼鏡で相手を見た！",
+      "EN": " looks at the opponent through 3D glasses!",
+      "Translation": " looks at the opponent through 3D glasses!"
+    },
+    {
+      "JP": "はデジタルカメラで",
+      "EN": " uses a digital camera to take a bad photo of ",
+      "Translation": " uses a digital camera to take a bad photo of "
+    },
+    {
+      "JP": "はデジタルカメラで偶然",
+      "EN": " uses a digital camera and accidentally exposes ",
+      "Translation": " uses a digital camera and accidentally exposes "
+    },
+    {
+      "JP": "はデジタルカメラで偶然",
+      "EN": " uses a digital camera and accidentally takes a panty shot of ",
+      "Translation": " uses a digital camera and accidentally takes a panty shot of "
+    },
+    {
+      "JP": "は爪切りで",
+      "EN": " clips ",
+      "Translation": " clips "
+    },
+    {
+      "JP": "はトイレットペーパーを空中に舞わせた！",
+      "EN": " tosses toilet paper up in the air!",
+      "Translation": " tosses toilet paper up in the air!"
+    },
+    {
+      "JP": "は数取器でカウントしている！",
+      "EN": " starts counting! ",
+      "Translation": " starts counting! "
+    },
+    {
+      "JP": "はサイコロを振った！",
+      "EN": " rolls dice! ",
+      "Translation": " rolls dice! "
+    },
+    {
+      "JP": "鈴は猫を放った！",
+      "EN": "Rin lets the cat loose! ",
+      "Translation": "Rin lets the cat loose! "
+    },
+    {
+      "JP": "鈴は猫たちを放った！",
+      "EN": "Rin lets the cats loose! ",
+      "Translation": "Rin lets the cats loose! "
+    },
+    {
+      "JP": "ドルジは寝返りを打った！",
+      "EN": "Dorj turns over in his sleep! ",
+      "Translation": "Dorj turns over in his sleep! "
+    },
+    {
+      "JP": "ドルジは高台に飛び乗った!!",
+      "EN": "Dorj runs to higher ground!!! ",
+      "Translation": "Dorj runs to higher ground!!! "
+    },
+    {
+      "JP": "ドルジは自分の顔を洗おうとしたが届かない！",
+      "EN": "Dorj tries to wash his face but fails! ",
+      "Translation": "Dorj tries to wash his face but fails! "
+    },
+    {
+      "JP": "ドルジは遊んでほしそうに鈴を見つめている！",
+      "EN": "Dorj looks at Rin, wanting to play! ",
+      "Translation": "Dorj looks at Rin, wanting to play! "
+    },
+    {
+      "JP": "ドルジは何かを夢想中だ!!",
+      "EN": "Dorj is daydreaming! ",
+      "Translation": "Dorj is daydreaming! "
+    },
+    {
+      "JP": "ドルジは手を叩いて喜んでいる！",
+      "EN": "Dorj is rubbing his paws with glee! ",
+      "Translation": "Dorj is rubbing his paws with glee! "
+    },
+    {
+      "JP": "ドルジが高台から飛び降りる！",
+      "EN": "Dorj jumps from the higher ground! ",
+      "Translation": "Dorj jumps from the higher ground! "
+    },
+    {
+      "JP": "はぺんぎんぬいぐるみを手で戦わせた！",
+      "EN": " fights by manipulating the plush penguin! ",
+      "Translation": " fights by manipulating the plush penguin! "
+    },
+    {
+      "JP": "はノートに",
+      "EN": " writes a fairy tale about ",
+      "Translation": " writes a fairy tale about "
+    },
+    {
+      "JP": "はレプリカノリムネで斬りつけた！",
+      "EN": " slashes with Norimune replica! ",
+      "Translation": " slashes with Norimune replica! "
+    },
+    {
+      "JP": "はマシンガンに弾を装填している！",
+      "EN": " loads the machine gun! ",
+      "Translation": " loads the machine gun! "
+    },
+    {
+      "JP": "はマシンガンを乱射した！",
+      "EN": " releases a burst of machine gun fire!",
+      "Translation": " releases a burst of machine gun fire!"
+    },
+    {
+      "JP": "はストレルカと戯れている",
+      "EN": " plays with Strelka. ",
+      "Translation": " plays with Strelka. "
+    },
+    {
+      "JP": "ストレルカが",
+      "EN": "Strelka leaps on ",
+      "Translation": "Strelka leaps on "
+    },
+    {
+      "JP": "はヴェルカと戯れている",
+      "EN": " plays with Belka. ",
+      "Translation": " plays with Belka. "
+    },
+    {
+      "JP": "ヴェルカが",
+      "EN": "Belka leaps on ",
+      "Translation": "Belka leaps on "
+    },
+    {
+      "JP": "はヴェルカ＆ストレルカと戯れている",
+      "EN": " plays with Belka and Strelka. ",
+      "Translation": " plays with Belka and Strelka. "
+    },
+    {
+      "JP": "ヴェルカ＆ストレルカが",
+      "EN": "Belka and Strelka leap on ",
+      "Translation": "Belka and Strelka leap on "
+    },
+    {
+      "JP": "はビーだまを投げつけた！",
+      "EN": " throws marbles! ",
+      "Translation": " throws marbles! "
+    },
+    {
+      "JP": "はべーごまを回した！",
+      "EN": " spins a beigoma! ",
+      "Translation": " spins a beigoma! "
+    },
+    {
+      "JP": "は日傘で",
+      "EN": " seriously hits ",
+      "Translation": " seriously hits "
+    },
+    {
+      "JP": "は日傘で",
+      "EN": " hits ",
+      "Translation": " hits "
+    },
+    {
+      "JP": "は薄っぺらい本を読み始めた！",
+      "EN": " starts reading a cheap magazine! ",
+      "Translation": " starts reading a cheap magazine! "
+    },
+    {
+      "JP": "はサイバーヨーヨーを投げ放った！",
+      "EN": " throws the cyber yoyo! ",
+      "Translation": " throws the cyber yoyo! "
+    },
+    {
+      "JP": "はウィルスを使って",
+      "EN": " uses virus and attempts to invade ",
+      "Translation": " uses virus and attempts to invade "
+    },
+    {
+      "JP": "はなんだかよくわからないパワーを",
+      "EN": " keeps on transmitting Somewhat Incomprehensible Power to ",
+      "Translation": " keeps on transmitting Somewhat Incomprehensible Power to "
+    },
+    {
+      "JP": "は電磁バリアを使ってなんだかよくわからないパワーを周囲に展開させた！",
+      "EN": " uses an electromagnetic barrier to propagate Somewhat Incomprehensible Power to surroundings! ",
+      "Translation": " uses an electromagnetic barrier to propagate Somewhat Incomprehensible Power to surroundings! "
+    },
+    {
+      "JP": "はなんだかよくわからないパワーを周囲に展開させ続けている！",
+      "EN": " keeps on propagating Somewhat Incomprehensible Power to surroundings! ",
+      "Translation": " keeps on propagating Somewhat Incomprehensible Power to surroundings! "
+    },
+    {
+      "JP": "はライトセイバーを振るった！",
+      "EN": " swings a lightsaber! ",
+      "Translation": " swings a lightsaber! "
+    },
+    {
+      "JP": "はビームライフルになんだかよくわからないパワーをチャージしている！",
+      "EN": " charges beam rifle with Somewhat Incomprehensible Power! ",
+      "Translation": " charges beam rifle with Somewhat Incomprehensible Power! "
+    },
+    {
+      "JP": "はビームライフルからなんだかよくわからないパワーを放射した！",
+      "EN": " releases Somewhat Incomprehensible Power from the beam rifle! ",
+      "Translation": " releases Somewhat Incomprehensible Power from the beam rifle! "
+    },
+    {
+      "JP": "はメガバズーカランチャーになんだかよくわからないパワーをチャージしている！",
+      "EN": " charges mega bazooka with Somewhat Incomprehensible Power! ",
+      "Translation": " charges mega bazooka with Somewhat Incomprehensible Power! "
+    },
+    {
+      "JP": "はメガバズーカランチャーになんだかよくわからないパワーをチャージしている！",
+      "EN": " charges mega bazooka with Somewhat Incomprehensible Power! ",
+      "Translation": " charges mega bazooka with Somewhat Incomprehensible Power! "
+    },
+    {
+      "JP": "はメガバズーカランチャーからなんだかよくわからないパワーをフルチャージバーストした！",
+      "EN": " releases a fully charged burst shot of Somewhat Incomprehensible Power from mega bazooka! ",
+      "Translation": " releases a fully charged burst shot of Somewhat Incomprehensible Power from mega bazooka! "
+    },
+    {
+      "JP": "は手刀を振り下ろした！",
+      "EN": " chops down!",
+      "Translation": " chops down!"
+    },
+    {
+      "JP": "はパンチを放った！",
+      "EN": " throws a punch!",
+      "Translation": " throws a punch!"
+    },
+    {
+      "JP": "は肘を振り落とした！",
+      "EN": " throws an elbow!",
+      "Translation": " throws an elbow!"
+    },
+    {
+      "JP": "は膝を突き上げた！",
+      "EN": " raises a knee kick!",
+      "Translation": " raises a knee kick!"
+    },
+    {
+      "JP": "はキックを放った！",
+      "EN": " delivers a kick!",
+      "Translation": " delivers a kick!"
+    },
+    {
+      "JP": "はローキックを放った！",
+      "EN": " delivers a low kick!",
+      "Translation": " delivers a low kick!"
+    },
+    {
+      "JP": "はハイキックを放った！",
+      "EN": " delivers a high kick!",
+      "Translation": " delivers a high kick!"
+    },
+    {
+      "JP": "は蹴りを放った！",
+      "EN": " lands a kick!",
+      "Translation": " lands a kick!"
+    },
+    {
+      "JP": "はジャブを放った！",
+      "EN": " connects a jab!",
+      "Translation": " connects a jab!"
+    },
+    {
+      "JP": "は高速フックを放った！",
+      "EN": " throws a high speed hook!",
+      "Translation": " throws a high speed hook!"
+    },
+    {
+      "JP": "はストレートを放った！",
+      "EN": " throws a straight shot!",
+      "Translation": " throws a straight shot!"
+    },
+    {
+      "JP": "はワンツーを放った！",
+      "EN": " delivers a one-two punch!",
+      "Translation": " delivers a one-two punch!"
+    },
+    {
+      "JP": "は力任せに拳を振るった！",
+      "EN": " delivers a super punch!",
+      "Translation": " delivers a super punch!"
+    },
+    {
+      "JP": "は竹刀の剣先で鋭く突いた！",
+      "EN": " stabs with the point of his shinai!",
+      "Translation": " stabs with the point of his shinai!"
+    },
+    {
+      "JP": "は下段の構えから竹刀を振るった！",
+      "EN": " takes low stance and thrusts his shinai!",
+      "Translation": " takes low stance and thrusts his shinai!"
+    },
+    {
+      "JP": "は中段の構えから竹刀を振るった！",
+      "EN": " takes middle-height stance and thrusts his shinai!",
+      "Translation": " takes middle-height stance and thrusts his shinai!"
+    },
+    {
+      "JP": "は上段の構えから竹刀を振るった！",
+      "EN": " takes high stance and thrusts his shinai!",
+      "Translation": " takes high stance and thrusts his shinai!"
+    },
+    {
+      "JP": "は八相の構えから竹刀を振るった！",
+      "EN": " takes an omnidirectional stance and thrusts his shinai!",
+      "Translation": " takes an omnidirectional stance and thrusts his shinai!"
+    },
+    {
+      "JP": "はパンチを放った！",
+      "EN": " lands a punch!",
+      "Translation": " lands a punch!"
+    },
+    {
+      "JP": "はキックを放った！",
+      "EN": " lands a kick!",
+      "Translation": " lands a kick!"
+    },
+    {
+      "JP": "は手刀を振り下ろした！",
+      "EN": " makes a chop!",
+      "Translation": " makes a chop!"
+    },
+    {
+      "JP": "は肘を振り落とした！",
+      "EN": " throws an elbow!",
+      "Translation": " throws an elbow!"
+    },
+    {
+      "JP": "は膝を突き上げた！",
+      "EN": " connects with a knee!",
+      "Translation": " connects with a knee!"
+    },
+    {
+      "JP": "は回し蹴りを放った！",
+      "EN": " gives a roundhouse kick!",
+      "Translation": " gives a roundhouse kick!"
+    },
+    {
+      "JP": "はばらついたコンビネーションで飛びかかった！",
+      "EN": " charge in a shaky formation!",
+      "Translation": " charge in a shaky formation!"
+    },
+    {
+      "JP": "は言い争いの末に飛びかかった！",
+      "EN": " charge after a heated argument!",
+      "Translation": " charge after a heated argument!"
+    },
+    {
+      "JP": "はそれぞれ飛びかかった！",
+      "EN": " attack randomly!",
+      "Translation": " attack randomly!"
+    },
+    {
+      "JP": "は思い思いに飛びかかった！",
+      "EN": " attack with no cooperation!",
+      "Translation": " attack with no cooperation!"
+    },
+    {
+      "JP": "は同時にパンチを放った！",
+      "EN": " deliver a simultaneous punch!",
+      "Translation": " deliver a simultaneous punch!"
+    },
+    {
+      "JP": "は同時にキックを放った！",
+      "EN": " deliver a simultaneous kick!",
+      "Translation": " deliver a simultaneous kick!"
+    },
+    {
+      "JP": "は畳みかけるように飛びかかった！",
+      "EN": " are attacking relentlessly!",
+      "Translation": " are attacking relentlessly!"
+    },
+    {
+      "JP": "は息のあったコンビネーションで飛びかかった！",
+      "EN": " attack, showing excellent synchronization!",
+      "Translation": " attack, showing excellent synchronization!"
+    },
+    {
+      "JP": "は飛びかかった！",
+      "EN": " leaps!",
+      "Translation": " leaps!"
+    },
+    {
+      "JP": "はツメを振り下ろした！",
+      "EN": " shows its claws!",
+      "Translation": " shows its claws!"
+    },
+    {
+      "JP": "はクチバシを突きつけた！",
+      "EN": " thrusts with its beak!",
+      "Translation": " thrusts with its beak!"
+    },
+    {
+      "JP": "は突進した！",
+      "EN": " charges forward!",
+      "Translation": " charges forward!"
+    },
+    {
+      "JP": "はツノを向けて突進した！",
+      "EN": " thrusts with its horn!",
+      "Translation": " thrusts with its horn!"
+    },
+    {
+      "JP": "は暴れ回った！",
+      "EN": " is running amok!",
+      "Translation": " is running amok!"
+    },
+    {
+      "JP": "は突進した！",
+      "EN": " charges forward!",
+      "Translation": " charges forward!"
+    },
+    {
+      "JP": "はツメを振るった！",
+      "EN": " shows its claws!",
+      "Translation": " shows its claws!"
+    },
+    {
+      "JP": "は力任せにツメを振るった！",
+      "EN": " delivers a powerful strike with its claws!",
+      "Translation": " delivers a powerful strike with its claws!"
+    },
+    {
+      "JP": "は左右両方のツメを振るった！",
+      "EN": " swings its claws around!",
+      "Translation": " swings its claws around!"
+    },
+    {
+      "JP": "空気抵抗によって球がそれた！",
+      "EN": "The ball misses due to air resistance! ",
+      "Translation": "The ball misses due to air resistance! "
+    },
+    {
+      "JP": "消しゴムが尽きてしまった！",
+      "EN": "The eraser has been entirely used up! ",
+      "Translation": "The eraser has been entirely used up! "
+    },
+    {
+      "JP": "は目つぶし状態になった！",
+      "EN": " is blinded! ",
+      "Translation": " is blinded! "
+    },
+    {
+      "JP": "ごぼうが半分に折れた！",
+      "EN": "The burdock bends in half! ",
+      "Translation": "The burdock bends in half! "
+    },
+    {
+      "JP": "ごぼうが更に半分に折れた！",
+      "EN": "The burdock bends in half again! ",
+      "Translation": "The burdock bends in half again! "
+    },
+    {
+      "JP": "太いごぼうが半分に折れた！",
+      "EN": "The thick burdock bends in half! ",
+      "Translation": "The thick burdock bends in half! "
+    },
+    {
+      "JP": "太いごぼうが更に半分に折れた！",
+      "EN": "The thick burdock bends in half again! ",
+      "Translation": "The thick burdock bends in half again! "
+    },
+    {
+      "JP": "うなぎパイが折れてしまった！",
+      "EN": "The eel pie bends in half! ",
+      "Translation": "The eel pie bends in half! "
+    },
+    {
+      "JP": "は$V(#20004)のＨＰを吸収した！",
+      "EN": " absorbs $v(#20004) HP! ",
+      "Translation": " absorbs $v(#20004) HP! "
+    },
+    {
+      "JP": "は$V(#20004)のＨＰを吸収した！",
+      "EN": " absorbs $v(#20004) HP! ",
+      "Translation": " absorbs $v(#20004) HP! "
+    },
+    {
+      "JP": "リズミカルに踊って攻撃！",
+      "EN": "It's time to show those moves! ",
+      "Translation": "It's time to show those moves! "
+    },
+    {
+      "JP": "リズミカルに踊れなかった",
+      "EN": "Failed matching the rhythm! ",
+      "Translation": "Failed matching the rhythm! "
+    },
+    {
+      "JP": "リズミカルに踊って攻撃！",
+      "EN": "It's time to show those moves! ",
+      "Translation": "It's time to show those moves! "
+    },
+    {
+      "JP": "リズミカルに踊れなかった",
+      "EN": "Failed matching the rhythm! ",
+      "Translation": "Failed matching the rhythm! "
+    },
+    {
+      "JP": "「棗 鈴と申します！」",
+      "EN": "❝Rin Natsume, nice to meet you!❞",
+      "Translation": "❝Rin Natsume, nice to meet you!❞"
+    },
+    {
+      "JP": "「神北 小毬と申します！」",
+      "EN": "❝Komari Kamikita, nice to meet you!❞",
+      "Translation": "❝Komari Kamikita, nice to meet you!❞"
+    },
+    {
+      "JP": "「来ヶ谷 唯湖と申します！」",
+      "EN": "❝Yuiko Kurugaya, nice to meet you!❞",
+      "Translation": "❝Yuiko Kurugaya, nice to meet you!❞"
+    },
+    {
+      "JP": "「能美 クドリャフカと申します！」",
+      "EN": "❝Kudryavka Noumi, nice to meet you!❞",
+      "Translation": "❝Kudryavka Noumi, nice to meet you!❞"
+    },
+    {
+      "JP": "「三枝 葉留佳と申します！」",
+      "EN": "❝Haruka Saigusa, nice to meet you!❞",
+      "Translation": "❝Haruka Saigusa, nice to meet you!❞"
+    },
+    {
+      "JP": "「西園 美魚と申します！」",
+      "EN": "❝Mio Nishizono, nice to meet you!❞",
+      "Translation": "❝Mio Nishizono, nice to meet you!❞"
+    },
+    {
+      "JP": "「直枝 理樹と申します！」",
+      "EN": "❝Riki Naoe, nice to meet you!❞",
+      "Translation": "❝Riki Naoe, nice to meet you!❞"
+    },
+    {
+      "JP": "「井ノ原 真人と申します！」",
+      "EN": "❝Masato Inohara, nice to meet you!❞",
+      "Translation": "❝Masato Inohara, nice to meet you!❞"
+    },
+    {
+      "JP": "「宮沢 謙吾と申します！」",
+      "EN": "❝Kengo Miyazawa, nice to meet you!❞",
+      "Translation": "❝Kengo Miyazawa, nice to meet you!❞"
+    },
+    {
+      "JP": "「棗 恭介と申します！」",
+      "EN": "❝Kyousuke Natsume, nice to meet you!❞",
+      "Translation": "❝Kyousuke Natsume, nice to meet you!❞"
+    },
+    {
+      "JP": "「マスクザ斉藤と申します！」",
+      "EN": "❝Mask the Saito, nice to meet you!❞",
+      "Translation": "❝Mask the Saito, nice to meet you!❞"
+    },
+    {
+      "JP": "「笹瀬川 佐々美と申します！」",
+      "EN": "❝Sasami Sasasegawa, nice to meet you!❞",
+      "Translation": "❝Sasami Sasasegawa, nice to meet you!❞"
+    },
+    {
+      "JP": "「ソフト部三人組と申します！」",
+      "EN": "❝Softball Club Trio, nice to meet you!❞",
+      "Translation": "❝Softball Club Trio, nice to meet you!❞"
+    },
+    {
+      "JP": "「謎の生命体と申します！」",
+      "EN": "❝Unknown Lifeform, nice to meet you!❞",
+      "Translation": "❝Unknown Lifeform, nice to meet you!❞"
+    },
+    {
+      "JP": "しかし",
+      "EN": "But ",
+      "Translation": "But "
+    },
+    {
+      "JP": "しかし",
+      "EN": "But ",
+      "Translation": "But "
+    },
+    {
+      "JP": "しかし",
+      "EN": "But ",
+      "Translation": "But "
+    },
+    {
+      "JP": "は泡で足が滑った！",
+      "EN": " slips on the suds! ",
+      "Translation": " slips on the suds! "
+    },
+    {
+      "JP": "は泡で足が滑った！",
+      "EN": " slips on the suds! ",
+      "Translation": " slips on the suds! "
+    },
+    {
+      "JP": "は泡で足が滑った！",
+      "EN": " slips on the suds! ",
+      "Translation": " slips on the suds! "
+    },
+    {
+      "JP": "は転んでしまった！",
+      "EN": " falls over! ",
+      "Translation": " falls over! "
+    },
+    {
+      "JP": "足払い失敗！　",
+      "EN": "Unsuccessful leg sweep! ",
+      "Translation": "Unsuccessful leg sweep! "
+    },
+    {
+      "JP": "は転んでしまった！",
+      "EN": " falls over!",
+      "Translation": " falls over!"
+    },
+    {
+      "JP": "足払い失敗！　",
+      "EN": "Unsuccessful leg sweep! ",
+      "Translation": "Unsuccessful leg sweep! "
+    },
+    {
+      "JP": "は転んでしまった！",
+      "EN": " falls over! ",
+      "Translation": " falls over! "
+    },
+    {
+      "JP": "足払い失敗！　",
+      "EN": "Unsuccessful leg sweep! ",
+      "Translation": "Unsuccessful leg sweep! "
+    },
+    {
+      "JP": "は転んでしまった！",
+      "EN": " falls over! ",
+      "Translation": " falls over! "
+    },
+    {
+      "JP": "足払い失敗！　",
+      "EN": "Unsuccessful leg sweep! ",
+      "Translation": "Unsuccessful leg sweep! "
+    },
+    {
+      "JP": "は転んでしまった！",
+      "EN": " falls over! ",
+      "Translation": " falls over! "
+    },
+    {
+      "JP": "足払い失敗！　",
+      "EN": "Unsuccessful leg sweep! ",
+      "Translation": "Unsuccessful leg sweep! "
+    },
+    {
+      "JP": "の足下でねずみ花火が炸裂！",
+      "EN": " stands on the firecrackers when they go off! ",
+      "Translation": " stands on the firecrackers when they go off! "
+    },
+    {
+      "JP": "はひるんだ状態になり、連続攻撃が出来なくなった！",
+      "EN": " is stricken with fear and can no longer execute consecutive attacks! ",
+      "Translation": " is stricken with fear and can no longer execute consecutive attacks! "
+    },
+    {
+      "JP": "はひるんだ状態になり、連続攻撃が出来なくなった！",
+      "EN": " is stricken with fear and can no longer execute consecutive attacks! ",
+      "Translation": " is stricken with fear and can no longer execute consecutive attacks! "
+    },
+    {
+      "JP": "はひるんだ状態になり、連続攻撃が出来なくなった！",
+      "EN": " is stricken with fear and can no longer execute consecutive attacks! ",
+      "Translation": " is stricken with fear and can no longer execute consecutive attacks! "
+    },
+    {
+      "JP": "はがんじがらめの状態になった！",
+      "EN": " is rendered immobile! ",
+      "Translation": " is rendered immobile! "
+    },
+    {
+      "JP": "はがんじがらめの状態になった！",
+      "EN": " is rendered immobile! ",
+      "Translation": " is rendered immobile! "
+    },
+    {
+      "JP": "はがんじがらめの状態になった！",
+      "EN": " is rendered immobile! ",
+      "Translation": " is rendered immobile! "
+    },
+    {
+      "JP": "は磔の状態になった！",
+      "EN": " is rendered immobile! ",
+      "Translation": " is rendered immobile! "
+    },
+    {
+      "JP": "は磔の状態になった！",
+      "EN": " is rendered immobile! ",
+      "Translation": " is rendered immobile! "
+    },
+    {
+      "JP": "は磔の状態になった！",
+      "EN": " is rendered immobile! ",
+      "Translation": " is rendered immobile! "
+    },
+    {
+      "JP": "のもみあげを摘み上げた！",
+      "EN": "'s sideburn is pinched! ",
+      "Translation": "'s sideburn is pinched! "
+    },
+    {
+      "JP": "のうなじを摘み上げた！",
+      "EN": "'s nape is pinched! ",
+      "Translation": "'s nape is pinched! "
+    },
+    {
+      "JP": "の鼻を摘み上げた！",
+      "EN": "'s nose is pinched! ",
+      "Translation": "'s nose is pinched! "
+    },
+    {
+      "JP": "の頬を摘み上げた！",
+      "EN": "'s cheek is pinched! ",
+      "Translation": "'s cheek is pinched! "
+    },
+    {
+      "JP": "のくるぶしを摘み上げた！",
+      "EN": "'s ankle is pinched! ",
+      "Translation": "'s ankle is pinched! "
+    },
+    {
+      "JP": "の二の腕を摘み上げた！",
+      "EN": "'s upper arm is pinched! ",
+      "Translation": "'s upper arm is pinched! "
+    },
+    {
+      "JP": "の太ももを摘み上げた！",
+      "EN": "'s thigh is pinched! ",
+      "Translation": "'s thigh is pinched! "
+    },
+    {
+      "JP": "のもみあげを摘み上げた！",
+      "EN": "'s sideburn is pinched! ",
+      "Translation": "'s sideburn is pinched! "
+    },
+    {
+      "JP": "のうなじを摘み上げた！",
+      "EN": "'s nape is pinched! ",
+      "Translation": "'s nape is pinched! "
+    },
+    {
+      "JP": "の鼻を摘み上げた！",
+      "EN": "'s nose is pinched! ",
+      "Translation": "'s nose is pinched! "
+    },
+    {
+      "JP": "の頬を摘み上げた！",
+      "EN": "'s cheek is pinched! ",
+      "Translation": "'s cheek is pinched! "
+    },
+    {
+      "JP": "のくるぶしを摘み上げた！",
+      "EN": "'s ankle is pinched! ",
+      "Translation": "'s ankle is pinched! "
+    },
+    {
+      "JP": "の二の腕を摘み上げた！",
+      "EN": "'s upper arm is pinched! ",
+      "Translation": "'s upper arm is pinched! "
+    },
+    {
+      "JP": "の太ももを摘み上げた！",
+      "EN": "'s thigh is pinched! ",
+      "Translation": "'s thigh is pinched! "
+    },
+    {
+      "JP": "のもみあげを摘み上げた！",
+      "EN": "'s sideburn is pinched! ",
+      "Translation": "'s sideburn is pinched! "
+    },
+    {
+      "JP": "のうなじを摘み上げた！",
+      "EN": "'s nape is pinched! ",
+      "Translation": "'s nape is pinched! "
+    },
+    {
+      "JP": "の鼻を摘み上げた！",
+      "EN": "'s nose is pinched! ",
+      "Translation": "'s nose is pinched! "
+    },
+    {
+      "JP": "の頬を摘み上げた！",
+      "EN": "'s cheek is pinched! ",
+      "Translation": "'s cheek is pinched! "
+    },
+    {
+      "JP": "のくるぶしを摘み上げた！",
+      "EN": "'s ankle is pinched! ",
+      "Translation": "'s ankle is pinched! "
+    },
+    {
+      "JP": "の二の腕を摘み上げた！",
+      "EN": "'s upper arm is pinched! ",
+      "Translation": "'s upper arm is pinched! "
+    },
+    {
+      "JP": "の太ももを摘み上げた！",
+      "EN": "'s thigh is pinched! ",
+      "Translation": "'s thigh is pinched! "
+    },
+    {
+      "JP": "のもみあげを摘み上げた！",
+      "EN": "'s sideburn is pinched! ",
+      "Translation": "'s sideburn is pinched! "
+    },
+    {
+      "JP": "のうなじを摘み上げた！",
+      "EN": "'s nape is pinched! ",
+      "Translation": "'s nape is pinched! "
+    },
+    {
+      "JP": "の鼻を摘み上げた！",
+      "EN": "'s nose is pinched! ",
+      "Translation": "'s nose is pinched! "
+    },
+    {
+      "JP": "の頬を摘み上げた！",
+      "EN": "'s cheek is pinched! ",
+      "Translation": "'s cheek is pinched! "
+    },
+    {
+      "JP": "のくるぶしを摘み上げた！",
+      "EN": "'s ankle is pinched! ",
+      "Translation": "'s ankle is pinched! "
+    },
+    {
+      "JP": "の二の腕を摘み上げた！",
+      "EN": "'s upper arm is pinched! ",
+      "Translation": "'s upper arm is pinched! "
+    },
+    {
+      "JP": "の太ももを摘み上げた！",
+      "EN": "'s thigh is pinched! ",
+      "Translation": "'s thigh is pinched! "
+    },
+    {
+      "JP": "ものすごい勢いであおひげが飛び出す！",
+      "EN": "The pirate figure flies out! ",
+      "Translation": "The pirate figure flies out! "
+    },
+    {
+      "JP": "ものすごい回転をしながら飛び出し、",
+      "EN": "It flies out with a tremendous rotation and hits ",
+      "Translation": "It flies out with a tremendous rotation and hits "
+    },
+    {
+      "JP": "ぼむっ！とミサイルのように飛び出し、",
+      "EN": "Boom! It flies out like a missile, and hits ",
+      "Translation": "Boom! It flies out like a missile, and hits "
+    },
+    {
+      "JP": "不発！　あおひげは飛び出さない！",
+      "EN": "Dud! The pirate figure stayed inside! ",
+      "Translation": "Dud! The pirate figure stayed inside! "
+    },
+    {
+      "JP": "は目つぶし状態になった！",
+      "EN": " is blinded! ",
+      "Translation": " is blinded! "
+    },
+    {
+      "JP": "手品成功！　",
+      "EN": "Trick succeeded! ",
+      "Translation": "Trick succeeded! "
+    },
+    {
+      "JP": "手品失敗！　",
+      "EN": "Trick failed! ",
+      "Translation": "Trick failed! "
+    },
+    {
+      "JP": "７色の光が",
+      "EN": "Light shines on ",
+      "Translation": "Light shines on "
+    },
+    {
+      "JP": "が飛び出たように見えたが、",
+      "EN": " pops into sight, but ",
+      "Translation": " pops into sight, but "
+    },
+    {
+      "JP": "が飛び出たように見えて、",
+      "EN": " pops into the field of vision, ",
+      "Translation": " pops into the field of vision, "
+    },
+    {
+      "JP": "はまったく気にならなかった",
+      "EN": " doesn't care. ",
+      "Translation": " doesn't care. "
+    },
+    {
+      "JP": "は少しショックを受けた！",
+      "EN": " is slightly shocked! ",
+      "Translation": " is slightly shocked! "
+    },
+    {
+      "JP": "はショックを受けた！",
+      "EN": " is shocked! ",
+      "Translation": " is shocked! "
+    },
+    {
+      "JP": "はさすがにショックを受けた！",
+      "EN": " is stupefied! ",
+      "Translation": " is stupefied! "
+    },
+    {
+      "JP": "は大ショックを受けた！",
+      "EN": " is profoundly shocked! ",
+      "Translation": " is profoundly shocked! "
+    },
+    {
+      "JP": "の親指が深爪になった！",
+      "EN": "'s thumb nail is cut too short!",
+      "Translation": "'s thumb nail is cut too short!"
+    },
+    {
+      "JP": "の人差し指が深爪になった！",
+      "EN": "'s index finger nail is cut too short!",
+      "Translation": "'s index finger nail is cut too short!"
+    },
+    {
+      "JP": "の中指が深爪になった！",
+      "EN": "'s middle finger nail is cut too short!",
+      "Translation": "'s middle finger nail is cut too short!"
+    },
+    {
+      "JP": "の薬指が深爪になった！",
+      "EN": "'s third finger nail is cut too short!",
+      "Translation": "'s third finger nail is cut too short!"
+    },
+    {
+      "JP": "の小指が深爪になった！",
+      "EN": "'s pinky nail is cut too short!",
+      "Translation": "'s pinky nail is cut too short!"
+    },
+    {
+      "JP": "トイレットペーパーが鮮やかに舞って",
+      "EN": "Toilet paper flutters in the air, ",
+      "Translation": "Toilet paper flutters in the air, "
+    },
+    {
+      "JP": "はぐるぐる巻き状態になった！",
+      "EN": " is wrapped in toilet paper! ",
+      "Translation": " is wrapped in toilet paper! "
+    },
+    {
+      "JP": "９９９９カウントに到達！",
+      "EN": "9999 achieved! ",
+      "Translation": "9999 achieved! "
+    },
+    {
+      "JP": "ゾロ目が出た！",
+      "EN": "The numbers match! ",
+      "Translation": "The numbers match! "
+    },
+    {
+      "JP": "ゾロ目は出なかった",
+      "EN": "Different numbers. ",
+      "Translation": "Different numbers. "
+    },
+    {
+      "JP": "にゃあ！　$(6,0)は飛びかかった！",
+      "EN": "Meowww! $(6,1) leaps! ",
+      "Translation": "Meowww! $(6,1) leaps! "
+    },
+    {
+      "JP": "にゃあ！　$(6,0)は飛びかかった！",
+      "EN": "Meowww! $(6,1) leaps! ",
+      "Translation": "Meowww! $(6,1) leaps! "
+    },
+    {
+      "JP": "しかし$(6,0)の攻撃は外れた！",
+      "EN": "But $(6,1) missed! ",
+      "Translation": "But $(6,1) missed! "
+    },
+    {
+      "JP": "$(6,0)は自分の顔を洗っている！",
+      "EN": "$(6,1) washes its face! ",
+      "Translation": "$(6,1) washes its face! "
+    },
+    {
+      "JP": "$(6,0)は自分の尻尾を追いかけている！",
+      "EN": "$(6,1) chases its own tail! ",
+      "Translation": "$(6,1) chases its own tail! "
+    },
+    {
+      "JP": "$(6,0)はごろごろと転がって遊んでいる！",
+      "EN": "$(6,1) rolls around and purrs! ",
+      "Translation": "$(6,1) rolls around and purrs! "
+    },
+    {
+      "JP": "$(6,0)は鈴のほうを見ている！",
+      "EN": "$(6,1) stares at Rin! ",
+      "Translation": "$(6,1) stares at Rin! "
+    },
+    {
+      "JP": "$(6,0)は遊んでほしそうに鈴を見つめている！",
+      "EN": "$(6,1) looks at Rin, wanting to play! ",
+      "Translation": "$(6,1) looks at Rin, wanting to play! "
+    },
+    {
+      "JP": "$(6,0)は鈴の足にまとわりついている！",
+      "EN": "$(6,1) coils around Rin's legs! ",
+      "Translation": "$(6,1) coils around Rin's legs! "
+    },
+    {
+      "JP": "$(6,0)は脱力してお腹を見せている！",
+      "EN": "$(6,1) submissively shows its belly! ",
+      "Translation": "$(6,1) submissively shows its belly! "
+    },
+    {
+      "JP": "$(6,0)はあくびをしている！",
+      "EN": "$(6,1) yawns! ",
+      "Translation": "$(6,1) yawns! "
+    },
+    {
+      "JP": "$(6,0)は眠っている！",
+      "EN": "$(6,1)is asleep! ",
+      "Translation": "$(6,1)is asleep! "
+    },
+    {
+      "JP": "$(6,0)はそわそわしている！",
+      "EN": "$(6,1) is restless! ",
+      "Translation": "$(6,1) is restless! "
+    },
+    {
+      "JP": "ミス！　ドルジの攻撃は外れた！",
+      "EN": "Missed! Dorj's attack doesn't connect! ",
+      "Translation": "Missed! Dorj's attack doesn't connect! "
+    },
+    {
+      "JP": "とても可愛らしく書かれすぎて、",
+      "EN": "It's too cute, ",
+      "Translation": "It's too cute, "
+    },
+    {
+      "JP": "弾がそれた！",
+      "EN": "The bullets missed! ",
+      "Translation": "The bullets missed! "
+    },
+    {
+      "JP": "の足下でべーごまが弾ける！",
+      "EN": "'s legs are hit by a beigoma! ",
+      "Translation": "'s legs are hit by a beigoma! "
+    },
+    {
+      "JP": "は本の内容が気になって仕方がない！",
+      "EN": " can't help being concerned about what's written! ",
+      "Translation": " can't help being concerned about what's written! "
+    },
+    {
+      "JP": "なんだかよくわからないパワーで高速回転したヨーヨーが",
+      "EN": "Propelled by the Somewhat Incomprehensible Power, cyber yoyo assaults ",
+      "Translation": "Propelled by the Somewhat Incomprehensible Power, cyber yoyo assaults "
+    },
+    {
+      "JP": "侵入失敗！　",
+      "EN": "Unsuccessful invasion! ",
+      "Translation": "Unsuccessful invasion! "
+    },
+    {
+      "JP": "なんだかよくわからないパワーが刃のように",
+      "EN": "Like a blade, the Somewhat Incomprehensible Power cuts through ",
+      "Translation": "Like a blade, the Somewhat Incomprehensible Power cuts through "
+    },
+    {
+      "JP": "は毛布に絡まって転んだ！",
+      "EN": " gets caught up in the blanket and falls down! ",
+      "Translation": " gets caught up in the blanket and falls down! "
+    },
+    {
+      "JP": "は体育館のネットに絡まって転んだ！",
+      "EN": " gets caught up in the gym net and falls down! ",
+      "Translation": " gets caught up in the gym net and falls down! "
+    },
+    {
+      "JP": "は虎模様のペルシャじゅうたんに絡まって転んだ！",
+      "EN": " gets caught up in the Persian tiger carpet and falls down! ",
+      "Translation": " gets caught up in the Persian tiger carpet and falls down! "
+    },
+    {
+      "JP": "はゴム風船・小を踏んづけてしまった！",
+      "EN": " steps on a small-sized balloon! ",
+      "Translation": " steps on a small-sized balloon! "
+    },
+    {
+      "JP": "ゴム風船・小が破裂する！",
+      "EN": "Small-sized balloon blows up!",
+      "Translation": "Small-sized balloon blows up!"
+    },
+    {
+      "JP": "ゴム風船・小がいっせいに破裂する！",
+      "EN": "All the small-sized balloons blow up at once!",
+      "Translation": "All the small-sized balloons blow up at once!"
+    },
+    {
+      "JP": "はゴム風船・中を踏んづけてしまった！",
+      "EN": " steps on a medium-sized balloon! ",
+      "Translation": " steps on a medium-sized balloon! "
+    },
+    {
+      "JP": "ゴム風船・中が破裂する！",
+      "EN": "Medium-sized balloon blows up!",
+      "Translation": "Medium-sized balloon blows up!"
+    },
+    {
+      "JP": "ゴム風船・中がいっせいに破裂する！",
+      "EN": "All the medium-sized balloons blow up at once!",
+      "Translation": "All the medium-sized balloons blow up at once!"
+    },
+    {
+      "JP": "はゴム風船・大を踏んづけてしまった！",
+      "EN": " steps on a large-sized balloon! ",
+      "Translation": " steps on a large-sized balloon! "
+    },
+    {
+      "JP": "ゴム風船・大が破裂する！",
+      "EN": "Large-sized balloon blows up! ",
+      "Translation": "Large-sized balloon blows up! "
+    },
+    {
+      "JP": "ゴム風船・大がいっせいに破裂する！",
+      "EN": "All the large-sized balloons blow up at once!",
+      "Translation": "All the large-sized balloons blow up at once!"
+    },
+    {
+      "JP": "は噛み捨てたガムを踏んで不快な思いをした！",
+      "EN": " steps on the chewed gum and is annoyed!",
+      "Translation": " steps on the chewed gum and is annoyed!"
+    },
+    {
+      "JP": "はバナナの皮を踏んで滑った！",
+      "EN": " slips on the banana peel! ",
+      "Translation": " slips on the banana peel! "
+    },
+    {
+      "JP": "はバケツの中に足をつっこんだ！",
+      "EN": " steps into the bucket! ",
+      "Translation": " steps into the bucket! "
+    },
+    {
+      "JP": "足が汚水にまみれる！",
+      "EN": "The leg is soaked with dirty water! ",
+      "Translation": "The leg is soaked with dirty water! "
+    },
+    {
+      "JP": "はねずみ捕りを踏んでしまった！",
+      "EN": " walks into the mouse trap! ",
+      "Translation": " walks into the mouse trap! "
+    },
+    {
+      "JP": "は泡で足が滑った！",
+      "EN": " slips on the suds! ",
+      "Translation": " slips on the suds! "
+    },
+    {
+      "JP": "は泡で足が滑った！",
+      "EN": " slips on the suds! ",
+      "Translation": " slips on the suds! "
+    },
+    {
+      "JP": "は泡で足が滑った！",
+      "EN": " slips on the suds! ",
+      "Translation": " slips on the suds! "
+    },
+    {
+      "JP": "は粘着テープを剥がそうともがいた！",
+      "EN": " struggles to get the sticky tape off!",
+      "Translation": " struggles to get the sticky tape off!"
+    },
+    {
+      "JP": "はがんじがらめの状態から抜け出した！",
+      "EN": " is no longer immobile! ",
+      "Translation": " is no longer immobile! "
+    },
+    {
+      "JP": "は粘着テープを剥がそうともがいた！",
+      "EN": " struggles to get the sticky tape off!",
+      "Translation": " struggles to get the sticky tape off!"
+    },
+    {
+      "JP": "しかしがんじがらめの状態から抜け出せなかった",
+      "EN": "But fails to break free.",
+      "Translation": "But fails to break free."
+    },
+    {
+      "JP": "はガムテープを剥がそうともがいた！",
+      "EN": " struggles to get the box tape off!",
+      "Translation": " struggles to get the box tape off!"
+    },
+    {
+      "JP": "はがんじがらめの状態から抜け出した！",
+      "EN": " is no longer immobile! ",
+      "Translation": " is no longer immobile! "
+    },
+    {
+      "JP": "はガムテープを剥がそうともがいた！",
+      "EN": " struggles to get the box tape off!",
+      "Translation": " struggles to get the box tape off!"
+    },
+    {
+      "JP": "しかしがんじがらめの状態から抜け出せなかった",
+      "EN": "But fails to break free.",
+      "Translation": "But fails to break free."
+    },
+    {
+      "JP": "は工業用耐熱超強力粘着テープを剥がそうともがいた！",
+      "EN": " struggles to get the super-powerful industrial heat-resistant adhesive tape off!",
+      "Translation": " struggles to get the super-powerful industrial heat-resistant adhesive tape off!"
+    },
+    {
+      "JP": "はがんじがらめの状態から抜け出した！",
+      "EN": " is no longer immobile! ",
+      "Translation": " is no longer immobile! "
+    },
+    {
+      "JP": "は工業用耐熱超強力粘着テープを剥がそうともがいた！",
+      "EN": " struggles to get the super-powerful industrial heat-resistant adhesive tape off!",
+      "Translation": " struggles to get the super-powerful industrial heat-resistant adhesive tape off!"
+    },
+    {
+      "JP": "しかしがんじがらめの状態から抜け出せなかった",
+      "EN": "But fails to break free.",
+      "Translation": "But fails to break free."
+    },
+    {
+      "JP": "はスティックのりを剥がそうともがいた！",
+      "EN": " struggles to get the glue off! ",
+      "Translation": " struggles to get the glue off! "
+    },
+    {
+      "JP": "は磔の状態から抜け出した！",
+      "EN": " is no longer immobile! ",
+      "Translation": " is no longer immobile! "
+    },
+    {
+      "JP": "はスティックのりを剥がそうともがいた！",
+      "EN": " struggles to get the glue off! ",
+      "Translation": " struggles to get the glue off! "
+    },
+    {
+      "JP": "しかし磔の状態から抜け出せなかった",
+      "EN": "But fails to break free.",
+      "Translation": "But fails to break free."
+    },
+    {
+      "JP": "は業務用液状のりを剥がそうともがいた！",
+      "EN": " struggles to get the industrial liquid glue off! ",
+      "Translation": " struggles to get the industrial liquid glue off! "
+    },
+    {
+      "JP": "は磔の状態から抜け出した！",
+      "EN": " is no longer immobile! ",
+      "Translation": " is no longer immobile! "
+    },
+    {
+      "JP": "は業務用液状のりを剥がそうともがいた！",
+      "EN": " struggles to get the industrial liquid glue off! ",
+      "Translation": " struggles to get the industrial liquid glue off! "
+    },
+    {
+      "JP": "しかし磔の状態から抜け出せなかった",
+      "EN": "But fails to break free.",
+      "Translation": "But fails to break free."
+    },
+    {
+      "JP": "は瞬間接着剤を剥がそうともがいた！",
+      "EN": " struggles to get the instant glue off! ",
+      "Translation": " struggles to get the instant glue off! "
+    },
+    {
+      "JP": "は磔の状態から抜け出した！",
+      "EN": " is no longer immobile! ",
+      "Translation": " is no longer immobile! "
+    },
+    {
+      "JP": "は瞬間接着剤を剥がそうともがいた！",
+      "EN": " struggles to get the instant glue off! ",
+      "Translation": " struggles to get the instant glue off! "
+    },
+    {
+      "JP": "しかし磔の状態から抜け出せなかった",
+      "EN": "But fails to break free.",
+      "Translation": "But fails to break free."
+    },
+    {
+      "JP": "はトイレットペーパーからの脱出を試みた",
+      "EN": " attempts to break free. ",
+      "Translation": " attempts to break free. "
+    },
+    {
+      "JP": "はぐるぐる巻き状態から抜け出した！",
+      "EN": " is no longer wrapped in toilet paper!",
+      "Translation": " is no longer wrapped in toilet paper!"
+    },
+    {
+      "JP": "はトイレットペーパーからの脱出を試みた",
+      "EN": " attempts to break free. ",
+      "Translation": " attempts to break free. "
+    },
+    {
+      "JP": "しかしぐるぐる巻き状態から抜け出せなかった",
+      "EN": "Failed to break free of toilet paper. ",
+      "Translation": "Failed to break free of toilet paper. "
+    },
+    {
+      "JP": "はヴェルカのあまりの可愛さに攻撃をためらってしまった",
+      "EN": " is hesitating, because Belka is too cute.",
+      "Translation": " is hesitating, because Belka is too cute."
+    },
+    {
+      "JP": "は",
+      "EN": " is touched by the scene of the extraordinary friendship of ",
+      "Translation": " is touched by the scene of the extraordinary friendship of "
+    },
+    {
+      "JP": "はビーだまを踏んで転んでしまった！",
+      "EN": " trips on a marble! ",
+      "Translation": " trips on a marble! "
+    },
+    {
+      "JP": "はなんだかよくわからないパワーに弾かれた！",
+      "EN": " is hit with Somewhat Incomprehensible Power! ",
+      "Translation": " is hit with Somewhat Incomprehensible Power! "
+    },
+    {
+      "JP": "は目つぶし状態から回復した",
+      "EN": " recovers from blindness! ",
+      "Translation": " recovers from blindness! "
+    },
+    {
+      "JP": "は毛布から脱出した",
+      "EN": " escapes from the blanket. ",
+      "Translation": " escapes from the blanket. "
+    },
+    {
+      "JP": "は体育館のネットから脱出した",
+      "EN": " escapes from the gym net. ",
+      "Translation": " escapes from the gym net. "
+    },
+    {
+      "JP": "は虎模様のペルシャじゅうたんから脱出した",
+      "EN": " escapes from the Persian tiger carpet. ",
+      "Translation": " escapes from the Persian tiger carpet. "
+    },
+    {
+      "JP": "はひるんだ状態から回復した",
+      "EN": " recovers from fear. ",
+      "Translation": " recovers from fear. "
+    },
+    {
+      "JP": "はひるんだ状態から回復した",
+      "EN": " recovers from fear. ",
+      "Translation": " recovers from fear. "
+    },
+    {
+      "JP": "はひるんだ状態から回復した",
+      "EN": " recovers from fear. ",
+      "Translation": " recovers from fear. "
+    },
+    {
+      "JP": "の顔から洗濯バサミがひとつ外れた",
+      "EN": " gets one laundry peg off. ",
+      "Translation": " gets one laundry peg off. "
+    },
+    {
+      "JP": "の顔からアルミピンチがひとつ外れた",
+      "EN": " gets one aluminium peg off. ",
+      "Translation": " gets one aluminium peg off. "
+    },
+    {
+      "JP": "の顔からクリップ式小型扇風機がひとつ外れた",
+      "EN": " gets one small clip-on fan off. ",
+      "Translation": " gets one small clip-on fan off. "
+    },
+    {
+      "JP": "は目つぶし状態から回復した",
+      "EN": " recovers from blindness! ",
+      "Translation": " recovers from blindness! "
+    },
+    {
+      "JP": "深爪によって",
+      "EN": "The nail is cut so short, that ",
+      "Translation": "The nail is cut so short, that "
+    },
+    {
+      "JP": "深爪によって",
+      "EN": "The nail is cut so short, that ",
+      "Translation": "The nail is cut so short, that "
+    },
+    {
+      "JP": "深爪によって",
+      "EN": "The nail is cut so short, that ",
+      "Translation": "The nail is cut so short, that "
+    },
+    {
+      "JP": "深爪によって",
+      "EN": "The nail is cut so short, that ",
+      "Translation": "The nail is cut so short, that "
+    },
+    {
+      "JP": "深爪によって",
+      "EN": "The nail is cut so short, that ",
+      "Translation": "The nail is cut so short, that "
+    },
+    {
+      "JP": "なんだかよくわからないパワーが",
+      "EN": "Somewhat Incomprehensible Power eats away at ",
+      "Translation": "Somewhat Incomprehensible Power eats away at "
+    },
+    {
+      "JP": "しかし",
+      "EN": "But ",
+      "Translation": "But "
+    },
+    {
+      "JP": "しかし",
+      "EN": "But ",
+      "Translation": "But "
+    },
+    {
+      "JP": "しかし",
+      "EN": "But ",
+      "Translation": "But "
+    },
+    {
+      "JP": "しかし",
+      "EN": "But ",
+      "Translation": "But "
+    },
+    {
+      "JP": "しかしヒトラーがそれを華麗に受け止めてみせた！",
+      "EN": "But Hitler blocks the attack!",
+      "Translation": "But Hitler blocks the attack!"
+    },
+    {
+      "JP": "しかしファーブルがそれを華麗に受け止めてみせた！",
+      "EN": "But Fabre blocks the attack!",
+      "Translation": "But Fabre blocks the attack!"
+    },
+    {
+      "JP": "しかしオードリーがそれを華麗に受け止めてみせた！",
+      "EN": "But Audrey blocks the attack!",
+      "Translation": "But Audrey blocks the attack!"
+    },
+    {
+      "JP": "しかしコバーンがそれを華麗に受け止めてみせた！",
+      "EN": "But Cobain blocks the attack!",
+      "Translation": "But Cobain blocks the attack!"
+    },
+    {
+      "JP": "しかしテヅカがそれを華麗に受け止めてみせた！",
+      "EN": "But Tezuka blocks the attack!",
+      "Translation": "But Tezuka blocks the attack!"
+    },
+    {
+      "JP": "しかしゲイツがそれを華麗に受け止めてみせた！",
+      "EN": "But Gates blocks the attack!",
+      "Translation": "But Gates blocks the attack!"
+    },
+    {
+      "JP": "しかしアインシュタインがそれを華麗に受け止めてみせた！",
+      "EN": "But Einstein blocks the attack!",
+      "Translation": "But Einstein blocks the attack!"
+    },
+    {
+      "JP": "しかしヒョードルがそれを華麗に受け止めてみせた！",
+      "EN": "But Fyodor blocks the attack!",
+      "Translation": "But Fyodor blocks the attack!"
+    },
+    {
+      "JP": "しかしアリストテレスがそれを華麗に受け止めてみせた！",
+      "EN": "But Aristotle blocks the attack!",
+      "Translation": "But Aristotle blocks the attack!"
+    },
+    {
+      "JP": "しかしホクサイがそれを華麗に受け止めてみせた！",
+      "EN": "But Hokusai blocks the attack!",
+      "Translation": "But Hokusai blocks the attack!"
+    },
+    {
+      "JP": "しかしジャッキーがそれを華麗に受け止めてみせた！",
+      "EN": "But Jackie blocks the attack!",
+      "Translation": "But Jackie blocks the attack!"
+    },
+    {
+      "JP": "しかしユウサクがそれを華麗に受け止めてみせた！",
+      "EN": "But Yuusaku blocks the attack!",
+      "Translation": "But Yuusaku blocks the attack!"
+    },
+    {
+      "JP": "しかしドルジがそれを華麗に受け止めてみせた！",
+      "EN": "But Dorj blocks the attack! ",
+      "Translation": "But Dorj blocks the attack! "
+    },
+    {
+      "JP": "しかしストレルカがそれを華麗に受け止めてみせた！",
+      "EN": "But Strelka blocks the attack! ",
+      "Translation": "But Strelka blocks the attack! "
+    },
+    {
+      "JP": "しかしヴェルカがそれを華麗に受け止めてみせた！",
+      "EN": "But Belka blocks the attack! ",
+      "Translation": "But Belka blocks the attack! "
+    },
+    {
+      "JP": "しかしヴェルカ＆ストレルカがそれを華麗に受け止めてみせた！",
+      "EN": "But Belka and Strelka block the attack! ",
+      "Translation": "But Belka and Strelka block the attack! "
+    },
+    {
+      "JP": "しかし鈴はそれを素手で華麗に受け止めてみせた！",
+      "EN": "But Rin blocks the attack with her bare hands!",
+      "Translation": "But Rin blocks the attack with her bare hands!"
+    },
+    {
+      "JP": "しかし真人はそれを素手で華麗に受け止めてみせた！",
+      "EN": "But Masato blocks the attack with his bare hands!",
+      "Translation": "But Masato blocks the attack with his bare hands!"
+    },
+    {
+      "JP": "しかし謙吾はそれを竹刀で華麗に受け止めてみせた！",
+      "EN": "But Kengo blocks the attack with his shinai!",
+      "Translation": "But Kengo blocks the attack with his shinai!"
+    },
+    {
+      "JP": "しかし佐々美はそれを素手で華麗に受け止めてみせた！",
+      "EN": "But Sasami blocks the attack with her bare hands!",
+      "Translation": "But Sasami blocks the attack with her bare hands!"
+    },
+    {
+      "JP": "しかしソフト部員はそれを素手で華麗に受け止めてみせた！",
+      "EN": "But the trio blocks the attack with their bare hands!",
+      "Translation": "But the trio blocks the attack with their bare hands!"
+    },
+    {
+      "JP": "しかし謎の生命体はそれをクチバシで華麗に受け止めてみせた！",
+      "EN": "But the Unknown Lifeform blocks the attack with its beak!",
+      "Translation": "But the Unknown Lifeform blocks the attack with its beak!"
+    },
+    {
+      "JP": "しかし謎の生命体はそれをツノで華麗に受け止めてみせた！",
+      "EN": "But the Unknown Lifeform blocks the attack with its horn!",
+      "Translation": "But the Unknown Lifeform blocks the attack with its horn!"
+    },
+    {
+      "JP": "しかし謎の生命体はそれをツメで華麗に受け止めてみせた！",
+      "EN": "But the Unknown Lifeform blocks the attack with its claws!",
+      "Translation": "But the Unknown Lifeform blocks the attack with its claws!"
+    },
+    {
+      "JP": "しかし",
+      "EN": "But ",
+      "Translation": "But "
+    },
+    {
+      "JP": "はすかさず$(6,0)で反撃！",
+      "EN": " quickly counterattacks with $(6,1)!",
+      "Translation": " quickly counterattacks with $(6,1)!"
+    },
+    {
+      "JP": "さらにそこから$(6,0)で反撃！",
+      "EN": "And counterattacks with $(6,1)!",
+      "Translation": "And counterattacks with $(6,1)!"
+    },
+    {
+      "JP": "はすかさず折れたごぼうで反撃！",
+      "EN": " quickly counterattacks with the bent burdock!",
+      "Translation": " quickly counterattacks with the bent burdock!"
+    },
+    {
+      "JP": "さらにそこから折れたごぼうで反撃！",
+      "EN": "And counterattacks with the bent burdock!",
+      "Translation": "And counterattacks with the bent burdock!"
+    },
+    {
+      "JP": "はすかさず折れた太いごぼうで反撃！",
+      "EN": " quickly counterattacks with the thick bent burdock!",
+      "Translation": " quickly counterattacks with the thick bent burdock!"
+    },
+    {
+      "JP": "さらにそこから折れた太いごぼうで反撃！",
+      "EN": "And counterattacks with the thick bent burdock!",
+      "Translation": "And counterattacks with the thick bent burdock!"
+    },
+    {
+      "JP": "はすかさず折れたうなぎパイで反撃！",
+      "EN": " quickly counterattacks with the bent eel pie!",
+      "Translation": " quickly counterattacks with the bent eel pie!"
+    },
+    {
+      "JP": "さらにそこから折れたうなぎパイで反撃！",
+      "EN": "And counterattacks with the bent eel pie!",
+      "Translation": "And counterattacks with the bent eel pie!"
+    },
+    {
+      "JP": "はすかさずリズミカルに踊って反撃！",
+      "EN": " immediately rhythmic movements!",
+      "Translation": " immediately rhythmic movements!"
+    },
+    {
+      "JP": "さらにそこからリズミカルに踊って反撃！",
+      "EN": "A counterattack by rhythmic movements!",
+      "Translation": "A counterattack by rhythmic movements!"
+    },
+    {
+      "JP": "はすかさずリズミカルに踊って反撃！",
+      "EN": " immediately rhythmic movements!",
+      "Translation": " immediately rhythmic movements!"
+    },
+    {
+      "JP": "さらにそこからリズミカルに踊って反撃！",
+      "EN": "A counterattack by rhythmic movements!",
+      "Translation": "A counterattack by rhythmic movements!"
+    },
+    {
+      "JP": "はすかさず寝返りを打って反撃！",
+      "EN": " immediately a tactical rollover in the sleeping bag!",
+      "Translation": " immediately a tactical rollover in the sleeping bag!"
+    },
+    {
+      "JP": "さらにそこから寝返りを打って反撃！",
+      "EN": "A counterattack by a tactical rollover in the sleeping bag!",
+      "Translation": "A counterattack by a tactical rollover in the sleeping bag!"
+    },
+    {
+      "JP": "ヒトラーはすかさず反撃！",
+      "EN": "Hitler immediately counterattacks! ",
+      "Translation": "Hitler immediately counterattacks! "
+    },
+    {
+      "JP": "ファーブルはすかさず反撃！",
+      "EN": "Fabre immediately counterattacks! ",
+      "Translation": "Fabre immediately counterattacks! "
+    },
+    {
+      "JP": "オードリーはすかさず反撃！",
+      "EN": "Audrey immediately counterattacks! ",
+      "Translation": "Audrey immediately counterattacks! "
+    },
+    {
+      "JP": "コバーンはすかさず反撃！",
+      "EN": "Cobain immediately counterattacks! ",
+      "Translation": "Cobain immediately counterattacks! "
+    },
+    {
+      "JP": "テヅカはすかさず反撃！",
+      "EN": "Tezuka immediately counterattacks! ",
+      "Translation": "Tezuka immediately counterattacks! "
+    },
+    {
+      "JP": "ゲイツはすかさず反撃！",
+      "EN": "Gates immediately counterattacks! ",
+      "Translation": "Gates immediately counterattacks! "
+    },
+    {
+      "JP": "アインシュタインはすかさず反撃！",
+      "EN": "Einstein immediately counterattacks! ",
+      "Translation": "Einstein immediately counterattacks! "
+    },
+    {
+      "JP": "ヒョードルはすかさず反撃！",
+      "EN": "Fyodor immediately counterattacks! ",
+      "Translation": "Fyodor immediately counterattacks! "
+    },
+    {
+      "JP": "アリストテレスはすかさず反撃！",
+      "EN": "Aristotle immediately counterattacks! ",
+      "Translation": "Aristotle immediately counterattacks! "
+    },
+    {
+      "JP": "ホクサイはすかさず反撃！",
+      "EN": "Hokusai immediately counterattacks! ",
+      "Translation": "Hokusai immediately counterattacks! "
+    },
+    {
+      "JP": "ジャッキーはすかさず反撃！",
+      "EN": "Jackie immediately counterattacks! ",
+      "Translation": "Jackie immediately counterattacks! "
+    },
+    {
+      "JP": "ユウサクはすかさず反撃！",
+      "EN": "Yuusaku immediately counterattacks! ",
+      "Translation": "Yuusaku immediately counterattacks! "
+    },
+    {
+      "JP": "さらにそこからヒトラーが反撃！",
+      "EN": "A counterattack by Hitler follows!",
+      "Translation": "A counterattack by Hitler follows!"
+    },
+    {
+      "JP": "さらにそこからファーブルが反撃！",
+      "EN": "A counterattack by Fabre follows!",
+      "Translation": "A counterattack by Fabre follows!"
+    },
+    {
+      "JP": "さらにそこからオードリーが反撃！",
+      "EN": "A counterattack by Audrey follows!",
+      "Translation": "A counterattack by Audrey follows!"
+    },
+    {
+      "JP": "さらにそこからコバーンが反撃！",
+      "EN": "A counterattack by Cobain follows!",
+      "Translation": "A counterattack by Cobain follows!"
+    },
+    {
+      "JP": "さらにそこからテヅカが反撃！",
+      "EN": "A counterattack by Tezuka follows!",
+      "Translation": "A counterattack by Tezuka follows!"
+    },
+    {
+      "JP": "さらにそこからゲイツが反撃！",
+      "EN": "A counterattack by Gates follows!",
+      "Translation": "A counterattack by Gates follows!"
+    },
+    {
+      "JP": "さらにそこからアインシュタインが反撃！",
+      "EN": "A counterattack by Einstein follows!",
+      "Translation": "A counterattack by Einstein follows!"
+    },
+    {
+      "JP": "さらにそこからヒョードルが反撃！",
+      "EN": "A counterattack by Fyodor follows!",
+      "Translation": "A counterattack by Fyodor follows!"
+    },
+    {
+      "JP": "さらにそこからアリストテレスが反撃！",
+      "EN": "A counterattack by Aristotle follows!",
+      "Translation": "A counterattack by Aristotle follows!"
+    },
+    {
+      "JP": "さらにそこからホクサイが反撃！",
+      "EN": "A counterattack by Hokusai follows!",
+      "Translation": "A counterattack by Hokusai follows!"
+    },
+    {
+      "JP": "さらにそこからジャッキーが反撃！",
+      "EN": "A counterattack by Jackie follows!",
+      "Translation": "A counterattack by Jackie follows!"
+    },
+    {
+      "JP": "さらにそこからユウサクが反撃！",
+      "EN": "A counterattack by Yuusaku follows!",
+      "Translation": "A counterattack by Yuusaku follows!"
+    },
+    {
+      "JP": "ドルジはすかさず反撃！",
+      "EN": "Dorj quickly counterattacks! ",
+      "Translation": "Dorj quickly counterattacks! "
+    },
+    {
+      "JP": "さらにそこからドルジが反撃！",
+      "EN": "More from Dorj fights back! ",
+      "Translation": "More from Dorj fights back! "
+    },
+    {
+      "JP": "はすかさず反撃！",
+      "EN": " immediately counterattacks! ",
+      "Translation": " immediately counterattacks! "
+    },
+    {
+      "JP": "さらにそこから反撃！",
+      "EN": "A counterattack follows!",
+      "Translation": "A counterattack follows!"
+    },
+    {
+      "JP": "はすかさず竹刀で反撃！",
+      "EN": " quickly counterattacks with his shinai!",
+      "Translation": " quickly counterattacks with his shinai!"
+    },
+    {
+      "JP": "さらにそこから竹刀で反撃！",
+      "EN": "And counterattacks with his shinai!",
+      "Translation": "And counterattacks with his shinai!"
+    },
+    {
+      "JP": "はすかさず$(6,0)で反撃！",
+      "EN": " quickly counterattacks with $(6,1)!",
+      "Translation": " quickly counterattacks with $(6,1)!"
+    },
+    {
+      "JP": "さらにそこから$(6,0)で反撃！",
+      "EN": "And counterattacks with $(6,1)!",
+      "Translation": "And counterattacks with $(6,1)!"
+    },
+    {
+      "JP": "はすかさず折れたごぼうで反撃！",
+      "EN": " quickly counterattacks with the bent burdock!",
+      "Translation": " quickly counterattacks with the bent burdock!"
+    },
+    {
+      "JP": "さらにそこから折れたごぼうで反撃！",
+      "EN": "And counterattacks with the bent burdock!",
+      "Translation": "And counterattacks with the bent burdock!"
+    },
+    {
+      "JP": "はすかさず折れた太いごぼうで反撃！",
+      "EN": " quickly counterattacks with the thick bent burdock!",
+      "Translation": " quickly counterattacks with the thick bent burdock!"
+    },
+    {
+      "JP": "さらにそこから折れた太いごぼうで反撃！",
+      "EN": "And counterattacks with the thick bent burdock!",
+      "Translation": "And counterattacks with the thick bent burdock!"
+    },
+    {
+      "JP": "はすかさず折れたうなぎパイで反撃！",
+      "EN": " quickly counterattacks with the bent eel pie!",
+      "Translation": " quickly counterattacks with the bent eel pie!"
+    },
+    {
+      "JP": "さらにそこから折れたうなぎパイで反撃！",
+      "EN": "And counterattacks with the bent eel pie!",
+      "Translation": "And counterattacks with the bent eel pie!"
+    },
+    {
+      "JP": "はすかさずリズミカルに踊って反撃！",
+      "EN": " immediately rhythmic movements!",
+      "Translation": " immediately rhythmic movements!"
+    },
+    {
+      "JP": "さらにそこからリズミカルに踊って反撃！",
+      "EN": "A counterattack by rhythmic movements!",
+      "Translation": "A counterattack by rhythmic movements!"
+    },
+    {
+      "JP": "はすかさず寝返りを打って反撃！",
+      "EN": " immediately a tactical rollover in the sleeping bag!",
+      "Translation": " immediately a tactical rollover in the sleeping bag!"
+    },
+    {
+      "JP": "さらにそこから寝返りを打って反撃！",
+      "EN": "A counterattack by a tactical rollover in the sleeping bag!",
+      "Translation": "A counterattack by a tactical rollover in the sleeping bag!"
+    },
+    {
+      "JP": "ヒトラーはすかさず反撃！",
+      "EN": "Hitler immediately counterattacks! ",
+      "Translation": "Hitler immediately counterattacks! "
+    },
+    {
+      "JP": "さらにそこからヒトラーが反撃！",
+      "EN": "A counterattack by Hitler follows!",
+      "Translation": "A counterattack by Hitler follows!"
+    },
+    {
+      "JP": "さらにそこから猫たちがいっせいに反撃！",
+      "EN": "All the cats bundle up for a joint counterattack!",
+      "Translation": "All the cats bundle up for a joint counterattack!"
+    },
+    {
+      "JP": "さらにそこからドルジが反撃！",
+      "EN": "More from Dorj fights back! ",
+      "Translation": "More from Dorj fights back! "
+    },
+    {
+      "JP": "はすかさず反撃！",
+      "EN": " immediately counterattacks! ",
+      "Translation": " immediately counterattacks! "
+    },
+    {
+      "JP": "さらにそこから反撃！",
+      "EN": "A counterattack follows!",
+      "Translation": "A counterattack follows!"
+    },
+    {
+      "JP": "はすかさず竹刀で反撃！",
+      "EN": " quickly counterattacks with his shinai!",
+      "Translation": " quickly counterattacks with his shinai!"
+    },
+    {
+      "JP": "さらにそこから竹刀で反撃！",
+      "EN": "And counterattacks with his shinai!",
+      "Translation": "And counterattacks with his shinai!"
+    },
+    {
+      "JP": "は沙耶の銃弾をかわした！",
+      "EN": " dodges Saya's bullets!",
+      "Translation": " dodges Saya's bullets!"
+    },
+    {
+      "JP": "しかし",
+      "EN": "But ",
+      "Translation": "But "
+    },
+    {
+      "JP": "沙耶の銃弾が折れた$(6,0)をはじいた！",
+      "EN": "Saya's bullets repel $(6,1)!",
+      "Translation": "Saya's bullets repel $(6,1)!"
+    },
+    {
+      "JP": "は攻撃することができなかった！",
+      "EN": " can't attack!",
+      "Translation": " can't attack!"
+    },
+    {
+      "JP": "沙耶の銃弾に猫はびっくりした！",
+      "EN": "Saya's bullets surprise the cat!",
+      "Translation": "Saya's bullets surprise the cat!"
+    },
+    {
+      "JP": "猫は攻撃することができなかった！",
+      "EN": "The cat can't attack!",
+      "Translation": "The cat can't attack!"
+    },
+    {
+      "JP": "沙耶の銃弾に猫たちはびっくりした！",
+      "EN": "Saya's bullets surprise the cats!",
+      "Translation": "Saya's bullets surprise the cats!"
+    },
+    {
+      "JP": "猫たちは攻撃することができなかった！",
+      "EN": "The cats can't attack!",
+      "Translation": "The cats can't attack!"
+    },
+    {
+      "JP": "沙耶の銃弾にドルジはたじろいだ！",
+      "EN": "Saya's bullets frighten Dorj!",
+      "Translation": "Saya's bullets frighten Dorj!"
+    },
+    {
+      "JP": "ドルジは攻撃することができなかった！",
+      "EN": "Dorj can't attack!",
+      "Translation": "Dorj can't attack!"
+    },
+    {
+      "JP": "沙耶の銃弾にストレルカはひるんだ！",
+      "EN": "Saya's bullets frighten Strelka!",
+      "Translation": "Saya's bullets frighten Strelka!"
+    },
+    {
+      "JP": "ストレルカは攻撃することができなかった！",
+      "EN": "Strelka can't attack!",
+      "Translation": "Strelka can't attack!"
+    },
+    {
+      "JP": "沙耶の銃弾にヴェルカはひるんだ！",
+      "EN": "Saya's bullets frighten Belka!",
+      "Translation": "Saya's bullets frighten Belka!"
+    },
+    {
+      "JP": "ヴェルカは攻撃することができなかった！",
+      "EN": "Belka can't attack!",
+      "Translation": "Belka can't attack!"
+    },
+    {
+      "JP": "沙耶の銃弾にヴェルカ＆ストレルカはひるんだ！",
+      "EN": "Saya's bullets frighten Belka and Strelka!",
+      "Translation": "Saya's bullets frighten Belka and Strelka!"
+    },
+    {
+      "JP": "ヴェルカ＆ストレルカは攻撃することができなかった！",
+      "EN": "Belka and Strelka can't attack!",
+      "Translation": "Belka and Strelka can't attack!"
+    },
+    {
+      "JP": "沙耶の銃弾が$(6,0)をはじいた！",
+      "EN": "Saya's bullets repel the $(6,1)!",
+      "Translation": "Saya's bullets repel the $(6,1)!"
+    },
+    {
+      "JP": "は攻撃することができなかった！",
+      "EN": " can't attack!",
+      "Translation": " can't attack!"
+    }
+  ]
+}

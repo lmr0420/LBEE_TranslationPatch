@@ -48,10 +48,10 @@
 
     class Program
     {
-        static bool DEBUG_DumpInstructionLayout = true;
+        static bool DEBUG_DumpInstructionLayout = false;
         static bool DEBUG_EnableDebugJump = false;
-        static string DEBUG_DebugJumpScript = "SEEN2803";
-        static uint DEBUG_DebugJumpPtr = 0x14d0;
+        static string DEBUG_DebugJumpScript = "SEEN2800";
+        static uint DEBUG_DebugJumpPtr = 0x0;
 
         [DllImport("comdlg32.dll", SetLastError = true, CharSet = CharSet.Auto)]
         private static extern bool GetOpenFileName(ref OpenFileName ofn);

@@ -2458,7 +2458,7 @@
     {
       "JP": "…『誰か』の子供のころだろうか。",
       "EN": "...This is when that ❛somebody❜ was still a kid.",
-      "Translation": "`…这是@『它』小时候的事情吧。"
+      "Translation": "…这是『它』小时候的事情吧。"
     },
     {
       "JP": "そんな自分を好いてくれる人がいた。",
@@ -3013,7 +3013,7 @@
     {
       "JP": "`クド@「いえいえー。困ったときはお互い様なのです。ゆーとぅーみーとぅーなのです」",
       "EN": "`Kud@❝No problem. People should help each other in times of trouble. It's yu- tu- mi- tu-.❞",
-      "Translation": "`库特@「不用不用ー。有困难的时候就要互相帮助。Y的说」"
+      "Translation": "`库特@「不用不用ー。有困难的时候就要互相帮助。Yu-tu-mi-tu-的说」"
     },
     {
       "JP": "`理樹@「実は、恋愛相談なんだけど」",
@@ -3073,7 +3073,7 @@
     {
       "JP": "`クド@「おー、あいしーあいしー」",
       "EN": "`Kud@❝Oh, ai shii, ai shii.❞",
-      "Translation": "`库特@「哦ー，ISーー」"
+      "Translation": "`库特@「哦ー，ai shiiー ai shiiー」"
     },
     {
       "JP": "`クド@「そうでしたかー」",
@@ -3238,12 +3238,12 @@
     {
       "JP": "`理樹@「ちょっとした相談があるんだけど」",
       "EN": "`Riki@❝I need your advice on something.❞",
-      "Translation": "`理树@「我有点事情想请教你。」"
+      "Translation": "`理树@「我有点事情想请教你」"
     },
     {
       "JP": "`葉留佳@「そーだん？　そりゃーはるちんはいつでも相談天国ですヨ」",
       "EN": "`Haruka@❝Advice? Of course! Haruchin's advice heaven is always open.❞",
-      "Translation": "`叶留佳@「请教？当然啦，小叶的咨询天堂随时开放哦。」"
+      "Translation": "`叶留佳@「请教？当然啦，小叶子的咨询天堂随时开放哦」"
     },
     {
       "JP": "`葉留佳@「いやーもー、理樹くんは仕方ないねー。なんでもこのはるちんに話してみて!!」",
@@ -3253,7 +3253,7 @@
     {
       "JP": "`理樹@「うん」",
       "EN": "`Riki@❝Okay.❞",
-      "Translation": "`理树@「嗯。」"
+      "Translation": "`理树@「嗯」"
     },
     {
       "JP": "非常に不安だ。",
@@ -3263,7 +3263,7 @@
     {
       "JP": "`理樹@「と言うわけで、ある女の子と男の子との間を取り持とう、って言う話なんだけど」",
       "EN": "`Riki@❝So, to sum it up, I want you to figure out a nice way of getting the girl together with the boy.❞",
-      "Translation": "`理树@「总之呢，是想撮合一个女孩子和一个男孩子的事情。」"
+      "Translation": "`理树@「总之呢，是想撮合一个女孩子和一个男孩子的事情」"
     },
     {
       "JP": "`葉留佳@「なるほどっ。わたしに任せてっ!!」",
@@ -3288,7 +3288,7 @@
     {
       "JP": "`葉留佳@「よーし、こっちですヨ」",
       "EN": "`Haruka@❝Alright, come with me.❞",
-      "Translation": "`叶留佳@「好，跟我来。」"
+      "Translation": "`叶留佳@「好，跟我来」"
     },
     {
       "JP": "考える間もなく葉留佳さんに手を捕まれて、どこかに連れて行かれる。",
@@ -3298,7 +3298,7 @@
     {
       "JP": "`葉留佳@「というわけでおねーちゃん、後ヨロシク」",
       "EN": "`Haruka@❝So I leave the rest to you, Onee-chan.❞",
-      "Translation": "`叶留佳@「所以姐姐，剩下的拜托了。」"
+      "Translation": "`叶留佳@「所以姐姐，剩下的拜托了」"
     },
     {
       "JP": "`佳奈多@「は？」",
@@ -3318,7 +3318,7 @@
     {
       "JP": "`佳奈多@「自分で何とかしなさい」",
       "EN": "`Kanata@❝Take care of it yourself.❞",
-      "Translation": "`佳奈多@「自己解决。」"
+      "Translation": "`佳奈多@「自己解决」"
     },
     {
       "JP": "`葉留佳@「つめたーっ!?」",
@@ -3333,17 +3333,17 @@
     {
       "JP": "`葉留佳@「えー？　だってそういうの苦手なんだもんっ」",
       "EN": "`Haruka@❝Eeehhh? Because I'm no good at handling that kind of stuff!❞",
-      "Translation": "`叶留佳@「诶？因为我不擅长处理这种事情嘛。」"
+      "Translation": "`叶留佳@「诶？因为我不擅长处理这种事情嘛」"
     },
     {
       "JP": "`佳奈多@「あなたが引き受けたことでしょう？　だったら最後まで責任持ちなさい」",
       "EN": "`Kanata@❝Aren't you the one who took on the task? You have to see your actions through to the end.❞",
-      "Translation": "`佳奈多@「这是你自己接下的任务吧？那就要负责到底。」"
+      "Translation": "`佳奈多@「这是你自己接下的任务吧？那就要负责到底」"
     },
     {
       "JP": "`葉留佳@「ううぅ…その通りです」",
       "EN": "`Haruka@❝Uuu... I have no rebuttal.❞",
-      "Translation": "`叶留佳@「呜……你说得对。」"
+      "Translation": "`叶留佳@「呜……你说得对」"
     },
     {
       "JP": "`葉留佳@「だが可愛い妹のためにおねーちゃんが助力することを私は要求する!!」",
@@ -3358,12 +3358,12 @@
     {
       "JP": "`葉留佳@「む、なんだーその『可愛い妹とか自分で言っちゃってすごくウザいけど妹だから仕方なく相手にしてやるしかないかぁ…』」",
       "EN": "`Haruka@❝Huh, what's with that face that says ❛Geez, she's so annoying, calling herself adorable. Still, I think I have to bear with her since she's my sister.❜❞",
-      "Translation": "`叶留佳@「呣，什么嘛——那个『可爱的妹妹什么的，自称起来真烦，但因为是妹妹所以不得不理她啊…』的表情。」"
+      "Translation": "`叶留佳@「呣，什么嘛——那个『可爱的妹妹什么的，自称起来真烦，但因为是妹妹所以不得不理她啊…』的表情」"
     },
     {
       "JP": "`はる＆かな@「『そんなことより戸棚のアップルパイはまだ大丈夫かしら？　プリント片付いたらお茶をいれてあーちゃん先輩とでも一緒に食べましょう』と言う顔は（ね）っ」",
       "EN": "`HaruKanata@❝❛More importantly, I wonder if the apple pie left in the cupboard is still okay? I think I'll have it with A-chan-senpai after I'm finished with this paperwork.❜❞",
-      "Translation": "`叶留佳&佳奈多@「『比起这个，柜子里的苹果派还好吧？等打印完就泡茶和阿酱学姐一起吃吧』的表情（对吧）。」"
+      "Translation": "`叶留佳&佳奈多@「『比起这个，柜子里的苹果派还好吧？等打印完就泡茶和阿酱学姐一起吃吧』的表情（对吧）」"
     },
     {
       "JP": "長い。",
@@ -3373,7 +3373,7 @@
     {
       "JP": "`佳奈多@「さすが双子ね。寸分違わずぴったりだわ」",
       "EN": "`Kanata@❝In perfect harmony, as expected of my twin sister.❞",
-      "Translation": "`佳奈多@「不愧是双胞胎，完全同步呢。」"
+      "Translation": "`佳奈多@「不愧是双胞胎，完全同步呢」"
     },
     {
       "JP": "`葉留佳@「むきーっ!!　ウザいとかアップルパイとか言うなーっ!!　私も食べたいっ!!」",
@@ -3388,12 +3388,12 @@
     {
       "JP": "`佳奈多@「ああ、はい。まだかかるからお茶でも飲んでて」",
       "EN": "`Kanata@❝Oh, here. Have a cup of tea while we wrap this up.❞",
-      "Translation": "`佳奈多@「啊，好吧。还需要时间，先喝茶吧。」"
+      "Translation": "`佳奈多@「啊，好吧。还需要时间，先喝茶吧」"
     },
     {
       "JP": "`理樹@「いや、お構いなく」",
       "EN": "`Riki@❝Thanks.❞",
-      "Translation": "`理树@「不用客气。」"
+      "Translation": "`理树@「不用客气」"
     },
     {
       "JP": "`葉留佳@「この憤りを隠しきれない妹拳を食らえーっ!!」",
@@ -3433,12 +3433,12 @@
     {
       "JP": "`理樹@「それでまあ、ある女の子と男の子との間を取り持とう、って言う話なんだけど」",
       "EN": "`Riki@❝I'd like you to figure out a nice way of getting this girl together with this boy.❞",
-      "Translation": "`理树@「那么，总之呢，是想撮合一个女孩子和一个男孩子的事情。」"
+      "Translation": "`理树@「那么，总之呢，是想撮合一个女孩子和一个男孩子的事情」"
     },
     {
       "JP": "`佳奈多@「ふうん。また無粋な相談ね」",
       "EN": "`Kanata@❝I see. Another tasteless consultation.❞",
-      "Translation": "`佳奈多@「嗯，又是无聊的咨询呢。」"
+      "Translation": "`佳奈多@「嗯，又是无聊的咨询呢」"
     },
     {
       "JP": "`理樹@「いや、必要に迫られたって言うか…」",
@@ -3448,12 +3448,12 @@
     {
       "JP": "`葉留佳@「ううぅ、妹を虐める姉はよくないと思います」",
       "EN": "`Haruka@❝Uuu, big sisters shouldn't bully their little sisters.❞",
-      "Translation": "`叶留佳@「呜呜，大姐姐欺负妹妹是不好的哦。」"
+      "Translation": "`叶留佳@「呜呜，大姐姐欺负妹妹是不好的哦」"
     },
     {
       "JP": "`佳奈多@「うるさいわね」",
       "EN": "`Kanata@❝Shut it.❞",
-      "Translation": "`佳奈多@「真吵。」"
+      "Translation": "`佳奈多@「真吵」"
     },
     {
       "JP": "ちなみに姉妹のじゃれ合いは姉の一方的有利で終わった。",
@@ -3463,12 +3463,12 @@
     {
       "JP": "`佳奈多@「で、無粋ね。そんなのは当事者間で話し合ってもらいたいわ」",
       "EN": "`Kanata@❝As I said, it's tasteless. Something like that should be worked out between the two.❞",
-      "Translation": "`佳奈多@「所以说，无聊啊。这样的事情应该让当事人之间讨论。」"
+      "Translation": "`佳奈多@「所以说，无聊啊。这样的事情应该让当事人之间讨论」"
     },
     {
       "JP": "`理樹@「それがそうも行かなくてさ」",
       "EN": "`Riki@❝I agree, but that's rather difficult.❞",
-      "Translation": "`理树@「那样也行不通啊。」"
+      "Translation": "`理树@「那样也行不通啊」"
     },
     {
       "JP": "`佳奈多@「ふうん？」",
@@ -3478,7 +3478,7 @@
     {
       "JP": "`葉留佳@「あ、じゃー、こういうときはアレですよアレアレ」",
       "EN": "`Haruka@❝Tell you what, there's a perfect solution.❞",
-      "Translation": "`叶留佳@「啊，那么这种时候就是那个啦那个那个。」"
+      "Translation": "`叶留佳@「啊，那么这种时候就是那个啦那个那个」"
     },
     {
       "JP": "`理樹@「え、なに？」",
@@ -3498,7 +3498,7 @@
     {
       "JP": "`佳奈多@「却下」",
       "EN": "`Kanata@❝Rejected.❞",
-      "Translation": "`佳奈多@「驳回。」"
+      "Translation": "`佳奈多@「驳回」"
     },
     {
       "JP": "`葉留佳@「え、なんで？」",
@@ -3508,17 +3508,17 @@
     {
       "JP": "`佳奈多@「そういう消極的な手段の成功率は著しく低いのよ。勇気のない負け犬が取る手段だわ」",
       "EN": "`Kanata@❝The more timid the approach you take, the lower the success rate. Such a method is something a cowardly loser would choose.❞",
-      "Translation": "`佳奈多@「这种消极手段的成功率极低。这是没有勇气的失败者所采取的方法。」"
+      "Translation": "`佳奈多@「这种消极手段的成功率极低。这是没有勇气的失败者所采取的方法」"
     },
     {
       "JP": "`佳奈多@「相手に考える隙を与えず、勢いで電撃的に了解を得るのが一番よ。その他のことは二の次ね」",
       "EN": "`Kanata@❝Her best option is to confess her love in one fell swoop and make him agree to go out with with her without giving him a chance to think. Nothing else is worth consideration.❞",
-      "Translation": "`佳奈多@「不给对方留下思考的机会，以气势迅速得到同意是最好的。其他的都是次要的。」"
+      "Translation": "`佳奈多@「不给对方留下思考的机会，以气势迅速得到同意是最好的。其他的都是次要的」"
     },
     {
       "JP": "`佳奈多@「積極攻勢、これに尽きるわ」",
       "EN": "`Kanata@❝It's all about aggressiveness.❞",
-      "Translation": "`佳奈多@「积极进攻，这就是关键。」"
+      "Translation": "`佳奈多@「积极进攻，这就是关键」"
     },
     {
       "JP": "`葉留佳@「う、うぅ…そうだったのか～…」",
@@ -3533,12 +3533,12 @@
     {
       "JP": "`佳奈多@「というわけで、本人連れて行って問答無用で二人っきりになる状況を作りなさい」",
       "EN": "`Kanata@❝That said, take the girl to the boy and force them into a situation where they have no other choice but to talk to each other.❞",
-      "Translation": "`佳奈多@「所以，带上本人创造一个不可避免的独处环境。」"
+      "Translation": "`佳奈多@「所以，带上本人创造一个不可避免的独处环境」"
     },
     {
       "JP": "`佳奈多@「後は本人次第ね。そこでうまく行かない様なら、そもそもうまく行かない確率が高いから、それがベスト」",
       "EN": "`Kanata@❝The rest depends on her. If she fails at that point, it's hardly likely that the two would've worked out in the first place. Therefore, that's the best method.❞",
-      "Translation": "`佳奈多@「剩下的就看她自己了。如果在那一步失败的话，原本就很可能不成功，所以这是最好的方法。」"
+      "Translation": "`佳奈多@「剩下的就看她自己了。如果在那一步失败的话，原本就很可能不成功，所以这是最好的方法」"
     },
     {
       "JP": "`理樹@「う、うーん…」",
@@ -3553,7 +3553,7 @@
     {
       "JP": "`葉留佳@「なんかおねーちゃんが言うと、恋愛が軍事作戦のように聞こえてきますネ」",
       "EN": "`Haruka@❝Listening to you, it almost sounds like you're approaching a love affair like a military operation.❞",
-      "Translation": "`叶留佳@「听你这么说，恋爱听起来就像军事作战一样。」"
+      "Translation": "`叶留佳@「听你这么说，恋爱听起来就像军事作战一样」"
     },
     {
       "JP": "`佳奈多@「な、何よ？　何か文句あるの？」",
@@ -3573,7 +3573,7 @@
     {
       "JP": "`佳奈多@「黙りなさい」",
       "EN": "`Kanata@❝Silence.❞",
-      "Translation": "`佳奈多@「闭嘴。」"
+      "Translation": "`佳奈多@「闭嘴」"
     },
     {
       "JP": "葉留佳さんの口にアップルパイを突っ込む。",
@@ -4123,7 +4123,7 @@
     {
       "JP": "こういう『好き』っていう場合、告白にいくっていうのが普通なんじゃないかって思うけど…。",
       "EN": "If you like someone that much, you should tell them how you feel.",
-      "Translation": "`像这种@『喜欢』的情况的话，我觉得去告白是很普通的啊…。"
+      "Translation": "像这种『喜欢』的情况的话，我觉得去告白是很普通的啊…。"
     },
     {
       "JP": "笹瀬川さんは、本当に難しい。",
@@ -4683,7 +4683,7 @@
     {
       "JP": "何回目の『ええぇ』だろう…。",
       "EN": "How many times had I said 'eehh' by that point...?",
-      "Translation": "`我@『哎哎哎』多少次了啊…。"
+      "Translation": "我『哎哎哎』多少次了啊…。"
     },
     {
       "JP": "`佐々美@「あっ、いえっ、違いますのよ!?　わたくしがコウイを持って、という…」",
@@ -5683,7 +5683,7 @@
     {
       "JP": "『いた』って意味じゃ、笹瀬川さんだっていたことになる。",
       "EN": "As far as being there, Sasasegawa-san was also there.",
-      "Translation": "`要说@『在』的话，笹濑川也在。"
+      "Translation": "要说『在』的话，笹濑川也在。"
     },
     {
       "JP": "`理樹@「………」",
@@ -5858,7 +5858,7 @@
     {
       "JP": "…リトルバスターズのメンバーが、誰もいない。",
       "EN": "I realized I hadn't run across a single member of the Little Busters.",
-      "Translation": "…的成员，谁都不在。"
+      "Translation": "…Little Busters的成员，谁都不在。"
     },
     {
       "JP": "クドはいつも早いし、まだここに残ってるはずなのに。",
@@ -7698,7 +7698,7 @@
     {
       "JP": "『ですが』のあと、謙吾は消えてしまった。",
       "EN": "He had vanished before she could finish her words.",
-      "Translation": "`说了@『但是』之后，谦吾就消失了。"
+      "Translation": "说了『但是』之后，谦吾就消失了。"
     },
     {
       "JP": "`佐々美@「な、なんでもないですわよっ」",

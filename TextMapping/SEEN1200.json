@@ -759,7 +759,7 @@
     {
       "JP": "元気がなさそう、といわれればそう見えなくもないけど。",
       "EN": "It didn't seem unwell, but I had no way to tell if it was supposed to be more energetic.",
-      "Translation": "`说是@『看上去没精神』，不过这样根本就看不出来。"
+      "Translation": "说是『看上去没精神』，不过这样根本就看不出来。"
     },
     {
       "JP": "`鈴@「うーん…」",
@@ -859,17 +859,17 @@
     {
       "JP": "`ソフト部Ａ@「佐々美様っ、また棗鈴ですかっ」",
       "EN": "`Club Member A@❝Sasami-sama! Is it Rin Natsume again!?❞",
-      "Translation": "垒球部员Ａ「佐佐美大人，又是棗铃吗」"
+      "Translation": "`垒球部员Ａ@「佐佐美大人，又是棗铃吗」"
     },
     {
       "JP": "`ソフト部Ｂ@「おのれっ、性懲りもなく佐々美様にたてつくとはっ…」",
       "EN": "`Club Member B@❝Damn you! When will you learn the folly of challenging Sasami-sama...❞",
-      "Translation": "垒球部员Ｂ「可恶，总是不知廉耻地与佐佐美大人作对…」"
+      "Translation": "`垒球部员Ｂ@「可恶，总是不知廉耻地与佐佐美大人作对…」"
     },
     {
       "JP": "`ソフト部Ｃ@「棗鈴など、今の佐々美様の敵ではありませんわっ!!」",
       "EN": "`Club Member C@❝How can someone like Rin Natsume be an opponent worthy of Sasami-sama!?❞",
-      "Translation": "垒球部员Ｃ「棗铃什么的，怎么会是现在的佐佐美大人的对手！！」"
+      "Translation": "`垒球部员Ｃ@「棗铃什么的，怎么会是现在的佐佐美大人的对手！！」"
     },
     {
       "JP": "いつもの三人組まで現れた。",
@@ -914,17 +914,17 @@
     {
       "JP": "`ソフト部Ａ@「望むところですっ、佐々美様っ!!」",
       "EN": "`Club Member A@❝This is what we've been waiting for, Sasami-sama!❞",
-      "Translation": "垒球部员Ａ「这正是我们所期望的，佐佐美大人！！」"
+      "Translation": "`垒球部员Ａ@「这正是我们所期望的，佐佐美大人！！」"
     },
     {
       "JP": "`ソフト部Ｂ@「私たちにお任せください、佐々美様っ」",
       "EN": "`Club Member B@❝Let us take care of her, Sasami-sama!❞",
-      "Translation": "垒球部员Ｂ「请交给我们吧，佐佐美大人」"
+      "Translation": "`垒球部员Ｂ@「请交给我们吧，佐佐美大人」"
     },
     {
       "JP": "`ソフト部Ｃ@「さあ棗鈴、かかってらっしゃいなっ!!」",
       "EN": "`Club Member C@❝Bring it on, Rin Natsume!❞",
-      "Translation": "垒球部员Ｃ「来吧棗铃，出招吧！！」"
+      "Translation": "`垒球部员Ｃ@「来吧棗铃，出招吧！！」"
     },
     {
       "JP": "`鈴@「………」",
@@ -954,7 +954,7 @@
     {
       "JP": "`ソフト部Ａ@「なっ…」",
       "EN": "`Club Member A@❝What...❞",
-      "Translation": "垒球部员Ａ「什…」"
+      "Translation": "`垒球部员Ａ@「什…」"
     },
     {
       "JP": "`鈴@「お前らとケンカしてもしょーがない。むえきなあらそいだ」",
@@ -984,7 +984,7 @@
     {
       "JP": "`ソフト部Ａ@「わ、わたし…ですか？」",
       "EN": "`Club Member A@❝M-My... name?❞",
-      "Translation": "垒球部员Ａ「是，是说我…吗？」"
+      "Translation": "`垒球部员Ａ@「是，是说我…吗？」"
     },
     {
       "JP": "`鈴@「そうだ」",
@@ -994,7 +994,7 @@
     {
       "JP": "`ソフト部Ａ@「は、はぁ…川越令ともうします」",
       "EN": "`Club Member A@❝W-Well... my name is Rei Kawagoe.❞",
-      "Translation": "垒球部员Ａ「我、我…我叫川越令」"
+      "Translation": "`垒球部员Ａ@「我、我…我叫川越令」"
     },
     {
       "JP": "`鈴@「かわごえさんか。そっちは？」",
@@ -1004,12 +1004,12 @@
     {
       "JP": "`ソフト部Ｂ@「わ、渡辺咲子です」",
       "EN": "`Club Member B@❝Sa-Sakiko Watanabe.❞",
-      "Translation": "垒球部员Ｂ「渡、渡边咲子」"
+      "Translation": "`垒球部员Ｂ@「渡、渡边咲子」"
     },
     {
       "JP": "`ソフト部Ｃ@「中村由香里ですけど…」",
       "EN": "`Club Member C@❝Yukari Nakamura...❞",
-      "Translation": "垒球部员Ｃ「中村由香里…」"
+      "Translation": "`垒球部员Ｃ@「中村由香里…」"
     },
     {
       "JP": "`鈴@「うん、かわごえさんにわたなべさん、なかむらさんだな」",
@@ -1164,7 +1164,7 @@
     {
       "JP": "『僕ら』の世界が終わった後。",
       "EN": "After ❛our❜ world came to an end,",
-      "Translation": "`在@『我们』的世界走向终结之后。"
+      "Translation": "在『我们』的世界走向终结之后。"
     },
     {
       "JP": "もうひとつの物語が、始まろうとしていた。",
@@ -1264,7 +1264,7 @@
     {
       "JP": "夢の中で、僕の記憶じゃないことは判っていた。",
       "EN": "While I was having that dream, I could tell it wasn't related to any of my memories.",
-      "Translation": "`得出了@『那个梦并不是我的记忆』的结论。"
+      "Translation": "得出了『那个梦并不是我的记忆』的结论。"
     },
     {
       "JP": "…じゃあ、誰の記憶なのだろう？",
@@ -1274,7 +1274,7 @@
     {
       "JP": "この夏、僕は…僕らは、とても不思議な体験をしてきた。",
       "EN": "I... No, we went through a very mysterious experience this past summer.",
-      "Translation": "这个夏天，我…我们，体验了及其不可思议的事。"
+      "Translation": "这个夏天，我…我们，体验了极其不可思议的事。"
     },
     {
       "JP": "だから、僕は『そういう不思議なこと』があることを知っている。",
@@ -1854,7 +1854,7 @@
     {
       "JP": "`謙吾@「なにい…そ、そうか、そうだな。リトルバスターズはみんなで一つだからな…」",
       "EN": "`Kengo@❝What? ...Y-Yeah, you're right. It's not the Little Busters if we're not all together...❞",
-      "Translation": "`谦吾@「什么…是，是吗，是呢。LtB的大家是一体的呢…」"
+      "Translation": "`谦吾@「什么…是，是吗，是呢。Little Busters的大家是一体的呢…」"
     },
     {
       "JP": "しょぼーん、と肩を落とす謙吾。",
@@ -2189,7 +2189,7 @@
     {
       "JP": "とりあえず、扉に呼びかける。",
       "EN": "I answered the visitor.",
-      "Translation": "总之，现在有人在敲门"
+      "Translation": "总之，现在有人在敲门。"
     },
     {
       "JP": "`理樹@「だれ？　恭介？　とりあえず入っちゃっていいよ」",
@@ -2349,7 +2349,7 @@
     {
       "JP": "`クド@「ぐっどいぶにんぐー、井ノ原さんっ」",
       "EN": "`Kud@❝Guddo ibuningu, Inohara-san!❞",
-      "Translation": "`库特@「Ｇｏｏｄｅｖｅｎｉｎｇ，井之原」"
+      "Translation": "`库特@「Guddo ibuningu，井之原」"
     },
     {
       "JP": "`真人@「おう、クー公もどうした、こんな時間に」",
@@ -2484,7 +2484,7 @@
     {
       "JP": "`クド@「やー、さんくゆーです、リキー」",
       "EN": "`Kud@❝Yay, sanku yuu, Riki.❞",
-      "Translation": "`库特@「呀～，Ｔｈａｎｋｙｏｕ的说，理树」"
+      "Translation": "`库特@「呀～，Ｔｈａｎｋ ｙｏｕ的说，理树」"
     },
     {
       "JP": "`理樹@「でも、携帯かなんかで連絡してくれれば良かったのに。そしたらこっちから女子寮まで持っていったよ」",
@@ -2519,7 +2519,7 @@
     {
       "JP": "`クド@「あっ、これは噂のまっする・えくささいざーせこんどですねっ」",
       "EN": "`Kud@❝Ah! This is the massuru ekusasaizaa sekondo that everyone's talking about, is it not?❞",
-      "Translation": "`库特@「啊，这个难道就是传说中的k的说吗」"
+      "Translation": "`库特@「啊，这个难道就是传说中的Muscle Exerciser II的说吗」"
     },
     {
       "JP": "`真人@「ああ、セカンドだけどな。クー公もこれ飲んでメガ筋肉を目指すか？」",
@@ -2759,7 +2759,7 @@
     {
       "JP": "`西園@「$K13ちーかま$K0はいかがですか」",
       "EN": "`Nishizono@❝Would you like some $K13chikama$K0?❞",
-      "Translation": "`西园@「起司鱼肠怎么样」"
+      "Translation": "`西园@「$K13起司鱼肠$K0怎么样」"
     },
     {
       "JP": "今度はちーかまを差し出した。",
@@ -2989,22 +2989,22 @@
     {
       "JP": "`？？？@「……きなさいっ」",
       "EN": "`???@......... up!❞",
-      "Translation": "`理树@「嗯…」"
+      "Translation": "`？？@「……起来啊」"
     },
     {
       "JP": "`理樹@「う、うーん…」",
       "EN": "`Riki@❝Hmmm...❞",
-      "Translation": "`？？@「……起来啊」"
+      "Translation": "`理树@「唔，嗯－－…」"
     },
     {
       "JP": "`？？？@「起きなさいって言ってるでしょう!!",
       "EN": "`???@❝I said wake up!!",
-      "Translation": "`理树@「唔，嗯－－…」"
+      "Translation": "``？？@「我叫你起来啊！！」"
     },
     {
       "JP": "」",
       "EN": "❞",
-      "Translation": "`？？@「我叫你起来啊！！」"
+      "Translation": "」"
     },
     {
       "JP": "声と一緒に、身体が揺さぶられてるのに気付き、目を覚ます。",
@@ -6089,7 +6089,7 @@
     {
       "JP": "`佐々美@「ふん…自業自得ですわ」",
       "EN": "`Sasami@❝Hmph... Serves you right.❞",
-      "Translation": "`佐佐美@「哼…自做自受」"
+      "Translation": "`佐佐美@「哼…自作自受」"
     },
     {
       "JP": "笹瀬川さんは猫でも強かった。",
@@ -6574,7 +6574,7 @@
     {
       "JP": "`クド@「ぐっどもーにんぐですー」",
       "EN": "`Kud@❝Guddo mo-ningu-.❞",
-      "Translation": "`库特@「的说～」"
+      "Translation": "`库特@「Guddo mo-ningu-的说～」"
     },
     {
       "JP": "`鈴@「みんな、おはよう」",
@@ -6984,7 +6984,7 @@
     {
       "JP": "完全に「OH! My god！」になっていた。",
       "EN": "She just said ❛oh my god❜ properly!",
-      "Translation": "完全变成了「!！」。"
+      "Translation": "完全变成了「Ｏｈ－!ｍｙ－ｇｏｄ!」。"
     },
     {
       "JP": "`鈴@「顎を撫でて欲しいらしい」",
@@ -7264,7 +7264,7 @@
     {
       "JP": "`佐々美@「何か野菜の入ったサンドイッチをお願いしますわ。あと、紅茶も」",
       "EN": "`Sasami@❝May I have a vegetable sandwich and black tea, please?❞",
-      "Translation": "`佐佐美@「给我带放了蔬菜的三明治，还有红茶，谢谢。」"
+      "Translation": "`佐佐美@「给我带放了蔬菜的三明治，还有红茶，谢谢」"
     },
     {
       "JP": "`理樹@「うん、わかった」",
@@ -7734,7 +7734,7 @@
     {
       "JP": "`クド@「リキ、はろーです。なにやってるですか？」",
       "EN": "`Kud@❝Riki, haro-. What are you doing?❞",
-      "Translation": "`库特@「理树，哈罗的说。在这里做什么呢？」"
+      "Translation": "`库特@「理树，哈啰的说。在这里做什么呢？」"
     },
     {
       "JP": "`理樹@「うん、ちょっとね」",

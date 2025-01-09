@@ -84,7 +84,7 @@
     {
       "JP": "$(7,0)、一塁に牽制球――！",
       "EN": "$(7,1) throws a pickoff to first――!",
-      "Translation": "$(7,0)、牵制球投向一垒――！"
+      "Translation": "$(7,1)将牵制球投向一垒――！"
     },
     {
       "JP": "　",
@@ -114,7 +114,7 @@
     {
       "JP": "$(7,0)、二塁に牽制球――！",
       "EN": "$(7,1) throws a pickoff to second――!",
-      "Translation": "$(7,0)、牵制球投向二垒――！"
+      "Translation": "$(7,1)将牵制球投向二垒――！"
     },
     {
       "JP": "　",
@@ -144,7 +144,7 @@
     {
       "JP": "$(7,0)、三塁に牽制球――！",
       "EN": "$(7,1) throws a pickoff to third――!",
-      "Translation": "$(7,0)、牵制球投向三垒――！"
+      "Translation": "$(7,1)将牵制球投向三垒――！"
     },
     {
       "JP": "　",
@@ -874,7 +874,7 @@
     {
       "JP": "なんと、$(7,0)はボールをこぼしてしまった！",
       "EN": "Amazingly, $(7,1) drops the ball!",
-      "Translation": "天哪，$(7,0)掉球了！"
+      "Translation": "天哪，$(7,1)掉球了！"
     },
     {
       "JP": "　",
@@ -1574,7 +1574,7 @@
     {
       "JP": "$(7,0)、三塁へ送球――",
       "EN": "$(7,1) throws to third―― ",
-      "Translation": "$(7,0)、传球到三垒――"
+      "Translation": "$(7,1)、传球到三垒――"
     },
     {
       "JP": "　",
@@ -1594,7 +1594,7 @@
     {
       "JP": "$(7,0)、二塁へ送球――",
       "EN": "$(7,1) throws to second―― ",
-      "Translation": "$(7,0)、传球到二垒――"
+      "Translation": "$(7,1)、传球到二垒――"
     },
     {
       "JP": "　",
@@ -1624,7 +1624,7 @@
     {
       "JP": "$(7,0)、一塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws to first! It's a close race――",
-      "Translation": "$(7,0)、传球到一垒！　千钧一发――"
+      "Translation": "$(7,1)、传球到一垒！　千钧一发――"
     },
     {
       "JP": "　",
@@ -2565,7 +2565,7 @@
     {
       "JP": "$(7,0)を強襲！　ボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) has dropped the ball! What a thing to happen! It's being picked up in a panic.",
-      "Translation": "$(7,0)被球击中！球弹开了！慌忙捡起球"
+      "Translation": "$(7,1)被球击中！球弹开了！慌忙捡起球"
     },
     {
       "JP": "　",
@@ -2905,7 +2905,7 @@
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,0)弹开了球！慌忙捡起球"
+      "Translation": "$(7,1)弹开了球！慌忙捡起球"
     },
     {
       "JP": "　",

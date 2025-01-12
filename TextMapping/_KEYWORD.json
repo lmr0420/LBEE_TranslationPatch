@@ -268,33 +268,33 @@
       "JP1": "保健室",
       "JP2": "【保健室】$d学校における怪我や病気などに対応するほか、教育活動などを行う部屋で、養護教諭が常駐している。",
       "EN1": "Infirmary",
-      "Translation1": "Infirmary",
+      "Translation1": "保健室",
       "EN2": "Infirmary$dAlso known as the nurse office, this is a room on the school campus that deals with students' injuries or illnesses. The room is generally staffed by a school nurse, and is also used for educational activities occasionally. ",
-      "Translation2": "Infirmary$dAlso known as the nurse office, this is a room on the school campus that deals with students' injuries or illnesses. The room is generally staffed by a school nurse, and is also used for educational activities occasionally. "
+      "Translation2": "保健室$d学校为生病或受伤的学生提供的用于治疗、休息的房间，有时也用于教育活动，有养护教师常驻。"
     },
     {
       "JP1": "カップやきそば",
       "JP2": "【カップやきそば】$dインスタントラーメンの一種で、容器に入った焼きそば。お湯を注ぎ、麺をほぐし、お湯を捨てて、ソースをかけて食べる。",
       "EN1": "Instant yakisoba",
-      "Translation1": "Instant yakisoba",
+      "Translation1": "杯装炒面",
       "EN2": "Instant yakisoba$dA type of instant noodles which consists of yakisoba in a container. Instant yakisoba is prepared by filling the container with hot water, draining it after the noodles are cooked, and then adding sauce. Draining the water from the container can be tricky, and accidents can occur, resulting in noodles falling into the sink and ruining meals.",
-      "Translation2": "Instant yakisoba$dA type of instant noodles which consists of yakisoba in a container. Instant yakisoba is prepared by filling the container with hot water, draining it after the noodles are cooked, and then adding sauce. Draining the water from the container can be tricky, and accidents can occur, resulting in noodles falling into the sink and ruining meals."
+      "Translation2": "杯装炒面$d一种方便面。用热水将面饼泡软后倒掉水，再浇上酱汁食用。"
     },
     {
       "JP1": "伊勢エビ",
       "JP2": "【伊勢エビ】$d日本近海にて分布する大型のエビで、高級食材。大きさはロブスターとほぼ同じだが、表面が棘だらけであることと、体長より長い触角をもつこと、大きなハサミを持っていないことなど異なる。",
       "EN1": "Ise shrimp",
-      "Translation1": "Ise shrimp",
+      "Translation1": "伊势虾",
       "EN2": "Ise shrimp$dKnown in English as the Japanese spiny lobster, the Ise shrimp is actually a spiny lobster found in Japanese shores. It is considered a delicacy and is found in high-class dishes. Although the Ise shrimp is close to lobster in size, it has spines and antennae that are longer than its body and lacks claws.",
-      "Translation2": "Ise shrimp$dKnown in English as the Japanese spiny lobster, the Ise shrimp is actually a spiny lobster found in Japanese shores. It is considered a delicacy and is found in high-class dishes. Although the Ise shrimp is close to lobster in size, it has spines and antennae that are longer than its body and lacks claws."
+      "Translation2": "伊势虾$d在日本附近的海域发现的一种大型虾，是十分高级的食材。伊势虾的大小与龙虾差不多，但表面布满刺，触角比身体更长，而且没有大钳子。"
     },
     {
       "JP1": "よいではないか",
       "JP2": "【よいではないか】$d日本のTVドラマの時代劇などにて、悪人がよく使う名ゼリフ。",
       "EN1": "Isn't this fun?",
-      "Translation1": "Isn't this fun?",
+      "Translation1": "不是很好吗",
       "EN2": "Isn't this fun?$dA phrase often used by villains or bad guys in general in Japanese historical dramas. Also associated with the obi sashes of kimono-wearing females being pulled.",
-      "Translation2": "Isn't this fun?$dA phrase often used by villains or bad guys in general in Japanese historical dramas. Also associated with the obi sashes of kimono-wearing females being pulled."
+      "Translation2": "不是很好吗$d日本古装电视剧中反派人物常说的名言。"
     },
     {
       "JP1": "公家",

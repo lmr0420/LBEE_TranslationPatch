@@ -24,7 +24,7 @@ namespace LBEE_TranslationPatch
         {
             // 这两个字体在绘制的时候有问题，由于字体太小，所以直接绘制到了字符的顶端
             // 通过调整绘制的位置大概可以解决问题，但这里先替换为相近的字符，暂时规避问题。
-            return In.Replace('—', 'ー').Replace('－', 'ー');
+            return In.Replace('—', 'ー').Replace('－', 'ー').Replace('·', '・');
         }
 
         public static int GetStrLength(byte[] Command,int StartIndex)

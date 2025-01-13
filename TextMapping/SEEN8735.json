@@ -1045,12 +1045,12 @@
     {
       "JP": "交換に応じる$d交換に応じない",
       "EN": "Trade$dRefuse to trade",
-      "Translation": "交换$d拒绝交换"
+      "Translation": "交换$d拒絶交换"
     },
     {
       "JP": "持ち物を貰う$d持ち物を貰わない",
       "EN": "Accept item$dRefuse item",
-      "Translation": "接受物品$d拒绝物品"
+      "Translation": "接受物品$d拒絶物品"
     }
   ],
   "TASK": [

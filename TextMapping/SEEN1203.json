@@ -7031,12 +7031,12 @@
     {
       "JP": "そうじゃないけど…$d僕だって…",
       "EN": "No, that's not it...$dI too...",
-      "Translation": "不，那不是…$d我也是…"
+      "Translation": "不,那不是…$d我也是…"
     },
     {
       "JP": "理由なんてなかったじゃないか$dその答えは他にある",
       "EN": "I guess there was no reason$dThere's another reason",
-      "Translation": "我想这是没有理由的$d一定有别的理由"
+      "Translation": "我想那是没有理由的$d一定有其它理由"
     }
   ]
 }

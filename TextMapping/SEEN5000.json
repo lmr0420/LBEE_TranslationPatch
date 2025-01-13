@@ -5890,12 +5890,12 @@
     {
       "JP": "話す$d話さない",
       "EN": "Talk to her$dDon't talk to her",
-      "Translation": "和她说$d不和她说"
+      "Translation": "説$d不説"
     },
     {
       "JP": "しらを切る$dごまかす",
       "EN": "Feign ignorance$dFool her",
-      "Translation": "死不承认$d蒙混过去"
+      "Translation": "死不承認$d蒙混過去"
     }
   ]
 }

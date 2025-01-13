@@ -17270,47 +17270,47 @@
     {
       "JP": "学食$d中庭の自動販売機$d校門",
       "EN": "Cafeteria$dCourtyard vending machine$dSchool gates",
-      "Translation": "食堂$d中庭的自动贩卖机$d校门"
+      "Translation": "食堂$d中庭的自动販售机$d校門"
     },
     {
       "JP": "中庭の自動販売機$d校門",
       "EN": "Courtyard vending machine$dSchool gates",
-      "Translation": "中庭的自动贩卖机$d校门"
+      "Translation": "中庭的自动販售机$d校門"
     },
     {
       "JP": "学食$d中庭の自動販売機",
       "EN": "Cafeteria$dCourtyard vending machine",
-      "Translation": "食堂$d中庭的自动贩卖机"
+      "Translation": "食堂$d中庭的自动販售机"
     },
     {
       "JP": "何も訊かない$dどうしたのか訊く",
       "EN": "Don't ask anything$dAsk what happened",
-      "Translation": "不问任何问题$d询问发生了什么"
+      "Translation": "不問任何問題$d問是什麼情况"
     },
     {
       "JP": "委員会室へ向かう$dこのまま寮に帰る",
       "EN": "Head to the meeting room$dReturn to the dorms",
-      "Translation": "去委员会室$d回宿舍"
+      "Translation": "去委員会室$d回宿舍"
     },
     {
       "JP": "本当か訊く$d何も言わない",
       "EN": "Ask for the truth$dDon't say anything",
-      "Translation": "询问真相$d什么也不说"
+      "Translation": "问真相$d什麼也不説"
     },
     {
       "JP": "確認する$d確認するまでもない",
       "EN": "Check it out$dThere's no need",
-      "Translation": "确认一下$d没有必要"
+      "Translation": "確認一下$d没有必要"
     },
     {
       "JP": "葉留佳さん探しを続行する$d今日は諦めることにする",
       "EN": "Continue searching for Haruka-san$dGive up for today",
-      "Translation": "继续寻找叶留佳$d今天先放弃"
+      "Translation": "繼續找叶留佳$d今天先放弃"
     },
     {
       "JP": "名簿で見たと答える$d二木さんから聞いたと答える",
       "EN": "Saw it in the class register$dHeard it from Futaki-san",
-      "Translation": "在班级名册上看到的$d从二木那里听到的"
+      "Translation": "在班名册上看到的$d从二木那里听到的"
     },
     {
       "JP": "うん$dううん",
@@ -17320,7 +17320,7 @@
     {
       "JP": "わかりました$dやっぱりちょっと…",
       "EN": "I understand$dI don't think so...",
-      "Translation": "我明白了$d我不这么觉得…"
+      "Translation": "我明白了$d我不覚得…"
     }
   ],
   "TASK": []

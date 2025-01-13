@@ -8850,12 +8850,12 @@
     {
       "JP": "励ます$dそっとしておく",
       "EN": "Cheer her on$dLeave her be",
-      "Translation": "鼓励她$d不管她"
+      "Translation": "鼓励$d不管"
     },
     {
       "JP": "挙手する$dしない",
       "EN": "Raise hand$dDon't raise hand",
-      "Translation": "举手$d不举手"
+      "Translation": "挙手$d不挙手"
     }
   ],
   "TASK": []

@@ -2765,12 +2765,12 @@
     {
       "JP": "潜む$d廊下を走り抜ける",
       "EN": "Take cover in a classroom$dBlaze through the hallway",
-      "Translation": "潜入教室$d穿过走廊"
+      "Translation": "潜入教室$d穿越走廊"
     },
     {
       "JP": "助けてもらう$d断る",
       "EN": "Ask him for help$dTurn down his offer",
-      "Translation": "请求帮助$d拒绝"
+      "Translation": "求助$d拒絶"
     }
   ],
   "TASK": []

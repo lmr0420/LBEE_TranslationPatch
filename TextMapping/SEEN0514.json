@@ -3649,7 +3649,7 @@
     {
       "JP": "`鈴@『いいわけあるかっ』",
       "EN": "`Rin@[Do it yourself!]",
-      "Translation": "`铃@『你自己上吧』"
+      "Translation": "`铃@『可以才怪』"
     },
     {
       "JP": "うわ…また抵抗された…。",
@@ -4496,7 +4496,7 @@
     {
       "JP": "しばらく見守る$d声をかける",
       "EN": "Watch for a while$dCall out to her",
-      "Translation": "就这样看着$d和她打招呼"
+      "Translation": "静静的看着$d打招呼"
     },
     {
       "JP": "いい$dよくない",

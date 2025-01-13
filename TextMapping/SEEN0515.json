@@ -6052,27 +6052,27 @@
     {
       "JP": "貸す$d貸さない",
       "EN": "Lend it to her$dDon't lend it out",
-      "Translation": "借给她$d不借给她"
+      "Translation": "借$d不借"
     },
     {
       "JP": "探しに行く$d放っておく",
       "EN": "Go look for her$dLet her be",
-      "Translation": "去找她$d放着不管"
+      "Translation": "去找人$d放着不管"
     },
     {
       "JP": "しばらく見守る$d声をかける",
       "EN": "Watch for a while$dCall out to her",
-      "Translation": "静静的看着$d和她打招呼"
+      "Translation": "静静的看着$d打招呼"
     },
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "巡游$d休息"
+      "Translation": "徘徊$d休息"
     },
     {
       "JP": "取りにいく$d別のノートで代用",
       "EN": "Go fetch the notebook$dUse another notebook",
-      "Translation": "去拿笔记本$d用其他的笔记本"
+      "Translation": "去拿筆記本$d用其他的筆記本"
     },
     {
       "JP": "校舎に戻る$d大人しく寮に帰る",

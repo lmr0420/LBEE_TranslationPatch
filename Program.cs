@@ -56,6 +56,9 @@
         [DllImport("comdlg32.dll", SetLastError = true, CharSet = CharSet.Auto)]
         private static extern bool GetOpenFileName(ref OpenFileName ofn);
 
+        [DllImport("user32.dll")]
+        public static extern int MessageBox(IntPtr hWnd, String text, String caption, int options);
+
         private static string Select_LBEEEXE()
         {
             var CacheWD = Directory.GetCurrentDirectory();
@@ -273,7 +276,35 @@
 
         static void Main(string[] args)
         {
-            if(args.Length>0)
+            Console.WriteLine("《Little Busters! English Edition》汉化程序 ——By JackMyth\n");
+            Console.WriteLine("参考了来自LittleBusters贴吧的翻译文本，替换了原有的英文。仅支持Steam正式版本。");
+            Console.WriteLine("应用补丁后切换至英文即可看到汉化翻译。\n");
+            Console.WriteLine("已知问题：\n由于SteamDRM的保护，部分文本无法汉化，如界面文本，菜单，战斗时部分文本等。");
+            Console.WriteLine("为避免查看历史文本出现Bug，限制了选项的字库，部分选项显示为繁体中文。\n");
+            Console.WriteLine("若发现文本错误或遗漏，或汉化后游戏存在Bug，请访问 https://github.com/Jack-Myth/LBEE_TranslationPatch 并提交Issue，欢迎讨论。\n");
+            Console.Write("请注意，汉化程序会修改游戏脚本，");
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write("大概率导致现有存档损坏");
+            Console.ResetColor();
+            Console.WriteLine("，请使用新存档进行游戏。\n");
+            int WaitingTime = 20;
+            for(int i = WaitingTime; i>0;i--)
+            {
+                char[] TimerIcon = ['-', '\\', '|', '/'];
+                for (int j = 0; j < 4; j++)
+                {
+                    Console.CursorLeft = 0;
+                    Console.Write(new String(' ', Console.BufferWidth));
+                    Console.CursorLeft = 0;
+                    Console.Write($"[{TimerIcon[j]}]请阅读上述说明。{i}");
+                    Thread.Sleep(250);
+                }
+            }
+            Console.CursorLeft = 0;
+            Console.WriteLine("若已阅读上述说明，请按任意键开始汉化流程。");
+            Console.ReadKey();
+            if (args.Length>0)
             {
                 LBEE_EXE = args[0];
                 // 获取LBEE_Exe所在文件夹
@@ -518,7 +549,7 @@
                 }
                 File.WriteAllBytes(LBEE_EXE, LBEEBinaries);
             }*/
-
+            MessageBox(IntPtr.Zero, "汉化完成。", "LBEE_TranslationPatch", 0);
         }
     }
 

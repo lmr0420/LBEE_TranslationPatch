@@ -276,6 +276,24 @@
 
         static void Main(string[] args)
         {
+            int DescriptionWaitingTime = 20;
+            if (args.Length > 0)
+            {
+                for (int i = 0; i < args.Count(); i++)
+                {
+                    switch (args[i])
+                    {
+                        case "--LBEE_EXE":
+                            LBEE_EXE = args[++i];
+                            // 获取LBEE_Exe所在文件夹
+                            LBEEGamePath = Path.GetDirectoryName(LBEE_EXE) ?? "";
+                            break;
+                        case "--Skip_Description":
+                            DescriptionWaitingTime = 0;
+                            break;
+                    }
+                }
+            }
             Console.WriteLine("《Little Busters! English Edition》汉化程序 ——By JackMyth\n");
             Console.WriteLine("参考了来自LittleBusters贴吧的翻译文本，替换了原有的英文。仅支持Steam正式版本。");
             Console.WriteLine("应用补丁后切换至英文即可看到汉化翻译。\n");
@@ -288,8 +306,7 @@
             Console.Write("大概率导致现有存档损坏");
             Console.ResetColor();
             Console.WriteLine("，请使用新存档进行游戏。\n");
-            int WaitingTime = 20;
-            for(int i = WaitingTime; i>0;i--)
+            for(int i = DescriptionWaitingTime; i>0;i--)
             {
                 char[] TimerIcon = ['-', '\\', '|', '/'];
                 for (int j = 0; j < 4; j++)
@@ -304,12 +321,6 @@
             Console.CursorLeft = 0;
             Console.WriteLine("若已阅读上述说明，请按任意键开始汉化流程。");
             Console.ReadKey();
-            if (args.Length>0)
-            {
-                LBEE_EXE = args[0];
-                // 获取LBEE_Exe所在文件夹
-                LBEEGamePath = Path.GetDirectoryName(LBEE_EXE) ??"";
-            }
             if(!Path.Exists(LBEEGamePath))
             {
                 LBEE_EXE = Select_LBEEEXE();

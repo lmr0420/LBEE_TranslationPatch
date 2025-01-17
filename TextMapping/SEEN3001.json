@@ -9943,7 +9943,7 @@
     {
       "JP": "…っ。僕は唇を噛んだ。",
       "EN": "...I bit my lip.",
-      "Translation": "…。我咬住了嘴唇。"
+      "Translation": "…我咬住了嘴唇。"
     },
     {
       "JP": "深呼吸して、言葉を吐く。",
@@ -17475,12 +17475,12 @@
     {
       "JP": "マーマレードとか$dブルーベリーとか",
       "EN": "Maybe some marmalade$dMaybe some blueberry jam",
-      "Translation": "也许是橘皮酱$d也许是蓝莓酱"
+      "Translation": "也许是橘子$d也许是蓝莓"
     },
     {
       "JP": "条件をのむ$d条件をのまない",
       "EN": "Accept her condition$dReject her condition",
-      "Translation": "接受她的条件$d拒绝她的条件"
+      "Translation": "接受条件$d拒絶条件"
     },
     {
       "JP": "諦める$d諦めない",

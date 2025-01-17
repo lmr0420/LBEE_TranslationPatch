@@ -623,7 +623,7 @@
     {
       "JP": "笹瀬川さんが『変わってしまっていた、あの黒猫』だ。",
       "EN": "It was ❛the black cat that Sasasegawa-san has turned into.❜",
-      "Translation": "`笹濑川@『变成的，那只黑猫』。"
+      "Translation": "笹濑川『变成的，那只黑猫』。"
     },
     {
       "JP": "もう、僕ら以外誰もいない世界。そこに唯一残っていた『僕ら以外』。",
@@ -1153,7 +1153,7 @@
     {
       "JP": "これで、笹瀬川さんがまたこの猫と一緒に生活できたら、それでハッピーエンドじゃないか。",
       "EN": "And if they could live together again, it'd be such a happy ending.",
-      "Translation": "如果，就这样，笹濑川和这只猫又在一起生活了的话，不就是个ap e了吗。"
+      "Translation": "如果，就这样，笹濑川和这只猫又在一起生活了的话，不就是个happy ending了吗。"
     },
     {
       "JP": "ねえ、笹瀬川さん。",
@@ -2068,7 +2068,7 @@
     {
       "JP": "『ここにいる』って言った、あの場所で。",
       "EN": "He was waiting at that place.",
-      "Translation": "`在他说了@『就在这里』的地方。"
+      "Translation": "在他说了『就在这里』的地方。"
     },
     {
       "JP": "外に出る。",
@@ -4698,7 +4698,7 @@
     {
       "JP": "『外』と繋がっていた場所。",
       "EN": "This was the place connected to ❛the outside.❜",
-      "Translation": "`和@『外面』连通的地方。"
+      "Translation": "和『外面』连通的地方。"
     },
     {
       "JP": "ここは他とは違う場所だと思ってたけど…。",
@@ -6118,7 +6118,7 @@
     {
       "JP": "`クド@「あ、リキ。ぐっどもーにんぐですー」",
       "EN": "`Kud@❝Oh, Riki. Guddo mo-ningu.❞",
-      "Translation": "`库特@「啊，理树。o 的说ー」"
+      "Translation": "`库特@「啊，理树。Guddo mo-ningu的说ー」"
     },
     {
       "JP": "`理樹@「おはよう」",
@@ -7031,12 +7031,12 @@
     {
       "JP": "そうじゃないけど…$d僕だって…",
       "EN": "No, that's not it...$dI too...",
-      "Translation": "不，那不是…$d我也是…"
+      "Translation": "不,那不是…$d我也是…"
     },
     {
       "JP": "理由なんてなかったじゃないか$dその答えは他にある",
       "EN": "I guess there was no reason$dThere's another reason",
-      "Translation": "我想这是没有理由的$d一定有别的理由"
+      "Translation": "我想那是没有理由的$d一定有其它理由"
     }
   ]
 }

@@ -7505,7 +7505,7 @@
     {
       "JP": "`理樹@「いや、大丈夫。喉が渇いただけだから」",
       "EN": "`Riki@❝Nothing, I'm fine. I'm just thirsty.❞",
-      "Translation": "`理树@「不，美食，我只是有些口渴」"
+      "Translation": "`理树@「不，没事，我只是有些口渴」"
     },
     {
       "JP": "`理樹@「喉かわいたなぁ」",
@@ -7590,7 +7590,7 @@
     {
       "JP": "ジュースを買いに行きたいところだけど…",
       "EN": "I wanted to go and buy some juice, but...",
-      "Translation": "去买果汁"
+      "Translation": "我想去买果汁，但是…"
     },
     {
       "JP": "今朝の拷問が思い出されて、目眩がした…。",
@@ -9845,7 +9845,7 @@
     {
       "JP": "何故か気後れしたように二・三回手を振る三枝さん。",
       "EN": "For some reason, Saigusa-san nervously waved a few times.",
-      "Translation": "不知为何叶留佳像是胆怯了一样挥了两三下手"
+      "Translation": "不知为何叶留佳像是胆怯了一样挥了两三下手。"
     },
     {
       "JP": "`三枝@「やはー」",
@@ -10030,7 +10030,7 @@
     {
       "JP": "`クド@「あ、はい。能美クドリャフカです。は、はじめまして」",
       "EN": "`Kud@❝Ah, yes. Kudryavka Noumi. P, pleased to meet you.❞",
-      "Translation": "`库特@「啊、是的。我是能美·库特莉亚芙卡。初、初次见面」"
+      "Translation": "`库特@「啊、是的。我是能美・库特莉亚芙卡。初、初次见面」"
     },
     {
       "JP": "クドはぺこんと頭を下げた。",
@@ -14487,47 +14487,47 @@
     {
       "JP": "嘘を吹き込む$d黙っている",
       "EN": "Lie$dStay silent",
-      "Translation": "撒谎$d保持沉默"
+      "Translation": "撒謊$d不出声"
     },
     {
       "JP": "[(#297==0),]鈴$d[(#298==0),]小毬さん$d[(#299==0),]来ヶ谷さん$d[(#300==0),]三枝さん$d[(#301==0),]西園さん$d[(#302==0),]僕",
       "EN": "[(#297==0),]Rin$d[(#298==0),]Komari-san$d[(#299==0),]Kurugaya-san$d[(#300==0),]Saigusa-san$d[(#301==0),]Nishizono-san$d[(#302==0),]Me",
-      "Translation": "[(#297==0),]铃$d[(#298==0),]小毬$d[(#299==0),]来谷$d[(#300==0),]三枝$d[(#301==0),]西园$d[(#302==0),]我"
+      "Translation": "[(#297==0),]鈴$d[(#298==0),]小毬$d[(#299==0),]来谷$d[(#300==0),]三枝$d[(#301==0),]西園$d[(#302==0),]我"
     },
     {
       "JP": "[(#297==0),]鈴$d[(#298==0),]小毬さん$d[(#299==0),]来ヶ谷さん$d[(#300==0),]三枝さん$d[(#301==0),]西園さん",
       "EN": "[(#297==0),]Rin$d[(#298==0),]Komari-san$d[(#299==0),]Kurugaya-san$d[(#300==0),]Saigusa-san$d[(#301==0),]Nishizono-san",
-      "Translation": "[(#297==0),]铃$d[(#298==0),]小毬$d[(#299==0),]来谷$d[(#300==0),]三枝$d[(#301==0),]西园"
+      "Translation": "[(#297==0),]鈴$d[(#298==0),]小毬$d[(#299==0),]来谷$d[(#300==0),]三枝$d[(#301==0),]西園"
     },
     {
       "JP": "しばらく見守る$d声をかける",
       "EN": "Watch for a while$dCall out to her",
-      "Translation": "静静的看着$d和她打招呼"
+      "Translation": "静静的看着$d打招呼"
     },
     {
       "JP": "何訊いてたの？$dそろそろ行こうか",
       "EN": "What did you ask?$dIt's time to go back",
-      "Translation": "你在问什么？$d回去吧"
+      "Translation": "問的什麼？$d該回去了"
     },
     {
       "JP": "西園さん$dまだ見つかっていない",
       "EN": "Nishizono-san$dKeep searching",
-      "Translation": "西园同学$d继续寻找"
+      "Translation": "西園同学$d繼續找"
     },
     {
       "JP": "三枝さん$dまだ見つかっていない",
       "EN": "Saigusa-san$dKeep searching",
-      "Translation": "三枝同学$d继续寻找"
+      "Translation": "三枝同学$d繼續找"
     },
     {
       "JP": "さすらう$d休む",
       "EN": "Wander$dTake a break",
-      "Translation": "巡游$d休息一下"
+      "Translation": "徘徊$d休息一下"
     },
     {
       "JP": "学食に戻る$d中庭に残る",
       "EN": "Back to the cafeteria$dKeep staying here",
-      "Translation": "回食堂$d继续待在这里"
+      "Translation": "回食堂$d待在中庭"
     },
     {
       "JP": "学食に行く$d中庭に残る",
@@ -14537,22 +14537,22 @@
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "巡游$d休息"
+      "Translation": "徘徊$d休息"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ$dさすらう",
       "EN": "Go buy juice$dPlay with Masato$dWander",
-      "Translation": "去买果汁$d和真人玩$d巡游"
+      "Translation": "去買果汁$d和真人玩$d徘徊"
     },
     {
       "JP": "ジュースを買いに行く$d真人と遊ぶ",
       "EN": "Go buy juice$dPlay with Masato",
-      "Translation": "去买果汁$d和真人玩"
+      "Translation": "去買果汁$d和真人玩"
     },
     {
       "JP": "引き受ける$dちょっと考える$dさすらう",
       "EN": "Take on the task$dGive it some thought$dWander",
-      "Translation": "接受$d我想一下$d巡游"
+      "Translation": "接受$d我想一下$d徘徊"
     },
     {
       "JP": "引き受ける$dちょっと考える",
@@ -14562,27 +14562,27 @@
     {
       "JP": "敵意を感じた$d好意を感じた",
       "EN": "Hostility$dFriendliness",
-      "Translation": "感觉到了敌意$d感觉到了好意"
+      "Translation": "感受到了敵意$d感受到了好意"
     },
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "巡游$d休息"
+      "Translation": "徘徊$d休息"
     },
     {
       "JP": "やや好き$d好き$d大好き",
       "EN": "I kinda love him$dI love him$dI really love him",
-      "Translation": "有点喜欢他$d喜欢他$d非常喜欢他"
+      "Translation": "有点喜歡他$d喜歡他$d非常喜歡他"
     },
     {
       "JP": "やや恭介$d恭介$d絶対恭介",
       "EN": "Probably Kyousuke$dKyousuke$dDefinitely Kyousuke",
-      "Translation": "或许是恭介$d恭介$d绝对是恭介"
+      "Translation": "大概是恭介$d恭介$d絶対是恭介"
     },
     {
       "JP": "黙って成り行きを見守る$dやめさせる",
       "EN": "Watch calmly$dStop her",
-      "Translation": "静静的看着$d阻止她"
+      "Translation": "静静的看着$d阻止"
     }
   ]
 }

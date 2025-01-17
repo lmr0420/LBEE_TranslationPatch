@@ -1343,22 +1343,22 @@
     {
       "JP": "理樹くんを信じる$d信じない",
       "EN": "Have faith in Riki-kun$dDon't have faith in him",
-      "Translation": "对理树君有信心$d对他没有信心"
+      "Translation": "対理樹君有信心$対他没有信心"
     },
     {
       "JP": "理樹くんを信じる$d信じない",
       "EN": "Have faith in Riki-kun$dDon't have faith in him",
-      "Translation": "对理树君有信心$d对他没有信心"
+      "Translation": "対理樹君有信心$d対他没有信心"
     },
     {
       "JP": "湯に入る$d別の方法を考える",
       "EN": "Go in the water$dThink of another way",
-      "Translation": "进入沸水里$d想别的办法"
+      "Translation": "跳入沸水里$d想其它方法"
     },
     {
       "JP": "でも入る$d別の方法を考える",
       "EN": "Go in anyway$dThink of another way",
-      "Translation": "还是要进去$d想别的办法"
+      "Translation": "依然要跳$d想其它方法"
     }
   ]
 }

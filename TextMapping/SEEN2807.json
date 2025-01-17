@@ -2550,17 +2550,17 @@
     {
       "JP": "手を握る$d大人しくしている",
       "EN": "Hold her hand$dDon't do it",
-      "Translation": "握住她的手$d老实待着"
+      "Translation": "握住手$d乖乖待着"
     },
     {
       "JP": "腕に触れてみる$d大人しくしている",
       "EN": "Try to touch her arm$dStay put",
-      "Translation": "试着碰她的手臂$d老实待着"
+      "Translation": "試着触摸手臂$d乖乖待着"
     },
     {
       "JP": "頭を撫でてみる$d大人しくしている",
       "EN": "Try patting her head$dStay put",
-      "Translation": "试着摸摸她的头$d老实待着"
+      "Translation": "試着摸摸頭$d乖乖待着"
     }
   ],
   "TASK": []

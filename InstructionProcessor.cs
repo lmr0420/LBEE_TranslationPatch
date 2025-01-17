@@ -12,6 +12,7 @@ namespace LBEE_TranslationPatch
     {
 
         public static HashSet<char> CharCollection = new HashSet<char>();
+        public static Dictionary<string, Dictionary<int, int>> ScriptCommandRedirectors = new();
 
         public static int GetCmdHeaderLength(byte[] command)
         {
@@ -23,7 +24,7 @@ namespace LBEE_TranslationPatch
         {
             // 这两个字体在绘制的时候有问题，由于字体太小，所以直接绘制到了字符的顶端
             // 通过调整绘制的位置大概可以解决问题，但这里先替换为相近的字符，暂时规避问题。
-            return In.Replace('—', 'ー').Replace('－', 'ー');
+            return In.Replace('—', 'ー').Replace('－', 'ー').Replace('·', '・');
         }
 
         public static int GetStrLength(byte[] Command,int StartIndex)
@@ -53,6 +54,7 @@ namespace LBEE_TranslationPatch
             { 0x19, VARSTR_SET_GET },
             { 0x5A, TASK_GET },
             { 0x5C, BATTLE_GET },
+            { 0x69, SAYAVOICETEXT_GET }
         };
 
         public static Dictionary<byte, Func<byte[], JObject, byte[]?>> InstructionSetMapping = new ()
@@ -61,7 +63,8 @@ namespace LBEE_TranslationPatch
             { 0x21, SELECT_SET },
             { 0x19, VARSTR_SET_SET },
             { 0x5A, TASK_SET },
-            { 0x5C, BATTLE_SET }
+            { 0x5C, BATTLE_SET },
+            { 0x69, SAYAVOICETEXT_SET }
         };
 
         public static Dictionary<byte, Func<List<LucaCommand>, int, LucaCommand[]?>> AssignCmdMapping = new ()
@@ -69,7 +72,10 @@ namespace LBEE_TranslationPatch
             { 14, TAIL4Ptr_ASSIGN_CMD },    // GOTO
             { 16, TAIL4Ptr_ASSIGN_CMD },    // GOSUB
             { 17, TAIL4Ptr_ASSIGN_CMD },    // IFY
-            { 18, TAIL4Ptr_ASSIGN_CMD }     // IFN
+            { 18, TAIL4Ptr_ASSIGN_CMD },    // IFN
+            { 20, JUMP_ASSIGN_CMD },        // JUMP
+            { 21, FARCALL_ASSIGN_CMD },     // FARCALL
+            { 15, ONGOTO_ASSIGN_CMD }       // ONGOTO
         };
 
         public static Dictionary<byte, Action<LucaCommand,LucaCommand[]>> FixPtrMapping = new()
@@ -77,7 +83,10 @@ namespace LBEE_TranslationPatch
             { 14, TAIL4Ptr_FIX_PTR },
             { 16, TAIL4Ptr_FIX_PTR },
             { 17, TAIL4Ptr_FIX_PTR },
-            { 18, TAIL4Ptr_FIX_PTR } 
+            { 18, TAIL4Ptr_FIX_PTR },
+            { 20, JUMP_FIX_PTR },
+            { 21, FARCALL_FIX_PTR },
+            { 15, ONGOTO_FIX_PTR }
         };
 
         public static JObject? MESSAGE_GET(byte[] command)
@@ -556,6 +565,37 @@ namespace LBEE_TranslationPatch
             return null;
         }
 
+        public static JObject? SAYAVOICETEXT_GET(byte[] command)
+        {
+            JObject TrasnlationObj = new JObject();
+            int index = GetCmdHeaderLength(command) + 2; // Header+ID
+            int StrLength = GetStrLength(command, index);
+            TrasnlationObj["JP"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
+            index += StrLength + 2;
+            StrLength = GetStrLength(command, index);
+            TrasnlationObj["EN"] = Encoding.Unicode.GetString(command[index..(index + StrLength)]);
+            TrasnlationObj["Translation"] = TrasnlationObj["EN"];
+            return TrasnlationObj;
+        }
+
+        public static byte[]? SAYAVOICETEXT_SET(byte[] command, JObject inJsonObj)
+        {
+            int index = GetCmdHeaderLength(command) + 2; // Header+ID
+            int StrLength = GetStrLength(command, index); // Jp
+            index += StrLength + 2;
+            StrLength = GetStrLength(command, index);
+            string Translation = PostProcessText(inJsonObj["Translation"]?.Value<string>() ?? "");
+            List<byte> newCommand = new List<byte>();
+            newCommand.AddRange(command[..index]);
+            newCommand.AddRange(Encoding.Unicode.GetBytes(Translation));
+            newCommand.AddRange(command.Skip(index + StrLength));
+            foreach (var newChar in Translation.ToCharArray())
+            {
+                CharCollection.Add(newChar);
+            }
+            return newCommand.ToArray();
+        }
+
         public static int LittleEndian2Int(byte[] InBytes)
         {
             int result = 0;
@@ -574,6 +614,9 @@ namespace LBEE_TranslationPatch
             }
         }
 
+        // 用于修正指令中的指针
+        // 感觉在有了CommandRedirectors之后是不需要Assign的步骤了，但是为了避免出Bug，旧代码就不动了
+        // 感觉屎山正在慢慢堆积。。
         public static LucaCommand[]? TAIL4Ptr_ASSIGN_CMD(List<LucaCommand> InAllCommands,int CmdIndex)
         {
             var CurCmd = InAllCommands[CmdIndex];
@@ -597,6 +640,111 @@ namespace LBEE_TranslationPatch
             if (CurCmd.Command != null && InCommands.Length>0)
             {
                 Int2LittleEndian(CurCmd.Command, CurCmd.Command.Length - 4, InCommands[0].CmdPtr);
+            }
+        }
+
+        public static LucaCommand[]? FARCALL_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
+        {
+            // 这里只是一个占位符，即使不再需要ASSIGN_CMD，但还是传回一个非null值，确保接下来能正常执行FIX_PTR
+            return new LucaCommand[0];
+        }
+
+        public static void FARCALL_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
+        {
+            if (CurCmd.Command == null)
+            {
+                return;
+            }
+            int index = GetCmdHeaderLength(CurCmd.Command);
+            int ExpLength = GetSingleByteStrLength(CurCmd.Command, index + 2);
+            string TargetScript = Encoding.ASCII.GetString(CurCmd.Command[(index + 2)..(index + 2 + ExpLength)]).ToLower();
+            int SourceCmdPtr = LittleEndian2Int(CurCmd.Command[(index + 2 + ExpLength + 1)..(index + 2 + ExpLength + 1 + 4)]);
+            if (!ScriptCommandRedirectors.ContainsKey(TargetScript))
+            {
+                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript);
+                Environment.Exit(-1);
+            }
+            var TargetRedirectors = ScriptCommandRedirectors[TargetScript];
+            if(!TargetRedirectors.ContainsKey(SourceCmdPtr))
+            {
+                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript + " SourcePtr " + SourceCmdPtr);
+                Environment.Exit(-1);
+            }
+            Int2LittleEndian(CurCmd.Command, index + 2 + ExpLength + 1, TargetRedirectors[SourceCmdPtr]);
+        }
+
+        public static LucaCommand[]? JUMP_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
+        {
+            return new LucaCommand[0];
+        }
+
+        // 与FARCALL_FIX_PTR相同，但Header和脚本名之间少了2个字节的变量。
+        public static void JUMP_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
+        {
+            if (CurCmd.Command == null)
+            {
+                return;
+            }
+            int index = GetCmdHeaderLength(CurCmd.Command);
+            int ExpLength = GetSingleByteStrLength(CurCmd.Command, index);
+            if (index + ExpLength + 1 >= CurCmd.GetCmdLength())
+            {
+                // 这个JUMP可能不带参数，直接返回
+                return;
+            }
+            string TargetScript = Encoding.ASCII.GetString(CurCmd.Command[index..(index + ExpLength)]).ToLower();
+            int SourceCmdPtr = LittleEndian2Int(CurCmd.Command[(index + ExpLength + 1)..(index + ExpLength + 1 + 4)]);
+            if (!ScriptCommandRedirectors.ContainsKey(TargetScript))
+            {
+                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript);
+                Environment.Exit(-1);
+            }
+            var TargetRedirectors = ScriptCommandRedirectors[TargetScript];
+            if (!TargetRedirectors.ContainsKey(SourceCmdPtr))
+            {
+                Console.Error.WriteLine("Error: Failed to find redirectors for script " + TargetScript + " SourcePtr " + SourceCmdPtr);
+                Environment.Exit(-1);
+            }
+            Int2LittleEndian(CurCmd.Command, index + ExpLength + 1, TargetRedirectors[SourceCmdPtr]);
+        }
+
+        public static LucaCommand[]? ONGOTO_ASSIGN_CMD(List<LucaCommand> InAllCommands, int CmdIndex)
+        {
+            return new LucaCommand[0];
+        }
+
+        // 原来ONGOTO的含义不是当跳转结束后XXX，而是当XXX时跳转
+        // 感觉当初的思路完全错误了。
+        public static void ONGOTO_FIX_PTR(LucaCommand CurCmd, LucaCommand[] InCommands)
+        {
+            if (CurCmd.Command == null)
+            {
+                return;
+            }
+            int index = GetCmdHeaderLength(CurCmd.Command);
+            int ExpLength = GetSingleByteStrLength(CurCmd.Command, index);
+            byte[] PtrArray = CurCmd.Command.Skip(index + ExpLength + 1).ToArray();
+            if(PtrArray.Length % 4!=0)
+            {
+                // 怎么会不能被整除呢？
+                Console.Error.WriteLine("Error: ONGOTO PtrArray length is not multiple of 4,Script may contains error,Exit!");
+                Environment.Exit(-1);
+            }
+            var CurScript = Program.ScriptNameContext.Peek();
+            var TargetRedirectors = ScriptCommandRedirectors[CurScript];
+            for (int i = 0; i < PtrArray.Length; i += 4)
+            {
+                byte[] PtrByteArray = PtrArray[i..(i + 4)];
+                // 这里其实应该是uint的，但鉴于脚本里不可能出现大于2G的指针，所以用int还是uint都无所谓了
+                int SourceCmdPtr = BitConverter.IsLittleEndian ?
+                    BitConverter.ToInt32(PtrArray, i) :
+                    BitConverter.ToInt32(PtrArray.Reverse().ToArray(), i);
+                if (!TargetRedirectors.ContainsKey(SourceCmdPtr))
+                {
+                    Console.Error.WriteLine("Error: Failed to find redirectors for script " + CurScript + " SourcePtr " + SourceCmdPtr);
+                    Environment.Exit(-1);
+                }
+                Int2LittleEndian(CurCmd.Command, index + ExpLength + 1 + i, TargetRedirectors[SourceCmdPtr]);
             }
         }
     }

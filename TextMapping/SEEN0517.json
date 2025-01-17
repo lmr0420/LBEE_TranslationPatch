@@ -570,7 +570,7 @@
     {
       "JP": "`理樹@（…ん？）",
       "EN": "`Riki@(...huh?)",
-      "Translation": "理树（…嗯？）"
+      "Translation": "`理树@（…嗯？）"
     },
     {
       "JP": "寮の前にある掲示板。",
@@ -590,7 +590,7 @@
     {
       "JP": "『剣道部新人戦のお知らせ』の下から緋色の紙を抜き取る。",
       "EN": "I took the scarlet paper that was under the ❛Notice of New Kendo Members Bouts❜ poster.",
-      "Translation": "`从@『剑道部新人战通知』我从下面把绯红色纸抽了出来。"
+      "Translation": "从『剑道部新人战通知』我从下面把绯红色纸抽了出来。"
     },
     {
       "JP": "`理樹@「んー…」",
@@ -610,12 +610,12 @@
     {
       "JP": "『休み時間、裏庭で待つ　Ｔ』とだけあった。",
       "EN": "...the paper in my hand simply read ❛I'll be waiting in the backyard during break. - T❜",
-      "Translation": "『休息时间，我在后院等着Ｔ』这么一句。"
+      "Translation": "『休息时间，我在后院等着 Ｔ』这么一句。"
     },
     {
       "JP": "`理樹@（朱鷺戸さん…かな？）",
       "EN": "`Riki@(Is it from Tokido-san...?)",
-      "Translation": "理树（是朱鹭户同学…吗？）"
+      "Translation": "`理树@（是朱鹭户同学…吗？）"
     },
     {
       "JP": "`真人@「なんだ、理樹？」",
@@ -1420,7 +1420,7 @@
     {
       "JP": "`理樹@「ごめん…僕は僕より強い奴と戦うために、さすらうよ…」",
       "EN": "`Riki@❝Sorry, I must go wandering around in order to fight stronger guys...❞",
-      "Translation": "`理树@「抱歉，我正在为了比我强的家伙战斗，而巡游…」"
+      "Translation": "`理树@「抱歉，我正在为了比我强的家伙战斗，而徘徊…」"
     },
     {
       "JP": "`三枝@「まー、そっかー。しょうがないね」",
@@ -3095,7 +3095,7 @@
     {
       "JP": "恭介と来ヶ谷さん、ふたりいれば鬼に金棒だよ！",
       "EN": "With both Kyousuke and Kurugaya-san it'd be an unstoppable team!",
-      "Translation": "如果恭介欸和来谷一起的话那就算是如虎添翼了！"
+      "Translation": "如果恭介和来谷一起的话那就算是如虎添翼了！"
     },
     {
       "JP": "あああーっ！　やきもきやきもき！",
@@ -3135,7 +3135,7 @@
     {
       "JP": "来ヶ谷さんが制服の胸元に風を扇ぎ入れる。",
       "EN": "She was using her hand to fan air into her cleavage to cool herself down.",
-      "Translation": "来谷往制服领口扇着风。…"
+      "Translation": "来谷往制服领口扇着风。"
     },
     {
       "JP": "…余裕そうに見えていたが、実際は結構ハードだったらしく、額にも汗が浮いていた。",
@@ -10607,7 +10607,7 @@
     {
       "JP": "探してみる$dない$dさすらう",
       "EN": "Look for it$dDon't have it$dWander",
-      "Translation": "找找看$d表示没有$d巡游"
+      "Translation": "找找看$d表示没有$d徘徊"
     },
     {
       "JP": "探してみる$dない",
@@ -10617,47 +10617,47 @@
     {
       "JP": "黙ってみてる$dやっぱり止める",
       "EN": "Watch the battle$dStop them",
-      "Translation": "观战$d阻止他们"
+      "Translation": "觀戰$d阻止他們"
     },
     {
       "JP": "携帯サイトにアクセスする$d自習する",
       "EN": "Access the site$dContinue studying",
-      "Translation": "打开网站$d继续学习"
+      "Translation": "打開网站$d繼續学習"
     },
     {
       "JP": "次を読む$d自習に戻る",
       "EN": "Read the next one$dStart studying",
-      "Translation": "读下一条$d开始学习"
+      "Translation": "看下一条$d開始学習"
     },
     {
       "JP": "鈴を追う$dさすらう$d真人と遊ぶ",
       "EN": "Run after Rin$dWander$dPlay with Masato",
-      "Translation": "去追铃$d巡游$d和真人玩"
+      "Translation": "去追鈴$d徘徊$d和真人玩"
     },
     {
       "JP": "鈴を追う$d放っておく$d真人と遊ぶ",
       "EN": "Run after Rin$dStay here$dPlay with Masato",
-      "Translation": "去追铃$d呆在这里$d和真人玩"
+      "Translation": "去追鈴$d原地呆着$d和真人玩"
     },
     {
       "JP": "しばらく見守る$d声をかける",
       "EN": "Watch for a while$dCall out to her",
-      "Translation": "静静的看着$d和她打招呼"
+      "Translation": "静静的看着$d打招呼"
     },
     {
       "JP": "さすらう$d休む",
       "EN": "Wander$dTake a break",
-      "Translation": "巡游$d休息"
+      "Translation": "徘徊$d休息"
     },
     {
       "JP": "屋上にいく$d屋上にいかない",
       "EN": "Go to the rooftop$dDon't go to the rooftop",
-      "Translation": "上房顶$d不去房顶"
+      "Translation": "上房頂$d不去房頂"
     },
     {
       "JP": "さすらう$d休んでおく",
       "EN": "Wander$dRest",
-      "Translation": "巡游$d休息"
+      "Translation": "徘徊$d休息"
     }
   ]
 }

@@ -16515,7 +16515,7 @@
     {
       "JP": "寮会の手伝いをする$d他のことをする",
       "EN": "Help the dorm committee out$dDo something else",
-      "Translation": "去宿舍会帮忙$d干点别的"
+      "Translation": "協助宿舍会$d做些其它的事"
     },
     {
       "JP": "出て行く$d出て行かない",
@@ -16525,22 +16525,22 @@
     {
       "JP": "出て行く$d出て行かない",
       "EN": "Leave$dDon't leave",
-      "Translation": "走$d不走"
+      "Translation": "出去$d不出去"
     },
     {
       "JP": "呼ばない$d鈴とクドを呼ぶ$d小毬さんと西園さんを呼ぶ$d来ヶ谷さんと葉留佳さんを呼ぶ",
       "EN": "I won't call anyone$dCall Rin and Kud$dCall Komari-san and Nishizono-san$dCall Kurugaya-san and Haruka-san",
-      "Translation": "不叫别人$d叫铃和库特$d叫小毬和西园$d叫来谷和叶留佳"
+      "Translation": "不叫任何人$d叫鈴和庫特$d叫小毬和西園$d叫来谷和叶留佳"
     },
     {
       "JP": "食券$d映画チケット",
       "EN": "Meal ticket$dMovie ticket",
-      "Translation": "饭票$d电影赠票"
+      "Translation": "餐券$d電影券"
     },
     {
       "JP": "寮会について訊く$dピクルスについて訊く$d１時間待ちについて訊く",
       "EN": "Talk about the dorm committee$dTalk about the pickles$dTalk about the one hour wait",
-      "Translation": "问关于宿管会的事$d问泡菜的事$d问一小时等待时间的事"
+      "Translation": "聊宿舍会的事$d聊泡菜的事$d聊晩了一小時的事"
     }
   ],
   "TASK": []

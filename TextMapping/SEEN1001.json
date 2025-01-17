@@ -6095,22 +6095,22 @@
     {
       "JP": "本を探す$dネットを探す",
       "EN": "Keep looking for books$dUse the Internet",
-      "Translation": "找书$d上网找"
+      "Translation": "找書本$d上网找"
     },
     {
       "JP": "直す$d直さない",
       "EN": "Fix her clothes$dLeave her alone",
-      "Translation": "拉好衣服$d不管她"
+      "Translation": "拉好衣服$d放着不管"
     },
     {
       "JP": "夢について訊く$d気にしない",
       "EN": "Ask her for details of the dream$dSuggest that she forget about it",
-      "Translation": "询问关于梦的事情$d让她不要在意"
+      "Translation": "問于梦的事情$d不要在意"
     },
     {
       "JP": "恭介に訊く$d来ヶ谷さんに訊く",
       "EN": "Ask Kyousuke$dAsk Kurugaya-san",
-      "Translation": "问恭介$d问来谷"
+      "Translation": "問恭介$d問来谷"
     }
   ]
 }

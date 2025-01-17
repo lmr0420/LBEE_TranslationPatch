@@ -16,6 +16,7 @@
     using System.Runtime.InteropServices;
     using System.Runtime.CompilerServices;
     using System.Runtime.ExceptionServices;
+    using System.Numerics;
 
     [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Auto)]
     public struct OpenFileName
@@ -47,6 +48,11 @@
 
     class Program
     {
+        static bool DEBUG_DumpInstructionLayout = false;
+        static bool DEBUG_EnableDebugJump = false;
+        static string DEBUG_DebugJumpScript = "SEEN2803";
+        static uint DEBUG_DebugJumpPtr = 0x14d0;
+
         [DllImport("comdlg32.dll", SetLastError = true, CharSet = CharSet.Auto)]
         private static extern bool GetOpenFileName(ref OpenFileName ofn);
 
@@ -73,24 +79,197 @@
         static string LBEEGamePath = @"E:\SteamLibrary\steamapps\common\Little Busters! English Edition";
 #endif
         static string LBEE_EXE = "";
-        static string LBEECharset = @".\Charset.txt";
+        static string LBEECharset = @".\Files\Charset.txt";
         static string TMPPath = Path.GetFullPath(@".\.tmp");
         static string TextMappingPath = Path.GetFullPath(@".\TextMapping");
         static string ExtractedScriptPath = Path.Combine(TMPPath, "Scripts");
         static string ExtractedFontPath = Path.Combine(TMPPath, "Fonts");
         static string PendingReplacePath = Path.Combine(TMPPath, "PendingReplace");
+        static string[] Operators = new string[0];
+        static StreamWriter? InstructionLayoutHandle = null;
+        public static Stack<string> ScriptNameContext = new();
         static List<string> IgnoredScriptList = new List<string> 
         { 
             "SEEN8500", "SEEN8501",
-
-            // 这两个脚本里有两个未知的复杂指令ONGOTO，不清楚是做什么的
-            // 但脚本本身没有包含MESSAGE指令，并且都是一些控制变量的指令，大概都是计算的逻辑，无需翻译，可以先跳过
-            "SEEN8590", "SEEN8610",
 
             // 这些脚本应该是一些数值变量或者控制逻辑，看起来没有翻译的必要
             "_ARFLAG","_BUILD_COUNT","_CGMODE","_QUAKE",
             "_SCR_LABEL","_TASK","_VARNUM","_VOICE_PARAM"
         };
+
+        public static void ProcessScript(string scriptFile,bool PreComputeLayout)
+        {
+            Dictionary<int, int> CommandsRedirectors = new();
+            var fileName = Path.GetFileNameWithoutExtension(scriptFile);
+            if (IgnoredScriptList.Contains(fileName))
+            {
+                return;
+            }
+            ScriptNameContext.Push(fileName.ToLower());
+            // 首先读出所有指令
+            var allCommands = new List<LucaCommand>();
+            var commandBytes = File.ReadAllBytes(scriptFile);
+            int index = 0;
+            while (index < commandBytes.Length)
+            {
+                var curCommand = new LucaCommand();
+                index += curCommand.ReadCommand(commandBytes, index);
+                allCommands.Add(curCommand);
+            }
+
+            // 对所有指令执行AssignCommand，绑定到对应的指令上
+            // 由于有跳转指令的存在，以及脚本翻译后各指令的指针会发生变化
+            // 此处需要解析部分跳转指令，绑定到要跳转的目标指令上，然后在翻译结束后执行FixPtr修正跳转指针
+            for (int i = 0; i < allCommands.Count; i++)
+            {
+                allCommands[i].AssignCommand(allCommands, i);
+            }
+
+            // 没有对应翻译的话，新建一个翻译文件
+            var scriptTextMapping = Path.Combine(TextMappingPath, $"{fileName}.json");
+            if (!File.Exists(scriptTextMapping))
+            {
+                var translationJson = new Dictionary<string, List<JObject>>();
+                foreach (var command in allCommands)
+                {
+                    if (InstructionProcessor.InstructionGetMapping.ContainsKey(command.GetInstruction()))
+                    {
+                        var commandName = Operators[command.GetInstruction()];
+                        if (!translationJson.ContainsKey(commandName))
+                        {
+                            translationJson[commandName] = new List<JObject>();
+                        }
+                        var TranslationObj = command.GetTranslationObj();
+                        if (TranslationObj != null)
+                        {
+                            translationJson[commandName].Add(TranslationObj);
+                        }
+                    }
+                }
+                File.WriteAllText(scriptTextMapping, JsonConvert.SerializeObject(translationJson, Newtonsoft.Json.Formatting.Indented));
+                ScriptNameContext.Pop();
+                return;
+            }
+
+            // 记下原有脚本中各指令的数量用于验证
+            var translationJsonCounts = new Dictionary<string, int>();
+            foreach (var command in allCommands)
+            {
+                if (InstructionProcessor.InstructionGetMapping.ContainsKey(command.GetInstruction()))
+                {
+                    var commandName = Operators[command.GetInstruction()];
+                    if (!translationJsonCounts.ContainsKey(commandName))
+                    {
+                        translationJsonCounts[commandName] = 0;
+                    }
+                    var TranslationObj = command.GetTranslationObj();
+                    if (TranslationObj != null)
+                    {
+                        translationJsonCounts[commandName] += 1;
+                    }
+                }
+            }
+            // 如果有翻译文件的话，执行翻译
+            List<byte> NewScriptBuffer = new List<byte>();
+            var ScriptTextMappingObj = JObject.Parse(File.ReadAllText(scriptTextMapping));
+            var CmdIndexMap = new Dictionary<byte, int>();
+            //Console.WriteLine(scriptFile);
+            int CommandPtr = 0;
+
+            foreach (var command in allCommands)
+            {
+                var CurInstruction = command.GetInstruction();
+                /*if(Operators[CurInstruction]== "BATTLE" && command.GetCmdLength()>8)
+                {
+                    Console.WriteLine($"{Operators[CurInstruction]} {command.CmdPtr}");
+                }*/
+                if (InstructionProcessor.InstructionSetMapping.ContainsKey(CurInstruction))
+                {
+                    var commandName = Operators[CurInstruction];
+                    if (ScriptTextMappingObj.ContainsKey(commandName))
+                    {
+                        int CurCmdIndex;
+                        if (CmdIndexMap.ContainsKey(CurInstruction))
+                        {
+                            CmdIndexMap[CurInstruction]++;
+                            CurCmdIndex = CmdIndexMap[CurInstruction];
+                        }
+                        else
+                        {
+                            CmdIndexMap.Add(CurInstruction, 0);
+                            CurCmdIndex = 0;
+                        }
+                        var CommandTranslationCollection = ScriptTextMappingObj.GetValue(commandName)!.ToArray();
+                        if (CommandTranslationCollection != null && CommandTranslationCollection.Length > CurCmdIndex)
+                        {
+                            var CommandTranslationObj = CommandTranslationCollection[CurCmdIndex].Value<JObject>();
+                            if (CommandTranslationObj != null)
+                            {
+                                if (!command.SetTranslationObj(CommandTranslationObj))
+                                {
+                                    // 如果指令未被接受，则往前退一步
+                                    CmdIndexMap[CurInstruction]--;
+                                }
+                            }
+                            else
+                            {
+                                Console.Error.WriteLine("Error: Invalid TextMapping Json!");
+                                Console.Error.WriteLine(Operators[CurInstruction] + ":" + CurCmdIndex.ToString() + " is not a JsonObject!");
+                                Environment.Exit(-1);
+                            }
+                        }
+                        else
+                        {
+                            // 如果指令未被接受，则往前退一步
+                            CmdIndexMap[CurInstruction]--;
+                        }
+                    }
+                }
+                // 为Command设置翻译后的指针
+                CommandsRedirectors.Add(command.CmdPtr, CommandPtr);
+                command.SetCmdPtr(CommandPtr);
+                CommandPtr += command.GetCmdLength() + command.GetPendingLength();
+            }
+            if (!InstructionProcessor.ScriptCommandRedirectors.ContainsKey(fileName.ToLower()))
+            {
+                InstructionProcessor.ScriptCommandRedirectors.Add(fileName.ToLower(), CommandsRedirectors);
+            }
+            if(PreComputeLayout)
+            {
+                // 如果是预计算布局的话，直接返回，不进行保存
+                return;
+            }
+            if (InstructionLayoutHandle != null)
+            {
+                InstructionLayoutHandle.WriteLine("Script:" + fileName);
+            }
+            foreach (var command in allCommands)
+            {
+                // 修正跳转指令的指针
+                command.FixCommandPtr();
+                if (InstructionLayoutHandle != null)
+                {
+                    string OPCode = Operators[command.GetInstruction()];
+                    InstructionLayoutHandle.WriteLine("\t" + OPCode + "\t" + NewScriptBuffer.Count.ToString());
+                }
+                NewScriptBuffer.AddRange(command.Command!);
+                if (command.GetPendingLength() > 0)
+                {
+                    NewScriptBuffer.Add(0);
+                }
+            }
+            foreach (var cmdIndexKV in CmdIndexMap)
+            {
+                if (translationJsonCounts.ContainsKey(Operators[cmdIndexKV.Key]) &&
+                    translationJsonCounts[Operators[cmdIndexKV.Key]] != cmdIndexKV.Value + 1)
+                {
+                    Console.Error.WriteLine("Error: TextMapping Instruction Count Mismatch(" + fileName + "," + Operators[cmdIndexKV.Key] + "), Exit!");
+                    Environment.Exit(-1);
+                }
+            }
+            File.WriteAllBytes(scriptFile, NewScriptBuffer.ToArray());
+            ScriptNameContext.Pop();
+        }
 
         static void Main(string[] args)
         {
@@ -139,165 +318,61 @@
             }
 
             // Assuming LuckSystem is a separate executable that needs to be run
-            Process.Start(".\\LuckSystem\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEScriptPak}\" -o {Path.Combine(TMPPath, "ScriptFileList.txt")} --all {ExtractedScriptPath}").WaitForExit();
+            Process.Start(".\\Files\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEScriptPak}\" -o {Path.Combine(TMPPath, "ScriptFileList.txt")} --all {ExtractedScriptPath}").WaitForExit();
 
-            string[] Operators = File.ReadAllText(".\\LuckSystem\\data\\LB_EN\\OPCODE.txt").ReplaceLineEndings().Split(Environment.NewLine);
+            Operators = File.ReadAllText(".\\Files\\OPCODE.txt").ReplaceLineEndings().Split(Environment.NewLine);
             var scriptFiles = Directory.GetFiles(ExtractedScriptPath);
-            foreach (var scriptFile in scriptFiles)
+
+            if (DEBUG_DumpInstructionLayout)
             {
-                var fileName = Path.GetFileNameWithoutExtension(scriptFile);
-                if (IgnoredScriptList.Contains(fileName))
-                {
-                    continue;
-                }
-
-                // 首先读出所有指令
-                var allCommands = new List<LucaCommand>();
-                var commandBytes = File.ReadAllBytes(scriptFile);
-                int index = 0;
-                while (index < commandBytes.Length)
-                {
-                    var curCommand = new LucaCommand();
-                    index += curCommand.ReadCommand(commandBytes, index);
-                    allCommands.Add(curCommand);
-                }
-
-                // 对所有指令执行AssignCommand，绑定到对应的指令上
-                // 由于有跳转指令的存在，以及脚本翻译后各指令的指针会发生变化
-                // 此处需要解析部分跳转指令，绑定到要跳转的目标指令上，然后在翻译结束后执行FixPtr修正跳转指针
-                for (int i = 0;i < allCommands.Count; i++)
-                {
-                    allCommands[i].AssignCommand(allCommands, i);
-                }
-
-                // 没有对应翻译的话，新建一个翻译文件
-                var scriptTextMapping = Path.Combine(TextMappingPath, $"{fileName}.json");
-                if (!File.Exists(scriptTextMapping))
-                {
-                    var translationJson = new Dictionary<string, List<JObject>>();
-                    foreach (var command in allCommands)
-                    {
-                        if (InstructionProcessor.InstructionGetMapping.ContainsKey(command.GetInstruction()))
-                        {
-                            var commandName = Operators[command.GetInstruction()];
-                            if (!translationJson.ContainsKey(commandName))
-                            {
-                                translationJson[commandName] = new List<JObject>();
-                            }
-                            var TranslationObj = command.GetTranslationObj();
-                            if (TranslationObj != null)
-                            {
-                                translationJson[commandName].Add(TranslationObj);
-                            }
-                        }
-                    }
-                    File.WriteAllText(scriptTextMapping, JsonConvert.SerializeObject(translationJson, Newtonsoft.Json.Formatting.Indented));
-                    continue;
-                }
-
-                // 记下原有脚本中各指令的数量用于验证
-                var translationJsonCounts = new Dictionary<string, int>();
-                foreach (var command in allCommands)
-                {
-                    if (InstructionProcessor.InstructionGetMapping.ContainsKey(command.GetInstruction()))
-                    {
-                        var commandName = Operators[command.GetInstruction()];
-                        if (!translationJsonCounts.ContainsKey(commandName))
-                        {
-                            translationJsonCounts[commandName] = 0;
-                        }
-                        var TranslationObj = command.GetTranslationObj();
-                        if (TranslationObj != null)
-                        {
-                            translationJsonCounts[commandName] += 1;
-                        }
-                    }
-                }
-                // 如果有翻译文件的话，执行翻译
-                List<byte> NewScriptBuffer = new List<byte>();
-                var ScriptTextMappingObj = JObject.Parse(File.ReadAllText(scriptTextMapping));
-                var CmdIndexMap = new Dictionary<byte, int>();
-                //Console.WriteLine(scriptFile);
-                int CommandPtr = 0;
-                foreach (var command in allCommands)
-                {
-                    var CurInstruction = command.GetInstruction();
-                    /*if(Operators[CurInstruction]== "BATTLE" && command.GetCmdLength()>8)
-                    {
-                        Console.WriteLine($"{Operators[CurInstruction]} {command.CmdPtr}");
-                    }*/
-                    if (InstructionProcessor.InstructionSetMapping.ContainsKey(CurInstruction))
-                    {
-                        var commandName = Operators[CurInstruction];
-                        if (ScriptTextMappingObj.ContainsKey(commandName))
-                        {
-                            int CurCmdIndex;
-                            if (CmdIndexMap.ContainsKey(CurInstruction))
-                            {
-                                CmdIndexMap[CurInstruction]++;
-                                CurCmdIndex = CmdIndexMap[CurInstruction];
-                            }
-                            else
-                            {
-                                CmdIndexMap.Add(CurInstruction, 0);
-                                CurCmdIndex = 0;
-                            }
-                            var CommandTranslationCollection = ScriptTextMappingObj.GetValue(commandName)!.ToArray();
-                            if (CommandTranslationCollection != null && CommandTranslationCollection.Length > CurCmdIndex)
-                            {
-                                var CommandTranslationObj = CommandTranslationCollection[CurCmdIndex].Value<JObject>();
-                                if (CommandTranslationObj != null)
-                                {
-                                    if (!command.SetTranslationObj(CommandTranslationObj))
-                                    {
-                                        // 如果指令未被接受，则往前退一步
-                                        CmdIndexMap[CurInstruction]--;
-                                    }
-                                }
-                                else
-                                {
-                                    Console.Error.WriteLine("Error: Invalid TextMapping Json!");
-                                    Console.Error.WriteLine(Operators[CurInstruction] + ":" + CurCmdIndex.ToString() + " is not a JsonObject!");
-                                    return;
-                                }
-                            }
-                            else
-                            {
-                                // 如果指令未被接受，则往前退一步
-                                CmdIndexMap[CurInstruction]--;
-                            }
-                        }
-                    }
-                    // 为Command设置翻译后的指针
-                    command.SetCmdPtr(CommandPtr);
-                    CommandPtr += command.GetCmdLength()+ command.GetPendingLength();
-                }
-                foreach (var command in allCommands)
-                {
-                    // 修正跳转指令的指针
-                    command.FixCommandPtr();
-                    NewScriptBuffer.AddRange(command.Command!);
-                    if (command.GetPendingLength() > 0)
-                    {
-                        NewScriptBuffer.Add(0);
-                    }
-                }
-                foreach(var cmdIndexKV in CmdIndexMap)
-                {
-                    if(translationJsonCounts.ContainsKey(Operators[cmdIndexKV.Key]) &&
-                        translationJsonCounts[Operators[cmdIndexKV.Key]] != cmdIndexKV.Value+1)
-                    {
-                        Console.Error.WriteLine("Error: TextMapping Instruction Count Mismatch("+ Operators[cmdIndexKV.Key] +"), Exit!");
-                        return;
-                    }
-                }
-                File.WriteAllBytes(scriptFile, NewScriptBuffer.ToArray());
+                InstructionLayoutHandle = new StreamWriter("InstructionLayout.txt");
             }
 
-            Process.Start("LuckSystem\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEScriptPak}\" -i \"{ExtractedScriptPath}\" -o \"{LBEEScriptPak}\"").WaitForExit();
+            Dictionary<string, Dictionary<int, int>> ScriptCommandRedirectors = new();
+
+            foreach (var scriptFile in scriptFiles)
+            {
+                // 由于FARCALL指令的存在，需要先进行一次预计算，然后再进行翻译
+                ProcessScript(scriptFile,true);
+            }
+            foreach (var scriptFile in scriptFiles)
+            {
+                ProcessScript(scriptFile,false);
+            }
+
+            if (InstructionLayoutHandle != null)
+            {
+                InstructionLayoutHandle.Close();
+            }
+
+            // Debug跳转。通过构造指令，在NewGame时直接跳转到对应的脚本。
+            // 跳转之后看起来是正常的，但跑了没多久就会崩溃，感觉还是因为部分前置条件没有设置
+            // 需要配合DebugJumpPtr做更为精确的跳转，直接跳到出问题的地方。
+            if (DEBUG_EnableDebugJump && DEBUG_DebugJumpScript.Length==8)
+            {
+                var JumpCommandsPre = new byte[]
+                {
+                    0x13,0x00,0x14,0x01,0x21,0x0a
+                };
+                var JumpCommandsPost = new byte[]
+                {
+                    0x00,0x06,0x00,0x18,0x01,0x14,0x03
+                };
+                var JumpCommands = new List<byte>();
+                JumpCommands.AddRange(JumpCommandsPre);
+                JumpCommands.AddRange(Encoding.ASCII.GetBytes(DEBUG_DebugJumpScript.ToLower()));
+                JumpCommands.Add(0);
+                JumpCommands.AddRange(BitConverter.IsLittleEndian ?
+                    BitConverter.GetBytes(DEBUG_DebugJumpPtr) :
+                    BitConverter.GetBytes(DEBUG_DebugJumpPtr).Reverse());
+                JumpCommands.AddRange(JumpCommandsPost);
+                File.WriteAllBytes(ExtractedScriptPath + "\\SEEN0513", JumpCommands.ToArray());
+            }
+
+            Process.Start("Files\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEScriptPak}\" -i \"{ExtractedScriptPath}\" -o \"{LBEEScriptPak}\"").WaitForExit();
 
             // 解开字体
-            Process.Start("LuckSystem\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEFontPak}\" -o {Path.Combine(TMPPath, "FontFileList.txt")} --all {ExtractedFontPath}").WaitForExit();
+            Process.Start("Files\\lucksystem.exe", $"pak extract -i \"{TemplateLBEEFontPak}\" -o {Path.Combine(TMPPath, "FontFileList.txt")} --all {ExtractedFontPath}").WaitForExit();
 
             // 重绘字体
             var FontSize = new int[]
@@ -341,8 +416,8 @@
                 // 针对Template进行重绘，然后复制到各个字体
                 // 如果每个字体都进行重绘，那么重绘后的游戏会崩溃，但只用一份的话就正常，很奇怪，不清楚原因
                 // 看起来很像是字体过大了，这里指定一下ReplaceIndex，把一部分原有字体替换掉
-                Process.Start("LuckSystem\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex} -S \"{ExtractedFontPath}\\info{fSize}\" -f {TargetFontPath} -c {AllNewCharFile} -o {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} -O {Path.Combine(PendingReplacePath, $"info{fSize}")}").WaitForExit();
-                Process.Start("czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}").WaitForExit();
+                Process.Start("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex} -S \"{ExtractedFontPath}\\info{fSize}\" -f {TargetFontPath} -c {AllNewCharFile} -o {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} -O {Path.Combine(PendingReplacePath, $"info{fSize}")}").WaitForExit();
+                Process.Start("Files\\czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}").WaitForExit();
                 File.Delete(Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png"));
                 foreach (var fName in FontName)
                 {
@@ -353,7 +428,7 @@
                 }
             }
 
-            Process.Start("LuckSystem\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEFontPak}\" -i \"{PendingReplacePath}\" -o \"{LBEEFontPak}\"").WaitForExit();
+            Process.Start("Files\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEFontPak}\" -i \"{PendingReplacePath}\" -o \"{LBEEFontPak}\"").WaitForExit();
 
             //针对EXE的Patch，这里逐字节扫描所有的数据，直到找到文字的位置，然后替换
             //LBEE的EXE有SteamDRM保护，任何修改都会导致游戏无法启动

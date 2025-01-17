@@ -4,72 +4,72 @@
     {
       "JP": "試合終了、キャプテンチームの勝利！",
       "EN": "End of the match, the Captains' Team wins!",
-      "Translation": "End of the match, the Captains' Team wins!"
+      "Translation": "比赛结束，部长队获胜！"
     },
     {
       "JP": "試合終了、リトルバスターズの勝利！",
       "EN": "End of the match, the Little Busters win!",
-      "Translation": "End of the match, the Little Busters win!"
+      "Translation": "比赛结束，Little Busters获胜！"
     },
     {
       "JP": "試合終了、両チーム引き分け",
       "EN": "End of the match, it's a draw.",
-      "Translation": "End of the match, it's a draw."
+      "Translation": "比赛结束，双方队伍平局。"
     },
     {
       "JP": "１回表　キャプテンチームの攻撃",
       "EN": "Top of the 1st, Captains' Team's offense.",
-      "Translation": "Top of the 1st, Captains' Team's offense."
+      "Translation": "第１局上半，部长队进攻。"
     },
     {
       "JP": "１回表　キャプテンチームの攻撃",
       "EN": "Top of the 1st, Captains' Team's offense.",
-      "Translation": "Top of the 1st, Captains' Team's offense."
+      "Translation": "第１局上半，部长队进攻。"
     },
     {
       "JP": "１回裏　リトルバスターズの攻撃",
       "EN": "Bottom of the 1st, Little Busters' offense.",
-      "Translation": "Bottom of the 1st, Little Busters' offense."
+      "Translation": "第１局下半，Little Busters进攻。"
     },
     {
       "JP": "２回表　キャプテンチームの攻撃",
       "EN": "Top of the 2nd, Captains' Team's offense.",
-      "Translation": "Top of the 2nd, Captains' Team's offense."
+      "Translation": "第２局上半，部长队进攻。"
     },
     {
       "JP": "２回裏　リトルバスターズの攻撃",
       "EN": "Bottom of the 2nd, Little Busters' offense.",
-      "Translation": "Bottom of the 2nd, Little Busters' offense."
+      "Translation": "第２局下半，Little Busters进攻。"
     },
     {
       "JP": "３回表　キャプテンチームの攻撃",
       "EN": "Top of the 3rd, Captains' Team's offense.",
-      "Translation": "Top of the 3rd, Captains' Team's offense."
+      "Translation": "第３局上半，部长队进攻。"
     },
     {
       "JP": "３回裏　リトルバスターズの攻撃",
       "EN": "Bottom of the 3rd, Little Busters' offense.",
-      "Translation": "Bottom of the 3rd, Little Busters' offense."
+      "Translation": "第３局下半，Little Busters进攻。"
     },
     {
       "JP": "４回表　キャプテンチームの攻撃",
       "EN": "Top of the 4th, Captains' Team's offense.",
-      "Translation": "Top of the 4th, Captains' Team's offense."
+      "Translation": "第４局上半，部长队进攻。"
     },
     {
       "JP": "４回裏　リトルバスターズの攻撃",
       "EN": "Bottom of the 4th, Little Busters' offense.",
-      "Translation": "Bottom of the 4th, Little Busters' offense."
+      "Translation": "第４局下半，Little Busters进攻。"
     },
     {
       "JP": "最終回表　キャプテンチームの攻撃",
       "EN": "Top of the last, Captains' Team's offense.",
-      "Translation": "Top of the last, Captains' Team's offense."
+      "Translation": "最终局上半，部长队进攻。"
     },
     {
       "JP": "最終回裏　リトルバスターズの攻撃",
       "EN": "Bottom of the last, Little Busters' offense.",
-      "Translation": "Bottom of the last, Little Busters' offense."
+      "Translation": "最终局下半，Little Busters进攻。"
     },
     {
       "JP": "",
@@ -84,127 +84,127 @@
     {
       "JP": "$(7,0)、一塁に牽制球――！",
       "EN": "$(7,1) throws a pickoff to first――!",
-      "Translation": "$(7,1) throws a pickoff to first――!"
+      "Translation": "$(7,1)将牵制球投向一垒――！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、二塁に牽制球――！",
       "EN": "$(7,1) throws a pickoff to second――!",
-      "Translation": "$(7,1) throws a pickoff to second――!"
+      "Translation": "$(7,1)将牵制球投向二垒――！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、三塁に牽制球――！",
       "EN": "$(7,1) throws a pickoff to third――!",
-      "Translation": "$(7,1) throws a pickoff to third――!"
+      "Translation": "$(7,1)将牵制球投向三垒――！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "三塁ランナーがスタート！",
       "EN": "Third base runner takes off!",
-      "Translation": "Third base runner takes off!"
+      "Translation": "三垒跑者起跑！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "二塁ランナーがスタート！",
       "EN": "Second base runner takes off!",
-      "Translation": "Second base runner takes off!"
+      "Translation": "二垒跑者起跑！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "一塁ランナーがスタート！",
       "EN": "First base runner takes off!",
-      "Translation": "First base runner takes off!"
+      "Translation": "一垒跑者起跑！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "投げた！",
       "EN": "It's thrown! ",
-      "Translation": "It's thrown! "
+      "Translation": "投球！"
     },
     {
       "JP": "",
@@ -214,47 +214,47 @@
     {
       "JP": "投げた！",
       "EN": "It's thrown! ",
-      "Translation": "It's thrown! "
+      "Translation": "投球！"
     },
     {
       "JP": "チェンジアップ！",
       "EN": "Changeup!",
-      "Translation": "Changeup!"
+      "Translation": "变速球！"
     },
     {
       "JP": "ニャーブ！",
       "EN": "Purrve!",
-      "Translation": "Purrve!"
+      "Translation": "喵曲球！"
     },
     {
       "JP": "シュート！",
       "EN": "Shoot!",
-      "Translation": "Shoot!"
+      "Translation": "直球！"
     },
     {
       "JP": "スライニャー！",
       "EN": "Sly-nya!",
-      "Translation": "Sly-nya!"
+      "Translation": "滑喵球！"
     },
     {
       "JP": "シンカー！",
       "EN": "Sinker!",
-      "Translation": "Sinker!"
+      "Translation": "沉球！"
     },
     {
       "JP": "ニャックル！",
       "EN": "Nyackle!",
-      "Translation": "Nyackle!"
+      "Translation": "喵指节球！"
     },
     {
       "JP": "ライジングニャットボール！",
       "EN": "Raging Meow Ball!",
-      "Translation": "Raging Meow Ball!"
+      "Translation": "雷神喵喵球！"
     },
     {
       "JP": "真・ライジングニャットボール!!",
       "EN": "True Raging Meow Ball!!!",
-      "Translation": "True Raging Meow Ball!!!"
+      "Translation": "真·雷神喵喵球！！"
     },
     {
       "JP": "",
@@ -264,32 +264,32 @@
     {
       "JP": "見送り。ボール。",
       "EN": "Ball.",
-      "Translation": "Ball."
+      "Translation": "放过。坏球。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "見送り。ボール。",
       "EN": "Ball.",
-      "Translation": "Ball."
+      "Translation": "放过。坏球。"
     },
     {
       "JP": "フォアボール。",
       "EN": " Four balls, walk.",
-      "Translation": " Four balls, walk."
+      "Translation": "四坏球，保送。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "バッターは一塁へ",
       "EN": "Batter walks to first.",
-      "Translation": "Batter walks to first."
+      "Translation": "击球手走向一垒。"
     },
     {
       "JP": "　",
@@ -299,7 +299,7 @@
     {
       "JP": "一塁ランナーは二塁へ",
       "EN": "First base runner walks to second.",
-      "Translation": "First base runner walks to second."
+      "Translation": "一垒跑者走向二垒。"
     },
     {
       "JP": "　",
@@ -309,7 +309,7 @@
     {
       "JP": "バッターは一塁へ",
       "EN": "Batter walks to first.",
-      "Translation": "Batter walks to first."
+      "Translation": "击球手走向一垒。"
     },
     {
       "JP": "　",
@@ -319,7 +319,7 @@
     {
       "JP": "二塁ランナーは三塁へ",
       "EN": "Second base runner walks to third.",
-      "Translation": "Second base runner walks to third."
+      "Translation": "二垒跑者走向三垒。"
     },
     {
       "JP": "　",
@@ -329,7 +329,7 @@
     {
       "JP": "一塁ランナーは二塁へ",
       "EN": "First base runner walks to second.",
-      "Translation": "First base runner walks to second."
+      "Translation": "一垒跑者走向二垒。"
     },
     {
       "JP": "　",
@@ -339,7 +339,7 @@
     {
       "JP": "バッターは一塁へ",
       "EN": "Batter walks to first.",
-      "Translation": "Batter walks to first."
+      "Translation": "击球手走向一垒。"
     },
     {
       "JP": "　",
@@ -349,7 +349,7 @@
     {
       "JP": "押し出し。三塁ランナーはホームイン",
       "EN": "A walk in run. Third base runner scores.",
-      "Translation": "A walk in run. Third base runner scores."
+      "Translation": "保送。三垒跑者得分。"
     },
     {
       "JP": "　",
@@ -359,7 +359,7 @@
     {
       "JP": "二塁ランナーは三塁へ",
       "EN": "Second base runner walks to third.",
-      "Translation": "Second base runner walks to third."
+      "Translation": "二垒跑者走向三垒。"
     },
     {
       "JP": "　",
@@ -369,7 +369,7 @@
     {
       "JP": "一塁ランナーは二塁へ",
       "EN": "First base runner walks to second.",
-      "Translation": "First base runner walks to second."
+      "Translation": "一垒跑者走向二垒。"
     },
     {
       "JP": "　",
@@ -379,7 +379,7 @@
     {
       "JP": "バッターは一塁へ",
       "EN": "Batter walks to first.",
-      "Translation": "Batter walks to first."
+      "Translation": "击球手走向一垒。"
     },
     {
       "JP": "　",
@@ -389,7 +389,7 @@
     {
       "JP": "見逃し。ストライク。",
       "EN": "Didn't swing. Strike. ",
-      "Translation": "Didn't swing. Strike. "
+      "Translation": "未挥棒。好球。"
     },
     {
       "JP": "　",
@@ -399,12 +399,12 @@
     {
       "JP": "見逃し。ストライク。",
       "EN": "Didn't swing. Strike. ",
-      "Translation": "Didn't swing. Strike. "
+      "Translation": "未挥棒。好球。"
     },
     {
       "JP": "バッターアウト！",
       "EN": " Batter out!",
-      "Translation": " Batter out!"
+      "Translation": "击球手出局！"
     },
     {
       "JP": "　",
@@ -414,17 +414,17 @@
     {
       "JP": "$(6,0)はバットを振った――$d",
       "EN": "$(6,1) swings the bat――\n",
-      "Translation": "$(6,1) swings the bat――\n"
+      "Translation": "$(6,1)挥棒――$d"
     },
     {
       "JP": "$(6,0)はバントの構え――$d",
       "EN": "$(6,1) attempts a bunt――\n",
-      "Translation": "$(6,1) attempts a bunt――\n"
+      "Translation": "$(6,1)准备短打――$d"
     },
     {
       "JP": "空振り。ストライク。",
       "EN": "...but the swing is wide. Strike.",
-      "Translation": "...but the swing is wide. Strike."
+      "Translation": "挥空。好球。"
     },
     {
       "JP": "　",
@@ -434,12 +434,12 @@
     {
       "JP": "空振り。ストライク。",
       "EN": "...but the swing is wide. Strike.",
-      "Translation": "...but the swing is wide. Strike."
+      "Translation": "挥空。好球。"
     },
     {
       "JP": "バッターアウト！",
       "EN": " Batter out!",
-      "Translation": " Batter out!"
+      "Translation": "击球手出局！"
     },
     {
       "JP": "　",
@@ -449,17 +449,17 @@
     {
       "JP": "$(6,0)はバットを振った――$d",
       "EN": "$(6,1) swings the bat――\n",
-      "Translation": "$(6,1) swings the bat――\n"
+      "Translation": "$(6,1)挥棒――$d"
     },
     {
       "JP": "$(6,0)はバントの構え――$d",
       "EN": "$(6,1) attempts a bunt――\n",
-      "Translation": "$(6,1) attempts a bunt――\n"
+      "Translation": "$(6,1)准备短打――$d"
     },
     {
       "JP": "デッドボール！",
       "EN": "Dead ball!",
-      "Translation": "Dead ball!"
+      "Translation": "死球！"
     },
     {
       "JP": "　",
@@ -469,7 +469,7 @@
     {
       "JP": "投球が大きくはずれた！　カウントはボール。",
       "EN": "The pitch goes way off! Ball.",
-      "Translation": "The pitch goes way off! Ball."
+      "Translation": "投球大幅偏离！ 坏球。"
     },
     {
       "JP": "　",
@@ -479,12 +479,12 @@
     {
       "JP": "見送り。ボール。",
       "EN": "Ball.",
-      "Translation": "Ball."
+      "Translation": "放过。坏球。"
     },
     {
       "JP": "フォアボール。",
       "EN": " Four balls, walk.",
-      "Translation": " Four balls, walk."
+      "Translation": "四坏球，保送。"
     },
     {
       "JP": "　",
@@ -494,7 +494,7 @@
     {
       "JP": "投球が大きくはずれた！　カウントはボール、フォアボール。",
       "EN": "The pitch is way off! Four balls, walk.",
-      "Translation": "The pitch is way off! Four balls, walk."
+      "Translation": "投球大幅偏离！ 四坏球，保送。"
     },
     {
       "JP": "　",
@@ -504,7 +504,7 @@
     {
       "JP": "後方に逸れたボールをキャッチャーが追う！",
       "EN": "Catcher misses the ball and runs after it!",
-      "Translation": "Catcher misses the ball and runs after it!"
+      "Translation": "捕手漏接球并追赶！"
     },
     {
       "JP": "　",
@@ -514,7 +514,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン",
       "EN": "Third base runner scores.",
-      "Translation": "Third base runner scores."
+      "Translation": "此时三垒跑者得分。"
     },
     {
       "JP": "　",
@@ -524,7 +524,7 @@
     {
       "JP": "その間に二塁ランナーは三塁へ",
       "EN": "Second base runner advances to third.",
-      "Translation": "Second base runner advances to third."
+      "Translation": "此时二垒跑者推进至三垒。"
     },
     {
       "JP": "　",
@@ -534,7 +534,7 @@
     {
       "JP": "その間に一塁ランナーは二塁へ",
       "EN": "First base runner advances to second.",
-      "Translation": "First base runner advances to second."
+      "Translation": "此时一垒跑者推进至二垒。"
     },
     {
       "JP": "　",
@@ -544,7 +544,7 @@
     {
       "JP": "バッターは一塁へ",
       "EN": "Batter walks to first.",
-      "Translation": "Batter walks to first."
+      "Translation": "击球手走向一垒。"
     },
     {
       "JP": "　",
@@ -554,12 +554,12 @@
     {
       "JP": "三塁ランナー飛び出している！",
       "EN": "Third base runner dashes!",
-      "Translation": "Third base runner dashes!"
+      "Translation": "三垒跑者冲刺！"
     },
     {
       "JP": "$dタッチアウト！",
       "EN": "$dTagged out!",
-      "Translation": "$dTagged out!"
+      "Translation": "$d触杀出局！"
     },
     {
       "JP": "　",
@@ -569,17 +569,17 @@
     {
       "JP": "$(7,0)、三塁へ送球するが――",
       "EN": "$(7,1) throws the ball to third―― ",
-      "Translation": "$(7,1) throws the ball to third―― "
+      "Translation": "$(7,1) 向三垒传球―― "
     },
     {
       "JP": "$(7,0)、三塁へ送球――！",
       "EN": "$(7,1) throws the ball to third――!",
-      "Translation": "$(7,1) throws the ball to third――!"
+      "Translation": "$(7,1) 向三垒传球――!"
     },
     {
       "JP": "$(7,0)、三塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to third! It's a close race――",
-      "Translation": "$(7,1) throws the ball to third! It's a close race――"
+      "Translation": "$(7,1) 向三垒传球! 千钧一发――"
     },
     {
       "JP": "　",
@@ -589,7 +589,7 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
@@ -599,7 +599,7 @@
     {
       "JP": "タッチアウト！",
       "EN": "Tagged out!",
-      "Translation": "Tagged out!"
+      "Translation": "触杀出局！"
     },
     {
       "JP": "　",
@@ -609,17 +609,17 @@
     {
       "JP": "$(7,0)、二塁へ送球するが――",
       "EN": "$(7,1) throws the ball to second―― ",
-      "Translation": "$(7,1) throws the ball to second―― "
+      "Translation": "$(7,1) 向二垒传球―― "
     },
     {
       "JP": "$(7,0)、二塁へ送球――！",
       "EN": "$(7,1) throws the ball to second!",
-      "Translation": "$(7,1) throws the ball to second!"
+      "Translation": "$(7,1) 向二垒传球――！"
     },
     {
       "JP": "$(7,0)、二塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to second! It's a close race――",
-      "Translation": "$(7,1) throws the ball to second! It's a close race――"
+      "Translation": "$(7,1) 向二垒传球！千钧一发――"
     },
     {
       "JP": "　",
@@ -649,7 +649,7 @@
     {
       "JP": "その間に二塁ランナーは三塁へ",
       "EN": "Second base runner advances to third.",
-      "Translation": "Second base runner advances to third."
+      "Translation": "二垒跑者推进至三垒"
     },
     {
       "JP": "　",
@@ -659,7 +659,7 @@
     {
       "JP": "その間に一塁ランナーは二塁へ",
       "EN": "First base runner advances to second.",
-      "Translation": "First base runner advances to second."
+      "Translation": "一垒跑者推进至二垒"
     },
     {
       "JP": "　",
@@ -669,7 +669,7 @@
     {
       "JP": "キャッチャーの返球と同時に、三塁ランナーがホームへと突っ込んできた！",
       "EN": "Just as the catcher returns the ball, third base runner dashes home!",
-      "Translation": "Just as the catcher returns the ball, third base runner dashes home!"
+      "Translation": "捕手回球的同时，三垒跑者冲向本垒！"
     },
     {
       "JP": "　",
@@ -679,17 +679,17 @@
     {
       "JP": "$(7,0)、急いでホームへ送球するが――",
       "EN": "$(7,1) hurries to throw the ball home―― ",
-      "Translation": "$(7,1) hurries to throw the ball home―― "
+      "Translation": "$(7,1) 立刻将球传向本垒―― "
     },
     {
       "JP": "$(7,0)、急いでホームへ送球――！",
       "EN": "$(7,1) hurries to throw the ball home――!",
-      "Translation": "$(7,1) hurries to throw the ball home――!"
+      "Translation": "$(7,1) 立刻将球传向本垒――！"
     },
     {
       "JP": "$(7,0)、急いでホームへ送球！　きわどいタイミング――",
       "EN": "$(7,1) hurries to throw the ball home! It's a close race――",
-      "Translation": "$(7,1) hurries to throw the ball home! It's a close race――"
+      "Translation": "$(7,1) 立刻将球传向本垒―！千钧一发――"
     },
     {
       "JP": "　",
@@ -699,7 +699,7 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "",
@@ -709,7 +709,7 @@
     {
       "JP": "三塁ランナー、ホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "　",
@@ -719,7 +719,7 @@
     {
       "JP": "タッチアウト！",
       "EN": "Tagged out!",
-      "Translation": "Tagged out!"
+      "Translation": "触杀出局！"
     },
     {
       "JP": "　",
@@ -729,7 +729,7 @@
     {
       "JP": "スリーアウトチェンジ！",
       "EN": "Three outs, change!",
-      "Translation": "Three outs, change!"
+      "Translation": "三次出局，换场！"
     },
     {
       "JP": "　",
@@ -739,7 +739,7 @@
     {
       "JP": "ゲームセット！",
       "EN": "Game set!",
-      "Translation": "Game set!"
+      "Translation": "比赛结束！"
     },
     {
       "JP": "　",
@@ -749,7 +749,7 @@
     {
       "JP": "ゲームセット！",
       "EN": "Game set!",
-      "Translation": "Game set!"
+      "Translation": "比赛结束！"
     },
     {
       "JP": "　",
@@ -759,7 +759,7 @@
     {
       "JP": "ゲームセット！",
       "EN": "Game set!",
-      "Translation": "Game set!"
+      "Translation": "比赛结束！"
     },
     {
       "JP": "　",
@@ -769,7 +769,7 @@
     {
       "JP": "ファール…$d打球はファールグラウンドへ",
       "EN": "Foul...\nThe ball flies into foul territory.",
-      "Translation": "Foul...\nThe ball flies into foul territory."
+      "Translation": "出界…$d球进入了界外区"
     },
     {
       "JP": "　",
@@ -779,22 +779,22 @@
     {
       "JP": "ファールフライ…$d",
       "EN": "Foul territory...\n",
-      "Translation": "Foul territory...\n"
+      "Translation": "界外区…$d"
     },
     {
       "JP": "ボールはキャッチャーの頭上へ…",
       "EN": "The ball flies over the head of the catcher...",
-      "Translation": "The ball flies over the head of the catcher..."
+      "Translation": "球从捕手头顶飞过..."
     },
     {
       "JP": "ボールはファーストの頭上へ…",
       "EN": "The ball flies over the head of the first baseman...",
-      "Translation": "The ball flies over the head of the first baseman..."
+      "Translation": "球从一垒手头顶飞过…"
     },
     {
       "JP": "ボールはサードの頭上へ…",
       "EN": "The ball flies over the head of the third baseman...",
-      "Translation": "The ball flies over the head of the third baseman..."
+      "Translation": "球从三垒手头顶飞过…"
     },
     {
       "JP": "　",
@@ -804,7 +804,7 @@
     {
       "JP": "$(7,0)はボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1) catches the ball!"
+      "Translation": "$(7,1)接住了球!"
     },
     {
       "JP": "　",
@@ -814,7 +814,7 @@
     {
       "JP": "なんと、$(7,0)はボールをこぼしてしまった！",
       "EN": "Amazingly, $(7,1) drops the ball!",
-      "Translation": "Amazingly, $(7,1) drops the ball!"
+      "Translation": "天哪, $(7,1)掉球了！"
     },
     {
       "JP": "　",
@@ -824,7 +824,7 @@
     {
       "JP": "ファール…$d打球はファールグラウンドへ",
       "EN": "Foul...\nThe ball flies into foul territory.",
-      "Translation": "Foul...\nThe ball flies into foul territory."
+      "Translation": "出界…$d球进入了界外区"
     },
     {
       "JP": "　",
@@ -834,12 +834,12 @@
     {
       "JP": "ファール…$d",
       "EN": "Foul...\n",
-      "Translation": "Foul...\n"
+      "Translation": "出界…\n"
     },
     {
       "JP": "スリーバント失敗！　バッターアウト！",
       "EN": "Failed attempt at a bunt after two strikes! Batter out!",
-      "Translation": "Failed attempt at a bunt after two strikes! Batter out!"
+      "Translation": "三次短打失败！击球手出局！"
     },
     {
       "JP": "　",
@@ -849,57 +849,57 @@
     {
       "JP": "ファールグラウンドに、小フライを打ち上げてしまった…$d",
       "EN": "The fly ball goes into foul territory...\n",
-      "Translation": "The fly ball goes into foul territory...\n"
+      "Translation": "小飞球飞向了界外区…$d"
     },
     {
       "JP": "キャッチャーがグラブを構える――",
       "EN": "Catcher prepares their glove―― ",
-      "Translation": "Catcher prepares their glove―― "
+      "Translation": "捕手准备好手套――"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)はボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1) catches the ball!"
+      "Translation": "$(7,1)接住了球！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "なんと、$(7,0)はボールをこぼしてしまった！",
       "EN": "Amazingly, $(7,1) drops the ball!",
-      "Translation": "Amazingly, $(7,1) drops the ball!"
+      "Translation": "天哪，$(7,1)掉球了！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "ファール…$d",
       "EN": "Foul...\n",
-      "Translation": "Foul...\n"
+      "Translation": "界外…\n"
     },
     {
       "JP": "スリーバント失敗！　バッターアウト！",
       "EN": "Failed attempt at a bunt after two strikes! Batter out!",
-      "Translation": "Failed attempt at a bunt after two strikes! Batter out!"
+      "Translation": "三次短打失败！击球手出局！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "コン…$dボールの下に当たって、小さなフライを打ち上げてしまった…",
       "EN": "Slam...\nThe bat hits the bottom of the ball, it's a fly ball...",
-      "Translation": "Slam...\nThe bat hits the bottom of the ball, it's a fly ball..."
+      "Translation": "砰…$d球棒击中了球的底部，打出了一个小飞球…"
     },
     {
       "JP": "",
@@ -909,12 +909,12 @@
     {
       "JP": "ピッチャーがグラブを構える――",
       "EN": "Pitcher prepares their glove―― ",
-      "Translation": "Pitcher prepares their glove―― "
+      "Translation": "投手准备好手套――"
     },
     {
       "JP": "キャッチャーがグラブを構える――",
       "EN": "Catcher prepares their glove―― ",
-      "Translation": "Catcher prepares their glove―― "
+      "Translation": "捕手准备好手套――"
     },
     {
       "JP": "",
@@ -924,97 +924,97 @@
     {
       "JP": "$(7,0)はボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1) catches the ball!"
+      "Translation": "$(7,1)接住了球！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)はボールをこぼしてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) drops the ball and picks it up in a panic!",
-      "Translation": "$(7,1) drops the ball and picks it up in a panic!"
+      "Translation": "$(7,1)掉球了！慌忙捡起了球"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "『故意落球の宣告』により、バッターランナーはアウト！$d",
       "EN": "❝Fake fumble,❞ batter-runner's out!\n",
-      "Translation": "❝Fake fumble,❞ batter-runner's out!\n"
+      "Translation": "由于『故意落球』，击球手跑者出局！$d"
     },
     {
       "JP": "ランナーはそのまま",
       "EN": "The runner stays at base.",
-      "Translation": "The runner stays at base."
+      "Translation": "跑者保持原位"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "一塁はセーフ！$d",
       "EN": " And first base is safe!\n",
-      "Translation": " And first base is safe!\n"
+      "Translation": "一垒安全！\n"
     },
     {
       "JP": "ランナーはそのまま",
       "EN": "The runner stays at base.",
-      "Translation": "The runner stays at base."
+      "Translation": "跑者保持原位"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "与此同时，三垒跑者回到本垒得分！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "その間に二塁ランナーは三塁へ",
       "EN": "Second base runner advances to third.",
-      "Translation": "Second base runner advances to third."
+      "Translation": "与此同时，二垒跑者推进到三垒"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "その間に一塁ランナーは二塁へ",
       "EN": "First base runner advances to second.",
-      "Translation": "First base runner advances to second."
+      "Translation": "与此同时，一垒跑者推进到二垒"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "一塁はセーフ！",
       "EN": "And first base is safe!",
-      "Translation": "And first base is safe!"
+      "Translation": "一垒安全！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "コン…$dボールの下に当たって、小さなフライを打ち上げてしまった…",
       "EN": "Slam...\nThe bat hits the bottom of the ball, it's a fly ball...",
-      "Translation": "Slam...\nThe bat hits the bottom of the ball, it's a fly ball..."
+      "Translation": "砰…球棒击中了球的底部，打出了一个小飞球…"
     },
     {
       "JP": "",
@@ -1024,12 +1024,12 @@
     {
       "JP": "ピッチャーがグラブを構える――",
       "EN": "Pitcher prepares their glove―― ",
-      "Translation": "Pitcher prepares their glove―― "
+      "Translation": "投手准备好手套――"
     },
     {
       "JP": "キャッチャーがグラブを構える――",
       "EN": "Catcher prepares their glove―― ",
-      "Translation": "Catcher prepares their glove―― "
+      "Translation": "捕手准备好手套――"
     },
     {
       "JP": "　",
@@ -1039,7 +1039,7 @@
     {
       "JP": "$(7,0)はボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1) catches the ball!"
+      "Translation": "$(7,1)接住了球！"
     },
     {
       "JP": "　",
@@ -1049,12 +1049,12 @@
     {
       "JP": "三塁ランナー、塁に戻ろうとするが間に合わない！",
       "EN": "Third base runner attempts to return to base but doesn't make it!",
-      "Translation": "Third base runner attempts to return to base but doesn't make it!"
+      "Translation": "三垒跑手企图回到本垒，但来不及了！"
     },
     {
       "JP": "$dアウト！",
       "EN": "$dOut!",
-      "Translation": "$dOut!"
+      "Translation": "$d出局！"
     },
     {
       "JP": "　",
@@ -1064,7 +1064,7 @@
     {
       "JP": "コン$d勢いを殺された打球が地面を転がる…",
       "EN": "Slam\nA weak grounder...",
-      "Translation": "Slam\nA weak grounder..."
+      "Translation": "砰$d气势全无的滚地球…"
     },
     {
       "JP": "",
@@ -1074,27 +1074,27 @@
     {
       "JP": "ピッチャー正面へボールが転がる…",
       "EN": "It bounces right to the pitcher...",
-      "Translation": "It bounces right to the pitcher..."
+      "Translation": "球滚向投手正面…"
     },
     {
       "JP": "ファースト方向へボールが転がる…",
       "EN": "It bounces to first base...",
-      "Translation": "It bounces to first base..."
+      "Translation": "球滚向一垒…"
     },
     {
       "JP": "サード方向へボールが転がる…",
       "EN": "It bounces to third base...",
-      "Translation": "It bounces to third base..."
+      "Translation": "球滚向三垒…"
     },
     {
       "JP": "一塁線ぎりぎりへボールが転がる…",
       "EN": "It barely bounces toward the first base line...",
-      "Translation": "It barely bounces toward the first base line..."
+      "Translation": "球滚向了一垒线附近…"
     },
     {
       "JP": "三塁線ぎりぎりへボールが転がる…",
       "EN": "It barely bounces toward the third base line...",
-      "Translation": "It barely bounces toward the third base line..."
+      "Translation": "球滚向了三垒线附近…"
     },
     {
       "JP": "　",
@@ -1104,7 +1104,7 @@
     {
       "JP": "コン$d勢いを殺された打球が地面を転がる…",
       "EN": "Slam\nA weak grounder...",
-      "Translation": "Slam\nA weak grounder..."
+      "Translation": "砰$d气势全无的滚地球…"
     },
     {
       "JP": "",
@@ -1114,27 +1114,27 @@
     {
       "JP": "ピッチャー正面へボールが転がる…",
       "EN": "It bounces right to the pitcher...",
-      "Translation": "It bounces right to the pitcher..."
+      "Translation": "球滚向投手正面…"
     },
     {
       "JP": "ファースト方向へボールが転がる…",
       "EN": "It bounces to first base...",
-      "Translation": "It bounces to first base..."
+      "Translation": "球滚向一垒…"
     },
     {
       "JP": "サード方向へボールが転がる…",
       "EN": "It bounces to third base...",
-      "Translation": "It bounces to third base..."
+      "Translation": "球滚向三垒…"
     },
     {
       "JP": "一塁線ぎりぎりへボールが転がる…",
       "EN": "It barely bounces toward the first base line...",
-      "Translation": "It barely bounces toward the first base line..."
+      "Translation": "球滚向了一垒线附近…"
     },
     {
       "JP": "三塁線ぎりぎりへボールが転がる…",
       "EN": "It barely bounces toward the third base line...",
-      "Translation": "It barely bounces toward the third base line..."
+      "Translation": "球滚向了三垒线附近…"
     },
     {
       "JP": "　",
@@ -1144,7 +1144,7 @@
     {
       "JP": "コン$d勢いを殺された打球が地面を転がる…",
       "EN": "Slam\nA weak grounder...",
-      "Translation": "Slam\nA weak grounder..."
+      "Translation": "砰$d气势全无的滚地球…"
     },
     {
       "JP": "",
@@ -1154,27 +1154,27 @@
     {
       "JP": "ピッチャー正面へボールが転がる…",
       "EN": "It bounces right to the pitcher...",
-      "Translation": "It bounces right to the pitcher..."
+      "Translation": "球滚向投手正面…"
     },
     {
       "JP": "ファースト方向へボールが転がる…",
       "EN": "It bounces to first base...",
-      "Translation": "It bounces to first base..."
+      "Translation": "球滚向一垒…"
     },
     {
       "JP": "サード方向へボールが転がる…",
       "EN": "It bounces to third base...",
-      "Translation": "It bounces to third base..."
+      "Translation": "球滚向三垒…"
     },
     {
       "JP": "一塁線ぎりぎりへボールが転がる…",
       "EN": "It barely bounces toward the first base line...",
-      "Translation": "It barely bounces toward the first base line..."
+      "Translation": "球滚向了一垒线附近…"
     },
     {
       "JP": "三塁線ぎりぎりへボールが転がる…",
       "EN": "It barely bounces toward the third base line...",
-      "Translation": "It barely bounces toward the third base line..."
+      "Translation": "球滚向了三垒线附近…"
     },
     {
       "JP": "　",
@@ -1184,22 +1184,22 @@
     {
       "JP": "カコン…$d",
       "EN": "Slam...\n",
-      "Translation": "Slam...\n"
+      "Translation": "砰…$d"
     },
     {
       "JP": "打った。弱い当たり。",
       "EN": "It connects. Weak hit.",
-      "Translation": "It connects. Weak hit."
+      "Translation": "打出，弱击。"
     },
     {
       "JP": "打った。軽い当たり。",
       "EN": "It connects. Soft hit.",
-      "Translation": "It connects. Soft hit."
+      "Translation": "打出，轻击。"
     },
     {
       "JP": "打った。打ち損じた当たり。",
       "EN": "It connects. Mishit. ",
-      "Translation": "It connects. Mishit. "
+      "Translation": "打出，击球失误。"
     },
     {
       "JP": "",
@@ -1209,72 +1209,72 @@
     {
       "JP": "ピッチャー正面へのぼてぼてのゴロ…",
       "EN": "The grounder bounces toward the pitcher...",
-      "Translation": "The grounder bounces toward the pitcher..."
+      "Translation": "滚地球向投手弹去…"
     },
     {
       "JP": "ファースト正面へのぼてぼてのゴロ…",
       "EN": "The grounder bounces right to first base...",
-      "Translation": "The grounder bounces right to first base..."
+      "Translation": "滚地球正好弹向一垒…"
     },
     {
       "JP": "セカンド正面へのぼてぼてのゴロ…",
       "EN": "The grounder bounces right to second base...",
-      "Translation": "The grounder bounces right to second base..."
+      "Translation": "滚地球正好弹向二垒…"
     },
     {
       "JP": "ショート正面へのぼてぼてのゴロ…",
       "EN": "The grounder bounces right to the shortstop...",
-      "Translation": "The grounder bounces right to the shortstop..."
+      "Translation": "滚地球正好弹向游击手…"
     },
     {
       "JP": "サード正面へのぼてぼてのゴロ…",
       "EN": "The grounder bounces right to third base...",
-      "Translation": "The grounder bounces right to third base..."
+      "Translation": "滚地球正好弹向三垒…"
     },
     {
-      "JP": "ファースト方向へのぼてぼてのゴロ…",
+      "JP": "ファースト正面へのぼてぼてのゴロ…",
       "EN": "The grounder bounces right to first base...",
-      "Translation": "The grounder bounces right to first base..."
+      "Translation": "滚地球正好弹向一垒…"
     },
     {
-      "JP": "セカンド方向へのぼてぼてのゴロ…",
+      "JP": "セカンド正面へのぼてぼてのゴロ…",
       "EN": "The grounder bounces right to second base...",
-      "Translation": "The grounder bounces right to second base..."
+      "Translation": "滚地球正好弹向二垒…"
     },
     {
-      "JP": "ショート方向へのぼてぼてのゴロ…",
+      "JP": "ショート正面へのぼてぼてのゴロ…",
       "EN": "The grounder bounces right to the shortstop...",
-      "Translation": "The grounder bounces right to the shortstop..."
+      "Translation": "滚地球正好弹向游击手…"
     },
     {
-      "JP": "サード方向へのぼてぼてのゴロ…",
+      "JP": "サード正面へのぼてぼてのゴロ…",
       "EN": "The grounder bounces right to third base...",
-      "Translation": "The grounder bounces right to third base..."
+      "Translation": "滚地球正好弹向三垒…"
     },
     {
       "JP": "一塁線ぎりぎりのぼてぼてのゴロ…",
       "EN": "The grounder barely bounces toward the first base line...",
-      "Translation": "The grounder barely bounces toward the first base line..."
+      "Translation": "滚地球勉强弹向一垒线…"
     },
     {
       "JP": "一二塁間へのぼてぼてのゴロ…",
       "EN": "The grounder bounces toward the line between the first and second...",
-      "Translation": "The grounder bounces toward the line between the first and second..."
+      "Translation": "滚地球弹向一二垒之间的线…"
     },
     {
       "JP": "二遊間へのぼてぼてのゴロ…",
       "EN": "The grounder bounces to the gap between the shortstop and second...",
-      "Translation": "The grounder bounces to the gap between the shortstop and second..."
+      "Translation": "滚地球弹向游击手和二垒之间…"
     },
     {
       "JP": "三遊間へのぼてぼてのゴロ…",
       "EN": "The grounder bounces to the gap between the shortstop and third...",
-      "Translation": "The grounder bounces to the gap between the shortstop and third..."
+      "Translation": "滚地球弹向游击手和三垒之间…"
     },
     {
       "JP": "三塁線ぎりぎりのぼてぼてのゴロ…",
       "EN": "The grounder barely bounces toward the third base line...",
-      "Translation": "The grounder barely bounces toward the third base line..."
+      "Translation": "滚地球勉强弹向三垒线…"
     },
     {
       "JP": "　",
@@ -1284,7 +1284,7 @@
     {
       "JP": "キン！$d打った。強い当たり。",
       "EN": "Slam!\nIt connects. A strong hit.",
-      "Translation": "Slam!\nIt connects. A strong hit."
+      "Translation": "砰！$d打出，强击。"
     },
     {
       "JP": "",
@@ -1294,72 +1294,72 @@
     {
       "JP": "素早いゴロがピッチャー正面へと転がる…",
       "EN": "Sharp grounder rolls right to the pitcher...",
-      "Translation": "Sharp grounder rolls right to the pitcher..."
+      "Translation": "快速的滚地球滚向投手正面…"
     },
     {
       "JP": "素早いゴロがファースト正面へと転がる…",
       "EN": "Sharp grounder rolls right to the first baseman...",
-      "Translation": "Sharp grounder rolls right to the first baseman..."
+      "Translation": "快速的滚地球滚向一垒手正面…"
     },
     {
       "JP": "素早いゴロがセカンド正面へと転がる…",
       "EN": "Sharp grounder rolls right to the second baseman...",
-      "Translation": "Sharp grounder rolls right to the second baseman..."
+      "Translation": "快速的滚地球滚向二垒手正面…"
     },
     {
       "JP": "素早いゴロがショート正面へと転がる…",
       "EN": "Sharp grounder rolls right to the shortstop...",
-      "Translation": "Sharp grounder rolls right to the shortstop..."
+      "Translation": "快速的滚地球滚向游击手正面…"
     },
     {
       "JP": "素早いゴロがサード正面へと転がる…",
       "EN": "Sharp grounder rolls right to the third baseman...",
-      "Translation": "Sharp grounder rolls right to the third baseman..."
+      "Translation": "快速的滚地球滚向三垒手正面…"
     },
     {
       "JP": "素早いゴロがファースト方向へと転がる…",
       "EN": "Sharp grounder rolls toward the first baseman...",
-      "Translation": "Sharp grounder rolls toward the first baseman..."
+      "Translation": "快速的滚地球滚向一垒手方向…"
     },
     {
       "JP": "素早いゴロがセカンド方向へと転がる…",
       "EN": "Sharp grounder rolls toward the second baseman...",
-      "Translation": "Sharp grounder rolls toward the second baseman..."
+      "Translation": "快速的滚地球滚向二垒手方向…"
     },
     {
       "JP": "素早いゴロがショート方向へと転がる…",
       "EN": "Sharp grounder rolls toward the shortstop...",
-      "Translation": "Sharp grounder rolls toward the shortstop..."
+      "Translation": "快速的滚地球滚向游击手方向…"
     },
     {
       "JP": "素早いゴロがサード方向へと転がる…",
       "EN": "Sharp grounder rolls toward the third baseman...",
-      "Translation": "Sharp grounder rolls toward the third baseman..."
+      "Translation": "快速的滚地球滚向三垒手方向…"
     },
     {
       "JP": "素早いゴロが一塁線ぎりぎりへ転がる…",
       "EN": "Sharp grounder barely bounces toward the first base line...",
-      "Translation": "Sharp grounder barely bounces toward the first base line..."
+      "Translation": "快速的滚地球勉强滚向一垒线…"
     },
     {
       "JP": "素早いゴロが一二塁間へと転がる…",
       "EN": "Sharp grounder barely bounces toward the gap between the first and second...",
-      "Translation": "Sharp grounder barely bounces toward the gap between the first and second..."
+      "Translation": "快速的滚地球勉强滚向一二垒之间…"
     },
     {
       "JP": "素早いゴロが二遊間へと転がる…",
       "EN": "Sharp grounder bounces toward the gap between the shortstop and second...",
-      "Translation": "Sharp grounder bounces toward the gap between the shortstop and second..."
+      "Translation": "快速的滚地球滚向二垒和游击手之间…"
     },
     {
       "JP": "素早いゴロが三遊間へと転がる…",
       "EN": "Sharp grounder bounces toward the gap between the shortstop and third...",
-      "Translation": "Sharp grounder bounces toward the gap between the shortstop and third..."
+      "Translation": "快速的滚地球滚向三垒和游击手之间…"
     },
     {
       "JP": "素早いゴロが三塁線ぎりぎりへ転がる…",
       "EN": "Sharp grounder barely bounces toward the third base line...",
-      "Translation": "Sharp grounder barely bounces toward the third base line..."
+      "Translation": "快速的滚地球勉强滚向三垒线…"
     },
     {
       "JP": "　",
@@ -1369,7 +1369,7 @@
     {
       "JP": "カキン！$d打った。非常に強い当たり。",
       "EN": "Slam!\nIt connects. Exceptionally strong.",
-      "Translation": "Slam!\nIt connects. Exceptionally strong."
+      "Translation": "砰！$d打出，非常强击。"
     },
     {
       "JP": "",
@@ -1379,72 +1379,72 @@
     {
       "JP": "強烈なゴロがピッチャー正面へと転がる…",
       "EN": "Hard grounder rolls right to the pitcher...",
-      "Translation": "Hard grounder rolls right to the pitcher..."
+      "Translation": "强烈的滚地球滚向投手正面…"
     },
     {
       "JP": "強烈なゴロがファースト正面へと転がる…",
       "EN": "Hard grounder rolls right to the first baseman...",
-      "Translation": "Hard grounder rolls right to the first baseman..."
+      "Translation": "强烈的滚地球滚向一垒手正面…"
     },
     {
       "JP": "強烈なゴロがセカンド正面へと転がる…",
       "EN": "Hard grounder rolls right to the second baseman...",
-      "Translation": "Hard grounder rolls right to the second baseman..."
+      "Translation": "强烈的滚地球滚向二垒手正面…"
     },
     {
       "JP": "強烈なゴロがショート正面へと転がる…",
       "EN": "Hard grounder rolls right to the shortstop...",
-      "Translation": "Hard grounder rolls right to the shortstop..."
+      "Translation": "强烈的滚地球滚向游击手正面…"
     },
     {
       "JP": "強烈なゴロがサード正面へと転がる…",
       "EN": "Hard grounder rolls right to the third baseman...",
-      "Translation": "Hard grounder rolls right to the third baseman..."
+      "Translation": "强烈的滚地球滚向三垒手正面…"
     },
     {
       "JP": "強烈なゴロがファースト方向へと転がる…",
       "EN": "Hard grounder rolls toward the first baseman...",
-      "Translation": "Hard grounder rolls toward the first baseman..."
+      "Translation": "强烈的滚地球滚向一垒方向…"
     },
     {
       "JP": "強烈なゴロがセカンド方向へと転がる…",
       "EN": "Hard grounder rolls toward the second baseman...",
-      "Translation": "Hard grounder rolls toward the second baseman..."
+      "Translation": "强烈的滚地球滚向二垒方向…"
     },
     {
       "JP": "強烈なゴロがショート方向へと転がる…",
       "EN": "Hard grounder rolls toward the shortstop...",
-      "Translation": "Hard grounder rolls toward the shortstop..."
+      "Translation": "强烈的滚地球滚向游击方向…"
     },
     {
       "JP": "強烈なゴロがサード方向へと転がる…",
       "EN": "Hard grounder rolls toward the third baseman...",
-      "Translation": "Hard grounder rolls toward the third baseman..."
+      "Translation": "强烈的滚地球滚向三垒方向…"
     },
     {
       "JP": "強烈なゴロが一塁線ぎりぎりへ転がる…",
       "EN": "Hard grounder barely bounces toward the first base line...",
-      "Translation": "Hard grounder barely bounces toward the first base line..."
+      "Translation": "强烈的滚地球勉强滚向一垒线…"
     },
     {
       "JP": "強烈なゴロが一二塁間へと転がる…",
       "EN": "Hard grounder barely bounces toward the gap between first and second...",
-      "Translation": "Hard grounder barely bounces toward the gap between first and second..."
+      "Translation": "强烈的滚地球勉强滚向一二垒之间…"
     },
     {
       "JP": "強烈なゴロが二遊間へと転がる…",
       "EN": "Hard grounder bounces toward the gap between the shortstop and second...",
-      "Translation": "Hard grounder bounces toward the gap between the shortstop and second..."
+      "Translation": "强烈的滚地球滚向二垒和游击手之间…"
     },
     {
       "JP": "強烈なゴロが三遊間へと転がる…",
       "EN": "Hard grounder bounces toward the gap between the shortstop and third...",
-      "Translation": "Hard grounder bounces toward the gap between the shortstop and third..."
+      "Translation": "强烈的滚地球滚向三垒和游击手之间…"
     },
     {
       "JP": "強烈なゴロが三塁線ぎりぎりへ転がる…",
       "EN": "Hard grounder barely bounces toward the third base line...",
-      "Translation": "Hard grounder barely bounces toward the third base line..."
+      "Translation": "强烈的滚地球勉强滚向三垒线…"
     },
     {
       "JP": "　",
@@ -1454,7 +1454,7 @@
     {
       "JP": "$(7,0)、懸命に追うが届かない！",
       "EN": "$(7,1) frantically chases the ball but can't reach it!",
-      "Translation": "$(7,1) frantically chases the ball but can't reach it!"
+      "Translation": "$(7,1) 拼命追赶但还是没能追上！"
     },
     {
       "JP": "　",
@@ -1464,7 +1464,7 @@
     {
       "JP": "ボールは外野前へと抜ける",
       "EN": "The ball goes to the outfield.",
-      "Translation": "The ball goes to the outfield."
+      "Translation": "球滚到了外野前方"
     },
     {
       "JP": "　",
@@ -1474,7 +1474,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者趁机回到本垒得分！"
     },
     {
       "JP": "　",
@@ -1484,7 +1484,7 @@
     {
       "JP": "二塁ランナーは三塁でストップ",
       "EN": "Second base runner stops at third.",
-      "Translation": "Second base runner stops at third."
+      "Translation": "二垒跑者停在三垒"
     },
     {
       "JP": "　",
@@ -1494,7 +1494,7 @@
     {
       "JP": "一塁ランナーは二塁でストップ",
       "EN": "First base runner stops at second.",
-      "Translation": "First base runner stops at second."
+      "Translation": "一垒跑者停在二垒"
     },
     {
       "JP": "　",
@@ -1504,7 +1504,7 @@
     {
       "JP": "バッターランナーは一塁でストップ",
       "EN": "Batter-runner advances to first and stops.",
-      "Translation": "Batter-runner advances to first and stops."
+      "Translation": "击球跑者停在一垒"
     },
     {
       "JP": "　",
@@ -1514,7 +1514,7 @@
     {
       "JP": "$(7,0)が打球に素早く反応する！",
       "EN": "$(7,1) instantly reacts to the ball!",
-      "Translation": "$(7,1) instantly reacts to the ball!"
+      "Translation": "$(7,1)迅速对球做出反应！"
     },
     {
       "JP": "",
@@ -1524,7 +1524,7 @@
     {
       "JP": "$(7,0)はボールを捕球",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1) catches the ball!"
+      "Translation": "$(7,1)接住了球！"
     },
     {
       "JP": "　",
@@ -1534,7 +1534,7 @@
     {
       "JP": "三塁ランナーあわてて塁に戻る。これは刺せそうにない。",
       "EN": "Third base runner hurries back to base. No chance of getting him out.",
-      "Translation": "Third base runner hurries back to base. No chance of getting him out."
+      "Translation": "三垒跑者慌忙回到垒上。看来没法刺杀他。"
     },
     {
       "JP": "　",
@@ -1544,7 +1544,7 @@
     {
       "JP": "二塁ランナーあわてて塁に戻る。これは刺せそうにない。",
       "EN": "Second base runner hurries back to base. No chance of getting him out.",
-      "Translation": "Second base runner hurries back to base. No chance of getting him out."
+      "Translation": "二垒跑者慌忙回到垒上。看来没法刺杀他。"
     },
     {
       "JP": "　",
@@ -1554,7 +1554,7 @@
     {
       "JP": "$(7,0)、バックホーム――",
       "EN": "$(7,1) throws to home plate―― ",
-      "Translation": "$(7,1) throws to home plate―― "
+      "Translation": "$(7,1)、传球到本垒――"
     },
     {
       "JP": "　",
@@ -1564,7 +1564,7 @@
     {
       "JP": "フォースアウト！",
       "EN": "The runner is out!",
-      "Translation": "The runner is out!"
+      "Translation": "跑者出局！"
     },
     {
       "JP": "　",
@@ -1574,7 +1574,7 @@
     {
       "JP": "$(7,0)、三塁へ送球――",
       "EN": "$(7,1) throws to third―― ",
-      "Translation": "$(7,1) throws to third―― "
+      "Translation": "$(7,1)、传球到三垒――"
     },
     {
       "JP": "　",
@@ -1584,7 +1584,7 @@
     {
       "JP": "フォースアウト！",
       "EN": "The runner is out!",
-      "Translation": "The runner is out!"
+      "Translation": "强迫出局！"
     },
     {
       "JP": "　",
@@ -1594,7 +1594,7 @@
     {
       "JP": "$(7,0)、二塁へ送球――",
       "EN": "$(7,1) throws to second―― ",
-      "Translation": "$(7,1) throws to second―― "
+      "Translation": "$(7,1)、传球到二垒――"
     },
     {
       "JP": "　",
@@ -1604,7 +1604,7 @@
     {
       "JP": "フォースアウト！",
       "EN": "The runner is out!",
-      "Translation": "The runner is out!"
+      "Translation": "跑者出局！"
     },
     {
       "JP": "　",
@@ -1614,17 +1614,17 @@
     {
       "JP": "$(7,0)、一塁へ送球するが――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) throws to first―― "
+      "Translation": "$(7,1)、传球到一垒――"
     },
     {
       "JP": "$(7,0)、一塁へ送球――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) throws to first―― "
+      "Translation": "$(7,1)、传球到一垒――"
     },
     {
       "JP": "$(7,0)、一塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws to first! It's a close race――",
-      "Translation": "$(7,1) throws to first! It's a close race――"
+      "Translation": "$(7,1)、传球到一垒！　千钧一发――"
     },
     {
       "JP": "　",
@@ -1634,7 +1634,7 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
@@ -1644,7 +1644,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者趁机回到本垒得分！"
     },
     {
       "JP": "　",
@@ -1654,7 +1654,7 @@
     {
       "JP": "その間に二塁ランナーは三塁へ",
       "EN": "Second base runner advances to third.",
-      "Translation": "Second base runner advances to third."
+      "Translation": "二垒跑者趁机推进至三垒"
     },
     {
       "JP": "　",
@@ -1664,7 +1664,7 @@
     {
       "JP": "その間に一塁ランナーは二塁へ",
       "EN": "First base runner advances to second.",
-      "Translation": "First base runner advances to second."
+      "Translation": "一垒跑者趁机推进至二垒"
     },
     {
       "JP": "　",
@@ -1674,7 +1674,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
@@ -1684,7 +1684,7 @@
     {
       "JP": "$(7,0)、一塁へ送球――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) throws to first―― "
+      "Translation": "$(7,1)、传球到一垒――"
     },
     {
       "JP": "　",
@@ -1694,7 +1694,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
@@ -1704,7 +1704,7 @@
     {
       "JP": "$(7,0)、バックホーム――",
       "EN": "$(7,1) throws to home plate―― ",
-      "Translation": "$(7,1) throws to home plate―― "
+      "Translation": "$(7,1)、传球到本垒――"
     },
     {
       "JP": "　",
@@ -1714,7 +1714,7 @@
     {
       "JP": "フォースアウト！",
       "EN": "The runner is out!",
-      "Translation": "The runner is out!"
+      "Translation": "跑者出局！"
     },
     {
       "JP": "　",
@@ -1724,7 +1724,7 @@
     {
       "JP": "$(7,0)、三塁へ送球――",
       "EN": "$(7,1) throws to third―― ",
-      "Translation": "$(7,1) throws to third―― "
+      "Translation": "$(7,1) 传球到三垒――"
     },
     {
       "JP": "　",
@@ -1734,7 +1734,7 @@
     {
       "JP": "フォースアウト！",
       "EN": "The runner is out!",
-      "Translation": "The runner is out!"
+      "Translation": "跑者出局！"
     },
     {
       "JP": "　",
@@ -1744,7 +1744,7 @@
     {
       "JP": "$(7,0)、二塁へ送球――",
       "EN": "$(7,1) throws to second―― ",
-      "Translation": "$(7,1) throws to second―― "
+      "Translation": "$(7,1) 传球到二垒――"
     },
     {
       "JP": "　",
@@ -1754,7 +1754,7 @@
     {
       "JP": "フォースアウト！",
       "EN": "The runner is out!",
-      "Translation": "The runner is out!"
+      "Translation": "跑者出局！"
     },
     {
       "JP": "　",
@@ -1764,7 +1764,7 @@
     {
       "JP": "$(7,0)、一塁へ送球――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) throws to first―― "
+      "Translation": "$(7,1) 传球到一垒――"
     },
     {
       "JP": "　",
@@ -1774,7 +1774,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
@@ -1784,17 +1784,18 @@
     {
       "JP": "$(7,0)、バックホーム――",
       "EN": "$(7,1) throws to home plate―― ",
-      "Translation": "$(7,1) throws to home plate―― "
+      "Translation": "$(7,1) 传球到本垒――"
     },
     {
       "JP": "　",
       "EN": " ",
+      
       "Translation": " "
     },
     {
       "JP": "フォースアウト！",
       "EN": "The runner is out!",
-      "Translation": "The runner is out!"
+      "Translation": "跑者出局！"
     },
     {
       "JP": "　",
@@ -1804,7 +1805,7 @@
     {
       "JP": "$(7,0)、三塁へ送球――",
       "EN": "$(7,1) throws to third―― ",
-      "Translation": "$(7,1) throws to third―― "
+      "Translation": "$(7,1) 把球传向三垒――"
     },
     {
       "JP": "　",
@@ -1814,7 +1815,7 @@
     {
       "JP": "フォースアウト！",
       "EN": "The runner is out!",
-      "Translation": "The runner is out!"
+      "Translation": "跑者出局！"
     },
     {
       "JP": "　",
@@ -1824,7 +1825,7 @@
     {
       "JP": "$(7,0)、二塁へ送球――",
       "EN": "$(7,1) throws to second―― ",
-      "Translation": "$(7,1) throws to second―― "
+      "Translation": "$(7,1) 把球传向二垒――"
     },
     {
       "JP": "　",
@@ -1834,7 +1835,7 @@
     {
       "JP": "フォースアウト！",
       "EN": "The runner is out!",
-      "Translation": "The runner is out!"
+      "Translation": "跑者出局！"
     },
     {
       "JP": "　",
@@ -1844,17 +1845,17 @@
     {
       "JP": "$(7,0)、一塁へ送球するが――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) throws to first―― "
+      "Translation": "$(7,1) 把球传向一垒――"
     },
     {
       "JP": "$(7,0)、一塁へ送球――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) throws to first―― "
+      "Translation": "$(7,1) 把球传向一垒――"
     },
     {
       "JP": "$(7,0)、一塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws to first! It's a close race――",
-      "Translation": "$(7,1) throws to first! It's a close race――"
+      "Translation": "$(7,1) 把球传向一垒！ 千钧一发――"
     },
     {
       "JP": "　",
@@ -1864,7 +1865,7 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
@@ -1874,7 +1875,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "　",
@@ -1884,7 +1885,7 @@
     {
       "JP": "その間に二塁ランナーは三塁へ",
       "EN": "Second base runner advances to third.",
-      "Translation": "Second base runner advances to third."
+      "Translation": "二垒跑者推进至三垒。"
     },
     {
       "JP": "　",
@@ -1894,7 +1895,7 @@
     {
       "JP": "その間に一塁ランナーは二塁へ",
       "EN": "First base runner advances to second.",
-      "Translation": "First base runner advances to second."
+      "Translation": "一垒跑者推进至二垒。"
     },
     {
       "JP": "　",
@@ -1904,7 +1905,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
@@ -1914,7 +1915,7 @@
     {
       "JP": "三塁ランナーは本塁へ。これは刺せそうにない。",
       "EN": "Third base runner takes off for home plate. No chance of getting him out.",
-      "Translation": "Third base runner takes off for home plate. No chance of getting him out."
+      "Translation": "三垒跑者冲向本垒。看起来没有刺杀的机会。"
     },
     {
       "JP": "　",
@@ -1924,12 +1925,12 @@
     {
       "JP": "$(7,0)、バックホーム！",
       "EN": "$(7,1) throws to home plate!",
-      "Translation": "$(7,1) throws to home plate!"
+      "Translation": "$(7,1) 把球传向本垒！"
     },
     {
       "JP": "$(7,0)、バックホーム！　きわどいタイミング――",
       "EN": "$(7,1) throws to home plate! It's a close race――",
-      "Translation": "$(7,1) throws to home plate! It's a close race――"
+      "Translation": "$(7,1) 把球传向本垒！ 千钧一发――"
     },
     {
       "JP": "　",
@@ -1939,17 +1940,17 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "タッチが間に合わない！　セーフ！",
       "EN": "Failed to tag up! Safe!",
-      "Translation": "Failed to tag up! Safe!"
+      "Translation": "没能触杀！ 安全上垒！"
     },
     {
       "JP": "$d三塁ランナー、ホームに到達",
       "EN": "$dThird base runner crosses home plate.",
-      "Translation": "$dThird base runner crosses home plate."
+      "Translation": "$d三垒跑者到达本垒。"
     },
     {
       "JP": "　",
@@ -1964,7 +1965,7 @@
     {
       "JP": "三塁ランナー、ホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "　",
@@ -1974,7 +1975,7 @@
     {
       "JP": "$d三塁ランナー、ホームに到達",
       "EN": "$dThird base runner crosses home plate.",
-      "Translation": "$dThird base runner crosses home plate."
+      "Translation": "$d三垒跑者到达本垒。"
     },
     {
       "JP": "　",
@@ -1989,7 +1990,7 @@
     {
       "JP": "三塁ランナー、ホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "　",
@@ -1999,12 +2000,12 @@
     {
       "JP": "三塁ランナー、フォースアウト！",
       "EN": "Third base runner is forced out!",
-      "Translation": "Third base runner is forced out!"
+      "Translation": "三垒跑者被迫出局！"
     },
     {
       "JP": "三塁ランナー、タッチアウト！",
       "EN": "Third base runner is tagged out!",
-      "Translation": "Third base runner is tagged out!"
+      "Translation": "三垒跑者被触杀出局！"
     },
     {
       "JP": "　",
@@ -2014,7 +2015,7 @@
     {
       "JP": "二塁ランナーは三塁へ。これは刺せそうにない。",
       "EN": "Second base runner takes off to third. No chance of getting him out.",
-      "Translation": "Second base runner takes off to third. No chance of getting him out."
+      "Translation": "二垒跑者前进到三垒。看起来没有刺杀的机会。"
     },
     {
       "JP": "　",
@@ -2024,12 +2025,12 @@
     {
       "JP": "$(7,0)、三塁へ送球！",
       "EN": "$(7,1) throws to third!",
-      "Translation": "$(7,1) throws to third!"
+      "Translation": "$(7,1) 把球传向三垒！"
     },
     {
       "JP": "$(7,0)、三塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to third! It's a close race――",
-      "Translation": "$(7,1) throws the ball to third! It's a close race――"
+      "Translation": "$(7,1) 把球传向三垒！千钧一发――"
     },
     {
       "JP": "　",
@@ -2039,12 +2040,12 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "タッチが間に合わない！　セーフ！",
       "EN": "Failed to tag up! Safe!",
-      "Translation": "Failed to tag up! Safe!"
+      "Translation": "没能触杀！ 安全上垒！"
     },
     {
       "JP": "　",
@@ -2054,12 +2055,12 @@
     {
       "JP": "二塁ランナー、フォースアウト！",
       "EN": "Second base runner is forced out!",
-      "Translation": "Second base runner is forced out!"
+      "Translation": "二垒跑者被迫出局！"
     },
     {
       "JP": "二塁ランナー、タッチアウト！",
       "EN": "Second base runner is tagged out!",
-      "Translation": "Second base runner is tagged out!"
+      "Translation": "二垒跑者被触杀出局！"
     },
     {
       "JP": "　",
@@ -2069,7 +2070,7 @@
     {
       "JP": "一塁ランナーは二塁へ。これは刺せそうにない。",
       "EN": "First base runner takes off for the second. No chance of getting him out.",
-      "Translation": "First base runner takes off for the second. No chance of getting him out."
+      "Translation": "一垒跑者前进到二垒。看起来没有刺杀的机会。"
     },
     {
       "JP": "　",
@@ -2079,12 +2080,12 @@
     {
       "JP": "$(7,0)、二塁へ送球！",
       "EN": "$(7,1) throws to second! ",
-      "Translation": "$(7,1) throws to second! "
+      "Translation": "$(7,1) 把球传向二垒！"
     },
     {
       "JP": "$(7,0)、二塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to second! It's a close race――",
-      "Translation": "$(7,1) throws the ball to second! It's a close race――"
+      "Translation": "$(7,1) 把球传向二垒！ 千钧一发――"
     },
     {
       "JP": "　",
@@ -2094,12 +2095,12 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "タッチが間に合わない！　セーフ！",
       "EN": "Failed to tag up! Safe!",
-      "Translation": "Failed to tag up! Safe!"
+      "Translation": "没能触杀！ 安全上垒！"
     },
     {
       "JP": "　",
@@ -2109,12 +2110,12 @@
     {
       "JP": "一塁ランナー、フォースアウト！",
       "EN": "First base runner is forced out!",
-      "Translation": "First base runner is forced out!"
+      "Translation": "一垒跑者被迫出局！"
     },
     {
       "JP": "一塁ランナー、タッチアウト！",
       "EN": "First base runner is tagged out!",
-      "Translation": "First base runner is tagged out!"
+      "Translation": "一垒跑者被触杀出局！"
     },
     {
       "JP": "　",
@@ -2124,17 +2125,17 @@
     {
       "JP": "$(7,0)、一塁へ送球するが――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) throws to first―― "
+      "Translation": "$(7,1) 把球传向一垒――"
     },
     {
       "JP": "$(7,0)、一塁へ送球！",
       "EN": "$(7,1) throws to first! ",
-      "Translation": "$(7,1) throws to first! "
+      "Translation": "$(7,1) 把球传向一垒！"
     },
     {
       "JP": "$(7,0)、一塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws to first! It's a close race――",
-      "Translation": "$(7,1) throws to first! It's a close race――"
+      "Translation": "$(7,1) 把球传向一垒！ 千钧一发―"
     },
     {
       "JP": "　",
@@ -2144,7 +2145,7 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "",
@@ -2154,7 +2155,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "",
@@ -2164,7 +2165,7 @@
     {
       "JP": "三塁ランナー、ホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "　",
@@ -2174,7 +2175,7 @@
     {
       "JP": "$(7,0)を強襲！　ボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) has dropped the ball! What a thing to happen! It's being picked up in a panic.",
-      "Translation": "$(7,1) has dropped the ball! What a thing to happen! It's being picked up in a panic."
+      "Translation": "$(7,1) 强袭！ 球被打飞了！ 慌忙捡起球"
     },
     {
       "JP": "　",
@@ -2184,7 +2185,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "　",
@@ -2194,7 +2195,7 @@
     {
       "JP": "その間に二塁ランナーは三塁へ",
       "EN": "Second base runner advances to third.",
-      "Translation": "Second base runner advances to third."
+      "Translation": "二垒跑者推进至三垒。"
     },
     {
       "JP": "　",
@@ -2204,7 +2205,7 @@
     {
       "JP": "その間に一塁ランナーは二塁へ",
       "EN": "First base runner advances to second.",
-      "Translation": "First base runner advances to second."
+      "Translation": "一垒跑者推进至二垒。"
     },
     {
       "JP": "　",
@@ -2214,7 +2215,7 @@
     {
       "JP": "一塁はセーフ！",
       "EN": "And first base is safe!",
-      "Translation": "And first base is safe!"
+      "Translation": "一垒安全！"
     },
     {
       "JP": "　",
@@ -2224,7 +2225,7 @@
     {
       "JP": "$(7,0)はボールを捕り損ねてしまった！",
       "EN": "$(7,1) fails to catch the ball!",
-      "Translation": "$(7,1) fails to catch the ball!"
+      "Translation": "$(7,1)没能接住球！"
     },
     {
       "JP": "　",
@@ -2234,7 +2235,7 @@
     {
       "JP": "ボールは外野前へと抜ける",
       "EN": "The ball goes to the outfield.",
-      "Translation": "The ball goes to the outfield."
+      "Translation": "球滚到了外野前。"
     },
     {
       "JP": "　",
@@ -2244,7 +2245,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "　",
@@ -2254,7 +2255,7 @@
     {
       "JP": "二塁ランナーは三塁でストップ",
       "EN": "Second base runner stops at third.",
-      "Translation": "Second base runner stops at third."
+      "Translation": "二垒跑者停在三垒。"
     },
     {
       "JP": "　",
@@ -2264,7 +2265,7 @@
     {
       "JP": "一塁ランナーは二塁でストップ",
       "EN": "First base runner stops at second.",
-      "Translation": "First base runner stops at second."
+      "Translation": "一垒跑者停在二垒。"
     },
     {
       "JP": "　",
@@ -2274,7 +2275,7 @@
     {
       "JP": "バッターランナーは一塁でストップ",
       "EN": "Batter-runner advances to first and stops.",
-      "Translation": "Batter-runner advances to first and stops."
+      "Translation": "击球跑者停在一垒。"
     },
     {
       "JP": "　",
@@ -2284,7 +2285,7 @@
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,1) fumbles the ball and picks it up in a panic!"
+      "Translation": "$(7,1)弹开了球！慌忙捡起球。"
     },
     {
       "JP": "　",
@@ -2294,7 +2295,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "　",
@@ -2304,7 +2305,7 @@
     {
       "JP": "その間に二塁ランナーは三塁へ",
       "EN": "Second base runner advances to third.",
-      "Translation": "Second base runner advances to third."
+      "Translation": "二垒跑者推进至三垒。"
     },
     {
       "JP": "　",
@@ -2314,7 +2315,7 @@
     {
       "JP": "その間に一塁ランナーは二塁へ",
       "EN": "First base runner advances to second.",
-      "Translation": "First base runner advances to second."
+      "Translation": "一垒跑者推进至二垒。"
     },
     {
       "JP": "　",
@@ -2324,7 +2325,7 @@
     {
       "JP": "一塁はセーフ！",
       "EN": "And first base is safe!",
-      "Translation": "And first base is safe!"
+      "Translation": "一垒安全！"
     },
     {
       "JP": "　",
@@ -2334,7 +2335,7 @@
     {
       "JP": "キィン！$d打った。強い当たり。",
       "EN": "Slam!\nIt connects. A strong hit.",
-      "Translation": "Slam!\nIt connects. A strong hit."
+      "Translation": "砰！$d打中了。强劲的击球。"
     },
     {
       "JP": "",
@@ -2344,72 +2345,72 @@
     {
       "JP": "ライナー性の打球がピッチャー正面へ…",
       "EN": "A line drive right back to the pitcher...",
-      "Translation": "A line drive right back to the pitcher..."
+      "Translation": "直线球正好打向投手..."
     },
     {
       "JP": "ライナー性の打球がファースト正面へ…",
       "EN": "A line drive right to the first baseman...",
-      "Translation": "A line drive right to the first baseman..."
+      "Translation": "直线球正好打向一垒手..."
     },
     {
       "JP": "ライナー性の打球がセカンド正面へ…",
       "EN": "A line drive right to the second baseman...",
-      "Translation": "A line drive right to the second baseman..."
+      "Translation": "直线球正好打向二垒手..."
     },
     {
       "JP": "ライナー性の打球がショート正面へ…",
       "EN": "A line drive right to the shortstop...",
-      "Translation": "A line drive right to the shortstop..."
+      "Translation": "直线球正好打向游击手..."
     },
     {
       "JP": "ライナー性の打球がサード正面へ…",
       "EN": "A line drive right to the third baseman...",
-      "Translation": "A line drive right to the third baseman..."
+      "Translation": "直线球正好打向三垒手..."
     },
     {
       "JP": "ライナー性の打球がファースト方向へ…",
       "EN": "A line drive toward the first baseman...",
-      "Translation": "A line drive toward the first baseman..."
+      "Translation": "直线球打向一垒手方向..."
     },
     {
       "JP": "ライナー性の打球がセカンド方向へ…",
       "EN": "A line drive toward the second baseman...",
-      "Translation": "A line drive toward the second baseman..."
+      "Translation": "直线球打向二垒手方向..."
     },
     {
       "JP": "ライナー性の打球がショート方向へ…",
       "EN": "A line drive toward the shortstop...",
-      "Translation": "A line drive toward the shortstop..."
+      "Translation": "直线球打向游击手方向..."
     },
     {
       "JP": "ライナー性の打球がサード方向へ…",
       "EN": "A line drive toward the third baseman...",
-      "Translation": "A line drive toward the third baseman..."
+      "Translation": "直线球打向三垒手方向..."
     },
     {
       "JP": "ライナー性の打球が一塁線ぎりぎりの方向へ…",
       "EN": "A line drive toward the first base line...",
-      "Translation": "A line drive toward the first base line..."
+      "Translation": "直线球打向一垒线边缘方向..."
     },
     {
       "JP": "ライナー性の打球が一二塁間方向へ…",
       "EN": "A line drive toward the gap between first and second...",
-      "Translation": "A line drive toward the gap between first and second..."
+      "Translation": "直线球打向一二垒间方向..."
     },
     {
       "JP": "ライナー性の打球が二遊間方向へ…",
       "EN": "A line drive toward the gap between the shortstop and second...",
-      "Translation": "A line drive toward the gap between the shortstop and second..."
+      "Translation": "直线球打向游击手和二垒间方向..."
     },
     {
       "JP": "ライナー性の打球が三遊間方向へ…",
       "EN": "A line drive toward the gap between the shortstop and third...",
-      "Translation": "A line drive toward the gap between the shortstop and third..."
+      "Translation": "直线球打向游击手和三垒间方向..."
     },
     {
       "JP": "ライナー性の打球が三塁線ぎりぎりの方向へ…",
       "EN": "A line drive toward the third base line...",
-      "Translation": "A line drive toward the third base line..."
+      "Translation": "直线球打向三垒线边缘方向..."
     },
     {
       "JP": "　",
@@ -2419,7 +2420,7 @@
     {
       "JP": "キィィン！$d打った。非常に強い当たり。",
       "EN": "Slam!\nIt connects. Exceptionally strong.",
-      "Translation": "Slam!\nIt connects. Exceptionally strong."
+      "Translation": "砰！$d打中了。非常强劲的击球。"
     },
     {
       "JP": "",
@@ -2429,72 +2430,72 @@
     {
       "JP": "痛烈なライナーがピッチャーを強襲…",
       "EN": "A hard line drive right back to the pitcher...",
-      "Translation": "A hard line drive right back to the pitcher..."
+      "Translation": "猛烈的直线球打向投手..."
     },
     {
       "JP": "痛烈なライナーがファーストを強襲…",
       "EN": "A hard line drive right to the first baseman...",
-      "Translation": "A hard line drive right to the first baseman..."
+      "Translation": "猛烈的直线球打向一垒手..."
     },
     {
       "JP": "痛烈なライナーがセカンドを強襲…",
       "EN": "A hard line drive right to the second baseman...",
-      "Translation": "A hard line drive right to the second baseman..."
+      "Translation": "猛烈的直线球打向二垒手..."
     },
     {
       "JP": "痛烈なライナーがショートを強襲…",
       "EN": "A hard line drive right to the shortstop...",
-      "Translation": "A hard line drive right to the shortstop..."
+      "Translation": "猛烈的直线球打向游击手..."
     },
     {
       "JP": "痛烈なライナーがサードを強襲…",
       "EN": "A hard line drive right to the third baseman...",
-      "Translation": "A hard line drive right to the third baseman..."
+      "Translation": "猛烈的直线球打向三垒手..."
     },
     {
       "JP": "痛烈なライナーがファースト方向へ…",
       "EN": "A hard line drive toward the first baseman...",
-      "Translation": "A hard line drive toward the first baseman..."
+      "Translation": "猛烈的直线球打向一垒手方向..."
     },
     {
       "JP": "痛烈なライナーがセカンド方向へ…",
       "EN": "A hard line drive toward the second baseman...",
-      "Translation": "A hard line drive toward the second baseman..."
+      "Translation": "猛烈的直线球打向二垒手方向..."
     },
     {
       "JP": "痛烈なライナーがショート方向へ…",
       "EN": "A hard line drive toward the shortstop...",
-      "Translation": "A hard line drive toward the shortstop..."
+      "Translation": "猛烈的直线球打向游击手方向..."
     },
     {
       "JP": "痛烈なライナーがサード方向へ…",
       "EN": "A hard line drive toward the third baseman...",
-      "Translation": "A hard line drive toward the third baseman..."
+      "Translation": "猛烈的直线球打向三垒手方向..."
     },
     {
       "JP": "痛烈なライナーが一塁線ぎりぎりの方向へ…",
       "EN": "A hard line drive toward the first base line...",
-      "Translation": "A hard line drive toward the first base line..."
+      "Translation": "猛烈的直线球打向一垒线边缘方向..."
     },
     {
       "JP": "痛烈なライナーが一二塁間方向へ…",
       "EN": "A hard line drive toward the gap between the first and second...",
-      "Translation": "A hard line drive toward the gap between the first and second..."
+      "Translation": "猛烈的直线球打向一二垒间方向..."
     },
     {
       "JP": "痛烈なライナーが二遊間方向へ…",
       "EN": "A hard line drive toward the gap between the shortstop and second...",
-      "Translation": "A hard line drive toward the gap between the shortstop and second..."
+      "Translation": "猛烈的直线球打向游击手和二垒间方向..."
     },
     {
       "JP": "痛烈なライナーが三遊間方向へ…",
       "EN": "A hard line drive toward the gap between the shortstop and third...",
-      "Translation": "A hard line drive toward the gap between the shortstop and third..."
+      "Translation": "猛烈的直线球打向游击手和三垒间方向..."
     },
     {
       "JP": "痛烈なライナーが三塁線ぎりぎりの方向へ…",
       "EN": "A hard line drive toward the third base line...",
-      "Translation": "A hard line drive toward the third base line..."
+      "Translation": "猛烈的直线球打向三垒线边缘方向..."
     },
     {
       "JP": "　",
@@ -2504,7 +2505,7 @@
     {
       "JP": "$(7,0)、懸命に追うが届かない！",
       "EN": "$(7,1) frantically chases the ball but can't reach it!",
-      "Translation": "$(7,1) frantically chases the ball but can't reach it!"
+      "Translation": "$(7,1)拼命追赶，但还是没能接到！"
     },
     {
       "JP": "　",
@@ -2514,7 +2515,7 @@
     {
       "JP": "ボールは外野前へと抜ける",
       "EN": "The ball goes to the outfield.",
-      "Translation": "The ball goes to the outfield."
+      "Translation": "球穿过外野前"
     },
     {
       "JP": "　",
@@ -2524,7 +2525,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者趁机回到本垒得分！"
     },
     {
       "JP": "　",
@@ -2534,7 +2535,7 @@
     {
       "JP": "二塁ランナーは三塁でストップ",
       "EN": "Second base runner stops at third.",
-      "Translation": "Second base runner stops at third."
+      "Translation": "二垒跑者停在三垒"
     },
     {
       "JP": "　",
@@ -2544,7 +2545,7 @@
     {
       "JP": "一塁ランナーは二塁でストップ",
       "EN": "First base runner stops at second.",
-      "Translation": "First base runner stops at second."
+      "Translation": "一垒跑者停在二垒"
     },
     {
       "JP": "　",
@@ -2554,7 +2555,7 @@
     {
       "JP": "バッターランナーは一塁でストップ",
       "EN": "Batter-runner advances to first and stops.",
-      "Translation": "Batter-runner advances to first and stops."
+      "Translation": "击球跑者停在一垒"
     },
     {
       "JP": "　",
@@ -2564,7 +2565,7 @@
     {
       "JP": "$(7,0)を強襲！　ボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) has dropped the ball! What a thing to happen! It's being picked up in a panic.",
-      "Translation": "$(7,1) has dropped the ball! What a thing to happen! It's being picked up in a panic."
+      "Translation": "$(7,1)被球击中！球弹开了！慌忙捡起球"
     },
     {
       "JP": "　",
@@ -2574,7 +2575,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者趁机回到本垒得分！"
     },
     {
       "JP": "　",
@@ -2584,7 +2585,7 @@
     {
       "JP": "その間に二塁ランナーは三塁へ",
       "EN": "Second base runner advances to third.",
-      "Translation": "Second base runner advances to third."
+      "Translation": "二垒跑者趁机推进至三垒"
     },
     {
       "JP": "　",
@@ -2594,7 +2595,7 @@
     {
       "JP": "その間に一塁ランナーは二塁へ",
       "EN": "First base runner advances to second.",
-      "Translation": "First base runner advances to second."
+      "Translation": "一垒跑者趁机推进至二垒"
     },
     {
       "JP": "　",
@@ -2604,7 +2605,7 @@
     {
       "JP": "一塁はセーフ！",
       "EN": "And first base is safe!",
-      "Translation": "And first base is safe!"
+      "Translation": "一垒安全！"
     },
     {
       "JP": "　",
@@ -2614,7 +2615,7 @@
     {
       "JP": "$(7,0)が打球に素早く反応する！",
       "EN": "$(7,1) instantly reacts to the ball!",
-      "Translation": "$(7,1) instantly reacts to the ball!"
+      "Translation": "$(7,1)迅速反应接球！"
     },
     {
       "JP": "",
@@ -2624,7 +2625,7 @@
     {
       "JP": "$(7,0)、ボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1) catches the ball!"
+      "Translation": "$(7,1)接住了球！"
     },
     {
       "JP": "　",
@@ -2634,7 +2635,7 @@
     {
       "JP": "三塁ランナー、慌てて塁へ戻る！",
       "EN": "Third base runner hurries back to base!",
-      "Translation": "Third base runner hurries back to base!"
+      "Translation": "三垒跑者慌忙回垒！"
     },
     {
       "JP": "　",
@@ -2644,7 +2645,7 @@
     {
       "JP": "二塁ランナー、慌てて塁へ戻る！",
       "EN": "Second base runner hurries back to base!",
-      "Translation": "Second base runner hurries back to base!"
+      "Translation": "二垒跑者慌忙回垒！"
     },
     {
       "JP": "　",
@@ -2654,7 +2655,7 @@
     {
       "JP": "一塁ランナー、慌てて塁へ戻る！",
       "EN": "First base runner hurries back to base!",
-      "Translation": "First base runner hurries back to base!"
+      "Translation": "一垒跑者慌忙回垒！"
     },
     {
       "JP": "　",
@@ -2664,7 +2665,7 @@
     {
       "JP": "ランナーは三塁に戻った",
       "EN": "The runner is back on third.",
-      "Translation": "The runner is back on third."
+      "Translation": "跑者回到三垒"
     },
     {
       "JP": "　",
@@ -2674,7 +2675,7 @@
     {
       "JP": "ランナーは二塁に戻った",
       "EN": "The runner is back on second.",
-      "Translation": "The runner is back on second."
+      "Translation": "跑者回到二垒"
     },
     {
       "JP": "　",
@@ -2684,7 +2685,7 @@
     {
       "JP": "ランナーは一塁に戻った",
       "EN": "The runner is back on first.",
-      "Translation": "The runner is back on first."
+      "Translation": "跑者回到一垒"
     },
     {
       "JP": "　",
@@ -2694,7 +2695,7 @@
     {
       "JP": "$(7,0)、三塁へ送球――",
       "EN": "$(7,1) throws to third―― ",
-      "Translation": "$(7,1) throws to third―― "
+      "Translation": "$(7,1)传球到三垒――"
     },
     {
       "JP": "　",
@@ -2704,7 +2705,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
@@ -2714,7 +2715,7 @@
     {
       "JP": "$(7,0)、二塁へ送球――",
       "EN": "$(7,1) throws to second―― ",
-      "Translation": "$(7,1) throws to second―― "
+      "Translation": "$(7,1)传球到二垒――"
     },
     {
       "JP": "　",
@@ -2724,7 +2725,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
@@ -2734,7 +2735,7 @@
     {
       "JP": "$(7,0)、一塁へ送球――",
       "EN": "$(7,1) throws to first―― ",
-      "Translation": "$(7,1) throws to first―― "
+      "Translation": "$(7,1)传球到一垒――"
     },
     {
       "JP": "　",
@@ -2744,7 +2745,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
@@ -2754,7 +2755,7 @@
     {
       "JP": "$(7,0)、三塁へ送球、きわどいタイミング――",
       "EN": "$(7,1) throws to third! It's a close race――",
-      "Translation": "$(7,1) throws to third! It's a close race――"
+      "Translation": "$(7,1)传球到三垒，千钧一发――"
     },
     {
       "JP": "　",
@@ -2764,7 +2765,7 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
@@ -2774,7 +2775,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
@@ -2784,7 +2785,7 @@
     {
       "JP": "$(7,0)、二塁へ送球、きわどいタイミング――",
       "EN": "$(7,1) throws to second! It's a close race――",
-      "Translation": "$(7,1) throws to second! It's a close race――"
+      "Translation": "$(7,1)传球到二垒，千钧一发――"
     },
     {
       "JP": "　",
@@ -2794,7 +2795,7 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
@@ -2804,7 +2805,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
@@ -2814,7 +2815,7 @@
     {
       "JP": "$(7,0)、一塁へ送球、きわどいタイミング――",
       "EN": "$(7,1) throws to first! It's a close race――",
-      "Translation": "$(7,1) throws to first! It's a close race――"
+      "Translation": "$(7,1)传球到一垒，千钧一发――"
     },
     {
       "JP": "　",
@@ -2824,7 +2825,7 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
@@ -2834,7 +2835,7 @@
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
@@ -2844,7 +2845,7 @@
     {
       "JP": "$(7,0)はボールを捕り損ねてしまった！",
       "EN": "$(7,1) fails to catch the ball!",
-      "Translation": "$(7,1) fails to catch the ball!"
+      "Translation": "$(7,1)没能接住球！"
     },
     {
       "JP": "　",
@@ -2854,7 +2855,7 @@
     {
       "JP": "ボールは外野前へと抜ける",
       "EN": "The ball goes to the outfield.",
-      "Translation": "The ball goes to the outfield."
+      "Translation": "球穿过外野前"
     },
     {
       "JP": "　",
@@ -2864,7 +2865,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者趁机回到本垒得分！"
     },
     {
       "JP": "　",
@@ -2874,7 +2875,7 @@
     {
       "JP": "二塁ランナーは三塁でストップ",
       "EN": "Second base runner stops at third.",
-      "Translation": "Second base runner stops at third."
+      "Translation": "二垒跑者停在三垒"
     },
     {
       "JP": "　",
@@ -2884,7 +2885,7 @@
     {
       "JP": "一塁ランナーは二塁でストップ",
       "EN": "First base runner stops at second.",
-      "Translation": "First base runner stops at second."
+      "Translation": "一垒跑者停在二垒"
     },
     {
       "JP": "　",
@@ -2894,7 +2895,7 @@
     {
       "JP": "バッターランナーは一塁でストップ",
       "EN": "Batter-runner advances to first and stops.",
-      "Translation": "Batter-runner advances to first and stops."
+      "Translation": "击球跑者停在一垒"
     },
     {
       "JP": "　",
@@ -2904,7 +2905,7 @@
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,1) fumbles the ball and picks it up in a panic!"
+      "Translation": "$(7,1)弹开了球！慌忙捡起球"
     },
     {
       "JP": "　",
@@ -2914,7 +2915,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者趁机回到本垒得分！"
     },
     {
       "JP": "　",
@@ -2924,7 +2925,7 @@
     {
       "JP": "その間に二塁ランナーは三塁へ",
       "EN": "Second base runner advances to third.",
-      "Translation": "Second base runner advances to third."
+      "Translation": "二垒跑者趁机推进至三垒"
     },
     {
       "JP": "　",
@@ -2934,7 +2935,7 @@
     {
       "JP": "その間に一塁ランナーは二塁へ",
       "EN": "First base runner advances to second.",
-      "Translation": "First base runner advances to second."
+      "Translation": "一垒跑者趁机推进至二垒"
     },
     {
       "JP": "　",
@@ -2944,7 +2945,7 @@
     {
       "JP": "一塁はセーフ！",
       "EN": "And first base is safe!",
-      "Translation": "And first base is safe!"
+      "Translation": "一垒安全！"
     },
     {
       "JP": "　",
@@ -2954,7 +2955,7 @@
     {
       "JP": "カーン…$dボールの下を叩いた。距離も伸びず打球は高く上がる。",
       "EN": "Slam! A hit on the underside of the ball.\nIt flies high but doesn't travel far.",
-      "Translation": "Slam! A hit on the underside of the ball.\nIt flies high but doesn't travel far."
+      "Translation": "砰…$d击中了球的下方。距离不远，球高高飞起。"
     },
     {
       "JP": "",
@@ -2964,27 +2965,27 @@
     {
       "JP": "平凡なフライがピッチャーの頭上へ…",
       "EN": "An average fly ball, soaring over the head of the pitcher...",
-      "Translation": "An average fly ball, soaring over the head of the pitcher..."
+      "Translation": "普通的飞球飞过投手的头顶…"
     },
     {
       "JP": "平凡なフライがファーストの頭上へ…",
       "EN": "An average fly ball, soaring over the head of the first baseman...",
-      "Translation": "An average fly ball, soaring over the head of the first baseman..."
+      "Translation": "普通的飞球飞过一垒手的头顶…"
     },
     {
       "JP": "平凡なフライがセカンドの頭上へ…",
       "EN": "An average fly ball, soaring over the head of the second baseman...",
-      "Translation": "An average fly ball, soaring over the head of the second baseman..."
+      "Translation": "普通的飞球飞过二垒手的头顶…"
     },
     {
       "JP": "平凡なフライがショートの頭上へ…",
       "EN": "An average fly ball, soaring over the head of the shortstop...",
-      "Translation": "An average fly ball, soaring over the head of the shortstop..."
+      "Translation": "普通的飞球飞过游击手的头顶…"
     },
     {
       "JP": "平凡なフライがサードの頭上へ…",
       "EN": "An average fly ball, soaring over the head of the third baseman...",
-      "Translation": "An average fly ball, soaring over the head of the third baseman..."
+      "Translation": "普通的飞球飞过三垒手的头顶…"
     },
     {
       "JP": "　",
@@ -2994,7 +2995,7 @@
     {
       "JP": "$(7,0)はボールをキャッチ！",
       "EN": "$(7,1) catches the ball!",
-      "Translation": "$(7,1) catches the ball!"
+      "Translation": "$(7,1)接住了球！"
     },
     {
       "JP": "　",
@@ -3004,7 +3005,7 @@
     {
       "JP": "$(7,0)はボールをこぼしてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) drops the ball and picks it up in a panic!",
-      "Translation": "$(7,1) drops the ball and picks it up in a panic!"
+      "Translation": "$(7,1)没接住球，慌忙捡起球"
     },
     {
       "JP": "　",
@@ -3014,12 +3015,12 @@
     {
       "JP": "『インフィールドフライの宣告』により、バッターランナーはアウト！$d",
       "EN": "❝Infield fly, batter out,❞ the umpire shouts his verdict!\n",
-      "Translation": "❝Infield fly, batter out,❞ the umpire shouts his verdict!\n"
+      "Translation": "『内野高飞球，击球员出局』裁判宣布判决！$d"
     },
     {
       "JP": "ランナーはそのまま",
       "EN": "The runner stays at base.",
-      "Translation": "The runner stays at base."
+      "Translation": "跑者留在原位"
     },
     {
       "JP": "　",
@@ -3029,12 +3030,12 @@
     {
       "JP": "『故意落球の宣告』により、バッターランナーはアウト！$d",
       "EN": "❝Fake fumble,❞ batter-runner's out!\n",
-      "Translation": "❝Fake fumble,❞ batter-runner's out!\n"
+      "Translation": "『故意落球』击球员出局！$d"
     },
     {
       "JP": "ランナーはそのまま",
       "EN": "The runner stays at base.",
-      "Translation": "The runner stays at base."
+      "Translation": "跑者留在原位"
     },
     {
       "JP": "　",
@@ -3044,12 +3045,12 @@
     {
       "JP": "一塁はセーフ！$d",
       "EN": " And first base is safe!\n",
-      "Translation": " And first base is safe!\n"
+      "Translation": "一垒安全！$d"
     },
     {
       "JP": "ランナーはそのまま",
       "EN": "The runner stays at base.",
-      "Translation": "The runner stays at base."
+      "Translation": "跑者留在原位"
     },
     {
       "JP": "　",
@@ -3059,7 +3060,7 @@
     {
       "JP": "その間に三塁ランナーはホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者回本垒得分！"
     },
     {
       "JP": "　",
@@ -3069,7 +3070,7 @@
     {
       "JP": "その間に二塁ランナーは三塁へ",
       "EN": "Second base runner advances to third.",
-      "Translation": "Second base runner advances to third."
+      "Translation": "二垒跑者推进至三垒"
     },
     {
       "JP": "　",
@@ -3079,7 +3080,7 @@
     {
       "JP": "その間に一塁ランナーは二塁へ",
       "EN": "First base runner advances to second.",
-      "Translation": "First base runner advances to second."
+      "Translation": "一垒跑者推进至二垒"
     },
     {
       "JP": "　",
@@ -3089,7 +3090,7 @@
     {
       "JP": "一塁はセーフ！",
       "EN": "And first base is safe!",
-      "Translation": "And first base is safe!"
+      "Translation": "一垒安全！"
     },
     {
       "JP": "　",
@@ -3099,7 +3100,7 @@
     {
       "JP": "カキーン！$d打った。外野に向かって打球が高く上がる。",
       "EN": "Slam!\n It connects. A high fly to the outfield.",
-      "Translation": "Slam!\n It connects. A high fly to the outfield."
+      "Translation": "砰！打中了。球高高飞向外野。"
     },
     {
       "JP": "",
@@ -3109,52 +3110,52 @@
     {
       "JP": "高く上がったフライがライトの頭上へ…",
       "EN": "A long fly ball, soaring over the head of the right fielder...",
-      "Translation": "A long fly ball, soaring over the head of the right fielder..."
+      "Translation": "高飞球越过右外野手的头顶…"
     },
     {
       "JP": "高く上がったフライがセンターの頭上へ…",
       "EN": "A long fly ball, soaring over the head of the center fielder...",
-      "Translation": "A long fly ball, soaring over the head of the center fielder..."
+      "Translation": "高飞球越过中外野手的头顶…"
     },
     {
       "JP": "高く上がったフライがレフトの頭上へ…",
       "EN": "A long fly ball, soaring over the head of the left fielder...",
-      "Translation": "A long fly ball, soaring over the head of the left fielder..."
+      "Translation": "高飞球越过左外野手的头顶…"
     },
     {
       "JP": "高く上がったフライがライト方向へ…",
       "EN": "A long fly ball, going toward right field...",
-      "Translation": "A long fly ball, going toward right field..."
+      "Translation": "高飞球飞向右外野…"
     },
     {
       "JP": "高く上がったフライがセンター方向へ…",
       "EN": "A long fly ball, going toward center field...",
-      "Translation": "A long fly ball, going toward center field..."
+      "Translation": "高飞球飞向中外野…"
     },
     {
       "JP": "高く上がったフライがレフト方向へ…",
       "EN": "A long fly ball, going toward left field...",
-      "Translation": "A long fly ball, going toward left field..."
+      "Translation": "高飞球飞向左外野…"
     },
     {
       "JP": "高く上がったフライがライト線いっぱいへ…",
       "EN": "A long fly ball, going down the right field line...",
-      "Translation": "A long fly ball, going down the right field line..."
+      "Translation": "高飞球沿着右外野线飞…"
     },
     {
       "JP": "高く上がったフライが右中間へ…",
       "EN": "A long fly ball, going to the gap between right field and center field...",
-      "Translation": "A long fly ball, going to the gap between right field and center field..."
+      "Translation": "高飞球飞向右中间…"
     },
     {
       "JP": "高く上がったフライが左中間へ…",
       "EN": "A long fly ball, going to the gap between left field and center field...",
-      "Translation": "A long fly ball, going to the gap between left field and center field..."
+      "Translation": "高飞球飞向左中间…"
     },
     {
       "JP": "高く上がったフライがレフト線いっぱいへ…",
       "EN": "A long fly ball, going down the left field line...",
-      "Translation": "A long fly ball, going down the left field line..."
+      "Translation": "高飞球沿着左外野线飞…"
     },
     {
       "JP": "　",
@@ -3164,7 +3165,7 @@
     {
       "JP": "$(7,0)はノーバウンドでボールをキャッチ！",
       "EN": "$(7,1) catches the ball in flight!",
-      "Translation": "$(7,1) catches the ball in flight!"
+      "Translation": "$(7,1)无反弹接住了球！"
     },
     {
       "JP": "　",
@@ -3174,7 +3175,7 @@
     {
       "JP": "$(7,0)はボールをこぼしてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) drops the ball and picks it up in a panic!",
-      "Translation": "$(7,1) drops the ball and picks it up in a panic!"
+      "Translation": "$(7,1)没接住球，慌忙捡起球"
     },
     {
       "JP": "　",
@@ -3184,7 +3185,7 @@
     {
       "JP": "無人のセンターにボールが落ちる！",
       "EN": "The ball falls in the empty center field!",
-      "Translation": "The ball falls in the empty center field!"
+      "Translation": "球落在无人防守的中外野！"
     },
     {
       "JP": "　",
@@ -3194,7 +3195,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1) catches up with the ball and picks it up!"
+      "Translation": "$(7,1)追上了球，急忙捡起！"
     },
     {
       "JP": "　",
@@ -3204,7 +3205,7 @@
     {
       "JP": "キーン！$d打った。外野に向かって打球が飛ぶ。",
       "EN": "Slam!\nIt connects. A fly toward the outfield.",
-      "Translation": "Slam!\nIt connects. A fly toward the outfield."
+      "Translation": "砰！打中了。球飞向外野。"
     },
     {
       "JP": "",
@@ -3214,67 +3215,67 @@
     {
       "JP": "飛んだ打球はライト正面へ…",
       "EN": "A fly ball, going straight for right field...",
-      "Translation": "A fly ball, going straight for right field..."
+      "Translation": "飞球直奔右外野…"
     },
     {
       "JP": "飛んだ打球はセンター正面へ…",
       "EN": "A fly ball, going straight for center field...",
-      "Translation": "A fly ball, going straight for center field..."
+      "Translation": "飞球直奔中外野…"
     },
     {
       "JP": "飛んだ打球はレフト正面へ…",
       "EN": "A fly ball, going straight for left field...",
-      "Translation": "A fly ball, going straight for left field..."
+      "Translation": "飞球直奔左外野…"
     },
     {
       "JP": "飛んだ打球はライト方向へ…",
       "EN": "A fly ball, going toward right field...",
-      "Translation": "A fly ball, going toward right field..."
+      "Translation": "飞球飞向右外野…"
     },
     {
       "JP": "飛んだ打球はセンター方向へ…",
       "EN": "A fly ball, going toward center field...",
-      "Translation": "A fly ball, going toward center field..."
+      "Translation": "飞球飞向中外野…"
     },
     {
       "JP": "飛んだ打球はレフト方向へ…",
       "EN": "A fly ball, going toward left field...",
-      "Translation": "A fly ball, going toward left field..."
+      "Translation": "飞球飞向左外野…"
     },
     {
       "JP": "飛んだ打球はライト手前へ…",
       "EN": "A fly ball, landing before right field...",
-      "Translation": "A fly ball, landing before right field..."
+      "Translation": "飞球落在右外野前…"
     },
     {
       "JP": "飛んだ打球はセンター手前へ…",
       "EN": "A fly ball, landing before center field...",
-      "Translation": "A fly ball, landing before center field..."
+      "Translation": "飞球落在中外野前…"
     },
     {
       "JP": "飛んだ打球はレフト手前へ…",
       "EN": "A fly ball, landing before left field...",
-      "Translation": "A fly ball, landing before left field..."
+      "Translation": "飞球落在左外野前…"
     },
     {
       "JP": "飛んだ打球はライト線いっぱいへ…",
       "EN": "A fly ball, going down the right field line...",
-      "Translation": "A fly ball, going down the right field line..."
+      "Translation": "飞球沿着右外野线飞…"
     },
     {
       "JP": "飛んだ打球は右中間へ…",
       "EN": "A fly ball, going to the gap between right field and center field...",
-      "Translation": "A fly ball, going to the gap between right field and center field..."
+      "Translation": "飞球飞向右中间…"
     },
     {
       "JP": "飛んだ打球は左中間へ…",
       "EN": "A fly ball, going to the gap between left field and center field...",
-      "Translation": "A fly ball, going to the gap between left field and center field..."
+      "Translation": "飞球飞向左中间…"
     },
     {
       "JP": "飛んだ打球はレフト線いっぱいへ…",
       "EN": "A fly ball, going down the left field line...",
-      "Translation": "A fly ball, going down the left field line..."
+      "Translation": "飞球沿着左外野线飞…"
     },
     {
       "JP": "　",
@@ -3284,7 +3285,7 @@
     {
       "JP": "$(7,0)、懸命に追うが届かない！",
       "EN": "$(7,1) frantically chases the ball but can't reach it!",
-      "Translation": "$(7,1) frantically chases the ball but can't reach it!"
+      "Translation": "$(7,1)拼命追球但没追上！"
     },
     {
       "JP": "　",
@@ -3294,7 +3295,7 @@
     {
       "JP": "ボールが後方に抜ける！",
       "EN": "The ball slips through!",
-      "Translation": "The ball slips through!"
+      "Translation": "球从后方溜走了！"
     },
     {
       "JP": "　",
@@ -3304,7 +3305,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1) catches up with the ball and picks it up!"
+      "Translation": "$(7,1)追上了球，急忙捡起！"
     },
     {
       "JP": "　",
@@ -3314,7 +3315,7 @@
     {
       "JP": "$(7,0)はワンバウンドでボールを捕球",
       "EN": "$(7,1) catches the ball on the first bounce.",
-      "Translation": "$(7,1) catches the ball on the first bounce."
+      "Translation": "$(7,1)一弹接住了球"
     },
     {
       "JP": "　",
@@ -3324,7 +3325,7 @@
     {
       "JP": "$(7,0)がものすごい勢いでボールを追う！",
       "EN": "$(7,1) hastily chases after the ball!",
-      "Translation": "$(7,1) hastily chases after the ball!"
+      "Translation": "$(7,1)拼命追球！"
     },
     {
       "JP": "",
@@ -3334,7 +3335,7 @@
     {
       "JP": "$(7,0)はノーバウンドでボールをキャッチ！",
       "EN": "$(7,1) catches the ball in flight!",
-      "Translation": "$(7,1) catches the ball in flight!"
+      "Translation": "$(7,1)无反弹接住了球！"
     },
     {
       "JP": "　",
@@ -3344,7 +3345,7 @@
     {
       "JP": "$(7,0)はボールを捕り損ねてしまった！",
       "EN": "$(7,1) fails to catch the ball!",
-      "Translation": "$(7,1) fails to catch the ball!"
+      "Translation": "$(7,1)没接住球！"
     },
     {
       "JP": "　",
@@ -3354,7 +3355,7 @@
     {
       "JP": "ボールが後方へ抜ける！",
       "EN": "The ball slips through!",
-      "Translation": "The ball slips through!"
+      "Translation": "球从后方溜走了！"
     },
     {
       "JP": "　",
@@ -3364,7 +3365,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1) catches up with the ball and picks it up!"
+      "Translation": "$(7,1)追上了球，急忙捡起！"
     },
     {
       "JP": "　",
@@ -3374,7 +3375,7 @@
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,1) fumbles the ball and picks it up in a panic!"
+      "Translation": "$(7,1)弹开了球，慌忙捡起"
     },
     {
       "JP": "　",
@@ -3384,7 +3385,7 @@
     {
       "JP": "無人のセンターにボールが落ちる！",
       "EN": "The ball falls in the empty center field!",
-      "Translation": "The ball falls in the empty center field!"
+      "Translation": "球落在无人防守的中外野！"
     },
     {
       "JP": "　",
@@ -3394,7 +3395,7 @@
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1) catches up with the ball and picks it up!"
+      "Translation": "$(7,1)追上了球，急忙捡起！"
     },
     {
       "JP": "　",
@@ -3404,7 +3405,7 @@
     {
       "JP": "キィーン！$d打った。外野に向かって鋭い打球が飛ぶ。",
       "EN": "Slam!\nIt connects. The ball flies sharply into the outfield.",
-      "Translation": "Slam!\nIt connects. The ball flies sharply into the outfield."
+      "Translation": "砰！$d打中了。球锐利地飞向外野。"
     },
     {
       "JP": "",
@@ -3414,92 +3415,92 @@
     {
       "JP": "ライナー性の打球がライト正面へ…",
       "EN": "A line drive, going straight for right field...",
-      "Translation": "A line drive, going straight for right field..."
+      "Translation": "直线球打向右外野正面…"
     },
     {
       "JP": "ライナー性の打球がセンター正面へ…",
       "EN": "A line drive, going straight for center field...",
-      "Translation": "A line drive, going straight for center field..."
+      "Translation": "直线球打向中外野正面…"
     },
     {
       "JP": "ライナー性の打球がレフト正面へ…",
       "EN": "A line drive, going straight for left field...",
-      "Translation": "A line drive, going straight for left field..."
+      "Translation": "直线球打向左外野正面…"
     },
     {
       "JP": "ライナー性の打球がライト方向へ…",
       "EN": "A line drive, going toward right field...",
-      "Translation": "A line drive, going toward right field..."
+      "Translation": "直线球打向右外野方向…"
     },
     {
       "JP": "ライナー性の打球がセンター方向へ…",
       "EN": "A line drive, going toward center field...",
-      "Translation": "A line drive, going toward center field..."
+      "Translation": "直线球打向中外野方向…"
     },
     {
       "JP": "ライナー性の打球がレフト方向へ…",
       "EN": "A line drive, going toward left field...",
-      "Translation": "A line drive, going toward left field..."
+      "Translation": "直线球打向左外野方向…"
     },
     {
       "JP": "ライナー性の打球がライト線いっぱいへ…",
       "EN": "A line drive, going down the right field line...",
-      "Translation": "A line drive, going down the right field line..."
+      "Translation": "直线球打向右外野线…"
     },
     {
       "JP": "ライナー性の打球が右中間へ…",
       "EN": "A line drive, going to the gap between right field and center field...",
-      "Translation": "A line drive, going to the gap between right field and center field..."
+      "Translation": "直线球打向右中间…"
     },
     {
       "JP": "ライナー性の打球が左中間へ…",
       "EN": "A line drive, going to the gap between left field and center field...",
-      "Translation": "A line drive, going to the gap between left field and center field..."
+      "Translation": "直线球打向左中间…"
     },
     {
       "JP": "ライナー性の打球がレフト線いっぱいへ…",
       "EN": "A line drive, going down the left field line...",
-      "Translation": "A line drive, going down the left field line..."
+      "Translation": "直线球打向左外野线…"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、懸命に追うが届かない！",
       "EN": "$(7,1) frantically chases the ball but can't reach it!",
-      "Translation": "$(7,1) frantically chases the ball but can't reach it!"
+      "Translation": "$(7,1)拼命追赶但没能赶上！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "ボールが後方に抜ける！",
       "EN": "The ball slips through!",
-      "Translation": "The ball slips through!"
+      "Translation": "球从后方溜走了！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1) catches up with the ball and picks it up!"
+      "Translation": "$(7,1)追上了球！急忙接住！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)がものすごい勢いでボールを追う！",
       "EN": "$(7,1) hastily chases after the ball!",
-      "Translation": "$(7,1) hastily chases after the ball!"
+      "Translation": "$(7,1)以惊人的速度追赶球！"
     },
     {
       "JP": "",
@@ -3509,77 +3510,77 @@
     {
       "JP": "$(7,0)はノーバウンドでボールをキャッチ！",
       "EN": "$(7,1) catches the ball in flight!",
-      "Translation": "$(7,1) catches the ball in flight!"
+      "Translation": "$(7,1)无弹跳接住了球！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)はボールを捕り損ねてしまった！",
       "EN": "$(7,1) fails to catch the ball!",
-      "Translation": "$(7,1) fails to catch the ball!"
+      "Translation": "$(7,1)没能接住球！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "ボールが後方へ抜ける！",
       "EN": "The ball slips through!",
-      "Translation": "The ball slips through!"
+      "Translation": "球从后方溜走了！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1) catches up with the ball and picks it up!"
+      "Translation": "$(7,1)追上了球！急忙接住！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,1) fumbles the ball and picks it up in a panic!"
+      "Translation": "$(7,1)弹开了球！慌忙捡起球"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "無人のセンターにボールが落ちる！",
       "EN": "The ball falls in the empty center field!",
-      "Translation": "The ball falls in the empty center field!"
+      "Translation": "球落在了无人防守的中外野！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1) catches up with the ball and picks it up!"
+      "Translation": "$(7,1)追上了球！急忙接住！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "カキィーン！$d打った。外野に向かって大きく打球が飛ぶ。",
       "EN": "Slam!\nIt connects. The ball is hit hard into the outfield.",
-      "Translation": "Slam!\nIt connects. The ball is hit hard into the outfield."
+      "Translation": "砰！$d打了。球飞向外野。"
     },
     {
       "JP": "",
@@ -3589,77 +3590,77 @@
     {
       "JP": "大きく飛んだ打球はライト後方へ…",
       "EN": "The ball flies behind right field...",
-      "Translation": "The ball flies behind right field..."
+      "Translation": "球飞向右外野后方…"
     },
     {
       "JP": "大きく飛んだ打球はセンター後方へ…",
       "EN": "The ball flies behind center field...",
-      "Translation": "The ball flies behind center field..."
+      "Translation": "球飞向中外野后方…"
     },
     {
       "JP": "大きく飛んだ打球はレフト後方へ…",
       "EN": "The ball flies behind left field...",
-      "Translation": "The ball flies behind left field..."
+      "Translation": "球飞向左外野后方…"
     },
     {
       "JP": "大きく飛んだ打球はライト線いっぱいの深いところへ…",
       "EN": "The ball flies far beyond the right field line...",
-      "Translation": "The ball flies far beyond the right field line..."
+      "Translation": "球飞向右外野线的深处…"
     },
     {
       "JP": "大きく飛んだ打球は右中間の深いところへ…",
       "EN": "The ball flies deep into the gap between right field and center field...",
-      "Translation": "The ball flies deep into the gap between right field and center field..."
+      "Translation": "球飞向右中间的深处…"
     },
     {
       "JP": "大きく飛んだ打球は左中間の深いところへ…",
       "EN": "The ball flies deep into the gap between left field and center field...",
-      "Translation": "The ball flies deep into the gap between left field and center field..."
+      "Translation": "球飞向左中间的深处…"
     },
     {
       "JP": "大きく飛んだ打球はレフト線いっぱいの深いところへ…",
       "EN": "The ball flies far beyond the left field line...",
-      "Translation": "The ball flies far beyond the left field line..."
+      "Translation": "球飞向左外野线的深处…"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、懸命に追うが届かない！",
       "EN": "$(7,1) frantically chases the ball but can't reach it!",
-      "Translation": "$(7,1) frantically chases the ball but can't reach it!"
+      "Translation": "$(7,1)拼命追赶但没能赶上！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "ボールが後方に抜ける！",
       "EN": "The ball slips through!",
-      "Translation": "The ball slips through!"
+      "Translation": "球从后方溜走了！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1) catches up with the ball and picks it up!"
+      "Translation": "$(7,1)追上了球！急忙接住！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)がものすごい勢いでボールを追う！",
       "EN": "$(7,1) hastily chases after the ball!",
-      "Translation": "$(7,1) hastily chases after the ball!"
+      "Translation": "$(7,1)以惊人的速度追赶球！"
     },
     {
       "JP": "",
@@ -3669,47 +3670,47 @@
     {
       "JP": "$(7,0)はノーバウンドでボールをキャッチ！",
       "EN": "$(7,1) catches the ball in flight!",
-      "Translation": "$(7,1) catches the ball in flight!"
+      "Translation": "$(7,1)无弹跳接住了球！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)はボールをはじいてしまった！　慌ててボールを拾う",
       "EN": "$(7,1) fumbles the ball and picks it up in a panic!",
-      "Translation": "$(7,1) fumbles the ball and picks it up in a panic!"
+      "Translation": "$(7,1)弹开了球！慌忙捡起球"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "無人のセンターにボールが落ちる！",
       "EN": "The ball falls in the empty center field!",
-      "Translation": "The ball falls in the empty center field!"
+      "Translation": "球落在了无人防守的中外野！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)はボールに追いついた！　急いで捕球！",
       "EN": "$(7,1) catches up with the ball and picks it up!",
-      "Translation": "$(7,1) catches up with the ball and picks it up!"
+      "Translation": "$(7,1)追上了球！急忙接住！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "カキィィーーン！$d打った。外野に向かってグングンと打球が伸びる。",
       "EN": "Slam!\nIt connects. The ball is hit deep into the outfield.",
-      "Translation": "Slam!\nIt connects. The ball is hit deep into the outfield."
+      "Translation": "砰！$d打了。球飞向外野。"
     },
     {
       "JP": "",
@@ -3719,67 +3720,67 @@
     {
       "JP": "グングンと伸びた打球はライトの遥か後方へ…",
       "EN": "The ball flies well behind right field...",
-      "Translation": "The ball flies well behind right field..."
+      "Translation": "球飞向右外野后方…"
     },
     {
       "JP": "グングンと伸びた打球はセンターの遥か後方へ…",
       "EN": "The ball flies well behind center field...",
-      "Translation": "The ball flies well behind center field..."
+      "Translation": "球飞向中外野后方…"
     },
     {
       "JP": "グングンと伸びた打球はレフトの遥か後方へ…",
       "EN": "The ball flies well behind left field...",
-      "Translation": "The ball flies well behind left field..."
+      "Translation": "球飞向左外野后方…"
     },
     {
       "JP": "グングンと伸びた打球はライト線いっぱいの遥か深いところへ…",
       "EN": "The ball flies very far beyond the right field line...",
-      "Translation": "The ball flies very far beyond the right field line..."
+      "Translation": "球飞向右外野线的深处…"
     },
     {
       "JP": "グングンと伸びた打球は右中間の遥か深いところへ…",
       "EN": "The ball flies very deep into the gap between right field and center field...",
-      "Translation": "The ball flies very deep into the gap between right field and center field..."
+      "Translation": "球飞向右中间的深处…"
     },
     {
       "JP": "グングンと伸びた打球は左中間の遥か深いところへ…",
       "EN": "The ball flies very deep into the gap between left field and center field...",
-      "Translation": "The ball flies very deep into the gap between left field and center field..."
+      "Translation": "球飞向左中间的深处…"
     },
     {
       "JP": "グングンと伸びた打球はレフト線いっぱいの遥か深いところへ…",
       "EN": "The ball flies very far beyond the left field line...",
-      "Translation": "The ball flies very far beyond the left field line..."
+      "Translation": "球飞向左外野线的深处…"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、懸命に追うが追いつけない！",
       "EN": "$(7,1) hastily chases after the ball but can't reach it!",
-      "Translation": "$(7,1) hastily chases after the ball but can't reach it!"
+      "Translation": "$(7,1)拼命追赶但没能赶上！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "ホームラン!!",
       "EN": "A home run!!!",
-      "Translation": "A home run!!!"
+      "Translation": "全垒打!!"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)がものすごい勢いでボールを追う！",
       "EN": "$(7,1) hastily chases after the ball!",
-      "Translation": "$(7,1) hastily chases after the ball!"
+      "Translation": "$(7,1)以惊人的速度追赶球！"
     },
     {
       "JP": "",
@@ -3789,37 +3790,37 @@
     {
       "JP": "$(7,0)、ボールに追いつきキャッチ！",
       "EN": "$(7,1) runs for the ball and catches it!",
-      "Translation": "$(7,1) runs for the ball and catches it!"
+      "Translation": "$(7,1)追上了球并接住了！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "誰も追いつけない！　ホームラン!!",
       "EN": "No one can catch up to the ball! It's a home run!!!",
-      "Translation": "No one can catch up to the ball! It's a home run!!!"
+      "Translation": "没人能追上！全垒打!!"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "バッターランナー、一塁を蹴って二塁へ",
       "EN": "Batter-runner advances to first and continues to second.",
-      "Translation": "Batter-runner advances to first and continues to second."
+      "Translation": "击球跑者绕过一垒向二垒进发"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "バッターランナー、一塁を蹴って様子をうかがう",
       "EN": "Batter-runner advances to first and analyzes the situation.",
-      "Translation": "Batter-runner advances to first and analyzes the situation."
+      "Translation": "击球跑者绕过一垒观察情况"
     },
     {
       "JP": "　",
@@ -3829,372 +3830,372 @@
     {
       "JP": "三塁ランナー、ホームに到達",
       "EN": "Third base runner crosses home plate.",
-      "Translation": "Third base runner crosses home plate."
+      "Translation": "三垒跑者到达本垒。"
     },
     {
       "JP": "二塁ランナー、ホームに到達",
       "EN": "Second base runner crosses home plate.",
-      "Translation": "Second base runner crosses home plate."
+      "Translation": "二垒跑者到达本垒。"
     },
     {
       "JP": "一塁ランナー、ホームに到達",
       "EN": "First base runner crosses home plate.",
-      "Translation": "First base runner crosses home plate."
+      "Translation": "一垒跑者到达本垒。"
     },
     {
       "JP": "バッターランナー、ホームに到達",
       "EN": "Batter-runner crosses home plate.",
-      "Translation": "Batter-runner crosses home plate."
+      "Translation": "击球跑者到达本垒。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "二塁ランナー、三塁を蹴って本塁へ",
       "EN": "Second base runner advances to third base and races home.",
-      "Translation": "Second base runner advances to third base and races home."
+      "Translation": "二垒跑者绕过三垒冲向本垒。"
     },
     {
       "JP": "一塁ランナー、三塁を蹴って本塁へ",
       "EN": "First base runner advances to third and races home.",
-      "Translation": "First base runner advances to third and races home."
+      "Translation": "一垒跑者绕过三垒冲向本垒。"
     },
     {
       "JP": "バッターランナー、三塁を蹴って本塁へ",
       "EN": "Batter-runner advances to third and races home.",
-      "Translation": "Batter-runner advances to third and races home."
+      "Translation": "击球跑者绕过三垒冲向本垒。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "一塁ランナー、二塁を蹴って三塁へ",
       "EN": "First base runner advances to second and continues to third.",
-      "Translation": "First base runner advances to second and continues to third."
+      "Translation": "一垒跑者绕过二垒冲向三垒。"
     },
     {
       "JP": "バッターランナー、二塁を蹴って三塁へ",
       "EN": "Batter-runner advances to second and continues to third.",
-      "Translation": "Batter-runner advances to second and continues to third."
+      "Translation": "击球跑者绕过二垒冲向三垒。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "バッターランナー、一塁を蹴って二塁へ",
       "EN": "Batter-runner advances to first and continues to second.",
-      "Translation": "Batter-runner advances to first and continues to second."
+      "Translation": "击球跑者绕过一垒冲向二垒。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "三塁ランナー、ホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "三塁ランナー、ホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "二塁ランナー、ホームイン！",
       "EN": "Second base runner scores!",
-      "Translation": "Second base runner scores!"
+      "Translation": "二垒跑者得分！"
     },
     {
       "JP": "一塁ランナー、ホームイン！",
       "EN": "First base runner scores!",
-      "Translation": "First base runner scores!"
+      "Translation": "一垒跑者得分！"
     },
     {
       "JP": "バッターランナー、ホームイン！",
       "EN": "Batter-runner scores!",
-      "Translation": "Batter-runner scores!"
+      "Translation": "击球跑者得分！"
     },
     {
       "JP": "バッターランナー、ホームイン！",
       "EN": "Batter-runner scores!",
-      "Translation": "Batter-runner scores!"
+      "Translation": "击球跑者得分！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "二塁ランナー、三塁を蹴って本塁へ！",
       "EN": "Second base runner advances to third and races home!",
-      "Translation": "Second base runner advances to third and races home!"
+      "Translation": "二垒跑者绕过三垒冲向本垒！"
     },
     {
       "JP": "一塁ランナー、三塁を蹴って本塁へ！",
       "EN": "First base runner advances to third and races home!",
-      "Translation": "First base runner advances to third and races home!"
+      "Translation": "一垒跑者绕过三垒冲向本垒！"
     },
     {
       "JP": "バッターランナー、三塁を蹴って本塁へ！",
       "EN": "Batter-runner advances to third and races home!",
-      "Translation": "Batter-runner advances to third and races home!"
+      "Translation": "击球跑者绕过三垒冲向本垒！"
     },
     {
       "JP": "バッターランナー、三塁を蹴って本塁へ！",
       "EN": "Batter-runner advances to third and races home!",
-      "Translation": "Batter-runner advances to third and races home!"
+      "Translation": "击球跑者绕过三垒冲向本垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "一塁ランナー、二塁を蹴って三塁へ！",
       "EN": "First base runner advances to second and continues to third!",
-      "Translation": "First base runner advances to second and continues to third!"
+      "Translation": "一垒跑者绕过二垒冲向三垒！"
     },
     {
       "JP": "バッターランナー、二塁を蹴って三塁へ！",
       "EN": "Batter-runner advances to second and continues to third!",
-      "Translation": "Batter-runner advances to second and continues to third!"
+      "Translation": "击球跑者绕过二垒冲向三垒！"
     },
     {
       "JP": "バッターランナー、二塁を蹴って三塁へ！",
       "EN": "Batter-runner advances to second and continues to third!",
-      "Translation": "Batter-runner advances to second and continues to third!"
+      "Translation": "击球跑者绕过二垒冲向三垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "バッターランナー、一塁を蹴って二塁へ！",
       "EN": "Batter-runner advances to first and continues to second!",
-      "Translation": "Batter-runner advances to first and continues to second!"
+      "Translation": "击球跑者绕过一垒冲向二垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "三塁ランナー、ホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者得分！"
     },
     {
       "JP": "二塁ランナー、ホームイン！",
       "EN": "Second base runner scores!",
-      "Translation": "Second base runner scores!"
+      "Translation": "二垒跑者得分！"
     },
     {
       "JP": "一塁ランナー、ホームイン！",
       "EN": "First base runner scores!",
-      "Translation": "First base runner scores!"
+      "Translation": "一垒跑者得分！"
     },
     {
       "JP": "バッターランナー、ホームイン！",
       "EN": "Batter-runner scores!",
-      "Translation": "Batter-runner scores!"
+      "Translation": "击球跑者得分！"
     },
     {
       "JP": "バッターランナー、ホームイン！",
       "EN": "Batter-runner scores!",
-      "Translation": "Batter-runner scores!"
+      "Translation": "击球跑者得分！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "二塁ランナー、三塁でストップ",
       "EN": "Second base runner stops at third.",
-      "Translation": "Second base runner stops at third."
+      "Translation": "二垒跑者停在三垒。"
     },
     {
       "JP": "一塁ランナー、三塁でストップ",
       "EN": "First base runner stops at third.",
-      "Translation": "First base runner stops at third."
+      "Translation": "一垒跑者停在三垒。"
     },
     {
       "JP": "バッターランナー、三塁でストップ",
       "EN": "Batter-runner stops at third.",
-      "Translation": "Batter-runner stops at third."
+      "Translation": "击球跑者停在三垒。"
     },
     {
       "JP": "バッターランナー、三塁でストップ",
       "EN": "Batter-runner stops at third.",
-      "Translation": "Batter-runner stops at third."
+      "Translation": "击球跑者停在三垒。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "二塁ランナー、三塁を蹴って本塁へ！",
       "EN": "Second base runner advances to third and races home!",
-      "Translation": "Second base runner advances to third and races home!"
+      "Translation": "二垒跑者绕过三垒冲向本垒！"
     },
     {
       "JP": "一塁ランナー、三塁を蹴って本塁へ！",
       "EN": "First base runner advances to third and races home!",
-      "Translation": "First base runner advances to third and races home!"
+      "Translation": "一垒跑者绕过三垒冲向本垒！"
     },
     {
       "JP": "バッターランナー、三塁を蹴って本塁へ！",
       "EN": "Batter-runner advances to third and races home!",
-      "Translation": "Batter-runner advances to third and races home!"
+      "Translation": "击球跑者绕过三垒冲向本垒！"
     },
     {
       "JP": "バッターランナー、三塁を蹴って本塁へ！",
       "EN": "Batter-runner advances to third and races home!",
-      "Translation": "Batter-runner advances to third and races home!"
+      "Translation": "击球跑者绕过三垒冲向本垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "一塁ランナー、二塁でストップ",
       "EN": "First base runner stops at second.",
-      "Translation": "First base runner stops at second."
+      "Translation": "一垒跑者停在二垒。"
     },
     {
       "JP": "バッターランナー、二塁でストップ",
       "EN": "Batter-runner stops at second.",
-      "Translation": "Batter-runner stops at second."
+      "Translation": "击球跑者停在二垒。"
     },
     {
       "JP": "バッターランナー、二塁でストップ",
       "EN": "Batter-runner stops at second.",
-      "Translation": "Batter-runner stops at second."
+      "Translation": "击球跑者停在二垒。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "一塁ランナー、二塁を蹴って三塁へ！",
       "EN": "First base runner advances to second and continues to third!",
-      "Translation": "First base runner advances to second and continues to third!"
+      "Translation": "一垒跑者绕过二垒冲向三垒！"
     },
     {
       "JP": "バッターランナー、二塁を蹴って三塁へ！",
       "EN": "Batter-runner advances to second and continues to third!",
-      "Translation": "Batter-runner advances to second and continues to third!"
+      "Translation": "击球跑者绕过二垒冲向三垒！"
     },
     {
       "JP": "バッターランナー、二塁を蹴って三塁へ！",
       "EN": "Batter-runner advances to second and continues to third!",
-      "Translation": "Batter-runner advances to second and continues to third!"
+      "Translation": "击球跑者绕过二垒冲向三垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "バッターランナー、一塁でストップ",
       "EN": "Batter-runner advances to first and stops.",
-      "Translation": "Batter-runner advances to first and stops."
+      "Translation": "击球跑者停在一垒。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "バッターランナー、一塁を蹴って二塁へ！",
       "EN": "Batter-runner advances to first and continues to second!",
-      "Translation": "Batter-runner advances to first and continues to second!"
+      "Translation": "击球跑者绕过一垒冲向二垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、バックホームするが――",
       "EN": "$(7,1) throws to home plate―― ",
-      "Translation": "$(7,1) throws to home plate―― "
+      "Translation": "$(7,1)传球回本垒，但——"
     },
     {
       "JP": "$(7,0)、バックホーム！",
       "EN": "$(7,1) throws to home plate!",
-      "Translation": "$(7,1) throws to home plate!"
+      "Translation": "$(7,1)传球回本垒！"
     },
     {
       "JP": "$(7,0)、バックホーム！　きわどいタイミング――",
       "EN": "$(7,1) throws to home plate! It's a close race――",
-      "Translation": "$(7,1) throws to home plate! It's a close race――"
+      "Translation": "$(7,1)传球回本垒！ 紧张的时刻——"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、三塁へ送球するが――",
       "EN": "$(7,1) throws the ball to third―― ",
-      "Translation": "$(7,1) throws the ball to third―― "
+      "Translation": "$(7,1)传球到三垒，但——"
     },
     {
       "JP": "$(7,0)、三塁へ送球！",
       "EN": "$(7,1) throws to third!",
-      "Translation": "$(7,1) throws to third!"
+      "Translation": "$(7,1)传球到三垒！"
     },
     {
       "JP": "$(7,0)、三塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to third! It's a close race――",
-      "Translation": "$(7,1) throws the ball to third! It's a close race――"
+      "Translation": "$(7,1)传球到三垒！ 紧张的时刻——"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、二塁へ送球するが――",
       "EN": "$(7,1) throws the ball to second―― ",
-      "Translation": "$(7,1) throws the ball to second―― "
+      "Translation": "$(7,1)传球到二垒，但——"
     },
     {
       "JP": "$(7,0)、二塁へ送球！",
       "EN": "$(7,1) throws to second! ",
-      "Translation": "$(7,1) throws to second! "
+      "Translation": "$(7,1)传球到二垒！"
     },
     {
       "JP": "$(7,0)、二塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to second! It's a close race――",
-      "Translation": "$(7,1) throws the ball to second! It's a close race――"
+      "Translation": "$(7,1)传球到二垒！ 紧张的时刻——"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "",
@@ -4204,232 +4205,232 @@
     {
       "JP": "二塁ランナー、ホームイン！",
       "EN": "Second base runner scores!",
-      "Translation": "Second base runner scores!"
+      "Translation": "二垒跑者得分！"
     },
     {
       "JP": "一塁ランナー、ホームイン！",
       "EN": "First base runner scores!",
-      "Translation": "First base runner scores!"
+      "Translation": "一垒跑者得分！"
     },
     {
       "JP": "バッターランナー、ホームイン！",
       "EN": "Batter-runner scores!",
-      "Translation": "Batter-runner scores!"
+      "Translation": "击球跑者得分！"
     },
     {
       "JP": "バッターランナー、ホームイン！",
       "EN": "Batter-runner scores!",
-      "Translation": "Batter-runner scores!"
+      "Translation": "击球跑者得分！"
     },
     {
       "JP": "$dランニングホームラン!!",
       "EN": "$dInside-the-park home run!!!",
-      "Translation": "$dInside-the-park home run!!!"
+      "Translation": "$d场内本垒打！！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "その間に二塁ランナー、ホームイン！",
       "EN": "Second base runner scores!",
-      "Translation": "Second base runner scores!"
+      "Translation": "在此期间，二垒跑者得分！"
     },
     {
       "JP": "その間に一塁ランナー、ホームイン！",
       "EN": "First base runner scores!",
-      "Translation": "First base runner scores!"
+      "Translation": "在此期间，一垒跑者得分！"
     },
     {
       "JP": "その間にバッターランナー、ホームイン！",
       "EN": "Batter-runner scores!",
-      "Translation": "Batter-runner scores!"
+      "Translation": "在此期间，击球跑者得分！"
     },
     {
       "JP": "その間にバッターランナー、ホームイン！",
       "EN": "Batter-runner scores!",
-      "Translation": "Batter-runner scores!"
+      "Translation": "在此期间，击球跑者得分！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "一塁ランナー、三塁でストップ",
       "EN": "First base runner stops at third.",
-      "Translation": "First base runner stops at third."
+      "Translation": "一垒跑者停在三垒。"
     },
     {
       "JP": "バッターランナー、三塁でストップ",
       "EN": "Batter-runner stops at third.",
-      "Translation": "Batter-runner stops at third."
+      "Translation": "击球跑者停在三垒。"
     },
     {
       "JP": "バッターランナー、三塁でストップ",
       "EN": "Batter-runner stops at third.",
-      "Translation": "Batter-runner stops at third."
+      "Translation": "击球跑者停在三垒。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "バッターランナー、二塁でストップ",
       "EN": "Batter-runner stops at second.",
-      "Translation": "Batter-runner stops at second."
+      "Translation": "击球跑者停在二垒。"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "ランナーは急いで塁へと戻った",
       "EN": "The runner hurries back to base.",
-      "Translation": "The runner hurries back to base."
+      "Translation": "跑者急忙返回垒位。"
     },
     {
       "JP": "三塁ランナー、タッチアップ！",
       "EN": "Third base runner is tagged out!",
-      "Translation": "Third base runner is tagged out!"
+      "Translation": "三垒跑者触垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "二塁ランナー、タッチアップ！",
       "EN": "Second base runner is tagged out!",
-      "Translation": "Second base runner is tagged out!"
+      "Translation": "二垒跑者触垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "一塁ランナー、タッチアップ！",
       "EN": "First base runner is tagged out!",
-      "Translation": "First base runner is tagged out!"
+      "Translation": "一垒跑者触垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、バックホームするが――",
       "EN": "$(7,1) throws to home plate―― ",
-      "Translation": "$(7,1) throws to home plate―― "
+      "Translation": "$(7,1)传球回本垒，但——"
     },
     {
       "JP": "$(7,0)、バックホーム！",
       "EN": "$(7,1) throws to home plate!",
-      "Translation": "$(7,1) throws to home plate!"
+      "Translation": "$(7,1)传球回本垒！"
     },
     {
       "JP": "$(7,0)、バックホーム！　きわどいタイミング――",
       "EN": "$(7,1) throws to home plate! It's a close race――",
-      "Translation": "$(7,1) throws to home plate! It's a close race――"
+      "Translation": "$(7,1)传球回本垒！ 紧张的时刻——"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、三塁へ送球するが――",
       "EN": "$(7,1) throws the ball to third―― ",
-      "Translation": "$(7,1) throws the ball to third―― "
+      "Translation": "$(7,1)传球到三垒，但——"
     },
     {
       "JP": "$(7,0)、三塁へ送球！",
       "EN": "$(7,1) throws to third!",
-      "Translation": "$(7,1) throws to third!"
+      "Translation": "$(7,1)传球到三垒！"
     },
     {
       "JP": "$(7,0)、三塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to third! It's a close race――",
-      "Translation": "$(7,1) throws the ball to third! It's a close race――"
+      "Translation": "$(7,1)传球到三垒！ 紧张的时刻——"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "$(7,0)、二塁へ送球するが――",
       "EN": "$(7,1) throws the ball to second―― ",
-      "Translation": "$(7,1) throws the ball to second―― "
+      "Translation": "$(7,1)传球到二垒，但——"
     },
     {
       "JP": "$(7,0)、二塁へ送球！",
       "EN": "$(7,1) throws to second! ",
-      "Translation": "$(7,1) throws to second! "
+      "Translation": "$(7,1)传球到二垒！"
     },
     {
       "JP": "$(7,0)、二塁へ送球！　きわどいタイミング――",
       "EN": "$(7,1) throws the ball to second! It's a close race――",
-      "Translation": "$(7,1) throws the ball to second! It's a close race――"
+      "Translation": "$(7,1)传球到二垒！ 紧张的时刻——"
     },
     {
       "JP": "　",
@@ -4439,7 +4440,7 @@
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "",
@@ -4449,122 +4450,122 @@
     {
       "JP": "三塁ランナー、ホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者，得分！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "セーフ！",
       "EN": "Safe!",
-      "Translation": "Safe!"
+      "Translation": "安全上垒！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "アウト！",
       "EN": "Out!",
-      "Translation": "Out!"
+      "Translation": "出局！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "その間に三塁ランナー、ホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "在此期间，三垒跑者，得分！"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "二塁ランナーは三塁でストップ",
       "EN": "Second base runner stops at third.",
-      "Translation": "Second base runner stops at third."
+      "Translation": "二垒跑者在三垒停下"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "一塁ランナーは二塁でストップ",
       "EN": "First base runner stops at second.",
-      "Translation": "First base runner stops at second."
+      "Translation": "一垒跑者在二垒停下"
     },
     {
       "JP": "　",
       "EN": " ",
-      "Translation": " "
+      "Translation": "　"
     },
     {
       "JP": "ランナーはそのまま",
       "EN": "The runner stays at base.",
-      "Translation": "The runner stays at base."
+      "Translation": "跑者保持原位"
     },
     {
       "JP": "三塁ランナー、ホームイン！",
       "EN": "Third base runner scores!",
-      "Translation": "Third base runner scores!"
+      "Translation": "三垒跑者，得分！"
     },
     {
       "JP": "二塁ランナー、ホームイン！",
       "EN": "Second base runner scores!",
-      "Translation": "Second base runner scores!"
+      "Translation": "二垒跑者，得分！"
     },
     {
       "JP": "一塁ランナー、ホームイン！",
       "EN": "First base runner scores!",
-      "Translation": "First base runner scores!"
+      "Translation": "一垒跑者，得分！"
     },
     {
       "JP": "バッターランナー、ホームイン！",
       "EN": "Batter-runner scores!",
-      "Translation": "Batter-runner scores!"
+      "Translation": "击球跑者，得分！"
     },
     {
       "JP": "バッターランナー、ホームイン！",
       "EN": "Batter-runner scores!",
-      "Translation": "Batter-runner scores!"
+      "Translation": "击球跑者，得分！"
     },
     {
       "JP": "　",

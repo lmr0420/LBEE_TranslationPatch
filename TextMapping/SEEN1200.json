@@ -499,7 +499,7 @@
     {
       "JP": "黒猫はうなあ、と一声鳴くと、今は使われていない、古い錆び付いた焼却炉の片隅に座る。",
       "EN": "Crying ❛unyah,❜ the cat sat down right beside the old, rusted incinerator, which was no longer in use.",
-      "Translation": "`黑猫@『呜喵』地叫了一声，坐在了现在已经废弃，锈迹斑斑的焚烧炉的角落里。"
+      "Translation": "黑猫『呜喵』地叫了一声，坐在了现在已经废弃，锈迹斑斑的焚烧炉的角落里。"
     },
     {
       "JP": "`理樹@「ここがお気に入りの場所なのかな」",
@@ -3724,7 +3724,7 @@
     {
       "JP": "しょぼーん、と縮こまる笹瀬川さん（黒猫？）。",
       "EN": "Sasasegawa-san (the black cat?) cringed in disappointment.",
-      "Translation": "`笹濑川@（黑猫？）因失望而缩起了身子。"
+      "Translation": "笹濑川（黑猫？）因失望而缩起了身子。"
     },
     {
       "JP": "いや、もうほとんど確定なんだから、笹瀬川さんでいいだろう…。",
@@ -5644,7 +5644,7 @@
     {
       "JP": "ばふっ、と布団の中に潜り込む音がした。",
       "EN": "I heard her crawl under the blanket.",
-      "Translation": "`听到了@『噗』的钻进被窝里的声音。"
+      "Translation": "听到了『噗』的钻进被窝里的声音。"
     },
     {
       "JP": "`佐々美@「うぅ…やっぱり情けないですわぁ～」",
@@ -6704,7 +6704,7 @@
     {
       "JP": "`理樹@「ちょっと猫の話があるんだ」",
       "EN": "`Riki@❝I wanna talk with you about cats.❞",
-      "Translation": "关于猫的事"
+      "Translation": "`理树@「想谈谈关于猫的事」"
     },
     {
       "JP": "`鈴@「了解」",

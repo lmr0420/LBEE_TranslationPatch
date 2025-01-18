@@ -5740,7 +5740,7 @@
     {
       "JP": "`理樹@（…なんで出入り禁止になんてするんだろうなぁ）",
       "EN": "`Riki@(...Why would they forbid us from entering this place?)",
-      "Translation": "理树（…为什么这里会禁止出入呢）"
+      "Translation": "`理树@（…为什么这里会禁止出入呢）"
     },
     {
       "JP": "なんとなく、その事自体に疑問を覚え始める。",
@@ -6355,7 +6355,7 @@
     {
       "JP": "`理樹@（絵本、か）",
       "EN": "`Riki@(Picture books...)",
-      "Translation": "理树（绘本，吗）"
+      "Translation": "`理树@（绘本，吗）"
     },
     {
       "JP": "なんかちょっと気になる内容の本だ。",
@@ -8790,72 +8790,72 @@
     {
       "JP": "振り返る。",
       "EN": "I turned around.",
-      "Translation": "转过头来。声音是从校舍方向传来的。"
+      "Translation": "转过头来。"
     },
     {
       "JP": "校舎のほうからだった。",
       "EN": "She came from the school building.",
-      "Translation": "我看见一个人两手捧着纸袋。"
+      "Translation": "声音是从校舍方向传来的。"
     },
     {
       "JP": "両手に紙袋を持っている。",
       "EN": "She was carrying paper bags in both hands.",
-      "Translation": "看上去很重的样子。"
+      "Translation": "我看见一个人两手捧着纸袋。"
     },
     {
       "JP": "なんだか重たそうだ。",
       "EN": "They looked quite heavy.",
-      "Translation": "`理树@「库—特—！没事—吧—？」"
+      "Translation": "看上去很重的样子。"
     },
     {
       "JP": "`理樹@「クードーっ！　だいじょーぶー？」",
       "EN": "`Riki@❝Kuu-doo! Aree youuu ooo-kaaay?❞",
-      "Translation": "`库特@「什么—？」"
+      "Translation": "`理树@「库—特—！没事—吧—？」"
     },
     {
       "JP": "`クド@「はいー？」",
       "EN": "`Kud@❝Yeee～ees?❞",
-      "Translation": "晃晃悠悠走着的库特看到我后就赶紧走过来…的样子。"
+      "Translation": "`库特@「什么—？」"
     },
     {
       "JP": "よたよた歩いているクドは僕を見つけて急いで来ようとしている…ようだ。",
       "EN": "She seemed to be staggering toward me in a hurry.",
-      "Translation": "`理树@「看上去很危险啊」"
+      "Translation": "晃晃悠悠走着的库特看到我后就赶紧走过来…的样子。"
     },
     {
       "JP": "`理樹@「なんか危なっかしいなぁ」",
       "EN": "`Riki@❝That looks dangerous...❞",
-      "Translation": "晃晃悠悠。"
+      "Translation": "`理树@「看上去很危险啊」"
     },
     {
       "JP": "よろよろしてる。",
       "EN": "She was waddling along.",
-      "Translation": "就像纤细的身体被纸袋操纵着一样。"
+      "Translation": "晃晃悠悠。"
     },
     {
       "JP": "細くてちっこい体は紙袋に操られているようにも見える。",
       "EN": "It looked like her petite body was controlled by the bags she was holding.",
-      "Translation": "摇摇摆摆。"
+      "Translation": "就像纤细的身体被纸袋操纵着一样。"
     },
     {
       "JP": "ふらふら。",
       "EN": "*Totter*.",
-      "Translation": "晃晃悠悠。"
+      "Translation": "摇摇摆摆。"
     },
     {
       "JP": "よろよろ。",
       "EN": "*Waddle*.",
-      "Translation": "摇摇摆摆。"
+      "Translation": "晃晃悠悠。"
     },
     {
       "JP": "ふらふら。",
       "EN": "*Totter*.",
-      "Translation": "晃晃悠悠……"
+      "Translation": "摇摇摆摆。"
     },
     {
       "JP": "よろよろ……べち。",
       "EN": "And eventually...",
-      "Translation": "砰。"
+      "Translation": "晃晃悠悠……砰。"
     },
     {
       "JP": "`理樹@「あ、転んだ」",
@@ -9790,7 +9790,7 @@
     {
       "JP": "惜しい、『勧誘』と言う前に遮られてしまった…。",
       "EN": "So close! Rin almost asked ❛Can you play baseball?❜ by herself...",
-      "Translation": "`真可惜，说出『劝诱』之前被打断了…。"
+      "Translation": "真可惜，说出『劝诱』之前被打断了…。"
     },
     {
       "JP": "`三枝@『えーと、かん…かんねぇ…』",

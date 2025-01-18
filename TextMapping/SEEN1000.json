@@ -1503,7 +1503,7 @@
     {
       "JP": "`理樹@（一体このメモに何の意味があるんだろう…）",
       "EN": "`Riki@(Is there really any point to this memo book...)",
-      "Translation": "理树（那这个笔记还有什么意义吗…）"
+      "Translation": "`理树@（那这个笔记还有什么意义吗…）"
     },
     {
       "JP": "そう思うが、とりあえずツッコまないでおくことにした。",
@@ -1583,7 +1583,7 @@
     {
       "JP": "`理樹@（僕も少しは鍛えようかなぁ…）",
       "EN": "`Riki@(Maybe I should do some muscle training, too...)",
-      "Translation": "理树（我也应该多少锻炼一下了啊…）"
+      "Translation": "`理树@（我也应该多少锻炼一下了啊…）"
     },
     {
       "JP": "ちょっとそう思う。",
@@ -1633,7 +1633,7 @@
     {
       "JP": "本文：『日曜の３じからホットケーキパーティをします。学食でやります。いっぱい食べてほしいのでちょっとおなかすかせて来てね（＾▽＾）』",
       "EN": "Subject: [We will be holding a pancake party at 3 PM on Sunday in the cafeteria. I want you guys to eat a lot, so come with an empty stomach（＾▽＾）]",
-      "Translation": "`本文：@『明天的３点在学校食堂来开烤松饼派对哦。我希望你能多吃一点，所以要空着肚子来哦（＾▽＾）』"
+      "Translation": "正文：『明天的３点在学校食堂来开烤松饼派对哦。我希望你能多吃一点，所以要空着肚子来哦（＾▽＾）』"
     },
     {
       "JP": "`理樹@「あ、これか」",
@@ -1643,7 +1643,7 @@
     {
       "JP": "ひとまず『了解＾＾　何か必要なものはない？』と返信をする。",
       "EN": "I mailed her back: [Got it. Is there anything I need to bring with me?]",
-      "Translation": "`先回复说@『了解＾＾有什么要带的东西吗？』"
+      "Translation": "先回复说『了解＾＾有什么要带的东西吗？』"
     },
     {
       "JP": "『うん、カセットコンロとフライパンがあると助かっちゃいます（＾▽＾）』",
@@ -3003,17 +3003,17 @@
     {
       "JP": "`恭介@「完成したか…ヴィクトリー・ホットケーキ…略してヴィッキーが」",
       "EN": "`Kyousuke@❝All right, you finally made a victory pancake... in short, a vikey.❞",
-      "Translation": "我伴着枫糖浆，开始吃着。"
+      "Translation": "`恭介@「完成了吗？Victory蛋糕…或者说，vikey」"
     },
     {
       "JP": "`鈴@「きしょい名前つけるな！」",
       "EN": "`Rin@❝That name is gross!❞",
-      "Translation": "`理树@「嗯，很好吃哟」"
+      "Translation": "`铃@「那个名字好难听啊！」"
     },
     {
       "JP": "メープルシロップをかけ、ホットケーキを頬張る。",
       "EN": "We started eating the pancakes together with maple syrup.",
-      "Translation": "`恭介@「烤得很好啊」"
+      "Translation": "`我伴着枫糖浆，开始吃着。"
     },
     {
       "JP": "`理樹@「うん、美味しいよ」",

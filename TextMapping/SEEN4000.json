@@ -9373,7 +9373,7 @@
     {
       "JP": "モンペチ『味噌煮込み味』とラベルに書いてある。",
       "EN": "Those were labeled as ❛Miso Stew Flavor.❜",
-      "Translation": "`罐头上贴着@『浓炖味噌味』的标签。"
+      "Translation": "罐头上贴着『浓炖味噌味』的标签。"
     },
     {
       "JP": "`クド@「ヴェルカは最近これがお気に入りらしいです」",
@@ -9778,12 +9778,12 @@
     {
       "JP": "`クド@「三枝さんのいうとおりダメダメわんこです…」",
       "EN": "`Kud@❝Just as Saigusa-san said, I'm a good-for-nothing poochie...❞",
-      "Translation": "库特「和三枝所说的一样，我就是条不中用的废柴小狗的说…」"
+      "Translation": "`库特@「和三枝所说的一样，我就是条不中用的废柴小狗的说…」"
     },
     {
       "JP": "ストップウォッチを持って『よういはじめ』を言った途端、クドは慌てふためいてしまっていた。",
       "EN": "Kud had become increasingly flustered ever since I started the stopwatch with a ❛ready, set, go.❜",
-      "Translation": "`手握秒表并宣言@『各就各位』的时候，库特露出了一副心神不定的样子。"
+      "Translation": "手握秒表并宣言『各就各位』的时候，库特露出了一副心神不定的样子。"
     },
     {
       "JP": "`理樹@「通信教育のときはどうしてたの？」",
@@ -13043,7 +13043,7 @@
     {
       "JP": "`理樹@（クドも、同じ気分だったのかな）",
       "EN": "`Riki@(I wonder, could she also be feeling how I'm feeling?)",
-      "Translation": "理树（库特她，是不是也和我一样呢）"
+      "Translation": "`理树@（库特她，是不是也和我一样呢）"
     },
     {
       "JP": "僕は頭を軽く振った。",
@@ -13053,7 +13053,7 @@
     {
       "JP": "`理樹@（だったら、ちょっと、嬉しいかもしれないな）",
       "EN": "`Riki@(If so, it makes me kinda happy.)",
-      "Translation": "理树（这样的话，还真有点，高兴呢）"
+      "Translation": "`理树@（这样的话，还真有点，高兴呢）"
     },
     {
       "JP": "僕はそんなことを考えながら、部屋へ帰るべく歩き始めた。",

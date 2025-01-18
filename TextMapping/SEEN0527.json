@@ -619,7 +619,7 @@
     {
       "JP": "`理樹@（そんなにしなくても見つけるってば）",
       "EN": "`Riki@(I could see you even if you didn't do that...)",
-      "Translation": "理树（即使不那么做我也能看到的吧）"
+      "Translation": "`理树@（即使不那么做我也能看到的吧）"
     },
     {
       "JP": "`クド@「席、空いていますよ～」",
@@ -3424,22 +3424,22 @@
     {
       "JP": "`恭介@「完成したか…ヴィクトリー・ホットケーキ…略してヴィッキーが」",
       "EN": "`Kyousuke@❝All right, you finally made a victory pancake... in short, a vikey.❞",
-      "Translation": "我伴着枫糖浆，开始吃着。"
+      "Translation": "`恭介@「完成了吗？Victory蛋糕…或者说，vikey」"
     },
     {
       "JP": "`鈴@「きしょい名前つけるな！」",
       "EN": "`Rin@❝That name is gross!❞",
-      "Translation": "`理树@「嗯，很好吃哟」"
+      "Translation": "`铃@「那个名字好难听啊！」"
     },
     {
       "JP": "メープルシロップをかけ、ホットケーキを頬張る。",
       "EN": "We started eating the pancakes together with maple syrup.",
-      "Translation": "`恭介@「烤得很好啊」"
+      "Translation": "我伴着枫糖浆，开始吃着。"
     },
     {
       "JP": "`理樹@「うん、美味しいよ」",
       "EN": "`Riki@❝This is great.❞",
-      "Translation": "`铃@「这样啊」"
+      "Translation": "`理树@「啊，味道不错啊」"
     },
     {
       "JP": "`恭介@「よく焼けてるな」",

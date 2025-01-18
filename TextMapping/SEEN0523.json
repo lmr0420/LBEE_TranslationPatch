@@ -599,12 +599,12 @@
     {
       "JP": "`理樹@「はぁ…」",
       "EN": "`Riki@❝Haa....❞",
-      "Translation": "`小毬@「海胆很好吃的哟～」"
+      "Translation": "`理树@「唉…」"
     },
     {
       "JP": "このため息はなんのため息なんだろう？",
       "EN": "Why was I sighing?",
-      "Translation": "`叶留佳@「咦－？我倒是不怎么喜欢」"
+      "Translation": "我为什么要叹气啊？"
     },
     {
       "JP": "`理樹@「あー、確かにあれ食べようと思ったのはすごいよね」",
@@ -1994,7 +1994,7 @@
     {
       "JP": "どうして、ひとりの男の子の恋患いを気にする必要があったんだ…『手紙の主』は。",
       "EN": "Why did the task sender, the author of the letter, have to worry about one boy's lovesickness...? ",
-      "Translation": "`为什么@『信的主人』…会去留意一个男人的相思病…。"
+      "Translation": "为什么『信的主人』…会去留意一个男人的相思病…。"
     },
     {
       "JP": "その課題のおかげで、たちまち一貫性を失った。",
@@ -2024,7 +2024,7 @@
     {
       "JP": "`鈴@「出迎えご苦労」",
       "EN": "`Rin@❝Thanks for the welcome.❞",
-      "Translation": "铃@「同志们辛苦了」"
+      "Translation": "`铃@「同志们辛苦了」"
     },
     {
       "JP": "`鈴@「…たまには出迎えてくれなくてもいいぞ」",
@@ -2129,27 +2129,27 @@
     {
       "JP": "ごろごろ。猫が喉を鳴らす。",
       "EN": "The cat purred.",
-      "Translation": "呼噜呼噜。"
+      "Translation": "呼噜呼噜。小猫们用喉咙发出声音"
     },
     {
       "JP": "`鈴@「くすぐり方、上達したろ？」",
       "EN": "`Rin@❝Don't you think I've gotten better at titillating?❞",
-      "Translation": "小猫们用喉咙发出声音"
+      "Translation": "`铃@「搔痒的方法、进步了吧？」"
     },
     {
       "JP": "`鈴@「くすぐりますたー」",
       "EN": "`Rin@❝I'm a master of titillating.❞",
-      "Translation": "`铃@「搔痒的方法、进步了吧？」"
+      "Translation": "`铃@「帮你搔痒吧」"
     },
     {
       "JP": "みゃう。",
       "EN": "Meow.",
-      "Translation": "`铃@「帮你搔痒吧」"
+      "Translation": "喵——。"
     },
     {
       "JP": "`鈴@「おまえもしてほしいか？」",
       "EN": "`Rin@❝You want to be titillated as well?❞",
-      "Translation": "`喵——铃@「你也想吗？」"
+      "Translation": "`铃@「你也想吗？」"
     },
     {
       "JP": "`鈴@「うむ、そこに並べ」",
@@ -7694,7 +7694,7 @@
     {
       "JP": "`理樹@（校舎の中に入ってきてたら、まずいよなぁ）",
       "EN": "`Riki@(It can get bad if they come into the school building.)",
-      "Translation": "理树（进入校舍里可就麻烦了）"
+      "Translation": "`理树@（进入校舍里可就麻烦了）"
     },
     {
       "JP": "ひとまず外に連れ出そう。",
@@ -8424,37 +8424,37 @@
     {
       "JP": "ふわふわのスポンジに、香ばしいくるみの歯ごたえ。",
       "EN": "The cake itself had a light, sponge-like texture, and the crunchy walnut flavor spread in my mouth.",
-      "Translation": "软软的海绵蛋糕体上，核桃的香味充斥着牙齿的每个角落。我至今还从没吃过有那么香的市场上零售的蛋糕。"
+      "Translation": "软软的海绵蛋糕体上，核桃的香味充斥着牙齿的每个角落。"
     },
     {
       "JP": "市販のものでこんなにいい香りがするのは、食べた事がない。",
       "EN": "I hadn't eaten a shop cake this good-smelling before.",
-      "Translation": "`小毬@「这个可是我特别推荐的哟－」"
+      "Translation": "我至今还从没吃过有那么香的市场上零售的蛋糕。"
     },
     {
       "JP": "`小毬@「これは特にオススメなんだよー」",
       "EN": "`Komari@❝This is my special favorite.❞",
-      "Translation": "`小毬@「哪儿有的卖我下次告诉你吧」"
+      "Translation": "`小毬@「这个可是我特别推荐的哟－」"
     },
     {
       "JP": "`小毬@「今度売ってるところ教えてあげるね」",
       "EN": "`Komari@❝I'll show you the place where they sell it, next time.❞",
-      "Translation": "`理树@「是啊，下次我自己去买好了」"
+      "Translation": "`小毬@「哪儿有的卖我下次告诉你吧」"
     },
     {
       "JP": "`理樹@「そうだね、今度買いに行ってみるよ」",
       "EN": "`Riki@❝Yeah, I want to visit that shop.❞",
-      "Translation": "吃完核桃蛋糕后，我喝起乌龙茶来。"
+      "Translation": "`理树@「是啊，下次我自己去买好了」"
     },
     {
       "JP": "パウンドケーキを食べ終わり、ウーロン茶を口に運んでいると。",
       "EN": "When I finished my cake and was drinking my oolong tea...",
-      "Translation": "`声@「…那边的两位」"
+      "Translation": "吃完核桃蛋糕后，我喝起乌龙茶来。"
     },
     {
       "JP": "`声@「…そこのお二人さん」",
       "EN": "`Voice@❝...you two over there.❞",
-      "Translation": "传来了一个威严的声音。"
+      "Translation": "`声@「…那边的两位」"
     },
     {
       "JP": "`小毬@「ふえ…？」",
@@ -8534,7 +8534,7 @@
     {
       "JP": "`二木@「足で２４時間踏み続けてたりとかしてなければ大丈夫じゃない？」",
       "EN": "`Futaki@❝It should be fine if you don't step on it on 24/7.❞",
-      "Translation": "`二木@「要是不是２４小时连续踩踏的话不也没关系么？」"
+      "Translation": "`二木@「如果不是２４小时连续踩踏的话不也没关系么？」"
     },
     {
       "JP": "`二木@「でも、入ったのなら小石とか拾ってくれると助かるかしら」",
@@ -11194,27 +11194,27 @@
     {
       "JP": "`西園@「すみません…風で飛んでしまいました」",
       "EN": "`Nishizono@❝I'm sorry... It was blown away by the wind.❞",
-      "Translation": "恭介为追随风飘走的便签纸而从略感欣慰的我身边跑了出去。"
+      "Translation": "`西园@「抱歉…被风吹走了」"
     },
     {
       "JP": "…真人もまだ走っていた。",
       "EN": "...Masato was still running after his.",
-      "Translation": "`西园@「抱歉…被风吹走了」"
+      "Translation": "…真人也还在追。"
     },
     {
       "JP": "色々あったけど。",
       "EN": "Even though this and that happened.",
-      "Translation": "…真人也还在追。"
+      "Translation": "虽然发生了各种各样的事。"
     },
     {
       "JP": "無事、全員分を登録完了。",
       "EN": "She completed adding everyone to her contact list.",
-      "Translation": "虽然发生了各种各样的事。"
+      "Translation": "不过还是顺利地把全员的资料登录完了。"
     },
     {
       "JP": "みんなも西園さんの番号とアドレスを登録した。",
       "EN": "Everyone else added her to their address books as well.",
-      "Translation": "不过还是顺利地把全员的资料登录完了。大家也都登录了西园的电话和邮件地址。"
+      "Translation": "大家也都登录了西园的电话和邮件地址。"
     },
     {
       "JP": "`理樹@「よかったね。なんとかアドレス交換できて」",
@@ -14784,7 +14784,7 @@
     {
       "JP": "`理樹@「で、みんなを呼ぼうと思うんだ」",
       "EN": "`Riki@❝I think we should call everyone here.❞",
-      "Translation": "…就是不是很想让大家都被卷进这种无聊事里…。"
+      "Translation": "`理树@「我觉得该把大家叫来了」"
     },
     {
       "JP": "`謙吾@「それはわからんが、何をしたらいいものか…」",

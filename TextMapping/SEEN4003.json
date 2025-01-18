@@ -583,7 +583,7 @@
     {
       "JP": "`所員@「イワン・セルゲイヴィチ（同志イワン）、その子を連れて行くのですか？」",
       "EN": "`Staff@❝Ivan Sergeevich (Comrade Ivan), are you taking this kid with you?❞",
-      "Translation": "研究所人员「伊凡·塞尔盖伊维基（同志伊凡），能照管好这女孩吗？」"
+      "Translation": "`研究所人员@「伊凡·塞尔盖伊维基（同志伊凡），能照管好这女孩吗？」"
     },
     {
       "JP": "`祖父@「銃が持てないならここにいなさい」",
@@ -623,7 +623,7 @@
     {
       "JP": "`所員@「…まずいことになりました」",
       "EN": "`Staff@❝...It's gotten really bad.❞",
-      "Translation": "研究所人员「…这下麻烦了啊」"
+      "Translation": "`研究所人员@「…这下麻烦了啊」"
     },
     {
       "JP": "`祖父@「どうした…」",
@@ -1388,7 +1388,7 @@
     {
       "JP": "『全部』思い出した私。",
       "EN": "I had remembered ❛everything.❜",
-      "Translation": "`已经@『全部』都想起来的我。"
+      "Translation": "已经『全部』都想起来的我。"
     },
     {
       "JP": "ひどい状況で自分ができることなんか何一つなく…。",
@@ -4958,7 +4958,7 @@
     {
       "JP": "『これ』を捨てて欲しかった。",
       "EN": "❛This❜ is what she wanted me to throw away.",
-      "Translation": "`希望把@『这个』扔掉。"
+      "Translation": "希望把『这个』扔掉。"
     },
     {
       "JP": "クドが残したもの。",
@@ -7783,7 +7783,7 @@
     {
       "JP": "…その『楽園』から届いた映像の中で、そのひとはただ笑って夢を語っている。",
       "EN": "...In the film we'd received from that ❛paradise,❜ that person kept smiling and talking about her dreams.",
-      "Translation": "`…在那个@『乐园』传来的短片中，那人笑着说着梦中的话。"
+      "Translation": "…在那个『乐园』传来的短片中，那人笑着说着梦中的话。"
     },
     {
       "JP": "クドが夢を語っていたように。",

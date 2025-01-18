@@ -929,22 +929,22 @@
     {
       "JP": "`理樹@「うわああぁ、ものすごい器のでかさだ!!」",
       "EN": "`Riki@❝Wow, you really are that generous!!❞",
-      "Translation": "`理树@「不要啊，这是旅行用的钱啊！」"
+      "Translation": "`理树@「哇，你还真是慷慨啊！」"
     },
     {
       "JP": "`理樹@「でも旅行の資金はどうするんだろ…」",
       "EN": "`Riki@❝But what will you do about the money for the trip...❞",
-      "Translation": "…在他就要放进去的一瞬间阻止了他。"
+      "Translation": "`理树@「但你旅行的资金怎么办…」"
     },
     {
       "JP": "その言葉に反応して、恭介は動きを止めていた。",
       "EN": "Hearing that, Kyousuke stopped cold.",
-      "Translation": "`小毬@「什么？旅行？」"
+      "Translation": "听到这句话，恭介停下了动作。"
     },
     {
       "JP": "`理樹@「いや、だからそれ旅行の資金でしょ！」",
       "EN": "`Riki@❝Wait, that's money for your trip!❞",
-      "Translation": "`理树@「是恭介的就职活动」"
+      "Translation": "`理树@「不要啊，这是旅行用的钱啊！」"
     },
     {
       "JP": "…その寸前で止めた。",
@@ -2609,12 +2609,12 @@
     {
       "JP": "さらに風でパンツが丸見えになっていたと伝えたら、とどめになりそうだ!!",
       "EN": "If I told her that her panties had been completely visible too, that'd be the killing blow!!",
-      "Translation": "`朱鹭户@「哈哈…很滑稽吧，沉迷在游戏中，到了即使在背后被刺了也不会注意到的程度，这是什么样的间谍啊，完全是个笨蛋嘛，你笑就好了啊，喂，你给我笑啊，啊　哈　哈　哈这样的笑啊！」"
+      "Translation": "如果再告诉她因为风内裤都露出来了的话，应该会给她致命一击！！"
     },
     {
       "JP": "`朱鷺戸@$S028「はは…滑稽でしょ、ゲームに熱中して、背後から刺されまくってても気づかないぐらいだったんだもの、どんなスパイよ、馬鹿丸出しね、笑うがいいわ、ほら、笑いなさいよ、あーーーっはっはっはっ！って」",
       "EN": "`Tokido@$S024❝Haha, how funny. I got so caught up in a game that I wouldn't have noticed someone stabbing me in the back. What kind of spy am I? I'm a complete idiot. It's okay to laugh. Come on, go ahead and laugh. ❛Ahahaha.❜❞",
-      "Translation": "`朱鹭户@$S024「哈哈…很滑稽吧，沉迷在游戏中，到了即使在背后被刺了也不会注意到的程度，这是什么样的间谍啊，完全是个笨蛋嘛，你笑就好了啊，喂，你给我笑啊，啊　哈　哈　哈这样的笑啊！」"
+      "Translation": "`朱鹭户@$S028「哈哈…很滑稽吧，沉迷在游戏中，到了即使在背后被刺了也不会注意到的程度，这是什么样的间谍啊，完全是个笨蛋嘛，你笑就好了啊，喂，你给我笑啊，啊　哈　哈　哈这样的笑啊！」"
     },
     {
       "JP": "`朱鷺戸@「あーっはっはっはっ！」",
@@ -2709,7 +2709,7 @@
     {
       "JP": "`恭介@「すごい喜びようだな…そこまでおまえがバトル好きだったとは…」",
       "EN": "`Kyousuke@❝You're so psyched about it... Do you like battles that much...❞",
-      "Translation": "恭介@「好像很高兴啊，你竟然这么喜欢战斗…」"
+      "Translation": "`恭介@「好像很高兴啊，你竟然这么喜欢战斗…」"
     },
     {
       "JP": "練習相手か…誰にしよう。",
@@ -4129,7 +4129,7 @@
     {
       "JP": "`恭介@「どれも等しくミッションさ」",
       "EN": "`Kyousuke@❝We should treat everything as a mission.❞",
-      "Translation": "恭介@「不管哪个都是很重要的任务」"
+      "Translation": "`恭介@「不管哪个都是很重要的任务」"
     },
     {
       "JP": "絶対騙されてる気がする…。",
@@ -5184,7 +5184,7 @@
     {
       "JP": "`恭介@「どれも等しくミッションさ」",
       "EN": "`Kyousuke@❝We should treat everything as a mission.❞",
-      "Translation": "恭介@「不管哪个都是很重要的任务」"
+      "Translation": "`恭介@「不管哪个都是很重要的任务」"
     },
     {
       "JP": "絶対騙されてる気がする…。",

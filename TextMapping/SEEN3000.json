@@ -478,7 +478,7 @@
     {
       "JP": "`風紀委員２@「あなたのことだから、どうせ何かしたんでしょう」",
       "EN": "`Prefect 2@❝You know what you did.❞",
-      "Translation": "风纪委员２「因为是你惹出来的，肯定是干了什么坏事吧」"
+      "Translation": "`风纪委员２@「因为是你惹出来的，肯定是干了什么坏事吧」"
     },
     {
       "JP": "`葉留佳@「…最初から疑うっていうのもどうかと思うんだけどナァ」",
@@ -523,7 +523,7 @@
     {
       "JP": "`風紀委員２@「とにかく来てもらいます！」",
       "EN": "`Prefect 2@❝Anyway, I'm taking you in!❞",
-      "Translation": "风纪委员２「不管如何，我都要把你抓起来！」"
+      "Translation": "`风纪委员２@「不管如何，我都要把你抓起来！」"
     },
     {
       "JP": "`葉留佳@「…わかったよ、しょうがないナァ…」",
@@ -3323,7 +3323,7 @@
     {
       "JP": "`風紀委員１@「せ、先輩！　あそこに三枝葉留佳がっ！」",
       "EN": "`Prefect 1@❝Se, senpai! Haruka Saigusa is over there!❞",
-      "Translation": "风纪委员１「前、前辈！三枝叶留佳在那边！」"
+      "Translation": "`风纪委员１@「前、前辈！三枝叶留佳在那边！」"
     },
     {
       "JP": "ピー、と笛が鳴らされた。わらわらと風紀委員がなぜかぎくしゃくした動きで出てくる。",
@@ -3518,7 +3518,7 @@
     {
       "JP": "『第（読めない。ぐしゃぐしゃと塗りつぶされている）回整備委員会会議』",
       "EN": "[The (unintelligible... it's all messed up) 'th Meeting of the Maintenance Committee]",
-      "Translation": "`『第@（看不清楚。被涂的一片模糊）回整备委员会会议』"
+      "Translation": "『第（看不清楚。被涂的一片模糊）回整备委员会会议』"
     },
     {
       "JP": "…と、やたらきっちりした文字が並んでいる。",
@@ -5868,7 +5868,7 @@
     {
       "JP": "`風紀委員１@「な、なんてことを…っ！　許すまじ風紀の乱れ！」",
       "EN": "`Prefect 1@❝Wh... What are you doing! Making a mockery of public morals!❞",
-      "Translation": "@风纪委员１@「怎、怎么会这样…！扰乱风纪的绝不饶恕！」"
+      "Translation": "`风纪委员１@「怎、怎么会这样…！扰乱风纪的绝不饶恕！」"
     },
     {
       "JP": "鋭いホイッスルの音。",
@@ -5988,7 +5988,7 @@
     {
       "JP": "`風紀委員２@「待ちなさい！　三枝葉留佳ぁ！」",
       "EN": "`Prefect 2@❝Just you wait! Haruka Saigusaaa!❞",
-      "Translation": "风纪委员２「给我等等！三枝叶留佳！」"
+      "Translation": "`风纪委员２@「给我等等！三枝叶留佳！」"
     },
     {
       "JP": "`理樹@「…うわぁ！　やっぱり増えてるしっ！」",
@@ -6423,7 +6423,7 @@
     {
       "JP": "`クラスの女子@「じゃ、お父さんの名前と、それに生年月日から――」",
       "EN": "`Girl@❝Well, based on the combination of your father's name and your birthdate――❞",
-      "Translation": "班上的女生「那么，将父亲的名字和出生年月日——」"
+      "Translation": "`班上的女生@「那么，将父亲的名字和出生年月日——」"
     },
     {
       "JP": "`葉留佳@「ねー、何、何してるのー？」",
@@ -6433,7 +6433,7 @@
     {
       "JP": "`クラスの女子@「最近出たエムワイセレクションの占いー。三枝さんもやる？」",
       "EN": "`Girl@❝It's a new MY Selection fortune-telling. Saigusa-san, would you like to try it?❞",
-      "Translation": "班上的女生「最近刚出的ＭＹＳｅｌｅｃｔｉｏｎ上的占卜。三枝也要试试吗？」"
+      "Translation": "`班上的女生@「最近刚出的ＭＹＳｅｌｅｃｔｉｏｎ上的占卜。三枝也要试试吗？」"
     },
     {
       "JP": "`葉留佳@「うんうん、やる、やる～」",
@@ -6448,12 +6448,12 @@
     {
       "JP": "`クラスの女子@「三枝さんの誕生日はいつ？　…十月十三日？　うん、じゃあええと」",
       "EN": "`Girl@❝Saigusa-san, when's your birthday? ...October 13th? Well then, let's see...❞",
-      "Translation": "班上的女生「三枝的生日是哪一天？…十月十三日？嗯、那还有」"
+      "Translation": "`班上的女生@「三枝的生日是哪一天？…十月十三日？嗯、那还有」"
     },
     {
       "JP": "`クラスの女子@「お父さんの名前と生年月日を教えてー」",
       "EN": "`Girl@❝Please tell me your father's name and birth date.❞",
-      "Translation": "班上的女生「将父亲的名字和出生年月日告诉我—」"
+      "Translation": "`班上的女生@「将父亲的名字和出生年月日告诉我—」"
     },
     {
       "JP": "`葉留佳@「え？」",
@@ -6463,12 +6463,12 @@
     {
       "JP": "`クラスの女子@「だから、お父さんの名前、生年月日。それを使ってね、三枝さんの…」",
       "EN": "`Girl@❝Like I said, I need your father's name and birth date. With that, I can tell your...❞",
-      "Translation": "班上的女生「我说、父亲的名字和出生年月日。要用到这个的，三枝的…」"
+      "Translation": "`班上的女生@「我说、父亲的名字和出生年月日。要用到这个的，三枝的…」"
     },
     {
       "JP": "`クラスの女子@「…三枝さん？　聞いてる？」",
       "EN": "`Girl@❝...Saigusa-san? Are you listening?❞",
-      "Translation": "班上的女生「…三枝？你在听吗？」"
+      "Translation": "`班上的女生@「…三枝？你在听吗？」"
     },
     {
       "JP": "`葉留佳@「えっと………」",
@@ -6498,7 +6498,7 @@
     {
       "JP": "`クラスの女子@「うん…い、いいけど」",
       "EN": "`Girl@❝Oh... o, okay.❞",
-      "Translation": "班上的女生「嗯…没、没事的」"
+      "Translation": "`班上的女生@「嗯…没、没事的」"
     },
     {
       "JP": "クラスの女子たちもさすがに葉留佳さんの様子がおかしいことに気がついたようだ。",
@@ -8618,12 +8618,12 @@
     {
       "JP": "`葉留佳の母@「葉留佳、今日はどうするの？　ご飯、食べていかない？」",
       "EN": "`Haruka's Mom@❝Haruka, what are your plans? Will you stay for dinner?❞",
-      "Translation": "叶留佳的母亲「叶留佳，今天怎么打算？吃过饭了吗？」"
+      "Translation": "`叶留佳的母亲@「叶留佳，今天怎么打算？吃过饭了吗？」"
     },
     {
       "JP": "`葉留佳の母@「良かったら、あなたもどうかしら」",
       "EN": "`Haruka's Mom@❝If you'd like, you can stay as well.❞",
-      "Translation": "叶留佳的母亲「不介意的话，你也一起来吧」"
+      "Translation": "`叶留佳的母亲@「不介意的话，你也一起来吧」"
     },
     {
       "JP": "`理樹@「葉留佳さん？」",
@@ -8648,7 +8648,7 @@
     {
       "JP": "`葉留佳の母@「恥ずかしがってるみたい。しょうがないんだから、もう」",
       "EN": "`Haruka's Mom@❝Oh, you're feeling a little shy. What'll I do with you two, really.❞",
-      "Translation": "叶留佳的母亲「好像是害羞了。真是拿她没办法」"
+      "Translation": "`叶留佳的母亲@「好像是害羞了。真是拿她没办法」"
     },
     {
       "JP": "びくん、と葉留佳さんの腕が震えた。",
@@ -8658,17 +8658,17 @@
     {
       "JP": "`葉留佳の母@「決まったら教えてね、葉留佳」",
       "EN": "`Haruka's Mom@❝When you decide, just let me know, Haruka.❞",
-      "Translation": "叶留佳的母亲「决定好了就告诉我吧，叶留佳」"
+      "Translation": "`叶留佳的母亲@「决定好了就告诉我吧，叶留佳」"
     },
     {
       "JP": "`葉留佳の母@「あなたも是非夕ご飯を食べていって」",
       "EN": "`Haruka's Mom@❝Please feel free to stay for dinner.❞",
-      "Translation": "叶留佳的母亲「你也一定要和我们一起吃哦」"
+      "Translation": "`叶留佳的母亲@「你也一定要和我们一起吃哦」"
     },
     {
       "JP": "`葉留佳の母@「葉留佳が友達を連れてきたのは久しぶりだから」",
       "EN": "`Haruka's Mom@❝It's been such a long time since Haruka brought someone home.❞",
-      "Translation": "叶留佳的母亲「叶留佳好久没有带朋友回来了」"
+      "Translation": "`叶留佳的母亲@「叶留佳好久没有带朋友回来了」"
     },
     {
       "JP": "そのひとはそれだけ言って、ドアを閉めた。",
@@ -9478,7 +9478,7 @@
     {
       "JP": "`葉留佳@（…理樹くんだけに見せるんだよ、って言ったらどんな顔するのかな…）",
       "EN": "`Haruka@(...I wonder how he'd react if I told him he's the only boy who's seen it...)",
-      "Translation": "叶留佳（…要是我说出「只让理树君一个人看哦」的话他会是什么表情呢…）"
+      "Translation": "`叶留佳@（…要是我说出「只让理树君一个人看哦」的话他会是什么表情呢…）"
     },
     {
       "JP": "でも、私はこんな子なので…。",
@@ -9553,7 +9553,7 @@
     {
       "JP": "私は『要らない子』だったから、誰にとってもそうだったから。",
       "EN": "Because I was the ❛unwanted child,❜ other people saw me like that too.",
-      "Translation": "`因为我是@『不被需要的孩子』，无论对什么人都一样。"
+      "Translation": "因为我是『不被需要的孩子』，无论对什么人都一样。"
     },
     {
       "JP": "勇気を振り絞って言っても…受け止めてもらえることなんてなかった。",
@@ -9833,17 +9833,17 @@
     {
       "JP": "`葉留佳@「困ったもんだね」",
       "EN": "`Haruka@❝What a bother, don't you think?❞",
-      "Translation": "「我只是普通的在走路就被追着了唷」"
+      "Translation": "`叶留佳@「真是不好办呢」"
     },
     {
       "JP": "そんな他人事みたいにっ。",
       "EN": "Like it's someone else's problem.",
-      "Translation": "`叶留佳@「真是不好办呢」"
+      "Translation": "这样用像是别人的事情一样的口气。"
     },
     {
       "JP": "あと膨れてる上着のポケットはやっぱりビー玉が入ってるんじゃないだろうか。",
       "EN": "How can you act so victimized when I'm sure those are marbles bulging in your jacket pocket...",
-      "Translation": "这样用像是别人的事情一样的口气。上衣鼓起来的口袋里果然是放着弹珠吧。"
+      "Translation": "上衣鼓起来的口袋里果然是放着弹珠吧。"
     },
     {
       "JP": "風紀委員はそれをみて予防のため（？）に声を掛けたのかもしれない。",
@@ -9893,7 +9893,7 @@
     {
       "JP": "`？？？@「つまらないことをしているのは、あなたでしょう」",
       "EN": "`???@❝The boring one here is you.❞",
-      "Translation": "「做着无聊的事情的，是你吧」"
+      "Translation": "`？？@「做着无聊的事情的，是你吧」"
     },
     {
       "JP": "不意に聞こえた声に葉留佳さんは、びくっ、と体をすくめた。",
@@ -11923,22 +11923,22 @@
     {
       "JP": "`葉留佳@「…あと、クラスの人に私のこと訊かないでほしいんだ」",
       "EN": "`Haruka@❝...Also, I'd like you not to ask the people in class about me.❞",
-      "Translation": "`理树@「嗯，我知道了」"
+      "Translation": "`叶留佳@「…还有，我希望你不要问班上的人有关我的事」"
     },
     {
       "JP": "`葉留佳@「ほら、私、浮いてる子だからさ」",
       "EN": "`Haruka@❝You see, I'm an outcast.❞",
-      "Translation": "`叶留佳@「再见，理树君」"
+      "Translation": "`叶留佳@「你看，我就是个被驱逐的孩子」"
     },
     {
       "JP": "`理樹@「浮いてる？」",
       "EN": "`Riki@❝An outcast?❞",
-      "Translation": "`理树@「嗯，再见，叶留佳」"
+      "Translation": "`理树@「驱逐？」"
     },
     {
       "JP": "`葉留佳@「そうだよ。教室は私の居場所じゃないの」",
       "EN": "`Haruka@❝That's right. The classroom isn't where I belong.❞",
-      "Translation": "我目送叶留佳远去。"
+      "Translation": "`叶留佳@「是啊。教室不属于我」"
     },
     {
       "JP": "`葉留佳@「そこにいていい、なんて誰もいってくれないの」",

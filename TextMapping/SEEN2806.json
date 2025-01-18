@@ -1798,7 +1798,7 @@
     {
       "JP": "`理樹@「さっきの部屋と一緒だね。継ぎ目はあるけど、反応はなし」",
       "EN": "`Riki@❝It's the same as the room just now. There's a seam but no reaction.❞",
-      "Translation": "`理树@「跟刚才的房间一样呢。虽然有接缝的痕迹，却完全没反映」"
+      "Translation": "`理树@「跟刚才的房间一样呢。虽然有接缝的痕迹，却完全没反应」"
     },
     {
       "JP": "`朱鷺戸@「じゃ、探索を続けましょ」",
@@ -1813,22 +1813,22 @@
     {
       "JP": "`朱鷺戸@「でも、まだ王って字を完成させてないじゃない」",
       "EN": "`Tokido@❝But, the kanji ❛王❜ is still not complete, right?❞",
-      "Translation": "朱鹭户同学靠近墙壁，用手敲了敲。"
+      "Translation": "`朱鹭户@「但是，那个『王』字还没有完成呢」"
     },
     {
       "JP": "`理樹@「うわあ、それだっ！　それに気づいてなかった！　絶対それだよ…」",
       "EN": "`Riki@❝Uwa, that's it! I didn't realize that!　It's definitely that...❞",
-      "Translation": "`朱鹭户@「对面侧是空洞呢」"
+      "Translation": "`理树@「呜哇，是啊！我都没注意到，绝对是那个…」"
     },
     {
       "JP": "`朱鷺戸@「あたしのほうが参謀みたいね」",
       "EN": "`Tokido@❝It's almost as if I am the brain between us.❞",
-      "Translation": "`朱鹭户@「爆破掉吧，你先躲起来」"
+      "Translation": "`朱鹭户@「总觉得我更像参谋呢」"
     },
     {
       "JP": "`理樹@「すみません、精進します…」",
       "EN": "`Riki@❝I'm sorry, I'll try my best.❞",
-      "Translation": "“轰”地一声，连这里都听得清清楚楚。"
+      "Translation": "`理树@「对不起，我会努力的…」"
     },
     {
       "JP": "ずんっ、とこの階全体が揺れた。",
@@ -2308,7 +2308,7 @@
     {
       "JP": "すると、棺の中から、『それ』がむくりと起きた！",
       "EN": "Immediately afterwards, something abruptly woke up from within the sarcophagus!",
-      "Translation": "`接着，@『那个』突然从棺材里忽地站了起来。"
+      "Translation": "接着，『那个』突然从棺材里忽地站了起来。"
     },
     {
       "JP": "`理樹@「うわぁっ！」",

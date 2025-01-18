@@ -1368,7 +1368,7 @@
     {
       "JP": "`保健室の先生@「能美さんの友達ね」",
       "EN": "`School Nurse@❝You must be her friend.❞",
-      "Translation": "保健室的老师「能美同学的朋友吗」"
+      "Translation": "`保健室的老师@「能美同学的朋友吗」"
     },
     {
       "JP": "`理樹@「そうです」",
@@ -1378,12 +1378,12 @@
     {
       "JP": "`保健室の先生@「パニックは治まったみたいだけど…だいぶめいってるみたいだから」",
       "EN": "`School Nurse@❝She seems to have collected herself... but she's still very depressed.❞",
-      "Translation": "保健室的老师「精神受到的刺激似乎是没问题了…但是情绪方面还是十分的低落」"
+      "Translation": "`保健室的老师@「精神受到的刺激似乎是没问题了…但是情绪方面还是十分的低落」"
     },
     {
       "JP": "`保健室の先生@「寮まで送ってあげてくれないかしら」",
       "EN": "`School Nurse@❝Can I ask you to take her to the dorm?❞",
-      "Translation": "保健室的老师「可否送她到寝室」"
+      "Translation": "`保健室的老师@「可否送她到寝室」"
     },
     {
       "JP": "`理樹@「わかりました」",
@@ -1398,7 +1398,7 @@
     {
       "JP": "`保健室の先生@「能美さん、気分が悪くなったらすぐ来てね。保護者の方とも連絡を取るから」",
       "EN": "`School Nurse@❝Noumi-san, make sure to come to me if you feel sick again. I'm going to call your guardian.❞",
-      "Translation": "保健室的老师「能美同学，感觉哪里不舒服的话就来，监护人方面我会联系的」"
+      "Translation": "`保健室的老师@「能美同学，感觉哪里不舒服的话就来，监护人方面我会联系的」"
     },
     {
       "JP": "僕は保健室の先生に頭を下げて、歩き出した。",
@@ -2953,7 +2953,7 @@
     {
       "JP": "なんて『根拠のない』言葉なのだろう。",
       "EN": "How ❛baseless,❜ the words I just said.",
-      "Translation": "`这是何等@『没有根据』的话啊。"
+      "Translation": "这是何等『没有根据』的话啊。"
     },
     {
       "JP": "でもそんな風に言うぐらいしか思いつかなかった。",
@@ -3438,47 +3438,47 @@
     {
       "JP": "慌てて携帯を開くと、クドからのメールだった。",
       "EN": "I hurriedly opened my cell and found mails from Kud waiting.",
-      "Translation": "慌忙打开手机，出现的是库特发来的短信。『今天真的是十分的感谢ＫＮ』"
+      "Translation": "慌忙打开手机，出现的是库特发来的短信。"
     },
     {
       "JP": "『今日はありがとうございました　ＫＮ』",
       "EN": "[Thank you for today. -KN]",
-      "Translation": "`理树@「…真人，我出去一下」"
+      "Translation": "『今天真的是十分的感谢ＫＮ』"
     },
     {
       "JP": "`理樹@「…真人、ちょっと出てくる」",
       "EN": "`Riki@❝...Masato, I've got to go out for a little while.❞",
-      "Translation": "`理树@「还有，若是有人来查房的话…」"
+      "Translation": "`理树@「…真人，我出去一下」"
     },
     {
       "JP": "`理樹@「それから、見回りのときごまかしてくれると…」",
       "EN": "`Riki@❝So I hope you don't mind taking care of the patrol for me...❞",
-      "Translation": "`真人@「知道知道。回礼，就先记账咯」"
+      "Translation": "`理树@「还有，若是有人来查房的话…」"
     },
     {
       "JP": "`真人@「へいへい。代返のツケ、だいぶ溜まってるぜ？」",
       "EN": "`Masato@❝Sure, sure. By the way, your debt for answering them for you keeps growing.❞",
-      "Translation": "`真人@「不过嘛，算了。快点去吧」"
+      "Translation": "`真人@「知道知道。回礼，就先记账咯」"
     },
     {
       "JP": "`真人@「でもま、いいや。早く行ってやれよ」",
       "EN": "`Masato@❝But what the hell. You hurry up and go to her now.❞",
-      "Translation": "`真人@「老子能做的事也只有如此了」"
+      "Translation": "`真人@「不过嘛，算了。快点去吧」"
     },
     {
       "JP": "`真人@「オレが出来るのはこれぐらいだからな」",
       "EN": "`Masato@❝There's nothing I can do for you guys other than this.❞",
-      "Translation": "`理树@「谢谢你，真人」"
+      "Translation": "`真人@「老子能做的事也只有如此了」"
     },
     {
       "JP": "`理樹@「ありがと、真人」",
       "EN": "`Riki@❝Thanks, Masato.❞",
-      "Translation": "我在走廊上一边走着，一边打着短信。"
+      "Translation": "`理树@「谢谢你，真人」"
     },
     {
       "JP": "廊下を歩きながら、メールを打つ。",
       "EN": "I texted her back as I walked down the hallway.",
-      "Translation": "库特，能来趟部室吗？"
+      "Translation": "我在走廊上一边走着，一边打着短信。"
     },
     {
       "JP": "クド、部室に来られるかな？",

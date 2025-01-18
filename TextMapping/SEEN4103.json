@@ -3,7 +3,7 @@
     {
       "JP": "`理樹@（…『どちら』が正解なのだろう？）",
       "EN": "`Riki@(...I don't know the right answer.)",
-      "Translation": "理树（…到底『哪个』才是正确的选择？）"
+      "Translation": "`理树@（…到底『哪个』才是正确的选择？）"
     },
     {
       "JP": "選びがたいみち、ふたつ。",
@@ -1528,7 +1528,7 @@
     {
       "JP": "『夢』を見ているのだろうか。",
       "EN": "I wonder if he was dreaming?",
-      "Translation": "`是在做着@『梦』吗。"
+      "Translation": "是在做着『梦』吗。"
     },
     {
       "JP": "`クド@「リキの寝顔、やっぱりかわいいです…」",
@@ -2898,7 +2898,7 @@
     {
       "JP": "`保健室の先生@「ずいぶん取り乱していたのだけれど、あなたは事情を知っているの？」",
       "EN": "`Nurse@❝She looked like she was pretty upset. Do you know why?❞",
-      "Translation": "医务室的老师「虽说这么匆匆忙忙地，你知道关于能美同学她的具体事情吗？」"
+      "Translation": "`医务室的老师@「虽说这么匆匆忙忙地，你知道关于能美同学她的具体事情吗？」"
     },
     {
       "JP": "`理樹@「…いえ、知りません」",
@@ -2908,22 +2908,22 @@
     {
       "JP": "`保健室の先生@「フラッシュバックの一種かもしれないわね」",
       "EN": "`Nurse@❝She probably had a flashback.❞",
-      "Translation": "医务室的老师「这可能是一种闪回状态」"
+      "Translation": "`医务室的老师@「这可能是一种闪回状态」"
     },
     {
       "JP": "`保健室の先生@「以前能美さんが、辛い目にあったことを再現されたかなにかで」",
       "EN": "`Nurse@❝It's as though she relived something terrible that she'd seen.❞",
-      "Translation": "医务室的老师「能美同学她过去，一定是见到了某种非常残酷和悲伤的情景，然后再现于她的眼前」"
+      "Translation": "`医务室的老师@「能美同学她过去，一定是见到了某种非常残酷和悲伤的情景，然后再现于她的眼前」"
     },
     {
       "JP": "`保健室の先生@「テレビニュースを見たせいらしいけど」",
       "EN": "`Nurse@❝In all likelihood...❞",
-      "Translation": "医务室的老师「大概是因为看到电视上的新闻了吧」"
+      "Translation": "`医务室的老师@「大概是因为看到电视上的新闻了吧」"
     },
     {
       "JP": "`保健室の先生@「それに関係するのかしらね」",
       "EN": "`Nurse@❝...the news program set it off.❞",
-      "Translation": "医务室的老师「和这个一定有什么关系」"
+      "Translation": "`医务室的老师@「和这个一定有什么关系」"
     },
     {
       "JP": "`理樹@「…わかりません…」",
@@ -3388,7 +3388,7 @@
     {
       "JP": "`保健室の先生@「起きてるわ。でもだいぶ落ち込んでるわ」",
       "EN": "`Nurse@❝She's awake. But she's pretty depressed.❞",
-      "Translation": "医务室的老师「醒是醒来了，但是状态十分地低沉」"
+      "Translation": "`医务室的老师@「醒是醒来了，但是状态十分地低沉」"
     },
     {
       "JP": "`理樹@「そうですか…」",
@@ -3398,12 +3398,12 @@
     {
       "JP": "`保健室の先生@「寮まで送っていってくれるかしら？」",
       "EN": "`Nurse@❝Could you take her to the dorm?❞",
-      "Translation": "医务室的老师「能把她送回寝室吗？」"
+      "Translation": "`医务室的老师@「能把她送回寝室吗？」"
     },
     {
       "JP": "`保健室の先生@「能美さん。お友達がきたわよ」",
       "EN": "`Nurse@❝Noumi-san, your friend is here.❞",
-      "Translation": "医务室的老师「能美同学。你的朋友来了哦」"
+      "Translation": "`医务室的老师@「能美同学。你的朋友来了哦」"
     },
     {
       "JP": "`クド@「……」",
@@ -3433,7 +3433,7 @@
     {
       "JP": "`保健室の先生@「ルームメイトの子にも連絡しておいたわ」",
       "EN": "`Nurse@❝I already contacted her roommate.❞",
-      "Translation": "医务室的老师「我也顺便联系过她的室友了」"
+      "Translation": "`医务室的老师@「我也顺便联系过她的室友了」"
     },
     {
       "JP": "`理樹@「はい。ありがとうございます」",
@@ -4778,7 +4778,7 @@
     {
       "JP": "僕には『これ』が何かもわからないんだ。",
       "EN": "I didn't know anything about ❛this.❜",
-      "Translation": "`我对于@『这个』完全是一头雾水。"
+      "Translation": "我对于『这个』完全是一头雾水。"
     },
     {
       "JP": "何かさえわかれば僕はクドの笑顔を取り戻せるかもしれないのに。",
@@ -5588,7 +5588,7 @@
     {
       "JP": "さっきの『Чай』は男性名詞。",
       "EN": "The [Чай] from earlier was a masculine noun.",
-      "Translation": "`刚才的@『Чай』是男性的专用名词。"
+      "Translation": "刚才的『Чай』是男性的专用名词。"
     },
     {
       "JP": "『Чайка（チャイカ：かもめ）』は女性名詞。",

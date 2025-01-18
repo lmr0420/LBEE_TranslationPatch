@@ -1495,7 +1495,7 @@
     {
       "JP": "`理樹@（なにしてるんだろ？）",
       "EN": "`Riki@(What is she up to?)",
-      "Translation": "理树@（她在干什么？）"
+      "Translation": "`理树@（她在干什么？）"
     },
     {
       "JP": "立て膝をついた鈴は猫じゃらしを振ってみせているようだ。",
@@ -2115,7 +2115,7 @@
     {
       "JP": "`理樹@（…ん？　メールか）",
       "EN": "`Riki@(...Hm? A text?)",
-      "Translation": "理树（…嗯？　短信吗）"
+      "Translation": "`理树@（…嗯？　短信吗）"
     },
     {
       "JP": "授業中だけど、差出人不明なので見ることにした。",
@@ -2860,7 +2860,7 @@
     {
       "JP": "袋には『ニュー・$K3あんぱん$K0』と書いてあった。",
       "EN": "The description on the bag read ❛New $K3Anpan$K0.❜",
-      "Translation": "`在袋子上写着@『Ｎｅｗ·豆沙包』。"
+      "Translation": "在袋子上写着『Ｎｅｗ·豆沙包』。"
     },
     {
       "JP": "`理樹@「これ、あんパン…だよね？」",
@@ -3115,102 +3115,102 @@
     {
       "JP": "よっぽど暇だったんだろうなぁ…。",
       "EN": "She seemed awfully free all right.",
-      "Translation": "就算你对我说你很闲…。"
+      "Translation": "她看起来确实很闲啊。"
     },
     {
       "JP": "`来ヶ谷@「…なんだ、せっかく構って欲しかったのに」",
       "EN": "`Kurugaya@❝...What's with you, when I wanted to have some fun together.❞",
-      "Translation": "看过去，来谷用单手撑着脸的姿势，好像只用右手在阴暗处摆弄着手机。"
+      "Translation": "`来谷@「…怎么了，我还想好好玩一玩呢」"
     },
     {
       "JP": "`理樹@「いや、授業中はさすがにまずいよ」",
       "EN": "`Riki@❝Well, it's not something you should do during class.❞",
-      "Translation": "从讲台那里来看怎么看不出来是在摆弄着手机吧。"
+      "Translation": "`理树@「不，毕竟是在上课，这样不太好吧」"
     },
     {
       "JP": "`来ヶ谷@「まあ、仕方あるまい」",
       "EN": "`Kurugaya@❝Well, it can't be helped.❞",
-      "Translation": "`总之，回信@『那做点什么好啊』。"
+      "Translation": "`来谷@「嘛，没办法了」"
     },
     {
       "JP": "`小毬@「ゆ、ゆいちゃんなにあれーっ!?」",
       "EN": "`Komari@❝Yu, Yui-chan... what's this!?❞",
-      "Translation": "来谷瞥了一眼桌子阴影下隐藏的手机，然后就用那个姿势来了回信。"
+      "Translation": "`小毬@「呜，小唯那是什么啊!?」"
     },
     {
       "JP": "`来ヶ谷@「いや、ゆいちゃんと呼ぶのは止めてくれ…」",
       "EN": "`Kurugaya@❝No, please stop calling me Yui-chan...❞",
-      "Translation": "发信人：来谷唯湖$d题目：『无题』"
+      "Translation": "`来谷@「不，别叫我小唯…」"
     },
     {
       "JP": "`理樹@「え、どうしたの？」",
       "EN": "`Riki@❝Eh, what's wrong?❞",
-      "Translation": "发信人：来谷唯湖$d题目：『无题』"
+      "Translation": "`理树@「诶，怎么了？」"
     },
     {
       "JP": "`小毬@「さ、さっきメールで…」",
       "EN": "`Komari@❝Th, that mail I received earlier...❞",
-      "Translation": "正文：『就先一边跳着一边叫着「阿皮哟」并对着真人少年那样发出天马百烈拳』"
+      "Translation": "`小毬@「那，那封邮件…」"
     },
     {
       "JP": "`小毬@「………」",
       "EN": "`Komari@❝.........❞",
-      "Translation": "`Komari@❝.........❞"
+      "Translation": "`小毬@「………」"
     },
     {
       "JP": "…よくわからないが、僕がメールに反応しなかったせいで、小毬さんに被害が及んだらしい…。",
       "EN": "I didn't know what it was about, but looks like because I had ignored the text message, Komari-san took some flak...",
-      "Translation": "I didn't know what it was about, but looks like because I had ignored the text message, Komari-san took some flak..."
+      "Translation": "…虽然不太明白，但好像因为我没有回复邮件，小毬受到了牵连…"
     },
     {
       "JP": "`来ヶ谷@「はっはっは」",
       "EN": "`Kurugaya@❝Ha ha ha.❞",
-      "Translation": "`Kurugaya@❝Ha ha ha.❞"
+      "Translation": "`来谷@「哈哈哈」"
     },
     {
       "JP": "`小毬@「ふええっ、い、いつの間に撮ったのあんなのーっ!?」",
       "EN": "`Komari@❝Fuee, when did you take that picture～!?❞",
-      "Translation": "`Komari@❝Fuee, when did you take that picture～!?❞"
+      "Translation": "`小毬@「呜哇，什么时候拍的那种照片啊!?」"
     },
     {
       "JP": "`理樹@「何を送ったのさ…」",
       "EN": "`Riki@❝What did you send her...❞",
-      "Translation": "`Riki@❝What did you send her...❞"
+      "Translation": "`理树@「你发了什么…」"
     },
     {
       "JP": "その事については二人ともノーコメントだった。",
       "EN": "Neither of them commented.",
-      "Translation": "Neither of them commented."
+      "Translation": "关于那件事，两人都没有评论。"
     },
     {
       "JP": "鈴の席を見る。もうその姿はなかった。",
       "EN": "I looked to Rin's seat, but she wasn't there.",
-      "Translation": "I looked to Rin's seat, but she wasn't there."
+      "Translation": "看向铃的座位。她已经不在了。"
     },
     {
       "JP": "すでに課題の達成に向かっているのだ。",
       "EN": "She must've already left to complete the task.",
-      "Translation": "She must've already left to complete the task."
+      "Translation": "她一定是去完成任务了。"
     },
     {
       "JP": "廊下に出ると、すぐ懸命に走るその背中に追いついた。",
       "EN": "I dashed out into the corridor to catch up with her.",
-      "Translation": "I dashed out into the corridor to catch up with her."
+      "Translation": "我跑到走廊，很快追上了她的背影。"
     },
     {
       "JP": "`鈴@「なんだ、もうこないのかと思った」",
       "EN": "`Rin@❝Huh, I didn't think you'd come.❞",
-      "Translation": "`Rin@❝Huh, I didn't think you'd come.❞"
+      "Translation": "`铃@「怎么了，我还以为你不来了」"
     },
     {
       "JP": "`理樹@「いや、いくよ、鈴ひとりじゃ大変でしょ」",
       "EN": "`Riki@❝It could become problematic if you went by yourself.❞",
-      "Translation": "`Riki@❝It could become problematic if you went by yourself.❞"
+      "Translation": "`理树@「不，我会来的，铃一个人会很辛苦吧」"
     },
     {
       "JP": "さてせっかくの休み時間だ。どうしよう。",
       "EN": "Break time at last. What should I do?",
-      "Translation": "Break time at last. What should I do?"
+      "Translation": "终于是休息时间了。该做什么呢。"
     },
     {
       "JP": "なんだろう…。",
@@ -3250,7 +3250,7 @@
     {
       "JP": "ひとまず、そのメールに『何をすればいいのさ』と返す。",
       "EN": "To begin with, I replied with [Like what?].",
-      "Translation": "`总之，回信@『那做点什么好啊』。"
+      "Translation": "总之，回信『那做点什么好啊』。"
     },
     {
       "JP": "来ヶ谷さんはちらり、と机の影の携帯に目をやり、またそのままの体勢で返信をしてくる。",
@@ -6395,7 +6395,7 @@
     {
       "JP": "…斬られ過ぎ。",
       "EN": "...She had really got slashed too much.",
-      "Translation": "`三枝@「哎？不要啦ー，啊，啊哈哈哈大姐头不要说些这种微不足道的事情啊」"
+      "Translation": "…被砍得太多。"
     },
     {
       "JP": "`三枝@「というわけで、ダントツで小毬ちゃんになったわけなのですが…」",
@@ -6965,7 +6965,7 @@
     {
       "JP": "`理樹@（えーと…）",
       "EN": "`Riki@(Um...)",
-      "Translation": "理树（嗯－…）"
+      "Translation": "`理树@（嗯－…）"
     },
     {
       "JP": "辺りを見回す。",
@@ -7835,7 +7835,7 @@
     {
       "JP": "`理樹@「中庭にいくよ」",
       "EN": "`Riki@❝I should head to the courtyard.❞",
-      "Translation": "我决定去中庭。"
+      "Translation": "`理树@「我准备去中庭」"
     },
     {
       "JP": "`真人@「じゃあ、ここまでだな。じゃあな、楽しかったぜ」",
@@ -7865,17 +7865,17 @@
     {
       "JP": "`理樹@（えーと…）",
       "EN": "`Riki@(Um...)",
-      "Translation": "`Riki@(Um...)"
+      "Translation": "`理树@（嗯－…）"
     },
     {
       "JP": "辺りを見回す。",
       "EN": "I looked around.",
-      "Translation": "理树（嗯－…）"
+      "Translation": "环视了一下周围。"
     },
     {
       "JP": "`理樹@「…とは言ったものの…特に当てはないし」",
       "EN": "`Riki@❝...I'm not really sure where to go though...❞",
-      "Translation": "环视了一下周围。"
+      "Translation": "`理树@「…话虽这么说…也没有什么特别的目标啊…」"
     },
     {
       "JP": "廊下を歩いていると、見知った人物に遭遇した。",
@@ -8735,7 +8735,7 @@
     {
       "JP": "`理樹@（確か学食の裏手に出るはず…）",
       "EN": "`Riki@(I think I can get to behind the cafeteria from here...)",
-      "Translation": "理树（应该是会到食堂的后面…）"
+      "Translation": "`理树@（应该是会到食堂的后面…）"
     },
     {
       "JP": "思った通り…。",

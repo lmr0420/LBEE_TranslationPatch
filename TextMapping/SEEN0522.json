@@ -5205,7 +5205,7 @@
     {
       "JP": "『殺人』という文字が目に入る。",
       "EN": "It said ❛Homicide.❜",
-      "Translation": "`我看到了@『杀人』两个字。"
+      "Translation": "我看到了『杀人』两个字。"
     },
     {
       "JP": "`理樹@「推理小説？」",
@@ -5860,7 +5860,7 @@
     {
       "JP": "ドアの傍らには『放送室』と書かれたプレートがある。",
       "EN": "There was a plate that read ❛Broadcast Room❜ on the door.",
-      "Translation": "`门旁边的牌子上写着『广播室』。"
+      "Translation": "门旁边的牌子上写着『广播室』。"
     },
     {
       "JP": "`理樹@「…いいのかなぁ」",
@@ -6800,7 +6800,7 @@
     {
       "JP": "『パン購入五百円分』と書かれている。",
       "EN": "❛Coupon for 500 yen Bread,❜ it read.",
-      "Translation": "`上面写着『面包五百円分』。"
+      "Translation": "上面写着『面包五百円分』。"
     },
     {
       "JP": "`理樹@「どうしたの？」",
@@ -8695,7 +8695,7 @@
     {
       "JP": "結局、謙吾をその場に残し、僕も教室を後にした。",
       "EN": "In the end, he remained in the classroom, as I left it.",
-      "Translation": "`教师@「你们没听到广播吗！？给我回教室去」"
+      "Translation": "结果，谦吾留在那里，我也离开了教室。"
     },
     {
       "JP": "生徒を追い返すためか、屋上に続く階段で教師が待ちかまえていた。",
@@ -9660,7 +9660,7 @@
     {
       "JP": "ふとそう思えた。",
       "EN": "This is what I suddenly thought.",
-      "Translation": "`理树@「什么？」"
+      "Translation": "突然这么想。"
     },
     {
       "JP": "渡り廊下を歩いていると。",
@@ -10875,37 +10875,37 @@
     {
       "JP": "ぴっ。",
       "EN": "*Whoo-",
-      "Translation": "乒。嘭。"
+      "Translation": "乒。"
     },
     {
       "JP": "ぱぁんっ。",
       "EN": "thud*!",
-      "Translation": "`库特@「呀啊」"
+      "Translation": "嘭。"
     },
     {
       "JP": "`クド@「ひゃあっ」",
       "EN": "`Kud@❝Hyaa.❞",
-      "Translation": "…球直线飞到了库特架在胸口的手套里，发出了有点悦耳的声音。"
+      "Translation": "`库特@「呀啊」"
     },
     {
       "JP": "…胸元のグローブへ一直線、小気味いい音を立てた。",
       "EN": "...The ball hit the glove square with an agreeable sound, after flying in a perfectly straight line.",
-      "Translation": "`理树@「哈…！？」"
+      "Translation": "…球直线飞到了库特架在胸口的手套里，发出了有点悦耳的声音。"
     },
     {
       "JP": "`理樹@「は…!?」",
       "EN": "`Riki@❝Huh...!?❞",
-      "Translation": "…我开始怀疑自己的眼睛了。"
+      "Translation": "`理树@「哈…！？」"
     },
     {
       "JP": "…自分の目を疑う。",
       "EN": "...I couldn't believe my eyes.",
-      "Translation": "虽然球速并不是很快，"
+      "Translation": "…我开始怀疑自己的眼睛了。"
     },
     {
       "JP": "それほど速くはないけど、完全にクドの構えた真正面に入っている。",
       "EN": "The speed wasn't all that high, but it made its way to Kud perfectly.",
-      "Translation": "但是完全是一条直线的飞过去的。"
+      "Translation": "虽然球速并不是很快，但是完全是一条直线的飞过去的。"
     },
     {
       "JP": "`小毬@「あっ、ご、ごめんねクーちゃん…怖かった？」",
@@ -11500,47 +11500,47 @@
     {
       "JP": "それからクドは、瓶を手に取る。",
       "EN": "She picked up the bottle.",
-      "Translation": "（红茶放置一段时间后再往里面加牛奶才是正宗的奶茶泡法）"
+      "Translation": "接着，库特拿起了那个瓶子。"
     },
     {
       "JP": "`理樹@「それは…えーと、ジャム？」",
       "EN": "`Riki@❝This is err... jam?❞",
-      "Translation": "接着，库特拿起了那个瓶子。"
+      "Translation": "`理树@「那是…果酱？」"
     },
     {
       "JP": "`クド@「はい、ジャムです」",
       "EN": "`Kud@❝Yes, it's jam.❞",
-      "Translation": "`理树@「那是…果酱？」"
+      "Translation": "`库特@「对，是果酱」"
     },
     {
       "JP": "クドは胸ポケットから銀色のスプーンを取り出した。",
       "EN": "She produced a silver spoon from her chest pocket.",
-      "Translation": "`库特@「对，是果酱」"
+      "Translation": "库特从胸口的口袋里拿出了一个银色的勺子。"
     },
     {
       "JP": "`クド@「はぁ～っ」",
       "EN": "`Kud@❝Haaa.❞",
-      "Translation": "库特从胸口的口袋里拿出了一个银色的勺子。"
+      "Translation": "`库特@「哈～」"
     },
     {
       "JP": "と、スプーンに息を掛けて、取り出したハンカチできゅきゅと拭いた。",
       "EN": "She breathed on the spoon and wiped it with a handkerchief.",
-      "Translation": "`库特@「哈～」"
+      "Translation": "她对着勺子吹了一口气，接着用手帕擦了擦。"
     },
     {
       "JP": "`クド@「よいしょっと」",
       "EN": "`Kud@❝There we go.❞",
-      "Translation": "她对着勺子吹了一口气，接着用手帕擦了擦。"
+      "Translation": "`库特@「好了」"
     },
     {
       "JP": "クドが瓶のふたに手を掛け、そのスプーンでジャムを取り出した。",
       "EN": "She removed the lid from the bottle, and scooped some jam out of it with her spoon.",
-      "Translation": "`库特@「好了」"
+      "Translation": "库特打开了瓶子的盖子，接着用勺子取出果酱。"
     },
     {
       "JP": "紙皿の上にジャムが乗せられる。",
       "EN": "She put it onto the paper plate.",
-      "Translation": "库特打开了瓶子的盖子，接着用勺子取出果酱。把果酱放在了纸盘子上。"
+      "Translation": "把果酱放在了纸盘子上。"
     },
     {
       "JP": "`クド@「お礼といってもお茶を出すぐらいですけど」",

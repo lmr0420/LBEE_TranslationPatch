@@ -260,7 +260,7 @@
     {
       "JP": "`理樹@（指されないことを祈ろう…）",
       "EN": "`Riki@(Let's pray I won't get called on in class...)",
-      "Translation": "理树（还是祈祷不要被老师点到吧…）"
+      "Translation": "`理树@（还是祈祷不要被老师点到吧…）"
     },
     {
       "JP": "などと考えていると。",
@@ -345,7 +345,7 @@
     {
       "JP": "`理樹@（いや、どうすんのさこれ…）",
       "EN": "`Riki@(So, what should I do with this...)",
-      "Translation": "理树（等等，我要拿这些东西怎么办啊…）"
+      "Translation": "`理树@（等等，我要拿这些东西怎么办啊…）"
     },
     {
       "JP": "なぜかご丁寧にノートまでついている。",
@@ -2585,7 +2585,7 @@
     {
       "JP": "結局バトルになった!!",
       "EN": "It turned into a battle in the end, after all!",
-      "Translation": "`相川@「啊，是你们。怎么样？有什么进展吗？」"
+      "Translation": "结果变成了战斗！！"
     },
     {
       "JP": "`佐々美@「わたくしまでなんと長い道のりだったことでしょう」",
@@ -3055,22 +3055,22 @@
     {
       "JP": "`鈴@「さざんがきゅー子はあたしが誘い出しておく」",
       "EN": "`Rin@❝I'll call out Sazangakyu.❞",
-      "Translation": "宾～地铃的眼睛亮起了光！"
+      "Translation": "`铃@「我去约渣渣子出来。」"
     },
     {
       "JP": "`相川@「本当にやるの…」",
       "EN": "`Aikawa@❝Are we really going to do this...?❞",
-      "Translation": "`理树@「SdbyOK」"
+      "Translation": "`相川@「真的要干吗…」"
     },
     {
       "JP": "`鈴@「やる」",
       "EN": "`Rin@❝We are.❞",
-      "Translation": "我用手机向那边报告。"
+      "Translation": "`铃@「干」"
     },
     {
       "JP": "きゅぴーんと鈴の目が光った！",
       "EN": "Rin's eyes were positively glowing!",
-      "Translation": "`铃@『谦吾，进入视线』"
+      "Translation": "叮ー铃的眼睛亮起了光！"
     },
     {
       "JP": "`理樹@「スタンバイオーケー」",
@@ -4380,7 +4380,7 @@
     {
       "JP": "最後は…『２階廊下の消火器を３階に持っていく』。",
       "EN": "My last objective is... ❛Take the second floor fire extinguisher to the third floor.❜",
-      "Translation": "`最后是…@『把２楼走廊上的灭火器拿到３楼』。"
+      "Translation": "最后是…『把２楼走廊上的灭火器拿到３楼』。"
     },
     {
       "JP": "消火器か。",
@@ -4565,22 +4565,22 @@
     {
       "JP": "`朱鷺戸@「でも、何で神北さんだったの？」",
       "EN": "`Tokido@❝But why Kamikita-san?❞",
-      "Translation": "`朱鹭户@「但是，为什么是能美呢？」"
+      "Translation": "`朱鹭户@「但是，为什么是神北呢？」"
     },
     {
       "JP": "`朱鷺戸@「でも、何で能美さんだったの？」",
       "EN": "`Tokido@❝But why Noumi-san?❞",
-      "Translation": "`理树@「呜呜…」"
+      "Translation": "`朱鹭户@「但是，为什么是能美呢？」"
     },
     {
       "JP": "`朱鷺戸@「でも、何で西園さんだったの？」",
       "EN": "`Tokido@❝But why Nishizono-san?❞",
-      "Translation": "真的，你到底是在什么地方看着的啊…。"
+      "Translation": "`朱鹭户@「但是，为什么是西园呢？」"
     },
     {
       "JP": "`理樹@「うう…」",
       "EN": "`Riki@❝Uh...❞",
-      "Translation": "`理树@「那么…」"
+      "Translation": "`理树@「呜…」"
     },
     {
       "JP": "本当にどこで見てるんだろう…。",
@@ -6890,7 +6890,7 @@
     {
       "JP": "葉留佳さんはその『灰色のもの』に倒されたまま、風紀委員に囲まれている。",
       "EN": "She was surrounded by disciplinary committee members while still being restrained by the ❛gray object.❜",
-      "Translation": "`叶留佳就那样被那个@『灰色的东西』打倒了，接着被风纪委员围住了。"
+      "Translation": "叶留佳就那样被那个『灰色的东西』打倒了，接着被风纪委员围住了。"
     },
     {
       "JP": "`理樹@「なんでミランダ警告…」",
@@ -9915,7 +9915,7 @@
     {
       "JP": "最後は…。『後ろから抱きつく』…か。",
       "EN": "The last one is... ❛Hug someone from behind.❜",
-      "Translation": "`最后是…。@『从后面抱住一个人』…啊。"
+      "Translation": "最后是…。『从后面抱住一个人』…啊。"
     },
     {
       "JP": "これはかなり無理があるんだけどな…。",
@@ -10890,7 +10890,7 @@
     {
       "JP": "メールには『伊藤女史の机の中を見ろ』とあった。",
       "EN": "It said: [Look inside Ms. Itou's desk.]",
-      "Translation": "`短信上写着@『去看看伊藤女士的抽屉吧』。"
+      "Translation": "短信上写着『去看看伊藤女士的抽屉吧』。"
     },
     {
       "JP": "`理樹@「…伊藤さん？」",
@@ -14425,17 +14425,17 @@
     {
       "JP": "`理樹@「というわけで、鈴、頼むよ」",
       "EN": "`Riki@❝So, we're counting on you, Rin.❞",
-      "Translation": "铃小毬叶留佳来谷真人谦吾那么应该拜托谁来当忒修斯呢？"
+      "Translation": "`理树@「就这么回事，铃，拜托了」"
     },
     {
       "JP": "`鈴@「いいけど…」",
       "EN": "`Rin@❝Well, fine...❞",
-      "Translation": "`理树@「就这么回事，铃，拜托了」"
+      "Translation": "`铃@「可以是可以…」"
     },
     {
       "JP": "`鈴@「ふつうの扉だな…」",
       "EN": "`Rin@❝It's a normal door...❞",
-      "Translation": "`铃@「可以是可以…」"
+      "Translation": "`铃@「这是个普通的门…」"
     },
     {
       "JP": "`クド@「テセウスさまー」",
@@ -18865,7 +18865,7 @@
     {
       "JP": "…まだまだ慣れない様だった。",
       "EN": "...She still wasn't used to this.",
-      "Translation": "`铃@『啊』"
+      "Translation": "…她好像还不习惯。"
     },
     {
       "JP": "`小毬@『あ、りんちゃんこんばんはー』",

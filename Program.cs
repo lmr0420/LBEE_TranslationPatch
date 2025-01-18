@@ -473,6 +473,29 @@
                 AllNewCharArray.Remove(ExistedChar);
                 AllNewCharArray.Add(ExistedChar);
             }
+            for(int i=0;i<Charset.Length; i++)
+            {
+                int NewCharIndex = AllNewCharArray.FindIndex(0, (A) => A == Charset[i]);
+                if(NewCharIndex!=-1 && NewCharIndex+ FontReplaceIndex <= i)
+                {
+                    // 新字符集中的字符会在原字符集之前，不能接受，要把这个字符放到最后
+                    AllNewCharArray.Remove(Charset[i]);
+                    AllNewCharArray.Add(Charset[i]);
+                }
+            }
+            int AddOffset = 0;
+            for(int i= AllNewCharArray.Count-1;i>=0;i--)
+            {
+                int OldCharIndex = Charset.ToList().FindIndex(0, (A) => A == AllNewCharArray[i]);
+                if (OldCharIndex>=i + FontReplaceIndex + AddOffset)
+                {
+                    AddOffset++;
+                }
+                else
+                {
+                    break;
+                }
+            }
             string AllNewChar = new string(AllNewCharArray.ToArray());
             string AllNewCharFile = Path.Combine(TMPPath, "AllNewChar.txt");
             File.WriteAllText(AllNewCharFile, AllNewChar);
@@ -481,7 +504,7 @@
                 // 针对Template进行重绘，然后复制到各个字体
                 // 如果每个字体都进行重绘，那么重绘后的游戏会崩溃，但只用一份的话就正常，很奇怪，不清楚原因
                 // 看起来很像是字体过大了，这里指定一下ReplaceIndex，把一部分原有字体替换掉
-                Process.Start("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex} -S \"{ExtractedFontPath}\\info{fSize}\" -f {TargetFontPath} -c {AllNewCharFile} -o {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} -O {Path.Combine(PendingReplacePath, $"info{fSize}")}").WaitForExit();
+                Process.Start("Files\\lucksystem.exe", $"font edit -s \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" -i {FontReplaceIndex+AddOffset} -S \"{ExtractedFontPath}\\info{fSize}\" -f {TargetFontPath} -c {AllNewCharFile} -o {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} -O {Path.Combine(PendingReplacePath, $"info{fSize}")}").WaitForExit();
                 Process.Start("Files\\czutil.exe", $"replace \"{ExtractedFontPath}\\{FontTemplate}{fSize}\" {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png")} {Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}")}").WaitForExit();
                 File.Delete(Path.Combine(PendingReplacePath, $"{FontTemplate}{fSize}.png"));
                 foreach (var fName in FontName)

@@ -311,8 +311,7 @@
                 char[] TimerIcon = ['-', '\\', '|', '/'];
                 for (int j = 0; j < 4; j++)
                 {
-                    Console.CursorLeft = 0;
-                    Console.Write(new String(' ', Console.BufferWidth));
+                    Console.Write("\r" + new String(' ', Console.CursorLeft));
                     Console.CursorLeft = 0;
                     Console.Write($"[{TimerIcon[j]}]请阅读上述说明。{i}");
                     Thread.Sleep(250);

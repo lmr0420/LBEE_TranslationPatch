@@ -16057,12 +16057,12 @@
     {
       "JP": "言う$dごまかす",
       "EN": "Say it$dKeep quiet",
-      "Translation": "說出来$d不出声"
+      "Translation": "説出来$d不出声"
     },
     {
       "JP": "掃除用具の整理$d例のやつが出た！$dここが僕の家",
       "EN": "Sorting out the cleaning equipment$dThat thing came out!$dThis is my home",
-      "Translation": "整理清理用具$d那玩意儿要出来了！$d这是我家"
+      "Translation": "整理清理用具$d那玩意儿要出来了！$d那是我家"
     },
     {
       "JP": "[,(#12009==1)]呼びにいく$d呼びにいかない",
@@ -16107,12 +16107,12 @@
     {
       "JP": "謙吾を諭す$d恭介を追う",
       "EN": "Press Kengo on$dChase after Kyousuke",
-      "Translation": "勸說謙吾$d追上恭介"
+      "Translation": "勸説謙吾$d追上恭介"
     },
     {
       "JP": "何を話しているか聞きにいく$d練習に集中",
       "EN": "Go see what they're talking about$dConcentrate on practice",
-      "Translation": "去看看在聊什麽$d集中精神練習"
+      "Translation": "去看看在聊什麼$d集中精神練習"
     },
     {
       "JP": "さすらう$d休んでおく",
@@ -16122,7 +16122,7 @@
     {
       "JP": "[,(#12008==1)]クドに頷いた$dクドに首を振った",
       "EN": "[,(#12008==1)]Nodded$dShook my head",
-      "Translation": "[,(#12008==1)]点頭$d摇頭"
+      "Translation": "[,(#12008==1)]点頭$d揺頭"
     },
     {
       "JP": "いく$d恭介たちと遊ぶ",

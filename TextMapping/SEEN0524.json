@@ -12696,12 +12696,12 @@
     {
       "JP": "手伝う$d見送る$dさすらう",
       "EN": "Help her out$dSee her off$dWander",
-      "Translation": "協助$d目送离开$d徘徊"
+      "Translation": "協助$d目送離開$d徘徊"
     },
     {
       "JP": "手伝う$d見送る",
       "EN": "Help her out$dSee her off",
-      "Translation": "帮忙$d目送离开"
+      "Translation": "協助$d目送離開"
     },
     {
       "JP": "中庭にいく$d学食にいく",
@@ -12721,7 +12721,7 @@
     {
       "JP": "何を話しているか聞きにいく$d練習に集中",
       "EN": "Go see what they're talking about$dConcentrate on practice",
-      "Translation": "去看看在聊什麽$d集中精力練習"
+      "Translation": "去看看在聊什麼$d集中精力練習"
     },
     {
       "JP": "止める$d止めない",

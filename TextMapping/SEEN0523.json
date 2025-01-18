@@ -16776,12 +16776,12 @@
     {
       "JP": "クドに話しかける$d教室に入る",
       "EN": "Talk to Kud$dEnter the classroom",
-      "Translation": "和庫特搭话$d进入教室"
+      "Translation": "和庫特搭話$d回到教室"
     },
     {
       "JP": "しばらく見守る$d話を進める",
       "EN": "Watch for a while$dLook for a new task straight away",
-      "Translation": "觀望一会儿$d繼續对话"
+      "Translation": "觀望一会儿$d繼續対話"
     },
     {
       "JP": "やめさせる$d手伝い続ける",
@@ -16791,7 +16791,7 @@
     {
       "JP": "[(0),]おまえらはＥＸＩＬＥか！！$d邪魔だろ！！$dおまえはおじいさんか！！",
       "EN": "[(0),]ARE YOU THE EXILE!!$dYOU ARE IN THEIR WAY!!$dARE YOU AN OLD MAN!!",
-      "Translation": "[(0),]你們是EXILE嗎！！$d死一旁去！！$d你們是老頭子阿！！"
+      "Translation": "[(0),]祢們是EXILE嘛？！$d死一旁去！！$d祢們是老頭子嘛！！"
     },
     {
       "JP": "さすらう$d休んでおく",
@@ -16821,12 +16821,12 @@
     {
       "JP": "おまえは謙吾か！！$dそこまででかくなるか！！$dむしろ今引きずれ！！",
       "EN": "Are you Kengo or what!!$dThere's no way you're growing that tall!!$dWhy don't you drag it there right now!!",
-      "Translation": "是謙吾嗎！！$d可能有那麼高嗎！！$現在不就能夠到嗎！！"
+      "Translation": "祢是謙吾嘛！！$d可能有那麼高嘛！！$現在不就能摸到嘛！！"
     },
     {
       "JP": "あたしとメニューかぶるだろ！$dみんなの服に飛び散っただろ！！$dむしろおまえが浴びろ！！",
       "EN": "$S024Why did you have to choose the same!!$d$S024You're dirtying everybody's clothes with that soup!!$d$S024Why don't you bathe in the soup!!",
-      "Translation": "$S024和我的菜單一样阿！！$d$S024都沾到人家衣服上了！！$d$S024為什麽淋到的不是真人啊！"
+      "Translation": "$S024和我的菜單一様阿！！$d$S024都沾到人家衣服上了！！$d$S024為什麼淋到的不是真人阿！"
     },
     {
       "JP": "手伝う$d断る$dさすらう",
@@ -16846,7 +16846,7 @@
     {
       "JP": "何を話しているか聞きにいく$d練習に集中",
       "EN": "Go see what they're talking about$dConcentrate on practice",
-      "Translation": "去看看在聊什麽$d集中精力練習"
+      "Translation": "去看看在聊什麼$d集中精力練習"
     },
     {
       "JP": "そんな目で見続ける$d練習",
@@ -16856,17 +16856,17 @@
     {
       "JP": "掃除する$d放っておく$dさすらう",
       "EN": "Clean up the room$dLeave it as it is$dWander",
-      "Translation": "整理房间$d放着不管$d徘徊"
+      "Translation": "整理宿舍$d放着不管$d徘徊"
     },
     {
       "JP": "掃除する$d放っておく",
       "EN": "Clean up the room$dLeave it as it is",
-      "Translation": "整理房间$d放着不管"
+      "Translation": "整理宿舍$d放着不管"
     },
     {
       "JP": "話しかける$d学食に急ぐ",
       "EN": "Talk to her$dHurry to the cafeteria",
-      "Translation": "打招呼$d赶快去食堂"
+      "Translation": "打招呼$d着急去食堂"
     },
     {
       "JP": "とめる$d見守る",
@@ -16886,22 +16886,22 @@
     {
       "JP": "恭介の部屋にいく$d今日は休む",
       "EN": "Visit Kyousuke$dJust rest today",
-      "Translation": "去恭介的房间$d今天先休息"
+      "Translation": "去恭介的宿舍$d今天先休息"
     },
     {
       "JP": "恭介の部屋にいく$d今日は休む",
       "EN": "Visit Kyousuke$dJust rest today",
-      "Translation": "去恭介的房间$d今天先休息"
+      "Translation": "去恭介的宿舍$d今天先休息"
     },
     {
       "JP": "みんなを呼ぶ$d今日は帰る",
       "EN": "Call the other members$dCall it a night",
-      "Translation": "给大家打電話$d今天先回去"
+      "Translation": "打電話叫大家$d今天先回去"
     },
     {
       "JP": "みんなを呼ぶ$d今日は帰る",
       "EN": "Call the other members$dCall it a night",
-      "Translation": "给大家打電話$d今天先回去"
+      "Translation": "打電話叫大家$d今天先回去"
     }
   ]
 }

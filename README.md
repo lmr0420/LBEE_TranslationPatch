@@ -13,4 +13,4 @@
 打开LBEE_TranslationPatch.exe并选择LBEE的主程序即可执行汉化流程  
 可以将项目里的TextMapping文件夹单独拿出来覆盖Release包里的同名文件夹来换成最新更新的翻译  
 
-目前汉化还远未完成，可能存在疏漏或错误，可以帮忙填一填[汉化文本](TextMapping)吖（记得先发Issue哦）！  
+汉化可能存在疏漏或错误，如果有任何想要讨论的内容，欢迎提交Issue。

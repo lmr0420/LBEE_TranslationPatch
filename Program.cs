@@ -441,16 +441,39 @@
             {
                 InstructionProcessor.CharCollection.Remove(oldChar);
             }
-            var PendingOverrideChars = Charset[^(InstructionProcessor.CharCollection.Count)..];
-            foreach(char PendingOverrideChar in PendingOverrideChars)
+            bool OverrideOriginalChar = true;
+            int LastCharsetIndex = Charset.Length;
+            HashSet<char> ExistedChars = new HashSet<char>();
+            while (OverrideOriginalChar)
             {
-                if(OriginalCharCollection.Contains(PendingOverrideChar))
+                OverrideOriginalChar = false;
+                var PendingOverrideChars = Charset[(Charset.Length - InstructionProcessor.CharCollection.Count)..LastCharsetIndex];
+                LastCharsetIndex = Charset.Length - InstructionProcessor.CharCollection.Count;
+                foreach (char PendingOverrideChar in PendingOverrideChars)
                 {
-                    InstructionProcessor.CharCollection.Add(PendingOverrideChar);
+                    if (OriginalCharCollection.Contains(PendingOverrideChar))
+                    {
+                        InstructionProcessor.CharCollection.Add(PendingOverrideChar);
+                        ExistedChars.Add(PendingOverrideChar);
+                        OverrideOriginalChar = true;
+                    }
                 }
             }
-            int FontReplaceIndex = Charset.Length - PendingOverrideChars.Length;
-            string AllNewChar = new string(InstructionProcessor.CharCollection.ToArray().Order().ToArray());
+
+            // 对字符集中已有的字符进行重排序，放在最后
+            // LuckSystem对已有字符的替换有bug，如果如果已有字符在新字符集中的位置在原字符集中的位置之前
+            // 那么导致后面的字符将前面的字符清除，会出现字符丢失的情况
+            // 这里将已有字符全都放在最后面，这样就不会出现这个问题
+            // 如果要从根源解决，需要魔改LuckSystem，不过不是很有必要，先做个标记，之后如果有需要再说。
+            // TODO: LuckSystem/font/info.go:203
+            int FontReplaceIndex = Charset.Length - InstructionProcessor.CharCollection.Count;
+            var AllNewCharArray = InstructionProcessor.CharCollection.ToArray().Order().ToList();
+            foreach (var ExistedChar in ExistedChars)
+            {
+                AllNewCharArray.Remove(ExistedChar);
+                AllNewCharArray.Add(ExistedChar);
+            }
+            string AllNewChar = new string(AllNewCharArray.ToArray());
             string AllNewCharFile = Path.Combine(TMPPath, "AllNewChar.txt");
             File.WriteAllText(AllNewCharFile, AllNewChar);
             foreach (var fSize in FontSize)

@@ -683,7 +683,7 @@
     {
       "JP": "ぱんぱん、と鈴は紙袋を広げる。",
       "EN": "She started opening one of the paper bags.",
-      "Translation": "`铃『啪啪』地撑开了纸袋。"
+      "Translation": "铃『啪啪』地撑开了纸袋。"
     },
     {
       "JP": "ざざざっ！",
@@ -2148,7 +2148,7 @@
     {
       "JP": "１８０度首を捻って鈴を振り返る。ぐきり！と音がするぐらいの勢いで。",
       "EN": "I spun around to face Rin and stared at her in blank amazement.",
-      "Translation": "`带着『呼』的声音猛地１８０度转头看向铃。"
+      "Translation": "带着『呼』的声音猛地１８０度转头看向铃。"
     },
     {
       "JP": "`理樹@「付き合うって…」",
@@ -4793,7 +4793,7 @@
     {
       "JP": "`謙吾@「理樹、鈴が立候補していたのに、なぜおまえも挙手しなかったんだ」",
       "EN": "`Kengo@❝Riki, even though Rin nominated herself, why didn't you raise your hand?❞",
-      "Translation": "谦吾@「理树、铃已经自告奋勇了，为什么你不举手呢？」"
+      "Translation": "`谦吾@「理树、铃已经自告奋勇了，为什么你不举手呢？」"
     },
     {
       "JP": "謙吾に詰め寄られる。",
@@ -4803,22 +4803,22 @@
     {
       "JP": "`理樹@「え、いや…それは…勇気が出なくて…」",
       "EN": "`Riki@❝Well... I just... didn't have enough courage...❞",
-      "Translation": "理树@「呃，不，那是因为……我没有勇气……」"
+      "Translation": "`理树@「呃，不，那是因为……我没有勇气……」"
     },
     {
       "JP": "`謙吾@「鈴があんなに頑張ったのにか？」",
       "EN": "`Kengo@❝Even though Rin was trying so hard?❞",
-      "Translation": "谦吾@「铃那么努力，你却这样？」"
+      "Translation": "`谦吾@「铃那么努力，你却这样？」"
     },
     {
       "JP": "`謙吾@「情けない話だな…」",
       "EN": "`Kengo@❝Talk about pathetic...❞",
-      "Translation": "谦吾@「真是可悲啊……」"
+      "Translation": "`谦吾@「真是可悲啊……」"
     },
     {
       "JP": "`謙吾@「部活の時間も奪われるし、わざわざ制服も着なくちゃいけない。こっちは失うものばかりじゃないか」",
       "EN": "`Kengo@❝I won't be able to spend time with the club and will have to wear the uniform. Why do I have to suffer like this?❞",
-      "Translation": "谦吾@「不仅部活的时间被占用，还得特地穿制服。我这边损失惨重啊。」"
+      "Translation": "`谦吾@「不仅部活的时间被占用，还得特地穿制服。我这边损失惨重啊。」"
     },
     {
       "JP": "制服は指定通り着なくちゃいけないと思うけど…。",
@@ -4828,17 +4828,17 @@
     {
       "JP": "`謙吾@「遊ぶ時間も奪われるし、このリトルバスターズジャンパーも一日封印しなくてはならない…こっちは失うものばかりじゃないか」",
       "EN": "`Kengo@❝I won't have time to fool around, and as the finishing blow, this Little Busters jacket will be out of limits for the whole day... Why do I have to suffer like this?❞",
-      "Translation": "谦吾@「玩的时间也被剥夺了，这件Little Busters夹克一天都不能穿……我这边损失惨重啊。」"
+      "Translation": "`谦吾@「玩的时间也被剥夺了，这件Little Busters夹克一天都不能穿……我这边损失惨重啊。」"
     },
     {
       "JP": "`鈴@「あたしも理樹がよかったな」",
       "EN": "`Rin@❝I'd prefer Riki too.❞",
-      "Translation": "铃@「我也希望是理树。」"
+      "Translation": "`铃@「我也希望是理树。」"
     },
     {
       "JP": "`謙吾@「みろ、聞いたか」",
       "EN": "`Kengo@❝Look, you see?❞",
-      "Translation": "谦吾@「看，你听到了吗？」"
+      "Translation": "`谦吾@「看，你听到了吗？」"
     },
     {
       "JP": "本当情けない話だ…。",
@@ -4893,7 +4893,7 @@
     {
       "JP": "`理樹@「あの、先生っ」",
       "EN": "`Riki@❝Excuse me.❞",
-      "Translation": "理树@「那个，老师！」"
+      "Translation": "`理树@「那个，老师！」"
     },
     {
       "JP": "間髪を入れず僕は訴えた。",
@@ -4903,7 +4903,7 @@
     {
       "JP": "`理樹@「謙吾と替わらせてください！」",
       "EN": "`Riki@❝Please let me take Kengo's place!❞",
-      "Translation": "理树@「请让我替换谦吾！」"
+      "Translation": "`理树@「请让我替换谦吾！」"
     },
     {
       "JP": "`担任@「ん？　何の件だ？」",
@@ -4913,7 +4913,7 @@
     {
       "JP": "`理樹@「さっき決めた案内役の件です」",
       "EN": "`Riki@❝About that escort thing you decided on earlier.❞",
-      "Translation": "理树@「关于刚才决定的向导角色。」"
+      "Translation": "`理树@「关于刚才决定的向导角色。」"
     },
     {
       "JP": "`担任@「宮沢と替わりたい、と？」",
@@ -4923,7 +4923,7 @@
     {
       "JP": "`理樹@「はい」",
       "EN": "`Riki@❝Yes.❞",
-      "Translation": "理树@「是的。」"
+      "Translation": "`理树@「是的。」"
     },
     {
       "JP": "`担任@「宮沢は？」",

@@ -85,6 +85,8 @@
         static string LBEECharset = @".\Files\Charset.txt";
         static string TMPPath = Path.GetFullPath(@".\.tmp");
         static string TextMappingPath = Path.GetFullPath(@".\TextMapping");
+        static string ImageMappingPath = Path.GetFullPath(@".\ImageMapping");
+        static string CzTempPath = Path.Combine(TMPPath, "CzTemp");
         static string ExtractedScriptPath = Path.Combine(TMPPath, "Scripts");
         static string ExtractedFontPath = Path.Combine(TMPPath, "Fonts");
         static string PendingReplacePath = Path.Combine(TMPPath, "PendingReplace");
@@ -277,21 +279,18 @@
         static void Main(string[] args)
         {
             int DescriptionWaitingTime = 20;
-            if (args.Length > 0)
+            for (int i = 0; i < args.Count(); i++)
             {
-                for (int i = 0; i < args.Count(); i++)
+                switch (args[i])
                 {
-                    switch (args[i])
-                    {
-                        case "--LBEE_EXE":
-                            LBEE_EXE = args[++i];
-                            // 获取LBEE_Exe所在文件夹
-                            LBEEGamePath = Path.GetDirectoryName(LBEE_EXE) ?? "";
-                            break;
-                        case "--Skip_Description":
-                            DescriptionWaitingTime = 0;
-                            break;
-                    }
+                    case "--LBEE_EXE":
+                        LBEE_EXE = args[++i];
+                        // 获取LBEE_Exe所在文件夹
+                        LBEEGamePath = Path.GetDirectoryName(LBEE_EXE) ?? "";
+                        break;
+                    case "--Skip_Description":
+                        DescriptionWaitingTime = 0;
+                        break;
                 }
             }
             Console.WriteLine("《Little Busters! English Edition》汉化程序 ——By JackMyth\n");
@@ -333,6 +332,7 @@
             Directory.CreateDirectory(TMPPath);
             Directory.CreateDirectory(TextMappingPath);
             Directory.CreateDirectory(ExtractedScriptPath);
+            Directory.CreateDirectory(CzTempPath);
             if (Directory.Exists(PendingReplacePath))
             {
                 Directory.Delete(PendingReplacePath, true);
@@ -516,6 +516,68 @@
             }
 
             Process.Start("Files\\lucksystem.exe", $"pak replace -s \"{TemplateLBEEFontPak}\" -i \"{PendingReplacePath}\" -o \"{LBEEFontPak}\"").WaitForExit();
+
+            var ImgPakDirList = Directory.GetDirectories(ImageMappingPath);
+            foreach (var ImgPakDir in ImgPakDirList)
+            {
+                Directory.Delete(PendingReplacePath, true);
+                Directory.CreateDirectory(PendingReplacePath);
+                var ImgPakName = Path.GetFileName(ImgPakDir);
+                string TemplatePak = Path.Combine(LBEEGamePath, $"files\\template\\{ImgPakName}.PAK");
+                string SourcePak = Path.Combine(LBEEGamePath, $"files\\{ImgPakName}.PAK");
+                if (!File.Exists(SourcePak))
+                {
+                    continue;
+                }
+                if(!File.Exists(TemplatePak))
+                {
+                    File.Copy(SourcePak, TemplatePak);
+                }
+
+                // 将PNG图片转为CZ格式
+                // 先获取图片列表
+                var PendingReplacementPNGs = Directory.GetFiles(ImgPakDir, "*.png");
+                // czutils不能直接创建cz图片，所以先解出来，然后再替换图像数据
+                var ImageFileListTxt = Path.Combine(TMPPath, "ImageFileList.txt");
+                if (File.Exists(ImageFileListTxt))
+                {
+                    File.Delete(ImageFileListTxt); // 清除可能存在的临时文件
+                }
+                if(Directory.Exists(CzTempPath))
+                {
+                    Directory.Delete(CzTempPath, true);
+                    Directory.CreateDirectory(CzTempPath);
+                }
+                Process.Start("Files\\lucksystem.exe", $"pak extract -i \"{TemplatePak}\" -o {ImageFileListTxt} --all {CzTempPath}").WaitForExit();
+
+                // czutil的速度还是比较慢的，这里使用多线程处理
+                int ProcessedImg = 0;
+                object SyncLock = new object();
+                ParallelOptions parallelOptions = new ParallelOptions();
+                parallelOptions.MaxDegreeOfParallelism = Math.Max(1, Environment.ProcessorCount - 2);
+                Parallel.ForEach(PendingReplacementPNGs, parallelOptions, (PendingReplacementPNG) =>
+                {
+                    // 同步输出进度，不会让进度混乱
+                    lock (SyncLock) 
+                    {
+                        ProcessedImg++;
+                        Console.Write("\r" + new String(' ', Console.CursorLeft));
+                        Console.CursorLeft = 0;
+                        Console.Write($"\rReplace CzImg...[{ProcessedImg}/{PendingReplacementPNGs.Length}]");
+                    }
+
+                    var ImgFileName = Path.GetFileNameWithoutExtension(PendingReplacementPNG);
+                    var ExtractedImgName = Path.Combine(CzTempPath, ImgFileName);
+                    if (File.Exists(ExtractedImgName))
+                    {
+                        // 如果确实有对应的czImg被提取出来了，那么就替换
+                        var PendingReplaceCzImg = Path.Combine(PendingReplacePath, ImgFileName);
+                        Process.Start("Files\\czutil.exe", $"replace \"{ExtractedImgName}\" \"{PendingReplacementPNG}\" \"{PendingReplaceCzImg}\"").WaitForExit();
+                    }
+                });
+                Console.WriteLine("");
+                Process.Start("Files\\lucksystem.exe", $"pak replace -s \"{TemplatePak}\" -i \"{PendingReplacePath}\" -o \"{SourcePak}\"").WaitForExit();
+            }
 
             //针对EXE的Patch，这里逐字节扫描所有的数据，直到找到文字的位置，然后替换
             //LBEE的EXE有SteamDRM保护，任何修改都会导致游戏无法启动

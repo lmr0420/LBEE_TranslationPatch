@@ -2860,7 +2860,7 @@
     {
       "JP": "袋には『ニュー・$K3あんぱん$K0』と書いてあった。",
       "EN": "The description on the bag read ❛New $K3Anpan$K0.❜",
-      "Translation": "在袋子上写着『Ｎｅｗ·豆沙包』。"
+      "Translation": "在袋子上写着『Ｎｅｗ·$K3豆沙包$K0』。"
     },
     {
       "JP": "`理樹@「これ、あんパン…だよね？」",
@@ -3265,7 +3265,7 @@
     {
       "JP": "本文：『とりあえずスキップしながら「アッヒョー」と叫んで真人少年に$K33ペガサス百烈拳$K0をお見舞いしろ』",
       "EN": "Message: [Just skip to the part where you run over to young man Masato, yelling ❛ahhyo-❜ and execute the $K33Hundred Pegasus Strike$K0 on him.]",
-      "Translation": "正文：『就先一边跳着一边叫着「阿皮哟」并对着真人少年那样发出天马百烈拳』"
+      "Translation": "正文：『就先一边跳着一边叫着「阿皮哟」并对着真人少年那样发出$K33天马百烈拳$K0』"
     },
     {
       "JP": "…むちゃくちゃだこれ…。",
@@ -7305,7 +7305,7 @@
     {
       "JP": "`西園@「おにぎりは、鬼桐男爵が考え出したものです。江戸時代、男爵が$K23花札$K0を中断する手間を惜しんで考え出したのがおにぎりです。だから、いいんです」",
       "EN": "`Nishizono@❝Onigiri was invented by Baron Onigiri in the Edo period who hated taking breaks while playing $K23flower cards$K0. So it's okay.❞",
-      "Translation": "`西园@「饭团，是鬼桐（和饭团同音）男爵想出来的。在江户时代，男爵为了珍惜在玩花骨牌的时候中断的时间所想出来的就是饭团。所以是可以的」"
+      "Translation": "`西园@「饭团，是鬼桐（和饭团同音）男爵想出来的。在江户时代，男爵为了珍惜在玩$K23花札$K0的时候中断的时间所想出来的就是饭团。所以是可以的」"
     },
     {
       "JP": "`理樹@「………」",
@@ -9135,7 +9135,7 @@
     {
       "JP": "`来ヶ谷@「$K28青汁$K0と書いてあるように見えるが」",
       "EN": "`Kurugaya@❝There's ❛$K28green juice$K0❜ written on it.❞",
-      "Translation": "`来谷@「上面好像写着蔬菜汁啊」"
+      "Translation": "`来谷@「上面好像写着$K28青汁$K0啊」"
     },
     {
       "JP": "`三枝@「あぁ、こっちもいいかもしれないですヨっ」",

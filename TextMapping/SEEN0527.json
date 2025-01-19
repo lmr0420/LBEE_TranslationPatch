@@ -854,7 +854,7 @@
     {
       "JP": "`クド@「はっ！　今$K62桃太郎$K0侍が豆を拾って食べていました」",
       "EN": "`Kud@❝Hah! Just now, $K62Momotaro$K0 Zamurai picked a bean up and ate it.❞",
-      "Translation": "`库特@「哈！现在桃太郎武士要开始夹豆子吃啦」"
+      "Translation": "`库特@「哈！现在$K62桃太郎$K0武士要开始夹豆子吃啦」"
     },
     {
       "JP": "クドのお祖父さんは幼少のクドに何を吹き込んだのだろうか…。",
@@ -934,7 +934,7 @@
     {
       "JP": "クドは残念そうに言う。",
       "EN": "She sounded remorseful.",
-      "Translation": "She sounded remorseful."
+      "Translation": "库特看起来很失望地说着。"
     },
     {
       "JP": "`クド@「西園さんと一緒に行こうかな、と思っていたのですが」",

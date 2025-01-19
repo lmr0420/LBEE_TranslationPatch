@@ -1755,7 +1755,7 @@
     {
       "JP": "生卵、海苔、$K32ひじき$K0の煮付け、冷蔵庫から鮭の切り身も出てきた。",
       "EN": "Eggs, laver, $K32hijiki$K0 cooked in soy sauce, and filleted salmon.",
-      "Translation": "生鸡蛋、海苔、煮好的羊栖菜、还有从冰箱里面拿出来的切好的鲑鱼肉。"
+      "Translation": "生鸡蛋、海苔、煮好的$K32羊栖菜$K0、还有从冰箱里面拿出来的切好的鲑鱼肉。"
     },
     {
       "JP": "大きな釜ではご飯も焚けていた。",
@@ -3865,7 +3865,7 @@
     {
       "JP": "`クド@「$K18どきどき$K0…」",
       "EN": "`Kud@❝$K18Doki doki$K0...❞",
-      "Translation": "`库特@「紧张紧张…」"
+      "Translation": "`库特@「$K18Doki Doki$K0…」"
     },
     {
       "JP": "緊張を口に出して小毬さんの返事を待つ。",
@@ -5670,17 +5670,17 @@
     {
       "JP": "`クド@「例えば…そうですね、$K115うどん$K0そばとか」",
       "EN": "`Kud@❝An example... Well, something like $K115udon$K0-soba.❞",
-      "Translation": "`库特@「比方说…是呢、比如说乌东荞麦面如何」"
+      "Translation": "`库特@「比方说…是呢、比如说$K115乌冬$K0荞麦面如何」"
     },
     {
       "JP": "`理樹@「うどんそば!?」",
       "EN": "`Riki@❝Udon-soba!?❞",
-      "Translation": "`理树@「乌东荞麦面！？」"
+      "Translation": "`理树@「乌冬荞麦面！？」"
     },
     {
       "JP": "`クド@「うどんとそばが一緒に入っているのです…」",
       "EN": "`Kud@❝Udon and soba mixed together...❞",
-      "Translation": "`库特@「乌东面和荞麦面混在一起的说…」"
+      "Translation": "`库特@「乌冬面和荞麦面混在一起的说…」"
     },
     {
       "JP": "`理樹@「…それは…なんというか…そう、ハイブリッドなメニューだね…」",

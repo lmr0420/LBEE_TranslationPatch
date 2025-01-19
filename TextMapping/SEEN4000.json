@@ -438,12 +438,12 @@
     {
       "JP": "注文票の控えをちらりとのぞいてみると、干しシイタケだの$K44かつおぶし$K0だの名前が見える。",
       "EN": "A glance at the copy of the order form in her hand revealed it scrawled with ingredients such as dried shiitakes and $K44katsuobushi$K0.",
-      "Translation": "偷偷瞄了一眼写好的订货单，发现上面写着香菇干和柴鱼片之类的东西。"
+      "Translation": "偷偷瞄了一眼写好的订货单，发现上面写着香菇干和$K44干鲣鱼$K0之类的东西。"
     },
     {
       "JP": "`理樹@「ええと、最後のは$K49昆布$K0？　なにに使うの？　量が多いみたいだけど」",
       "EN": "`Riki@❝Looks like you ordered a large amount of $K49kombu$K0 too. What are you using it for?❞",
-      "Translation": "`理树@「那个，最后的是海带？干嘛用的？看上去订的量还挺多的」"
+      "Translation": "`理树@「那个，最后的是$K49昆布海带$K0？干嘛用的？看上去订的量还挺多的」"
     },
     {
       "JP": "`クド@「昆布はですねぇ、昆布巻き用です」",
@@ -548,12 +548,12 @@
     {
       "JP": "`クド@「オムレツ焼くより、$K16だし巻き玉子$K0作るほうが得意ですよ」",
       "EN": "`Kud@❝Actually, I'm better at making $K16tamagoyaki$K0 than omelettes.❞",
-      "Translation": "`库特@「比起蛋包饭来，我更擅长做酱汁鸡蛋卷」"
+      "Translation": "`库特@「比起蛋包饭来，我更擅长做$K16玉子烧$K0」"
     },
     {
       "JP": "`クド@「自分で言うのもなんですが、クドリャフカお手製玉子焼きはお昼の時間引く手あまたなのです」",
       "EN": "`Kud@❝Not to brag or anything, but many people ask me for my tamagoyaki every lunchtime.❞",
-      "Translation": "`库特@「不是自吹哦，库特莉亚芙卡特制鸡蛋卷可是在午饭时间大受好评的说」"
+      "Translation": "`库特@「不是自吹哦，库特莉亚芙卡特制玉子烧可是在午饭时间大受好评的说」"
     },
     {
       "JP": "`クド@「まさにメジャーをねらえますよっ！」",
@@ -563,7 +563,7 @@
     {
       "JP": "`クド@「玉子焼きメジャーリーグでばんばん稼げますねっ」",
       "EN": "`Kud@❝Money would just pour in in the tamagoyaki Major League!❞",
-      "Translation": "`库特@「通过烤鸡蛋卷来大赚一笔呢」"
+      "Translation": "`库特@「可以通过玉子烧来大赚一笔呢」"
     },
     {
       "JP": "`理樹@「ないから。そんなメジャーリーグないから」",
@@ -9198,7 +9198,7 @@
     {
       "JP": "パンは$K118焼きそばパン$K0にホットドッグ。",
       "EN": "I had a $K118yakisoba bread$K0 and a hotdog.",
-      "Translation": "面包则是炒面面包和热狗。"
+      "Translation": "面包则是$K118炒面面包$K0和热狗。"
     },
     {
       "JP": "`理樹@「…ってホットドッグはまずかったかな…」",
@@ -9893,7 +9893,7 @@
     {
       "JP": "`クド@「まるで$K99双六$K0のコマを一つ一つ進めてるみたいですからっ」",
       "EN": "`Kud@❝It was just like playing a $K99sugoroku$K0 game!❞",
-      "Translation": "`库特@「就像是双六的棋子那样一步一步稳稳当当地前进着的说」"
+      "Translation": "`库特@「就像是$K99双六$K0的棋子那样一步一步稳稳当当地前进着的说」"
     },
     {
       "JP": "`理樹@「そっか、確かにそんな感じかもね」",
@@ -15203,12 +15203,12 @@
     {
       "JP": "`小毬@「次の時間がいわゆるひとつの$K92関ヶ原$K0だよー」",
       "EN": "`Komari@❝Next hour is one of the critical battles, like $K92Sekigahara$K0.❞",
-      "Translation": "`小毬@「下一场一言蔽之就是一次关原之战哟－」"
+      "Translation": "`小毬@「下一场一言蔽之就是一次$K92关原之战$K0哟－」"
     },
     {
       "JP": "`クド@「つまり$K108天王山$K0ですかーっ」",
       "EN": "`Kud@❝Or a strategic point, like $K108Mount Tennouzan$K0.❞",
-      "Translation": "`库特@「也就是说关键点是天王山吗－」"
+      "Translation": "`库特@「也就是说关键点是$K108天王山$K0吗－」"
     },
     {
       "JP": "`小毬@「よくわからないけど、きっとそうだよー」",

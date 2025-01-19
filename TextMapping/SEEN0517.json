@@ -795,7 +795,7 @@
     {
       "JP": "`謙吾@「宇宙人を$K43関西$K0人にでもしてみたらどうだ？　よっぽど自然だろ」",
       "EN": "`Kengo@❝Why not change the alien into a $K43Kansai$K0 man? I guess it'd be more natural.❞",
-      "Translation": "`谦吾@「把宇宙人换成关西人如何？不就自然了吗」"
+      "Translation": "`谦吾@「把宇宙人换成$K43关西$K0人如何？不就自然了吗」"
     },
     {
       "JP": "`真人@「なるほど…」",
@@ -1250,7 +1250,7 @@
     {
       "JP": "`三枝@「えーとね、$K10筆ペン$K0貸して欲しいんだけど」",
       "EN": "`Saigusa@❝Well, may I borrow your $K10calligraphy pen$K0?❞",
-      "Translation": "`三枝@「那个，想借水笔」"
+      "Translation": "`三枝@「那个，想借$K10水笔$K0」"
     },
     {
       "JP": "`理樹@「筆ペン!?　あったかなぁ、そんなの」",
@@ -2405,7 +2405,7 @@
     {
       "JP": "すらり、と$K40日本刀$K0を抜き放つ。",
       "EN": "...A $K40Japanese sword$K0. She drew it quietly.",
-      "Translation": "则是唰地拔出了日本刀。"
+      "Translation": "则是唰地拔出了$K40日本刀$K0。"
     },
     {
       "JP": "`理樹@「うわ、銃刀法違反!?」",
@@ -2430,7 +2430,7 @@
     {
       "JP": "だが、その手にあるのは$K84あおひげ$K0だ。",
       "EN": "However, it was a $K84pirate figure$K0 that he was holding.",
-      "Translation": "但是，真人手里只有青胡子海盗。"
+      "Translation": "但是，真人手里只有$K84青胡子海盗$K0。"
     },
     {
       "JP": "`来ヶ谷@「この私に殴られるのがそんなに嬉しいか」",
@@ -3885,7 +3885,7 @@
     {
       "JP": "`鈴@「$K15コロッケそば$K0が大変まずい」",
       "EN": "`Rin@❝The $K15croquette soba$K0 is yucky.❞",
-      "Translation": "`铃@「炸肉饼荞麦面太难吃了」"
+      "Translation": "`铃@「$K15炸肉饼荞麦面$K0太难吃了」"
     },
     {
       "JP": "`理樹@「だから？」",
@@ -3965,7 +3965,7 @@
     {
       "JP": "`おばさん@「でも、あれでしょ？　$K106天ぷら$K0とかはいいわけでしょ？」",
       "EN": "`Staff Lady@❝But you wouldn't care if it's $K106tempura$K0, right?❞",
-      "Translation": "`大娘@「但是，是那个吧？天麸罗不就很不错吗？」"
+      "Translation": "`大娘@「但是，是那个吧？$K106天麸罗$K0不就很不错吗？」"
     },
     {
       "JP": "`鈴@「なにがだ？」",

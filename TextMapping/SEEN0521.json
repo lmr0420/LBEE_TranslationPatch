@@ -415,7 +415,7 @@
     {
       "JP": "近所の席の鈴が$K98手裏剣$K0のようにしゅぱっと教科書を投げる。",
       "EN": "Rin, whose seat was next to hers, hurled a textbook to her as if throwing a $K98shuriken$K0.",
-      "Translation": "在旁边的位子上的铃突然把教科书像手里剑一样扔过去。"
+      "Translation": "在旁边的位子上的铃突然把教科书像$K98手里剑$K0一样扔过去。"
     },
     {
       "JP": "一度小毬さんのお尻に当たり、ちょうど椅子の上に落ちる。",
@@ -5220,7 +5220,7 @@
     {
       "JP": "`来ヶ谷@「$K66新渡戸$K0だ」",
       "EN": "`Kurugaya@❝$K66Nitobe$K0.❞",
-      "Translation": "`来谷@「$K66新渡戸K0」"
+      "Translation": "`来谷@「$K66新渡户$K0」"
     },
     {
       "JP": "`理樹@「何で僕をモデルにして新渡戸に変わるのさっ!!」",
@@ -9255,12 +9255,12 @@
     {
       "JP": "`理樹@「確かにぱさぱさだけど…ん、なんだろ、$K11カステラ$K0みたいなかんじ」",
       "EN": "`Riki@❝It's definitely dry, but... hm, well, it's kind like $K11Castella$K0.❞",
-      "Translation": "`理树@「虽然确实是干巴巴的…嗯，怎么说呢，有点像烤蛋糕的感觉」"
+      "Translation": "`理树@「虽然确实是干巴巴的…嗯，怎么说呢，有点像$K11长崎蛋糕$K0的感觉」"
     },
     {
       "JP": "`葉留佳@「あぁ、そうかも。百円お菓子のカステラっぽいよねぇこれ」",
       "EN": "`Haruka@❝Ah, maybe. It's like those cheap 100 yen Castella.❞",
-      "Translation": "`叶留佳@「啊，是啊。是有点像那卖一百的烤蛋糕的感觉啊」"
+      "Translation": "`叶留佳@「啊，是啊。是有点像那卖一百的长崎蛋糕的感觉啊」"
     },
     {
       "JP": "`葉留佳@「コレはコレで味付けしだいでイケるのかな？」",
@@ -13050,7 +13050,7 @@
     {
       "JP": "『$K7若山牧水$K0歌集』",
       "EN": "[$K7Bokusui Wakayama$K0 Poetry Collection]",
-      "Translation": "『若山牧水歌集』"
+      "Translation": "『$K7若山牧水$K0歌集』"
     },
     {
       "JP": "表紙の一番上には、そう書かれていた。",
@@ -19125,7 +19125,7 @@
     {
       "JP": "『$K87ラジヲ体操$K0第一～!!　腕をー前から上にあげて、のびのびと背伸びの運動から～!!　はいっ!!』",
       "EN": "[$K87Radio gymnastics$K0 #1! Raise your chest upwards and start stretching! All right!]",
-      "Translation": "『广播体操第一节～！！从把手向上伸过头顶的准备运动开始～！！来！！』"
+      "Translation": "『$K87广播体操$K0第一节～！！从把手向上伸过头顶的准备运动开始～！！来！！』"
     },
     {
       "JP": "`理樹@「………」",
@@ -19647,7 +19647,7 @@
     {
       "JP": "探してみる$d練習に向かう",
       "EN": "Look for her$dHead off to practice",
-      "Translation": "去找$d去練習"
+      "Translation": "去找人$d去練習"
     },
     {
       "JP": "善意$d悪意",

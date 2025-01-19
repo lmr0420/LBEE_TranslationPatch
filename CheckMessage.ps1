@@ -21,6 +21,10 @@ foreach($JsonFile in $JsonFiles)
             {
                 Write-Output "Error in $($JsonFile.Name): $($MessageItem.JP) -> $($MessageItem.Translation)"
             }
+            elseif ($MessageItem.JP.Contains("`$K0","InvariantCultureIgnoreCase") -ne $MessageItem.Translation.Contains("`$K0","InvariantCultureIgnoreCase"))
+            {
+                Write-Output "Error in $($JsonFile.Name): $($MessageItem.JP) -> $($MessageItem.Translation)"
+            }
         }
     }
     

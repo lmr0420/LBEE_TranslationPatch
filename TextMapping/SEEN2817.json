@@ -760,7 +760,7 @@
     {
       "JP": "`沙耶@「反対側にも同じ棺桶があるはず。あたしたちはどちらかを選ぶことになるのよ」",
       "EN": "`Saya@❝There should be another one on the other side. We have to pick one.❞",
-      "Translation": "`沙耶@「另一侧应该也有同样的棺材。我们必须选择一个。」"
+      "Translation": "`沙耶@「另一侧应该也有同样的棺材。我们必须选择一个」"
     },
     {
       "JP": "`理樹@「へぇ、よくわかるね」",
@@ -785,7 +785,7 @@
     {
       "JP": "`理樹@「奇妙な字になったね」",
       "EN": "`Riki@❝Some weird character.❞",
-      "Translation": "`理树@「变成了一个奇怪的字。」"
+      "Translation": "`理树@「变成了一个奇怪的字」"
     },
     {
       "JP": "`沙耶@「何よ」",
@@ -830,7 +830,7 @@
     {
       "JP": "`沙耶@「まるで、おまえらはこの匣からは出られない、とでも言いたげじゃない」",
       "EN": "`Saya@❝They're just taunting us, saying ❛you'll never get out of this box.❜❞",
-      "Translation": "`沙耶@「好像在说‘你们永远别想从这个匣子里出去’似的。」"
+      "Translation": "`沙耶@「好像在说‘你们永远别想从这个匣子里出去’似的」"
     },
     {
       "JP": "`理樹@「そうかな…」",
@@ -850,7 +850,7 @@
     {
       "JP": "`沙耶@「もしかしたら棺のことを表してるのかもしれないけど、どちらか一方を示唆してるようには見えないわ」",
       "EN": "`Saya@❝It could be showing a sarcophagus, but it doesn't look like it's telling us which one.❞",
-      "Translation": "`沙耶@「或许是指棺材的形状，但看不出在暗示哪一个。」"
+      "Translation": "`沙耶@「或许是指棺材的形状，但看不出在暗示哪一个」"
     },
     {
       "JP": "`理樹@「うーん…」",
@@ -865,7 +865,7 @@
     {
       "JP": "`沙耶@「向こうにするわ。いきましょ」",
       "EN": "`Saya@❝It's the other one. Let's go.❞",
-      "Translation": "`沙耶@「选那边吧。走吧。」"
+      "Translation": "`沙耶@「选那边吧。走吧」"
     },
     {
       "JP": "そうだ。さっき向こうにすると決めたじゃないか。",
@@ -900,12 +900,12 @@
     {
       "JP": "`沙耶@「ありがと。ただね、責任はすべてあたしにあるのよ」",
       "EN": "`Saya@❝Thanks. But all the responsibility lies with me.❞",
-      "Translation": "`沙耶@「谢谢。不过呢，责任全在我身上。」"
+      "Translation": "`沙耶@「谢谢。不过呢，责任全在我身上」"
     },
     {
       "JP": "`沙耶@「だからいいの。出てって頂戴」",
       "EN": "`Saya@❝So it's fine. Please go outside.❞",
-      "Translation": "`沙耶@「所以没关系。拜托你出去吧。」"
+      "Translation": "`沙耶@「所以没关系。拜托你出去吧」"
     },
     {
       "JP": "`理樹@「………」",
@@ -1085,12 +1085,12 @@
     {
       "JP": "`沙耶@「やっぱり、向こうにするわ。でましょ」",
       "EN": "`Saya@❝It's the other one after all. Let's go.❞",
-      "Translation": "`沙耶@「果然，选那边吧。走吧。」"
+      "Translation": "`沙耶@「果然，选那边吧。走吧」"
     },
     {
       "JP": "`沙耶@「やっぱりこっちはないわね」",
       "EN": "`Saya@❝It's not this one after all.❞",
-      "Translation": "`沙耶@「果然不是这个。」"
+      "Translation": "`沙耶@「果然不是这个」"
     },
     {
       "JP": "`理樹@「どっちからでもいいんじゃない？」",
@@ -1110,12 +1110,12 @@
     {
       "JP": "`沙耶@「出るわ。あっちよ」",
       "EN": "`Saya@❝Let's go to the other one.❞",
-      "Translation": "`沙耶@「走吧。是那边。」"
+      "Translation": "`沙耶@「走吧。是那边」"
     },
     {
       "JP": "`沙耶@「やっぱりあっちよ」",
       "EN": "`Saya@❝It's the other one, after all.❞",
-      "Translation": "`沙耶@「果然是那边。」"
+      "Translation": "`沙耶@「果然是那边」"
     },
     {
       "JP": "`理樹@「疲れてきたよ…」",
@@ -1135,12 +1135,12 @@
     {
       "JP": "`沙耶@「出るわ。あっちよ」",
       "EN": "`Saya@❝Let's go to the other one.❞",
-      "Translation": "`沙耶@「走吧。是那边。」"
+      "Translation": "`沙耶@「走吧。是那边」"
     },
     {
       "JP": "`沙耶@「やっぱり、向こうね」",
       "EN": "`Saya@❝It's the other one, after all.❞",
-      "Translation": "`沙耶@「果然是那边。」"
+      "Translation": "`沙耶@「果然是那边」"
     },
     {
       "JP": "`理樹@「………」",
@@ -1160,7 +1160,7 @@
     {
       "JP": "`沙耶@「やっぱ、向こうね。断然向こうよ。絶対向こう」",
       "EN": "`Saya@❝It's the other one, after all. Definitely. No doubt.❞",
-      "Translation": "`沙耶@「果然还是那边。绝对是那边。」"
+      "Translation": "`沙耶@「果然还是那边。绝对是那边」"
     },
     {
       "JP": "`理樹@「うん、いこういこう」",
@@ -1170,7 +1170,7 @@
     {
       "JP": "`沙耶@「違う…やっぱり向こうよ」",
       "EN": "`Saya@❝Nope, it's the other one, after all.❞",
-      "Translation": "`沙耶@「不对……果然是那边。」"
+      "Translation": "`沙耶@「不对……果然是那边」"
     },
     {
       "JP": "`理樹@「ね、そろそろ決めない…？」",
@@ -1190,7 +1190,7 @@
     {
       "JP": "`沙耶@「やっぱり向こうね」",
       "EN": "`Saya@❝It's the other one, after all.❞",
-      "Translation": "`沙耶@「果然是那边。」"
+      "Translation": "`沙耶@「果然是那边」"
     },
     {
       "JP": "`理樹@「………」",
@@ -1220,7 +1220,7 @@
     {
       "JP": "`沙耶@「そんなことないわよ。今、向こうにするって決めたから」",
       "EN": "`Saya@❝That's not true. I've decided that it's the other one.❞",
-      "Translation": "`沙耶@「才不会呢。我现在已经决定好是那边了。」"
+      "Translation": "`沙耶@「才不会呢。我现在已经决定好是那边了」"
     },
     {
       "JP": "`理樹@「それもあっさり覆ると思うんだ…」",
@@ -1230,7 +1230,7 @@
     {
       "JP": "`沙耶@「ないわよ」",
       "EN": "`Saya@❝No I won't.❞",
-      "Translation": "`沙耶@「不会的。」"
+      "Translation": "`沙耶@「不会的」"
     },
     {
       "JP": "`理樹@「本当に？」",
@@ -1240,7 +1240,7 @@
     {
       "JP": "`沙耶@「本当よ」",
       "EN": "`Saya@❝Really.❞",
-      "Translation": "`沙耶@「真的。」"
+      "Translation": "`沙耶@「真的」"
     },
     {
       "JP": "`理樹@「じゃ、いくよ」",
@@ -1250,12 +1250,12 @@
     {
       "JP": "`沙耶@「ええ。いきましょ」",
       "EN": "`Saya@❝Yeah, let's go.❞",
-      "Translation": "`沙耶@「嗯。走吧。」"
+      "Translation": "`沙耶@「嗯。走吧」"
     },
     {
       "JP": "`沙耶@「やっぱり、向こうね」",
       "EN": "`Saya@❝It's the other one, after all.❞",
-      "Translation": "`沙耶@「果然是那边。」"
+      "Translation": "`沙耶@「果然是那边」"
     },
     {
       "JP": "`理樹@「………」",

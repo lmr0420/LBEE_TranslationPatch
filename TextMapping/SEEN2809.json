@@ -3,22 +3,22 @@
     {
       "JP": "`$(1,0)@「大丈夫ね」",
       "EN": "`$(1,1)@ ❝Seems fine.❞",
-      "Translation": "`$(1,1)@「看起来没问题。」"
+      "Translation": "`$(1,1)@「看起来没问题」"
     },
     {
       "JP": "`$(1,0)@「安全よ」",
       "EN": "`$(1,1)@ ❝It's safe.❞",
-      "Translation": "`$(1,1)@「很安全哦。」"
+      "Translation": "`$(1,1)@「很安全哦」"
     },
     {
       "JP": "`$(1,0)@「なにもなし、っと」",
       "EN": "`$(1,1)@ ❝Nothing here, huh.❞",
-      "Translation": "`$(1,1)@「什么都没有，嗯。」"
+      "Translation": "`$(1,1)@「什么都没有，嗯」"
     },
     {
       "JP": "`$(1,0)@「危険はなし、と」",
       "EN": "`$(1,1)@ ❝There's no danger.❞",
-      "Translation": "`$(1,1)@「没有危险，嗯。」"
+      "Translation": "`$(1,1)@「没有危险，嗯」"
     },
     {
       "JP": "`$(1,0)@「ふぅ…」",
@@ -28,47 +28,47 @@
     {
       "JP": "`$(1,0)@「なにもないわ」",
       "EN": "`$(1,1)@ ❝There's nothing here.❞",
-      "Translation": "`$(1,1)@「什么都没有哦。」"
+      "Translation": "`$(1,1)@「什么都没有哦」"
     },
     {
       "JP": "`$(1,0)@「もぬけのからね」",
       "EN": "`$(1,1)@ ❝This is completely empty.❞",
-      "Translation": "`$(1,1)@「完全是空的。」"
+      "Translation": "`$(1,1)@「完全是空的」"
     },
     {
       "JP": "`$(1,0)@「なーんもなし」",
       "EN": "`$(1,1)@ ❝No-thing here.❞",
-      "Translation": "`$(1,1)@「啥都没有。」"
+      "Translation": "`$(1,1)@「啥都没有」"
     },
     {
       "JP": "`$(1,0)@「空き部屋よ」",
       "EN": "`$(1,1)@ ❝It's an empty room.❞",
-      "Translation": "`$(1,1)@「是空房间哦。」"
+      "Translation": "`$(1,1)@「是空房间哦」"
     },
     {
       "JP": "`$(1,0)@「ライトつけてもいいわよ」",
       "EN": "`$(1,1)@ ❝You can turn on the light.❞",
-      "Translation": "`$(1,1)@「可以开灯了哦。」"
+      "Translation": "`$(1,1)@「可以开灯了哦」"
     },
     {
       "JP": "`$(1,0)@「敵もトラップもなし、と」",
       "EN": "`$(1,1)@ ❝No enemies, no traps.❞",
-      "Translation": "`$(1,1)@「没有敌人，也没有陷阱，嗯。」"
+      "Translation": "`$(1,1)@「没有敌人，也没有陷阱，嗯」"
     },
     {
       "JP": "`$(1,0)@「慎重にライトを点けて」",
       "EN": "`$(1,1)@ ❝Turn on the light, carefully.❞",
-      "Translation": "`$(1,1)@「小心点开灯吧。」"
+      "Translation": "`$(1,1)@「小心点开灯吧」"
     },
     {
       "JP": "`$(1,0)@「ライト、点けて」",
       "EN": "`$(1,1)@ ❝Light, on.❞",
-      "Translation": "`$(1,1)@「开灯吧。」"
+      "Translation": "`$(1,1)@「开灯吧」"
     },
     {
       "JP": "`$(1,0)@「とりあえずライト点けて」",
       "EN": "`$(1,1)@ ❝You might as well turn on the light.❞",
-      "Translation": "`$(1,1)@「暂且开灯吧。」"
+      "Translation": "`$(1,1)@「暂且开灯吧」"
     },
     {
       "JP": "`$(1,0)@「理樹くん、大丈夫!?　撤退よ！」",
@@ -148,7 +148,7 @@
     {
       "JP": "`朱鷺戸@「ワッツ？　ホワーイ？　説明してみてよ、ねぇ、理樹くん」",
       "EN": "`Tokido@❝Huh? But why?! Explain, Riki-kun.❞",
-      "Translation": "`朱鹭户@「啥？为什么！？解释一下啊，理树君。」"
+      "Translation": "`朱鹭户@「啥？为什么！？解释一下啊，理树君」"
     },
     {
       "JP": "`理樹@「のんきに話してるような場合じゃないよ、危険だから出よう！」",
@@ -158,7 +158,7 @@
     {
       "JP": "`朱鷺戸@「ちょっと理樹くん、おいでなさい」",
       "EN": "`Tokido@❝Wait, Riki-kun. Come here.❞",
-      "Translation": "`朱鹭户@「理树君，过来一下。」"
+      "Translation": "`朱鹭户@「理树君，过来一下」"
     },
     {
       "JP": "`理樹@「なに？」",
@@ -193,7 +193,7 @@
     {
       "JP": "`朱鷺戸@「あなた、あほでしょ」",
       "EN": "`Tokido@❝You're not very bright, huh?❞",
-      "Translation": "`朱鹭户@「你是笨蛋吧。」"
+      "Translation": "`朱鹭户@「你是笨蛋吧」"
     },
     {
       "JP": "`理樹@「うん、ごめん…」",
@@ -203,7 +203,7 @@
     {
       "JP": "`朱鷺戸@「何がしたいの、あなた」",
       "EN": "`Tokido@❝What are you trying to do?❞",
-      "Translation": "`朱鹭户@「你到底想干什么啊。」"
+      "Translation": "`朱鹭户@「你到底想干什么啊」"
     },
     {
       "JP": "`理樹@「ごめん…」",
@@ -223,7 +223,7 @@
     {
       "JP": "`理樹@「ふぅ…危ないところだった」",
       "EN": "`Riki@❝Phew... That was a close call.❞",
-      "Translation": "`理树@「呼……好险啊。」"
+      "Translation": "`理树@「呼……好险啊」"
     },
     {
       "JP": "`朱鷺戸@「いっかい、ぐーで殴ってやろうかしら…」",
@@ -248,7 +248,7 @@
     {
       "JP": "`朱鷺戸@「次は殴ると決めてたのよ」",
       "EN": "`Tokido@❝I decided that I'd punch you next time.❞",
-      "Translation": "`朱鹭户@「我已经决定好下一次要揍你了。」"
+      "Translation": "`朱鹭户@「我已经决定好下一次要揍你了」"
     },
     {
       "JP": "`理樹@「凶悪だなぁ…」",

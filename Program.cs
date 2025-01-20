@@ -305,7 +305,7 @@
             Console.Write("大概率导致现有存档损坏");
             Console.ResetColor();
             Console.WriteLine("，请使用新存档进行游戏。\n");
-            for(int i = DescriptionWaitingTime; i>0;i--)
+            for (int i = DescriptionWaitingTime; i>0;i--)
             {
                 char[] TimerIcon = ['-', '\\', '|', '/'];
                 for (int j = 0; j < 4; j++)
@@ -555,17 +555,9 @@
                 object SyncLock = new object();
                 ParallelOptions parallelOptions = new ParallelOptions();
                 parallelOptions.MaxDegreeOfParallelism = Math.Max(1, Environment.ProcessorCount - 2);
+                Console.Write("Replace CzImg...\r");
                 Parallel.ForEach(PendingReplacementPNGs, parallelOptions, (PendingReplacementPNG) =>
                 {
-                    // 同步输出进度，不会让进度混乱
-                    lock (SyncLock) 
-                    {
-                        ProcessedImg++;
-                        Console.Write("\r" + new String(' ', Console.CursorLeft));
-                        Console.CursorLeft = 0;
-                        Console.Write($"\rReplace CzImg...[{ProcessedImg}/{PendingReplacementPNGs.Length}]");
-                    }
-
                     var ImgFileName = Path.GetFileNameWithoutExtension(PendingReplacementPNG);
                     var ExtractedImgName = Path.Combine(CzTempPath, ImgFileName);
                     if (File.Exists(ExtractedImgName))
@@ -573,6 +565,15 @@
                         // 如果确实有对应的czImg被提取出来了，那么就替换
                         var PendingReplaceCzImg = Path.Combine(PendingReplacePath, ImgFileName);
                         Process.Start("Files\\czutil.exe", $"replace \"{ExtractedImgName}\" \"{PendingReplacementPNG}\" \"{PendingReplaceCzImg}\"").WaitForExit();
+                    }
+
+                    // 同步输出进度，不会让进度混乱
+                    lock (SyncLock)
+                    {
+                        ProcessedImg++;
+                        Console.Write("\r" + new String(' ', Console.CursorLeft));
+                        Console.CursorLeft = 0;
+                        Console.Write($"\rReplace CzImg...[{ProcessedImg}/{PendingReplacementPNGs.Length}]");
                     }
                 });
                 Console.WriteLine("");

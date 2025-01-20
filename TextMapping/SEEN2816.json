@@ -964,7 +964,7 @@
     {
       "JP": "`沙耶@「何かはあったけど、何かはわかんない」",
       "EN": "`Saya@❝Yeah, but I don't know what.❞",
-      "Translation": "`沙耶@「发现是发现了，但不知道是什么。」"
+      "Translation": "`沙耶@「发现是发现了，但不知道是什么」"
     },
     {
       "JP": "`理樹@「沙耶さんにわからないんだったら、僕には絶対無理だね…」",
@@ -974,12 +974,12 @@
     {
       "JP": "`沙耶@「そうね」",
       "EN": "`Saya@❝Yeah.❞",
-      "Translation": "`沙耶@「是啊。」"
+      "Translation": "`沙耶@「是啊」"
     },
     {
       "JP": "`沙耶@「もう少し、うろつきましょ」",
       "EN": "`Saya@❝Let's wander around some more.❞",
-      "Translation": "`沙耶@「再稍微转转吧。」"
+      "Translation": "`沙耶@「再稍微转转吧」"
     },
     {
       "JP": "`理樹@「おかえり。何かあった？」",
@@ -994,7 +994,7 @@
     {
       "JP": "`理樹@「いやいや、無理です」",
       "EN": "`Riki@❝No, no, absolutely not.❞",
-      "Translation": "`理树@「不不，完全不行。」"
+      "Translation": "`理树@「不不，完全不行」"
     },
     {
       "JP": "部屋を後にした。",
@@ -1164,7 +1164,7 @@
     {
       "JP": "`沙耶@「降りるわよ」",
       "EN": "`Saya@❝Yes, I'm going down.❞",
-      "Translation": "`沙耶@「当然要下去。」"
+      "Translation": "`沙耶@「当然要下去」"
     },
     {
       "JP": "`理樹@「何かあるの？」",
@@ -1174,7 +1174,7 @@
     {
       "JP": "`沙耶@「カンニングみたいなものだけど、正解があるのよ」",
       "EN": "`Saya@❝It's kind of cheating, but the solution is here.❞",
-      "Translation": "`沙耶@「有点像作弊，不过这里确实有答案。」"
+      "Translation": "`沙耶@「有点像作弊，不过这里确实有答案」"
     },
     {
       "JP": "`理樹@「ああ、見えるんだね、沙耶さんには。さすが！」",
@@ -1219,7 +1219,7 @@
     {
       "JP": "`沙耶@「ここに置いておくけど、匂いとかかいだら許さないわよ」",
       "EN": "`Saya@❝I'm going to leave these here, but you'd better not sniff them.❞",
-      "Translation": "`沙耶@「我把它们放在这里，但如果你敢闻的话，就别怪我不客气了哦。」"
+      "Translation": "`沙耶@「我把它们放在这里，但如果你敢闻的话，就别怪我不客气了哦」"
     },
     {
       "JP": "`理樹@「そんな性癖ないから安心して…」",
@@ -1229,7 +1229,7 @@
     {
       "JP": "`沙耶@「じゃ、いってきます」",
       "EN": "`Saya@❝Okay, I'm off.❞",
-      "Translation": "`沙耶@「那么，我要出发了。」"
+      "Translation": "`沙耶@「那么，我要出发了」"
     },
     {
       "JP": "`理樹@「ロープもなしで!?」",
@@ -1239,7 +1239,7 @@
     {
       "JP": "`沙耶@「うん」",
       "EN": "`Saya@❝Yeah.❞",
-      "Translation": "`沙耶@「嗯。」"
+      "Translation": "`沙耶@「嗯」"
     },
     {
       "JP": "第一歩を踏み出す。",
@@ -1269,7 +1269,7 @@
     {
       "JP": "`沙耶@「いっちょ、いってくるわ」",
       "EN": "`Saya@❝Okay, I'm going.❞",
-      "Translation": "`沙耶@「好了，我要出发了。」"
+      "Translation": "`沙耶@「好了，我要出发了」"
     },
     {
       "JP": "`理樹@「え？　裸足でどこに？」",
@@ -1279,7 +1279,7 @@
     {
       "JP": "`沙耶@「そりゃ、この下へ」",
       "EN": "`Saya@❝Down there.❞",
-      "Translation": "`沙耶@「当然是下去了。」"
+      "Translation": "`沙耶@「当然是下去了」"
     },
     {
       "JP": "第一歩を踏み出す。",
@@ -1309,7 +1309,7 @@
     {
       "JP": "`沙耶@「いっちょ、滑ってくるわ」",
       "EN": "`Saya@❝Okay, I'm gonna go slide.❞",
-      "Translation": "`沙耶@「好了，我要滑下去了。」"
+      "Translation": "`沙耶@「好了，我要滑下去了」"
     },
     {
       "JP": "`理樹@「きみの行動が意味不明だよ…」",
@@ -1319,7 +1319,7 @@
     {
       "JP": "`沙耶@「最高に気持ちいいわよ」",
       "EN": "`Saya@❝It's the best feeling ever.❞",
-      "Translation": "`沙耶@「感觉超棒哦。」"
+      "Translation": "`沙耶@「感觉超棒哦」"
     },
     {
       "JP": "第一歩を踏み出す。",
@@ -1369,17 +1369,17 @@
     {
       "JP": "`沙耶@「あのね、理樹くん。服が必要なのよ。できるだけ」",
       "EN": "`Saya@❝Umm, Riki-kun. I need your clothes. As many pieces as possible.❞",
-      "Translation": "`沙耶@「那个啊，理树君。我需要你的衣服，越多越好。」"
+      "Translation": "`沙耶@「那个啊，理树君。我需要你的衣服，越多越好」"
     },
     {
       "JP": "`理樹@「ああ、それを結んでロープを延ばすんだね」",
       "EN": "`Riki@❝Ah, you're going to tie them together and extend the rope.❞",
-      "Translation": "`理树@「啊，是要用它们绑在一起延长绳子吧。」"
+      "Translation": "`理树@「啊，是要用它们绑在一起延长绳子吧」"
     },
     {
       "JP": "`沙耶@「正解」",
       "EN": "`Saya@❝Correct.❞",
-      "Translation": "`沙耶@「答对了。」"
+      "Translation": "`沙耶@「答对了」"
     },
     {
       "JP": "`理樹@「でもそれって…僕だけでいいの？」",
@@ -1389,12 +1389,12 @@
     {
       "JP": "`沙耶@「いやもちろん、あたしも脱ぎます」",
       "EN": "`Saya@❝No, naturally I'll take mine off too.❞",
-      "Translation": "`沙耶@「当然不够，我也会脱的。」"
+      "Translation": "`沙耶@「当然不够，我也会脱的」"
     },
     {
       "JP": "`沙耶@「なので、ライトは理樹くんだけを照らします」",
       "EN": "`Saya@❝So only shine the light toward you.❞",
-      "Translation": "`沙耶@「所以，手电筒只照着你。」"
+      "Translation": "`沙耶@「所以，手电筒只照着你」"
     },
     {
       "JP": "`理樹@「うわぁ、消してもらえますか!?」",
@@ -1414,7 +1414,7 @@
     {
       "JP": "`沙耶@「限界までよ」",
       "EN": "`Saya@❝As much as you can.❞",
-      "Translation": "`沙耶@「尽可能多。」"
+      "Translation": "`沙耶@「尽可能多」"
     },
     {
       "JP": "`理樹@「トランクスだけ穿いてて…いい？」",
@@ -1424,7 +1424,7 @@
     {
       "JP": "`沙耶@「駄目。脱ぎなさい。ブリーフじゃないところが特に有用よ」",
       "EN": "`Saya@❝No. Take them off. As long as they're not briefs, they'll be especially helpful.❞",
-      "Translation": "`沙耶@「不行，脱掉。尤其不是三角裤的话就会特别有用哦。」"
+      "Translation": "`沙耶@「不行，脱掉。尤其不是三角裤的话就会特别有用哦」"
     },
     {
       "JP": "`理樹@「えぇぇー」",
@@ -1444,7 +1444,7 @@
     {
       "JP": "`沙耶@「どうぞ」",
       "EN": "`Saya@❝Feel free.❞",
-      "Translation": "`沙耶@「随便你。」"
+      "Translation": "`沙耶@「随便你」"
     },
     {
       "JP": "ライトを渡すと、それで壁を照らし出すように床に置いた。",
@@ -1569,7 +1569,7 @@
     {
       "JP": "`沙耶@「ごめん、ごめん」",
       "EN": "`Saya@❝Sorry, sorry.❞",
-      "Translation": "`沙耶@「抱歉抱歉。」"
+      "Translation": "`沙耶@「抱歉抱歉」"
     },
     {
       "JP": "それも結びつけて、最後にロープと結合。",
@@ -1584,27 +1584,27 @@
     {
       "JP": "`沙耶@「上り下りは、理樹くんの力でお願い。こんな格好で這って降りたら凍傷起こすから」",
       "EN": "`Saya@❝I'm counting on your power to bring me up and down. If I crawl down like this, I'll get frostbite.❞",
-      "Translation": "`沙耶@「下去和上来全仰仗理树君的力量了哦。我穿成这样爬下去的话会冻伤的。」"
+      "Translation": "`沙耶@「下去和上来全仰仗理树君的力量了哦。我穿成这样爬下去的话会冻伤的」"
     },
     {
       "JP": "`理樹@「そうだね」",
       "EN": "`Riki@❝Gotcha.❞",
-      "Translation": "`理树@「明白了。」"
+      "Translation": "`理树@「明白了」"
     },
     {
       "JP": "`沙耶@「要領はわかるわね？　ゆっくりよ？　止まるとき、上る時は口で合図するから」",
       "EN": "`Saya@❝Do you know how to do it? Slowly, okay? I'll tell you when to stop and to pull me up.❞",
-      "Translation": "`沙耶@「你知道怎么做吧？慢慢来哦？需要停下或者拉上去时我会和你说的。」"
+      "Translation": "`沙耶@「你知道怎么做吧？慢慢来哦？需要停下或者拉上去时我会和你说的」"
     },
     {
       "JP": "`理樹@「うん」",
       "EN": "`Riki@❝Okay.❞",
-      "Translation": "`理树@「嗯。」"
+      "Translation": "`理树@「嗯」"
     },
     {
       "JP": "`沙耶@「じゃ、よろしく」",
       "EN": "`Saya@❝Alright, I'm counting on you.❞",
-      "Translation": "`沙耶@「那么拜托了。」"
+      "Translation": "`沙耶@「那么拜托了」"
     },
     {
       "JP": "命綱を託し、あたしは氷のスロープを降り始めた。",
@@ -1754,7 +1754,7 @@
     {
       "JP": "`理樹@「一瞬、ごめん」",
       "EN": "`Riki@❝Sorry, give me a second.❞",
-      "Translation": "`理树@「抱歉，只开一小会儿。」"
+      "Translation": "`理树@「抱歉，只开一小会儿」"
     },
     {
       "JP": "ぱーーーーんっ！",
@@ -1799,7 +1799,7 @@
     {
       "JP": "`沙耶@「はい、スタート」",
       "EN": "`Saya@❝Okay, start.❞",
-      "Translation": "`沙耶@「好了，开始吧。」"
+      "Translation": "`沙耶@「好了，开始吧」"
     },
     {
       "JP": "`沙耶@「やや、なんと、ここに正解の氷像が！」",

@@ -371,15 +371,21 @@
 
             Dictionary<string, Dictionary<int, int>> ScriptCommandRedirectors = new();
 
-            foreach (var scriptFile in scriptFiles)
+            for(int i = 0;i<scriptFiles.Length;i++)
             {
                 // 由于FARCALL指令的存在，需要先进行一次预计算，然后再进行翻译
-                ProcessScript(scriptFile,true);
+                ProcessScript(scriptFiles[i], true);
+                Console.Write("\r" + new String(' ', Console.CursorLeft));
+                Console.Write($"\rPrecompute Script Layout...[{i + 1}/{scriptFiles.Length}]");
             }
-            foreach (var scriptFile in scriptFiles)
+            Console.WriteLine("");
+            for (int i = 0; i < scriptFiles.Length; i++)
             {
-                ProcessScript(scriptFile,false);
+                ProcessScript(scriptFiles[i], false);
+                Console.Write("\r" + new String(' ', Console.CursorLeft));
+                Console.Write($"\rProcess Script...[{i + 1}/{scriptFiles.Length}]");
             }
+            Console.WriteLine("");
 
             if (InstructionLayoutHandle != null)
             {

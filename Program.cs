@@ -376,7 +376,7 @@
                 // 由于FARCALL指令的存在，需要先进行一次预计算，然后再进行翻译
                 ProcessScript(scriptFiles[i], true);
                 Console.Write("\r" + new String(' ', Console.CursorLeft));
-                Console.Write($"\rPrecompute Script Layout...[{i + 1}/{scriptFiles.Length}]");
+                Console.Write($"\rPrecompute Instruction Layout...[{i + 1}/{scriptFiles.Length}]");
             }
             Console.WriteLine("");
             for (int i = 0; i < scriptFiles.Length; i++)

@@ -273,22 +273,22 @@
     {
       "JP": "`朱鷺戸@「床が凍ってる…」",
       "EN": "`Tokido@❝The floor is frozen...❞",
-      "Translation": "`朱鹭户@「地板冻住了……」"
+      "Translation": "`朱鹭户@「地板冻住了…」"
     },
     {
       "JP": "`理樹@「今度は氷か…トラップじゃないの？」",
       "EN": "`Riki@❝This time it's ice... is it a trap?❞",
-      "Translation": "`理树@「这次是冰吗……不会是陷阱吧？」"
+      "Translation": "`理树@「这次是冰吗…不会是陷阱吧？」"
     },
     {
       "JP": "`朱鷺戸@「わからない…ちょっと調べて…」",
       "EN": "`Tokido@❝I don't know... let's investigate a bit...❞",
-      "Translation": "`朱鹭户@「我也不清楚……稍微调查一下……」"
+      "Translation": "`朱鹭户@「我也不清楚…稍微调查一下…」"
     },
     {
       "JP": "`朱鷺戸@「ひやああぁぁぁあぁぁぁー…」",
       "EN": "`Tokido@❝Hyaaaaaaaa...❞",
-      "Translation": "`朱鹭户@「呀啊啊啊啊啊啊啊——……」"
+      "Translation": "`朱鹭户@「呀啊啊啊啊啊啊啊——…」"
     },
     {
       "JP": "悲鳴が遠ざかっていった。",
@@ -303,7 +303,7 @@
     {
       "JP": "`朱鷺戸@「ぅぅ…大丈夫よ…」",
       "EN": "`Tokido@❝Ugh... I'm fine...❞",
-      "Translation": "`朱鹭户@「呜呜……没事……」"
+      "Translation": "`朱鹭户@「呜呜…没事…」"
     },
     {
       "JP": "遠くで声がした。",
@@ -313,12 +313,12 @@
     {
       "JP": "`朱鷺戸@「床が斜面になってるのよ…」",
       "EN": "`Tokido@❝The floor was sloped...❞",
-      "Translation": "`朱鹭户@「地板是斜的……」"
+      "Translation": "`朱鹭户@「地板是斜的…」"
     },
     {
       "JP": "`朱鷺戸@「あなたは絶対動かないで…ふたりで落ちたら、上がる方法がなくなるから慎重に行動してね」",
       "EN": "`Tokido@❝You must definitely not move... If we both fall down, it'd be impossible to get up, be careful.❞",
-      "Translation": "`朱鹭户@「你绝对不要动……如果我们两个人都掉下去，就没办法上来了，所以一定要小心行动哦」"
+      "Translation": "`朱鹭户@「你绝对不要动…如果我们两个人都掉下去，就没办法上来了，所以一定要小心行动哦」"
     },
     {
       "JP": "`朱鷺戸@「リュックの中に登山用ロープとスパイクがあるから、それを投げいれて」",
@@ -343,12 +343,12 @@
     {
       "JP": "`朱鷺戸@「ぶつぶつ…」",
       "EN": "`Tokido@❝*Mumble mumble*...❞",
-      "Translation": "`朱鹭户@「嘟囔嘟囔……」"
+      "Translation": "`朱鹭户@「嘟囔嘟囔…」"
     },
     {
       "JP": "また落ち込んでるのだろう…何も答えず、来た道を引き返していく。",
       "EN": "She's depressed again... she started walking back without a word.",
-      "Translation": "她似乎又沮丧了……什么也没说，转身沿着来时的路走回去。"
+      "Translation": "她似乎又沮丧了…什么也没说，转身沿着来时的路走回去。"
     },
     {
       "JP": "僕は慌てて道具をリュックに仕舞うと、後を追った。",
@@ -358,7 +358,7 @@
     {
       "JP": "`朱鷺戸@「ここね…これみよがしに仕掛けが置いてあるわ」",
       "EN": "`Tokido@❝That's quite a really ostentatious mechanism they have in here.❞",
-      "Translation": "`朱鹭户@「就在这里……这种显而易见的机关被放在这里」"
+      "Translation": "`朱鹭户@「就在这里…这种显而易见的机关被放在这里」"
     },
     {
       "JP": "`理樹@「なんだか寒くない…？」",
@@ -518,7 +518,7 @@
     {
       "JP": "`朱鷺戸@「そんなまんま繰り返されても…もうちょっと詳しく話してくれる？」",
       "EN": "`Tokido@❝I still don't get you... Would you care to elaborate?❞",
-      "Translation": "`朱鹭户@「就算你重复这么说……能不能再详细一点？」"
+      "Translation": "`朱鹭户@「就算你重复这么说…能不能再详细一点？」"
     },
     {
       "JP": "`理樹@「この木製の龍、とても立派な像だと思うんだ」",
@@ -543,7 +543,7 @@
     {
       "JP": "`朱鷺戸@「どうって、そんな真顔で訊かれても…」",
       "EN": "`Tokido@❝I can't believe you could keep a straight face saying that...❞",
-      "Translation": "`朱鹭户@「怎么样？就算你这么一脸认真地问我……」"
+      "Translation": "`朱鹭户@「怎么样？就算你这么一脸认真地问我…」"
     },
     {
       "JP": "`理樹@「え？　ヘンかな」",
@@ -558,7 +558,7 @@
     {
       "JP": "`理樹@「そっかー、自覚なかったよ。ま、いいや」",
       "EN": "`Riki@❝Really? I didn't know, but that's okay with me.❞",
-      "Translation": "`理树@「是吗……我自己没意识到。不过，没关系啦」"
+      "Translation": "`理树@「是吗…我自己没意识到。不过，没关系啦」"
     },
     {
       "JP": "`朱鷺戸@「いいのかよっ」",
@@ -573,12 +573,12 @@
     {
       "JP": "`朱鷺戸@「その意見をヘンだと感じない人を連れてきてほしいわ…」",
       "EN": "`Tokido@❝I'd like you to show me someone who wouldn't think your idea is weird...❞",
-      "Translation": "`朱鹭户@「带一个不会觉得你奇怪的人来吧……」"
+      "Translation": "`朱鹭户@「带一个不会觉得你奇怪的人来吧…」"
     },
     {
       "JP": "`理樹@「うわ、それって相当ヘンだってことじゃん…」",
       "EN": "`Riki@❝Wow, that means it must be really weird then...❞",
-      "Translation": "`理树@「哇，那看来是真的很奇怪啊……」"
+      "Translation": "`理树@「哇，那看来是真的很奇怪啊…」"
     },
     {
       "JP": "`理樹@「でも、僕の中ではそれが正解なんだ。だから手伝ってほしいんだ」",
@@ -633,7 +633,7 @@
     {
       "JP": "`理樹@「くそぅ…」",
       "EN": "`Riki@❝Damn...❞",
-      "Translation": "`理树@「可恶……」"
+      "Translation": "`理树@「可恶…」"
     },
     {
       "JP": "`朱鷺戸@「あいにく水しかないわ」",
@@ -693,7 +693,7 @@
     {
       "JP": "`朱鷺戸@「んもう、そういちいち食いついてこられると、鬱陶しいのよ…そのおかしな理樹くんモードの時にさ…」",
       "EN": "`Tokido@❝Geez, will you stop pestering me with questions? You're so annoying when you're in your weird mode...❞",
-      "Translation": "`朱鹭户@「真是的，你每次都这样追着问，真的很烦人……尤其是你这种奇怪模式的时候……」"
+      "Translation": "`朱鹭户@「真是的，你每次都这样追着问，真的很烦人…尤其是你这种奇怪模式的时候…」"
     },
     {
       "JP": "`理樹@「おかしなモード？　僕は正気だってば、信じてよっ」",
@@ -703,7 +703,7 @@
     {
       "JP": "`朱鷺戸@「ほら、きたぁ…」",
       "EN": "`Tokido@❝There you go again...❞",
-      "Translation": "`朱鹭户@「看吧，又来了……」"
+      "Translation": "`朱鹭户@「看吧，又来了…」"
     },
     {
       "JP": "`朱鷺戸@「理樹くん、あなたの案は間違ってるの。だから捨てる。はいはい、いい子ね。はい、捨てたー」",
@@ -713,7 +713,7 @@
     {
       "JP": "`理樹@「あーぁ…」",
       "EN": "`Riki@❝Bummer...❞",
-      "Translation": "`理树@「啊—……」"
+      "Translation": "`理树@「啊—…」"
     },
     {
       "JP": "`朱鷺戸@「まあまあ、理樹くん。その代わりっちゃなんだけど、あたしは答えを思いついたわ」",
@@ -748,12 +748,12 @@
     {
       "JP": "`朱鷺戸@「あっさり、認めるのね…」",
       "EN": "`Tokido@❝You accepted that right away, huh...❞",
-      "Translation": "`朱鹭户@「你还真是爽快地承认了啊……」"
+      "Translation": "`朱鹭户@「你还真是爽快地承认了啊…」"
     },
     {
       "JP": "`理樹@「そうかー…」",
       "EN": "`Riki@❝Is that so...❞",
-      "Translation": "`理树@「是吗……」"
+      "Translation": "`理树@「是吗…」"
     },
     {
       "JP": "`朱鷺戸@「もうそのプラン捨てていい？」",
@@ -763,7 +763,7 @@
     {
       "JP": "`理樹@「仕方がないね…」",
       "EN": "`Riki@❝It can't be helped...❞",
-      "Translation": "`理树@「没办法呢……」"
+      "Translation": "`理树@「没办法呢…」"
     },
     {
       "JP": "`朱鷺戸@「その代わり、あたしは答えを思いついたわ」",
@@ -803,7 +803,7 @@
     {
       "JP": "`理樹@「でも、この氷で龍を彫るなんて…相当難儀だよ」",
       "EN": "`Riki@❝But, to carve a dragon out of this ice... it's quite difficult.❞",
-      "Translation": "`理树@「但是，要用这块冰雕刻出龙……相当困难啊」"
+      "Translation": "`理树@「但是，要用这块冰雕刻出龙…相当困难啊」"
     },
     {
       "JP": "`理樹@「しかも、氷は溶けていく。時間制限まであるんだ」",
@@ -818,12 +818,12 @@
     {
       "JP": "`理樹@「うーん、それは…」",
       "EN": "`Riki@❝Umm, well...❞",
-      "Translation": "`理树@「嗯……那就……」"
+      "Translation": "`理树@「嗯…那就…」"
     },
     {
       "JP": "`理樹@「…誰かが補充しにくるんじゃないかな」",
       "EN": "`Riki@❝...Maybe someone will replace it?❞",
-      "Translation": "`理树@「……可能会有人来补充吧」"
+      "Translation": "`理树@「…可能会有人来补充吧」"
     },
     {
       "JP": "自分で言っておいて、そんな馬鹿な、と思う。",
@@ -843,7 +843,7 @@
     {
       "JP": "`理樹@「それには期待しないほうがよさそうだね…」",
       "EN": "`Riki@❝I wouldn't count on that...❞",
-      "Translation": "`理树@「看来不要对那种事抱太大希望比较好……」"
+      "Translation": "`理树@「看来不要对那种事抱太大希望比较好…」"
     },
     {
       "JP": "`朱鷺戸@「そうね、できるならあなたに期待したいわ」",
@@ -1418,7 +1418,7 @@
     {
       "JP": "…が、結局何の手がかりも見つけられなかった…。",
       "EN": "...But, in the end we couldn't find any clues...",
-      "Translation": "……但最终还是没有找到任何线索…。"
+      "Translation": "…但最终还是没有找到任何线索…。"
     },
     {
       "JP": "`理樹@「さて、どうしたものか…」",
@@ -1428,7 +1428,7 @@
     {
       "JP": "…地図でも見直してみるか。",
       "EN": "...Might as well check the map again.",
-      "Translation": "……再看看地图吧。"
+      "Translation": "…再看看地图吧。"
     },
     {
       "JP": "`理樹@（なぜ端が両方、行き止まりなんだろう…）",
@@ -1548,7 +1548,7 @@
     {
       "JP": "`朱鷺戸@「こじつけなのは自覚してたのね…」",
       "EN": "`Tokido@❝So you knew it was far-fetched...❞",
-      "Translation": "`朱鹭户@「你还知道你的想法是在牵强附会啊……」"
+      "Translation": "`朱鹭户@「你还知道你的想法是在牵强附会啊…」"
     },
     {
       "JP": "`理樹@「いいよ、ここからは僕が説明しよう」",
@@ -1558,7 +1558,7 @@
     {
       "JP": "`朱鷺戸@「誰によ…」",
       "EN": "`Tokido@❝To whom...❞",
-      "Translation": "`朱鹭户@「跟谁解释啊……」"
+      "Translation": "`朱鹭户@「跟谁解释啊…」"
     },
     {
       "JP": "`理樹@「つまりもう半分、隠された通路と部屋がある。そっちにトラップと、謎解きの部屋があるんだと思う」",
@@ -1573,7 +1573,7 @@
     {
       "JP": "`理樹@「このマップはまだ未完成なんだと思うんだよ。例えば、こちら側に同じ形の通路が対称的に存在するとすれば…」",
       "EN": "`Riki@❝I think this map is still incomplete. For example, if there was a pathway around here...❞",
-      "Translation": "`理树@「我觉得这张地图还不完整。比如，如果这边有一个对称的通路……」"
+      "Translation": "`理树@「我觉得这张地图还不完整。比如，如果这边有一个对称的通路…」"
     },
     {
       "JP": "マジックでその部分を付け足す。",
@@ -1608,7 +1608,7 @@
     {
       "JP": "`理樹@「このマップはまだ未完成なんだと思うんだよ。例えば、こういうふうに通路を足していくと…」",
       "EN": "`Riki@❝I think this map is still incomplete. For example, if there was a pathway around here...❞",
-      "Translation": "`理树@「我觉得这张地图还不完整。比如，如果这边有一个通路……」"
+      "Translation": "`理树@「我觉得这张地图还不完整。比如，如果这边有一个通路…」"
     },
     {
       "JP": "マジックでその部分を付け足す。",
@@ -1623,12 +1623,12 @@
     {
       "JP": "`理樹@「うわああぁぁ…僕らはもう、呪われてるんだっ！　死は避けられないんだ！」",
       "EN": "`Riki@❝Uwaaaaaaaa... We are being cursed!　We cannot escape death!❞",
-      "Translation": "`理树@「哇啊啊啊啊……我们已经被诅咒了！无法逃避死亡了！」"
+      "Translation": "`理树@「哇啊啊啊啊…我们已经被诅咒了！无法逃避死亡了！」"
     },
     {
       "JP": "`朱鷺戸@「すごく強引に『死』にしたわね…」",
       "EN": "`Tokido@❝That was really forced...❞",
-      "Translation": "`朱鹭户@「你硬是把它变成『死』了啊……」"
+      "Translation": "`朱鹭户@「你硬是把它变成『死』了啊…」"
     },
     {
       "JP": "`朱鷺戸@「あ、でもこうしたら、簡単に『王』の字になるんじゃない？」",
